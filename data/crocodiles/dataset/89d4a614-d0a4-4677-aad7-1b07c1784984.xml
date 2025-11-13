@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="89d4a614-d0a4-4677-aad7-1b07c1784984"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/fsyini</alternateIdentifier>
+        <alternateIdentifier>89d4a614-d0a4-4677-aad7-1b07c1784984</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sibm/resource?r=unal-vertebrados-malaga2021</alternateIdentifier>
+        <title>Inventario de vertebrados de Bahía Málaga usando un enfoque integrativo</title>
+        <creator>
+            <individualName>
+                <givenName>Esteban</givenName>
+                <surName>Betancourt</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Investigador Principal</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>requinonesb@unal.edu.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ana María</givenName>
+                <surName>Saldarriaga</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Natalia</givenName>
+                <surName>Perez-Amaya</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Catalina</givenName>
+                <surName>Cárdenas-González</surName>
+            </individualName>
+            <organizationName>Las Palmitas Centro de Investigación</organizationName>
+            <positionName>Investigadora</positionName>
+            <electronicMailAddress>ccardenasgo@unal.edu.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Augusto R</givenName>
+                <surName>Acosta-Peña</surName>
+            </individualName>
+            <organizationName>Pontificia Universidad Javeriana</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>acostaaugusto06@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Santiago</givenName>
+                <surName>Rosado</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Felipe</givenName>
+                <surName>Rojas-Bautista</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Darwin M</givenName>
+                <surName>Morales-Martínez</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dmmoralesmar@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Andrés Felipe</givenName>
+                <surName>Sierra</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Juan David</givenName>
+                <surName>Valencia-Velasco</surName>
+            </individualName>
+            <organizationName>Las Palmitas Centro de Investigación</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Miguel</givenName>
+                <surName>Rodríguez-Posada</surName>
+            </individualName>
+            <organizationName>Las Palmitas Centro de Investigación</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>director.cientifico@lapalmita.com.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Andrés M</givenName>
+                <surName>Cuervo</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Joan Gastón</givenName>
+                <surName>Zamora</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jogzamoraab@unal.edu.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jimmy Jolman</givenName>
+                <surName>Vargas</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jjvargasd@unal.edu.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Mario</givenName>
+                <surName>Vargas Ramírez</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>maavargasra@unal.edu.co</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Catalina</givenName>
+                <surName>Sanchez-Posada</surName>
+            </individualName>
+            <organizationName>Comisión Colombiana del Océano</organizationName>
+            <positionName>Asesora Ecosistemas Estratégicos del Pacífico</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>ecosistemaspacifico@cco.gov.co</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Maikol</givenName>
+                <surName>Valencia</surName>
+            </individualName>
+            <organizationName>Comunidad Miramar</organizationName>
+            <positionName>Colaborador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Isabelino</givenName>
+                <surName>Valencia</surName>
+            </individualName>
+            <organizationName>Comunidad Miramar</organizationName>
+            <positionName>Colaborador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Gustavo</givenName>
+                <surName>Asprilla</surName>
+            </individualName>
+            <organizationName>Comunidad Juanchaco</organizationName>
+            <positionName>Colaborador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Michael</givenName>
+                <surName>Palacio</surName>
+            </individualName>
+            <organizationName>Comunidad Ladrilleros</organizationName>
+            <positionName>Colaborador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Yilmar</givenName>
+                <surName>Perea</surName>
+            </individualName>
+            <organizationName>Comunidad Ladrilleros</organizationName>
+            <positionName>Colaborador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Consejo Comunitario de la Comunidad Negra de Juanchaco</surName>
+            </individualName>
+            <organizationName>Consejo Comunitario de la Comunidad Negra de Juanchaco</organizationName>
+            <positionName>Consejo Comunitario</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>https://www.facebook.com/CCCNJuanchaco/?locale=es_LA</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Consejo Comunitario de la Comunidad Negra de Ladrilleros</surName>
+            </individualName>
+            <organizationName>Consejo Comunitario de la Comunidad Negra de Ladrilleros</organizationName>
+            <positionName>Consejo Comunitario</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>https://consejos.etnoterritorios.org/es/listado-de-consejos?id=e58c205e42dacdcca86301971eff04f6</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Consejo Comunitario de la Comunidad Negra de La Barra</surName>
+            </individualName>
+            <organizationName>Consejo Comunitario de la Comunidad Negra de La Barra</organizationName>
+            <positionName>Consejo Comunitario</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>https://guiaturisticadebuenaventura.gov.co/destinos-turisticos/maritimos/consejo-comunitario-de-la-comunidad-negra-la-barra/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Consejo Comunitario de la Comunidad Negra de Puerto España</surName>
+            </individualName>
+            <organizationName>Consejo Comunitario de la Comunidad Negra de Puerto España</organizationName>
+            <positionName>Consejo Comunitario</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Consejo Comunitario de la Comunidad Negra de La Plata</surName>
+            </individualName>
+            <organizationName>Consejo Comunitario de la Comunidad Negra de La Plata</organizationName>
+            <positionName>Consejo Comunitario</positionName>
+            <onlineUrl>https://proyecto.soydebuenaventura.com/destinos-turisticos/maritimos/consejo-comunitario-de-la-comunidad-negra-la-plata-bahia-malaga/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-12-21
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            El objetivo principal de este estudio fue recopilar información sobre la diversidad de vertebrados terrestres, incluyendo aves, herpetofauna y mamíferos del Parque Nacional Natural Bahía Málaga, una región que alberga una alta biodiversidad, especies endémicas poco conocidas y falta de información sobre su historia natural. Durante la expedición, se utilizaron diversos métodos de avistamiento y captura en el campo, involucrando tres grupos de tres personas para cada grupo biológico. La identificación de especies se basó en análisis morfológicos de los individuos capturados, complementados con información de sonidos y técnicas moleculares como el Barcoding. Los resultados obtenidos entre noviembre y diciembre de 2021 proporcionaron una lista inicial de 396 registros con 82 especies de aves, anfibios, reptiles y mamíferos pequeños voladores presentes en el Parque Nacional Natural Bahía Málaga.
+        </abstract>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Anura</keyword>
+            <keyword>Anfibios</keyword>
+            <keyword>Squamata</keyword>
+            <keyword>Aves</keyword>
+            <keyword>16S</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>SiB_MARINO</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sibm/archive.do?r=unal-vertebrados-malaga2021</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Parque Nacional Natural Uramba Bahía Málaga. Ubicado en el departamento del Valle del Cauca, municipio de Buenaventura.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-11-19
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-12-10
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Los resultados revelaron la presencia de 29 especies de anfibios y reptiles, con un total de 99 ejemplares recolectados. También se logró una colección de referencia de aves con 40 especímenes preservados y muestras de tejido y sangre. En el caso de los mamíferos, se enfocaron en murciélagos y capturaron 214 individuos de 22 especies, recolectando especímenes y muestras de tejido. Se obtuvieron secuencias genéticas de 27 especies de pequeños mamíferos, revelando diversidad genética y posibles nuevas especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alligatoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alopoglossidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Boidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bufonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Cardinalidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Colubridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Corytophanidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Craugastoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dactyloidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dendrobatidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Eleutherodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Emballonuridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Furnariidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gekkonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Geoemydidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gymnophthalmidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hoplocercidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Kinosternidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Noctilionidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Parulidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phyllodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phyllostomidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pipridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Plethodontidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ranidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Rhinoclemmys nasuta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sphaerodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Strabomantidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Teiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Thamnophilidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Thraupidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Throchilidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Troglodytidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Turdidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Tyrannidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Vespertilionidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Viperidae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Esteban</givenName>
+                <surName>Betancourt</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Investigador Principal</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>requinonesb@unal.edu.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>La fase de campo para el muestreo de Aves y Mamíferos pequeños voladores se llevó a cabo entre el 20 al 29 de noviembre del 2021, a lo largo de 18 sitios de muestreo. Para el caso de la Herpetofauna, se llevaron a cabo muestreos del 19 al 29 de noviembre y del 5 al 11 de diciembre del 2021.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El levantamiento y caracterización de la fauna de anfibios y reptiles se llevó a cabo mediante dos metodologías principales. En primer lugar, se realizó una búsqueda libre sin restricciones durante el día y la noche, abarcando un área extensa. Durante el día, se buscó individuos termorregulando al sol y larvas en los cuerpos de agua, mientras que durante la noche se buscaron individuos adultos y juveniles. Se recolectaron especímenes para su determinación preliminar en campo. Además, se llevó a cabo una búsqueda selectiva en hábitats y microhábitats estratificados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la caracterización de la comunidad de aves, se realizaron registros estandarizados de detecciones visuales y auditivas en recorridos que abarcan diferentes microhábitats. Se utilizó el esfuerzo de muestreo en horas de detección por distancia recorrida. También se utilizaron redes de niebla para la captura selectiva de aves, con el fin de obtener muestras para estudios adicionales. Se registraron datos de identificación, medidas biométricas y se tomaron muestras de sangre.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para el estudio de los mamíferos, se utilizaron principalmente técnicas de captura. Se instalaron redes de niebla para la captura de murciélagos durante la noche. Los individuos capturados se procesaron en el campo, se tomaron medidas morfológicas y se registraron datos como el peso y el sexo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La confirmación de la identificación de los individuos registrados en la expedición se ha estado realizando a través de estudios morfológicos en las colecciones biológicas de referencia.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Adicionalmente, se realizarán extracciones de ADN de las muestras recolectadas en campo seguidas de amplificaciones mediante reacciones PCR para cuatro marcadores moleculares mitocondriales: Citocromo Oxidasa I (COI), Citocromo b (Cytb), Nicotinamida deshidrogenasa subunidad 2 (ND2) y 16S. Las muestras de ADN fueron procesadas por Alejandro Quiroga Camacho en el Laboratorio de Ecología Molecular de Vertebrados Acuáticos (LMVA) de la Universidad de los Andes.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las muestras de ADN recolectadas en campo se identificarán y comprobarán con las especies registradas en las bibliotecas de referencia del International Barcode of Life project (iBOL), Ratnasingham y Hebert (2013) y GenBank (NCBI, 2021). Adicionalmente, a través de la comparación de distancias genéticas y árboles filogenéticos con la información depositada en las bibliotecas de referencia, se podrá cuantificar el número potencial de linajes evolutivos diferentes no reconocidos por grupo, y a su vez identificar dichas variantes genéticas como especies candidatas confirmadas o no confirmadas, las cuales pueden ser usadas para evaluaciones de conservación.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La llanura del Pacífico conocida como Chocó biogeográfico se destaca por ser uno de los centros mundiales con mayor biodiversidad y endemismos (Mittermeier et al., 1999; Myers et al.,2000). Esta región alberga una amplia variedad de tipos de vegetación, como bosques de manglar, planos de inundación y bosques lluviosos tropicales que se extienden hasta la cordillera de los Andes (Poveda et al., 2004; Urrego y Berrio, 2004; Aguirre y Rangel, 2008).
+El parque presenta una extensión: 47.094 has. 137.34 millas náuticas. Altura: Entre 0 y 20 msnm. Clima: Cálido con lluvia permanente todo el año. Condiciones climáticas naturales: Marejadas: Juanchaco, la Barra y Puerto España y Miramar. Vendaval: La Plata Bahía Málaga, Chucheros, Juanchaco, Ladrilleros, la Barra y Puerto España y Miramar. Mareas máximas en las comunidades de La Plata Bahía Málaga, Chucheros, Juanchaco, Ladrilleros, la Barra y Puerto España y Miramar. Temperatura: 18º C – 25º C, la temperatura superficial del agua es de 27º C. Ecosistemas: Bosque muy húmedo tropical, playas, acantilados, Islas, el cuerpo de agua con fondos marinos blandos y rocosos.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El levantamiento y caracterización de la fauna de anfibios y reptiles se llevó a cabo mediante dos metodologías principales: búsqueda libre sin restricciones durante el día y la noche y una búsqueda selectiva en hábitats y microhábitats estratificados. Para la caracterización de la comunidad de aves, se realizaron registros estandarizados de detecciones visuales y auditivas en recorridos que abarcan diferentes microhábitats; además, de redes de niebla para la captura selectiva de aves. Para el estudio de los mamíferos, se utilizaron principalmente técnicas de captura. Se instalaron redes de niebla para la captura de murciélagos durante la noche.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="Expedición Científica Pacífico 2021-II Bahía Málaga">
+                <title>Completando el inventario de vertebrados de Bahía Málaga  usando un enfoque integrativo</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Esteban</givenName>
+                    <surName>Betancourt</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para>La Expedición Científica Pacífico 2021-II Bahía Málaga se llevó a cabo del 19 de noviembre al 13 de diciembre de 2021 en el área marino-costera de Bahía Málaga, departamentos del Valle del Cauca, para un total de 24 días de operación total. A través de la coordinación interinstitucional liderada por la Secretaría Ejecutiva de la Comisión Colombiana del Océano, el Ministerio de Ciencia, Tecnología e Innovación, la Armada de Colombia, la Dirección General Marítima, Parques Nacionales Naturales de Colombia, la Universidad Nacional de Colombia y el Esquema de Manejo Conjunto del Parque Nacional Natural Uramba-Bahía Málaga, diecisiete (17) instituciones del orden nacional e internacional aunaron esfuerzos para el desarrollo de diez (10) proyectos de investigación, con el fin de fortalecer la generación de conocimiento integral sobre el territorio marino-costero del Golfo de Tortugas, Pacífico colombiano. De esta manera, los proyectos realizados contribuyeron con el desarrollo de cuatro (4) áreas temáticas del Programa Nacional de Ciencias del Mar y los Recursos Hidrobiológicos: biodiversidad y ecosistemas marinos y costeros, componente físico del medio marino, calidad ambiental marino-costera, ingenierías y tecnologías aplicadas y cultura y educación marino-costera.  El objetivo principal de este estudio fue recopilar información sobre la diversidad de vertebrados terrestres, incluyendo aves, herpetofauna y mamíferos del Parque Nacional Natural Bahía Málaga, una región que alberga una alta biodiversidad, especies endémicas poco conocidas y falta de información sobre su historia natural. Durante la expedición, se utilizaron diversos métodos de avistamiento y captura en el campo, involucrando tres grupos de tres personas para cada grupo biológico. La identificación de especies se basó en análisis morfológicos de los individuos capturados, complementados con información de sonidos y técnicas moleculares como el Barcoding. Los resultados obtenidos proporcionaron una lista inicial de especies de aves, anfibios, reptiles y mamíferos pequeños voladores presentes en el Parque Nacional Natural Bahía Málaga.</para>
+                </abstract>
+                <funding>
+                    <para>•	Programa Colombia Bio del Ministerio de Ciencia, Tecnología e Innovación
+•	Armada de Colombia
+•	Dirección General Marítima
+•	Secretaría Ejecutiva de la Comisión Colombiana del Océano
+•	Parques Nacionales Naturales del Colombia
+•	Universidad Nacional de Colombia
+•	Contrapartida de las entidades, instituciones y fundaciones participantes</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>La llanura del Pacífico conocida como Chocó biogeográfico se destaca por ser uno de los centros mundiales con mayor biodiversidad y endemismos (Mittermeier et al., 1999; Myers et al.,2000). Esta región alberga una amplia variedad de tipos de vegetación, como bosques de manglar, planos de inundación y bosques lluviosos tropicales que se extienden hasta la cordillera de los Andes (Poveda et al., 2004; Urrego y Berrio, 2004; Aguirre y Rangel, 2008).</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>El levantamiento y caracterización de la fauna de anfibios y reptiles se llevó a cabo mediante dos metodologías principales. En primer lugar, se realizó una búsqueda libre sin restricciones durante el día y la noche, abarcando un área extensa. Durante el día, se buscó individuos termorregulados al sol y larvas en los cuerpos de agua, mientras que durante la noche se buscó individuos adultos y juveniles. Se recolectaron especímenes para su determinación preliminar en campo. Además, se llevó a cabo una búsqueda selectiva en hábitats y microhábitats estratificados. Para la caracterización de la comunidad de aves, se realizaron registros estandarizados de detecciones visuales y auditivas en recorridos que abarcan diferentes microhábitats. Se utilizó el esfuerzo de muestreo en horas de detección por distancia recorrida. También se utilizaron redes de niebla para la captura selectiva de aves, con el fin de obtener muestras para estudios adicionales. Se registraron datos de identificación, medidas biométricas y se tomaron muestras de sangre. Para el estudio de los mamíferos, se utilizaron principalmente técnicas de captura. Se instalaron redes de niebla para la captura de murciélagos durante la noche. Los individuos capturados se procesaron en el campo, se tomaron medidas morfológicas y se registraron datos como el peso y el sexo.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:24Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/fsyini">Betancourt E, Saldarriaga A M, Perez-Amaya N, Cárdenas-González C, Acosta-Peña A R, Rosado S, Rojas-Bautista F, Morales-Martínez D M, Sierra A F, Valencia-Velasco J D, Rodríguez-Posada M, Cuervo A M, Zamora J G, Vargas J J, Vargas Ramírez M, Sanchez-Posada C (2023). Inventario de vertebrados de Bahía Málaga usando un enfoque integrativo. Version 1.1. Universidad Nacional de Colombia. Occurrence dataset https://doi.org/10.15472/fsyini accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-unal.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>ICN-MNH</parentCollectionIdentifier>
+                    <collectionIdentifier>https://scientific-collections.gbif.org/collection/32b51f25-9fb2-4086-8631-0b60a0adca1c</collectionIdentifier>
+                    <collectionName>Colección de Zoología del Instituto de Ciencias Naturales de la Universidad Nacional de Colombia</collectionName>
+                </collection>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="4864a414-6138-432a-9197-0405afce96bf"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/5onnm3</alternateIdentifier>
+        <alternateIdentifier>4864a414-6138-432a-9197-0405afce96bf</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=ecopetrol_medina</alternateIdentifier>
+        <title>Biodiversidad asociada al Estudio de Impacto Ambiental para la Modificación del Área de Perforación Exploratoria Medina Occidental</title>
+        <creator>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Gerencia de Gestión Ambiental y Relacionamiento</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Concol by WSP</surName>
+            </individualName>
+            <organizationName>Concol by WSP</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 20 Nº 37-28</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+5712875300</phone>
+            <electronicMailAddress>sandra.bernal@wsp.com</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Gerencia de Gestión Ambiental y Relacionamiento</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2022-08-10
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Nota aclaratoria: Los datos en esta publicación están asociados a un proceso de modificación de la Licencia Ambiental, proceso que actualmente se encuentra en trámite de aprobación por la autoridad ambiental competente.
+
+El Estudio de Impacto Ambiental para la Modificación de la Licencia Ambiental del Área de Perforación Exploratoria Medina Occidental, otorgada por el Ministerio del Medio Ambiente, hoy Ministerio de Ambiente, Vivienda y Desarrollo a través de la Resolución 0373 de 1998 a Ecopetrol S.A., esta área hace parte de los proyectos de exploración en el proceso de búsqueda de hidrocarburos en las zonas señaladas como potenciales por los estudios geológicos en Colombia.</para>
+<para>Es importante mencionar que uno de los propósitos de la solicitud de modificación de la licencia ambiental es la ampliación del área APE Medina Occidental. Donde se pretente ampliar con el propósito de permitir el desarrollo de actividades adicionales a las autorizadas por la autoridad ambiental mediante la Resolución 0373 de 1998.
+
+Los objetivos de este estudio fueron:
+1) Describir y caracterizar la infraestructura existente.
+2) Describir las actividades para el APE Medina Occidental que enmarcan el proceso de modificación de la licencia ambiental, las actividades de tipo constructivo y operativo, actividades de desmantelamiento, abandono y restauración y finalmente las actividades transversales que se derivan de estas estrategias.
+3) Identificar y caracterizar las condiciones actuales de los medios abiótico, biótico, socioeconómico y cultural, con el propósito de establecer la línea base y estado actual de las áreas de influencia del proyecto; siendo sintetizada las características de sensibilidad e importancia en la zonificación ambiental. Incluyendo en el proceso de caracterización los servicios ecosistémicos presentes en el área de influencia del proyecto.</para>
+<para>Este recurso contiene un total de 24.013 registros, abarcando 6 reinos, 27 filos, 49 clases, 152 ordenes, 363 familias, 775 géneros y 827 especies. Los datos han sido tomados a lo largo de los años 2019 a 2021 en los municipios de Medina, Paratebueno y Ubalá del departamento de Cundinamarca y el municipio de Santa María del departamento de Boyacá.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Flora</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Especies en veda</keyword>
+            <keyword>Flora fustal</keyword>
+            <keyword>Hidrobiología</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keyword>Sector empresarial</keyword>
+            <keyword>Alianza SiB Colombia ANDI</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Este conjunto de datos fue publicado con el apoyo del proyecto CESP “OpenPSD – Engage and promote the private sector in open biodiversity data publication (ID CESP2019-004)”, y la alianza con la Asociación Nacional de Empresarios de Colombia (ANDI) a través de su iniciativa “Biodiversidad y Desarrollo” (Datos abiertos sobre biodiversidad desde el sector empresarial). Agradecemos la colaboración y el incentivo para compartir datos desde el sector empresarial. 
+This dataset was published with support of the CESP project “OpenPSD – Engage and promote the private sector in open biodiversity data publication (ID CESP2019-004)”, and the alliance with the National Business Association of Colombia (ANDI) through its initiative &quot;Biodiversity and Development&quot; (Biodiversity open data from the private sector). We are grateful with the colaboration and incentive to share data from the private sector.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=ecopetrol_medina</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los daros fueron tomados al interior del Área de Perforación Exploratoria-Medina Occidental que tiene un área de 11.057,17 hectareas Adicional a lo anterior, se contempla la inclusión de la vía que permitirá el acceso al APE, para el desarrollo de dichas actividades. El APE Medina Occidental y su vía de acceso. Están localizados en jurisdicción de los municipios de Santa María, Ubalá, Medina y Paratebueno pertenecientes al municipio de Boyacá y Cundinamarca.
+
+Se ubica en tres zonas de vida, el Bosque muy húmedo tropical (bmh-T) que ocupa el 98,8% del área de influencia, inlcuyendo la totalidad del área de perforación exploratoria; el Bosque muy húmedo premontano localizado al sur del APE, específicamente en el sector inicial de la vía que comunica la Marginal de la selva, con el proyecto, ocupando el 0.35% de dicha área de influencia. Y el Bosque pluvial premontano localizado en un pequeño sector al occidente del área de influencia fisicobiótica, ocupando el 0.84% del dicha área.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.382</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.219</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.785</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.394</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2019-07-26
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-03-18
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este recurso contiene un total de 24.013 registros biológicos, pertenecientes a 6 reinos, con un 68% clasificado a nivel de especie, 29% hasta género y 3% a categorías superiores.
+El reino Plantae contiene 15.796 registros, comprendiendo plantas vasculares y no vasculares. Agrupadas en 16 clases diferentes, 59 ordenes, 137 familias y 339 géneros. Un 77% esta clasificado a nivel de especie, 22% a género y 1% a familia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Anthocerotopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Chlorophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Conjugatophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Equisetopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Florideophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lycopodiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Poales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Trebouxiophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Ulvophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Zygnematophyceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Animalia contiene 3.121 registros, pertenecientes a 19 clases, 54 ordenes, 156 familias, 307 géneros y 320 especies. Con un 65% clasificado a nivel de especie, 17% a género, 10% a familia, 5% a subfamilia y 3% a categorías superiores.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arachnida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bdelloidea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bivalvia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Clitellata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Collembola</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotatoria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Gastropoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Hirudinea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Malacostraca</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Maxillopoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Oligochaeta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Ostracoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Turbellaria</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Fungi contiene 2.771 registros, pertenecientes a 5 clases, 12 ordenes, 27 familias, 59 géneros y 106 especies. Con un 71% clasificado a nivel de especie y 28% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Agaricomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Dothideomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Chromista contiene 1.901 registros, pertenecientes a 7 clases, 20 ordenes, 29 familias y 42 géneros. Con un 100% clasificado a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bacillariophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Ciliatea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Coscinodiscophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Cryptophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Filosia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Synurophyceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Bacteria contiene 296 registros, pertenecientes a 1 clase, 5 ordenes, 9 familias y 19 géneros. Con un 100% clasificado a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Cyanobacteriia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Bacteria contiene 296 registros, pertenecientes a 3 clases, 3 ordenes, 7 familias y 9 géneros. Con un 81% clasificado a nivel de género y 18% a especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Euglenoidea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Filosia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lobosa</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <surName>Gerencia de Gestión Ambiental y Relacionamiento</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A.</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Flora- Vascular:
+Para flora vascular se realiza una evaluación por medio de  parcelas según el tipo de vegetación y el estrato a evaluar. Paras fustales, latizales y brinzales se realizará la caracterización de la vegetación terrestre con 5 parcelas por ecosistema, o el número requerido por los términos de referencia establecidos por la Autoridad Ambiental.
+
+Bosque y Vegetación secundaria alta-Fustales: Parcelas de muestreo de 0,1 ha (1000 m2), en rectángulo de 100 x 10 m (1 ha).
+Bosque y Vegetación secundaria alta-Latizales: Parcelas de muestreo en cuadrantes de 5 x5m (0,025 ha).
+Bosque y Vegetación secundaria alta-Brinzal: Parcelas de muestreo en cuadrantes de 2 x2m (0,0004 ha).	
+Vegetación secundaria baja-Fustal: Parcelas de muestreo en cuadrantes de 10 x 10m (0,01 ha).
+Vegetación secundaria baja-Latizal: Parcelas de muestreo de 5m x 5m (0,025 ha).
+Vegetación secundaria baja-Brinzal: Parcelas de muestreo de 2m X 2m (0,0004 ha).
+Herbazales- Estrato herbáceo y rasante:	Para herbazales en los cuales la presencia de gramíneas tipo macolla, se realizarán parcelas de 2x2m, se realizará la caracterización con 20 parcelas por ecosistema. Para misceláneos de herbáceas de porte bajo y arbustos dispersos, se establecerán parcelas de 5x5 m con 5 parcelas por ecosistema.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Flora- No vascular: El levantamiento de la información de campo fue desarrollado por una cuadrilla que realizó diferentes recorridos en el Área de Perforación Exploratoria – APE Medina Occidental, con el fin de verificar la presencia de especies forestales y helechos arbóreos en veda nacional en estado fustal (DAP ≥ 10 cm), latizal (Altura &gt; 1,50 cm, DAP &lt; 10 cm) y brinzal (Altura 0,30 – 1,5 m, DAP no aplica). Y, por otra parte, se tuvo en cuenta la información obtenida de las comisiones de flora que realizaron parcelas de caracterización dentro del APE.
+El muestreo para las especies epífitas se realizó teniendo como referencia el Protocolo para un Análisis Rápido y Representativo de la Diversidad de Epífitas (RRED – Analysis) propuesto por (Gradstein, Nadkarni, Kromer, Holz, &amp; Noske, 2003), según el cual se mide con base en el muestreo de una hectárea de bosque ocho (8) forófitos maduros para especies vasculares y líquenes, y cinco (5) forófitos para briofitos. Esta metodología fue adaptada, de tal manera que en cada punto de muestreo se realizó el levantamiento de 8 forófitos en una hectárea en los cuales se evaluaron las especies vasculares y no vasculares.
+Para la caracterización de las especies no vasculares en forófitos arbóreos se evaluó un área máxima de 1.600 cm2 en cada uno de los estratos 1, 2a, 2b; con el fin de registrar las morfoespecies a través de la implementación de una plantilla de acetato de 40 cm x 40 cm.
+Para el muestreo especies vasculares y no vasculares en los sustratos terrestre y rupícola se realizó a el levantamiento de una parcela de 1 x 1 m (dentro de las parcelas de caracterización de epífitas) registrando los datos de abundancia para especies vasculares y se estimó la cobertura en cm2 de especies no vasculares con ayuda de una cuadricula de acetato de 40 x 40 cm.
+
+Las muestras colectadas, se depositaron en bolsas independientes con un número de identificación, relacionado en la libreta de campo, con muestras suficientes para al menos un exicado y su duplicado. Con información de localidad, comentarios, estado, etc.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fauna- Mamiferos:
+Para el levantamiento de información en campo de este grupo, se utilizan principalmente métodos directos que involucra la captura de los individuos para luego anotar los datos más relevantes de estos para su posterior identificación taxonómica. De manera complementaria, se utilizan métodos indirectos que se relacionan con los rastros e indicios de presencia de las especies potenciales en el área de influencia del A.P.E. Medina que no se registraron mediante los métodos directos.
+
+Los métodos directos que se utilizarán para el levantamiento de la información en el A.P.E. Medina son los siguientes: Métodos directos: Trampas Sherman, Trampas Tomahawk, Redes de niebla y Cámaras trampa. Métodos indirecto: Detección de rastros y Entrevistas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fauna- Aves:
+
+Para llevar a cabo el monitoreo de avifauna, se llevarán a cabo los métodos:
+Conteo por puntos extensivos: 
+Se realizará un recorrido de mínimo dos (2) km, lo cual dependerá de las condiciones climáticas y del terreno), o de tres (3) km, si son hábitats muy diversos y el terreno lo permite; lo anterior, durante las horas de mayor actividad de las aves, es decir las primeras horas de la mañana (5:30-10:30 horas) y de ser posible hacia el final de la tarde (15: 30 - 18:30) en absoluto silencio.
+
+Captura con redes de niebla: Se seleccionará una estación de monitoreo por cada cobertura visitada, para instalar en cada estación una serie de manejo y operación de 10 redes de niebla de 10x2.4 m y12x2.5 m y ojo de malla de 32 mm operando simultáneamente, en el sitio seleccionado en el que se tenga facilidad de acceso y certeza. Todos los individuos serán liberados en el mismo lugar donde fueron capturados, en un sector en donde no exista una alta probabilidad de que vuelva a enredarse en las redes o que sea depredado.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fauna- Herpetofauna:
+Para llevar a cabo la caracterización de herpetofauna se llevarán a cabo el método de Detecciones mediante Encuentro Visual (VES), que consiste en la búsqueda libre, sin restricciones realizando observaciones y conteo de individuos (anfibios y reptiles) a lo largo de recorridos de distancia fija o aleatoria, generalmente durante un tiempo previamente definido y; entrevistas no formales a los lugareños.
+
+Detecciones mediante Encuentro Visual (VES):
+Dichos recorridos se realizarán en dos (2) periodos de tiempo (mañana y noche), cada uno con tres (3) horas mínimas efectivas de muestreo. Los recorridos se podrán realizar entre las 7:00 a las 12:00 horas con el fin de observar y registrar especies con hábitos diurnos, principalmente reptiles, lagartos y serpientes (según el tipo de hábitat y su probabilidad de encuentro), y entre las 18:00 a las 23:00 horas con la intención de registrar especies crepusculares y nocturnas. En caso de que, por seguridad física, orden público, restricciones de accesos u otras razones, no se puedan realizar los recorridos nocturnos, éstos se llevarán a cabo en horas de la tarde, hasta el horario que las condiciones de seguridad lo permitan, siempre teniendo en cuenta que se debe cumplir con el esfuerzo de muestreo de mínimo seis (6) horas diarias. Durante los recorridos se revisarán los microhábitats potenciales como huecos de árboles, charcas, bromelias y se hará remoción de rocas, troncos caídos, hojarasca y vegetación en descomposición con ayuda de rastrillo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Hidrobiológicos: Se realizaron muestreos de fitoplancton, zooplancton, perifiton, macroinvertebrados acuáticos, vegetación acuática (Macrófitas) y peces, en las corrientes de interés determinadas para la caracterización del componente hídrico según las propuestas para el uso y aprovechamiento del recurso en el desarrollo de las actividades de exploración, como se mencionó anteriormente.
+
+El monitoreo del componente hidrobiológico estuvo a cargo del laboratorio ambiental CIMA, el cual cuenta con acreditación IDEAM, bajo la resolución 02119 del 24 de octubre de 2019.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Hidrobiológicos- Perifiton: Para el muestreo del perifiton se identificaron elementos del sustrato que sirven de puntos de fijación y establecimiento, como piedras, hojarasca, troncos y detritos. Sobre estos, se realizó un raspado suave y superficial utilizando un cuadrante de 9 cm2 y un cepillo, Fotografía 2.22. Se limpió suavemente el área del cuadrante y se almacenó la muestra en frascos de 500 mL. El esfuerzo de muestreo empleado fue igual a diez (10) sub muestras por estación de muestreo, que corresponden a 90 cm2 (0,9m2) de área muestreada; las sub muestras formaron una sola muestra compuesta que contiene la variabilidad de ambientes en cada estación.
+Preservación y transporte de muestras:
+Las muestras fueron preservadas en solución de Lugol y almacenadas en frascos de 500 mL. Posteriormente las muestras fueron debidamente etiquetadas. El material colectado y preservado fue transportado en neveras contenedoras plásticas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Hidrobiológicos- Fitoplancton y zooplancton: La colecta de la muestra de los organismos planctónicos se realizó empleando redes cónicas de plancton con apertura de ojo de malla de 20 μm para fitoplancton y 80 μm para zooplancton.
+El agua filtrada en las mallas fue tomada directamente del cuerpo de agua mediante un recipiente aforado con lo cual se evaluó un volumen de agua conocido filtrado. 
+
+Preservación y transporte de muestras:
+El material colectado en el cono se almacenó en frascos de 500 mL. Las muestras de fitoplancton fueron preservadas en solución de Lugol, las muestras de zooplancton fueron preservadas en solución de Formol al 10%. Cada muestra fue etiquetada con información correspondiente a datos de lugar y fecha de colecta (dd/mm/aaaa), estación de muestreo (georreferenciación), colector y método de colecta. El material colectado y preservado fue transportado en neveras plásticas de 50L de capacidad selladas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Hidrobiológicos- Macroinvertebrados acuáticos: Para la captura de macroinvertebrados acuáticos en sistemas loticos someros (profundidad ≤30cm), se empleó una red Surber. de 30cm x 30cm (900cm2 de área). Se situó el dispositivo en el sustrato del cuerpo de agua, paralelo al flujo de la corriente, con la red dirigida aguas abajo (contracorriente) removiendo suavemente todo el material que se encuentre dentro del marco para desprender los organismos que estén fijos a él (APHA, 2005). En total se tomaron diez (10) sub muestras por estación de muestreo, que corresponden a 9000 cm2 (0,9 m2) de área muestreada.
+La muestra colectada se transfirió lentamente in situ, por una serie de tamices especialmente diseñados, evitando dañar o perder especímenes. Los tamices implementados con aberturas de malla de 1 y 5 cm retuvieron los materiales más grandes tales como hojas, palos conchas y grava, permitiendo el paso de los organismos y materiales más pequeños a un tamiz US Standard No. 30 que presenta una abertura de malla entre 0,595 y 0,600 mm (APHA, 2005).
+
+Preservación y transporte de muestras:
+Las muestras tamizadas se preservaron en etanol al 70% y fueron almacenadas en frascos plásticos de 500 mL. Cada muestra contó con etiquetas de campo que describen los datos de lugar y fecha de colecta (dd/mm/aaaa), estación de muestreo (georreferenciación), colector y método de colecta. El material colectado y preservado fue transportado en contenedores plásticos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Hidrobiológicos- Macrofitas acuáticas: Para identificar la composición, frecuencia, cobertura y densidad de la vegetación acuática, se emplearon cuadrantes de un 1m2 divididos en dieciséis (16) sub cuadrantes de 625 cm2. El muestreo con cuadrantes consistió en el registro de la frecuencia de especies en tres (3) cuadrantes cada uno de un 1 m2. Cuando posible, las plantas fueron colectadas en su pico de crecimiento, es decir cuando las flores y/o frutos estaban presentes, colectando toda la planta (tallos, rizomas, hojas, raíces, flores y frutos).
+
+Preservación y transporte de muestras:
+El material colectado, fue prensado en campo o envuelto en capas de papel y sumergido en alcohol al 70%. Se usó una nevera plástica con hielo triturado para el almacenamiento en campo y transporte (APHA, 2005).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Peces: Para el muestreo de la comunidad íctica se emplearon diferentes artes de pesca, dependiendo de las características particulares del cuerpo de agua y con el objeto de obtener la riqueza máxima posible, para que, de esta manera, se tenga como resultado un listado representativo de especies y sus abundancias relativas. 
+Los artes de pesca a usados fueron:
+
+Red de mano: Este arte de pesca consiste en un arco metálico el cual sostiene una red a manera de bolsillo, esta se sujeta por sus extremos y se sumerge a manera de barridos generalmente hacia las riberas de los ríos o en tapetes de Macrófitas en sistemas lenticos, aumentando su efectividad en aquellos cuerpos donde la vegetación riparia es alta y la profundidad es baja. Este método fue empleado una hora de arrastre de red por estación de muestreo.
+ii. Atarraya: Se usaron redes de Nylon de 1.5 cm de ojo de malla con 2.5 m de diámetro y de 2.5 cm de ojo de malla con 4m de diámetro, con pesas sintéticas en su extremo de abertura. El esfuerzo de muestreo fue de 30 lances realizados en cada una de las estaciones de muestreo o de acuerdo con la extensión que permitió el cuerpo de agua.
+iii. Red de Arrastre: Se emplearon redes lastradas de dimensiones 4.5 m de largo por 1.50 m de alto y 9m de largo por 1.60 m de alto, con una línea de plomos en su base y una de flotadores hacia la superficie. Para las capturas por arrastre se llevó inicialmente un extremo de la red adherida al sustrato avanzando hacia el centro aprovechando la corriente haciendo un semicírculo, manteniendo el otro extremo de la red relativamente fija pero avanzando despacio hacia la orilla siguiendo el avance del extremo opuesto de la red que avanza en la zona de mayor profundidad, con una estricta coordinación de ambos extremos; posteriormente, se va recogiendo la red arrastrándola hacia la orilla con la línea pesada siempre pegada al piso y reduciendo alternadamente la sección de los plomos y flotadores hasta concentrar los peces en una parte media. En cada estación de muestreo se realizaron arrastres por una (1) hora.
+Los peces capturados en cada punto de muestreo se introdujeron en una nevera plástica de 50 L con agua captada en el cuerpo de agua en estudio; una vez terminada la jornada de pesca en el punto, fueron caracterizados los ejemplares, y realizados los conteos para cada especie. En el caso ser especies comunes se realizó la identificación taxonómica en campo y los individuos fueron liberados en el menor tiempo posible, evitando así estrés post captura. Para las especies raras o de difícil determinación taxonómica se tomaron ejemplares como muestra, para su posterior análisis en laboratorio.
+
+Preservación y transporte de muestras:
+En el caso de requerir la identificación de alguna determinación taxonómica, se realizó la colecta de individuos por morfo tipo a corroborar. Los individuos colectados fueron anestesiados en una solución de esencia de clavo de olor. Para el trabajo ictiológico la solución fijadora más ampliamente usada es el formol al 10% de concentración, neutralizado con borato de sodio con el fin de evitar la descalcificación de los ejemplares. Los individuos de pequeño tamaño (&lt; 40 mm de longitud total) se pusieron directamente en la solución de formol al 10%; mientras que, a individuos de tamaños superiores al referenciado, se les inyectó con una jeringa el formol a través del ano, realizando perforaciones en los costados de los individuos, hasta que el mismo adquiera una consistencia rígida, lo cual garantiza una fijación completa de los tejidos (Maldonado- Ocampo, y otros, 2005).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Se ubica en tres zonas de vida, el Bosque muy húmedo tropical (bmh-T) que ocupa el 98,8% del área de influencia, inlcuyendo la totalidad del área de perforación exploratoria; el Bosque muy húmedo premontano localizado al sur del APE, específicamente en el sector inicial de la vía que comunica la Marginal de la selva, con el proyecto, ocupando el 0.35% de dicha área de influencia. Y el Bosque pluvial premontano localizado en un pequeño sector al occidente del área de influencia fisicobiótica, ocupando el 0.84% del dicha área.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se realizron diferentes metodologías para la caracterización biótica, evaluando flora (vascular y no vascula), fauna (aves, mamíferos y herpetos) y el componente hidrobiológico. Para caracterizar la composición florística se dividió en unidades de muestreo, se determinó de la siguiente manera: Bosque y Vegetación secundaria alta, y en vegetación secundaria baja, se realizó la caracterización de la vegetación terrestre con 5 parcelas por ecosistema, o el número requerido por los términos de referencia establecidos por la Autoridad Ambiental. Se identificó a un nivel taxonómico detallado (nivel de especie) los individuos inventariados, en el caso en el que no se identificó la especie en campo se colecto una muestra para su identificación, se tomaron en cuenta datos como la descripción de la planta, la localización, el hábitat, la altitud, nombres comunes y usos, datos del colector e identificador y la fecha.
+La caracterización se realizó de acuerdo con los parámetros establecidos en los términos de referencia M-M-INA-01 para la Elaboración del Estudio de Impacto Ambiental para Proyectos de Perforación Exploratoria de Hidrocarburos, así como los métodos y lineamientos establecidos en la Metodología General para la presentación de Estudios Ambientales expedida por el Ministerio de Ambiente y Desarrollo Sostenible – MADS en el 2018, y en el Manual de Métodos para el Desarrollo de inventarios de biodiversidad (Villarreal, y otros, 2006) diseñado por el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>ESTUDIO DE IMPACTO AMBIENTAL PARA LA MODIFICACIÓN DE LA LICENCIA AMBIENTAL DEL ÁREA DE PERFORACIÓN EXPLORATORIA - APE MEDINA OTORGADA POR LA RESOLUCIÓN 073 DE 1998</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Sandra Lidia</givenName>
+                    <surName>Zambrano Fajardo</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Angelica María</givenName>
+                    <surName>García Velasco</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <abstract>
+                    <para>El área de perforación exploratoria está inmersa dentro del área de influencia fisico-biotica del Estudio de Impacto Ambiental.
+
+El Ministerio del Medio Ambiente, hoy Ministerio de Ambiente, Vivienda y Desarrollo Territorial mediante la Resolución 373 del 6 de mayo de 1998, otorgó a la Empresa Colombiana de Petróleos-ECOPETROL S.A, la Licencia Ambiental para el proyecto Área de Perforación Exploratoria Medina Occidental, la cual se extiende por 7.063,63 ha y se localiza en jurisdicción de los municipios de Santamaría, departamento de Boyacá y Ubalá departamentos de Cundinamarca. 
+
+En el año 2007, por medio de la Resolución 2124, el Ministerio Autorizó la cesión de la Licencia Ambiental a favor de la sociedad LUKOIL OVERSEAS COLOMBIA LTD identificada con el NIT. 830.104.866-1, la cual, en el año 2018 cambia su razón social a NIKOIL ENERGY CORP. SUC. COLOMBIA, por medio de un certificado de existencia emitido por cámara de comercio de Bogotá. 
+
+Posteriormente, mediante la Resolución 02214 de 2018 emitida por Autoridad Nacional De Licencias Ambientales-ANLA la sociedad NIKOIL ENERGY CORP. SUC. COLOMBIA., cede a ECOPETROL S.A el total de los derechos y obligaciones contenidos en la Licencia Ambiental otorgada mediante la Resolución 337 del 6 de mayo de 1998 para el proyecto Área de Perforación Exploratoria Medina Occidental, así como todos los actos administrativos contenidos en el expediente LAM1631. 
+
+Estudio de Impacto Ambiental-EIA para la modificación de la Licencia Ambiental del Área de Perforación Exploratoria - APE Medina Occidental, pretende ampliar el área licenciada, con el fin, de tener una mayor extensión y así mismo una mayor capacidad de maniobra para las actividades requeridas en este proyecto.</para>
+                </abstract>
+                <funding>
+                    <para>Ecopetrol.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El Área de Perforación Exploratoria – APE Medina Occidental, se encuentra dentro del Mapa de Tierras de la Agencia Nacional de Hidrocarburos–ANH, en el Bloque denominado Cóndor. Cuenta con licencia ambiental otorgada mediante la Resolución 0373 de 1998, tiene un área de 7.063,63 ha y se localiza en jurisdicción de los municipios de Santa María y Ubalá pertenecientes a los departamentos de Boyacá y Cundinamarca respectivamente.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:33Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/5onnm3">Ecopetrol S.A., Concol by WSP (2022). Biodiversidad asociada al Estudio de Impacto Ambiental para la Modificación del Área de Perforación Exploratoria Medina Occidental. Version 1.4. Ecopetrol S.A.. Occurrence dataset https://doi.org/10.15472/5onnm3 accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>1329159_apemedina_112020</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=1329159_apemedina_112020</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/ecp.jpg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>HT</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 245</collectionIdentifier>
+                    <collectionName>Herbario Tropical</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>UDBC</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 25</collectionIdentifier>
+                    <collectionName>Herbario Forestal UDBC &quot;Guillermo Emilio Mahecha Vega&quot;</collectionName>
+                </collection>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

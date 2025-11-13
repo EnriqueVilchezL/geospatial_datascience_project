@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="053d3e84-a440-42ae-a8ab-acda381469bb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/ccwj8u</alternateIdentifier>
+        <alternateIdentifier>053d3e84-a440-42ae-a8ab-acda381469bb</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.us/resource?r=roadkill-109</alternateIdentifier>
+        <title>Roadkill Reports - Powered by Anecdata.org</title>
+        <creator>
+            <individualName>
+                <givenName>Jane</givenName>
+                <surName>Disney</surName>
+            </individualName>
+            <organizationName>MDI Biological Laboratory</organizationName>
+            <positionName>Associate Professor of Environmental Health</positionName>
+            <address>
+                <deliveryPoint>159 Old Bar Harbor Rd.</deliveryPoint>
+                <city>Bar Harbor</city>
+                <administrativeArea>ME</administrativeArea>
+                <postalCode>04609</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>jdisney@mdibl.org</electronicMailAddress>
+            <onlineUrl>https://mdibl.org/faculty/jane-e-disney-ph-d/</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0003-4869-9802</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Cait</givenName>
+                <surName>Bailey</surName>
+            </individualName>
+            <organizationName>MDI Biological Laboratory</organizationName>
+            <positionName>Systems Developer</positionName>
+            <address>
+                <deliveryPoint>159 Old Bar Harbor Rd.</deliveryPoint>
+                <city>Bar Harbor</city>
+                <administrativeArea>ME</administrativeArea>
+                <postalCode>04609</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>cait@mdibl.org</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Anecdata.org Contributors</surName>
+            </individualName>
+            <organizationName>Anecdata.org</organizationName>
+            <positionName>Data Contributors</positionName>
+            <onlineUrl>https://anecdata.org/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ashley</givenName>
+                <surName>Taylor</surName>
+            </individualName>
+            <organizationName>MDI Biological Laboratory</organizationName>
+            <positionName>Community Manager</positionName>
+            <address>
+                <deliveryPoint>159 Old Bar Harbor Rd.</deliveryPoint>
+                <city>Bar Harbor</city>
+                <administrativeArea>ME</administrativeArea>
+                <postalCode>04609</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>ataylor@mdibl.org</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Alexis</givenName>
+                <surName>Garretson</surName>
+            </individualName>
+            <organizationName>MDI Biological Laboratory</organizationName>
+            <positionName>Community Environmental Health Laboratory Manager</positionName>
+            <address>
+                <deliveryPoint>159 Old Bar Harbor Rd.</deliveryPoint>
+                <city>Bar Harbor</city>
+                <administrativeArea>ME</administrativeArea>
+                <postalCode>04609</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>agarretson@mdibl.org</electronicMailAddress>
+            <onlineUrl>https://alexis-catherine.github.io/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-7260-0131</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Alexis</givenName>
+                <surName>Garretson</surName>
+            </individualName>
+            <organizationName>MDI Biological Laboratory</organizationName>
+            <positionName>Community Environmental Health Laboratory Manager</positionName>
+            <address>
+                <deliveryPoint>159 Old Bar Harbor Rd.</deliveryPoint>
+                <city>Bar Harbor</city>
+                <administrativeArea>ME</administrativeArea>
+                <postalCode>04609</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>agarretson@mdibl.org</electronicMailAddress>
+            <onlineUrl>https://alexis-catherine.github.io/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-7260-0131</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Alexis</givenName>
+                <surName>Garretson</surName>
+            </individualName>
+            <organizationName>MDI Biological Laboratory</organizationName>
+            <positionName>Community Environmental Health Laboratory Manager</positionName>
+            <address>
+                <deliveryPoint>159 Old Bar Harbor Rd.</deliveryPoint>
+                <city>Bar Harbor</city>
+                <administrativeArea>ME</administrativeArea>
+                <postalCode>04609</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>agarretson@mdibl.org</electronicMailAddress>
+            <onlineUrl>https://alexis-catherine.github.io/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-7260-0131</userId>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2025-01-20
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>About this project
+Animals never evolved to coexist with high-speed motor vehicles. Report your roadkill sightings to help identify high risk areas for wildlife!
+
+Project goal
+Identify problem spots where there are high numbers of collisions with wildlife.
+
+What participants do:
+Record the time, location, and species of roadkill you observe.
+
+Why roadkill?
+
+Animals never evolved to coexist with high-speed motor vehicles. Highways can alter habitat and isolate populations, prevent wildlife from moving freely, and place an undue mortality pressure on populations. Tracking the incidence of collisions with animals can help identify problem spots where steps can be taken to mitigate roadkill risk.
+
+How to participate:
+
+Note when and where you see roadkill.
+
+Share your observations here on Anecdata.org or using the Anecdata mobile app!</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://www.anecdata.org/projects/view/roadkill-reports</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.us/archive.do?r=roadkill-109</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>United States</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-122.923</westBoundingCoordinate>
+                    <eastBoundingCoordinate>34.846</eastBoundingCoordinate>
+                    <northBoundingCoordinate>48.591</northBoundingCoordinate>
+                    <southBoundingCoordinate>-1.406</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2015-06-17
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-03-03
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Musca domestica</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <acknowledgements>Data curation and management of Anecdata data on GBIF was supported by an Institutional Development Award (IDeA) from the National Institute of General Medical Sciences of the National Institutes of Health under grant numbers P20GM103423 and P20GM104318.</acknowledgements>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Alexis</givenName>
+                <surName>Garretson</surName>
+            </individualName>
+            <organizationName>MDI Biological Laboratory</organizationName>
+            <positionName>Community Environmental Health Laboratory Manager</positionName>
+            <address>
+                <deliveryPoint>159 Old Bar Harbor Rd.</deliveryPoint>
+                <city>Bar Harbor</city>
+                <administrativeArea>ME</administrativeArea>
+                <postalCode>04609</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>agarretson@mdibl.org</electronicMailAddress>
+            <onlineUrl>https://alexis-catherine.github.io/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-7260-0131</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Jane</givenName>
+                <surName>Disney</surName>
+            </individualName>
+            <organizationName>MDI Biological Laboratory</organizationName>
+            <positionName>Associate Professor of Environmental Health</positionName>
+            <address>
+                <deliveryPoint>159 Old Bar Harbor Rd.</deliveryPoint>
+                <city>Bar Harbor</city>
+                <administrativeArea>ME</administrativeArea>
+                <postalCode>04609</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>jdisney@mdibl.org</electronicMailAddress>
+            <onlineUrl>https://mdibl.org/faculty/jane-e-disney-ph-d/</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-5489-8579</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Cait</givenName>
+                <surName>Bailey</surName>
+            </individualName>
+            <organizationName>MDI Biological Laboratory</organizationName>
+            <positionName>Systems Developer</positionName>
+            <address>
+                <deliveryPoint>159 Old Bar Harbor Rd.</deliveryPoint>
+                <city>Bar Harbor</city>
+                <administrativeArea>ME</administrativeArea>
+                <postalCode>04609</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>cait@mdibl.org</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-4869-9802</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Ashley</givenName>
+                <surName>Taylor</surName>
+            </individualName>
+            <organizationName>Anecdata.org</organizationName>
+            <positionName>Community Manager</positionName>
+            <electronicMailAddress>ataylor@mdibl.org</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <surName>Anecdata.org</surName>
+            </individualName>
+            <organizationName>Anecdata.org</organizationName>
+            <electronicMailAddress>anecdata@mdibl.org</electronicMailAddress>
+            <onlineUrl>https://www.anecdata.org</onlineUrl>
+        </contact>
+        <contact>
+            <individualName>
+                <surName>Community Environmental Health Laboratory</surName>
+            </individualName>
+            <organizationName>MDI Biological Laboratory</organizationName>
+            <positionName>Community Environmental Health Laboratory</positionName>
+            <address>
+                <deliveryPoint>159 Old Bar Harbor Rd.</deliveryPoint>
+                <city>Bar Harbor</city>
+                <administrativeArea>ME</administrativeArea>
+                <postalCode>04609</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>CEHL@mdibl.org</electronicMailAddress>
+            <onlineUrl>https://mdibl.org/faculty/jane-e-disney-ph-d/</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0003-4869-9802</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>How to participate:
+
+Note when and where you see roadkill.
+
+Share your observations here on Anecdata.org or using the Anecdata mobile app!</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>About this project
+Animals never evolved to coexist with high-speed motor vehicles. Report your roadkill sightings to help identify high risk areas for wildlife!
+
+Project goal
+Identify problem spots where there are high numbers of collisions with wildlife.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>What participants do:
+Record the time, location, and species of roadkill you observe.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="Anecdata.org">
+                <title>Anecdata.org</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Jane</givenName>
+                    <surName>Disney</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-5489-8579</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Cait</givenName>
+                    <surName>Bailey</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0003-4869-9802</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Ashley</givenName>
+                    <surName>Taylor</surName>
+                    </individualName>
+                    <role>CURATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Alexis</givenName>
+                    <surName>Garretson</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0002-7260-0131</userId>
+                    <role>CURATOR</role>
+                </personnel>
+                <abstract>
+                    <para>Anecdata is a free online citizen science platform developed by the Community Lab at the MDI Biological Laboratory in Bar Harbor, Maine.
+
+Anecdata is used by hundreds of individuals and organizations to gather and access citizen science observations and provides a platform to easily collect, manage, and share their citizen science data.
+
+How Anecdata works:
+Project managers create projects, creating datasheets that participants fill out to share their observations.
+Participants join projects and use the Anecdata website or mobile app to share their observations with the project.
+Project data is now available for anyone to view and download!</para>
+                </abstract>
+                <funding>
+                    <para>Data curation and management of Anecdata data on GBIF was supported by an Institutional Development Award (IDeA) from the National Institute of General Medical Sciences of the National Institutes of Health under grant numbers P20GM103423 and P20GM104318.</para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:15Z</dateStamp>
+                <citation>Disney J, Bailey C, Anecdata.org Contributors, Taylor A, Garretson A (2025). Roadkill Reports - Powered by Anecdata.org. Version 1.2. The Community Environmental Health Laboratory at MDI Biological Laboratory. Occurrence dataset https://doi.org/10.15468/ccwj8u accessed via GBIF.org on 2025-10-11.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

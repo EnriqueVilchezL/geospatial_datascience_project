@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="3d709b97-3aaa-4e48-b16f-43b5a5ffe74a"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/skrznn</alternateIdentifier>
+        <alternateIdentifier>3d709b97-3aaa-4e48-b16f-43b5a5ffe74a</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=isagen_bosques_solares</alternateIdentifier>
+        <title>Fauna y Flora del Complejo Parques Solares de Bolívar, 2020-2022</title>
+        <creator>
+            <individualName>
+                <givenName>Patricia</givenName>
+                <surName>Pelayo Villamil</surName>
+            </individualName>
+            <organizationName>ISAGEN S.A. E.S.P.</organizationName>
+            <positionName>Profesional Ambiental Biótica</positionName>
+            <address>
+                <deliveryPoint>Carrera 30#10c-280</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6044487227 ext 7849</phone>
+            <electronicMailAddress>papelayo@isagen.com.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Orlando Andrés</givenName>
+                <surName>Fuentes Zambrano</surName>
+            </individualName>
+            <organizationName>Forestales San Felipe S.A.S</organizationName>
+            <positionName>Biólogo - Fauna</positionName>
+            <address>
+                <deliveryPoint>Cra. 18 # 14 - 18</deliveryPoint>
+                <city>Zambrano</city>
+                <administrativeArea>Bolívar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>68901701</phone>
+            <userId directory="http://orcid.org/">0009-0005-8525-0651</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>José María</givenName>
+                <surName>Gómez Díaz</surName>
+            </individualName>
+            <organizationName>Forestales San Felipe S.A.S</organizationName>
+            <positionName>Biólogo - Flora</positionName>
+            <address>
+                <deliveryPoint>Cra. 18 # 14 - 18</deliveryPoint>
+                <city>Zambrano</city>
+                <administrativeArea>Bolívar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>68901701</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Samuel</givenName>
+                <surName>Carvajal-Toro</surName>
+            </individualName>
+            <organizationName>ISAGEN S.A. E.S.P.</organizationName>
+            <positionName>Practicante Ambiental Biótico</positionName>
+            <address>
+                <deliveryPoint>Carrera 30#10c-280</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6044487227 ext 6932</phone>
+            <electronicMailAddress>carvajal.samuel@uces.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-0518-1886</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Patricia</givenName>
+                <surName>Pelayo Villamil</surName>
+            </individualName>
+            <organizationName>ISAGEN S.A. E.S.P.</organizationName>
+            <positionName>Profesional Ambiental Biótica</positionName>
+            <address>
+                <deliveryPoint>Carrera 30#10c-280</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6044487227 ext 7849</phone>
+            <electronicMailAddress>papelayo@isagen.com.co</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Samuel</givenName>
+                <surName>Carvajal-Toro</surName>
+            </individualName>
+            <organizationName>ISAGEN S.A. E.S.P.</organizationName>
+            <positionName>Practicante Ambiental Biótico</positionName>
+            <address>
+                <deliveryPoint>Carrera 30#10c-280</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6044487227 ext 6932</phone>
+            <electronicMailAddress>carvajal.samuel@uces.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-0518-1886</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Forestales San Felipe</surName>
+            </individualName>
+            <organizationName>Forestales San Felipe</organizationName>
+            <positionName>Consultor</positionName>
+            <address>
+                <deliveryPoint>Cra. 18 # 14 - 18</deliveryPoint>
+                <city>Zambrano</city>
+                <administrativeArea>Bolívar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>68901701</phone>
+            <onlineUrl>http://www.forestalessanfelipe.com/</onlineUrl>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2025-04-08
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Este recurso comprende 578 registros de Fauna y 1909 de Flora, obtenidos a partir del Programa de mandejo de fauna en el complejo solar Bosques Solares de Bolívar y el Estudio de Impacto Ambiental para el Complejo Solar Bosques Solares de Bolívar.</para><para>Las actividades fueron llevadas a cabo bajo la autorización emitida por la resolución 00445 de 2015 y posteriores, dada por la Corporación Autónoma del Atlántico (CRA).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Parque Solar</keyword>
+            <keyword>Sabanalarga</keyword>
+            <keyword>Bosques Solares de Bolívar</keyword>
+            <keyword>ISAGEN</keyword>
+            <keyword>Bosque seco</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Este conjunto de datos fue publicado con el respaldo del proyecto CESP “OpenPSD – Engage and Promote the Private Sector in Open Biodiversity Data Publication (ID CESP2019-004)”, en alianza con la Asociación Nacional de Empresarios de Colombia (ANDI) a través de su iniciativa “Biodiversidad y Desarrollo” (Datos abiertos sobre biodiversidad desde el sector empresarial). Expresamos nuestro agradecimiento por la colaboración y el incentivo brindado para la difusión de datos desde el sector empresarial.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=isagen_bosques_solares</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Las actividades de rescate se llevaron a cabo en el municipio de Sabanalarga, Atlántico.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-74.911</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-74.878</eastBoundingCoordinate>
+                    <northBoundingCoordinate>10.648</northBoundingCoordinate>
+                    <southBoundingCoordinate>10.569</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2020-01-18
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-12-29
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Se obtuvieron 578 registros de fauna, distribuidos en 25 órdenes, 56 familias y 106 géneros. Todos los individuos fueron identificados, alcanzando un total de 113 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Se obtuvieron 1909 registros de flora, distribuidos en 11 órdenes, 15 familias y 45 géneros. Para el 98% se identificaron hasta nivel de especie y el 2% restante hasta género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Anacardiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Apocynaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bignoniaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Capparaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Cordiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Euphorbiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Fabaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lecythidaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Malvaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Meliaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Moraceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Nyctaginaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Opiliaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Polygonaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Rubiaceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Patricia</givenName>
+                <surName>Pelayo Villamil</surName>
+            </individualName>
+            <organizationName>ISAGEN S.A. E.S.P.</organizationName>
+            <positionName>Profesional Ambiental Biótica</positionName>
+            <address>
+                <deliveryPoint>Carrera 30#10c-280</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6044487227 ext 7849</phone>
+            <electronicMailAddress>papelayo@isagen.com.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>El ahuyentamiento de fauna se llevó a cabo mediante una serie de técnicas diseñadas para garantizar el desplazamiento de los individuos hacia áreas seguras. En primer lugar, se aplicó la perturbación controlada de los hábitats para incentivar su movilidad. Posteriormente, se implementó el ahuyentamiento auditivo, utilizando pitos durante varias horas para inducir el desplazamiento.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En los casos donde los individuos no respondieron a estas medidas, se realizaron capturas manuales y su posterior reubicación en hábitats adecuados. Para la manipulación de herpetofauna, se emplearon cajas herpetológicas, ganchos y pinzas especializadas, mientras que para mamíferos se utilizaron trampas Tomahawk con cebos variados, incluyendo banano, carne, huesos de pollo y mango, entre otros.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En el caso de flora, se realizó un inventario detallado de todos los individuos presentes en las áreas que no fueron intervenidas.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Las actividades se llevaron a cabo en el complejo de bosques Solares de Bolívar, el cual comprende cinco plantas solares. Dos de estas se encuentran ubicadas entre Arroyocojo y el corregimiento de Gallego, mientras que las tres restantes están dentro de este último corregimiento.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para fauna, se implementaron estrategias de ahuyentamiento, rescate y reubicación de individuos como medida previa a la remoción de coberturas. En cuanto a flora, se llevó a cabo un inventario, la información consignada en este recurso corresponde a áreas donde no se requirió la remoción de la cobertura vegetal.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Las actividades de ahuyentamiento de fauna y el inventario de flora fueron realizadas por profesionales de la consultora Forestales San Felipe.
+
+La validación de los nombres científicos se llevó a cabo mediante la herramienta Data Validator del GBIF y bases de datos especializadas para cada grupo taxonómico.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:12Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/skrznn">Pelayo Villamil P, Fuentes Zambrano O A, Gómez Díaz J M, Carvajal-Toro S (2025). Fauna y Flora del Complejo Parques Solares de Bolívar, 2020-2022. Version 1.2. Isagen S.A. E.S.P.. Occurrence dataset https://doi.org/10.15472/skrznn accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-isagen.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

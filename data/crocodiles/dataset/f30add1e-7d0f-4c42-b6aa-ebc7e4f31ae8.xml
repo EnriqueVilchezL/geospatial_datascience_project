@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="f30add1e-7d0f-4c42-b6aa-ebc7e4f31ae8"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/miy0ja</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=corporinoquia_pma_urama</alternateIdentifier>
+        <title>Fauna y flora asociada al Plan de Manejo Ambiental para el Distrito Regional de Manejo Integrado Mata de la Urama</title>
+        <creator>
+            <individualName>
+                <surName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Autoridad ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (608) 6358588</phone>
+            <electronicMailAddress>atencionusuarios@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Autoridad ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (608) 6358588</phone>
+            <electronicMailAddress>atencionusuarios@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Fundación Orinoquia Biodiversa</surName>
+            </individualName>
+            <organizationName>Fundación Orinoquia Biodiversa</organizationName>
+            <positionName>ONG</positionName>
+            <address>
+                <deliveryPoint>Carrera 22 #14-71</deliveryPoint>
+                <city>Tame</city>
+                <administrativeArea>Arauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+057 316 5368535</phone>
+            <electronicMailAddress>info@orinoquiabiodiversa.org</electronicMailAddress>
+            <onlineUrl>https://fundacionorinoquiabiodiversa.com/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-01-13
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Como un aporte a la gestión del área protegida Distrito Regional de Manejo Integrado (DRMI) Mata de la Urama, desde la Corporación Autónoma Regional de la Orinoquia – CORPORINOQUIA se presenta este ejercicio de planificación, el cual, con base en la situación actual de los aspectos biofísicos, sociales, y la participación de los diferentes actores, pretende constituirse como la carta de navegación para esta área protegida. Los datos hacen parte del componente diagnóstico, que ilustra la información básica del área para fauna y flora.</para><para>Este conjunto de datos cuenta con 3.501 registros biológicos correspondientes a los reinos Plantae (1.969) y Animalia (1.532). Estos fueron tomados en el año 2017.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>DMI</keyword>
+            <keyword>PMA</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Gestión</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=corporinoquia_pma_urama</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El distrito regional de manejo integrado (DRMI) Mata de la Urama se encuentra en la parte sur del departamento de Casanare, en el municipio de Tauramena. Se distribuye entre los 150 y 190 m altitudinales, entre los 72°30´y los 72°40 longitud y desde los 4°25´ hasta los 4°35´ latitud.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.672</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.5</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.603</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.372</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2017-02-07
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2017-12-02
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>3.501 registros biológicos de fauna y flora silvestre distribuidos así: Plantae (1.969) y Animalia (1.532). El recurso está compuesto por 8 clases, 61 órdenes, 164 familias, 413 géneros y 463 especies. Del total, se identificó un 92% a nivel de especie y un 8% a nivel de género.
+
+En cuanto al reino Animalia, la distribución se da en 5 clases, 36 órdenes, 109 familias, 266 géneros y 303 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En cuanto al reino Plantae, la distribución se da en 3 clases, 25 órdenes, 55 familias, 147 géneros y 160 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Nathalia</givenName>
+                <surName>Meza Fernández</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Profesional Universitaria SPA- Biodiversidad</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>nathaliameza@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Flora: Actividades de precampo: Previo al trabajo de campo, se desarrollaron actividades correspondientes a la revisión de información biofísica de la zona, elaboración cartografía del área de estudio y la definición de la muestra, tamaño y forma de esta para el muestreo de la vegetación. La cartografía preliminar fue elaborada por profesional SIG a partir de la interpretación de imágenes satelitales siguiendo la metodología CORINE Land Cover adaptada para Colombia (IDEAM, 2010). Con la interpretación preliminar fueron seleccionados puntos de control junto con los puntos de muestreo, distribuidos en el área de estudio y elaborar así el mapa temático de uso actual del suelo y cobertura vegetal.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Muestreo de la vegetación: Para el muestreo de la vegetación se empleó el método de muestreo al azar simple (M.A.S), por el cual se establecen parcelas de muestra de forma aleatoria dentro de la población muestreada, siendo un muestreo probabilístico valido (FAO, 1995), y constituyendo la base de la mayoría de los tipos de muestreos. Para este método (M.A.S), la población se divide en N unidades de muestreo, tomando al azar n muestras de esta, de tal forma que la combinación de las n muestras, tengan la misma probabilidad de ser escogidas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Forma de las parcelas: La forma de la unidad muestreal seleccionada fue rectangular y/o cuadrada, por ser las más practicas a utilizar en coberturas vegetales (Orozco &amp; Brumér, 2002), además de permitir barridos en línea recta sin incurrid a desplazamientos laterales, facilitando la evaluación de los atributos y variables objeto de estudio. El tamaño de las parcelas establecidas fue de 50x20 metros para las coberturas boscosas con subparcelas dentro de estas de 10x10 m, 5x5 m, y 1x1 m, donde se evaluaron los individuos en estados fustal (DAP mayores 10 cm), latizal (DAP menores a 10 cm y alturas mayores a 2,5 cm), brinzales (DAP menores a 2,5 cm) y renuevos. Para las coberturas de herbazales y arbustales, se empleó la propuesta de muestreo de Marín (2013), el cual sugiere parcelas de 50 m2 en parcelas de 4m x 12,5 m divididas en 5 subparcelas de 4 m x 2,5 m.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Actividad de campo: Dentro de estas se encuentran los levantamientos de información primaria a través del montaje de parcelas forestales siguiendo las propuestas mencionadas anteriormente para los tipos de cobertura vegetal que se presentaron en el área. Para las coberturas boscosas se realizaron parcelas de 50 x 20 m, correspondientes a un área de 0,1 ha, que de acuerdo con Cárdenas et al. (1997), facilita un mayor número de muestreos en poco tiempo, permitiendo obtener representatividad en la muestra.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Delimitación de unidades de muestreo: Para la delimitación de cada parcela de muestreo, fue fijado un eje central sujeta a un árbol con una cuerda de manila o pita, la cual fue medida con una cinta métrica a los 50 metros, con marcación cada 10 metros para la evaluación de las subparcelas de latizales y brinzales. De igual forma para las parcelas establecidas en coberturas de herbazales, fue empleada una pita con 12.5 m de longitud, demarcada cada 2.5 metros.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Toma de datos: Dentro de cada parcela fueron tomados los datos dasométricos: circunferencia a la altura del pecho (CAP), altura a la base de la copa (HC) y altura total (HT) para cada individuo, donde fueron registrados en los formatos de campo. De igual manera se registró los datos diámetro de copa, distancias X, Y para la elaboración de los perfiles de vegetación. Para los latizales, en cada subparcela de 5 x 5 m, se inventariaron todos los individuos con diámetros menores a 10 cm de DAP (&lt; 32.5 cm CAP), registrando el nombre común, el CAP, y la altura total de cada uno. Los brinzales se inventariaron en las subparcelas de 2 x 2 m, registrando el número de individuos por especie.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Identificación de muestras botánicas: La mayoría de las especies fue identificada en campo, y atraves de registros fotográficos, solo algunas especies de difil identifcacion fueron recolectadas siguiendo las recomendaciones de la Guía para la recolección y preservación de muestras botánicas en campo de la Universidad Distrital Francisco José de Caldas. Estas colectas fueron puestas en paquetes alcoholizados para ser llevadas a identificar en el herbario, las muestras fueron llevadas al herbario de la universidad distrital en donde no fueron aceptadas para la colección botanica por no encotrarse fértiles, pero fue posible ingresarse como material didáctico para las clases de botánica y dendrologia de Ingenieria forestal. Los nombres científicos de las especies, fueron corroborados con base de datos de The Plant List (www.theplantlist.org), The International Plants Name Index (www.ipni.org), e Integrated Taxonomic Information System (www.itis.gov). De igual forma se verifico la existencia de especies catalogadas en algún grado de amenaza empleando la lista de especies en Libros Rojos de Colombia, resolución 383 de 2010 del Ministerio de Ambiente, Vivienda y Desarrollo Territorial (actualmente MADS), resolución 192 de 2014 del MADS, RedList de la UICN y la base de datos de la convención sobre el comercio internacional de especies amenazadas de fauna y flora silvestres (CITES).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fauna: HERPETOFAUNA Metodología El muestreo de herpetofauna se llevó a cabo dentro del área del DRMI Mata de la Urama, si bien el área de influencia del distrito comprende varias veredas, gran parte de los muestreos se llevaron a cabo en la vereda de La Urama. Dentro del área se muestrearon tres ventanas, donde se encontraban representados diferentes tipos de coberturas: mata de monte, bosques de galería, morichales, esteros, canales o préstamos y pastos y cultivos.
+
+Búsqueda libre al azar y sin restricciones Esta metodología consiste en realizar recorridos aleatorios en las diferentes coberturas vegetales, estratos, ambientes y microhábitats presentes en el área de muestreo de manera diurna (mañana y tarde) y nocturna (Angulo et al., 2006). Este es el método más eficiente para registrar el mayor número posible de especies durante un periodo de tiempo corto, permitiendo determinar la composición y estructura del ensamblaje (Crump y Scott 1994, Rueda-Almonacid et al., 2006). Durante este muestreo, debido a que se realizó en la temporada seca, los recorridos matutinos se extendieron desde las 09:00h hasta las 12:00h y el horario de los muestreos nocturnos (tarde-noche) fue entre las 5:00h y hasta las 22:00h. Estos periodos corresponden a los horarios de mayor actividad de los individuos en cada época. Las coordenadas de los recorridos efectuados se muestran en el Anexo 1. Se emplearon cuatro días por cada estación de muestreo (ocho horas/hombre por día), durante un periodo de 12 días, completando un total de 192 horas de muestreo en el área de estudio, 32 horas/hombre (64 horas) en cada estación. El registro e identificación de especies se realizó a través de capturas manuales y mediante ganchos herpetológicos para serpientes, en el caso de algunas especies de anuros se empleó el análisis de los cantos para su identificación. Los individuos hallados fueron determinados taxonómicamente, se les realizó el registro fotográfico y fueron liberados posteriormente.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>AVIFAUNA Metodología Se realizaron muestreos de la avifauna existente en el distrito en tres sectores o ventanas con diferentes usos de la tierra, cobertura de la vegetación, tenencia de tierras y procesos sociales. Para caracterizar a la comunidad de aves existente en cada una de ellas, se utilizaron tres diferentes métodos complementarios durante un periodo efectivo de 12 días, tres en cada una de las ventanas. Se hicieron recorridos ad libitum por caminos, senderos o en sectores por los que no fuera difícil transitar. Fueron complementados con captura de individuos en redes de niebla especialmente en las coberturas vegetales boscosas, en las que pueden existir dificultades en la identificación de especies de interior de bosque, y con grabaciones de individuos de especies no identificadas. Las redes de niebla pueden ser útiles para registrar especies de bosque cripticas o que poco se mueven mientras que las grabaciones nos permiten identificar especies que solo cantan y son furtivas o que sus periodos de actividad se restringen a antes de la madrugada o después del atardecer (Ralph et al., 1996, Villareal et al., 2006). Recorridos libres o ad libitum Fueron hechos 4 recorridos por cada ventana, con distancias entre los 3 y los 6 km, dos entre las 5:45 y las 11:00 y dos entre las 15:00 y las 18:00 horas. Se registraron en su transcurso y con ayuda de unos binóculos Bushnell 10x40, las especies de aves observadas y/o escuchadas, así como el número de individuos por especie, el hábitat en donde fueron halladas y su comportamiento. Para evitar el reconteo durante los recorridos, no se consideraron los individuos provenientes de secciones del recorrido hechas con anterioridad o individuos que se sabía con certeza que ya se habían avistado o escuchado antes. Adicionalmente, se intentaron hacer los recorridos incluyendo los diferentes ambientes de cada ventana y manteniendo una línea recta o por lo menos la misma dirección. Cuando fue necesaria trazar una ruta de vuelta, se mantuvo una distancia aproximada de 1 km y solo fueron incluidas en ese trayecto especies nuevas. Redes de niebla Fue dispuesto medio día para instalar 10 redes de niebla de 10 m de largo y 2.5 m de alto en línea consecutiva, al interior del bosque inundable y la mata de monte. Las redes fueron abiertas durante un día y medio para cada ventana entre las 6:00 y las 10:00 horas y las 15:00 y las 18:00 horas. Una vez capturado para cada individuo, fue registrada su especie y determinada su edad (osificación del cráneo y estrías en el pico en el caso de los colibríes), sexo (plumaje y protuberancia cloacal) y estado reproductivo (parche de incubación), el tipo de plumaje y su ciclo de muda (cañones en las plumas de la cola, las alas y el resto de cuerpo), el peso y las medidas morfométricas (longitud del culmen, el ala, la cola y el tarso) (Villareal et al., 2006; Ralph et al., 1996; Lugarini et al., 2014). Se tomó el correspondiente registro fotográfico y fueron liberadas posteriormente.
+Grabaciones Utilizando una grabadora SONY de voz digital mono Icd-px240, en cada recorrido se registraron las vocalizaciones de individuos de especies no conocidas y en algunas ocasiones se hicieron grabaciones 15 minutos antes del amanecer o 15 después de la puesta de sol (Villareal et al., 2006). Cada grabación fue descrita incluyendo la hora y la fecha del registro, la localidad, el hábitat, el clima, la ventana y el tipo de vocalización y comportamiento. En pocas ocasiones fue utilizado el play back para intentar identificar alguna especie. Listas de Mackinnon Para determinar la representatividad de la avifauna durante el muestreo, el registro de las especies se hizo mediante el uso de listas de Mackinnon con 10 especies. Las listas se construyeron incluyendo cada vez especies diferentes, y al completarse las 10 especies se comienzan una nueva lista repitiendo el mismo procedimiento. Las lisas de Mackinnon son útiles porque mejoran la calidad de los datos tomados con relación a listas las comunes y permiten interrumpir los muestreos sin perjudicar la calidad de los datos (Lugarini et al., 2014).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>MASTOFAUNA Metodología Para el registro y captura de mamíferos, se llevaron a cabo diferentes metodologías de acuerdo a la diferenciación de los grupos a partir de su ecología y tamaño corporal. Teniendo en cuenta esto, los análisis estadísticos deben ser tratados diferencialmente de acuerdo a las metodologías empleadas. Mamíferos pequeños y voladores Para la captura de murciélagos se utilizaron 8 redes de niebla de 12 x 3m que fueron instaladas en las tres ventanas de estudio Las redes se ubicaron teniendo en cuenta bordes y claros de bosque, corredores naturales, orillas de quebradas y especies vegetales de las cuales se tienen registros de alimentación. Fueron activadas durante 3 noches en cada punto de muestreo entre las 1800 hasta las 2300h y eran monitoreadas cada 30-45 minutos (Montiel et al., 2006). Se tuvo en cuenta la fase lunar para la realización de las capturas (Estrada y Coates-Estrada, 2001; Pérez-Torres y Ahumada, 2004), debido a que la alta luminosidad puede afectar la actividad de las especies. Se tomaron las correspondientes coordenadas geográficas. Los murciélagos capturados fueron depositados en bolsas de tela para su posterior procesamiento. A cada individuo se le registró condición reproductiva y los correspondientes datos morfométricos para su determinación: peso, LT (longitud total), LC (longitud del cuerpo), cola, LP (longitud del pie), LO (longitud de la oreja), LA (longitud del antebrazo), tibia, polux y trago. Asimismo, se obtuvo registro fotográfico de cada uno de los individuos capturados. Los murciélagos fueron identificados por medio de las claves de Linares (1998) y Gardner (2007). Por otra parte, para la captura de pequeños mamíferos terrestres, se utilizaron 49 trampas Sherman® que fueron instaladas por estaciones conformadas por 5 trampas a través de la mata de monte que se encuentra en las cercanías de Los Lobos. Se tuvo en cuenta troncos caídos, base de árboles, cavidades formadas por las raíces, alrededor de huecos y madrigueras (Munari et al., 2011). Como cebo, se utilizó una mezcla de mantequilla de maní, plátano y esencia de vainilla (Stevens y Tello, 2011). Fueron monitoreadas diariamente a las 0900h y recebadas con el fin de minimizar la pérdida de cebos. Se tomaron coordenadas de cada trampa instalada.
+De cada uno de los individuos capturados pertenecientes a los órdenes Didelphimorphia y Rodentia, se les registró el peso, sexo, LT (longitud total), LCC (longitud de la cabeza cuerpo), LC (longitud de la cola), LP (longitud del pie) y LO (longitud de la oreja), para su posterior determinación taxonómica. Posteriormente, los ejemplares fueron liberados. La identificación taxonómica fue llevada a cabo por medio de las claves para mamíferos de Venezuela de Linares (1998) y para mamíferos de Sur América de Gardner (2007). Mamíferos medianos y grandes Se llevaron a cabo diferentes tipos de muestreo para el registro de mamíferos medianos y grandes: Cámaras Trampa para la detección de mamíferos crípticos o de difícil visualización, Trampas Tomahawk para la captura de individuos de mediano tamaño, recorridos libres y entrevistas a los baquianos y personas de la zona para la identificación y registro de especies que han sido observadas por ellos en la zona de estudio. Cámaras trampa: se instalaron un total de 26 cámaras (Modelo Bushnell NatureView HD Hybrid Trail) a través de las diferentes coberturas presentes en el DRMI La Urama durante 10 noches efectivas. Algunas estaciones de muestreo contaban con dos cámaras por sitio, las cuales se ubicaron en sitios estratégicos de paso de fauna, como caminaderos, cuevas, refugios y comederos. Para cada una de las estaciones se registraron datos sobre ubicación con GPS (Datum: WGS 84) en coordenadas geográficas, información de la cámara (referencia, serial), fecha y hora de instalación. Las fotos que se obtienen, muestran información acerca de la fecha, hora, temperatura y fase lunar en el momento de la foto-captura. Para éste estudio se adoptó la configuración correspondiente a sensibilidad alta, tres fotos por evento, con un intervalo de ráfaga entre fotos y sin pausa entre cada evento, durante las 24 horas del día. Trampas Tomahawk: para la captura de mamíferos medianos, se instalaron 10 trampas (30 x 25 x 70 cm), que hacían parte de las estaciones establecidas anteriormente con las trampas Sherman. Se implementaron diferentes cebos como atrayente (mango, sardina, yuca, plátano, maní y comida para perro). Los mamíferos medianos capturados fueron fotografiados y sexados para su identificación. Recorridos libres: para el encuentro de rastros (huellas, heces fecales, cuevas, comederos, rasguños), se llevaron a cabo transectos a lo largo del área para aumentar la probabilidad de encuentro de especies con patrones de actividad arbóreos o acuáticos. Las longitudes de los transectos variaron de acuerdo al terreno. Para la identificación de las especies mediante huellas se consideró la forma y el tamaño (ancho y largo), el número de dedos y la presencia de garras (Navarro y Muñoz, 2000).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>EL distrito regional de manejo integrado (DRMI) Mata de la Urama se encuentra en la parte sur del departamento de Casanare, en el municipio de Tauramena, tiene un área de 20163.68 ha, sobre esta área protegida tienen jurisdicción la Corporación Autónoma Regional Corporinoquia. A nivel veradal el distrito está ubicado en las veredas, Carupana, La Esmeralda, Piñalito, Tunupe, Vigia Trompillos y La Urama, esta ultima la de mayor porcentaje en el distrito con el 83.95% correspondientes a 16901.85 ha.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para el muestreo de la vegetación se empleó el método de muestreo al azar simple (M.A.S), por el cual se establecen parcelas de muestra de forma aleatoria dentro de la población muestreada, siendo un muestreo probabilístico valido (FAO, 1995). La caracterización de fauna se realizó con el fin de efectuar una evaluación ecológica del Distrito Regional de Manejo Integrado Mata de la Urama partiendo de la información recopilada en los diferentes grupos taxonómicos: aves, herpetos, mamíferos y peces.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="100-15-16-015">
+                <title>PLAN DE MANEJO AMBIENTAL PARA EL DISTRITO REGIONAL DE MANEJO INTEGRADO MATA DE LA URAMA</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Nathalia</givenName>
+                    <surName>Meza Fernández</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Dentro de los compromisos adquiridos por el país con el convenio de biodiversidad esta la generación de áreas protegidas para la conservación in situ de la biodiversidad. En este sentido, el Distrito Regional de Manejo Integrado (DRMI) Mata de la Urama presenta este ejercicio de planificación, el cual, con base en la situación actual de los aspectos biofísicos, sociales, y la participación de los diferentes actores, pretende constituirse como la carta de navegación para esta área protegida.</para>
+                </abstract>
+                <funding>
+                    <para>Corporación Autónoma Regional de la Orinoquia - CORPORINOQUIA</para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:12Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/miy0ja">Corporación Autónoma Regional de la Orinoquia - Corporinoquia (2025). Fauna y flora asociada al Plan de Manejo Ambiental para el Distrito Regional de Manejo Integrado Mata de la Urama. Corporación Autónoma Regional de la Orinoquia - Corporinoquia. Occurrence dataset https://doi.org/10.15472/miy0ja accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>IDEAM. (2010). Zonas Susceptibles a inundación.</citation>
+                <citation>Orozco, L., Brumer, C. (2002). Inventarios forestales para bosques latifoliados en America Central. CATIE, Costa rica. 264p.</citation>
+                <citation>Marín, C. 2013. Propuesta metodológica para caracterizar las coberturas vegetales en los páramos de Santurbán y Rabanal. Proyecto Páramos y Sistemas de Vida. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Documento interno.</citation>
+                <citation>Angulo, A., Rueda-Almonacid, J. V, Rodríguez-Mahecha, J. V. y La Marca, E. (Eds). 2006. Técnicas de inventario y monitoreo para los anfibios de la región tropical andina. Conservación Internacional. Serie Manuales de Campo Nº 2. Panamericana Formas e Impresos S.A., Bogotá D.C.</citation>
+                <citation>Villareal, H., M. Alvarez, S. Cordoba, F. Escobar, G. Fagua, F. Gast, H. Mendoza, M. Ospina y A. M. Umaña. Segunda edición. 2006. Manual de métodos para el desarrollo de inventarios de la Biodiversidad. Programa de Inventarios de Biodiversidad. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá, Colombia. 236 p.</citation>
+                <citation>Montiel, S., Estrada, A. y León Perla. 2006. Bat assemblages in a naturally fragmented ecosystem in the Yucatan Peninsula, Mexico: species richness, diversity and spaciotemporal dynamics. Journal of Tropical Ecology.22: 267-276.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-corporinoquia.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

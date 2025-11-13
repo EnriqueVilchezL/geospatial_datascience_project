@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="5f1568db-5d5b-4597-9c66-dfbd0d7ddd7b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/yksryn</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=ncsm_vertpaleo</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=ncsm_vertpaleo</alternateIdentifier>
+        <alternateIdentifier>5f1568db-5d5b-4597-9c66-dfbd0d7ddd7b</alternateIdentifier>
+        <title>NCSM Vertebrate Paleontology Collection</title>
+        <creator>
+            <individualName>
+                <givenName>Ben</givenName>
+                <surName>Norton</surName>
+            </individualName>
+            <organizationName>North Carolina Museum of Natural Sciences</organizationName>
+            <positionName>Head of Technology</positionName>
+            <address>
+                <deliveryPoint>11 West Jones Street</deliveryPoint>
+                <city>Raleigh</city>
+                <administrativeArea>NC</administrativeArea>
+                <postalCode>27601</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>919-707-9947</phone>
+            <electronicMailAddress>ben.norton@naturalsciences.org</electronicMailAddress>
+            <onlineUrl>https://naturalsciences.org/staff/ben-norton</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">mbnorton</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Ben</givenName>
+                <surName>Norton</surName>
+            </individualName>
+            <organizationName>North Carolina Museum of Natural Sciences</organizationName>
+            <positionName>Head of Technology</positionName>
+            <address>
+                <deliveryPoint>11 West Jones Street</deliveryPoint>
+                <city>Raleigh</city>
+                <administrativeArea>NC</administrativeArea>
+                <postalCode>27601</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>919.707.9947</phone>
+            <electronicMailAddress>ben.norton@naturalsciences.org</electronicMailAddress>
+            <onlineUrl>https://naturalsciences.org/staff/ben-norton</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">mbnorton</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Laura</givenName>
+                <surName>Russell</surName>
+            </individualName>
+            <organizationName>VertNet</organizationName>
+            <positionName>VertNet Programmer</positionName>
+            <electronicMailAddress>larussell@vertnet.org</electronicMailAddress>
+            <onlineUrl>http://www.vertnet.org</onlineUrl>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>David</givenName>
+                <surName>Bloom</surName>
+            </individualName>
+            <organizationName>VertNet</organizationName>
+            <positionName>VertNet Coordinator</positionName>
+            <electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>
+            <onlineUrl>http://www.vertnet.org</onlineUrl>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>John</givenName>
+                <surName>Wieczorek</surName>
+            </individualName>
+            <organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName>
+            <positionName>Information Architect</positionName>
+            <electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <pubDate>
+                2019-10-04
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The North Carolina Museum of Natural Sciences&amp;#39; Vertebrate Paleontology collections contains approximately 63,000 specimens. Founded in the early 1900s, this collection consists of approximately 89% North Carolina material, although 31 states, 21 countries, and more than 405 genera are represented. The Vertebrate Paleontology Collection contains eight holotypes and twelve paratypes. The type collections include several different fish and sharks and one bird specimen. The most published on specimens in this collection are an Acrocanthosaurus atokensis which has been used in numerous phylogenetic studies of therapods and a Thescelosaurus specimen. The significant holding includes Late Triassic collections from North Carolina and Arizona, marine Cenozoic collections from North Carolina, and Cretaceous collections from North Carolina, Montana and Utah.
+        </abstract>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>http://vertnet.org/resources/norms.html</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://collections.naturalsciences.org/search/paleontology</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.vertnet.org/archive.do?r=ncsm_vertpaleo</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The Vertebrate Paleontology Collection contains specimens from 5 countries including the United States, Brazil, Morocco, France, and Canada</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chordata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Chondrichthyes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Osteichthyes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptile</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Tetrapod</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Christian</givenName>
+                <surName>Kammerer</surName>
+            </individualName>
+            <organizationName>North Carolina Museum of Natural Sciences</organizationName>
+            <positionName>Research Curator, Paleontology</positionName>
+            <address>
+                <deliveryPoint>11 West Jones Street</deliveryPoint>
+                <city>Raleigh</city>
+                <administrativeArea>NC</administrativeArea>
+                <postalCode>27601</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>919.707.9939</phone>
+            <electronicMailAddress>christian.kammerer@naturalsciences.org</electronicMailAddress>
+            <onlineUrl>https://naturalsciences.org/staff/christian-kammerer</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:54Z</dateStamp>
+                <citation identifier="10.36102/dwc.9">Norton B (2019). NCSM Vertebrate Paleontology Collection. Version 15.2. North Carolina State Museum of Natural Sciences. Occurrence dataset https://doi.org/10.15468/yksryn accessed via GBIF.org on 2025-10-11.</citation>
+                <collection>
+                    <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                    <collectionIdentifier>NCSM-VertPaleo</collectionIdentifier>
+                    <collectionName>Vertebrate Paleontology Collection of the North Carolina Museum of Natural Sciences</collectionName>
+                </collection>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="f3b52dab-9f51-4f8a-a127-bc27fc69587f"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/w9eqxj</alternateIdentifier>
+        <alternateIdentifier>f3b52dab-9f51-4f8a-a127-bc27fc69587f</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=reptiles_latribuna-fibras_2021</alternateIdentifier>
+        <title>Reptiles de la Ecoreserva La Tribuna (Neiva, Huila) - Proyecto FIBRAS</title>
+        <creator>
+            <individualName>
+                <surName>Ecopetrol. S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol. S.A.</organizationName>
+            <positionName>Gerencia de Sostenibilidad y Descarbonización</positionName>
+            <address>
+                <deliveryPoint>Carrera 7 # 32 – 42. Edificio San Martín Piso 32</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>60 (1) 2340000 Ext 54510</phone>
+            <electronicMailAddress>xiomara.sanclemente@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <onlineUrl>https://www.humboldt.org.co/es/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <onlineUrl>https://www.humboldt.org.co/es/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Infraestructura Institucional de Datos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <positionName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</positionName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Ecopetrol. S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol. S.A.</organizationName>
+            <positionName>Gerencia de Sostenibilidad y Descarbonización</positionName>
+            <address>
+                <deliveryPoint>Carrera 7 # 32–42. Edificio San Martín Piso 32</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>60 (1) 2340000 Ext 54510</phone>
+            <electronicMailAddress>xiomara.sanclemente@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Daniela</givenName>
+                <surName>Garcia Cobos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>dgarciac@humboldt.org.co</electronicMailAddress>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2022-05-13
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Bajo el convenio de cooperación No. 19-155 entre ECOPETROL y el Instituto de Investigación de Recursos Biológicos Alexader von Humboldt, se llevó a cabo el levantamiento de la Línea Base de Biodiversidad y Servicios Ecosistémicos para seis predios piloto de Ecoreservas en predios de ECOPETROL, ubicados en cuatro regiones del país. Este levantamiento incluyó el desarrollo de muestreos rápidos de biodiversidad para siete grupos biológicos y la recolección de sonidos en predios ubicados en los departamentos del Huila, Casanare, Meta y la región del Magdalena Medio.  
+
+El presente conjunto de datos contiene 24 registros de reptiles de la ecoreserva La Tribuna ubicada en Neiva, Huila.
+        </abstract>
+        <keywordSet>
+            <keyword>bosque seco</keyword>
+            <keyword>reptiles</keyword>
+            <keyword>Neiva</keyword>
+            <keyword>Huila</keyword>
+            <keyword>La Tribuna</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://ipt.biodiversidad.co/iavh/resource?r=reptiles_latribuna-fibras_2021</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/iavh/archive.do?r=reptiles_latribuna-fibras_2021</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Colombia, Departamento Huila, Municipio Neiva, veredas San Francisco y Tamarindo</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-75.392</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-75.372</eastBoundingCoordinate>
+                    <northBoundingCoordinate>3.073</northBoundingCoordinate>
+                    <southBoundingCoordinate>3.057</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2020-12-07
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-03-20
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El presente conjunto de datos contiene 24 registros de reptiles incluyendo 2 ordenes, 10 familias, 13 géneros y 13 especies. La mayoría de los registros de reptiles (12 especies) hacen parte del orden de las serpientes y lagartos (Squamata). La especie restante, el caimán o babilla (Caiman crocodylus), corresponde al orden Crocodylia. El grupo más diverso fue el de la familia de las serpientes cazadoras Colubridae, seguido por los gekkos diurnos Sphaerodactylidae, con una representación de tres y dos especies respectivamente.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis fuscoauratus</taxonRankValue>
+                    <commonName>Lagartija</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Caiman crocodilus</taxonRankValue>
+                    <commonName>Babilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cnemidophorus lemniscatus</taxonRankValue>
+                    <commonName>Lobito</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Gonatodes albogularis</taxonRankValue>
+                    <commonName>Lagartija</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Gymnophthalmus speciosus</taxonRankValue>
+                    <commonName>Lagarto</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hemidactylus frenatus</taxonRankValue>
+                    <commonName>Salamanqueja</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Iguana iguana</taxonRankValue>
+                    <commonName>Iguana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lepidoblepharis xanthostigma</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodeira septentrionalis</taxonRankValue>
+                    <commonName>Ojo de gato</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Mastigodryas pleei</taxonRankValue>
+                    <commonName>Cazadora</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Micrurus mipartitus</taxonRankValue>
+                    <commonName>Coral rabo de ají</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phrynonax poecilonotus</taxonRankValue>
+                    <commonName>Cazadora</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thecadactylus rapicauda</taxonRankValue>
+                    <commonName>Salamanqueja</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Este conjunto de datos hace parte de la Línea Base de Biodiversidad y Servicios Ecosistémicos generada para seis Ecoreservas, identificadas como áreas de propiedad de Ecopetrol destinadas en parte o completamente a la conservación de la biodiversidad y oferta de servicios ecosistémicos, sin limitar su vocación productiva.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Sandra P.</givenName>
+                <surName>Galeano</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>sgaleano@humboldt.org.co</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Daniela</givenName>
+                <surName>Garcia Cobos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>dgarciac@humboldt.org.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Una vez remitidos los especímenes a las instalaciones de las Colecciones Biológicas del Instituto Alexander von Humboldt, estos fueron lavados en agua, y transferidos a una solución preservante de Etanol al 70%. Posteriormente, se realizó la identificación y/o corroboración de la identidad taxonómica de los especímenes con base en literatura científica especializada y mediante la comparación con otros ejemplares de referencia ubicados en la Colección de Reptiles (IAvH-R). Estas determinaciones taxonómicas se realizaron hasta el nivel de especie. La taxonomía utilizada es de acuerdo a la propuesta en la plataforma ReptileDatabase (Uetz et al., 2021). Todos los ejemplares recolectados durante la salida de campo fueron depositados en la colección de reptiles (IAvH-R) del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Los tejidos fueron catalogados con un código IAvH-CT y fueron depositados en la colección de tejidos del Instituto Humboldt (sede Palmira) en donde se mantendrán crioconservados a temperaturas entre -155°C y -170°C en tanques de nitrógeno líquido.
+
+Para la digitalización y sistematización de los datos asociados a los registros, se realizó una validación geográfica de coordenadas del área de estudio, la cual incluyó corrección a nivel de vereda, municipio y departamento. Los datos fueron migrados a la base de datos de Specify mediante un formato tipo Darwin Core, con lenguaje controlado.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área de estudio hace parte de la ecoregión de bosque seco del Valle del Magdalena (Dinerstein et al. 2017) donde las principales coberturas vegetales corresponden a arbustal denso (57.42%) y vegetación secundaria (32%), que corresponden principalmente a zonas en regeneración joven y zonas en regeneración con vegetación alta, con la presencia en el predio La Tribuna de algunas zonas de bosque alto, resultado de procesos de regeneración de entre aproximadamente 20 y 25 años.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los muestreos de reptiles en el bosque seco de la Ecoreserva la Tribuna en el municipio de Neiva, se realizaron durante seis días netos, completando un esfuerzo de muestreo total de 156 horas/hombre. Estos se realizaron principalmente mediante el método libre de muestreo “Visual Encounter Survey” (VES), también conocido en español como Relevamiento por Muestreo Visual (REV). Se ejecutó este método que consiste en realizar transectos reportando y/o capturando todos los ejemplares encontrados, ya que se ha demostrado que es el método más costo-efectivo para obtener un mayor número de ejemplares y de especies en muestreos de corta duración (Angulo et al. 2006). Durante los seis días netos de muestreo, se realizaron un total de 12 transectos repartidos entre seis recorridos diurnos y seis nocturnos. Durante los transectos diurnos se buscaron principalmente reptiles con comportamiento de forrajeo diurno y a su vez se implementó un reconocimiento del terreno identificando los sitios más apropiados rodeados con cuerpos de agua como quebradas y lagunas, con el fin de repetir el mismo transecto durante el muestreo nocturno. Las jornadas diurnas se realizaron principalmente entre las 8:00 y 12:00 horas, mientras que los muestreos nocturnos se realizaron entre las 18:00 y 23 horas, con transectos de longitud variada entre 1.5 km y 3.5 km. Sin embargo, los tiempos de muestreo fueron susceptibles a cambios menores dependiendo de la cantidad de ejemplares pendientes por procesar de los encontrados durante los muestreos de la noche anterior. El número de personas por muestreo varió entre dos y cuatro, así como también el esfuerzo de muestreo (horas/hombre) por recorrido, dependiendo por ejemplo si la investigadora principal del componente iba acompañada del equipo de sonidos, logística y/o fotografía. 
+
+La búsqueda mediante el uso de VES fue complementada con métodos de remoción que consisten en utilizar herramientas como azadones, hachuelas y rastrillos para remover hojarasca, rocas móviles o troncos en descomposición, con el fin de encontrar especies que habitan o se refugian en estos microhábitats. Todos los individuos recolectados u observados fueron georreferenciados in situ utilizando el GPS de la aplicación AVENZA. Así mismo, se registró la mayor cantidad de datos ecológicos (comportamiento y microhábitat) asociados a los ejemplares recolectados y observados. Existe un registro que no cuenta con coordenadas debido a que fue capturado por el guía, que vive en una vereda aledaña a los sitios de muestreos y no disponía de las herramientas para adquirir las coordenadas.
+
+Se recolectó una submuestra (aproximadamente tres individuos por especie) de la totalidad de individuos encontrados en campo.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Se realizó una validación geográfica de las coordenadas, a nivel de veredas, municipios y departamentos. Para la identificación taxonómica de los ejemplares, se consultaron artículos de revisión de los grupos de interés y/o artículos de la descripción original de la especie. En caso de ser necesario, también se valido la determinación taxonómica con ejemplares de referencia depositados en la colección. La sistematización de la información fue realizada mediante formato de migración tipo Darwin Core.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="proyecto_FIBRAS">
+                <title>Proyecto FIBRAS</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Sandra P.</givenName>
+                    <surName>Galeano</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Convenio de cooperación No. 19-155 entre ECOPETROL y el Instituto de Investigación de Recursos Biológicos Alexader von Humboldt</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Este proyecto se llevó a cabo en áreas correspondientes a los departamentos del Huila, Casanare, Meta y la región del Magdalena Medio. En particular el componente de la Línea Base de Biodiversidad y Servicios Ecosistémicos de Ecoreservas, se enfocó en seis predios ubicados en los municipios de Neiva (Huila), Aguazul (Casanare), Puerto Gaitán (Meta),  Acacías y Castilla la Nueva (Meta) , Barrancabermeja (Santander)  y Cantagallo (Bolívar)</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>El proyecto FIBRAS es un acuerdo de cooperación para la planificación y gestión de la biodiversidad y sus contribuciones al bienestar para cinco áreas del territorio colombiano, bajo criterios de conservación y desarrollo sostenible basados en información científica. Como parte de este convenio surge la conformación de seis Ecoreservas, identificadas como áreas de propiedad de Ecopetrol destinadas en parte o completamente a la conservación de la biodiversidad y oferta de servicios ecosistémicos, sin limitar su vocación productiva.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:22Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/w9eqxj">Ecopetrol. S.A., Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (2022). Reptiles de la Ecoreserva La Tribuna (Neiva, Huila) - Proyecto FIBRAS. Version 1.2. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/w9eqxj accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation identifier="https://doi.org/10.1093/biosci/bix014">Dinerstein, E., Olson, D., Joshi, A., Vynne, C., Burgess, N.D., Wikramanayake, E.,et al.,(2017). An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm. BioScience, Vol 67(6): 534–545. https://doi.org/10.1093/biosci/bix014</citation>
+                <citation identifier="https://www.researchgate.net/publication/316238795_Tecnicas_para_el_inventario_y_muestreo_de_anfibios_Una_compilacion">Angulo, A., Rueda-Almonacid, J. V., Rodriguez-Mahecha, J. V., &amp; Marca, E. (2006). Técnicas para el inventario y muestreo de anfibios: Una compilación. Técnicas de inventario y monitoreo para los anfibios de la región Tropical Andina (pp. 135–171).</citation>
+                <citation identifier="http://reptile-database.org/ ">Uetz, P., Freed, P. &amp; Hošek, J. (eds.) (2021) The Reptile Database, http://www.reptile-database.org, accessed (septiembre 15, 2021). Electronic Database.</citation>
+                </bibliography>
+                <physical>
+                    <objectName>Reptiles de la Ecoreserva La Tribuna (Neiva, Huila) - Proyecto FIBRAS</objectName>
+                    <characterEncoding>utf-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>txt</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=reptiles_latribuna-fibras_2021</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/iavh.jpg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>IAvH</parentCollectionIdentifier>
+                    <collectionIdentifier>IAvH-R</collectionIdentifier>
+                    <collectionName>Colección de Reptiles del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+                </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

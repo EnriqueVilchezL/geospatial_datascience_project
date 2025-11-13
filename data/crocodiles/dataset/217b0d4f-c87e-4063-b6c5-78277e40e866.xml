@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="217b0d4f-c87e-4063-b6c5-78277e40e866"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/whdzq3</alternateIdentifier>
+        <alternateIdentifier>http://collections.mnhn.fr/ipt/resource?r=mnhn-ra</alternateIdentifier>
+        <alternateIdentifier>http://collections.mnhn.fr/ipt/resource.do?r=mnhn-ra</alternateIdentifier>
+        <alternateIdentifier>217b0d4f-c87e-4063-b6c5-78277e40e866</alternateIdentifier>
+        <alternateIdentifier>13700</alternateIdentifier>
+        <title>The reptiles and amphibians collection (RA) of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris)</title>
+        <creator>
+            <individualName>
+                <surName>MNHN</surName>
+            </individualName>
+            <organizationName>MNHN</organizationName>
+            <positionName>Provider</positionName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Simon</givenName>
+                <surName>Chagnoux</surName>
+            </individualName>
+            <organizationName>MNHN</organizationName>
+            <electronicMailAddress>gbifprovider@mnhn.fr</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Roge</givenName>
+                <surName>Bour</surName>
+            </individualName>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Alain</givenName>
+                <surName>Dubois</surName>
+            </individualName>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Ivan</givenName>
+                <surName>Ineich</surName>
+            </individualName>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Annemarie</givenName>
+                <surName>Ohler</surName>
+            </individualName>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Laure</givenName>
+                <surName>Pierre</surName>
+            </individualName>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Jérôme</givenName>
+                <surName>Courtois</surName>
+            </individualName>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2025-07-23
+        </pubDate>
+        <language>FRENCH</language>
+        <abstract>
+            <para>The collection of Reptiles and Amphibians of the Muséum National d&amp;#39;Histoire Naturelle started in the early 19th century and has handwritten catalogues that date from 1864. The records in the Reptile and Amphiphibian database were transcribed from these catalogues. Most entries have not yet been checked for errors or verified against the collections. Thus there is a great heterogeneity in taxonomy and in geographical information. Beside the individual labelling system, the collection uses numbers to store specimens according to their specific name. This allows attaching to this number various historical names and the valid one. Locality names are written usually in French transliteration. Our curators and collection managers can help users concerning these issues.
+Search results will give only part of the information available on the database. They help the researchers to learn about the holdings of the collection and the gross geographical origin. More detailed information can be obtained by writing to the curators. The results should not be used as primary data without check back to the specimens. The issue of the database is to prepare loan requests or visits to the collection. For any request contact: http://colhelper.mnhn.fr/</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Vertebrates</keyword>
+            <keyword>Types</keyword>
+            <keyword>Taxonomy</keyword>
+            <keyword>Zoology</keyword>
+            <keyword>Amphibia</keyword>
+            <keyword>Specimens</keyword>
+            <keyword>Reptilia</keyword>
+            <keyword>Collections</keyword>
+            <keyword>Amphibians</keyword>
+            <keywordThesaurus>No keyword thesaurus designated</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://collections.mnhn.fr/ipt/archive.do?r=mnhn-ra</url>
+            </online>
+        </distribution>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Laure</givenName>
+                <surName>Pierre</surName>
+            </individualName>
+            <organizationName>MNHN</organizationName>
+            <positionName>Correspondant</positionName>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:52Z</dateStamp>
+                <citation>MNHN, Chagnoux S (2025). The reptiles and amphibians collection (RA) of the Muséum national d&apos;Histoire Naturelle (MNHN - Paris). Version 55.424. MNHN - Museum national d&apos;Histoire naturelle. Occurrence dataset https://doi.org/10.15468/whdzq3 accessed via GBIF.org on 2025-10-11.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

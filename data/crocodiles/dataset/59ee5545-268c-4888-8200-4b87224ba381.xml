@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="59ee5545-268c-4888-8200-4b87224ba381"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/qyazak</alternateIdentifier>
+        <alternateIdentifier>59ee5545-268c-4888-8200-4b87224ba381</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=ecopetrol_apiay_fauna-flora</alternateIdentifier>
+        <title>Fauna y flora asociada a la modificación del Plan de Manejo Ambiental para el Bloque Apiay, departamento del Meta</title>
+        <creator>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Gerencia de Gestión Ambiental y Relacionamiento</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Concol by WSP</surName>
+            </individualName>
+            <organizationName>Concol by WSP</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 20 37-28</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(57) 1 2875300</phone>
+            <electronicMailAddress>concol@concol.com</electronicMailAddress>
+            <onlineUrl>https://www.concol.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Gerencia de Gestión Ambiental y Relacionamiento</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2022-12-20
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Dando cumplimiento a los requerimientos por parte del Ministerio de Ambiente y Desarrollo Sostenible – MADS (resolución 0821 de 2020) para los yacimientos del Bloque Apiay de hidrocarburos, se desarrolló la modificación del Plan de Manejo Ambiental para el Bloque Apiay.  El levantamiento de la lína base biótica se realizó en un polígono especifico en el departamento de Meta a través de monitoreos de fauna silvestre de vertebrados y caracterización florística de la región, con el fin de determinar la composición, estructura, diversidad y presencia de especies en esta región intervenida.</para>
+<para>Este recurso contiene los datos biológicos provenientes de las actividades de foto-trampeo, recorridos de búsqueda libre, instalación de redes de niebla, cámaras trampa, inventario forestal y ubicación de parcelas, que permitieron identificar la fauna silvestre presente en el área de influencia del proyecto Bloque Apiay, ubicado específicamente en los municipios de Acacías, San Carlos de Guaroa y Villavicencio.</para>
+<para>El presente recurso contiene 7.523 registros de fauna y flora obtenidos durante los años 2000 y 2020. Dichos registros fueron identificados en el área de influencia del proyecto en cuestión. Los datos están distribuidos en plantas (3.719), hongos (3.119) y animales (685).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Plantas vasculares</keyword>
+            <keyword>Reptiles</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Anfibios</keyword>
+            <keyword>Vertebrados</keyword>
+            <keyword>Inventario Forestal</keyword>
+            <keyword>Mamíferos</keyword>
+            <keyword>Plantas no vasculares</keyword>
+            <keyword>Líquenes</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=ecopetrol_apiay_fauna-flora</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los monitoreos se ubicaron en el área de incidencia del proyecto Bloque Apiay en Acacías, San Carlos de Guaroa y Villavicencio, municipios del departamento del Meta. La gran zona se caracteriza por presentar una temperatura promedio superior a 24°C, precipitaciones entre 2000 y 4000 mm anuales y elevaciones hasta los 1000 msnm.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.683</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.238</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.13</northBoundingCoordinate>
+                    <southBoundingCoordinate>3.763</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2000-12-30
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2020-03-07
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este recurso contiene un total de 7.523 registros biológicos, pertenecientes a los reinos Plantae (3.719), Fungi (3.119) y Animalia (685). El reino Plantae está agrupado en cinco clases, 32 ordenes, 64 familias y 151 géneros. Un 83% está clasificado a nivel de especie y 17% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Fungi está agrupado en cinco clases, once ordenes, 25 familias y 48 géneros. Un 30% está clasificado a nivel de especie y 70% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Candelariomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Dothideomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Animalia está agrupado en cuatro clases, 33 ordenes, 83 familias y 179 géneros. Un 99% está clasificado a nivel de especie y 1% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <surName>Gerencia de Gestión Ambiental y Relacionamiento</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A.</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>VERTEBRADOS
+
+Anfibios y reptiles: i) Detecciones mediante Encuentro Visual (DVE): La metodología de Detecciones mediante Encuentro Visual (DVE), abarca la búsqueda sistemática y constante de este grupo en el área de estudio, inspeccionando los microhábitats presentes a lo largo de transectos determinados preliminarmente mediante fotointerpretación. Esta técnica sirve para medir la composición de especies, abundancia relativa, asociación de hábitats y nivel de actividad de las especies (Lips et al., 2001).  Se realizó mediante recorridos diarios de aproximadamente dos (2) km de longitud por unidad de cobertura identificada. Los recorridos se realizaron entre dos (2) personas, en dos turnos (diurno y nocturno), abarcando horas de actividad en la mañana (7:00-11:00), en la tarde (14:00 a 16:00) y en la noche (18:00 a 22:00) (Painter et al., 1999). Durante los recorridos se realizó una búsqueda exhaustiva en microhábitats como hojarasca, ramas y hojas, con mayor esfuerzo en el cruce de quebradas. Los datos de registro de especies detectadas se anotaron en formatos de campo junto con el respectivo registro fotográfico y coordenadas geográficas. Los individuos capturados durante el muestreo se depositaron en bolsas plásticas para su identificación in situ, se fotografiaron y se liberaron en el mismo sitio. En caso de que algún individuo capturado representara una novedad en su distribución o presentara dificultad en su identificación, este fue colectado en un máximo de cuatro (4) ejemplares por morfoespecie, siguiendo los métodos de sacrificio, etiquetado, preservación y transporte estipulados en el permiso de recolección de especies silvestres (resolución 911 de 2019) (ANLA 2019). ii) Registro sonoro: En el caso de los anfibios, las vocalizaciones de los machos son útiles en la identificación de especies poco conspicuas o en zonas de difícil acceso como pantanos y lagunas. Las grabaciones se realizaron a la par de los recorridos de detección visual, en aquellos lugares en donde se detectó la vocalización de machos sexualmente activos, la grabación incluyó información de fecha y hora, cobertura vegetal y otros datos de importancia para la identificación de las especies. Posteriormente, se cotejaron las vocalizaciones con bases de datos existentes; se realizó la identificación de las especies y se estimó el número de machos en por grabación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: i) Recorridos de detección visual: Se realizaron observaciones directas mediante recorridos en transectos de ancho fijo a una velocidad constante cubriendo las diferentes coberturas vegetales identificadas. Bajo esta metodología se registró únicamente aquellas especies observadas a una distancia de 25 m a cada lado del transecto y que presentaran un desplazamiento contrario al trayecto del observador para evitar reconteos (Ralph et al., 1996; Villarreal et al., 2006). Los recorridos diarios abarcaron aproximadamente dos (2) km de longitud por unidad de cobertura identificada y se realizaron en dos turnos (diurno y vespertino), abarcando horas de mayor actividad, en la mañana (5:00-11:00) y en la tarde (15:00 a 18:00). Los datos de registro de especies detectadas se anotaron en los formatos de campo junto con el respectivo registro fotográfico y coordenadas geográficas. ii) Redes de niebla: Para la captura de aves se instalaron un máximo de diez (10) redes de niebla de 12 m de largo y 36 mm de ojo de malla (ANLA 2019). Para mayores tasas de captura se instalaron en zonas de transición entre coberturas y ecotonos. Las redes se abrieron desde las 06:00 a las 11:00 horas y de las 15:00 a las 18:00 horas; siendo supervisadas cada 30 minutos, obteniendo un esfuerzo de muestreo de ocho (8) horas por red por día en coberturas de origen natural (principalmente bosques) (Ralph et al., 1996; ANLA 2019) Las aves capturadas fueron dispuestas de forma individual en una bolsa de tela e identificadas por medio de guías de campo para identificar recapturas, se procedió a marcar cada individuo cortando el ápice de una pluma del ala, con el fin de diferenciar entre individuos. Los datos de registro de especies detectadas se anotaron en los formatos de campo junto con el respectivo registro fotográfico y coordenadas geográficas. Los individuos capturados se identificaron in situ, se fotografiaron y se liberan en el mismo sitio. En caso de que algún individuo capturado representará una novedad en su distribución o presente dificultad en su identificación, este fue colectado en un máximo de cuatro (4) ejemplares por morfoespecie, siguiendo los métodos de sacrificio, etiquetado, preservación y transporte estipulados en el permiso de recolección de especies silvestres (resolución 911 de 2019) (ANLA 2019). iii) Registro sonoro: Durante los recorridos de detección visual, se realizaron grabaciones de las vocalizaciones de las aves utilizando una grabadora profesional. La grabación incluyó información de fecha y hora, cobertura vegetal y otros datos de importancia para la identificación de las especies. Posteriormente, se cotejaron las vocalizaciones con bases de datos de cantos existentes (Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt, Xeno-canto, Avibase, etc).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: El monitoreo de la mastofauna se llevó a cabo dividiendo el grupo en tres niveles: Grandes mamíferos (en especial canidos, felinos, primates y acuáticos) mamíferos medianos, mamíferos pequeños (en especial roedores) y mamíferos voladores (quirópteros).
+
+i) Recorridos y puntos fijos de observación: Se realizaron recorridos diurnos y nocturnos de mínimo dos (2) kilómetros de longitud, con dos (2) observadores por las diferentes coberturas vegetales identificadas, abarcando la actividad de los mamíferos en la mañana de 6:00 a 10:00 Horas, en la tarde de 18:00 a las 17:30 Horas y en la noche de las 18:00 a 21:00 Horas. Se realizó búsqueda de rastros (huellas, heces, piel, restos óseos, etc.) en lugares estratégicos como sendas, cuerpos de agua, árboles frutales, madrigueras, entre otros. Los datos de registro de especies detectadas se anotaron en los formatos de campo junto con el respectivo registro fotográfico y coordenadas geográficas. En el caso de rastros se toma registro adicional de datos morfométricos. ii) Cámaras de rastreo nocturno: Para la detección de mamíferos grandes y medianos se instalaron un mínimo de cinco (5) cámaras de rastreo nocturno las cuales fueron cámaras fotográficas de disparo por detección de movimiento que permiten hacer registros en todo momento en ausencia del investigador. Para la instalación se determinaron senderos animales para aumentar el éxito de captura, la cámara se instaló en un árbol o arbusto con el lente dirigido a un cebo (sardina/fruta). con una distancia mínima de 200 metros entre cada una. Las cámaras permanecieron instaladas por un mínimo de (3) días por sitio de muestreo. Los cebos fueron reemplazados todos los días en horas de la mañana y las cámaras revisadas para cambio de pilas u otros ajustes. iii) Trampas Sherman: Para la captura de mamíferos terrestres pequeños, se emplearon un máximo de 50 trampas Sherman, ubicadas en diferentes coberturas vegetales durante máximo 10 días consecutivos (ANLA 2019). Para la instalación de las trampas se identificaron sitios de alto tránsito de pequeños mamíferos y madrigueras, con el propósito de aumentar el éxito de captura. Las trampas se instalaron y cebaron en horas de la tarde, dejándose abiertas durante toda la noche. En la mañana siguiente se revisaron y cebaron nuevamente. El cebo consiste en una mezcla de avena en hojuelas, mantequilla de maní, banano, esencia de banano y/o sardinas. iv) Redes de niebla Los pequeños mamíferos voladores (quirópteros) se muestrearon mediante el uso de máximo diez (10) redes de niebla (ANLA 2019), cada una de 12x3m, y con ojo de malla de 32 mm, instaladas en cada una de las unidades de cobertura vegetal. Las redes fueron situadas en sitios estratégicos de paso de murciélagos como quebradas, depresiones en el relieve, bordes de bosques y vegetaciones secundarias. Se abrieron máximo por tres noches (ANLA 2019) a partir de las 17:30, permaneciendo abiertas hasta las 22:00 Horas (o un máximo de 6 horas (ANLA 2019)), con revisiones cada 30 minutos para extraer los individuos capturados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FLORA
+
+i) La caracterización florística y estructural de los ecosistemas naturales en el área de influencia del proyecto: Se realizó a partir del establecimiento de parcelas temporales de muestreo, las cuales son una representación estadística en función del área para cada unidad de cobertura y ecosistema; identificando la presencia de especies en veda, endémicas, amenazadas, con valor científico y cultural; también se realizaron los cálculos de volumen de aprovechamiento forestal, por cobertura vegetal de cada ecosistema, mediante muestreo estadístico. Se realizó la cuantificación de la diversidad florística y análisis estructural a partir del desarrollo de tres etapas: Una inicial, donde con base en cartografía e información existente de la zona se establecieron posibles puntos de muestreo y se concretan detalles previos al trabajo de campo; la segunda, donde se definieron los puntos de muestreo, el establecimiento de parcelas y la toma de datos; y una última etapa relacionada con el procesamiento y análisis de la información. En este sentido, el objetivo de este proceso metodológico fue recopilar la información básica a partir de métodos de muestreo y análisis utilizados en estudios de coberturas vegetales, considerando los aspectos técnicos y legales establecidos por parte de las entidades ambientales, realizando la caracterización de la vegetación de los ecosistemas naturales identificados en el área de estudio a escala 1:10.000. Se establecieron parcelas para cada una de las unidades de muestreo ubicadas en el área de influencia en las coberturas y ecosistemas objeto de caracterización: Bosque de galería y/o ripario (Helobioma y Peinobioma), Vegetación secundaria alta (Helobioma y Peinobioma), Vegetación secundaria baja (Helobioma y Peinobioma), Pastos arbolados (Helobioma y Peinobioma). Las parcelas se distribuyeron a lo largo y ancho del área de influencia preliminar, de manera tal que permitieran la representatividad y alcanzar el error de muestreo tanto por unidad de cobertura como por ecosistema, ya que las cuatro (4) coberturas se encuentran en los dos biomas determinados para el área de influencia. En total se establecieron 78 parcelas, de las cuales 35 se ubican en el helobioma y 43 en el peinobioma. Lo anterior contemplando lo establecido en los términos de referencia HI-TER-1-03 del proyecto con un inventario estadístico con una probabilidad del 95% y un error de muestreo no mayor del 15% por unidad de cobertura y ecosistema. En cada una de las unidades muestral, se recolectó un máximo de tres (3) muestras botánicas por individuo de las especies de encontradas y que no pudieron ser identificadas en campo por los profesionales y con base en la lista de especies probables en la zona de estudio; para cada individuo recolectado se registró color de las hojas, flores, indumento y frutos, así como olor y textura. Todos los individuos recolectados se prensaron y preservaron empleando etanol al 70%, utilizando las técnicas clásicas de herbario, para obtener así colecciones idóneas para el debido ingreso a la colección del Herbario Nacional Colombiano (COL). Para la determinación se emplearon claves descriptivas, entre otras Mitchell &amp; Daly (2015), Fernández-Alonso (1996), Flora Neotropica (1990-2010), catálogos, Catálogo de Plantas y Líquenes de Colombia (2015) y complementando con monografías y comparaciones directas con los ejemplares depositados en COL, en Field Museum Herbarium. Adicionalmente, se comparó el ejemplar recolectado con las imágenes de los ejemplares tipo disponibles en Global Plants (https://plants.jstor.org/). Adicionalmente todos los nombres de las especies identificadas se revisaron y unificaron según The Plant List (http://www.theplantlist.org/) o Wold Flora Online (http://www.worldfloraonline.org/).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>ii) Caracterización de especies forestales y helechos arborescentes en veda nacional: El levantamiento de la información de campo fue desarrollado por una cuadrilla que realizó diferentes recorridos en el Bloque Apiay, con el fin de verificar la presencia de especies forestales y helechos arbóreos en veda nacional en estado fustal (DAP ≥ 10 cm), latizal (Altura &gt; 1,50 cm, DAP &lt; 10 cm) y brinzal (Altura 0,30 – 1,5 m, DAP no aplica). Por otra parte, se tuvo en cuenta la información obtenida de las comisiones de flora que realizaron parcelas de caracterización dentro del área de influencia preliminar para el Bloque Apiay. La numeración se realizó mediante la marcación con pintura de aceite (color amarillo), en la corteza del fuste hasta conformar una superficie que garantizara una mayor permanencia de esta, para que posteriormente pueda ser corroborada por los demás actores del proyecto y las entidades pertinentes. La marcación se realizó de forma consecutiva con el prefijo VF (veda forestal) y el número consecutivo, ejemplo: VF 1, VF 2, VF 3… VFn y su posición fue georreferenciada con ayuda de un equipo GPS (Global Positioning System) Garmin 64S. Se realizó la colecta de las muestras botánicas con la ayuda de un bajarramas o cortarramas, consignado en la libreta y etiqueta de campo la descripción de la planta, localidad, hábitat, altitud, nombres comunes y usos, nombres del colector, y fecha de colecta. Una vez colectadas las muestras, estas fueron depositadas en bolsas plásticas ziploc independientes con un número de identificación que estuviera relacionado en la libreta de campo.  Se realizó prensado del material vegetal, posterior secado en laboratorio y finalmente su identificación taxonómica por medio del uso de literatura botánica (claves taxonómicas, descripciones, ilustraciones etc.) y mediante el uso de equipos que respaldan esta labor se logró una determinación taxonómica a nivel de especie.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>iii) Caracterización de especies epífitas, terrestres y/o rupícolas en veda nacional: El muestreo para las especies epífitas se realizó teniendo como referencia el Protocolo para un Análisis Rápido y Representativo de la Diversidad de Epífitas (RRED – Analysis), según el cual se mide con base en el muestreo de una hectárea de bosque ocho (8) forófitos maduros para especies vasculares y líquenes, y cinco (5) forófitos para briófitos. Esta metodología fue adaptada, de tal manera que en cada punto de muestreo se realizó el levantamiento de 8 forófitos en una hectárea en los cuales se evaluaron las especies vasculares y no vasculares. Se realizó la selección de los forófitos, su georrefenciación y marcado. Se registró la información asociada al forófito como nombre común, morfoespecie, datos dasométricos (DAP, altura total), se colectó la muestra y se le asignó su respectivo código de colección. - Epifitas vasculares: En el caso de las epífitas vasculares, la abundancia de las especies se expresa como el número de individuos que crece sobre el árbol hospedero. Por lo tanto, durante la caracterización de las especies de epífitas vasculares, se realizó el conteo de todos los individuos por especie encontrados en cada uno de los estratos del forófito. Para el caso de los estratos altos, específicamente las coronas interna, media y externa, al no poder acceder a ellos directamente se implementó el uso de desjarretadora o bajarramas para la toma de muestras botánicas, apoyada por el uso cámaras fotográficas con zoom óptico de 50x y 60x, como mecanismo de observación directamente sobre el forófito (hospedero). - Epífitas no vasculares: Para la caracterización de las especies no vasculares en forófitos arbóreos se evaluó un área máxima de 1.600 cm2 en cada uno de los estratos del forófito; con el fin de registrar las morfoespecies a través de la implementación de una plantilla de acetato de 40 cm x 40 cm. Para el caso de forófitos arbustivos se evaluó un área de 100 cm2 por cada estrato; para esto, se utilizó una plantilla de acetato de 10 cm x 10 cm de acuerdo con las áreas mínimas propuestas por Mota de Oliveira et al., (2009) y Gil Novoa &amp; Morales Puentes (2014) quienes sugieren que, para ramas delgadas de los arbustos o el dosel externo de los árboles, se reduzca el área mínima propuesta por Iwatsuki (1960). En los formularios se registró la información correspondiente a: fecha, georreferenciación, número de forófito, especie de forófito, estrato en el forófito, morfoespecie, abundancia, código de colección (forófito y especie no vascular), y observaciones o características adicionales que se utilizaron en el proceso de determinación del material colectado.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>iv) Muestreo para sustrato terrestre/rupícola: Para el muestreo especies vasculares y no vasculares en los sustratos terrestre y rupícola se realizó a el levantamiento de una parcela de 1 x 1 m (dentro de las parcelas de caracterización de epífitas) registrando los datos de abundancia para especies vasculares y se estimando la cobertura en cm2 de especies no vasculares con ayuda de una cuadricula de acetato de 40 x 40 cm. Se realizó la georreferenciación en el centroide de la parcela empleando GPS, para la toma de datos y colecta, se consideraron los diferentes sustratos, tales como, suelo, rocas y troncos en descomposición.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Análisis de la información: La información obtenida en campo fue digitalizada y procesada en el programa Excel, para así posteriormente poder calcular los análisis estadísticos de los datos en paquetes estadísticos (PAST® y Estimates® Versión 9.1.0), con el fin de determinar los principales índices de diversidad que definieron la biodiversidad de especies presentes en el Bloque Apiay, para lo cual se tuvo en cuenta los siguientes parámetros e índices estadísticos riqueza, diversidad y estructura. Una vez consolidada la información, se procedió a realizar un catálogo ilustrado de especies en veda registradas en el bloque Apiay, haciendo diferenciación entre plantas vasculares (Bromelias y Orquídeas) y no vasculares (Musgos, Hepáticas y Líquenes). Para esto, fue importante para el caso de las plantas vasculares tomar fotografías directamente en campo, mientras que para las plantas no vasculares los especialistas que determinaron las muestras entregaron un registro fotográfico estéreo o microscópico de cada especie.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El Bloque Apiay se localiza en jurisdicción del departamento del Meta, en los municipios de Villavicencio y Acacías, en jurisdicción de la Corporación para el Desarrollo Sostenible del Área de Manejo Especial de La Macarena – CORMACARENA. Abarca un área estimada de 29788.98 ha de acuerdo con los límites establecidos por los vértices del bloque y se localiza a una distancia aproximada de 95 km al sureste de la ciudad de Bogotá. Los monitoreos se ubicaron en el área de incidencia del proyecto Bloque Apiay en Acacías, San Carlos de Guaroa y Villavicencio, municipios del departamento del Meta. La gran zona se caracteriza por presentar una temperatura promedio superior a 24°C, precipitaciones entre 2000 y 4000 mm anuales y elevaciones hasta los 1000 msnm.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se realizaron muestreos de la fauna silvestre para vertebrados (anfibios, reptiles, aves y mamíferos) y cada grupo tuvo metodologías diferentes muestreo. Al grupo de las aves y mamíferos voladores se les realizaron grabaciones durante el muestreo. Por último, la caracterización y muestreo florístico se dividió en un inventario forestal para las coberturas de bosques, caracterización de plantas vasculares - no vasculares y de las especies en veda, asimismo, el muestreo de cada componente florístico tuvo diferentes metodologías.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>MODIFICACIÓN DEL PLAN DE MANEJO AMBIENTAL DEL BLOQUE APIAY</title>
+                <personnel>
+                    <individualName>
+                    <surName>Gerencia de Gestión Ambiental y Relacionamiento</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <abstract>
+                    <para>ECOPETROL S.A. en su estrategia de negocio, contempla asegurar la continuidad operativa del Bloque Apiay y potenciar su explotación comercial de hidrocarburos. Esta actividad de explotación de hidrocarburos actualmente desarrollada en la zona ha impulsado varios sectores de la economía, debido al intercambio de bienes y servicios, dinamismo del comercio, requerimiento de mano de obra local, transporte y crecimiento indirecto del sector manufacturero; incidiendo de forma positiva en el Producto Interno Bruto de la región. 
+
+Con el objetivo de continuar con este importante aporte a la economía regional y nacional, ECOPETROL S.A. proyecta viabilizar nuevas estrategias de producción y fortalecer las ya existentes para así fomentar la producción de hidrocarburos en el Bloque Apiay, en aras de garantizar la continuidad de la operación. Lo anterior implica la modificación del Plan de Manejo Ambiental Integral establecido por el entonces Ministerio del Medio Ambiente, hoy Ministerio de Ambiente y Desarrollo Sostenible a través de la Resolución 0782 del 18 de septiembre de 2012 para los Campos del Área de la Gerencia llanos, Área Bloque Apiay Ariari y compuesto por los campos Apiay, Suria y Reforma Libertad, hoy, Bloque Apiay, y que en su momento modificó la Resolución 137 del 11 de febrero de 2002 (Aclarada por la Resolución 1048 del 15 de noviembre de 2002). 
+
+Las estrategias contempladas para incrementar la producción de hidrocarburos en el Bloque Apiay incluyen la construcción de clústers, plataformas y/o facilidades; así como la perforación de nuevos pozos y reacondicionamiento de pozos existentes y proyectados, la construcción y operación de líneas de flujo, la construcción de una estación de recolección y tratamiento al sur del bloque en jurisdicción del municipio de Acacias, la adecuación, operación, mantenimiento de infraestructura petrolera, la construcción, adecuación y mantenimiento de vías, la generación, distribución y transmisión de energía eléctrica, la entrega y recibo de fluidos a terceros, la reinyección de fluidos en el sistema petrolifero (mantenimiento de presión del yacimiento, aumento del factor de recobro, recuperación terciaria y disposición de aguas de perforación y producción); así como la gestión de residuos (Aprovechamiento de residuos en el marco de la estrategia nacional de economía circular). 
+
+La modificación del Plan de Manejo Ambiental Integral del Bloque, que se soporta con el presente estudio, tiene como objeto el suministrar la información pertinente para evaluar la viabilidad de las estrategias planteadas para el desarrollo del Bloque Apiay, contemplando como criterios relevantes el menor impacto socio ambiental y la optimización racional en el uso de los recursos naturales, para la evaluación respectiva por la Autoridad Nacional de Licencias Ambientales (ANLA); siendo enmarcado en los requerimientos de la Resolución 1543 del 06 de agosto de 2010 (MADS, 2010) y el cumplimiento de la normatividad ambiental vigente a nivel nacional.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El Bloque Apiay se localiza en jurisdicción del departamento del Meta, en los municipios de Villavicencio y Acacías, en jurisdicción de la Corporación para el Desarrollo Sostenible del Área de Manejo Especial de La Macarena – CORMACARENA. Abarca un área estimada de 29788.98 ha de acuerdo con los límites establecidos por los vértices del bloque y se localiza a una distancia aproximada de 95 km al sureste de la ciudad de Bogotá.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:48Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/qyazak">Ecopetrol S.A., Concol by WSP (2022). Fauna y flora asociada a la modificación del Plan de Manejo Ambiental para el Bloque Apiay, departamento del Meta. Version 1.2. Ecopetrol S.A.. Occurrence dataset https://doi.org/10.15472/qyazak accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Villareal, Alvarez, M., &amp; colaboradores, y. (2006). Manual de métodos para el desarrollo de inventarios de biodiversidad. Bogota: Instituto Alexander Von Humboldt.</citation>
+                <citation>Bernal, R., S.R. Gradstein &amp; M. Celis (eds.). 2015. Catálogo de plantas y líquenes de Colombia. Instituto de Ciencias Naturales, Universidad Nacional de Colombia, Bogotá. http://catalogoplantasdecolombia.unal.edu.co.</citation>
+                <citation>MAVDT. (2010). Términos de referencia para el sector hidrocarburos para estudios de impacto ambiental para proyectos de explotación de hidrocarburos HI-TER-1-03. Bogota, D.C.: Ministerio de Ambiente, Vivienda y Desarrollo Territorial, Dirección de Licencias, Permisos y Trámites Ambientales.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ecopetrol.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

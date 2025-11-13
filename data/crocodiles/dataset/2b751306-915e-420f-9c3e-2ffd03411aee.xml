@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="2b751306-915e-420f-9c3e-2ffd03411aee"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/thrcja</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=parex_eia122_fauna-flora</alternateIdentifier>
+        <title>Biodiversidad asociada al Estudio de Impacto Ambiental (EIA) área de desarrollo Casanare 122</title>
+        <creator>
+            <individualName>
+                <surName>Parex Resources (Colombia) AG Sucursal</surName>
+            </individualName>
+            <organizationName>Parex Resources (Colombia) AG Sucursal</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Cl. 113 #7 21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>colaborador.ambientalv4@parexresources.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>MCS Consultoría y Monitoreo Ambiental SAS</surName>
+            </individualName>
+            <organizationName>MCS Consultoría y Monitoreo Ambiental SAS</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Cra 17 No. 166 -72</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(601) 6797855</phone>
+            <electronicMailAddress>mcsconsultoria@mcsconsultoria.com</electronicMailAddress>
+            <onlineUrl>https://www.mcsconsultoria.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Parex Resources (Colombia) AG Sucursal</surName>
+            </individualName>
+            <organizationName>Parex Resources (Colombia) AG Sucursal</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Cl. 113 #7 21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>colaborador.ambientalv4@parexresources.com</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2024-12-09
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>La empresa PAREX RESOURCES (COLOMBIA) AG SUCURSAL llevó a cabo el Estudio de Impacto Ambiental – EIA, para el Área de Desarrollo Casanare 122, con el objetivo de obtener la Licencia Ambiental Global necesaria para llevar a cabo la explotación de hidrocarburos convencionales en la zona. Este estudio se realizó siguiendo los lineamientos establecidos en la Metodología General para la Elaboración y Presentación de Estudios Ambientales – MGEPEA (acogida mediante la Resolución 1402 del 25 de julio de 2018 del Ministerio de Ambiente y Desarrollo Sostenible – MADS), y los Términos de referencia para la elaboración del Estudio de Impacto Ambiental para los proyectos de explotación de hidrocarburos HI-TER-1-03, acogidos mediante Resolución 1543 del 06 de agosto de 2010 del Ministerio de Ambiente, Vivienda y Desarrollo Territorial (actualmente MADS).</para><para>El área de desarrollo Casanare 122 se localiza en el departamento de Boyacá en el municipio de Paya, y en el departamento de Casanare, en los municipios de Yopal, Nunchía, Pore y Támara. Los 33.884 registros biológicos asociados a este recurso fueron tomados en los años 2022, 2023 y 2024. Se utilizó algunas metodologías como los transectos de observación, parcelas de caracterización de flora, cámaras trampa, encuestas, encuentros ocasionales, entre otros. Taxonómicamente este recurso se encuentra dividido en los reinos: Animalia (6.305), Plantae (23.469) y Fungi (4.110).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Cámara trampa</keyword>
+            <keyword>EIA.</keyword>
+            <keyword>Transecto de ancho variable</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Fauna silvestre</keyword>
+            <keyword>Epífitas</keyword>
+            <keyword>Red de niebla</keyword>
+            <keyword>Flora fustal</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=parex_eia122_fauna-flora</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El área de desarollo Casanare 122, se encuentra localizada en el departamento de Boyacá, en el municipio de Paya, y en el departamento de Casanare, en los municipios de Yopal, Nunchía, Pore y Támara. Cuenta con una superficie 55.663,890 ha.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.372</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.007</eastBoundingCoordinate>
+                    <northBoundingCoordinate>5.915</northBoundingCoordinate>
+                    <southBoundingCoordinate>5.402</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2022-08-18
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-03-30
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2024-01-16
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-06-12
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>6.305 registros biológicos pertenecientes al reino Animalia, distribuidos en 4 clases, 37 órdenes, 102 familias, 331 géneros y 457 especies. Del total, un 99.1% fue identificado a nivel de especie y el 0.9% restante identificado a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>23.469 registros biológicos pertenecientes al reino Plantae, distribuidos en 6 clases, 41 órdenes, 92 familias, 331 géneros y 457 especies. Del total, un 82.2% fue identificado a nivel de especie y un 17.8% identificado a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Marchantiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>4.110 registros biológicos pertenecientes al reino Fungi, distribuidos en 4 clases, 8 órdenes, 17 familias, 29 géneros y 27 especies. Del total, un 64.2% fue identificado a nivel de especie, un 35.7% a nivel de género y un 0.1% identificado a nivel de familia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Candelariomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Laura</givenName>
+                <surName>Lozano</surName>
+            </individualName>
+            <organizationName>Parex Resources (Colombia) AG Sucursal</organizationName>
+            <positionName>Profesional ambiental</positionName>
+            <address>
+                <deliveryPoint>Cl. 113 #7 21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>colaborador.ambientalv4@parexresources.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FLORA: Una vez definidas las diferentes unidades de cobertura dentro del AD Casanare 122, se determina la forma y tamaño de las unidades muestrales a levantar en campo para cada cobertura en el premuestreo, de acuerdo con las características estructurales, fisonómicas y sucesionales de las mismas; acorde al tipo de comunidad vegetal se trabaja con parcelas rectangulares y/o cuadradas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para comunidades boscosas se realizaron parcelas de 100m x10m (0,1 ha) siempre y cuando el área a muestrear fuera amplia ya que este tipo de parcelas facilita la evaluación de las variables dendrométricas de cada uno de los individuos en campo, permitiendo realizar recorridos en línea recta sin hacer grandes desplazamientos laterales126; para la vegetación secundaria baja se realizaron unidades de 100m2 (10x10m) acorde a lo recomendado por Quesada (2000) y CATIE et al. (2002), debido al tamaño de los elementos arbóreos y a la homogeneidad esperada en estructura y composición florística, así mismo para la vegetación secundaria alta se definieron unidades de muestreo de 500 ,2 (50x10). Para la caracterización de los pastos arbolados, pastos arbolados con palma, pastos enmalezados y pastos limpios se levantaron unidades de 100m x 10m. La regeneración natural dentro de cada una de las parcelas de 100m x 10 m se caracterizó estableciendo de manera anidada parcelas de 5 m x 5 m (25 m2) y 2 m x 2 m (4 m2) con el fin de evaluar la vegetación perteneciente a las categorías latizal, brinzal y renuevos (organizándolas en subparcelas internas). Para coberturas con pastos limpios y enmalezados se caracterizaron las herbáceas a través de parcelas de 1m2 (1x1m).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>De cada una de las poblaciones o unidades de cobertura vegetal naturales y semi-naturales y ecosistemas identificados de forma preliminar, se extrajo una muestra compuesta de varias unidades muestrales previas para la realización del premuestreo en el Área del Bloque, con el objetivo de realizar el análisis florístico estructural al igual que el análisis estadístico.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se contó con la colaboración de auxiliares de campo de la zona, que tuvieron la función de abrir senderos o trochas y efectuar el montaje de las parcelas de caracterización, además de la medición y marcaje de los individuos inventariados; al tiempo que asistieron a los tres (3) profesionales en la identificación de las especies proporcionando los nombres vernaculares. Con la previa identificación de las unidades de cobertura vegetal y la definición de la ubicación de las parcelas de premuestreo por bioma, se procedió al levantamiento de la información en campo, verificando los puntos asignados en oficina e instalando las parcelas para cada cobertura de acuerdo con las formas y tamaños preestablecidos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se realizaron en total 413 parcelas para el muestreo en el Área del bloque las cuales 157 corresponden a las radicadas en el EIA realizadas entre Julio- agosto del año 2022 y que fueron posteriormente verificadas en la fase de campo realizada entre Mayo y Junio del 2024. Adicionalmente en los nuevos muestreos se establecieron un total de 256 parcelas nuevas que permitieran complementar el muestreo estadístico. Cada una de estas parcelas se georreferenció se identificó con un ID de parcela para luego ser localizadas en el plano y visitadas posteriormente, además todos los individuos fueron marcados con pintura de color amarillo de las diferentes categorías de tamaño inventariados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para cada una de las parcelas, en las tablets de recolección de información, con la aplicación Fulcrum, se registró la información dendrométrica de cada uno de los individuos inventariados e información general del sitio muestreado (fecha, municipio, vereda, coordenadas, tipo de cobertura, tipo de bioma, entre otros).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La toma de información dendrométrica consistió en la toma de variables tales como: especie (nombre común), circunferencia a la altura del pecho (CAP), altura total (HT), altura comercial (HC), estado fitosanitario (bueno, regular y malo), hábito, uso de la especie, ubicación espacial XY y observaciones de ser necesarias. Se asignó para cada uno de los individuos inventariados un código de identificación (ID), por medio de pintura esmaltada de color amarillo para facilitar su ubicación por medio de un número consecutivo y se procedió a tomar registro fotográfico. Para ello, además se utilizaron cintas métricas, GPS, cámara fotográfica y decámetro.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En lo posible se buscó la identificación en campo de cada una de las especies encontradas, teniendo en cuenta caracteres vegetativos diagnósticos tales como exudados en corteza y ramas, color, textura, olores característicos, filotaxia, presencia o ausencia de estípulas, presencia de indumentos, tipos de venación, presencia y características de estructuras reproductivas (flores y/o frutos). Especies que no pudieron ser determinadas en campo, fueron fotografiadas y para este caso, se recolectaron ejemplares para posteriormente ser identificados por comparación en colecciones de herbario. Estos ejemplares se recolectaron siguiendo la metodología de colección de especies incluida dentro del “Manual de Métodos Para el Inventario de Biodiversidad” (Villareal et al, 2006) y posteriormente se llevó el material colectado para la clasificación taxonómica a entidades especializadas. Para la colección en el campo se utilizaron bolsas plásticas transparentes de 30x40 cm para cada muestra botánica y posteriormente fueron depositadas en un costal para evitar la excesiva humedad. El prensado del material se realizó de manera diaria. El envío de las muestras se realizó de forma semanal.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para el muestreo de epífitas vasculares se seleccionaron los forófitos a muestrear teniendo en cuenta los criterios de altura, DAP, Corteza, porcentaje de epífitas, distancia mínima entre árboles y copas de los hospederos. A cada fustal evaluado se marcó con pintura en aceite y fueron censados todos los presentes en los estratos 1, 2, 3, 4 y 5 (Distribución vertical). A cada morfotipo de especies vascular se tomaron datos de ubicación vertical en el forófitos y número de individuos. Para epífitas no vasculares, mediante el uso de una cuadrícula en acetato de 20 x 20 cm (400 cm2) * se registraron las abundancias de las especies (morfotipo) por cada una de las zonas de Johansson consideradas en las zonas 1 y 2, teniendo en cuenta que son las zonas de más fácil visualización por inspección directa, mediante la realización de dos replicas por cada zona. Cada morfotipo fue fotografiado y asignado un código de identificación único para su posterior determinación taxonómica. Las muestras fueron retiradas con una navaja, de acuerdo a la consistencia del árbol y tomando siempre una muestra representativa que permita la determinación taxonómica más precisa posible (dado que se requiere de la observación de características morfológicas con instrumentos ópticos especializados y la aplicación de pruebas químicas).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FAUNA - Herpetofauna: Para los grupos de anfibios y reptiles se utilizó el método VES (Survey Visual Encounter) propuesto por Heyer et al. (1994)188 y Angulo et al. (2006), esta técnica permite hacer recorridos lineales de ancho variable, en busca de individuos de forma constante, en un tiempo estimado. Para la determinación taxonómica de los individuos en campo se realizó a partir de claves taxonómicas, guías y textos de divulgación científica tales como: Acosta Galvis y Alfaro-Bejarano (2011), Castro, (2008), Angarita, et al (2013) Aponte, et al, Moreno Arias, et al (2021), Durán-Prieto, et al (2018) y Angarita-Sierra, et al (2013).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Anfibios: Los recorridos de observación para los anfibios se efectuaron en la jornada comprendida entre las 16:00 y las 21:00 horas, ya que estas especies son principalmente nocturnas. Durante estos recorridos, se abarcó cada una de las coberturas vegetales identificadas para el área, y en cada una de ellas se verificó cada uno de los estratos y se hizo remoción de material en descomposición tal como hojarasca, vegetación arbustiva y grietas en troncos, entre otros. Al momento de registrar individuos, se anotaron datos ecológicos pertinentes de cada ejemplar en formatos de campo específicos y se realizó el respectivo registro fotográfico, cuando fue posible.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Reptiles: Los recorridos de observación para los reptiles se efectuaron en dos (2) jornadas, siendo la primera entre las 6:00 y las 11:00 horas, para el registro de especies diurnas y la segunda entre las 16:00 y las 21:00 horas, para el registro de especies nocturnas. Durante la ejecución de estos recorridos, se abarcó cada una de las coberturas vegetales identificadas para el área y en cada una de ellas se verificaron los estratos, en donde se realizaron acciones de remoción de material en descomposición tal como hojarasca, vegetación arbustiva y grietas en troncos, entre otros. Para la manipulación de serpientes, se hizo con ayuda de un gancho herpetológico para mantener la seguridad tanto del profesional como del individuo. Finalmente, al momento de registrar individuos, se anotaron datos ecológicos pertinentes de cada ejemplar en formatos de campo específicos y se realizó el respectivo registro fotográfico, cuando fue posible.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Avifauna: Para el registro de las aves, con ayuda de unos binoculares marca Bushnell H20 10x42, se realizaron recorridos de detección visual y auditiva en horas de la mañana desde las 5:00 hasta las 11:00 horas y al final del día desde las 15:00 hasta las 17:00 horas, en los cuales se censó cada uno de los individuos detectados a lo largo de las diferentes coberturas vegetales tomando apunte de los datos ecológicos pertinentes, consignando dicha información en formatos de campo específicos para el grupo y de ser posible, el registro fotográfico. Adicionalmente, se realizó la instalación de redes de niebla (75D/2PLY 15x15mm / 24X24mm / 30x30mm con un metraje de 12 m cada una); las cuales fueron instaladas en serie y de manera ininterrumpida197; posteriormente, se realizó la georreferenciación de cada una de ellas teniendo en cuenta el sistema de coordenadas CTM12- origen único nacional. El horario de apertura de redes para el grupo de las aves fue desde las 6:00 hasta las 10:00 horas en la mañana y desde las 16:00 hasta las 18:00 horas en la tarde. La determinación taxonómica de las especies de aves se realizó en campo por medio de guías de campo para su identificación taxonómica como Ayerbe-Quiñones (2019), Hilty &amp; Brown (2001) , McMullan Quevedo &amp; Donegan (2011) y la base de datos de eBird.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mastofauna: Para conocer los mamíferos presentes se aplicaron cinco (5) metodologías soportadas por los autores Painter, et al. (1999), Rabinowitz, (2003), y Gallina &amp; López-González, (2011), entre otros. A continuación, se describen cada una de ellas:</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Recorridos de observación: Se realizaron recorridos de ancho variable y abarcando la mayor cantidad de área posible. Al momento del avistamiento se tomó, de ser posible, registro fotográfico y datos ecológicos de los individuos, los cuales se consignaron en formatos de campo específicos. Adicionalmente, durante los recorridos se realizó la búsqueda de rastros, indicios, impresiones de huellas, madrigueras, frutos consumidos con marcas de dentición, garras, ornamentas, restos de pelo y heces fecales, entre otros. Los cuales permitieron reportar a las especies que no fue posible observar de forma directa, aportando de esta forma a la lista de riqueza de mamíferos en el área.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Captura con redes de niebla: Para este grupo se instalaron redes de niebla por punto, que tienen una medida de ojo de malla de 75D/2PLY 15x15mm / 24X24mm / 30x30mm con un metraje de 12 m cada una; las cuales fueron instaladas en serie y de manera ininterrumpida en zonas abiertas; posteriormente se realizó la georreferenciación de cada una de ellas, teniendo en cuenta el sistema de coordenadas CTM12- origen único nacional. Para el caso de los mamíferos voladores, las redes fueron abiertas en el horario comprendido entre las 18:00 y las 22:00 horas y cada red fue revisada cada 30 minutos o más, teniendo en cuenta el éxito de captura. Finalmente, a los individuos capturados se les tomó medidas morfométricas y se tuvieron en cuenta la edad, el sexo y el estado reproductivo de cada individuo, así como registro fotográfico de los caracteres diagnósticos; cabe resaltar que, una vez tomado todos estos datos, los individuos fueron devueltos a su medio natural en el mismo punto donde fueron capturados. Para la identificación de las especies se usó la clave de Díaz et al., (2021).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Capturas con Trampas Sherman: Para el muestreo de los pequeños mamíferos se instalaron trampas Sherman (30 x 10 x 11 cm) respectivamente, y estas fueron instaladas a nivel del suelo en áreas que presentaron algún tipo de vegetación de bosque o de crecimiento secundario, y fueron dispuestas en secuencia con una separación aproximada de cinco (5) m; adicionalmente, fueron cubiertas con hojarasca para su camuflaje con el fin incrementar el éxito de captura. Se implementaron dos (2) tipos de cebos, uno dulce que consistió en una mezcla de avena en hojuelas, banano y emulsión de Scott y uno salado usando sardinas y atún; finalmente, estas trampas fueron instaladas en los puntos establecidos durante dos (2) noches y fueron revisadas diariamente, en donde se recebaron, si era necesario, diariamente en las horas de la mañana. Los individuos capturados fueron sexados, pesados, medidos (cuando fue posible), fotografiados, y liberados. La determinación se realizó a través de la búsqueda bibliográfica en Patton et al. 2015 y la guía de campo de los mamíferos del Ecuador Tirira (2017) especializadas para este grupo de fauna.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Captura con trampas Tomahawk: Para la captura de mamíferos de tamaño mediano y grande, se trampas Tomahawk (45 x 18 x 20 cm) para cada época (seca y lluvia), cada trampa fue cebada con atrayentes como sardinas, menudencias de pollo y frutas (banano, guayaba o mango), usando distintos cebos para atraer especies con diferentes hábitos alimenticios. Las trampas se ubicaron en coberturas de bosque y en zonas con crecimiento secundario, en caminos de tránsito de fauna o en lugares donde se camuflaron fácilmente; cada una fue instalada durante dos (2) noches por punto de muestreo y fueron revisadas y recebadas (cuando fue necesario) diariamente en las horas de la mañana. Los individuos capturados fueron sexados, pesados, medidos fotografiados y liberados. La determinación se realizó a través de la búsqueda bibliográfica en el manual para el rastreo de mamíferos silvestres de México, Aranda (2012) y el libro Zarigüeyas, marmosas y colicortos en Colombia de Flórez &amp; Vivas (2020).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Instalación de cámaras trampa: Se instalaron cámaras trampa Bushnell Trophy Cam XLT HD, las cuales estuvieron activas durante cinco (5) noches, en zonas que presentaban vegetación arbórea o arbustiva asociada con rastros de comederos, senderos, madrigueras, registro de algún individuo de forma visual o por información de habitantes de la zona. Cada cámara fue instalada mínimo a 20 cm del suelo aproximadamente y buscando que el ángulo fuera lo más abierto posible para así tener una mayor área de captura. Finalmente, cada cámara instalada fue debidamente georreferenciada y adicionalmente se realizó una descripción del lugar de instalación para futuros análisis ecológicos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Métodos complementarios: Como método complementario se realizaron encuestas a la comunidad local, teniendo en cuenta éstas como técnica indirecta para registrar información acerca de las especies con hábitos estacionales y que por algún motivo no se pudieron observar directamente durante la fase de campo. Las encuestas indagaron sobre los nombres comunes de las especies, el valor económico o cultural, los hábitats frecuentados, las épocas del año en las que se observan, las abundancias que han sido observadas, posibles usos dados por la comunidad e información adicional. Para la implementación de este método se contó con la ayuda de un catálogo de identificación de especies que contiene fotografías de las especies pertenecientes a los grupos faunísticos de interés (anfibios, reptiles, aves y mamíferos) que se encuentran potencialmente distribuidas en la Región del Orinoco.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área de desarollo Casanare 122, se encuentra localizada en el departamento de Boyacá, en el municipio de Paya, y en el departamento de Casanare, en los municipios de Yopal, Nunchía, Pore y Támara. Cuenta con una superficie 55.663,890 ha.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El marco de referencia para la elaboración y descripción del componen te flora está definido por los términos de referencia para la elaboración de Estudios de Impacto Ambiental para Proyectos de Explotación de Hidrocarburos, HI–TER-1-03, expedidos en el año 2010 por el entonces MAVDT hoy MADS (aprobados bajo la Resolución 1543 del 06 de agosto de 2010 de dicha entidad); la metodología general para la elaboración y presentación de estudios ambientales (Resolución 1402 del 25 de julio de 2018 del MADS); el Decreto 1076 del 26 de mayo de 2015 emitido por el MADS; los documentos de referencia del MADS (Guía ambiental para el desarrollo de campos petroleros) y las directrices de PAREX. Para la caracterización de las coberturas identificadas en el área de influencia del proyecto, se realizó un muestreo al azar simple, donde se sitúan las parcelas distribuidas en el área de influencia biótica dentro de cada unidad biótica, bioma y cobertura vegetal determinada. De manera casual, pueden existir agrupaciones espaciales y terrenos vacíos en la distribución de parcelas; a pesar de ello, continúa siendo un muestreo probabilístico válido, el cual constituye la base de la mayoría de los tipos de muestreo.
+
+La metodología usada en campo para cada grupo faunístico contempló los criterios de la guía “Metodología General para la Elaboración y Presentación de Estudios Ambientales”179 de 2018, del Ministerio de Ambiente, Vivienda y Desarrollo Territorial, y del “Manual de Métodos para el Desarrollo de Inventarios de Biodiversidad”180 del Instituto de Investigaciones de Recursos Biológicos Alexander von Humboldt, con el fin de obtener información puntual y exacta de cada una de las especies.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>ESTUDIO DE IMPACTO AMBIENTAL ÁREA DE DESARROLLO CASANARE 122</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Laura</givenName>
+                    <surName>Lozano</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>La empresa PAREX RESOURCES (COLOMBIA) AG SUCURSAL (en adelante PAREX) llevó a cabo el Estudio de Impacto Ambiental – EIA, para el Área de Desarrollo Casanare 122 (en adelante AD Casanare 122), con el objetivo de obtener la Licencia Ambiental Global necesaria para llevar a cabo la explotación de hidrocarburos convencionales en la zona. El objetivo del presente EIA, es establecer a partir del conocimiento de los elementos ambientales que conforman los medios abiótico, biótico y socioeconómico, la valoración de los posibles impactos que podrían llegar a presentarse en cada uno de estos, por las actividades asociadas a la exploración, explotación y transporte de hidrocarburos convencionales en el AD Casanare 122. Lo anterior, con la finalidad de establecer medidas de prevención, mitigación, corrección y compensación necesarias para armonizar el proyecto con su entorno social y ambiental, potencializando los beneficios que genera la industria a la región y el país.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El polígono a licenciar denominado “AD Casanare 122”, se localiza en el departamento de Boyacá, en el municipio de Paya, y en el departamento de Casanare, en los municipios de Yopal, Nunchía, Pore y Támara. El polígono del AD cuenta con una superficie 55.663,890 ha. A nivel de Unidades territoriales Menores (UTM) el polígono del AD Casanare 122 objeto de licenciamiento, está conformada por 59 UTM, establecidas de acuerdo con la cartografía oficial del Departamento Nacional de Estadísticas (DANE) 2020.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:11Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/thrcja">Parex Resources (Colombia) AG Sucursal, MCS Consultoría y Monitoreo Ambiental SAS (2024). Biodiversidad asociada al Estudio de Impacto Ambiental (EIA) área de desarrollo Casanare 122. Parex Resources Colombia - AG Sucursal. Occurrence dataset https://doi.org/10.15472/thrcja accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Acosta-Galvis, A. R. Y J. P. Alfaro-Bejarano. (2011). Anfibios del Casanare. Pp. 134-147. En: Usma, J. S., F. Trujillo y L.T. Ayala. Gobernación de Casanare-WWF. Bogotá D.C., Colombia.</citation>
+                <citation>Angarita- Sierra T., Ospina-Sarria J., Anganoy-Criollo M., Pedroza-Banda R., Lynch J.D. (2013). Guía de campo de los Anfibios y Reptiles del departamento de Casanare (Colombia). Serie Biodiversidad para la Sociedad No. 2. Universidad Nacional de Colombia, Sede Orinoquia; YOLUKA ONG, Fundación de Investigación en Biodiversidad y Conservación. Bogotá-Arauca</citation>
+                <citation>Angulo, A. Et Al. (2006). Técnicas de inventario y monitoreo para los anfibios de la región tropical andina. Bogotá: Conservación Internacional. 299 p.</citation>
+                <citation>Aponte, A. F., Arias, A., Niño, L., López, C. A., &amp; Lynch, J. D. Riqueza y diversidad de anfibios y reptiles del territorio sabanas y humedales de Arauca, Colombia.</citation>
+                <citation>Aranda, J.M. (2012). Manual para el rastreo de mamíferos silvestres de México. Editorial Impresora Apolo, S.A. de C.V. México. 255 pp.</citation>
+                <citation>Ayerbe-Quiñones, F. (2019). Guía ilustrada de la avifauna colombiana. Wildlife Conservation Society, Bogotá, Colombia.</citation>
+                <citation>Castro, F. (2008) Sauria en Colombia. Una sinopsis de familias y relaciones sistemáticas de grupos mayores. En: Taxonomía de grupos mayores de anfibios y reptiles colombianos. Universidad del Valle Centro Editorial. 88 p.</citation>
+                <citation>Colombia. Ministerio De Ambiente, Vivienda Y Desarrollo Territorial. (2018). Metodología general para la elaboración y presentación de estudios ambientales / ZAPATA, D. M. &amp; LONDOÑO, C. A. et al. (Eds.)</citation>
+                <citation>Díaz, M. M., Solari, S., Gregorin, R., Aguirre, L. F., &amp; Barquez, R. M. (2021). Clave de identificación de los murciélagos neotropicales.</citation>
+                <citation>Durán-Prieto, C., Lasso, C. A., Morales-Betancourt, M. A., &amp; Rojas-Runjaic, F. J. (2018). Reptiles del Escudo Guayanés en Colombia. En Lasso, CA &amp; Señaris, JC (Eds.), 6, 151-177.</citation>
+                <citation>Flórez-Oliveros F.J. &amp; Vivas-Serna C. (2020). Zarigüeyas (chuchas comunes), marmosas y colicortos en Colombia. Fundación Zarigüeya – FUNDZAR, Medellín, Colombia. 264 pp</citation>
+                <citation>Gallina, S. &amp; López-González, C. (Eds). (2011). Manual de técnicas para el estudio de la fauna. Universidad Autónoma de Querétaro-Instituto de Ecología A.C. Querétaro, México. vol. 1, 377 p.</citation>
+                <citation>GONZÁLEZ, C. V. et al. (Textos). Bogotá, D.C.: Colombia. Ministerio de Ambiente, Vivienda y Desarrollo Territorial. 228 p</citation>
+                <citation>Gutiérrez Cárdenas, P. D. A., ... &amp; Noguera-Urbano, E. Atlas de la biodiversidad de Colombia. Anolis. Moreno-Arias, RA et al. (2021). Atlas de la biodiversidad de Colombia. Anolis. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá DC, Colombia. 72 pp.</citation>
+                <citation>Heyer, W. R. Et Al. (Eds.). (1994). Measuring and monitoring biological diversity-standard methods for amphibians. Smithsonian Institute Press, Washington, DC. 364 p.</citation>
+                <citation>Hilty, S. L., &amp; Brown, W. L. (2001). Guía de las Aves de Colombia. American Bird Conservancy, Imprelibros SA.</citation>
+                <citation>Painter, L., et al. (1999) Técnicas de investigación para el manejo de fauna silvestre: Un manual del curso dictado con motivo del III Congreso Internacional sobre Manejo de Fauna Silvestre en la Amazonía, Santa Cruz de la Sierra, Bolivia. USAID, Bolivia. 81 p.</citation>
+                <citation>Patton, J. L., et al. (eds). (2015). Mammals of South America Volume 2. Rodents. The University of Chicago Press</citation>
+                <citation>Rabinowitz, A.R. (2003). Manual de capacitación para la investigación de campo y la conservación de la vida silvestre. 1 ed. Bolivia: Editorial FAN. 327 p.</citation>
+                <citation>Sullivan, B.L., C.L. Wood, M.J. Iliff, R.E. Bonney, D. Fink, and S. Kelling. 2009. eBird: a citizen-based bird observation network in the biological sciences. Biological Conservation 142: 2282-2292.</citation>
+                <citation>Tirira, D. G. (2017): ¨Guia de Campo de los Mamíferos del Ecuador¨. 2a. ed. Ediciones Murciélago blanco. Publicación Especial sobre los Mamíferos del Ecuador 11, pp 600.</citation>
+                <citation>Villareal, H., Álvarez, M., Córdoba, S., Escobar, F., Fagua, G., Gast, H., Umaña, A. M. (2004). Manual de métodos para el desarrollo de inventarios de la Biodiversidad. Bogotá: Instituto de Investigación de Recursos Biológicos Alexander von Humboltd.</citation>
+                <citation>Villareal, H., et al. (2006). Manual de métodos para el desarrollo de inventarios de biodiversidad. 2 ed. Bogotá: Programa de Inventarios de Biodiversidad. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. p. 93.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-parex.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="98cc8bd3-c47c-48f4-8354-9440e24fdc13"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/pzclbz</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=antioquiagold_guayabito</alternateIdentifier>
+        <title>Monitoreo de fauna silvestre en el área de influencia del proyecto Yacimiento Guayabito</title>
+        <creator>
+            <individualName>
+                <givenName>Dimas Augusto</givenName>
+                <surName>Molina Marin</surName>
+            </individualName>
+            <organizationName>INGEBIOMAS</organizationName>
+            <address>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dimasmln85@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Luisa María</givenName>
+                <surName>Hoyos Gómez</surName>
+            </individualName>
+            <organizationName>INGEBIOMAS</organizationName>
+            <address>
+                <city>Manizalez</city>
+                <administrativeArea>Caldas</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>luisamariahoyosgomez@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Daniel Felipe</givenName>
+                <surName>Aristizábal Salazar</surName>
+            </individualName>
+            <organizationName>INGEBIOMAS</organizationName>
+            <address>
+                <city>Manzanares</city>
+                <administrativeArea>Caldas</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>daniel.1711621309@ucaldas.edu.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Juan Santiago</givenName>
+                <surName>Roldan Merino</surName>
+            </individualName>
+            <organizationName>INGEBIOMAS</organizationName>
+            <address>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>forestal@ingebiomas.com</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Valeria</givenName>
+                <surName>Jiménez Mauris</surName>
+            </individualName>
+            <organizationName>INGEBIOMAS</organizationName>
+            <address>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>coordinadordeproyectos@ingebiomas.com</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2025-09-16
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El monitoreo de fauna silvestre es una herramienta fundamental para comprender y proteger la diversidad biológica, ya que permite identificar tendencias poblacionales, detectar cambios en los ecosistemas y proponer o evaluar estrategias de conservación. El área de monitoreo se ubica en Santo Domingo, Antioquia (6.5339, -75.1264), en la zona de vida bosque muy húmedo premontano (bmh-PM), con altitudes de 1.053–1.796 m s.n.m., temperatura media anual de 21,3 °C y precipitación promedio de 3.918 mm, superior a la evaporación anual (1.192 mm).</para><para>Las metodologías empleadas para la toma de información incluyeron rastreo de huellas, fototrampeo, preparación de cebos, transectos, muestreo con red de niebla, búsqueda por encuentro visual (VES), grabación de vocalizaciones, registros de encuentros fortuitos, uso de data logger y parcelas para monitoreo de flora. Durante el monitoreo actual del proyecto Yacimiento Guayabito– Antioquia Gold Ltd. Se registraron 2 reinos, 3 filos, 5 clases, 35 órdenes y 86 familias.</para><para>Estos resultados constituyen una línea base y una herramienta clave para el seguimiento de la fauna y la toma de decisiones orientadas a la conservación de la biodiversidad local.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>red de niebla</keyword>
+            <keyword>Fototrampeo</keyword>
+            <keyword>transectos</keyword>
+            <keyword>Mamíferos</keyword>
+            <keyword>herpetos</keyword>
+            <keyword>Rastreo de huellas</keyword>
+            <keyword>aves</keyword>
+            <keywordThesaurus>NA</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=antioquiagold_guayabito</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El área de influencia del proyecto se encuentra delimitada aproximadamente por las coordenadas planas (MAGNA-SIRGAS / Origen Nacional) : oeste 4754301,99; este 4765621,10, norte 2286559,62 y sur 2279246,09. Lo que corresponde a los municipios de Santo Domingo y Yolombó en Antioquia.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-75.208</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-75.115</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.579</northBoundingCoordinate>
+                    <southBoundingCoordinate>6.533</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2024-06-30
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-08-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <temporalCoverage>
+                <singleDateTime>
+                    <calendarDate>                2024-11-13
+</calendarDate>
+                </singleDateTime>
+            </temporalCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2025-02-28
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2025-03-30
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Los 2865 registros biológicos se encuentran distribuidos en 2 reinos, 2 filos, 5 clases, 33 órdenes, 80 familias y 256 especies. Se identificó un 99% a nivel de especie y el porcentaje restante a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>El presente conjunto de datos tiene como propósito documentar y sistematizar la información obtenida durante el monitoreo de fauna silvestre en los proyectos Guayabito, propiedad de Antioquia Gold Ltd. Lo cual correspondiente al segundo ciclo de 2024 y al primer semestre de 2025. Su objetivo principal es aportar información confiable sobre la presencia, abundancia relativa y distribución de especies de fauna registradas en el área de influencia del proyecto, como parte de las obligaciones establecidas en el Plan de Manejo Ambiental (PMA) y en concordancia con la normativa nacional en materia de conservación y biodiversidad.</para><para>Este conjunto de datos constituye una herramienta clave para el seguimiento de la dinámica poblacional de especies sensibles y de interés ecológico, incluyendo aves, mamíferos y anfibios, lo que permite evaluar el estado de los ecosistemas y generar insumos para la toma de decisiones de gestión ambiental. Entre los hallazgos más relevantes se resalta la presencia de especies endémicas y de importancia para la conservación, así como registros asociados a hábitats prioritarios, lo que refuerza la necesidad de implementar medidas de protección y manejo adaptativo en el territorio.</para></purpose>
+        <introduction><para>Colombia es reconocido como uno de los países megadiversos del planeta, albergando cerca del 10% de la biodiversidad mundial (Hanson, 2013). Esta riqueza natural se debe a su ubicación estratégica en la intersección de América del Norte y del Sur, así como a la gran variedad de ecosistemas que lo conforman, entre ellos selvas tropicales, páramos, desiertos y las costas del Pacífico y el Caribe (Mittermeier et al., 2003). La heterogeneidad geográfica y climática del país origina una amplia gama de hábitats, desde los bosques nubosos andinos hasta las sabanas del Llano y las selvas amazónicas, lo que favorece la coexistencia de una gran diversidad de especies de flora y fauna.</para><para>El monitoreo de la fauna resulta esencial para comprender y conservar esta biodiversidad, ya que permite identificar tendencias poblacionales, detectar cambios en los ecosistemas y evaluar la efectividad de las estrategias de conservación. El seguimiento de especies clave, como grandes mamíferos, aves y anfibios, lo cual constituye un indicador del estado de salud de los ecosistemas y facilita la toma de decisiones orientadas a su protección (Buckland et al., 2005). Asimismo, el monitoreo contribuye a reconocer áreas de alta biodiversidad y a priorizar acciones de conservación. En Colombia, se han establecido diversas áreas protegidas, como parques nacionales y reservas naturales, que abarcan alrededor del 30% del territorio nacional (Parques Nacionales Naturales de Colombia, 2024). No obstante, resulta fundamental que tanto el sector público como el privado implementen iniciativas orientadas a garantizar la persistencia de esta riqueza natural.</para><para>En el departamento de Antioquia se han registrado más de 700 especies de aves, lo que corresponde a más del 30% de las especies documentadas en el país (Renjifo et al., 2002). Esta notable diversidad está asociada a la variedad de ecosistemas presentes en la región, que incluyen bosques nubosos, páramos, valles y cadenas montañosas. Dichos hábitats son refugio de numerosas especies endémicas, adaptadas a condiciones únicas y con un papel fundamental en la conservación de la biodiversidad local. Sin embargo, la región enfrenta amenazas como la deforestación asociada a la expansión de la frontera agrícola, ganadera y de infraestructura, lo que impacta de manera negativa las poblaciones de fauna silvestre. En este contexto, el monitoreo de especies sensibles y la evaluación de los ecosistemas permiten identificar áreas prioritarias para la conservación y diseñar estrategias efectivas de protección.</para><para>En este marco, el proyecto “Monitoreo de Fauna Silvestre para el Proyecto  Guayabito, propiedad de Antioquia Gold Ltd” presenta los resultados del seguimiento realizado en el sector de Guayabito, correspondiente al segundo ciclo de monitoreo del año 2024 y al primer semestre del 2025. Este proceso forma parte integral del Plan de Manejo Ambiental del proyecto y constituye un compromiso de la empresa con la responsabilidad ambiental y la conservación de la biodiversidad en el territorio.</para></introduction>
+        <gettingStarted><para>El conjunto de datos está conformado por registros de fauna silvestre obtenidos durante los monitoreos de campo realizados en el sector de Guayabito. Cada registro incluye información taxonómica (reino, filo, clase, orden, familia, género y especie), así como datos asociados al evento de muestreo, tales como fecha, localidad, coordenadas geográficas, método de registro y observador.</para><para>Los archivos están estructurados en formato Darwin Core (DwC), estándar ampliamente utilizado en iniciativas de biodiversidad, lo que asegura su compatibilidad con plataformas nacionales e internacionales como el SiB Colombia y GBIF. La información se organizó en torno a identificadores de ocurrencia, nombre científico, ubicación geográfica y demás.</para><para>La interpretación de este conjunto de datos permite realizar análisis de distribución de especies, tendencias de diversidad y comparaciones con otros muestreos en el tiempo. Para su exploración y análisis se empleó el uso de software como Excel, R y QGIS.</para></gettingStarted>
+        <acknowledgements>Antioquia Gold LTD</acknowledgements>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Dimas Augusto</givenName>
+                <surName>Molina Marin</surName>
+            </individualName>
+            <organizationName>INGEBIOMAS</organizationName>
+            <address>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dimasmln85@gmail.com</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Brenda</givenName>
+                <surName>Rojas Pinilla</surName>
+            </individualName>
+            <organizationName>INGEBIOMAS</organizationName>
+            <address>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>proyectos@ingebiomas.com</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Andrés Felipe</givenName>
+                <surName>Sánchez Aguirre</surName>
+            </individualName>
+            <organizationName>Antioquia Gold Ltd</organizationName>
+            <address>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>faguirre@antioquiagold.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>La metodología aplicada para el registro de fauna silvestre combinó dos enfoques complementarios: los encuentros fortuitos y la búsqueda sistemática mediante transectos con ancho variable.
+
+Los encuentros fortuitos corresponden a observaciones realizadas de manera no planificada durante las actividades de campo, como desplazamientos o recorridos generales. Cada vez que se detectaba un individuo o evidencia de su presencia (huellas, vocalizaciones, restos o fotografías), se registraba la información básica del evento, incluyendo fecha, hora, coordenadas geográficas, nombre científico , número de individuos y observador responsable. 
+
+Por su parte, el método de transectos con ancho variable se desarrolló a lo largo de recorridos lineales previamente establecidos en diferentes tipos de hábitat. Durante cada caminata, efectuada a una velocidad constante, se registran todas las detecciones de fauna, especificando la especie, el número de individuos, el tipo de detección (visual o auditiva) y la distancia de observación. Cuando es posible, se mide la distancia radial y el ángulo respecto al transecto, lo que permite calcular la distancia perpendicular y, con ello, estimar la probabilidad de detección según la visibilidad del entorno.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La implementación de cámaras trampa se llevó a cabo como una estrategia de monitoreo no invasivo, orientada a registrar la presencia, actividad y comportamiento de especies de fauna silvestre en el área de estudio. La ubicación de los dispositivos se definió a partir de recorridos previos de reconocimiento, priorizando senderos naturales, bordes de bosque, cuerpos de agua y áreas con evidencia indirecta de fauna, como huellas o excretas. Esta selección buscó maximizar la probabilidad de detección de diferentes grupos de vertebrados terrestres.
+
+Cada cámara fue instalada a una altura aproximada de 30 a 50 cm sobre el nivel del suelo, ajustada a la pendiente y a la vegetación circundante, de manera que garantizara un campo visual despejado. Se programaron con sensores de movimiento y calor infrarrojo, configuradas para capturar fotografías y/o videos con fecha y hora integradas en la imagen</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El muestreo con redes de niebla se utilizó como una técnica estandarizada para la captura, identificación y liberación de aves y murciélagos en el área de estudio. La instalación de las redes se realizó en sitios estratégicos, seleccionados a partir de recorridos de reconocimiento y considerando características como senderos naturales, claros de vegetación, bordes de bosque y áreas cercanas a cuerpos de agua, donde la probabilidad de tránsito de fauna voladora es mayor.
+
+Las redes fueron desplegadas al amanecer y en horas de la tarde para el caso de aves, y al atardecer y primeras horas de la noche en el caso de murciélagos. Se realizaron revisiones periódicas cada 20 a 30 minutos, a fin de minimizar el estrés y el riesgo para los individuos capturados.
+
+Una vez retirados de las redes, los ejemplares fueron identificados in situ utilizando guías de campo especializadas, y se registraron variables como especie, sexo, hora de captura y condición física. Posteriormente, todos los individuos fueron liberados en el mismo punto de captura. En los casos en que la identificación no fue posible en campo, se tomaron registros fotográficos y notas morfológicas detalladas para su posterior verificación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El método de puntos de conteo se empleó para registrar la avifauna presente en el área de estudio mediante observaciones directas y auditivas desde estaciones fijas de muestreo. Los puntos se ubicaron de manera estratégica a lo largo de transectos o dentro de diferentes tipos de hábitat, manteniendo una distancia mínima de 200 a 300 metros entre ellos con el fin de evitar la detección repetida de los mismos individuos.
+
+En cada estación se realizaron conteos, durante los cuales se registraron todas las especies observadas o escuchadas dentro de un radio de detección preestablecido (generalmente 50 a 100 metros). Además de la identidad taxonómica, se anotó el número de individuos, la forma de detección (visual o auditiva) y el comportamiento observado. Las observaciones se llevaron a cabo principalmente en las primeras horas de la mañana y en menor medida en la tarde, coincidiendo con los picos de actividad de las aves.
+
+Cada punto fue georreferenciado con coordenadas GPS y acompañado de información ambiental básica, como el tipo de hábitat, la cobertura vegetal y las condiciones climáticas al momento del muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Con el fin de evaluar la composición florística y la regeneración natural, se instalaron parcelas temporales rectangulares que incluyen individuos en estado de fustal, latizal y brinzal, en áreas de transición ecológica de la Mina Guayabito.
+
+Las parcelas fueron georreferenciadas con GPS, registrando el punto inicial y los individuos arbóreos con repetición de lecturas para minimizar errores. Los vértices y centros se marcaron con tubos de PVC de ½ pulgada, identificando cada individuo según su estrato de crecimiento: Brinzal (B), Latizal (L) y Fustal (F), mediante códigos alfanuméricos pintados en el tallo.
+
+La identificación taxonómica se realizó en campo con apoyo de guías ilustradas, catálogos de flora y claves dicotómicas, registrando características morfológicas visibles (hojas, flores, frutos, corteza). En casos complementarios, se usaron inventarios de biodiversidad y bases de datos regionales.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área de monitoreo se encuentra en el municipio de Santo Domingo, en la margen oriental de la Cordillera Central, al suroeste de la Serranía de San Lucas, delimitada por los ríos Porce, Nechí, Nus y Alicante con una latitud de 6.5339 y una longitud de -75.1264. Esta región está clasificada como bosque muy húmedo premontano (bmh-PM) y presenta elevaciones que varían entre 1.053 y 1.796 metros sobre el nivel del mar. La temperatura media anual es de 21.3 °C, mientras que la precipitación media anual alcanza los 3.918 mm, superando la evaporación promedio anual de 1.192 mm, según datos de la Estación Guayabito. El área pertenece a la subregión Porce Nus dentro de la jurisdicción de Cornare y se encuentra en las inmediaciones del frente de explotación Guaico de Antioquia Gold. La región está caracterizada por fragmentos dispersos de bosque secundario, rodeados por una matriz de pastos y cultivos, lo que proporciona una variedad de hábitats adecuados para diversos grupos de fauna.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los mamíferos son considerados buenos indicadores para programas de monitoreo; no obstante, su comportamiento elusivo dificulta la observación directa, especialmente en ecosistemas boscosos. Por esta razón, se emplearon métodos no invasivos como cámaras trampa, trampas de huellas, seguimiento de madrigueras, recolección de excrementos y encuestas a la comunidad del área de influencia, lo que ha permitido incrementar el número de registros y ampliar el conocimiento sobre las especies gracias a la rapidez y efectividad en la generación de datos. El monitoreo de anfibios y reptiles se llevó a cabo mediante búsqueda libre en quebradas y cuerpos de agua localizados dentro de la zona de estudio, lo que facilitó la detección visual y auditiva de individuos. En el caso de las aves, se implementaron muestreos por punto fijo complementados con redes de niebla; el primero permite una caracterización ágil de la biodiversidad y abundancia en un área específica, mientras que las redes de niebla favorecen la captura e identificación de especies menos detectables visualmente.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Monitoreo de fauna silvestre en el área de influencia del proyecto Yacimiento Guayabito– Antioquia Gold Ltd</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Dimas Augusto</givenName>
+                    <surName>Molina Marin</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Brenda</givenName>
+                    <surName>Rojas Pinilla</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Andrés Felipe</givenName>
+                    <surName>Sánchez Aguirre</surName>
+                    </individualName>
+                    <role>OWNER</role>
+                </personnel>
+                <abstract>
+                    <para>El monitoreo de fauna silvestre es una herramienta fundamental para comprender y proteger la diversidad biológica, ya que permite identificar tendencias poblacionales, detectar cambios en los ecosistemas y proponer o evaluar estrategias de conservación. El área de monitoreo se ubica en Santo Domingo, Antioquia (6.5339, -75.1264), en la zona de vida bosque muy húmedo premontano (bmh-PM), con altitudes de 1.053–1.796 m s.n.m., temperatura media anual de 21,3 °C y precipitación promedio de 3.918 mm, superior a la evaporación anual (1.192 mm). Las metodologías empleadas incluyeron rastreo de huellas, fototrampeo, preparación de cebos, transectos, muestreo con red de niebla, búsqueda por encuentro visual (VES), grabación de vocalizaciones, registros de encuentros fortuitos y uso de data logger. Durante el monitoreo actual de mamíferos en el proyecto Yacimiento Guayabito– Antioquia Gold Ltd se registraron 231 individuos, pertenecientes a 18 especies y 12 familias. En herpeto fauna se registraron 163 individuos, correspondientes a 26 especies de 20 familias. En aves se registraron 2434 individuos distribuidos en 153 especies de 46 familias. Estos resultados constituyen una línea base y una herramienta clave para el seguimiento de la fauna y la toma de decisiones orientadas a la conservación de la biodiversidad local.</para>
+                </abstract>
+                <funding>
+                    <para>Antioquia Gold LTD</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El área de monitoreo se encuentra en el municipio de Santo Domingo, en la margen oriental de la Cordillera Central, al suroeste de la Serranía de San Lucas, delimitada por los ríos Porce, Nechí, Nus y Alicante con una latitud de 6.5339 y una longitud de -75.1264. Esta región está clasificada como bosque muy húmedo premontano (bmh-PM) y presenta elevaciones que varían entre 1.053 y 1.796 metros sobre el nivel del mar. La temperatura media anual es de 21.3 °C, mientras que la precipitación media anual alcanza los 3.918 mm, superando la evaporación promedio anual de 1.192 mm, según datos de la Estación Guayabito. El área pertenece a la subregión Porce Nus dentro de la jurisdicción de Cornare y se encuentra en las inmediaciones del frente de explotación Guaico de Antioquia Gold. La región está caracterizada por fragmentos dispersos de bosque secundario, rodeados por una matriz de pastos y cultivos, lo que proporciona una variedad de hábitats adecuados para diversos grupos de fauna.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:18Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/pzclbz">Molina Marin D A, Hoyos Gómez L M, Aristizábal Salazar D F, Roldan Merino J S, Jiménez Mauris V (2025). Monitoreo de fauna silvestre en el área de influencia del proyecto Yacimiento Guayabito. Antioquia Gold LTD. Occurrence dataset https://doi.org/10.15472/pzclbz accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Hanson, T. (2013). La biodiversidad en Colombia. Ministerio de Ambiente y Desarrollo Sostenible.</citation>
+                <citation>Mittermeier, R. A., et al. (2003). Wilderness and biodiversity conservation. Proceedings of the National Academy of Sciences, 100(15), 8315-8320.</citation>
+                <citation>Buckland, S. T., Magurran, A. E., Green, R. E., &amp; Fewster, R. M. (2005). Monitoring change in biodiversity through composite indices. Philosophical Transactions of the Royal Society B: Biological Sciences, 360(1454), 243-254.</citation>
+                <citation>Renjifo, L. M., et al. (2002). Libro rojo de aves de Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</citation>
+                <citation>Parques Nacionales Naturales de Colombia. (2024). Áreas protegidas en Colombia.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-antioquiagold.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

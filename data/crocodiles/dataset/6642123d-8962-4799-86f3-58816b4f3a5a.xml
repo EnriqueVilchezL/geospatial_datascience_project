@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="6642123d-8962-4799-86f3-58816b4f3a5a"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/va1awe</alternateIdentifier>
+        <alternateIdentifier>6642123d-8962-4799-86f3-58816b4f3a5a</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=drummond_monitoreo-cesar</alternateIdentifier>
+        <title>Fauna y flora de los monitoreos bióticos en áreas biosensoras de Drummond LTD</title>
+        <creator>
+            <individualName>
+                <givenName>Fray Emilio</givenName>
+                <surName>Orozco Morgan</surName>
+            </individualName>
+            <organizationName>Drummond LTD</organizationName>
+            <positionName>Supervisor senior de biodiversidad</positionName>
+            <address>
+                <city>Valledupar</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>forozco@drummondltd.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Juan Guillermo</givenName>
+                <surName>Díaz Nieto</surName>
+            </individualName>
+            <organizationName>Drummond LTD</organizationName>
+            <positionName>Ingeniero de proyectos ambientales</positionName>
+            <address>
+                <city>Valledupar</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jdiaz3@drummondltd.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Gustavo Andrés</givenName>
+                <surName>Valencia Escobar</surName>
+            </individualName>
+            <organizationName>Drummmond LTD</organizationName>
+            <positionName>Supervisor senior de biodiversidad</positionName>
+            <address>
+                <city>Valledupar</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gvalencia@drummondltd.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jimmy David</givenName>
+                <surName>Rojas Pinto</surName>
+            </individualName>
+            <organizationName>Drummond LTD</organizationName>
+            <positionName>Supervisor asistente de biodiversidad</positionName>
+            <address>
+                <city>Valledupar</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jrojas2@drummondltd.com</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Juan Guillermo</givenName>
+                <surName>Díaz Nieto</surName>
+            </individualName>
+            <organizationName>Drummond LTD</organizationName>
+            <positionName>Ingeniero de proyectos ambientales</positionName>
+            <address>
+                <city>Valledupar</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jdiaz3@drummondltd.com</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2025-08-11
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Como resultado del seguimiento contemplado en los Planes de Manejo Ambiental (PMA) de los proyectos mineros de Drummond LTD. se han llevado a cabo monitoreos de fauna y flora silvestres en las áreas biosensoras de la compañía, ubicadas en las zonas de influencia directa e indirecta de sus operaciones mineras en el departamento del Cesar. Estos monitoreos se alinean con los principios de responsabilidad ambiental y el compromiso de la sostenibilidad corporativa. Es así como la implementación de monitoreos biológicos implementados en áreas estratégicas cercanas a operaciones mineras resulta fundamental para evaluar la resiliencia y persistencia de las poblaciones de especies y la integridad de los ecosistemas a lo largo del tiempo.</para><para>Las áreas designadas para estos monitoreos actúan como unidades de referencia para la evaluación, cuantificación e interpretación de las fluctuaciones en la biodiversidad, tanto a escala espacial como temporal, siendo muestreadas sistemáticamente durante las distintas estaciones climáticas (húmeda y seca). Estas zonas se caracterizan por estar representadas por coberturas naturales que soportan la riqueza biológica y funcional del área de concesión minera. </para><para>El presente conjunto de datos representa la información recolectada durante los monitoreos bióticos de fauna y flora entre los años 2022 a 2024, consta de 28.464 registros biológicos tomados en los municipios de Agustín Codazzi, Becerril, Chiriguaná, El Paso y La Jagua de Ibirico en el marco de los monitoreos bióticos realizados semestralmente para las minas El Descanso Norte, El Descanso Sur, El Corozo y Pribbenow de Drummond LTD.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Fauna; Flora; Aves; Mamíferos; Insectos generalistas; grupos parámetros; Anfibios; Flora fustal; Áreas biosensoras.</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=drummond_monitoreo-cesar</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La información fue colectada en las Áreas de Influencia Directa (AID) e Indirecta (AII) de los proyectos mineros La Loma Pribbenow y El Descanso Norte, El Descanso Sur y El Corozo, en los municipios de La Jagua de Ibirico, Chiriguaná, El Paso, Agustín Codazzi y Becerril.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.620533</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.278543</eastBoundingCoordinate>
+                    <northBoundingCoordinate>9.753715</northBoundingCoordinate>
+                    <southBoundingCoordinate>9.478781</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2022-04-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-11-10
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este conjunto de datos consta de 28.464 registros biológicos que pertenecen a los reinos de Animalia (15.253) y Plantae (13.211). Se identificó un total de 10 clases, 66 órdenes, 210 familias, 568 géneros y 747 especies y subespecies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Spermatophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Arthropoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Suliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudine</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hemiptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anseriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Artiodactyla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Galliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ericales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Passeriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eudicotyledoneae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pelecaniformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gymnophiona</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Chiroptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lagomorpha</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Primates</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arachnida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chordata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gruiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apodiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Boraginales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lamiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Carnivora</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Blattodea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caryophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Nyctibiiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Zygophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Magnoliophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rosales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Brassicales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Araneae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sapindales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gentianales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Magnoliales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lepidoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudinidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Didelphimorphia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Diptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Tracheophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cuculiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Angiospermae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Tinamiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dilleniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Arecales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pandanales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Laurales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Mantodea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ciconiiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Monocotyledoneae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pilosa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Falconiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Myrtales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Orthoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Accipitriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coleoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Columbiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malvales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Odonata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Charadriiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hymenoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Psittaciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fabales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cingulata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rodentia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Strigiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Piciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coraciiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Oxalidales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apiales</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unknown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Fray Emilio</givenName>
+                <surName>Orozco Morgan</surName>
+            </individualName>
+            <organizationName>Drummond LTD</organizationName>
+            <positionName>Supervisor senior de biodiversidad</positionName>
+            <address>
+                <city>Valledupar</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>forozco@drummondltd.com</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Juan Guillermo</givenName>
+                <surName>Díaz Nieto</surName>
+            </individualName>
+            <organizationName>Drummond LTD</organizationName>
+            <positionName>Ingeniero de proyectos ambientales</positionName>
+            <address>
+                <city>Valledupar</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jdiaz3@drummondltd.com</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Jimmy David</givenName>
+                <surName>Rojas Pinto</surName>
+            </individualName>
+            <organizationName>Drummnond LTD</organizationName>
+            <positionName>Supervisor asistente de biodiversidad</positionName>
+            <address>
+                <city>Valledupar</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jrojas2@drummondltd.com</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Gustavo Andrés</givenName>
+                <surName>Valencia Escobar</surName>
+            </individualName>
+            <organizationName>Drummond LTD</organizationName>
+            <positionName>Supervisor senior de biodiversidad</positionName>
+            <address>
+                <city>Valledupar</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gvalencia@drummondltd.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FAUNA - Anfibios y Reptiles: Para el seguimiento de la comunidad de anfibios se implementó la combinación de diferentes técnicas estandarizadas para el estudio y monitoreo de este grupo, ajustadas a las condiciones del área y tiempo de estudio, siguiendo las sugerencias de diferentes autores (Vargas &amp; Real, 1992; Heyer et al. 2001; Angulo et al., 2006; Amador, 2010). Se realizaron recorridos libres sin restricción en cada estación de monitoreo (Heyer et al.,2001) y de bandas auditivas (Heyer et al. 2001). En los transectos se emplearon las técnicas estandarizadas de observación por relevamientos visuales (VES) e inventarios completos, descritas por Heyer et al. (2001).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El número de técnicas y actividades empleadas fueron condicionadas por las características de la estación de muestreo y la posibilidad e idoneidad para aplicar la técnica de estudio y capturar la mayor y mejor información (Heyer et al. 2001; Amador, 2010).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Considerando obtener un esfuerzo de muestreo uniforme entre las estaciones de monitoreo evaluadas, se utilizó una distancia promedio como referencia para los transectos de muestreo (entre 1,5km - 2 Km), así como un tiempo promedio para los recorridos (2 horas), los cuales fueron adaptados a las características del terreno y de la vegetación, además de las condiciones y particularidades temporales de cada localidad de estudio.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las observaciones y búsqueda de los anfibios se realizaron frecuentemente durante los periodos comprendidos entre las 07:00 – 12:00 horas y las 17:00 – 21:00 horas, en diferentes estratos, hasta los 5 m de altura. Se consideró un tiempo promedio de muestreo por estación de monitoreo (2 horas), por jornada de trabajo (diurna y nocturna).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La determinación taxonómica de los anfibios se realizó por medio de la captura y observación de ejemplares de las especies, teniendo en cuenta las descripciones de Cochran &amp; Goin (1970); Heyer (1978); Heyer (1979); Heyer (2005); Kluge (1979); Lynch (1989); Lynch
+(1999); Cuentas et al. (2002); Duellman (2000); Faivovich et al. (2005), Rodríguez-Mahecha et al. (2008).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Reptiles: Para el seguimiento de la comunidad de reptiles se implementó la combinación de diferentes técnicas estandarizadas para el estudio y monitoreo, ajustadas a las condiciones y el tiempo en el área de estudio (Savage, 2002; Amador, 2010; Mc Diarmid, 2012). Se
+realizaron recorridos libres sin restricción en cada estación de monitoreo (Savage, 2002; McDiarmid, 2012). En los transectos se emplearon las técnicas estandarizadas de observación por relevamientos visuales (VES) e inventarios completos, descritas por Heyer et al. (2001) y Mc Diarmid (2012). Adicionalmente, se implementó la técnica de cercas en línea recta y trampas de pozo, con cinco tanques de 40L ubicados cada 1,5m en cada una de las estaciones.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El número de técnicas y actividades empleadas fueron condicionadas por las características de la estación de muestreo y la posibilidad e idoneidad para aplicar la técnica de estudio y capturar la mayor y mejor información, siguiendo la propuesta de diferentes autores (Heyer et al., 2001; Amador, 2010; McDiarmid, 2012). Considerando obtener un esfuerzo de muestreo uniforme entre las estaciones de
+monitoreo evaluadas, se utilizó una distancia promedio, como referencia para los transectos de muestreo (1,5 Km – 2km), así como un tiempo promedio para los recorridos (2 horas), los cuales fueron condicionados por las condiciones propias de la cobertura, características del terreno y de la vegetación, además de las condiciones y particularidades temporales de cada estación evaluadas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las observaciones y búsqueda de los reptiles se realizaron con frecuencia durante los periodos comprendidos entre las 07:00 – 12:00 horas y las 17:00 – 21:00 horas, en diferentes estratos, hasta los 5 m de altura. Se consideró un tiempo promedio de muestreo por estación de monitoreo (2 horas), por jornada de trabajo (diurna y nocturna).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La determinación taxonómica de los reptiles se realizó por medio de la captura y observación de ejemplares de las especies, teniendo en cuenta las descripciones de Savage (2002); Bernal &amp; Roze (2005); Campbell &amp; Lamar (2004); Henderson (1997); Pérez-Santos (1986); Pérez-Santos &amp; Moreno (1988); Mc Diarmid (2012); Peters et al. (1970); Campbell &amp; Lamar (1989), entre otros autores.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: Se realizaron recorridos de largo y ancho variable implementando la técnica de observación de aves, usando binoculares de (8x42) y registrando de manera visual y auditiva los individuos de avifauna presentes en las diferentes estaciones de monitoreo, además para
+cada avistamiento se anotaron los siguientes datos: fecha, hora, sitio, cobertura vegetal de registro, especie y número de individuos. Adicionalmente cuando las condiciones fueron ópticas se realizó los respectivos registros fotográficos de la avifauna presente en los sitios de monitoreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El monitoreo de avifauna se basó en La metodología desarrollada por Ralph et al., (1996) la cual consiste en una búsqueda intensiva realizando transectos sobre los senderos o trochas que pasan de forma estratégica por las diferentes estaciones de fauna definidas. Esta metodología ha demostrado ser eficiente, debido a que permitió cubrir una mayor área, además permitió registrar información sobre las actividades ecológicas, de nidos activos y comportamentales durante los censos. Las observaciones se realizaron en los picos de mayor actividad de las aves en jornadas mañana y tarde, en el siguiente horario: de 5:30 a las 10:30 horas y entre las 15:00 y las 18:00 horas. La determinación de especies se realizó con la ayuda de guías de campo de Hilty &amp; Brown (2001) y Ayerbe-Quiñones (2022).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la clasificación taxonómica de las aves se siguió la última versión (del 4 marzo 2024) de la nomenclatura propuesta por el South American Classification Committee (SACC), perteneciente a la American Ornithologists Union (AOU), en el documento “A classification
+of the bird species of South America” (Remsen et al., 2021).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Como método complementario se realizó la captura de la avifauna usando redes de nieblas cada una de 12 metros de largo por 2,5 metros de alto y con ojo de malla de 30x30 mm. La instalación de las redes se definió analizando el paso de las aves y la buena probabilidad de capturas, además se analizaron características como la cobertura vegetal, la disponibilidad de recursos y la disponibilidad de agua. Las redes fueron abiertas en el horario de la jornada de mañana durante mínimo 4 horas al día, las redes fueron revisadas cada 45 minutos siguiendo la metodología de horario y revisión de las redes descrita por Ralph et al., (1996). Una vez capturado el individuo se procedió rápidamente a extraerlo de la red y colocarlo en bolsa de tela para evitar la muerte y/o estrés del individuo. Todos los individuos fueron identificados hasta especie y posterior a ello se realizó el respectivo registro fotográfico y finalmente cada individuo capturado fue liberado en el menor tiempo posible en el sitio de captura.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos - Recorridos de observación: Mediante esta metodología se realizaron registros ocasionales de observaciones directas
+por medio de recorridos libres durante ocho días. Esta metodología fue implementada para el registro de especies arborícolas como monos, ardillas, perezosos, y algunos marsupiales, las cuales son difíciles de registrar en Cámaras Trampas debido a sus hábitos. Además, permite el registro de la presencia de algunas especies mediante indicios tales como huellas, dormideros, letrinas, vocalizaciones entre otros rastros. Cada uno de los registros fue georreferenciado individualmente.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cámaras trampa: Las Cámaras Trampa, son dispositivos electrónicos equipados con sensores de calor y movimiento, que permiten registrar especies de baja detectabilidad debido a sus hábitos nocturnos y evasivos. Para el presente monitoreo fueron instaladas 30 Cámaras Trampa debidamente georreferenciadas, teniendo en cuenta sitios con evidencia de actividad de mamíferos,
+como senderos, comederos, letrinas, entre otros. Cada una de las cámaras fue instalada a 50 cm del suelo y permanecieron activas durante 24 horas para un total de 120 horas por cámara. La información recopilada por cada una de estas trampas fue descargada dentro de una computadora para su posterior revisión y análisis.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Trampas Sherman: Esta metodología es emplea para la captura y registro de pequeños mamíferos no voladores (PMNV); Las trampas Sherman fueron ubicadas de manera ad libitum al nivel del suelo, teniendo en cuenta sitios de mayor probabilidad de captura como senderos, madrigueras y troncos huecos. Separadas entre sí por una distancia aproximada de entre 7m y 10m, y cebadas con una
+mezcla de avena en hojuelas, mantequilla de maní y diferentes esencias. Las trampas permanecieron por un periodo de cinco noches y fueron recebadas todos los días en horas de la mañana para verificar posibles capturas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Redes de niebla: Para el muestreo de mamíferos voladores (murciélagos), se usaron redes de niebla, las cuales fueron instaladas al interior y en el borde de la cobertura vegetal correspondiente a la estación de monitoreo muestreada, teniendo en cuenta fuentes de agua, posibles corredores de vuelo y zonas de alimentación (Plantas con flores o frutos), criterios que permiten un mayor éxito de captura. Las redes permanecieron abiertas desde las 18:00 hasta las 20:00 horas, y fueron revisadas cada 15 o 30 minutos, de acuerdo con la actividad registrada de los murciélagos durante la noche.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Insectos: En cada una de estas estaciones se realizó la colecta de insectos utilizando técnicas específicas de captura diseñadas para los grupos focales en estudio: Hormigas (Hymenoptera: Formicidae): Se emplearon métodos de recolección adaptados para las hormigas. Escarabajos coprófagos (Coleoptera: Scarabaeidae: Scarabaeinae): Se utilizaron técnicas de captura especializadas para este grupo de insectos. Mariposas (Lepidoptera: Rophalocera): Se aplicaron técnicas específicas para la captura de mariposas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FLORA: El monitoreo florístico en parcelas permanentes de seguimiento forestal es una estrategia fundamental en la ecología y la gestión de recursos naturales, diseñada para comprender la dinámica y la salud de los ecosistemas boscosos a lo largo del tiempo. A diferencia de los muestreos puntuales, estas parcelas, una vez establecidas, se mantienen en el mismo lugar y son visitadas repetidamente a intervalos regulares, permitiendo registrar cambios en la composición de especies, estructura, crecimiento y regeneración de la vegetación. Su carácter a largo plazo las convierte en herramientas invaluables para evaluar el impacto de disturbios naturales (como sequías, incendios o plagas) y antropogénicos (deforestación, fragmentación, cambio climático), así como la efectividad de las medidas de conservación y manejo.
+
+El objetivo principal de estas parcelas es generar series de datos temporales que permitan detectar tendencias y patrones ecológicos, centrándose en evaluar la diversidad florística (riqueza y abundancia), analizar la dinámica poblacional (crecimiento, mortalidad, reclutamiento), caracterizar la estructura del bosque (DAP, altura, área basal), detectar cambios en la composición (especies invasoras o disminuciones nativas) y comprender la regeneración natural. La metodología para establecer y monitorear estas parcelas es rigurosa para asegurar la comparabilidad de los datos. Típicamente, se delimitan parcelas de tamaño estándar, marcadas con puntos de referencia permanentes. Dentro de cada parcela, todos los individuos arbóreos que superan un diámetro mínimo preestablecido son identificados taxonómicamente, medidos y etiquetados con un número único. Se registran también su estado sanitario, la fenología y, en sub-parcelas más pequeñas, la regeneración natural, pudiendo complementarse con el registro de especies herbáceas y datos ambientales.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la evaluación de las comunidades vegetales presentes en los sitios de estudio de diversidad, se lleva a cabo el monitoreo y seguimiento en estaciones para las comunidades vegetales, donde cada una de ellas tiene un área de 50 m * 50 m, con tendencia hacia el norte a partir de su primer vértice, para una cobertura de 0,25 ha. Las variables que determinaron el área muestreada fueron; la estructura, la forma y la composición de la cobertura boscosa. Cabe destacar que las estaciones actualmente se encuentran demarcadas para facilitar la ubicación de las parcelas. Las variables que determinaron el área muestreada fueron; la estructura, la forma y la composición de la cobertura boscosa. Cabe destacar que las estaciones actualmente se encuentran demarcadas para facilitar la ubicación de las parcelas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se censaron todos los individuos encontrados en cada subparcela, incluyendo las coberturas herbáceas, para las cuales se estimó su altura y porcentaje, este último dato convertido a m2. Para las coberturas de hábito arbustivo y arbóreo, se registró su diámetro o circunferencia (CAP) a 31,5 cm, lo que equivale a un diámetro a la altura del pecho (DAP) de 10 cm; teniendo en cuenta que la altura del pecho estándar para levantamientos en bosques tropicales es de 1,30 m desde el suelo, lugar donde se ubica el punto óptimo de medida (POM) medidos sobre el nivel del suelo teniendo en cuenta las diferentes situaciones que se puedan presentar. Adicionalmente fueron identificados los individuos arbóreos pertenecientes a los estratos bajos del bosque o de Regeneración que presentan un tamaño de clase de tipo Latizal, Brinzal y Renuevo; lo anterior mediante la realización de subparcelas de 5 m x 5 m para el censo de los individuos en la categoría de tamaño latizal, así como de 2 m x 2 m para el censo de los individuos en la categoría de tamaño brinzales y renuevos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para cada individuo se registró la información en una libreta de campo, donde se consignaron las variables registradas para cada individuo: el nombre o código de parcela, la cobertura observada en el sitio, el número de Cuadrante o Subparcela en la que se encuentra el individuo; la categoría de tamaño (Fustal, Latizal, Brinzal o Renuevo); las coordenadas geográficas de la ubicación del individuo, la altitud en metros sobre el nivel del mar (msnm); el número consecutivo único de cada individuo en la parcela (No Ind); el nombre común, el nombre científico o la especie a la que pertenece el individuo; el número de tallos o bifurcaciones que presenta el individuos, la circunferencia a la altura del pecho en cm (CAP); la altura total en m; la altura del fuste en m; los diámetros de copa en el eje X y en el eje Y; y el número de individuos, siendo siempre 1 para fustales y latizales y siendo mayor o igual a 1 para un registro de brinzales.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La altura de cada individuo se registró mediante una vara taquimétrica en plantas de porte bajo, y se estimó visualmente para las de mayor altura (Lema, 1995). Para estimar la cobertura (área horizontal de copa), se registró el diámetro mayor y menor de la copa de cada planta, mediante estimación visual o con la ayuda de una cinta métrica de ser posible. De acuerdo con sus hábitos de crecimiento, los árboles fueron tratados como las plantas leñosas erguidas con un tronco definido; los arbustos como las plantas leñosas erguidas sin un tronco definido o que ramifican muy cerca del suelo; las hierbas como las plantas erguidas no leñosas, y las trepadoras como las plantas de tallos flexibles incapaces de mantenerse erguidas.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La zona se caracteriza por formar parte de la planicie aluvial del río Cesar y Ariguaní, donde se destaca la formación de diques y cuencas localizados en forma paralela a los ríos Cesar, Ariguaní y Calenturitas. De igual forma, se destaca la formación de diques y cuencas. Tiene una topografía plana y ligeramente cóncava. Sufre acumulaciones de materiales sedimentarios de diferentes texturas y debido a su posición baja y cercana de los ríos, el nivel freático es alto.
+
+Según la clasificación de Holdridge, el área corresponde a Bosque Seco Tropical (bs-T), caracterizado por una temperatura promedio superior a los 24ºC. En cuanto al régimen de distribución de las lluvias es de tipo bimodal-tetra estacional, con una temporada lluviosa desde abril hasta junio, el período de mayor pluviosidad se presenta entre agosto y noviembre.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Determinación de composición y estructura para Fauna y Flora. En el caso de la Flora, fue determinada mediante la evaluación florística de parcelas de monitoreo permanentes. En el caso de la Fauna se emplearon tanto métodos de registro de fauna directos como indirectos. Dentro de los métodos se encuentran los transectos lineales y de búsqueda libre, trampas de caída (para insectos y herpetos), cámaras trampa, redes de niebla (para aves y mamíferos), trampas Sherman y Tomahawk, mientras que los métodos indirectos implementados fueron el registro de huellas y madrigueras y el registro bioacústico de murciélagos.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:07Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/va1awe">Orozco Morgan F E, Díaz Nieto J G, Valencia Escobar G A, Rojas Pinto J D (2025). Fauna y flora de los monitoreos bióticos en áreas biosensoras de Drummond LTD. Version 1.2. Drummond LTD. Occurrence dataset https://doi.org/10.15472/va1awe accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Angulo, A., J. V. Rueda-Almonacid, J. V. Rodríguez-Mahecha y E. La Marca. 2006. Técnicas de inventario y monitoreo para los anfibios de la región tropical andina. Conservación Internacional-Colombia, Series Manuales de Campo No. 2, Panamericana Formas e Impresos S. A., Bogotá D.C. 298 pp.</citation>
+                <citation>Ayerbe-Quiñones, F. 2022. Guía Ilustrada de la Avifauna Colombiana, Tercera edición. Wildlife Conservation Society-Colombia. Editorial PuntoAparte, Bogotá D.C., Colombia, 472 pp.</citation>
+                <citation identifier="https://doi.org/10.59517/oc.e548">Echeverry-Galvis, M. Ángela, Acevedo-Charry, O., Avendaño, J. E., Gómez, C., Stiles, F. G., Estela, F. A., &amp; Cuervo, A. M. (2022). Lista oficial de las aves de Colombia 2022: Adiciones, cambios taxonómicos y actualizaciones de estado. Ornitología Colombiana, (22), 25–51.</citation>
+                <citation>Gentry, A. 1993. A field guide to the families and genera of woody plants of Northwest South American. Washington: Conservation International. 895p.</citation>
+                <citation>Ralph, J. Genpel, G. Pyle, P. Martin, T. De Sante, y D. Borja, M. (1996). Manual de métodos para el Monitoreo de Aves Terrestres. Gen. Tech. Rep. PSW-GTR_159. Forest service, U.S. Departament of agricultura. Albany CA, Pasific South west. 46P.</citation>
+                <citation>Villareal, H., Álvarez, M., Córdoba, S., Escobar, F., Fagua, G., Gast, F., Mendoza, H., Ospina, M., Umaña, A.M. 2004. Manual de métodos para el desarrollo de inventarios de biodiversidad. Programa de inventarios de biodiversidad. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). Bogotá, Colombia. 236 pp.</citation>
+                <citation>Ayerbe-Quiñones, F. 2022. Guía Ilustrada de la Avifauna Colombiana, Tercera edición. Wildlife Conservation Society-Colombia. Editorial PuntoAparte, Bogotá D.C., Colombia, 472 pp.</citation>
+                <citation>Hilty S.L y W. L. Brown. 1986. A guide to the birds of Colombia. Princeton University Press. NJ, USA.</citation>
+                <citation>HILTY, Steven y BROWN, William. Guía de las aves de Colombia. 2 ed. Bogotá, Colombia: Asociación Colombiana de Ornitología. 2001, 1030 p.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-drummondltd.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

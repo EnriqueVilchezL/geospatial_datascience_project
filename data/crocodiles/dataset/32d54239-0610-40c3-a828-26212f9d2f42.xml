@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="32d54239-0610-40c3-a828-26212f9d2f42"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/otsdnq</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=ecopetrol_ahuyentamiento-moriche</alternateIdentifier>
+        <title>Monitoreos de fauna y flora en cumplimiento de las obligaciones del medio biótico del Campo Moriche</title>
+        <creator>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Departamento Regional Ambiental Central</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>depambientalcen@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Mansarovar Energy</surName>
+            </individualName>
+            <organizationName>Mansarovar Energy</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Calle 100 No. 13 – 76 Piso 11</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>https://www.mansarovar.com.co/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Departamento Regional Ambiental Central</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>depambientalcen@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2023-08-31
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Este conjunto de datos contiene información de los monitoreos de fauna y flora realizados en cumplimiento de las obligaciones del medio biótico del Campo Moriche en 2021, como cumplimiento del instrumento ambiental (Fichas de manejo). 
+
+Contiene 783 registros biológicos de fauna y 91 registros de flora procedentes de un inventario de aprovechamiento forestal.
+        </abstract>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Anfibios</keyword>
+            <keyword>Mamíferos</keyword>
+            <keyword>Aves</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=ecopetrol_ahuyentamiento-moriche</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Boyacá, municipio de Puerto Boyacá, Vereda Ermitaño.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-74.564</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-74.526</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.224</northBoundingCoordinate>
+                    <southBoundingCoordinate>6.143</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-01-15
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-10-20
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este conjunto de datos contiene 783 registros biológicos de fauna de las clases Aves (545), Reptilia (53), Mammalia (28) y Amphibia (26) y 91 registros de flora de las clases Magnoliopsida (86) y Liliopsida (5). Distribuídos en 73 familias y 54 géneros. Un 99% se clasificó a nivel de especie y 1% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <surName>Gerencia de Gestión Ambiental y Relacionamiento</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A.</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Barrancabermeja</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>depambientalcen@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Observación libre en trancecto de ancho variable en las diferentes coberturas del área de estudio.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Observación puntual con elementos de captura como trampas Tomahawk, Sherman, redes de nibla para mamíferos voladores y aves.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Censo al 100% de los árboles aprovechados.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Todos los datos fueron tomados en el Campo Moriche.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Monitoreo de fauna tetrápoda terréstre y aérea y flora aprovechada.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:17Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/otsdnq">Ecopetrol S.A., Mansarovar Energy (2023). Monitoreos de fauna y flora en cumplimiento de las obligaciones del medio biótico del Campo Moriche. Ecopetrol S.A.. Occurrence dataset https://doi.org/10.15472/otsdnq accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ecopetrol.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

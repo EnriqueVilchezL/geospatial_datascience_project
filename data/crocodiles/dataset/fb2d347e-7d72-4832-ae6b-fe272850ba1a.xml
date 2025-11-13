@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="fb2d347e-7d72-4832-ae6b-fe272850ba1a"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/jrlxvm</alternateIdentifier>
+        <alternateIdentifier>fb2d347e-7d72-4832-ae6b-fe272850ba1a</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=geopark_bienparado_flora-fauna</alternateIdentifier>
+        <title>Caracterización de fauna, flora y líquenes en Área de Perforación Exploratoria Bienparado, municipio de Puerto de Asís, Putumayo</title>
+        <creator>
+            <individualName>
+                <givenName>Diego</givenName>
+                <surName>Cahueño</surName>
+            </individualName>
+            <organizationName>Ingeniería y Medio Ambiente S.A.S.</organizationName>
+            <positionName>Ingeniero Forestal Líder</positionName>
+            <address>
+                <deliveryPoint>Calle 87 Nº 49-21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 3143552939</phone>
+            <electronicMailAddress>comercial@imasas.com</electronicMailAddress>
+            <onlineUrl>https://www.imasas.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Wilmar</givenName>
+                <surName>Barbosa</surName>
+            </individualName>
+            <organizationName>Ingeniería y Medio Ambiente S.A.S.</organizationName>
+            <positionName>Ingeniera Forestal Epifitas y vedas arbóreas</positionName>
+            <address>
+                <deliveryPoint>Calle 87 Nº 49-21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 3143552939</phone>
+            <electronicMailAddress>comercial@imasas.com</electronicMailAddress>
+            <onlineUrl>https://www.imasas.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Diego</givenName>
+                <surName>Cahueño</surName>
+            </individualName>
+            <organizationName>Ingeniería y Medio Ambiente S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Ingeniero Forestal Líder</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 3143552939</phone>
+            <electronicMailAddress>comercial@imasas.com</electronicMailAddress>
+            <onlineUrl>https://www.imasas.com/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Geopark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>Geopark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30. Pisos 8, 9 y 10</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6017432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>https://www.geo-park.com/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Ingeniería y Medio Ambiente S.A.S.</surName>
+            </individualName>
+            <organizationName>Ingeniería y Medio Ambiente S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 87 Nº 49-21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 3143552939</phone>
+            <electronicMailAddress>comercial@imasas.com</electronicMailAddress>
+            <onlineUrl>https://www.imasas.com/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>SGS Colombia S.A.S</surName>
+            </individualName>
+            <organizationName>SGS Colombia S.A.S</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 100 No. 25C - 11</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57 1 606 9292</phone>
+            <onlineUrl>https://www.sgs.co/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2024-04-16
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El Estudio de Impacto Ambiental (en adelante EIA) para proyecto de Área de Perforación Exploratoria (en adelante (APE) Bienparado, Bloque PUT-8 fue elaborado en concordancia con el principio de desarrollo sostenible y partiendo de la aplicación de buenas prácticas ambientales. Se recopiló la mayor información disponible de alto nivel científico y técnico y con metodologías rigurosas para el levantamiento y análisis de información.</para>
+<para>La identificación y evaluación de impactos y el Plan de Manejo Ambiental (en adelante PMA) se plantearon con base en la jerarquía de manejo de potenciales impactos identificados (impactos significativos), es decir en primera instancia se considera e implementa medidas para prevenir y evitar que ocurran los impactos, seguidas de medidas para reducir y minimizar, y por último medias compensatorias de los impactos residuales.
+Dentro de este estudio de Impacto Ambiental se realizó la caracterización de los ecosistemas terrestres de acuerdo con el Mapa de Ecosistemas Continentales, Costeros y Marinos de Colombia a escala 1:1.500.000, el cual presenta una base de datos geográfica con múltiples capas de información (geopedología, zonificación climática, coberturas de la tierra y biomas) que apoyan la determinación del estado de los ecosistemas del país y es la línea base sobre la cual se hace seguimiento continuo para la administración y el manejo del territorio. Con esta información se obtiene la descripción de los biomas presentes en el área de estudio, la cual se utiliza, en combinación con las coberturas vegetales previamente identificadas, en la clasificación de ecosistemas presentes en el área del proyecto.</para>
+<para>Este recurso representa la caracterización de flora y consta de 4.536 registros biológicos observados en Putumayo, Puerto de Asís, Colombia durante febrero del 2019.</para>
+<para>Adicionalmente, este recurso contiene información de un Estudio de Impacto Ambiental adicional que se realizó se llevó a cabo entre los años 2021 y 2022, considerando las etapas necesarias para la fase de campo (scouting y avanzadas socializaciones con las comunidades, recolección de información primaria), en los diferentes componentes. Este tenía como objetivo servir como planificación ambiental para las actividades a desarrollar por AMERISUR COLOMBIA en el AD Bienparado, durante la fase de explotación, en el cual se plantea llevar a cabo las etapas pre operativa, operativa y post operativa. Para lo cual el proyecto se enmarcará en el óptimo aprovechamiento de los recursos naturales con el fin de causar la menor intervención en los mismos y prevenir y mitigar los posibles impactos asociados.</para>
+<para>Este estudio adicional presenta la caracterización de fauna y flora, abarcando 13.890 registros, distribuidos en los reinos Plantae (7.134), Fungi (5.869) y Animalia (887). Los datos fueron tomados en el 2021 y 2022 para flora y en 2019 para fauna.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>ecosistemas</keyword>
+            <keyword></keyword>
+            <keyword>comunidades vegetales</keyword>
+            <keyword>cobertura</keyword>
+            <keyword>territorio</keyword>
+            <keyword>Puerto de Asís</keyword>
+            <keyword>bosque</keyword>
+            <keyword>cultivos</keyword>
+            <keyword>flora</keyword>
+            <keyword>bioma</keyword>
+            <keyword>Putumayo</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=geopark_bienparado_flora-fauna</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La caracterización de flora se llevó a cabo en Colombia, departamento de Putumayo, municipio Puerto de asís.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-76.352</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-76.304</eastBoundingCoordinate>
+                    <northBoundingCoordinate>0.511</northBoundingCoordinate>
+                    <southBoundingCoordinate>0.435</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2019-01-25
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-09-05
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este recurso contiene 18.426 registros, de los reinos Plantae (9.718), Fungi (7.821) y Animalia (887), pertenecientes a las clases: Amphibia, Arthoniomycetes, Aves, Bryopsida, Dothideomycetes, Equisetopsida, Eurotiomycetes, Jungermanniopsida, Lecanoromycetes, Liliopsida, Magnoliopsida, Mammalia, Polypodiopsida, Reptilia. Abarcando 79 órdenes, 171 familias, de los cuales 11.507 registros fueron identificados hasta especie (557 especies) y 6.846 hasta género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Ascomycota</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Bryophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chordata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Embryophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Marchantiophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Tracheophyta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Caracterizar la flora y fauna en el Área de Perforación Exploratoria Bienparado.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <surName>Geopark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>Geopark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30. Pisos 8, 9 y 10</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6017432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>https://www.geo-park.com/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Diseño del inventario forestal:
+
+Para la caracterización florística de las unidades boscosas presentes en el área de influencia, se realizó inventario forestal estadístico con una probabilidad del 95% y un error de muestreo menor al 15%. Para determinar el número total de parcelas de realizó un pre muestreo de 6 parcelas para todas las coberturas arbóreas a excepción de pastos arbolados donde se realizaron 5 parcelas de caracterización y un transepto de 10 x 100 metros para la realización de perfiles, y a partir de los datos obtenidos se calcularon los estadígrafos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Forma y Tamaño de las Parcelas:
+
+La forma de las parcelas es rectangular y el tamaño de dichas parcelas es de 100×10 m, teniendo así un área de muestreo de 1000 m2. En el caso de que no se pueda realizar la parcela con estas dimensiones se puede realizar de 50×20 m, teniendo en cuenta que no se debe perder el área de la parcela (1000 m2).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Registro de los datos de campo del inventario:
+
+Para el inventario forestal se tomaron diferentes variables dasométricas, tales como: Circunferencia a la Altura del Pecho (CAP) en centímetros (la cual se convierte en DAP en la etapa de oficina), altura total (Ht) en metros, altura comercial (Hc) en metros, número de bifurcaciones por debajo de la altura de medición del DAP, entre otras. Esta información fue consignada en planillas previamente diseñadas para tal fin. De igual forma, las parcelas fueron georreferenciadas y los fustales fueron marcados en números arábigos con pintura indeleble de color rojo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Análisis estructural de la vegetación:
+
+Se realizó el análisis de composición florística, estructura horizontal, estructura vertical, índices de biodiversidad, volúmenes y análisis de regeneración natural para las diferentes coberturas encontradas en campo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Flora Epifita:
+
+Las actividades de caracterización de la vegetación epifita y de las diferentes especies en veda nacional de habito epífito, rupícola y terrestre, declaradas mediante las resoluciones 0213 de 1977 para las diferentes especies de los grupos de Orquídeas, Bromelias, Briofitos (hepáticas, Musgos y Anthoceros), Líquenes; y 0810 de 1977 del INDERENA se desarrollaron en tres fases: la primera denominada fase de “pre – campo”, seguida por la “fase de campo” y por último la fase de “post – campo”. A continuación, se describe cada una de las fases planteadas y la metodología propuesta a desarrollar en cada etapa, para la adecuada caracterización de especies epifitas y en veda nacional, así como el desarrollo del documento de solicitud de levantamiento de veda de las especies registradas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Etapa pre campo:
+
+Durante la fase pre-campo se realizó la revisión de la información relacionada con las especies de habito epifito presentes dentro del área de intervención del APE Bienparado PUT-8 que se encuentren registradas en estudios de licenciamiento previos o en estudios de caracterización científica dentro del área de estudio; así mismo se realizará la revisión de las posibles especies presentes dentro del área de influencia y sus zonas aledañas, a través de la búsqueda bibliográfica en literatura especializada, entre la que se encuentra el libro Colombia Diversidad Biótica VI Riqueza y Diversidad de los musgos y líquenes de Colombia; el Catálogo de líquenes y plantas de Colombia y distintas bases de datos web, como por ejemplo el catálogo de plantas de Colombia, Colecciones en Línea. Publicado en Internet http://www.biovirtual.unal.edu.co, entre otras fuentes bibliográficas y afines.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El equipo de trabajo para caracterizar la vegetación epifita y en veda nacional estuvo conformado, por un profesional forestal, un Biólogo especializado en el área de vegetación epífita vascular y no vascular como coordinador de campo y desarrollo documental, y por 2 biólogos profesionales de campo acompañados por 2 auxiliar de campo (baquiano), contando con el apoyo de un profesional del área SIG, los cuales en conjunto, generaron la correspondiente información de especies registradas y cartografía de ubicación de los puntos y zonas de muestreo, con el objeto de puntualizar y facilitar la ubicación de los mismos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Diseño de Muestreo:
+
+Para realizar los muestreos de caracterización de la vegetación de habito epifito, entre los que se encuentran principalmente grupos de Bromelias, Orquídeas Briofitos (hepáticas y musgos) y Líquenes, así mismo como la medición de la abundancia y diversidad de este tipo de especies dentro del APE Bienparado PUT-8. El diseño muestreal y el tamaño de la muestra propuesto se estableció a nivel de las coberturas vegetales naturales registradas dentro del campo, utilizando de manera parcial el protocolo de muestreo rápido y representativo de epífitas vasculares (metodología RRED).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Selección de Puntos de Muestreo para la Caracterización:
+
+Previo a la salida de campo, se realizó la definición preliminar de las coberturas vegetales naturales con presencia de vegetación arbórea y/o arbustiva dentro del APE Bienparado PUT-8, teniendo como recursos iniciales los estudios previamente realizados y la cartografía existente actualizada con la que cuente el proyecto y fotografías aéreas. Los puntos y zonas de muestreo fueron definidos de acuerdo a la ubicación potencial de las áreas de intervención sobre cada una de las coberturas vegetales naturales con presencia de vegetación arbórea y/o arbustiva, sobre las que se prevé realizar algún tipo de afectación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Registro de la Abundancia de Especies de Habito Epifito:
+
+La Abundancia de las especies Epífitas vasculares (Aráceas, Bromelias y Orquídeas) se expresa como el número de individuos de este tipo de cada una de las especies registradas que se desarrollan sobre el árbol hospedero. Por lo tanto, durante el inventario de caracterización de las especies Epífitas vasculares, se realizó el conteo de todos los individuos por especie, registrados en cada una de las unidades ecológicas del forófito, en cada uno de los forófito registrados y sobre cada tipo de sustrato estudiado (Roca o Terrestre).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Métodos de Colecta Vegetación Epifita.
+
+Para la identificación taxonómica de las especies registradas, se realizó la observación detallada de los individuos y agregados poblacionales de Epífitas no vasculares, con lupas de 40X 60X y 100X, además de la implementación de binoculares de largo alcance y cámaras con lentes ópticos de 50X y 60X de zoom, acompañadas de lentes macro y supermacro, mediante los cuales se realizó el registro fotográfico detallado, de cada una de las especies y sus correspondientes estructuras reproductivas.
+
+En los casos en los que no se pudo realizar la identificación directamente en campo, por los profesionales encargados, fue necesario realizar la colecta de muestras de los especímenes con el fin de hacer su identificación a partir de la observación detallada de las estructuras. En los casos en los que se colectaron individuos de epífitas vasculares y conglomerados de no vasculares, se utilizaron los métodos básicos de toma de muestras botánicas en campo del Herbario UDBC de la Universidad Distrital Francisco José de Caldas y amparados bajo el permiso de Colecta de la empresa. A continuación, se describen detalladamente las técnicas de colecta para la vegetación objeto de estudio.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Método de Colecta de Epifitas Vasculares (EV):
+
+La colecta de ejemplares de epifitas vasculares, se realizó mediante las indicaciones de la Guía para la recolección y preservación de muestras botánicas en campo, del herbario de la Universidad Distrital, donde se menciona que cada ejemplar debe incluir idealmente flores, frutos y partes vegetativas, estos ejemplares deben ser representativos, saludables y con al menos algunas hojas completamente expandidas.
+
+Por lo anterior se establece que para la toma de muestras vasculares se realizó su recolección de la siguiente manera:
+
+Manualmente: Recolección de las epifitas vasculares de forma manual, por el personal calificado, hasta una altura de 2,0 m.
+
+Mecánicamente: Recolección de las epifitas vasculares de forma mecánica con la ayuda de una desjarretadora hasta una altura máxima de 5 m por encima de los 2 m.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Método de Colecta de Epífitas No Vasculares (ENV):
+
+Para las especies de vegetales de habito epifito no vasculares, se colecto el agregado poblacional de forma manual hasta una altura de 1,80 m, mediante una sección del área ocupada por cada especie sobre Para las especies de vegetales de habito epifito no vasculares, se colecto el agregado poblacional de forma manual hasta una altura de 1,80 m, mediante una sección del área ocupada por cada especie sobre la corteza del forófito, el suelo o roca donde se encontrase. Para ello se empleó el machete del auxiliar de campo o una navaja y se tomaron de 2 a 3 muestras de 25 cm2 por cada morfoespecie (5 x 5 cm o menos). Cada muestra fue guardada en bolsas de papel kraft de libra, rotuladas debidamente con el consecutivo de colecta y selladas con cinta de enmascarar dejando una cantidad moderada de aire en su interior.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Especies Vasculares y No Vasculares en Sustratos Epífito, Rupícola y Terrestre:
+
+El muestreo de las especies de Orquídeas, Bromelias, Helechos, Briofitos y Líquenes de habito terrestre rupícola o saxícola, fue realizado dentro de cada uno de los transectos de caracterización realizando la observación sobre el suelo, rocas y troncos en descomposición que se hallaran dentro de cada punto de muestreo estudiado, en busca de especies de habito epifito vascular y no vascular. Estableciendo entre una (1) a tres (3) plantillas de 600 cm2 (30 cm X 20 cm), para la estimación de cobertura de los agregados poblacionales de los briofitos y líquenes, y realizando el conteo de individuos de todos los individuos vasculares.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Etapa post campo:
+
+Determinación Taxonómica
+
+La determinación de las muestras (morfoespecies) colectadas en campo fue realizada por profesionales especializados en la determinación de epífitas vasculares y no vasculares, con el fin de determinar los especímenes hasta el nivel de género o especie (teniendo en cuenta el nivel de complejidad de cada grupo y si está claro taxonómicamente).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fauna: Herpetofauna (anfibios y reptiles): Para proceder a la observación y captura de anfibios y reptiles, se realizaron 34 recorridos en las diferentes coberturas de la tierra presentes en el AD Bienparado y 20 días efectivos de muestreo (Palmares, Bosque denso alto inundable, Bosque denso alto de tierra firme, Vegetación secundaria alta, Vegetación secundaria baja, Pastos limpios, Pastos arbolados, Pastos enmalezados, Cultivos permanentes y Zonas pantanosas), empleando el método VES, propuesta por Heyer et al.   y Ángulo et al. , el cual consiste en la búsqueda de individuos en un área delimitada y durante un tiempo previamente definido. La evaluación de anfibios y reptiles se efectuó en tres (3) intervalos de tiempo opcionales, el primero se llevó a cabo en las horas de la mañana (08:00 - 12:00 horas), el segundo en las horas de tarde (14:00 - 17:00 horas) y el tercero en la noche (18:00 - 22:00 horas). Los recorridos de búsqueda y observación de anfibios y reptiles se realizaron en los microhábitats preferenciales asociados a la vegetación, cuerpos de agua, borde de charcas, caminos, bajo piedras, hojarasca y troncos.  
+
+La captura de los individuos se realizó manualmente (anfibios, lagartos y algunas serpientes) y con pinza herpetológica (serpientes). Para ello se utilizaron bolsas plásticas humedecidas con vegetación en su interior para la captura de los ejemplares, con el fin de evitar la desecación y/o sacrificios accidentales. Posteriormente, se procedió a realizar el registro fotográfico y la toma de datos relacionados con la captura y/u observación de los individuos en el respectivo formato de campo especialmente diseñados para tal fin. Los individuos capturados fueron liberados en el mismo sitio de origen y ninguno fue objeto de colecta permanente.
+
+Los individuos capturados fueron identificados en campo a partir de la experticia del profesional y de la suficiente información bibliográfica disponible para la zona (Lagartos de Colombia.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fauna: Avifauna: Para la caracterización de la avifauna presente en el área de influencia del proyecto, se realizaron cinco (12) transectos y 21 puntos de observación, representados en 20 días efectivos de muestreo, en los cuales se registraron visualmente todos los individuos presentes en las coberturas encontrados en el AI del proyecto (Palmares, Bosque denso alto inundable, Bosque denso alto de tierra firme, Vegetación secundaria alta, Pastos arbolados, Coca, Rios (20 m) y Zonas pantanosas). Estos recorridos se efectuaron dentro de dos franjas horarias, la primera fue en horas de la mañana (entre las 06:00 hasta las 11:00) y una segunda franja en horas de la tarde (entre las 15:00 hasta las 18:00). Para la observación se utilizarán binoculares 8x42, registrándose la información en el formato de campo establecido para este grupo faunístico. Adicionalmente, se realizó el registro fotográfico de los individuos, haciendo énfasis en caracteres importantes para su determinación. Por otra parte, se instalaron redes de niebla (12 m de largo x 3 m de alto) separadas estratégicamente dentro de la cobertura, para que su revisión fuera de menos de 20 minutos . Las redes se instalaron en las coberturas boscosas. Estas fueron operadas entre las 06:00 y las 10:00 am y entre las 16:00 y las 18:00. En las áreas abiertas no se instalaron redes de niebla, ya que las aves las ven fácilmente, imposibilitando su captura. Una vez capturados los individuos se extrajeron de la red para luego así ser identificados mediante guías de campo , se tomó registro fotográfico y posteriormente se liberaron en el mismo lugar de captura. Las especies capturadas se registraron en el formato de datos establecido, pero solo se les tomarán datos de medidas morfométricas a aquellas aves que sean de difícil identificación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fauna: Mastofauna: Se implementará la metodología para el levantamiento de información, según lo propuesto en el documento de “Manual de métodos para el desarrollo de inventarios de la biodiversidad” (Villareal et al., 2006).
+Mamíferos voladores-Redes de niebla:
+Para la captura de mamíferos voladores, se instalaron 6 redes de niebla de 12 m de largo por 3 m de alto, a lo largo de senderos, sitios potenciales de paso de murciélagos, presencia de plantas en fructificación y floración, el cual se logró incluir la cantidad de hábitats disponibles. La apertura de actividades de redes de niebla inició desde las 18:30 horas hasta las 22:30 horas. Se realizaron revisiones periódicas cada 15 minutos con éxito de capturas y se tomaron registros de georreferenciación para cada red de niebla junto con un registro de capturas por noche en libreta de campo. Cabe resaltar que cada punto registrado en el GPS como red de niebla, corresponde a una red doble.   
+Los ejemplares de murciélagos capturados fueron depositados en bolsas de tela, para su respectivo procesamiento. Se registró la hora de captura, sexo, medidas morfométricas como longitud del antebrazo con el fin de llegar a su determinación a nivel de especie., además se logró un registro fotográfico para su posterior liberación de cada individuo capturado. Los murciélagos capturados fueron marcados con un corte de pelo en la parte dorsal, esto con el fin de eliminar recapturas y sobre conteo de individuos. La información colectada se consignó en el formato de campo establecido para los murciélagos.
+
+Mamíferos terrestres-Trampas Sherman:
+Se instalaron 20 trampas Sherman LFA de dimensiones 23 largo x 9.5 alto x 8.0 ancho, dispuestas en las coberturas AD Bienparado. Se instalaron de forma lineal con distancias separadas de 10 metros entre sí y se tuvo en cuenta la detección de zonas usadas como refugio, alimentación y de paso o sendas, dentro de las coberturas propuestas. Se usó un cebo compuesto por banano, avena, esencia de vainilla, mantequilla de maní y comida humedad para gatos. Como anexos se presenta la tabla para los registros obtenidos mediante esta técnica de muestreo.
+
+Recorridos de observación: Adicionalmente, para la detección de mamíferos en AD Bienparado, realizaron recorridos de observación los cuales consistían en búsqueda de rastros como madrigueras, huellas, heces fecales y comederos de acuerdo con las coberturas identificadas (Navarro, 2000) y (Aranda, 2012). También se realizó observaciones tipo dosel en los árboles de las coberturas más boscosas, con el fin de registrar especies de primates para el AI. Todos los registros que se presentaron en la fase de campo se consignaron en el formato de campo. Se realizó recorridos diurnos (2 horas) entre las 8:00 a 10:00 horas y recorridos nocturnos (2 horas) entre las 18:30 a 20:30.  
+Cámaras trampa: De igual manera, como complemento se instalaron 11 cámaras trampas en las coberturas más idóneas como paso de mamíferos de talla mediana y grande, con el fin de aumentar la probabilidad de registrar la fauna de mamíferos presentes en la zona de estudio. Cada cámara fue georreferenciada y se registró en el respectivo formato de campo. Estas fueron dispuestas de forma especial izada de tal forma que abarcaran las coberturas de estudio dentro del AI.  
+Encuestas de fauna silvestre: Se realizaron seis (6) entrevistas a los habitantes del AD Bienparado, como complemento a las técnicas y/o métodos de registro descritas anteriormente. Para ello se emplearon láminas ilustrativas de cada uno de los grupos a partir de la información secundaria obtenida en la fase de pre-campo, mediante material impreso o medio electrónico. En las entrevistas se indagó acerca de las especies de difícil observación, nombre común, usos e importancia ecológica, económica y cultural.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El APE Bienparado Bloque PUT–8, localizado al interior del Bloque PUT 8, pertenece a la cuenca sedimentaria Caguán – Putumayo, al sur del departamento del Putumayo, municipio de Puerto –Asís, y tiene como área de influencia socioeconómica y cultural en las unidades territoriales de Bajo Mansoya sector las Camelias, Bajo Mansoya, Sinaí 1 Los Achapos, Chufiya, Zamora, Sinaí 2 Baldío, Belén, Kanakas, Buen Samaritano, Comandante y Quebradón.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la caracterización del Área de influencia se revisó información secundaria contenida en documentos como el POT, PEGOT, POMCA, el Sistema Nacional Biológica, entre otros.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="CESP2022-010">
+                <title>Estudio de Impacto Ambiental, Área de Perforación Exploratoria Bienparado Bloque PUT-8</title>
+                <personnel>
+                    <individualName>
+                    <surName>Geopark Colombia S.A.S.</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>La cuenca del Putumayo recientemente se ha constituido en una de las regiones promisorias del país, debido a que presenta excelentes condiciones para la producción potencial de hidrocarburos, siendo ésta, después de la cuenca de los Llanos orientales, la del Catatumbo y la del Valle Medio del Magdalena, la que promete aportar mayores volúmenes de crudos a la producción nacional.
+
+En los últimos once años, AMERISUR EXPLORACIÓN COLOMBIA LIMITADA (en adelante AMERISUR), viene efectuando actividades exploratorias en el departamento del Putumayo, a través de la ejecución de programas sísmicos y pozos exploratorios de hidrocarburos. Es uno de los mayores inversionistas de la región y está comprometido a lograr un crecimiento sostenible a largo plazo de manera segura y responsable, y cumplir con todas las leyes y regulaciones aplicables. 
+
+AMERISUR tiene un sólido conocimiento de la región y se esfuerza constantemente por fortalecer y mejorar sus prácticas de sostenibilidad al tiempo que mitiga el riesgo y el impacto de sus operaciones en la comunidad y el medio ambiente.
+
+Debido a los resultados positivos que se han presentado en la zona de Puerto Asís, AMERISUR adquirió un contrato de cesión (en proceso) de la empresa VETRA EXPLORACIÓN &amp; PRODUCCIÓN COLOMBIA SAS, en el mismo municipio para desarrollar un programa de exploración y producción en el Bloque PUT-8.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El APE Bienparado Bloque PUT–8, localizado al interior del Bloque PUT 8, pertenece a la cuenca sedimentaria Caguán – Putumayo, al sur del departamento del Putumayo, municipio de Puerto –Asís, y tiene como área de influencia socioeconómica y cultural en las unidades territoriales de Bajo Mansoya sector las Camelias, Bajo Mansoya, Sinaí 1 Los Achapos, Chufiya, Zamora, Sinaí 2 Baldío, Belén, Kanakas, Buen Samaritano, Comandante y Quebradón.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Todas las actividades y obras que se contemplan dentro del APE Bienparado Bloque PUT-8 se localizarán dentro del área que arroje la zonificación de manejo ambiental del EIA. La infraestructura proyectada y sus respectivos diseños serán presentadas posteriormente en los Planes de Manejo Ambiental Específicos de cada Plataforma.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:14Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/jrlxvm">Cahueño D, Barbosa W (2024). Caracterización de fauna, flora y líquenes en Área de Perforación Exploratoria Bienparado, municipio de Puerto de Asís, Putumayo. Version 1.5. GeoPark Colombia S.A.S. Occurrence dataset https://doi.org/10.15472/jrlxvm accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Villareal, H., Álvarez, M., Córdoba, S., Escobar, F., Fagua, G., Gast, F., Mendoza, H., Ospina, M. &amp; Umaña, A. (2004). Manual de métodos para el desarrollo de inventarios de biodiversidad. Programa de Inventarios de biodiversidad. Instituto de Investigación de recursos Biológicos Alexander von Humboldt. Bogotá, Colombia.</citation>
+                <citation>Navarro, J.F. y Muñoz, J. Manual de huellas de algunos mamíferos terrestres de Colombia. Medellín, Colombia. (2000).</citation>
+                <citation>Aranda, S. Manual de rastros de mamíferos silvestres de México. México. (2012).</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-geopark.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

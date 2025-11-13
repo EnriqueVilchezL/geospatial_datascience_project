@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="64ec1ba4-08d4-46ef-b40a-68965728e182"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/9tsf2l</alternateIdentifier>
+        <alternateIdentifier>64ec1ba4-08d4-46ef-b40a-68965728e182</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr8129</alternateIdentifier>
+        <alternateIdentifier>b3780b5f-6b43-3530-8508-3ed8981c9f84</alternateIdentifier>
+        <title>HerpMapper</title>
+        <creator>
+            <organizationName>HerpMapper</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>HerpMapper</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>Atlas of Living Australia</organizationName>
+            <address>
+                <deliveryPoint>CSIRO Ecosystems Services</deliveryPoint>
+                <city>Canberra</city>
+                <administrativeArea>ACT</administrativeArea>
+                <postalCode>2601</postalCode>
+                <country>AUSTRALIA</country>
+            </address>
+            <electronicMailAddress>info@ala.org.au</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2019-09-26
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            HerpMapper is a 501(c)(3) nonprofit organization designed to gather and share information about reptile and amphibian observations across the planet. Using HerpMapper, you can create records of your herp observations and keep them all in one place. In turn, your data is made available to HerpMapper Partners ? groups who use your recorded observations for research, conservation, and preservation purposes. Your observations can make valuable contributions on the behalf of amphibians and reptiles.
+
+Who can see the records you create? There are two levels of visibility for records. Only you and HerpMapper Partners have access to all data in a record. Other users of HerpMapper and the general public can only see very basic information in your records ? they do not have access to exact locality data. Any pictures attached to a record can be seen by everyone, which means you can also see the cool herps being recorded by other people from around the world.
+
+Who are the HerpMapper Partners? For the most part, they are biologists working for state or regional agencies, university researchers, or conservation organizations. A list of HerpMapper Partners is maintained on the HerpMapper website.
+        </abstract>
+        <additionalInfo>
+            <para>As you may know, one of the things that sets HerpMapper apart from many other citizen-science database projects is that point-location data entered into HerpMapper are not shared publicly by HerpMapper. As such, HerpMapper Partners are discouraged from sharing point-location data publicly, even for common species, but HerpMapper acknowledges that in some cases this may be necessary to meet conservation and research objectives. HerpMapper encourages Partners to contact HerpMapper directly to discuss publication and sharing of these data to meet your needs while also best protecting herpetofauna populations. This also ensures that multiple organizations do not attempt to publish the same new and updated county records in Herpetological Review geographical distribution notes.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://www.herpmapper.org/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://dwca-exports.ala.org.au/dr8129.zip</url>
+            </online>
+        </distribution>
+        <purpose>&lt;para/&gt;</purpose>
+        <contact>
+            <individualName>
+                <surName>HerpMapper contact</surName>
+            </individualName>
+            <positionName>editor</positionName>
+            <electronicMailAddress>info@herpmapper.org</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:50Z</dateStamp>
+                <citation>Atlas of Living Australia (2019). HerpMapper. Occurrence dataset https://doi.org/10.15468/9tsf2l accessed via GBIF.org on 2025-10-11.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

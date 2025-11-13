@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="43f0d1c9-7743-4af5-8cee-d2f63b20e0dc"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/2htddb</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=ecopetrol_fauna-flora_flamencos</alternateIdentifier>
+        <title>Biodiversidad asociada al Estudio de Impacto Ambiental (EIA) de la Plataforma Flamencos en Puerto Wilches-Santander</title>
+        <creator>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Gerencia de Gestión Ambiental y Relacionamiento</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Servicios Geológicos Integrados S.G.I. S.A.S.</surName>
+            </individualName>
+            <organizationName>Servicios Geológicos Integrados S.G.I. S.A.S.</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Cra 28 # 83-28/34</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(57-1) 742 4101</phone>
+            <onlineUrl>https://sgisas.co/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Gerencia de Gestión Ambiental y Relacionamiento</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2023-10-17
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El presente conjunto de datos está relacionado con las actividades de caracterización del medio biótico realizadas en el marco del Estudio de Impacto Ambiental (EIA) desarrollado para obtener la Licencia Ambiental Global que permita pasar de actividades de exploración otorgadas al área de Perforación Exploratoria Cantagallo mediante la Resolución 0408 del 9 de abril de 2003, modificada a través de la Resolución 2004 del 16 de octubre de 2009, a las actividades propias de Explotación. Lo anterior se desarrolló conforme a lo establecido en los términos de referencia HI-TER 103 y la Metodología general para la elaboración y presentación de Estudios ambientales del 2018. El Proyecto de Desarrollo Flamencos busca la conversión de los tres (3) pozos exploratorios existentes en la plataforma exploratoria Flamencos denominados, Flamencos-1 (FL-01), Flamencos-2 (FL-02) y Flamencos-3 (FL-03) a pozos productores.</para>
+<para>Este recurso consta de 1.870 registros biológicos, distribuidos en los reinos: Animalia (1.048), Fungi (413) y Plantae (409). Se realizaron las actividades de toma de información en el mes de marzo del 2022 en el departamento de Santander, municipio de Puerto Wilches, haciendo uso de cámaras trampa, redes de niebla, trampas Sherman, entre otros, e implementación de transectos de ancho variable y muestreos por parcelas.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Temporada seca</keyword>
+            <keyword>Veda</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Red de niebla.</keyword>
+            <keyword>Fototrampeo</keyword>
+            <keyword>Transecto</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=ecopetrol_fauna-flora_flamencos</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El presente estudio fue llevado a cabo en el departamento de Santander, municipio de Puerto Wilches, en jurisdicción de la Corporación Autónoma Regional de Santander (CAS).</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.905</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.841</eastBoundingCoordinate>
+                    <northBoundingCoordinate>7.514</northBoundingCoordinate>
+                    <southBoundingCoordinate>7.441</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2022-03-02
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-03-11
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El presente recurso consta de 1.870 registros biológicos pertenecientes a los reinos Animalia (1.048), Fungi (413) y Plantae (409), distribuidos en 12 clases, 67 órdenes, 131 familias, 257 géneros, 275 especies y 1 subespecie. Del total, un 92.2% fue identificado a nivel de especie, un 7.3% a nivel de género y un 0.5% a nivel de familia.
+
+En cuanto al reino Animalia, los 1.048 registros biológicos se distribuyen en 4 clases, 35 órdenes, 83 familias, 178 géneros, 205 especies y 1 subespecie. Un 98% fue identificado a nivel de especie y el 2% restante, identificado a nivel de subespecie, género y familia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Fungi consta de 413 registros biológicos que se distribuyen en 4 clases, 9 órdenes, 12 familias, 16 géneros y 15 especies. Un 77.2% fue identificado a nivel de especie y un 22.8% a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Plantae consta de 409 registros biológicos que se distribuyen en 4 clases, 23 órdenes, 36 familias, 63 géneros y 55 especies. Un 90.4% fue identificado a nivel de especie y un 9.6% a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <surName>Gerencia de Gestión Ambiental y Relacionamiento</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A.</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FLORA: A partir de información primaria y secundaria se caracterizaron florísticamente los ecosistemas y las coberturas naturales arbóreas identificadas en el área de influencia fisco-biótica, con el objetivo de identificar la composición de las especies, la estructura, los rasgos físicos y su relación con el número de individuos, determinando así características particulares de los ecosistemas mediante el análisis de la estructura horizontal y vertical. La fase de campo de flora se llevó a cabo entre el febrero y marzo de 2022. Para los muestreos en campo del bioma, los ecosistemas y coberturas presentes en el mismo, se implementaron las unidades de muestreo rectangular o cuadrada, por ser las más practicas a utilizar en coberturas vegetales y en la cual se tiene en cuenta el efecto de borde que se puede generar. Este tipo de parcelas permiten un barrido en línea recta, sin incurrir en prolongados desplazamientos laterales, facilitando la evaluación de los atributos y las variables objeto de estudio.
+
+La forma y el tamaño de las parcelas a emplear para la evaluación de las coberturas boscosas y la captura de datos de individuos de tipo fustal (individuos con DAP&gt;10 cm) corresponde a unidades muestrales de forma rectangular con un tamaño de 10×100 m, teniendo así un área de muestreo de 1.000 m2 o 0,1 ha. Cada una de estas parcelas se dividen en subparcelas de 10×10 m (100 m2). Para la evaluación de individuos en estado latizal (individuos con altura superior a 2 m y DAP inferior a 10 cm) se realizaron 10 subparcelas de 5×5 m (25 m2) dentro de cada parcela fustal, las cuales fueron establecidas por el método de muestreo simple al azar. Los individuos de tamaño brinzal (individuos entre 0,71 cm de altura y DAP menor o igual a 1 cm) y renuevo (individuos con altura menor de 0,70 cm) fueron muestreados en 10 subparcelas de 2×2 m (4 m2) anidadas dentro de las parcelas de latizales.
+
+Para coberturas de Bosque abierto bajo inundable, Bosque fragmentado, Vegetación Secundaria Alta y Baja, Herbazal denso inundable arbolado y Pastos Arbolados el rectángulo se dividió internamente en 10 subparcelas demarcadas en letras mayúsculas de la A hasta la J, y en cada uno de ellos se localizaron los cuadrados correspondientes a los fustales (10 x 10 m), latizales (5 x 5 m), brinzales y renuevos (2 x 2 m) respectivamente. En cuanto a la caracterización de coberturas vegetales de tipo herbáceo, se establecieron parcelas o cuadrantes 2×2 m (4 m2); estas corresponden a la cobertura de Vegetación Secundaria Baja, las parcelas fueron establecidas a partir de una cuerda con las dimensiones citadas, cuando fue necesario las parcelas se subdividieron cada 10 metros. Se inventariaron todos los fustales (árboles con DAP mayor a 10 cm) presentes en esta, los fustales fueron marcados con pintura amarilla con números consecutivos, al igual que el punto inicial de la parcela.
+
+Para regeneración natural: Dentro de cada parcela se realizaron subparcelas de 5x5 metros para evaluar los latizales (individuos con menos de 10cm DAP), y de 2x2 metros para los brinzales (alturas de 1,5 metros o menos). Las variables dasométricas (variables asociadas a la medición forestal) evaluadas fueron Circunferencia a la altura del Pecho (CAP), Altura total, Altura a la primera ramificación, dimensión de copa X, Y, estado fitosanitario e identidad taxonómica. Los datos fueron tomados empleando una Tablet.
+
+Para la medición de variables en campo, la cuadrilla se compuso de un ingeniero forestal, un auxiliar y un conocedor local, quienes apoyaron la determinación de los nombres comunes y usos de las especies inventariadas, apoyo en el trazado de las parcelas y medición de datos de circunferencia a la altura del pecho (CAP), altura a la primera ramificación (HC) y altura total (HT), dimensión de copa X, Y, y estado fitosanitario (EF) de acuerdo con la información contemplada en los respectivos formatos.
+
+Según la categoría de crecimiento se midió los siguientes atributos: 
+Fustales: En cada parcela o unidad de muestreo, se inventariaron todos los individuos en estado fustal (diámetros mayor o igual a 10 cm), registrando la siguiente información: (1) número de individuo: se marcó un número consecutivo en cada individuo arbóreo, con pintura a base de aceite, (2) nombre común: se identificará cuando sea posible (in situ), el nombre dado en la región al individuo arbóreo, con ayuda de personal de la zona, (3) circunferencia a la altura del pecho (CAP): corresponde a medir el grosor o circunferencia del árbol, con una cinta métrica, a una altura de 1,3 m del suelo, (4) altura total: se estimó la longitud del árbol desde el suelo hasta su ápice, (5) altura a la primera ramificación: se estimó la longitud del árbol desde el tocón hasta donde inicia la primera ramificación del árbol, (6) dimensión copa de árbol: Se midió la proyección de la copa (metros) de cada individuo en los ejes imaginarios X, Y.
+Latizales: en cada subparcela de 5 x 5 m, se inventariaron todos los individuos en estado latizal (diámetros menores de 10 y mayores a 2,5 cm), registrando la siguiente información: (1) nombre común: se identificó cuando sea posible (in situ), el nombre dado en la región al individuo arbóreo, con ayuda de personal de la zona, (2) circunferencia a la altura del pecho (CAP): corresponde a medir el grosor o circunferencia del árbol, con una cinta métrica, a una altura de 1,3 m del piso, (3) altura total: se estimó la longitud del árbol desde el suelo hasta su ápice.
+Brinzales: En cada subparcela de 2 x 2 m, se inventariaron todos los individuos en estado brinzal (diámetros menores o iguales a 2,5 cm), registrando la siguiente información: (1) número de individuos por cada especie: se realizó un conteo de los individuos brinzales presentes por especie, (2) nombre común: se identificó cuando sea posible (in situ), el nombre dado en la región al individuo arbóreo, con ayuda de personal de la zona.
+
+Los individuos arbóreos que no se identificaron en campo, se recolectaron y preservaron las muestras botánicas, siguiendo las recomendaciones señaladas en la Guía para la Recolección y Preservación de Muestras Botánicas en campo (UDBC, 2020), de la Universidad Distrital Francisco José de Caldas.
+
+VEDA: La caracterización de las especies vasculares y no vasculares de habito epifito, rupícola, terrestres y de las especies en veda nacional (resolución 0213 de 1977 del INDERENA) entre las que se encuentran diferentes especies de aráceas, bromelias, orquídeas, helechos, briofitos y líquenes entre otros, además de evaluar su respectiva abundancia y riqueza, se realizó mediante la implementación de manera parcial del protocolo de muestreo rápido y representativo de epífitas vasculares (metodología RRED) propuesto por Gradstein et al. (2003). La metodología propuesta por Gradstein, establece como principio para tener una muestra representativa de las especies vasculares y no vasculares de habito epifito, realizar el registro de 8 forófitos por hectárea, teniendo en cuenta una relación de cinco (5) forófitos para el muestreo de los grupos no vasculares (briofitos y líquenes), y ocho (8) forófitos para los grupos vasculares (orquídeas, bromelias, aráceas), siempre y cuando en el tipo de cobertura vegetal de cada ecosistema objeto de estudio se cuente con la presencia de árboles y/o arbustos, la relación del muestreo realizado para la caracterización de las especies vasculares y no vasculares de habito epifito, se desarrolló sobre cada una de las parcelas de caracterización forestal dentro del área de influencia del proyecto.
+
+Selección de Forófitos: Para cada una de las parcelas de caracterización realizadas en las coberturas vegetales identificadas dentro del área de influencia del proyecto, y de acuerdo con el tipo de vegetación y especies forestales, se seleccionaron los árboles (forófitos) a muestrear de acuerdo con los criterios descritos por Wolf et al. (2009) y Gradstein et al. (2003), los cuales plantean la selección de árboles fustales de porte alto y perenne, que cumplan con las siguientes características: 
+Que las especies elegidas sean comunes en la zona de estudio.
+- Cada uno de los árboles deben estar separados entre sí por lo menos 15 metros de longitud (de acuerdo con las condiciones propias del terreno).
+- Los árboles no deben, en lo posible presentar cortezas lisas, papilosas, escamosas ni cambiantes.- Los árboles tipo fustales, adultos, deben presentar preferiblemente amplias coronas.
+- Por seguridad no se registraron forófitos cerca de terrenos escarpados, en los filos o sobre los barrancos.
+Los criterios anteriores se refieren a árboles de porte fustal, con alturas que dominen en el dosel y diámetros a la altura del pecho (DAP) superiores a 10 cm (dándole prioridad a los de mayor diámetro. Cada uno de los forófitos registrados, fue marcado sobre la corteza y su posición georreferenciada con un GPS Garmin 64 S o Oregón 650 o superior.
+
+Caracterización especies vasculares y no vasculares en sustratos rupícola y terrestre: El muestreo de las especies de Orquídeas, Bromelias, Helechos, Briofitos y Líquenes de habito terrestre rupícola o saxícola, será realizado dentro de cada una de las parcelas de caracterización realizando la observación sobre el suelo, rocas y troncos en descomposición que se hallaran dentro de cada parcela, en busca de especies vasculares y no vasculares de hábitos distintas al epifito, así como los diferentes grupos en veda nacional reportadas en la Resolución 0213 de 1977 del INDERENA. Estableciendo entre una (1) a tres (3) plantillas de 600 cm2 (30 cm X 20 cm) dentro de una parcela de 1m2 (1m x 1 m), para la estimación de cobertura de los agregados poblacionales de los briofitos y líquenes, y realizando el conteo de todos los individuos vasculares de habito terrestre rupícola o saxícola presentes dentro de la parcela de caracterización.
+Para la identificación taxonómica de las especies registradas en campo, se realizó la observación detallada de los individuos y agregados poblacionales de las especies no vasculares, con lupas de 20X, 40X, 60X y 100X, acompañados de binoculares de largo alcance y cámaras fotográficas con lentes ópticos de 50X y 60X de zoom y lentes macro o supermacro, mediante los cuales se realizó un registro fotográfico detallado, de cada una de las especies y sus correspondientes estructuras reproductivas. Sin embargo, para los casos en los que no se logró realizar la determinación taxonómica directamente en campo, se realizó la colecta de muestras de los especímenes con el fin de hacer su identificación taxonómica a partir de la observación detallada de las estructuras características. Para lo cual se utilizaron los métodos básicos de toma de muestras botánicas en campo propuesto por el Herbario UDBC de la Universidad Distrital Francisco José de Caldas
+
+Método de colecta de especies vasculares: La colecta de ejemplares vasculares, entre los que se encuentran principalmente especies de aráceas, bromelias y orquídeas, se realizó mediante las indicaciones de la Guía para la recolección y preservación de muestras botánicas en campo, del herbario de la Universidad Distrital y Votano et al. (2004) y Hadlow (2004), donde se menciona que cada ejemplar debe incluir idealmente flores, frutos y partes vegetativas, estos ejemplares deben ser representativos, saludables y con al menos algunas hojas completamente expandidas.
+
+Método de colecta de especies no vasculares: Para las especies de no vasculares, se colectó el agregado poblacional de forma manual hasta una altura máxima de 1,80 m, mediante una sección del área ocupada por cada especie sobre la corteza del forófito, el suelo o roca donde se encontrase. Para ello se utilizó un machete o una navaja y se tomaron de 2 a 3 muestras de máximo 25 cm2 por cada morfoespecie (5 x 5 cm o menos). Cada muestra fue guardada en bolsas de papel kraft de libra de acuerdo con las recomendaciones de Bowles (2004) y rotuladas debidamente con el consecutivo de colecta y selladas con cinta de enmascarar dejando una cantidad moderada de aire en su interior.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FAUNA: AVES: Para el levantamiento de la información primaria en el área de influencia directa del proyecto, se realizará un recorrido de reconocimiento preliminar, con el fin de ubicar los sitios de muestreo y planear las actividades (tiempo de desplazamiento, tiempo efectivo de trabajo y logística). Una vez determinado los diferentes sitios de muestreo, se realizará el inventario de la avifauna desde el 02 hasta el 13 de febrero del 2022. El horario de trabajo se establecerá desde las 05:00 horas hasta las 18:00 horas, para la instalación de redes de niebla, puntos fijos de observación, registros auditivos y realización de recorridos de observación. Para la caracterización de la avifauna se usarán los procedimientos sugeridos por el Manual de Métodos para el Desarrollo de Inventarios de Biodiversidad (Villarreal et al. 2006).
+
+Detección visual y auditiva: Diariamente se realizarán dos jornadas de detección visual y auditiva en cada cobertura vegetal en lo posible durante dos días consecutivos: La primera en horas de la mañana desde las 05:30 hasta las 9:30 y la segunda en horas de la tarde desde las 15:00 hasta las 18:00 (Ralph et al., 1996). Los recorridos tendrán una longitud de hasta dos kilómetros dependiendo del tamaño de la cobertura y se incluirán puntos fijos de observación, para las coberturas con áreas abiertas con un amplio rango de visibilidad, se ubicará cada punto de observación a 400 m (Ralph et al., 1996). En estos recorridos se emplearán caminos, trochas y senderos, abarcando la mayor área posible, junto con la mayor cantidad de ecosistemas (Stiles &amp; Rosselli, 1998; Stiles y Bohórquez, 2001, Villareal et al., 2004). El esfuerzo de muestreo para los recorridos extensivos será expresado como horas-hombre por unidad de cobertura.
+
+Puntos fijos: En cuanto a los puntos fijos de observación se establecieron puntos fijos (Villareal et al., 2004), en donde se realizarán registros de avistamiento de avifauna, durante un tiempo preestablecido, ubicados en sitios con características ecológicas especiales, que ofrecen gran variedad de recursos y por tanto albergan una diversidad de especies de aves, tales como cuerpos de agua naturales y artificiales, lóticos y lénticos, árboles en floración y /o fructificación, sombra en áreas abiertas, etc. El esfuerzo de muestreo con este método fue expresado en número de horas-hombre y es el resultado del producto entre el tiempo (en horas), dedicado a la observación en cada punto, multiplicado por el total de puntos.
+
+Redes de niebla: se realizaron puntos de instalación de redes de niebla, en las coberturas con mayor densidad vegetal, en una longitud de 120 m. Estas redes se encontrarán activas a partir de las 5:00 hasta las 11:00 horas y de las 14:00 hasta las 16:00 horas, durante dos días por cada estación de muestreo (20 horas efectivas de muestreo por estación). El cumplimiento del tiempo especificado, no necesariamente se realizó en el mismo día, sino que pudo ser realizado en tres o cuatro jornadas de muestreo por cada estación. Se realizó la revisión periódica de las redes a intervalos de 30 minutos a las primeras horas del día y últimas horas de la tarde, cuando la radiación solar y temperatura ambiental lo permitía. No obstante, en las horas de mayor radiación solar y que, por ende, la sensación térmica era más alta la revisión de las redes se hacía a intervalos de 15 minutos o menos, a fin de evitar ocasionar cualquier perjuicio a las especies capturadas.
+En todos los casos, se procurará que el área cubierta con las redes de niebla presentará fuentes de alimento para las aves de la zona, tales como especies en fructificación y/o floración, así como cursos de agua, con el fin de aumentar la probabilidad de captura. Así mismo, se tuvo en cuenta la topografía del terreno con el propósito que las redes quedaran a una altura adecuada para el muestreo de aves del sotobosque.
+El esfuerzo de captura por estación de muestreo está expresado en número de horas-red y fue calculado como el producto de las horas totales trabajadas multiplicado por el número de redes empleadas en cada estación de muestreo, teniendo en cuenta que se trabajó con redes de longitud estándar. El éxito de capturas en cada estación se determinó de acuerdo con el número de individuos capturados por hora-red. Se efectuarán capturas temporales para toma de registros fotográficos y confirmación de las especies, no se tomaron muestras biológicas o colectas, los individuos en su totalidad serán regresados a sus respectivos hábitats.
+
+Entrevistas no estructuradas: Con el fin de complementar la información registrada en campo, se realizarán entrevistas no estructuradas a pobladores de la región, mayores de edad y que fuesen oriundos de la zona, con el fin de registrar los nombres comunes de las especies presentes en el área, sus usos tradicionales y culturales.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>MAMÍFEROS: La caracterización de la comunidad de mamíferos en el área de influencia directa se desarrolló en las zonas identificadas de la zonificación de manejo como sujetas a intervención tanto puntual como lineal, en las coberturas definidas en el proyecto: Bosque fragmentado, Vegetación secundaria alta y baja, Bosque abierto bajo inundable, Ciénega la Colorada y laguna. En cada una de estas coberturas se desarrollaron los métodos de muestreo en donde se instalarán sistemas de trampeo (trampas de captura para pequeños mamíferos; redes de niebla para mamíferos voladores y cámaras trampa para la detección de los mamíferos medianos y grandes adicional a esto, se realizaron recorridos de avistamiento en la búsqueda de indicios (huellas, excreta, cuevas, comederos, auditivas) y charlas informales con los guías de campo.  El primer muestreo se llevó a cabo en un periodo efectivo entre el 02 hasta el 13 de febrero del 2022 en la época seca, siguiendo los requerimientos de los términos de referencia HI – TER – 1 - 03 y la Metodología General para la Presentación de Estudios Ambientales expedida por el Ministerio de Ambiente Vivienda y Desarrollo Territorial (MAVDT, 2018) y lo establecido por el Instituto Alexander von Humboldt con el Monitoreo a Procesos de Restauración Ecológica aplicado a ecosistemas terrestres (Aguilar-Garavito &amp; Ramírez, 2015).
+
+Trampas Sherman: Se instalaron 50 trampas Sherman en las coberturas manteniendo una distancia entre sí de 10 metros. En cada sitio se dejaron 50 trampas durante 4 días de tal manera que las líneas de trampas estuvieran separadas para evaluar las coberturas contrastantes adyacentes (Interior de bosque-Borde de bosque; Borde de bosque-Vegetación Secundaria). Se utilizó un cebo preparado de mantequilla de maní, grasa de cerdo y esencia de vainilla. La ubicación de las trampas Sherman se definió de acuerdo con senderos de movilización de fauna silvestre terrestre, disponibilidad de recursos alimenticios, cuerpos de agua y bordes entre vegetación de estructura contrastante, entre otros lugares donde la probabilidad de captura es mayor, por ser sitios de tránsito o actividad de este grupo de animales.
+
+Redes de niebla: Se establecieron estaciones de redes niebla en las coberturas de Bosque fragmentado, Vegetación secundaria alta y baja, Bosque abierto bajo inundable, Ciénega la Colorada y Laguna, en donde se instalaron 10 redes de niebla, cada una de 12m de largo por 2,5 m durante al menos dos noches cada una. Éstas se abrieron a partir de las 17:00 Horas y se cerraron a las 22:00 Horas. La ubicación de las redes se definió de acuerdo con la orientación de las redes con respecto a la vegetación, la disponibilidad de recursos tales como (flores, frutos, cuerpos de agua), y la presencia de bordes entre vegetación de estructura contrastante, entre otras. Las redes de niebla se revisaron regularmente para verificar la captura de individuos. Estas se revisaron con intervalos de 15 minutos (dependiendo del número de individuos capturados en estas) para capturar a los murciélagos que quedan atrapados al enredarse en los bolsillos. Los individuos fueron dispuestos individualmente en bolsas de tela para su manipulación y transporte. Este chequeo constante permitió extraer los especímenes capturados antes de que se les cause excesivo estrés o muerte. En caso de lluvia, las redes fueron cerradas para evitar causar hipotermia en los individuos enredados.
+
+Cámaras trampa: Se utilizaron 10 Cámaras Trampas, durante un periodo aproximado de 10 días por cada una durante la temporada seca. Cada cámara trampa es una estación de muestreo las cuales cubren todos los tipos de hábitat ya que algunas especies podrían estar limitadas a sólo uno de ellos (Tobler et al 2008). Sin embargo, áreas como la del proyecto Flamenco que cuenta con estructuras de paisaje (bosque fragmentado, Vegetación secundaria alta y baja, bosque abierto bajo inundable, Ciénega la Colorada y laguna) se recomendó seguir los requerimientos mínimos de distancia en forma de rejilla a 1 km cada una para asegurar la probabilidad de detección de los mamíferos presentes en la zona de estudio (Díaz-Pulido y Payán 2011). Estas se instalarpn en senderos y puntos favorable para las especies de interés como quebradas y/o pasaderos. Cada cámara trampa se programará para un monitoreo continuo de 24 horas por día.
+
+Ad Libitum: Se hicieron registros por fuera de las metodologías establecidas regularmente, los cuales correspondían a hallazgos de indicios o avistamientos fortuitos que se obtuvieron durante los desplazamientos hacia los sitios de muestreo, por información dada por los lugareños o por otros eventos aleatorios.
+Recorridos de avistamiento de medianos y grandes mamíferos: mediante observación directa y búsqueda de indicios, en recorridos de longitud y ancho variable anotando la información en libretas y formatos de campo. En los recorridos de observación se registrarán heces, madrigueras, huellas, marcas en árboles, comederos y cuevas, entre otras evidencias, cada una relacionada con un registro fotográfico o dimensión morfométrica, en el caso de las huellas. La identificación de huellas se realizará según la experiencia del profesional asignado y el apoyo de las guías especializadas de (Aranda, 2012), (Morales-Jiménez et al, 2004) y (Tirira, 2007).
+Entrevistas no estructuradas para mamíferos: La información para el grupo de mamíferos se complementó mediante entrevistas no estructuradas realizadas a los guías de campo. Para esto se utilizaron láminas y/o guías ilustradas, que mostraron a los habitantes de la zona y así establecer el uso, la importancia y el conocimiento local que tienen sobre los mamíferos de la región. Por lo expuesto anteriormente, las entrevistas únicamente se tomaron para corroborar la presencia de algunas especies de interés para ellos y que generalmente corresponde a especies con las que tienen algún tipo de conflicto o las que buscan para cazar.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>ANFIBIOS Y REPTILES: La caracterización de la Herpetofauna se realizó durante la temporada seca, durante el 02 hasta el 13 de febrero del 2022. Inicialmente se realizó un recorrido a lo largo del área de influencia directa con el fin de reconocer los sitios potenciales de muestreo, las vías de acceso a dichos sitios y así definir los lugares definitivos a muestrear. 
+La búsqueda, captura y observación de Herpetofauna, se llevó a cabo mediante recorridos aplicando el método de búsqueda libre sin restricciones y encuentro visual (VES, visual encounter survey) (Crump, 1994) por ser este el método más eficiente para obtener el mayor número de especies en el menor tiempo (Rueda, 2006). Las búsquedas diurnas y nocturnas se realizarán revisando minuciosamente en charcos temporales, cuerpos de agua, bosques, vegetación secundaria, entre otros. En estos hábitats se realizará la remoción de microhábitats preferenciales (troncos, piedras y hojarasca), observación de troncos huecos, vegetación arbustiva y potenciales refugios para las especies de estos grupos. Los anfibios y algunos lagartos se capturarán de forma manual, las serpientes empleando el gancho y/o la pinza ofídica, a los lagartos grandes y/o veloces se les tomará registro fotográfico para permitir su determinación previo a la huida. Se realizarán registros fotográficos a todos los individuos registrados cuando fuera posible; aquellos de identidad conocida serán liberados en el lugar de captura y los que no serán posiblemente identificados en campo y se colectarán y fijarán de acuerdo con el permiso de recolección otorgado a SGI. Los ejemplares que serán colectados en campo se lavarán en agua después de 15 días en fijación (formol 10%) y posteriormente trasferidos a una solución de etanol al 70% en la cual permanecerán almacenados en la colección de referencia. El esfuerzo de muestreo será realizado por dos colectores (uno experimentado y un auxiliar de campo), desde las 7:00 hasta las 12:00 horas y desde las 18:00 hasta las 22:00 horas durante 10 días efectivos.
+Se realizaron encuestas a la comunidad en centros poblados dentro del área de influencia, en las que se buscó obtener información sobre las especies que no sean detectadas por las metodologías descritas anteriormente, para ello, se utilizaran guías de Herpetofauna con fotografías de especies de la zona, con las cuales se mostrara a los encuestados, imágenes de especies de Anfibios y Reptiles para identificar cuales reconocen y que usos tienen sobre estas en la región.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El proyecto “Área de Desarrollo Plataforma Flamencos” se ubica al costado sur dentro del APE Cantagallo, dentro del municipio de Puerto Wilches en el Departamento de Santander, en jurisdicción de la Corporación Autónoma Regional de Santander (CAS), con un área de 2,54 Ha dentro de la unidad territorial de la vereda Caño Coba.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se realizó una caracterización del medio biótico en el área de influencia del proyecto, conforme a lo establecido en los términos de referencia para la elaboración del Estudio de Impacto Ambiental para Proyectos de Explotación de Hidrocarburos de referencia HI-TER 103 y la metodología general para la elaboración y presentación de Estudios Ambientales (ANLA, 2018), enfocado en un diagnóstico de cada uno de los componentes de los ecosistemas terrestres (flora y fauna silvestre).</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>ESTUDIO DE IMPACTO AMBIENTAL DEL PROYECTO DE DESARROLLO PLATAFORMA FLAMENCOS</title>
+                <personnel>
+                    <individualName>
+                    <surName>Gerencia de Gestión Ambiental y Relacionamiento</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <abstract>
+                    <para>El objetivo principal del proyecto se enfoca en la conversión de los tres (3) pozos exploratorios existentes en la locación explotaría Flamencos denominados, Flamencos-1 (FL-01), Flamencos-2 (FL-02) y Flamencos-3 (FL-03) a pozos productores. Cabe resaltar que actualmente sólo el pozo FL-01 tiene declarada su comercialidad, mientras que los pozos Fl-02 y FL-03 se encuentran en pruebas extensas, por lo que podrán pasar a producción una vez se declare su comercialidad.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>La Locación Flamencos es existente y se encuentra actualmente operando bajo la licencia ambiental exploratoria del APE Cantagallo. El APE Cantagallo, dispone de un área de 2901,45 Ha ubicado en la cuenca del Magdalena Medio, entre los municipios Cantagallo (Departamento de Bolívar) y Puerto Wilches (departamento de Santander). El proyecto “Área de Desarrollo Flamencos” se ubica al costado sur dentro del APE Cantagallo, dentro del municipio de Puerto Wilches en el Departamento de Santander, en jurisdicción de la Corporación Autónoma Regional de Santander (CAS), con un área de 2,54 Ha dentro de la unidad territorial de la vereda Caño Coba.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Para el desarrollo del Proyecto Flamencos se llevaron a cabo 3 etapas:
+Primera etapa: Esta etapa consistió en la obtención de insumos como imágenes satelitales, Google Earth, entre otros y la información secundaria y con ello establecer un área de influencia preliminar a la luz de los siguientes aspectos: (1) conceptualización inicial de los alcances técnicos del proyecto, sus obras, actividades y condiciones técnicas; (2) información secundaria disponible sobre los medios físico, biótico y socioeconómico del territorio en el que se plantea la ejecución del proyecto, usos y recursos a utilizar, y (3) una aproximación de los impactos ambientales potenciales a presentarse por cada medio y componente del ambiente.
+
+Segunda etapa: Contando con el insumo del área de influencia preliminar se planearon las actividades de campo y metodologías de recolección de la información primaria, dando continuidad a la revisión, análisis y validación de la información secundaria obtenida hasta el momento; por medio de la recopilación de información en campo y su procesamiento (postcampo). Para todos los componentes de los medios abiótico, biótico y socioeconómico se diseñaron las respectivas metodologías de campo a fin de poder recopilar la información primaria necesaria, que condujera a la validación de la información previa a campo mediante la cual se definió el área de influencia preliminar del proyecto, para la cual se tuvo en cuenta la espacialización de los impactos.
+
+Tercera etapa: Tomando como base toda la información anteriormente analizada y procesada, y haciendo uso de la herramienta SIG, se definió el Área de Influencia final para los medios Abiótico, Biótico y Socioeconómico.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:23Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/2htddb">Ecopetrol S.A., Servicios Geológicos Integrados S.G.I. S.A.S. (2023). Biodiversidad asociada al Estudio de Impacto Ambiental (EIA) de la Plataforma Flamencos en Puerto Wilches-Santander. Ecopetrol S.A.. Occurrence dataset https://doi.org/10.15472/2htddb accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Ministerio de Ambiente y Desarrollo Sostenible. (2018). Metodología General Para La Elaboración y Presentación de Estudios Ambientales</citation>
+                <citation>Ministerio de Ambiente, Vivienda y Desarrollo Territorial (2010) Términos de referencia para la elaboración del Estudio de Impacto Ambiental para Proyectos de Explotación de Hidrocarburos de referencia HI-TER 103</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ecopetrol.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="b2522b78-18ec-4ba6-ba16-9c9e215ce9e6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/wmmvk3</alternateIdentifier>
+        <alternateIdentifier>b2522b78-18ec-4ba6-ba16-9c9e215ce9e6</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=o_fossils</alternateIdentifier>
+        <title>Palaeontological collection (PMO) at UiO NHM, Oslo</title>
+        <creator>
+            <individualName>
+                <givenName>Hans Arne</givenName>
+                <surName>Nakrem</surName>
+            </individualName>
+            <organizationName>University of Oslo</organizationName>
+            <address>
+                <deliveryPoint>PO Box 1172 Blindern</deliveryPoint>
+                <city>Oslo</city>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>h.a.nakrem@nhm.uio.no</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-8024-9281</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Franz Josef</givenName>
+                <surName>Lindemann</surName>
+            </individualName>
+            <organizationName>University of Oslo</organizationName>
+            <electronicMailAddress>f.j.lindemann@nhm.uio.no</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-8626-8467</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Rukaya</givenName>
+                <surName>Johaadien</surName>
+            </individualName>
+            <electronicMailAddress>r.s.johaadien@nhm.uio.no</electronicMailAddress>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2022-10-12
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The database contains records of fossil specimens in the palaeontological collections of the Natural History Museum, University of Oslo. Basically, they originate from anywhere in the world, but the majority of objects comes Norway, including Svalbard. The collection comprises both unpublished and published material, including a considerable number of type specimens. The collection is continuously augmented in connection with ongoing research projects.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.no/archive.do?r=o_fossils</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Global</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Fossils of all phyla</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankValue>All phyla</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>biannually</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Hans</givenName>
+                <surName>Nakrem</surName>
+            </individualName>
+            <organizationName>University of Oslo</organizationName>
+            <positionName>Professor</positionName>
+            <address>
+                <city>Oslo</city>
+                <postalCode>0316 Oslo</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>h.a.nakrem@nhm.uio.no</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-8024-9281</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Franz Josef</givenName>
+                <surName>Lindemann</surName>
+            </individualName>
+            <organizationName>University of Oslo</organizationName>
+            <positionName>Collection Manager</positionName>
+            <electronicMailAddress>f.j.lindemann@nhm.uio.no</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-8626-8467</userId>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:13Z</dateStamp>
+                <citation>Nakrem H A, Lindemann F J (2022). Palaeontological collection (PMO) at UiO NHM, Oslo. Version 1.4. University of Oslo. Occurrence dataset https://doi.org/10.15468/wmmvk3 accessed via GBIF.org on 2025-10-11.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

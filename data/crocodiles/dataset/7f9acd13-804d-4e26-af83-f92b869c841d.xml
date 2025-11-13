@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="7f9acd13-804d-4e26-af83-f92b869c841d"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/oiz2vl</alternateIdentifier>
+        <alternateIdentifier>7f9acd13-804d-4e26-af83-f92b869c841d</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=fronteraenergy_llanos-119</alternateIdentifier>
+        <title>Biodiversidad asociada al Estudio de Impacto Ambiental para el Área de perforación exploratoria - LLANOS 119</title>
+        <creator>
+            <individualName>
+                <surName>Frontera Energy Colombia Corp</surName>
+            </individualName>
+            <organizationName>Frontera Energy Colombia Corp</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Calle 110 No. 9 ‑ 25</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>xcastro@fronteraenergy.ca</electronicMailAddress>
+            <onlineUrl>https://www.fronteraenergy.ca/es/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>CAF Proambiente LTDA</surName>
+            </individualName>
+            <organizationName>CAF Proambiente LTDA</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 104 No. 21 - 23</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6366356</phone>
+            <electronicMailAddress>contacto@cafproambiente.com</electronicMailAddress>
+            <onlineUrl>http://www.cafproambiente.com</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>CAF Proambiente LTDA</surName>
+            </individualName>
+            <organizationName>CAF Proambiente LTDA</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 104 No. 21 - 23</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6366356</phone>
+            <electronicMailAddress>contacto@cafproambiente.com</electronicMailAddress>
+            <onlineUrl>http://www.cafproambiente.com</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2023-12-11
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Este conjunto de datos contiene la información los muestreos realizados para fauna, flora e hidrobiología del Estudio de Impacto Ambiental para el Área de Perforación Exploratoria (APE) Llanos 119, ubicado en el departamento del Casanare, en jurisdicción de los municipios de Orocué y Maní. Comprende 4.918 registros tomado en julio del 2021.
+        </abstract>
+        <keywordSet>
+            <keyword>Plantas</keyword>
+            <keyword>Epífitas</keyword>
+            <keyword>Animales</keyword>
+            <keyword>Hidrobiología</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=fronteraenergy_llanos-119</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El Bloque Llanos 119 corresponde a un Contrato E&amp;P firmado entre la Agencia Nacional de Hidrocarburos – ANH y FEC, se encuentra ubicado en la región de la Orinoquia, puntualmente en la zona centro - sur del departamento del Casanare, en jurisdicción de los municipios de Orocué y Maní.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-71.959</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-71.836</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.889</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.696</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-07-13
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-08-10
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este conjunto de datos contiene 3.189 registros pertenecientes a los reinos Plantae (2.620), Fungi (1.622), Animalia (581), Chromista (75), Protozoa (18) y Bacteria (2).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Chromista</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Protozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Bacteria</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Aura Enidia</givenName>
+                <surName>Niño Agudelo</surName>
+            </individualName>
+            <organizationName>CAF Proambiente LTDA</organizationName>
+            <positionName>Coordinadora de proyectos</positionName>
+            <address>
+                <deliveryPoint>Calle 104 No. 21 - 23</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6366356</phone>
+            <electronicMailAddress>auranino@cafproambiente.com</electronicMailAddress>
+            <onlineUrl>http://www.cafproambiente.com</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Hidrobiología: Los métodos y procedimientos de monitoreo empleados para la toma de muestras y análisis de las comunidades de plancton, perifiton, macroinvertebrados, ictiofauna y macrófitas.
+
+Plancton: Las comunidades de fitoplancton y zooplancton fueron monitoreadas en los cuerpos de agua lénticos, donde la toma de muestras se realizó mediante el uso de un balde de 10 litros y una red de 20 μm para fitoplancton y de 60 μm para los individuos zooplanctónicos. Previo a la toma de muestras en cada uno de los puntos establecidos, se realizó la limpieza (purgado) de estos elementos con agua del sitio a monitorear, esto con el fin de evitar la colecta de organismos de otros puntos anteriores que pudieran quedarse adheridos a los equipos. A continuación, se realizó la filtración de 125 litros en cada red, donde el volumen de agua se filtró 25 litros 5 veces, teniendo en cuenta todos los microhábitat posibles obteniendo así la integración de la muestra; esta se preservó con solución transeau. Para facilitar la observación e identificación de los microorganismos (fitoplancton) se agregaron 2,5 ml de Lugol. Finalmente, las muestras fueron rotuladas y almacenadas en recipientes ámbar de 250 y 100 mililitros para su transporte, los datos se registraron en cadenas de custodia y formatos de campo. 
+
+Perifiton: La toma de muestras de este grupo se efectuó en todos los sistemas hídricos, la colecta se realizó haciendo raspados de las superficies duras como rocas, troncos, hojas o cualquier otro tipo de sustrato natural o artificial, mediante el uso de un cuadrante de 7,7cm2 , este procedimiento se realizó 24 veces en cada uno de los puntos donde se colectaron las muestras en distintos microhábitat, es de aclarar que dichas superficies seleccionadas tuvieron evidencias de haber estado sumergidos en el agua varios días, dadas las condiciones climáticas evidenciadas en la zona. 
+
+Macroinvertebrados: La comunidad bentónica de macroinvertebrados fue monitoreada tanto en los sistemas lénticos como lóticos, este grupo se colectó mediante 10 submuestras en cada punto establecido, donde cada una se eligió por presentar características diferentes (microhábitat) como tipo de sustrato, velocidad del agua, profundidad, entre otros. Esto permitió caracterizar diferentes grupos de macroinvertebrados, obteniendo de esta manera una muestra integral y representativa de los cuerpos de agua evaluados. Posterior a la ubicación del punto y de los sitios de toma de muestras (submuestras) en cada uno de ellos, se ubicó una red surber contracorriente con un cuadrante de remoción de 30*30 cm, obteniendo por cada submuestra un barrido de 900 cm2 para un total por punto de 9000 cm2 de lecho removido. En zonas donde la corriente fue muy baja o casi nula, con ayuda de la mano o de los pies se generó una corriente para que los organismos que han sido puestos en suspensión del sustrato sean dirigidos hacia la red. 
+
+Ictiofauna: Para los cuerpos los escenarios de muestreos de peces están representados por la variabilidad en la estructura de los ambientes, que ejerce influencia sobre los patrones de distribución de las especies. Teniendo en cuenta lo anterior se procedió a utilizar técnicas que permitieran obtener especies de pequeño tamaño, o de hábitos donde los métodos tradicionales no son tan efectivos, empleándose las siguientes técnicas.
+
+- Red de mano: Se realizó una hora de pesca con este arte teniendo en cuenta abarcar todos los microhábitat presentes dentro del cuerpo de agua empleando una red de 80 x 80 cm con una abertura de malla de 5mm en la boca y 2mm en el copo.
+
+- Atarrayas: Se realizó de 30 a 50 lances dependiendo del tamaño de cada cuerpo de agua y sus condiciones, debido a que en algunos puntos las empalizadas y la profundidad no permitieron realizar lances en todos los hábitats, para ello se emplearon atarrayas de 3 metros con un ojo de malla de 1 y 1,5 milímetros.
+
+- Chinchorro o redes de arrastre: Se realizaron de 3 a 6 lances cubriendo todos los hábitats disponibles, usando una red de 4 metros de largo con 1 m de altura y un ojo de malla desde un (1) centímetro. La longitud de cada arrastre varió en cada estación dependiendo de las condiciones del sustrato de cada cuerpo de agua y de las dimensiones del mismo.
+
+Plantas macrófitas: La evaluación de plantas acuáticas en los cuerpos de agua se realizó por medio de un inventario a través de la metodología cinturón transecto según la cual se debe seguir en línea recta 50 metros (Transecto), alternando a cada lado del transecto una parcela de 1m2 cada 10 metros, teniendo en cuenta los parches presentes por parcela de 1m2 , estimando en cinco (5) puntos el porcentaje de área que ocupa cada morfotipo. Se realizó registro fotográfico por parcela y por espécimen a cada una de sus estructuras hasta el mayor nivel de detalle, teniendo en cuenta estructuras reproductivas, indumento, numero de peciolos y estambres, hasta obtener el mayor nivel de detalle posible; para el presente monitoreo no se colectaron especímenes en respuesta a la representatividad de especies comunes y a la experticia del investigador.
+
+
+Los especímenes capturados fueron fotografiados e identificados in situ siguiendo las claves taxonómicas y listados regionales propuestos por Géry, 1977; Mago-Leccia, 1994; Taphorn, 1994; Machado-Allison &amp; Fink, 1995; Lasso &amp; Machado-Allison, 2000; Lasso, et al., 2010; Armbruster, 2003; Covain &amp; Fisch-Muller, 2007; Galvis et al, 2007; Maldonado-Ocampo et al, 2013. En el caso de las especies cuya identificación no se pudo realizar en campo fueron anestesiados con aceite de clavos y fijados con formol al 10%. Para la elaboración del listado taxonómico se siguió la clasificación propuesta por Reis et al, (2003), donde las familias se encuentran en orden sistemático y los géneros y especies son ordenados alfabéticamente.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Flora: Parcelas de regeneración, las categorías de tamaño de la regeneración natural (renuevo o plántula, brinzales y latizales) se empleó la metodología descrita por Ministerio del Medio Ambiente &amp; OIMT (2002). Así mismo, para la caracterización de coberturas antrópicas como los pastos limpios y los pastos enmalezados, se realizó para fustales la parcela de 100m x 10m, y para la regeneración y presencia de herbáceas se realizaron cinco cuadrantes de 4m x 4 m en cada parcela de fustales.
+
+Parcelas de regeneración, las categorías de tamaño de la regeneración natural (renuevo o plántula, brinzales y latizales) se empleó la metodología descrita por Ministerio del Medio Ambiente &amp; OIMT (2002). Así mismo, para la caracterización de coberturas antrópicas como los pastos limpios y los pastos enmalezados, se realizó para fustales la parcela de 100m x 10m, y para la regeneración y presencia de herbáceas se realizaron cinco cuadrantes de 4m x 4 m en cada parcela de fustales.
+
+Para realizar la actualización y verificación de las unidades de cobertura definidas en el mapa de cobertura de la tierra, se definieron puntos de control en las unidades identificadas, los cuales fueron verificados (georreferenciados y fotografiados) durante la salida de campo. En campo se dispuso un grupo conformado por un ingeniero forestal acompañado de un auxiliar de campo, conocedores del área y de las especies vegetales de la zona, que al igual tuvo la función de abrir senderos, de la medición de los individuos inventariados y de la identificación de las especies proporcionando los nombres comunes de los árboles.
+
+Caracterización de coberturas: Para la caracterización de las coberturas arbóreas se registraron los individuos con diámetros superiores a 10 centímetros a 1,3 metros de altura (D.A.P). A todos los individuos se les registró nombre común, altura a la primera rama, altura total, diámetro de copas, entre otra información de los caracteres botánicos, y posteriormente fueron marcados con pintura esmaltada. Las parcelas fueron establecidas con el apoyo de una cuerda plástica, un decámetro, y un GPS. Cada parcela fue subdivida cada 10 metros para facilitar determinar la posición de los individuos dentro de esta. Las subparcelas de regeneración natural se ubicaron al interior de las parcelas de fustales, estableciendo una parcela de regeneración natural en cada parcela de 0,1ha. Cada parcela fue georreferenciada con la ayuda de GPS. La localización de las parcelas se estableció al azar, pero siguiendo la dirección y el ancho de la unidad de cobertura analizada. Durante la fase de campo es común encontrar inconvenientes en la toma de los datos debido a la posición de los árboles, la topografía del terreno o las características morfológicas.
+
+Si la bifurcación se encuentra por debajo de los 1,3 metros de altura se toman CAP separados y se escribe que el árbol se encuentra bifurcado para después hacer los respectivos cálculos de volumen. Si se encuentra el caso de un individuo de hábito arbóreo con muchas ramificaciones que salen de la base y sus fustes superan el diámetro mínimo (10 cm) se toman los diámetros de todas las ramificaciones y se cuenta como un individuo polifurcado.
+
+Colecta del material vegetal: Para la identificación de las especies arbóreas y de regeneración natural se tomaron muestras de acuerdo con lo aprobado por el ANLA en la Resolución No. 01715 del 30 de agosto de 2019 otorgada a Consultoría y Medio Ambiente S.A., para la recolección de especímenes de especies silvestres de la diversidad biológica con fines de elaboración de estudios ambientales. Las muestras colectadas corresponden a porciones terminales de una rama, para su colecta se realizó un corte limpio con tijeras buscando que esta tenga varias hojas en el caso de hojas simples. Para hojas compuestas o grandes se dejó una sola o pocas hojas. Para su preservación se utilizó alcohol diluido al 70% y se prensó con su respectiva ficha descriptiva.
+
+Identificación del material vegetal: Para la identificación de los individuos arbóreos y de regeneración natural se utilizó el Catálogo de Nombres Comunes de las Plantas, complementando con la revisión de herbarios en línea, como el Herbario de la Universidad Distrital, el Herbario Nacional Colombiano y el Herbario de Missouri. Es de aclarar que la taxonomía empleada en el presente estudio es la clasificación propuesta por el grupo Angiosperm Phylogy Group (APG iii, 2009), la cual es la más actualizada, consultada en la página web del Herbario de Missouri. Entre la literatura especializada utilizada para la identificación taxonómica de las especies se encuentra Gentry (1993), Keller (2004) y Forero (2009). Las muestras fueron identificadas por el Herbario Universidad de Sucre como consta en el Certificado de identificación taxonómica.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Flora del hábito epífito: A continuación, se describe la metodología empleada para la caracterización de flora de hábito epifito en cada una de las coberturas presentes en el área de influencia biótica. 
+
+A continuación, se describe la metodología empleada para la selección de forófitos en cada una de las coberturas presentes en el área de influencia biótica. Determinación del número de forófitos para caracterización de flora silvestre en veda de hábito epifito: De acuerdo con las referencias descritas en la metodología de Análisis Rápido y Representativo de la Diversidad de Epífitas (RRED-analysis) (Gradstein et al, 2003), se indica que, en México, alrededor de la mitad de las especies de epífitas vasculares se encontraron en 0,5 hectáreas de bosque, el 50% de las especies del Valle de Sehuencas, Bolivia, ocurrió en menos de 0,1 ha, y así mismo el 50% de las especies en la montaña en La Carbonera, Venezuela, se identificó en 0,01 ha. Con relación a las especies no vasculares, monitoreos entre tres (3) y cinco (5) árboles arrojaron el 75% y 80% de la diversidad total de briofitas y líquenes de una estación en el bosque tropical. Se concluyó que con un muestreo de 8 forófitos por hectárea de bosque es suficiente para obtener una representatividad superior al 80%. Sin embargo, las coberturas que presentan menor densidad de potenciales forófitos como es el caso de las coberturas antropizadas, se ajustó el número de unidades de muestreo (Forófitos) de acuerdo con el porcentaje de vegetación arbórea descrita para cada cobertura en la leyenda de Corine Land cover, con el fin de obtener una representatividad de muestreo acorde al porcentaje de vegetación arbórea por unidad de cobertura. Es claro que no es necesario caracterizar la totalidad de árboles registrados en el inventario forestal al 100%, teniendo en cuenta que se cumple la representatividad de muestreo de especies en veda, teniendo como soporte adicional el cumplimiento de los lineamientos de la metodología mencionada para el área objeto de solicitud. Con base en la metodología implementada (Gradstein et al, 2003), se considera que ocho (8) forófitos constituyen una muestra representativa en una (1) Ha para especies vasculares y cinco (5) para no vasculares. Adicionalmente, es importante aclarar que, para la flora silvestre en veda vascular y no vascular de hábito epífito, se tuvo una representatividad de ocho (8) forófitos en cada una de las parcelas establecidas, aumentando así, el esfuerzo de muestreo para las especies no vasculares.
+
+Selección de forófitos para caracterización de flora silvestre en veda de hábito epifito: Se registraron, marcaron y midieron únicamente las especies arbóreas con DAP mayor o igual a 10 cm. Los árboles seleccionados como hospederos fueron georreferenciados y su identificación se realizó de acuerdo con el inventario forestal previamente realizado. La selección de los forófitos se realizó de acuerdo con las especificaciones del método de Gradstein et al 2003, donde se establece que los árboles cercanos entre sí tienden a tener una flora epífita similar como resultado de la distribución agrupada de muchas especies de epífitas, por ello, la metodología menciona que como mínimo debe existir una distancia entre forófitos de 25 metros, de tal forma que las copas de los árboles muestreados no se superpongan, que sean arboles maduros y presenten cortezas rugosas donde es más fácil el establecimiento de las especies en veda. De igual manera, árboles en los márgenes de los bosques deberían evitarse debido al potencial efectos de borde microclimáticos, por ello la selección de los forófitos para evaluación de la flora silvestre en veda en el presente estudio, se realizó de acuerdo con dichas especificaciones del método. Sin embargo, teniendo en cuenta la distribución de los árboles, las características del área de estudio y las características de la cobertura vegetal, se seleccionaron árboles con una distancia entre 2m y 25m.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Caracterización de Flora silvestre en veda: La caracterización de las especies de flora silvestre en veda se realizó en las parcelas definidas anteriormente (Determinación del número de forófitos para caracterización de flora silvestre en veda de hábito epifito) hasta establecer un esfuerzo de muestreo suficiente para estimar la riqueza de especies de flora vascular y no vascular, por cada cobertura presente en el área de intervención. A continuación, se relaciona la información tomada en campo, para la caracterización de flora silvestre en veda.
+
+Registro de información en campo: Para cada una de las epifitas encontradas se tomaron los siguientes dato, Código de parcela, Cobertura de la Tierra, No. del forófito en inventario forestal, Coordenadas (Forófito), Especie y nombre común del forófito (inventario forestal), DAP del forófito, Altura del forófito, Hábito de la epífita, Morfoespecie epífita, Características (Grupo, abundancia y estratificación), Altitud, Registro fotográfico.
+
+La información se diligenció en el formato de campo con presentación en físico y digital, también se relacionó datos de ecología tales como hábito de crecimiento, sustrato, distribución vertical, y datos de localización hasta el nivel de predio cuando fue posible. A cada muestra de las especies de epífitas, se le asignó un número único consecutivo, con su correspondiente identificación, anotando sus características y condición ecológica.
+
+Plantas vasculares: A continuación, se describe la metodología para la caracterización de flora silvestre vascular en veda y del proceso de colecta.
+
+Plantas vasculares de hábito epifito Cada muestreo se llevó a cabo sobre un forófito en pie, el cual fue posible observar desde la base del tronco hasta las ramas más externas. La distancia de observación fue por medio del método descrito por Went (1940), en áreas del hospedero donde la altura no permitió realizar el conteo de organismos, se hizo uso de binoculares y cámaras de alta resolución, con el fin de facilitar esta labor en los estratos verticales, permitiendo registrar las abundancias y riquezas de estas poblaciones. Las epífitas se distribuyen de manera vertical sobre el árbol hospedero (Forófito) de acuerdo con las diferentes exigencias medioambientales tales como disponibilidad de agua, luz, humedad y temperatura. Esta distribución irregular de las epífitas puede ser encontrada en árboles de varios tamaños. Para el análisis de composición y estructura horizontal y vertical de la comunidad de epífitas se definieron tres estratos para cada árbol, el primero (estrato1) base del tronco (0 -1.5 m), el segundo (estrato 2) tronco (1,5 m hasta la primera ramificación) y tercero (estrato 3) dosel (desde la primera ramificación hasta la copa) según Kersten &amp; Silva, 2002. El conteo de número de individuos (abundancia) de epifitas vasculares se realizó de forma directa sobre los hospederos, separando por morfoespecies y tomando registro fotográfico de los individuos. La abundancia se expresó como el número de individuos que crecen sobre el árbol hospedero.
+
+Colecta de muestras de morfotipos vasculares: Para la colecta de muestras botánicas se tuvo en cuenta las técnicas de campo propuestas por el Jardín Botánico de Missouri. Se colectaron muestras que se encontraban en lo posible en estado de floración y/o fructificación (fértiles), tomando una sola muestra de cada morfoespecie, con la finalidad de poder identificar, de manera adecuada, hasta el menor nivel taxonómico posible. La toma de muestras se realizó mediante tijeras de poda para especímenes que se encuentran a la altura del personal y con desjarretadora o corta-ramas (aprox. 10 m) para estratos superiores. Las muestras se colectaron, prensaron y se conservaron en alcohol.
+
+Para el muestreo de flora vascular de habito rupícola o terrestre, se realizaron parcelas de 1x1 m en cada una de las coberturas realizando el conteo del 100% de los individuos dentro del cuadrante, se realizaron parcelas teniendo en cuenta la presencia o no de las especies vasculares, realizando mínimo seis (6) parcelas por cobertura. Para colecta de flora vascular de hábito terrestre y rupícola se siguieron las técnicas de campo propuestas por el Jardín Botánico de Missouri. Con relación al grupo de las Orquídeas y Bromelias se tuvo en cuenta en lo posible que el espécimen presentará estado fértil, el cual es base de identificación taxonómica. El tamaño y la forma de crecimiento determinan la forma de recolección, si la planta era de menor tamaño que la hoja de herbario se recolectó completa, para las plantas grandes se seleccionaron en lo posible piezas fértiles y vegetativas contiguas; se incluyeron detalles del rizoma, de la emergencia de las inflorescencias, de segmentos representativos de las raíces y de su longitud original como lo describe Aguirre (1986). Los ejemplares de herbario se acompañaron de fotografías a color de la planta completa y de la flor cuando así lo presentaron (Chater, 2000).
+
+Plantas no vasculares: A continuación, se describe la metodología para para la caracterización de flora silvestre no vascular en veda y del proceso de colecta.
+
+Hábito epífito y/o rupícola: Las especies de epífitas no vasculares presentan una estratificación vertical definida desde el suelo del bosque hasta el dosel superior, y por los requerimientos de luz de algunas familias pueden restringir el crecimiento de sus especies a las zonas de Dosel (Komposch y Hafellner, 2000). Sin embargo, Shaw (2004), indica que las especies de epífitas restringidas al dosel superior en bosques cerrados pueden estar presentes también cerca al nivel del suelo a lo largo de bordes muy expuestos o en bosques muy abiertos. Para la caracterización musgos, hepáticas y líquenes de hábito cortícola, se realizó la cuantificación de la cobertura (cm2) sobre los forófitos. La cobertura se cuantificó con la utilización de plantillas de acetato transparente, con áreas de 400 cm2 (Iwatzuki, 1960), que presentan una trama cuadriculada subdividida en áreas de 1 cm2. Se asume, que las comunidades de briofitos y líquenes constituyen una capa rasante ya que sus alturas varían desde pocos milímetros (en líquenes crustáceos) hasta 4-5 cm (en musgos). Según lo anterior, a partir de la plantilla de acetato se pudo aplicar un método efectivo para estimar la cobertura de cada una de las especies. El método consistió en poner la plantilla sobre cada estrato del forófito, ubicándola en cada uno de los cuatro puntos cardinales (Gradstein et al., 2003); para el dosel se empleó la desjarretadora para bajar algunas ramas y poder estimar la cobertura de cada epífita no vascular; registrando la frecuencia con la que cada especie ocupa un determinado número de cuadrados de un (1) cm. Se usaron áreas con estas características (400 cm2), ya que las superficies que se encontraron variaron de regulares a irregulares y estos tipos de plantilla, facilitaron la medición en los diferentes sustratos.
+
+Plantas no vasculares de hábito terrestre o rupícola: Se establecieron como mínimo dos (2) transectos lineales libres de 100 x 4 m en cada cobertura para cumplir con un error de muestro por debajo de 15, sobre los cuales se registró la abundancia de la flora no vascular presente en los diferentes sustratos. Adicionalmente, se realizaron de uno (1) a 10 parcelas de 1x1 m registrando la abundancia de las especies halladas por medio de la cuadricula de acetato.
+
+Colecta de muestras botánicas para flora no vascular: Las muestras se extrajeron con la ayuda de una espátula, bisturí y/o cuchillo (Fotografía 2), una vez extraída la muestra se guardó en un sobre de papel kraft y se rotuló con la siguiente información: Código de la parcela, Cobertura de la Tierra, No. del forófito en inventario forestal, Especie y nombre común del forófito (inventario forestal), Nombre de la epífita, Cobertura (%) en cada punto cardinal, Coordenadas (Forófito), Altitud, Biotipo, Forma de crecimiento, Estrato en el forófito y Fotografía.
+
+La información se diligenció en el formato de campo, también se relacionaron los datos ecológicos tales como hábito de crecimiento, sustrato, distribución vertical, y datos de localización hasta el nivel de predio cuando fue posible. A cada muestra se le asignó un código único consecutivo, con su correspondiente identificación, anotando sus características y condición ecológica.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fauna: fase de Campo - con el fin de establecer la composición faunística, se aplicaron diferentes metodologías de muestreo específicas para cada uno de los grupos taxonómicos de interés: aves, mamíferos, reptiles y anfibios. Con ayuda de cartografía a escala 1:25.000 y 1:10.000, se determinaron las rutas de observación y puntos de muestreo buscando monitorear las diferentes unidades de cobertura vegetal identificadas en el área del proyecto. Durante los recorridos se utilizó el formato de Caracterización de fauna para el registro de especies, equipo de posicionamiento GPS GARMIN y cámara Canon/Nikon/Sony para la toma del registro fotográfico de las especies.
+
+Con el fin de obtener una aproximación de las especies presentes en las áreas de interés, se realizaron encuestas (por grupo biológico) empleando el Formato entrevista de fauna silvestre, a los habitantes ubicados en el área de estudio, especialmente aquellas personas con conocimientos de la fauna silvestre local, así como aquellos que practican actividades de caza, mostrando formatos con imágenes, hecho con las especies obtenidas de la información secundaría, lo cual permitió registrar la fauna que no se observa en campo, los nombres comunes, los usos, importancia económica y cultural, hábitos y hábitats más frecuentes de avistamiento de estas especies.
+
+La verificación en campo, se realizó mediante transectos y puntos de observación estacional ubicados en toda el área de estudio en las unidades de cobertura vegetal, así como se establece en la Metodología general para la elaboración y presentación de estudios ambientales, con el fin de reconocer la fauna asociada a ellas. El monitoreo se desarrolló durante nueve (9) días efectivos de muestreo, desde el día 13 al día 21 de febrero de 2021. Para la selección de los puntos de monitoreo se tuvo en cuenta la información obtenida de la comunidad respecto a los avistamientos de fauna, así mismo se seleccionaron sitios que evidenciaron condiciones ideales para la alimentación, reproducción, descanso o movilización de la fauna silvestre.
+
+Herpetofauna Los transectos de búsqueda libre sin restricciones se establecieron de acuerdo al manual de Técnicas de Inventario y Monitoreo para los Anfibios de la Región Tropical Andina, documento referenciado por la Metodología general para la elaboración y presentación de estudios ambientales (2018), en el cual se define la técnica Inventario de especies (búsqueda libre y sin restricciones) y determina que es el método más eficiente para obtener el mayor número de especies en el menor tiempo por parte de colectores experimentados. Consiste en realizar caminatas durante el día y la noche, en busca de anfibios, pero sin que existan mayores reglas para la búsqueda (excepto el revisar minuciosamente todos los microhábitats disponibles, sin embargo, se tomó como recorrido mínimo el establecido por Alonso y García (2017), autores que definen 400 m como distancia mínima recomendable para los recorridos de observación de los grupos.
+
+Los recorridos libres abarcaron todas las coberturas vegetales presentes en el área, realizando un (1) punto de observación y 25 transectos que variaron entre 833m y 2152m, está oscilación en la longitud obedeció a las condiciones del terreno y al tamaño de las unidades de cobertura, donde se eligieron las áreas con mayor cobertura de cada unidad con el fin de alcanzar mayores distancias en los transectos y evitar los efectos de borde que pudieran afectar los resultados.
+
+Los transectos se realizaron en las horas en que suelen tener mayor actividad los organismos, revisando zonas preferenciales que cubren las necesidades ambientales básicas de este tipo de organismos, como cuerpos de agua (charcas, caños, quebradas), caminos o trochas dentro del bosque, pastos bajos, entre otros, así como microhábitats potenciales y refugios como madrigueras abandonadas, hojarasca, piedras, troncos o material en descomposición. La caracterización de la herpetofauna se realizó en horarios diurnos que iniciaron desde las 9:00 hasta las 12:00 horas y nocturnos entre las 16:00 a las 21:00 horas, para los dos grupos. El esfuerzo de muestreo en horas / hombre efectivas de monitoreo en cada una de las coberturas caracterizadas.
+
+Avifauna: La caracterización de este grupo de fauna, se realizó tomando como base la metodología planteada por Villarreal et al. (2006), donde se combinan distintas estrategias como censos visuales y auditivos, redes de niebla y encuestas, cada una aporta elementos complementarios para elaborar una caracterización completa del grupo. Los censos permiten cubrir un área extensa registrando numerosas especies, en tanto las redes de niebla, aunque generan pocas capturas por unidad de tiempo permiten obtener información relevante sobre características morfológicas o ecológicas de las especies. Por otra parte, las encuestas realizadas a los habitantes, ayudaron a identificar algunas especies y a determinar los usos que la población hace de la avifauna. A continuación, se especifican las técnicas y métodos utilizados.
+
+Transectos de observación Las coberturas fueron caracterizadas mediante recorridos de observación donde nuevamente Villareal et al (2006), definen que la observación de aves es uno de los métodos más aplicados para conocer la composición de la avifauna, permitiendo obtener listas más completas y representativas posibles, se realizó un (1) punto de observación y 25 transectos que variaron entre 833m y 2145m, su variación se debió a las características del terreno al momento de iniciar los monitoreos, abarcando los diferentes tipos de cobertura de la zona de influencia del proyecto. En ellos se recolectó información a través del método de observación directa, utilizando binoculares de 10x50 y de 10x40. Adicionalmente se realizó un registro fotográfico de la avifauna observada, para la posterior confrontación con guías de campo (Hilty y Brown, 2001, MCMullan, et al., 2010, entre otras). Las observaciones se realizaron en la mañana desde las 06:00 horas hasta las 10:00 horas y en la tarde desde las 15:00 horas hasta las 18:00 horas. El esfuerzo de muestreo fue medido en términos de horas totales de detección (visual y auditiva), en horas de la mañana desde las 6:00 hasta las 10:00 y desde las 15:00 hasta las 18:00 en cada una de las coberturas caracterizadas.
+
+Redes de niebla- Se emplearon tres (3) redes de niebla de 12 metros de largo por 2 metros de alto (Fotografía 7) (Anexo 25), con ojo de malla 36 mm, cuyo arreglo se mantuvo por dos (2) días en las coberturas naturales y seminaturales, es de resaltar como lo establece Villareal et al (2006), esta técnica es muy eficiente en coberturas vegetales con mayor estructura donde la observación por recorridos se dificulta.
+
+Las redes se abrieron desde las 06:00 hasta las 10:00 horas y desde las 15:00 hasta las 18:00 horas, y fueron revisadas cada 15 minutos, para un esfuerzo de muestreo total por cobertura vegetal de 72 horas/red. A las aves capturadas, se les realizó un registro fotográfico y se realizaron anotaciones de la ubicación, número cobertura y coordenadas en el formato de registro de trampas y redes fauna silvestre.
+
+
+Mastofauna: Los registros del grupo fueron obtenidos durante la fase de campo para los mamíferos pequeños, medianos, grandes y voladores, a través de transectos, trampas para mamíferos terrestres y redes de niebla para mamíferos voladores, que en conjunto permitieron obtener un esfuerzo de muestreo suficiente para el área de estudio. A continuación, se describe cada una de las técnicas y métodos utilizados.
+
+Transectos de observación mastofauna- Para el grupo de mamíferos se realizó un (1) punto de observación y 25 transectos que variaron entre 736m y 2694m, abarcando diferentes coberturas vegetales con el objeto de observar y anotar todas las especies de mamíferos a cada lado del transecto, de este modo el investigador camina a lo largo del transecto y cuenta sólo a las especies de mamíferos (grandes, medianos, pequeños y voladores) que observe dentro de la franja. El esfuerzo de muestreo fue medido en términos de horas totales de detección por distancia total recorrida, teniendo en cuenta los datos de la distancia de cada trayecto y la hora de inicio y finalización de cada recorrido. Durante los recorridos se realizó la observación, identificación y registro fotográfico de huellas y rastros las cuales incluyen heces, restos óseos, madrigueras, rasguños, pieles, comederos, osamenta, senderos, entre otros, que permitieron establecer la presencia y uso del ecosistema de una determinada especie.
+El esfuerzo de muestreo fue medido en términos de horas totales de detección (visual y auditiva), en horas de la mañana desde las 6:00 hasta las 10:00 y desde las 18:00 hasta las 23:00 en cada una de las coberturas caracterizadas.
+
+Trampas Sherman Para la captura de los mamíferos terrestres pequeños se hizo mediante la instalación de trampas Sherman, este método se empleó con el propósito de capturar los individuos mediante cebos a base de avena en hojuelas, frutas, atún y/o sardina, dos (2) días por cobertura vegetal, con distancia de separación mínima de 5 m entre cada trampa, ubicando al menos 10 unidades de ellas por cobertura. Este arreglo se mantuvo durante dos (2) noches en cada cobertura, para alcanzar un esfuerzo de muestreo por cobertura de 10 trampas/2 noches. Las trampas se observaron cada mañana, para revisar los sistemas de activación de la trampa, cambiar cebos, y en los casos en los que se encontró individuos tomar registros fotográficos, medición y liberación de los individuos capturados. Las coberturas donde se realizó la instalación de las trampas fueron seleccionadas por su mayor disponibilidad de recursos, como alimento, refugio, agua, entre otros, que permitieran una mayor probabilidad de captura.
+
+Trampas Tomahawk Para el grupo de mamíferos medianos se realizó la instalación de trampas Tomahawk, las cuales tienen dimensiones de 30 x 25 x 70 cm). Para las caracterizaciones se ubicaron tres (3) trampas con cebo en transectos lineales, con una distancia de separación hasta de 40 m entre trampa para áreas boscosas, y hasta 150 m en áreas abiertas. Lo anterior se realizó en las coberturas naturales y seminaturales, donde se mantuvo durante 2 noches (48 horas) en cada unidad de cobertura vegetal.
+
+Redes de niebla Para la captura de mamíferos voladores, se utilizaron TRES (3) redes de niebla de 12 m de largo por 2 m de alto, empleando los mismos sitios de postura de las redes utilizadas para aves. Las redes se abrieron en horas de la noche de 18:00 - 22:00 horas, durante dos (2) días por cobertura vegetal natural y seminatural identificada, para un total de 64 horas/red por cobertura. Una vez liberado de la red, el ejemplar capturado fue caracterizado morfo-métricamente y se realizó el respectivo registro fotográfico. Finalmente, se realizó la determinación del ejemplar y su liberación, teniendo precaución de marcar con cortes pequeños de pelo para evitar el reconteo.
+Las coberturas donde se realizó la apertura de redes, obedeció a las características de disponibilidad de hábitat, recursos y refugio que permitieran el mayor número de capturas posibles, las redes se ubicaron al interior y al borde de bosques o de los lugares que habitualmente emplean los murciélagos para desplazarse y donde hay más oportunidad captura tales como cuerpos de agua, arroyos, sendas, caminos y claros; características que se presentaron en las coberturas seleccionadas y que permitieron obtener en conjunto con los mamíferos no voladores, un esfuerzo de muestreo suficiente para el área de estudio.
+
+Cámaras trampa El uso de cámaras trampa es una herramienta importante para el monitoreo de especies, en particular de los grupos crípticos, con bajas densidades y difíciles de observar, permiten cubrir rangos más amplios que otros métodos, razón por la cual se hizo uso de esta tecnología en el estudio. El monitoreo con estos equipos permite identificar especies de forma individual hasta tamaños poblacionales incluyendo ecología y comportamiento de los individuos, lo cual convierte el método en uno de los más importantes para los estudios de conservación y levantamiento de información primaria. El método consistió en colocar tres (3) cámaras trampa por cobertura natural en estaciones de muestreo preseleccionadas (al azar o sistemáticamente), sobre áreas, transectos o senderos que utilizan los animales.
+
+Fase Post-Campo: Durante esta etapa se llevó a cabo la revisión de los datos y fotografías de los individuos cuya determinación no fue posible durante la fase de campo a través de claves taxonómicas o dicotómicas en caracteres morfológicos y guías de fauna silvestre para la identificación de los individuos. La revisión taxonómica de las especies de los diferentes grupos de fauna estuvo basada en las listas de especies proporcionadas por el Sistema de información sobre biodiversidad en Colombia (SIB), así como las colecciones biológicas del Instituto de Investigación en Recursos Biológicos Alexander Von Humboldt, entre otras. Adicionalmente, para la herpetofauna presente en el área de estudio se tuvo en cuenta las bases de datos Amphibian database y The Reptile database. Para la avifauna se revisaron las categorías establecidas en Avibase, y para la mastofauna se revisó la taxonomía establecida en Mammal species of the world, Third edition.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El Bloque tiene una extensión de 10.908,54 ha, y está conformado principalmente por terrenos planos utilizados en grandes extensiones para pastoreo de ganado bovino (levante y engorde), la siembra de arroz y esporádicas y pequeñas parcelas de plátano y yuca. El Bloque Llanos 119 se encuentra en jurisdicción de las veredas Surimena, Guarimena y La Pradera (Municipio de Orocué) y una pequeña franja en la vereda Fronteras (Municipio de Maní).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la realización de este Estudio de Impacto ambiental se realizó la evaluación de flora, epífitas, fauna y recursos hidrobiológicos.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:25Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/oiz2vl">Frontera Energy Colombia Corp, CAF Proambiente LTDA (2023). Biodiversidad asociada al Estudio de Impacto Ambiental para el Área de perforación exploratoria - LLANOS 119. Version 1.1. Frontera Energy Colombia Corp. Occurrence dataset https://doi.org/10.15472/oiz2vl accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Géry, J., 1977. Characoids of the world. Neptune City; Reigate: T.F.H. [etc.]; 672 p.: ill. (chiefly col.); 23 cm. DOI / ISBN, 0-87666--458-3</citation>
+                <citation>Mago-Leccia, F. 1994. Electric fishes of the continental waters of America. Caracas, Fundacion para el Desarrollo de las Ciencias Fisicas, Matematicas y Naturales: 1-206</citation>
+                <citation>Taphorn, D. C., 1992. The Characiform fishes of the Apure river drainage, Venezuela. Rev. Biollania, Edición Especial N° 4. 537 pp.</citation>
+                <citation>Machado-Allison, A. y Fink, W. (1995). Sinopsis de las Especies de la Subfamilia Serrasalminae Presentes en la Cuenca del Orinoco. Serie Peces de Venezuela. Museo de Biologia, Caracas, 89 p.</citation>
+                <citation>Lasso, C. A. &amp; A. Machado-Allison. 2000. Sinopsis de las especies de peces de la familia Cichlidae presentes en la cuenca del rio Orinoco. Claves, diagnosis, aspectos bio-ecologicos e illustraciones. Museo de la Historia Natural la Salle. Instituto de Zoología Tropical, Universidad Central de Venezuela.</citation>
+                <citation>Lasso, C.; Provenzano, F.; Lasso, O.; Marcano, A. (2010). Ictiofauna dulceacuícola y estuarina de la cuenca del golfo de Paria, Venezuela: composición y relaciones biogeográficas con la cuenca del Orinoco. Instituto de Investigación de Recursos Biológicos &quot;Alexander von Humboldt&quot;. Biota Colombiana. 11(1-2), 53-73.</citation>
+                <citation>Jonathan W. Armbruster, 2003, The species of the Hypostomus cochliodon group (Siluriformes: Loricariidae)., Zootaxa 249, pp. 1-60: 49-51</citation>
+                <citation>Covain, R., Fisch-Muller, S. 2007. The genera of the Neotropical armored catfish subfamily Loricariinae (Siluriformes: Loricariidae): a practical key and synopsis. Zootaxa 1462: 1–40</citation>
+                <citation>Galvis, G., Mojica, J., Provenzano, F., Lasso, C., Taphorn, D., Royero, R., Castellanos, C., Gutiérrez, A., Gutiérrez, M., López, Y., Mesa, L., Sánchez, P. Y Cipamocha, C. (2007). Peces de la Orinoquía Colombiana con énfasis en especies de interés ornamental. Instituto Colombiano de Desarrollo Rural (INCODER y Universidad Nacional de Colombia. Bogotá D.C., Colombia. 413 p.</citation>
+                <citation>Maldonado-Ocampo, J.; Ortega-Lara, A.; Usma, J.; Gálvis, G.; Villa-Navarro, F.; Vásquez, L.; PradaPedreros, S.; Ardila, C. (2005). Peces de los Andes de Colombia. Guía de Campo. Instituto de Investigación y Recursos Biológicos “Alexander von Humboldt”. El asesor de la dirección de licencias, permisos y trámites ambientales. Bogotá D.C.</citation>
+                <citation>Reis R.E., S.O. Kullander &amp; C.J. Ferraris. 2003. Introduction, p. 1-9 In Reis, R. E., S. O. Kullander, and C. J. Ferraris (ed.). Checklist of the Freshwater Fishes of South and Central America. Porto Alegre: Edipucrs. https://doi.org/10.1098/ rsta.2003.1289</citation>
+                <citation>Alonso, R. y García, P. (2017). Capítulo Anfibios. Libro Biodiversidad Cuba. Pp. 22. En: Diversidad biológica de Cuba: métodos de inventario, monitoreo y colecciones biológicas (C. A. Mancina y D. D. Cruz, Eds.). Editorial AMA, La Habana, 502 pp.</citation>
+                <citation>Angulo A., J. V. Rueda-Almonacid, J. V. Rodríguez-Mahecha &amp; E. La Marca (Eds). 2006. Técnicas de inventario y monitoreo para los anfibios de la región tropical andina. Conservación Internacional. Serie Manuales de Campo Nº 2. Panamericana Formas e Impresos S.A., Bogotá D.C. 298 pp.</citation>
+                <citation>Ministerio de ambiente y desarrollo sostenible (MADS). (2018). Metodología general para la elaboración y presentación de estudios ambientales. Colombia. Pg 228.</citation>
+                <citation>Mcmullan, et al., A. Guía de Campo de las Aves de Colombia. Bogotá: ProAves, 2010. pp 225.</citation>
+                <citation>Hilty, S. L., Brown, W. Guía de las Aves de Colombia. Bogotá: Asociación Colombiana de Ornitología, 2001. pp 1030</citation>
+                <citation>Villarreal H., M, Álvarez, S. Córdoba, F. Escobar, G. Fagua, F. Gast, H. Mendoza, M. Ospina Y A.M. Umaña. 2006. Manual de métodos para el desarrollo de inventarios de biodiversidad. Programa de inventarios de Biodiversidad. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá, Colombia. 236 p.</citation>
+                <citation>Proaves. (06-10-2015). Obtenido de: http://www.proaves.org/monitoreo-de-fauna-con-camaras-trampa/</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-frontera.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="bc1e3aec-bfbc-4bed-b912-ae7a26c0dc19"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/ohlqdy</alternateIdentifier>
+        <alternateIdentifier>bc1e3aec-bfbc-4bed-b912-ae7a26c0dc19</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=lafazenda_fauna</alternateIdentifier>
+        <title>Fauna presente en los monitoreos de las fincas de Agropecuaria Aliar S.A.</title>
+        <creator>
+            <individualName>
+                <givenName>Diego Leonardo</givenName>
+                <surName>Rojas Hernández</surName>
+            </individualName>
+            <organizationName>Agropecuaria Aliar S.A.</organizationName>
+            <positionName>Profesional en Prevención y Planificación Ambiental</positionName>
+            <address>
+                <deliveryPoint>Km 88 vía Puerto López- Puerto Gaitán</deliveryPoint>
+                <city>Puerto López</city>
+                <administrativeArea>Meta</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>ambiental@aliar.com.co</electronicMailAddress>
+            <onlineUrl>https://www.aliar.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Alvaro</givenName>
+                <surName>Tatis Bautista</surName>
+            </individualName>
+            <organizationName>Agropecuaria Aliar S.A.</organizationName>
+            <positionName>Jefe de prevención y Planificación ambiental</positionName>
+            <address>
+                <deliveryPoint>Km 88 vía Puerto López- Puerto Gaitán</deliveryPoint>
+                <city>Puerto López</city>
+                <administrativeArea>Meta</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>alvaro.tatis@aliar.com.co</electronicMailAddress>
+            <onlineUrl>https://www.aliar.com.co/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Diego Leonardo</givenName>
+                <surName>Rojas Hernández</surName>
+            </individualName>
+            <organizationName>Agropecuaria Aliar S.A.</organizationName>
+            <positionName>Profesional en Prevención y Planificación Ambiental</positionName>
+            <address>
+                <deliveryPoint>Km 88 vía Puerto López- Puerto Gaitán</deliveryPoint>
+                <city>Puerto López</city>
+                <administrativeArea>Meta</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>ambiental@aliar.com.co</electronicMailAddress>
+            <onlineUrl>https://www.aliar.com.co/</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Alvaro</givenName>
+                <surName>Tatis Bautista</surName>
+            </individualName>
+            <organizationName>Agropecuaria Aliar S.A.</organizationName>
+            <positionName>Jefe de prevención y Planificación ambiental</positionName>
+            <address>
+                <deliveryPoint>Km 88 vía Puerto López- Puerto Gaitán</deliveryPoint>
+                <city>Puerto López</city>
+                <administrativeArea>Meta</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>alvaro.tatis@aliar.com.co</electronicMailAddress>
+            <onlineUrl>https://www.aliar.com.co/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2025-03-26
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Este recurso contiene los registros de animales que han sido observados esporádicamente en los predios de Agropecuaria Aliar S.A. en tres municipios del departamento del Meta. Contiene 1.102 registros de fauna encontrados a lo largo de los recorridos de monitoreo en las fincas, realizados desde 2021 a 2024.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Insectos</keyword>
+            <keyword>Anfibios</keyword>
+            <keyword>Mamíferos</keyword>
+            <keyword>Aves</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Sector empresarial</keyword>
+            <keyword>Alianza SiB Colombia ANDI</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=lafazenda_fauna</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los datos han sido tomados en los predios Fazenda, Barlovento, San Francisco y Machijure, ubicados en los municipios de Puerto Gaitán y Puerto López, del departamento del Meta. Y en el municipio de La Primavera en el departamento de Vichada.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.275</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-71.66</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.394</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.154</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-05-05
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-12-27
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Contiene 1.102 registros de Fauna, de aves (264), insectos (40),arañas (2), peces (1), mamíferos (387), anfibios (5) y reptiles (403). Abarcando 41 ordenes, 87familias, 194 géneros y 232 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Accipitriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anseriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apodiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Artiodactyla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Carnivora</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Characiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Charadriiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Chiroptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ciconiiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cingulata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coleoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Columbiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cuculiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Didelphimorphia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Falconiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Galliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gruiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hymenoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lagomorpha</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lepidoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Orthoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Passeriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pelecaniformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Perissodactyla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Piciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pilosa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Primates</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Psittaciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rodentia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Scorpiones</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Strigiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coraciiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Craciformes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Alvaro</givenName>
+                <surName>Tatis Bautista</surName>
+            </individualName>
+            <organizationName>Agropecuaria Aliar S.A.</organizationName>
+            <positionName>Jefe de prevención y Planificación ambiental</positionName>
+            <address>
+                <deliveryPoint>Km 88 vía Puerto López- Puerto Gaitán</deliveryPoint>
+                <city>Puerto López</city>
+                <administrativeArea>Meta</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>alvaro.tatis@aliar.com.co</electronicMailAddress>
+            <onlineUrl>https://www.aliar.com.co/</onlineUrl>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Diego Leonardo</givenName>
+                <surName>Rojas Hernández</surName>
+            </individualName>
+            <organizationName>Agropecuaria Aliar S.A.</organizationName>
+            <positionName>Profesional en Prevención y Planificación Ambiental</positionName>
+            <address>
+                <deliveryPoint>Km 88 vía Puerto López- Puerto Gaitán</deliveryPoint>
+                <city>Puerto López</city>
+                <administrativeArea>Meta</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>ambiental@aliar.com.co</electronicMailAddress>
+            <onlineUrl>https://www.aliar.com.co/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>El personal de las fincas realizaba anotaciones de campo cuando encontraban presencia de fauna o cuando veían animales heridos. Se tomaba información de fecha, lugar y una identificación taxonómica básica.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Algunos animales fueron reubicados porque fueron encontrados heridos o porque eran peligrosos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se realizó un proceso de georreferenciación para asignar coordenadas utilizando como los corregimientos.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Los registros han sido tomados en cuatro fincas pertenecientes a Agropecuria Aliar.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Estos datos provienen de monitoreos esporádicos realizados en las cuatro fincas, donde el personal técnico anotaba la información de la fauna que observada en sus recorridos de trabajo.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Fauna presente en los monitoreos de las fincas de Agropecuaria Aliar S.A.</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Alvaro</givenName>
+                    <surName>Tatis Bautista</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:18Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/ohlqdy">Rojas Hernández D L, Tatis Bautista A (2025). Fauna presente en los monitoreos de las fincas de Agropecuaria Aliar S.A.. Version 1.6. Agropecuaria Aliar S.A.. Occurrence dataset https://doi.org/10.15472/ohlqdy accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-aliar.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

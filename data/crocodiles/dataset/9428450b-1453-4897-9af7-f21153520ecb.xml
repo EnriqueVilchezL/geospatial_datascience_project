@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="9428450b-1453-4897-9af7-f21153520ecb"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/uncodv</alternateIdentifier>
+        <alternateIdentifier>9428450b-1453-4897-9af7-f21153520ecb</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=geopark_llanos-34_flora-fauna</alternateIdentifier>
+        <title>Caracterización de flora y fauna en el Área de perforación exploratoria LLANOS 34, departamento de Casanare, Colombia</title>
+        <creator>
+            <individualName>
+                <givenName>Daniel</givenName>
+                <surName>Malagón</surName>
+            </individualName>
+            <organizationName>MCS Consultoría y Monitoreo Ambiental S.A.S.</organizationName>
+            <positionName>Director del área de flora</positionName>
+            <address>
+                <deliveryPoint>Carrera 17 # 166-72</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>5716797855</phone>
+            <electronicMailAddress>mcsconsultoria@mcsconsultoria.com</electronicMailAddress>
+            <onlineUrl>http://mcsconsultoria.com/index.php/elementor-244/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ángela</givenName>
+                <surName>Solano</surName>
+            </individualName>
+            <organizationName>MCS Consultoría y Monitoreo Ambiental S.A.S.</organizationName>
+            <positionName>Coordinación Forestal</positionName>
+            <address>
+                <deliveryPoint>Carrera 17 # 166-72</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>5716797855</phone>
+            <electronicMailAddress>mcsconsultoria@mcsconsultoria.com</electronicMailAddress>
+            <onlineUrl>http://mcsconsultoria.com/index.php/elementor-244/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Wilmar</givenName>
+                <surName>Villegas</surName>
+            </individualName>
+            <organizationName>MCS Consultoría y Monitoreo Ambiental S.A.S.</organizationName>
+            <positionName>Profesional de Proyectos – Forestal</positionName>
+            <address>
+                <deliveryPoint>Carrera 17 # 166-72</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>5716797855</phone>
+            <electronicMailAddress>mcsconsultoria@mcsconsultoria.com</electronicMailAddress>
+            <onlineUrl>http://mcsconsultoria.com/index.php/elementor-244/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Lorena</givenName>
+                <surName>Marín</surName>
+            </individualName>
+            <organizationName>MCS Consultoría y Monitoreo Ambiental S.A.S.</organizationName>
+            <positionName>Coordinadora Fauna</positionName>
+            <address>
+                <deliveryPoint>Carrera 17 # 166-72</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>5716797855</phone>
+            <electronicMailAddress>mcsconsultoria@mcsconsultoria.com</electronicMailAddress>
+            <onlineUrl>http://mcsconsultoria.com/index.php/elementor-244/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>María Fernanda</givenName>
+                <surName>González</surName>
+            </individualName>
+            <organizationName>MCS Consultoría y Monitoreo Ambiental S.A.S.</organizationName>
+            <positionName>Profesional de Proyectos – Fauna</positionName>
+            <address>
+                <deliveryPoint>Carrera 17 # 166-72</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>5716797855</phone>
+            <electronicMailAddress>mcsconsultoria@mcsconsultoria.com</electronicMailAddress>
+            <onlineUrl>http://mcsconsultoria.com/index.php/elementor-244/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>María Fernanda</givenName>
+                <surName>González</surName>
+            </individualName>
+            <organizationName>MCS Consultoría y Monitoreo Ambiental S.A.S.</organizationName>
+            <positionName>Profesional de Proyectos – Fauna</positionName>
+            <address>
+                <deliveryPoint>Carrera 17 # 166-72</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>5716797855</phone>
+            <electronicMailAddress>mcsconsultoria@mcsconsultoria.com</electronicMailAddress>
+            <onlineUrl>http://mcsconsultoria.com/index.php/elementor-244/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Geopark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>Geopark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30. Pisos 8, 9 y 10</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6017432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>https://www.geo-park.com/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>MCS Consultoría y Monitoreo Ambiental S.A.S.</surName>
+            </individualName>
+            <organizationName>MCS Consultoría y Monitoreo Ambiental S.A.S</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Carrera 17 # 166-72</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>5716797855</phone>
+            <electronicMailAddress>mcsconsultoria@mcsconsultoria.com</electronicMailAddress>
+            <onlineUrl>http://mcsconsultoria.com/index.php/elementor-244/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Fundación Orinoquía Biodiversa</surName>
+            </individualName>
+            <organizationName>Fundación Orinoquía Biodiversa</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 15 # 12 - 15</deliveryPoint>
+                <city>Tame</city>
+                <administrativeArea>Arauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>5778887145</phone>
+            <electronicMailAddress>orinoquiabiodiversa@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.orinoquiabiodiversa.org</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2024-04-16
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>La empresa GEOPARK COLOMBIA PN SA SUCURSAL COLOMBIA ante la proyección de explotación de hidrocarburos y teniendo en cuenta los resultados obtenidos en la fase exploratoria del Bloque LLA-34, localizado en jurisdicción de los municipios de Villanueva y Tauramena en el departamento de Casanare, y el municipio de Cabuyaro, en el departamento del Meta, adelanta el trámite para la modificación de la Resolución 0291 del 21 de febrero de 2011 (por el cual se otorga Licencia Ambiental al proyecto de Perforación Exploratoria LLA-34), que a su vez fue modificada por la Resolución 1166 del 28 de diciembre de 2012, en el sentido de solicitar la Licencia Ambiental Global para llevar a cabo la fase de explotación de hidrocarburos, mediante la producción de pozos existentes, la perforación de nuevos pozos y la instalación y construcción de nueva infraestructura requerida para lograr el objetivo de producción.</para>
+<para>Para lo anterior, GEOPARK COLOMBIA PN SA SUCURSAL COLOMBIA contrató los servicios de MCS Consultoría y Monitoreo Ambiental S.A.S., para la elaboración del “Estudio de Impacto Ambiental (EIA) para la modificación de la Licencia Ambiental del área de perforación exploratoria LLA-34 “Resolución 0291 del 21 de febrero de 2011” para las actividades de explotación del Bloque LLA-34”, el cual es requisito para la solicitud de modificación de licencia ante la Autoridad Nacional de Licencias Ambientales (ANLA).</para>
+<para>Este recurso representa la caracterización de flora y fauna y consta de 1.442 registros biológicos observados en Casanare, Colombia en marzo y diciembre del 2021. Este recurso incluye además los registros de nutrias y palmas tomados por la Fundación Orinoquía Biodiversa.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Red</keyword>
+            <keyword>Trampa</keyword>
+            <keyword>Parcela</keyword>
+            <keyword>Caracterización</keyword>
+            <keyword>Muestreo</keyword>
+            <keyword>Altura</keyword>
+            <keyword>Abundancia</keyword>
+            <keyword>Ecosistemas</keyword>
+            <keyword>Bioma</keyword>
+            <keyword>Coberturas</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=geopark_llanos-34_flora-fauna</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los datos fueron tomados al interior del Área de Perforación Exploratoria Llanos 34, ubicada en el departamento de Casanare, Colombia.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.799</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.568</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.52</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.339</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-03-02
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-12-30
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>1.442 registros de flora (1.175), fauna (196) y fungi (71) pertenecientes a las clases: Magnoliopsida, Liliopsida, Arthoniomycetes, Agaricomycetes, Bryopsida, Lecanoromycetes, Polypodiopsida, Jungermanniopsida, Eurotiomycetes, Amphibia
+Reptilia, Aves y Mammalia. Corresponden a 76 órdenes, 144 familias y de los cuales 1.077 registros fueron identificados hasta especie (295 especies) y 352 hasta género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lamiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Arecales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fabales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sapindales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Poales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Laurales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Magnoliales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malvales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ericales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gentianales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Alismatales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Myrtales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rosales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Piperales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Arthoniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asterales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Agaricales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Celastrales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hypnales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Bryales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caryophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caliciales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pottiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Oxalidales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Boraginales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Brassicales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dilleniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ostropales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Peltigerales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Commelinales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Solanales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cucurbitales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hymenophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Porellales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Jungermanniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dicranales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Santalales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Schizaeales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lecanorales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ranunculales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Picramniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Zingiberales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Leucodontales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asparagales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Polypodiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pertusariales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pyrenulales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Liliales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Verrucariales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Vitales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Passeriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apodiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Chiroptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pelecaniformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Falconiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Psittaciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cuculiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Galliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Accipitriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Charadriiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coraciiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Piciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anseriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Opisthocomiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Columbiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Primates</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rodentia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Didelphimorphia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Carnivora</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Caracterizar la flora y fauna en el Área de Perforación Exploratoria LLANOS 34.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <surName>Geopark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>Geopark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30. Pisos 8, 9 y 10</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6017432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>https://www.geo-park.com/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Flora-Cobertura vegetal y flora: Para determinar las características cualitativas y cuantitativas del área del proyecto en términos de su diversidad florística y su complejidad estructural, se expone la presente metodología, la cual a través de un proceso ordenado y secuencial, basado en un marco conceptual y normativo claro, garantizó resultados confiables que permitieron determinar, analizar y evaluar el componente flora, arrojando de esta manera información confiable que sirve como herramienta para reconocer y valorar las potenciales interacciones del recurso flora con las actividades del proyecto. La captura de información, procesamiento, análisis y conclusiones, son aspectos dentro del marco metodológico que se abordaron en tres (3) diferentes fases; comenzando por una fase pre-campo, posteriormente una fase de campo y finalmente una fase pos-campo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fase pre-campo: El objetivo de esta fase fue rastrear la información secundaria y cartográfica disponible, que permitiera una aproximación confiable a las condiciones actuales de las comunidades vegetales allí presentes; con lo cual, se definió preliminarmente los alcances en términos de unidades de coberturas a caracterizar, número de unidades muestréales a levantar por unidad de cobertura y otros aspectos que son determinantes para estructurar una excelente línea base, siendo un marco de referencia para fijar los potenciales valores de conservación presentes en el área.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fase de campo: Una vez cumplida la fase previa de oficina, en donde se determinó el mapa preliminar de unidades de cobertura para la fase de campo, la definición de las coordenadas de las unidades muestréales a levantar en campo para las diferentes coberturas vegetales y la búsqueda de información secundaria relevante, se procedió a la etapa de campo, en donde se tuvieron en cuenta una serie de variables propias del sitio, que son determinantes para la ubicación y establecimiento definitivo de las parcelas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Muestreo de epífitas vasculares y no vasculares: Se efectuaron levantamientos de epífitas vasculares y no vasculares, en los cinco estratos verticales, se realizó un registro fotográfico de cada morfoespecie y se registraron las características morfológicas(. Para acceder a los estratos más altos (tres, cuatro y cinco), se utilizó la técnica de ascenso por una sola cuerda . Esta práctica de ascenso al dosel fue realizada por un profesional capacitado con los cursos de trabajo seguro en alturas nivel avanzado y el de ascenso y trabajo en el dosel (poda y/o trepa).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La técnica de ascenso al dosel por una sola cuerda ha sido ampliamente usada en estudios en el dosel de los bosques, relacionados a la botánica y la entomología, así como también en estudios etológicos de mamíferos y aves. Esta técnica también es considerablemente utilizada en labores de poda con fines de arboricultura . El equipo básico consta de un casco de escalada, un arnés de asiento para poda, un sistema de torso para arnés de asiento, guantes para poda, cuerdas estáticas de 11 mm, cuerdas para poda de 13 mm, cintas anilladas giradas, mosquetones con seguro automático, un salvarramas, un freno anticaída asap para la línea de vida, eslingas de posicionamiento con absorbedor de caída, un sistema de ascenso (pueden ser Yumares o Basic y Croll mas patines de ascenso) y un sistema de descenso (puede ser un Rig).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fase pos-campo: Todo el material que se registró en campo (fotografías, fichas de registro de características), se envió para su determinación a especialistas de epífitas vasculares y no vasculares, con el fin de determinar los especímenes hasta el nivel de género o especie (teniendo en cuenta el nivel de complejidad de cada grupo y si está claro taxonómicamente).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Anfibios: El esfuerzo de muestreo fue de 100 horas-hombre, obteniéndose un éxito de captura bajo que corresponde a 2 individuos/hora-hombre, esto se debe a que en el área de muestreo se exhiben diferentes grados de perturbación antropogénica (cultivos y potreros para actividad pecuaria), generando así cambios en la riqueza, composición y patrones de abundancia de las especies de anuros de la zona.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Reptiles:  búsqueda de individuos durante recorridos extensivos, con observaciones directas y/o capturas, y encuestas a los pobladores de la zona. Para el área de influencia del Proyecto fue posible registrar 35 especies, lo que corresponde al 36,45% de las especies de probable ocurrencia, siendo la mayoría de especies generalistas, debido a que cuentan con amplios rangos de distribución.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: La caracterización de la avifauna del área de influencia del Proyecto, se realizó mediante el uso de redes de niebla, avistamientos directos durante recorridos extensivos, determinaciones indirectas (cantos, plumas, nidos) y reportes a través de encuestas realizadas a pobladores locales.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: se obtuvo el esfuerzo de muestreo correspondiente a las metodologías empleadas para el registro de la mastofauna del área de influencia del Proyecto. Se logró un éxito de captura en los recorridos equivalente al 36,6%, registrando 11 especies; este es un porcentaje moderado puesto que los recorridos fueron pocos, podría aumentarse el éxito en la medida en que los recorridos contengan un mayor número de kilómetros. Además se obtuvo un éxito de captura del 13,5 % en redes de niebla, con un total de 16 redes por cinco sitios de muestreo y seis horas por noche. Aunque el número de redes de niebla utilizadas es suficiente para obtener un mayor éxito de captura, la época de invierno en la que se realizó el trabajo de campo afectó en gran medida este porcentaje, ya que es conocida la poca actividad de los murciélagos en épocas de lluvia; otro factor que pudo reducir el éxito, es la presencia de luna creciente y llena durante varias noches del muestreo, situación que de igual forma afecta considerablemente la actividad de los murciélagos.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El Bloque de Explotación LLA-34 se localiza en la región oriental de Colombia, bajo la jurisdicción político-administrativa de los municipios de Villanueva y Tauramena en el departamento de Casanare, y el municipio de Cabuyaro en el departamento del Meta. Con respecto a los aspectos ambientales, el Bloque LLA-34 se encuentra bajo jurisdicción de la Corporación Autónoma Regional de la Orinoquia (Corporinoquia), así como la Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena (Cormacarena).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la elaboración de los componentes que forman el medio biótico, se consultó, analizó e integró la información de estudios previos ejecutados en el área de influencia del proyecto, así como la información institucional y científica existente a nivel local y regional. Dentro del conjunto de ecosistemas estratégicos se encuentran las áreas o espacios naturales o semi-naturales que están siendo alterados en mayor o menor grado en su dinámica ecosistémica, por una intervención o perturbación externa, que generalmente responde a actividades de origen antrópico, por lo que difícilmente logran su recuperación hacia su estado inicial. La identificación de áreas ambientalmente frágiles se realizó con el propósito de caracterizar los ecosistemas sensibles y estratégicos en el área del proyecto y, así mismo, establecer las áreas de restricción frente a las actividades que se desean desarrollar. Para este análisis se consideraron tres (3) fases metodológicas que se describen a continuación.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="CESP2022-010">
+                <title>Estudio de Impacto Ambiental, Área de perforación exploratoria LLANOS 34</title>
+                <personnel>
+                    <individualName>
+                    <surName>Geopark Colombia S.A.S.</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>A partir de estos lineamientos, en el presente proyecto se incluye la caracterización de los componentes abiótico, biótico (flora) y socioeconómico, tanto del área de influencia directa (AID) como del área de influencia indirecta (AII) del proyecto; se define la sensibilidad ambiental del medio frente a la ejecución de las actividades contempladas por el proyecto; se identifica de manera cualitativa y cuantitativa los impactos presentes en el área, así como los que se pueden generar con las actividades del proyecto; se formulan las medidas de manejo ambiental y de seguimiento y monitoreo, tendientes a prevenir, controlar, mitigar y/o compensar los impactos ambientales que generen riesgos en la operación de producción de hidrocarburos; se elabora el plan de desmantelamiento, abandono y restauración de la infraestructura; se define la estructura organizacional, responsabilidades y mecanismos de respuesta para atender de manera rápida y eficaz las diferentes situaciones de emergencia y contingencia que se puedan presentar por medio del plan de contingencia, y por último, se plantea un plan de inversión del 1% destinado a la recuperación, conservación, preservación y vigilancia de la cuenca hidrográfica en que se encuentre el proyecto.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El Bloque de Explotación LLA-34 se localiza en la región oriental de Colombia, bajo la jurisdicción político-administrativa de los municipios de Villanueva y Tauramena en el departamento de Casanare, y el municipio de Cabuyaro en el departamento del Meta. Con respecto a los aspectos ambientales, el Bloque LLA-34 se encuentra bajo jurisdicción de la Corporación Autónoma Regional de la Orinoquia (Corporinoquia), así como la Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena (Cormacarena).</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Para elaborar y estructurar el presente estudio, se consideró la normatividad ambiental vigente, utilizando como guía los lineamientos establecidos en los Términos de Referencia para la elaboración de Estudios de Impacto Ambiental para Proyectos de Explotación de Hidrocarburos HI-TER-1-03, acogidos mediante la Resolución 1543 del 06 de agosto de 2010 y la Metodología general para la presentación de estudios ambientales, expedida mediante la Resolución 1503 del 04 de agosto de 2010; emitidos por el Ministerio de Ambiente, Vivienda y Desarrollo Territorial (hoy competencia de la Autoridad Nacional de Licencias Ambientales (ANLA)), que aplican en la actualidad para el desarrollo del proyecto.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:19Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/uncodv">Malagón D, Solano Á, Villegas W, Marín L, González M F (2024). Caracterización de flora y fauna en el Área de perforación exploratoria LLANOS 34, departamento de Casanare, Colombia. Version 1.2. GeoPark Colombia S.A.S. Occurrence dataset https://doi.org/10.15472/uncodv accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-geopark.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

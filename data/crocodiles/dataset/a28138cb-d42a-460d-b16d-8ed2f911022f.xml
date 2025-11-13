@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="a28138cb-d42a-460d-b16d-8ed2f911022f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/fr2wwy</alternateIdentifier>
+        <alternateIdentifier>https://ipt.vertnet.org/resource?r=owu_rept</alternateIdentifier>
+        <alternateIdentifier>a28138cb-d42a-460d-b16d-8ed2f911022f</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=owu_rept</alternateIdentifier>
+        <title>Ohio Wesleyan University Reptile Specimens (Arctos)</title>
+        <creator>
+            <individualName>
+                <givenName>Josh</givenName>
+                <surName>Pletcher</surName>
+            </individualName>
+            <organizationName>Ohio Wesleyan University Museum of Natural History</organizationName>
+            <positionName>Student Curator</positionName>
+            <address>
+                <city>Delaware</city>
+                <administrativeArea>Ohio</administrativeArea>
+                <postalCode>43015</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>19706320027</phone>
+            <electronicMailAddress>jrpletch@owu.edu</electronicMailAddress>
+            <onlineUrl>https://www.owu.edu/academics/natural-history-museum/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Lisa</givenName>
+                <surName>Tabak</surName>
+            </individualName>
+            <organizationName>Ohio Wesleyan University Museum of Natural History</organizationName>
+            <positionName>Curatorial Director</positionName>
+            <address>
+                <deliveryPoint>90 S Henry St, SCSC 166</deliveryPoint>
+                <city>Delaware</city>
+                <administrativeArea>Ohio</administrativeArea>
+                <postalCode>43015</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>1-740-368-3887</phone>
+            <electronicMailAddress>lmtabak@owu.edu</electronicMailAddress>
+            <onlineUrl>https://www.owu.edu/academics/natural-history-museum/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Josh</givenName>
+                <surName>Pletcher</surName>
+            </individualName>
+            <organizationName>Ohio Wesleyan University Museum of Natural History</organizationName>
+            <positionName>Student Curator</positionName>
+            <address>
+                <city>Delaware</city>
+                <administrativeArea>Ohio</administrativeArea>
+                <postalCode>43015</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>19706320027</phone>
+            <electronicMailAddress>jrpletch@owu.edu</electronicMailAddress>
+            <onlineUrl>https://www.owu.edu/academics/natural-history-museum/</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Lisa</givenName>
+                <surName>Tabak</surName>
+            </individualName>
+            <organizationName>Ohio Wesleyan University Museum of Natural History</organizationName>
+            <positionName>Curatorial Director</positionName>
+            <address>
+                <deliveryPoint>90 S Henry St, SCSC 166</deliveryPoint>
+                <city>Delaware</city>
+                <administrativeArea>Ohio</administrativeArea>
+                <postalCode>43015</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>740-368-3887</phone>
+            <electronicMailAddress>lmtabak@owu.edu</electronicMailAddress>
+            <onlineUrl>https://www.owu.edu/academics/natural-history-museum/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Eric</givenName>
+                <surName>Gangloff</surName>
+            </individualName>
+            <organizationName>Ohio Wesleyan University Museum of Natural History</organizationName>
+            <positionName>Assistant Professor of Zoology</positionName>
+            <address>
+                <city>Delaware</city>
+                <administrativeArea>Ohio</administrativeArea>
+                <postalCode>43015</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>1-740-368-3892</phone>
+            <electronicMailAddress>ejgangloff@owu.edu</electronicMailAddress>
+            <onlineUrl>https://www.owu.edu/academics/natural-history-museum/</onlineUrl>
+            <role>CURATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>David</givenName>
+                <surName>Bloom</surName>
+            </individualName>
+            <organizationName>VertNet</organizationName>
+            <positionName>Vertnet Coordinator</positionName>
+            <electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>
+            <onlineUrl>http://www.vertnet.org</onlineUrl>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Dusty</givenName>
+                <surName>McDonald</surName>
+            </individualName>
+            <organizationName>Arctos</organizationName>
+            <positionName>Arctos Database Programmer</positionName>
+            <electronicMailAddress>dustymc@gmail.com</electronicMailAddress>
+            <onlineUrl>http://arctos.database.museum</onlineUrl>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <pubDate>
+                2025-09-15
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The reptile collection at the Ohio Wesleyan University Museum of Natural History is strongly focused on lizards, though snakes, turtles, and crocodilians are also represented.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Arctos Data Ownership and Use: http://arctosdb.org/home/data/; http://vertnet.org/resources/norms.html</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://www.owu.edu/academics/natural-history-museum/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.vertnet.org/archive.do?r=owu_rept</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Ohio, Texas, Seychelles</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-108.457</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-66.094</eastBoundingCoordinate>
+                    <northBoundingCoordinate>49.382</northBoundingCoordinate>
+                    <southBoundingCoordinate>23.322</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Squamata, Crocodilia, Testudines</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Reptile reference and teaching collection</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Josh</givenName>
+                <surName>Pletcher</surName>
+            </individualName>
+            <organizationName>Ohio Wesleyan University Museum of Natural History</organizationName>
+            <positionName>Student Curator</positionName>
+            <address>
+                <city>Delaware</city>
+                <administrativeArea>Ohio</administrativeArea>
+                <postalCode>43015</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>19706320027</phone>
+            <electronicMailAddress>jrpletch@owu.edu</electronicMailAddress>
+            <onlineUrl>https://www.owu.edu/academics/natural-history-museum/</onlineUrl>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Lisa</givenName>
+                <surName>Tabak</surName>
+            </individualName>
+            <organizationName>Ohio Wesleyan University Museum of Natural History</organizationName>
+            <positionName>Curatorial Director</positionName>
+            <address>
+                <deliveryPoint>90 S Henry St, SCSC 166</deliveryPoint>
+                <city>Delaware</city>
+                <administrativeArea>Ohio</administrativeArea>
+                <postalCode>43015</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>1-740-368-3887</phone>
+            <electronicMailAddress>lmtabak@owu.edu</electronicMailAddress>
+            <onlineUrl>https://www.owu.edu/academics/natural-history-museum/</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:03Z</dateStamp>
+                <citation>Pletcher J, Tabak L (2025). Ohio Wesleyan University Reptile Specimens (Arctos). Version 1.46. Ohio Wesleyan University Museum of Natural History. Occurrence dataset https://doi.org/10.15468/fr2wwy accessed via GBIF.org on 2025-10-11.</citation>
+                <collection>
+                    <parentCollectionIdentifier>OWU</parentCollectionIdentifier>
+                    <collectionIdentifier>https://arctos.database.museum/collection/OWU:Rept</collectionIdentifier>
+                    <collectionName>Ohio Wesleyan University Reptile Specimens</collectionName>
+                </collection>
+                <livingTimePeriod>1859-Present</livingTimePeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

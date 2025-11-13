@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="44276820-553d-49a3-b25a-19dd26a197c8"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.60545/a733ub</alternateIdentifier>
+        <alternateIdentifier>44276820-553d-49a3-b25a-19dd26a197c8</alternateIdentifier>
+        <alternateIdentifier>https://patrimonio.ambiente.gob.ec/iptmae/resource?r=84c3ac77-2f3d-4f8a-bb24-129300b030ca</alternateIdentifier>
+        <title>Colección de Reptiles del Museo de Zoología QCAZ</title>
+        <creator>
+            <individualName>
+                <givenName>Omar</givenName>
+                <surName>Torres-Carvajal</surName>
+            </individualName>
+            <organizationName>PUCE</organizationName>
+            <positionName>Curador de Reptiles</positionName>
+            <address>
+                <deliveryPoint>Av. 12 de Octubre 1076 y Roca</deliveryPoint>
+                <city>Quito</city>
+                <administrativeArea>Pichincha</administrativeArea>
+                <country>ECUADOR</country>
+            </address>
+            <phone>2991700</phone>
+            <electronicMailAddress>lotorres@puce.edu.ec</electronicMailAddress>
+            <onlineUrl>https://bioweb.puce.edu.ec/QCAZ/contenido/OmarTorresCarvajal</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0003-0041-9250</userId>
+        </creator>
+        <associatedParty>
+            <individualName>
+                <givenName>Santiago</givenName>
+                <surName>Ron</surName>
+            </individualName>
+            <organizationName>PUCE</organizationName>
+            <positionName>Curador de Anfibios</positionName>
+            <address>
+                <deliveryPoint>Av. 12 de Octubre 1076 y Roca</deliveryPoint>
+                <city>Quito</city>
+                <administrativeArea>Pichincha</administrativeArea>
+                <country>ECUADOR</country>
+            </address>
+            <electronicMailAddress>srron@puce.edu.ec</electronicMailAddress>
+            <role>CURATOR</role>
+        </associatedParty>
+        <pubDate>
+                2024-10-28
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Patente de la Colección de Reptiles del Museo de Zoología QCAZ</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>colección</keyword>
+            <keywordThesaurus>Pontificia Universidad Católica del Ecuador, Museo de Zoología QCAZ</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://bioweb.bio/portal/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=84c3ac77-2f3d-4f8a-bb24-129300b030ca</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Las localidades de recolección de especímenes de invertebrados, anfibios, reptiles y mamíferos de Ecuador incluirán a todo el Ecuador continental y Galápagos. También se incluirán las reservas del Sistema Nacional de Áreas Protegidas. Todos los especímenes que ingresan a las colecciones del Museo de Zoología están respaldadas por su respectivo Contrato Marco de Acceso a Recursos Genéticos o Autorización de Investigación del MAATE.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-97.013</westBoundingCoordinate>
+                    <eastBoundingCoordinate>54.087</eastBoundingCoordinate>
+                    <northBoundingCoordinate>50.754</northBoundingCoordinate>
+                    <southBoundingCoordinate>-30.179</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                0035-08-20
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                0023-12-17
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chordata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Iguanidae: Tropidurinae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Colubridae: Colubrinae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Colubridae: Dipsadinae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Iguanidae: Corytophaninae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata: Serpentes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gymnophthalmidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Iguanidae: Anolinae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Iguanidae: Hoplocercinae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alligatoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata: Sauria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Teiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Omar</givenName>
+                <surName>Torres-Carvajal</surName>
+            </individualName>
+            <organizationName>PUCE</organizationName>
+            <positionName>Curador de Reptiles</positionName>
+            <address>
+                <deliveryPoint>Av. 12 de Octubre 1076 y Roca</deliveryPoint>
+                <city>Quito</city>
+                <administrativeArea>Pichincha</administrativeArea>
+                <country>ECUADOR</country>
+            </address>
+            <phone>2991700</phone>
+            <electronicMailAddress>lotorres@puce.edu.ec</electronicMailAddress>
+            <onlineUrl>https://bioweb.puce.edu.ec/QCAZ/contenido/OmarTorresCarvajal</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0003-0041-9250</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Una vez tomada la decisión de ingresar un ejemplar a la colección permanente será catalogado con un número único de ingreso (número QCAZ) que es inamovible e irremplazable. El ingreso y registro de los ejemplares adquiridos debe hacerse de manera diligente. El ingreso debe ser responsabilidad del Administrador de Colecciones quien tiene la autoridad de asignar los números únicos de ingreso. Es responsabilidad de quien ingresa los datos almacenar todos los documentos importantes e información asociada y relacionarlos a cada ejemplar mediante el número QCAZ. Los registros asociados a cada ejemplar pueden incluir información de cuadernos de campo o inventarios, fotografías, cartas de donación o cualquier otro documento pertinente. Pueden ser copias duras o documentos electrónicos.
+El Administrador de Colecciones será responsable de proveer apropiado almacenamiento, manejo y documentación para cada ejemplar y mantenerlo accesible al público sin comprometer el cuidado de otros ejemplares. Los ejemplares adquiridos para la colección didáctica no serán ingresados a la colección permanente y se les puede dar los siguientes usos: como apoyo para exhibiciones didácticas, para realizar sesiones educativas, para estudios anatómicos o fisiológicos, etc. Ningún ejemplar en préstamo de otra institución puede ser ingresado a la colección permanente porque el préstamo no involucra la transferencia de propiedad.
+La adquisición de nuevos ejemplares se hace por medio de: 
+• Colecciones en el campo como parte de un proyecto de investigación: Los ejemplares adquiridos por este medio deben estar avalados por un permiso de colección otorgado por el Ministerio del Ambiente. 
+• Intercambio: Los ejemplares son adquiridos por este medio cuando existe una colaboración interinstitucional entre universidades o museos de historia natural. Involucra el intercambio de uno o varios ejemplares con fines de investigación científica. Los intercambios están avalados por un acuerdo escrito entre cada sección del Museo de Zoología y la otra organización antes de que se lleve a cabo la transferencia. El Museo de Zoología está obligado a mantener copias de permisos de exportación o importación emitidos bajo las directrices de la Patente de Manejo de Fauna Silvestre. Los ejemplares que se otorgan a las otras instituciones en un intercambio estarán bajo la figura de Préstamo Permanente.
+ • Donación: Es la transferencia voluntaria por parte de uno o más colectores o instituciones de uno o más ejemplares. Están avaladas por un acta de donación firmada por el donante y el Curador de la colección. La donación puede ser temporal o permanente de acuerdo a las definiciones de la Patente de Manejo de Fauna Silvestre. Cada donación deberá estar acompañada de un Certificado de Donación o Depósito que deberá ser firmado por el Curador y el donante.
+  • Propia generación: Se trata de los registros asociados a los ejemplares o son el único registro de un ejemplar que se haya generado en el museo, esto incluye tejidos, fotografías, grabaciones acústicas, filmaciones que se asocian al ejemplar por su número QCAZ.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Las localidades de recolección de especímenes de reptiles de Ecuador incluirán a todo el Ecuador continental y Galápagos. También se incluirán las reservas del Sistema Nacional de Áreas Protegidas.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Las colecciones de reptiles del QCAZ almacenan, hasta la fecha, alrededor de 17.942  ejemplares respectivamente, catalogados e ingresados en una base de datos electrónica y de acceso al público a través del portal Bioweb https://www.bioweb.bio/. 
+Colección permanente: Incluye en su mayoría ejemplares preservados en alcohol etílico, colecciones secas como ejemplares montados, pieles y esqueletos; y esqueletos transparentados que son preservados en glicerina. Actualmente la colección cuenta con un banco de genoma de más de 50 000 copias de tejidos, almacenadas en ultra-congelación a -80 °C. 
+Se encuentran disponibles para investigadores previa autorización del Curador. 
+Colección didáctica: Incluyen ejemplares en buen estado, pero con mínima documentación. Estas colecciones poseen menor valor científico y no han sido ingresados a las colecciones de manera permanente pero son conservadas principalmente con fines educativos, de intercambio o análisis que incluyen técnicas invasivas. Se encuentran disponibles para estudiantes y visitantes previa autorización del Curador.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Para establecer un cotrol de calidad de una colección se recomienda usar el Índice de Salud de las Colecciones propuesta por Simmons &amp; Muñoz (2005). En proceso.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Patente de la Colección de Reptiles del Museo de Zoología QCAZ</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Omar</givenName>
+                    <surName>Torres-Carvajal</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0003-0041-9250</userId>
+                    <role>CURATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Santiago</givenName>
+                    <surName>Ron</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0001-6300-9350</userId>
+                    <role>CURATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Fernando</givenName>
+                    <surName>Ayala</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0002-1029-2081</userId>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Diego</givenName>
+                    <surName>Paucar</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Santiago</givenName>
+                    <surName>Guamán</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <abstract>
+                    <para>A pesar de los esfuerzos realizados hasta ahora, es evidente que la información que los museos de historia natural pueden proveer es inmensurable.  Por otra parte, dada la magnitud de la crisis de biodiversidad y extinciones masivas que ocurren actualmente o se prevéen en las próximas décadas, es necesario fortalecer urgentemente a los museos y sus actividades, antes de que se incrementen las extinciones y se sufra una mayor pérdida de la biodiversidad. 
+Los objetivos de mantener colecciones biológicas en el Museo QCAZ son:
+-Servir de apoyo para investigaciones de reptiles.
+-Salvaguardar de modo permanente muestras representativas (especímenes, tejidos, sonidos, imágenes) y de valor documental de la herpetofauna del Ecuador y de otras regiones de interés.
+-Fomentar la educación mediante exposiciones públicas y medios de comunicación.</para>
+                </abstract>
+                <funding>
+                    <para>Pontificia Universidad Católica del Ecuador</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Las localidades de recolección de especímenes de reptiles de Ecuador incluirán a todo el Ecuador continental y Galápagos. También se incluirán las reservas del Sistema Nacional de Áreas Protegidas, de acuerdo a las autorizaciones de investigación o contratos marco de acceso a recursos genéticos que se hayan emitido.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>La metodología de colecta y transporte de los especímenes es variada y se describe en detalle en las autorizaciones de investigación o contratos marco de acceso a recursos genéticos que se hayan emitido.
+Los protocolos de manejo de los especímenes que llegan a las colecciones del Museo de Zoología son particulares para cada una de ellas. Como ejemplo se pueden revisar las políticas de manejo y los procedimientos para colectas de especímenes de reptiles en el campo, o los procedimientos tras el ingreso de especímenes a la colección en la página web del QCAZR: https://bioweb.puce.edu.ec/QCAZ/contenido/PoliticasReptiles</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:34Z</dateStamp>
+                <citation identifier="https://doi.org/10.60545/a733ub">Torres-Carvajal O (2024). Colección de Reptiles del Museo de Zoología QCAZ. Version 1.1. Pontificia Universidad Católica del Ecuador. Occurrence dataset https://doi.org/10.60545/a733ub accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>http://patrimonio.ambiente.gob.ec/iptmae_test/logo.do?r=patenteqcaz_2022</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>No aplica</parentCollectionIdentifier>
+                    <collectionIdentifier>QCAZR</collectionIdentifier>
+                    <collectionName>Colección de Reptiles del Museo de Zoología de la PUCE</collectionName>
+                </collection>
+                <specimenPreservationMethod>DEEP_FROZEN</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

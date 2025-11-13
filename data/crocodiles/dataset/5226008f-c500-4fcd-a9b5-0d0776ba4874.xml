@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="5226008f-c500-4fcd-a9b5-0d0776ba4874"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/royhlq</alternateIdentifier>
+        <alternateIdentifier>5226008f-c500-4fcd-a9b5-0d0776ba4874</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=geopark_eia-llanos123_flora-fauna</alternateIdentifier>
+        <title>Fauna y Flora del proyecto: Estudio de Impacto Ambiental 2024 en el Área de Desarrollo Llanos 123</title>
+        <creator>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Geocol Consultores S.A</surName>
+            </individualName>
+            <organizationName>Geocol Consultores S.A</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 142 #20-51</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57601)2141666</phone>
+            <electronicMailAddress>gerencia@geocol.com.co</electronicMailAddress>
+            <onlineUrl>https://geocol.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Geocol Consultores S.A</surName>
+            </individualName>
+            <organizationName>Geocol Consultores S.A</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 142 #20-51</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57601)2141666</phone>
+            <electronicMailAddress>gerencia@geocol.com.co</electronicMailAddress>
+            <onlineUrl>https://geocol.com.co/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Dairo</givenName>
+                <surName>Escobar</surName>
+            </individualName>
+            <organizationName>ANDI - CNAB</organizationName>
+            <positionName>Profesional ANDI - CNAB</positionName>
+            <address>
+                <deliveryPoint>Calle 73 # 8 – 13 Piso 7 Torre A</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dairoescobar@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-8327-8670</userId>
+            <role>EDITOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Johanna</givenName>
+                <surName>Velásquez Niño</surName>
+            </individualName>
+            <organizationName>ANDI - CNAB</organizationName>
+            <positionName>Consultora</positionName>
+            <address>
+                <deliveryPoint>Calle 73 # 8 – 13 Piso 7 Torre A</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jvelasqueznino@gmail.com</electronicMailAddress>
+            <role>EDITOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>https://www.geo-park.com/es/</onlineUrl>
+            <role>OWNER</role>
+        </associatedParty>
+        <pubDate>
+                2025-02-14
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El propósito del proyecto es la explotación de yacimientos convencionales de hidrocarburos, actividad que se desea ejecutar, solicitando la modificación de la licencia ambiental exploratoria con el fin de realizar actividades de explotación en el AD Llanos-123.</para><para>En el marco del Estudio de Impacto Ambiental (EIA) del proyecto, se realizó la caracterización del componente biótico asociado al área de influencia del mismo, y por eso se presenta este conjunto de datos compuesto por 19.317 registros biológicos que provienen de las actividades de aprovechamiento forestal, inventario forestal, así como muestreos de fauna y flora que se desarrollaron en el año 2024.</para><para>Los municipios con representación son Cabuyaro y Barranca de Upía del departamento de Meta, Paratebueno de Cundinamarca y Villanueva del departamento de Casanare. El recurso se distribuye taxonómicamente en los reinos Plantae (7.409), Fungi (9.126) y Animalia (2.782).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Monitoreo; Aprovechamiento forestal; Inventario forestal; Transectos; Parcelas permanentes; Puntos de observación; Fauna; Flora; Hongos; Epífitas; Estudio de Impacto Ambiental; EIA; Colombia; Meta; Cundinamarca; Casanare; Llanos123</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=geopark_eia-llanos123_flora-fauna</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El proyecto AD Llanos-123 se ubica en los municipios con representación son Cabuyaro y Barranca de Upía del departamento de Meta, Paratebueno de Cundinamarca y Villanueva del departamento de Casanare.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.174</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.849</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.581</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.254</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2024-04-17
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-05-15
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El recurso taxonómicamente cubre los reinos Plantae (7.409), Fungi (9.126) y Animalia (2.782), que su vez se encuentran divididos en 7 filos, 17 clases, 82 órdenes, 218 familias, 563 géneros y 743 especies. En el reino Plantae, la distribución es de 6 clases, 41 órdenes, 98 familias, 263 géneros y 365 especies. Del total de plantas, un 98% está identificado a nivel de especie y un 2% a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Ulvophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En el reino Fungi, la distribución es de 5 clases, 10 órdenes, 21 familias, 42 géneros y 56 especies. Del total de hongos, el 88% está identificado a nivel de especie, un 9% a nivel de género y 3% a nivel de familia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Dothideomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Agaricomycetes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En el reino Animalia, la distribución es de 6 clases, 31 órdenes, 99 familias, 258 géneros y 322 especies. El 99% de los animales está identificado a nivel de especie y 1% a nivel de género y subespecie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>El propósito del proyecto es la explotación de yacimientos convencionales de hidrocarburos, actividad que se desea ejecutar, solicitando la modificación de la licencia ambiental exploratoria con el fin de realizar actividades de explotación en el AD Llanos-123.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Andrés Leonardo</givenName>
+                <surName>Rodríguez Galvis</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Especialista Biótico</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>anrodriguez@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FLORA: Los sitios fueron elegidos al azar y cumplieron con las condiciones para realizar las parcelas de cada una de las coberturas a ser muestreadas. La caracterización florística realizada sobre el área de influencia fisicobiótica del Área de Desarrollo Llanos 123 se efectuó por medio de 254 unidades de muestreo para los ecosistemas asociados a bosques de galería, palmares, vegetaciones secundarias y pastos limpios, arbolados y enmalezados para las cuales se presenta el punto inicial. Para realizar la caracterización florística de este ecosistema y que fuera representativo para la totalidad del área de influencia, se realizó un muestreo estratificado al azar, obteniendo el promedio de volumen para cada ecosistema inventariado bajo una probabilidad del 95% y un error de muestreo inferior al 15%.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Bosque de Galería helobioma Altillanura, Palmares del Helobioma Villavicencio, Vegetación secundaría alta del helobioma Altillanura, Vegetación secundaría alta del Zonobioma Húmedo Tropical Villavicencio, Pastos arbolados Zonobioma Húmedo Tropical Villavicencio, Pastos enmalezados del Helobioma Villavicencio, Pastos enmalezados del Zonobioma húmedo tropical Villavicencio: Para la caracterización de este ecosistema se realizaron un total de 6 unidades de muestreo, las cuales equivalen a un área de 0,6 ha.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Bosque de Galería Helobioma Casanare: Para la caracterización de este ecosistema se realizaron un total de 12 unidades de muestreo, las cuales equivalen a un área de 1,2 ha.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Vegetación secundaría alta del helobioma Villavicencio, Pastos arbolados del Helobioma Villavicencio, Pastos arbolados Zonobioma Húmedo Tropical Altillanura, Pastos enmalezados del Helobioma Altillanura, Pastos limpios del Helobioma Casanare: Para la caracterización de este ecosistema se realizaron un total de 4 unidades de muestreo, las cuales equivalen a un área de 0,4 ha.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Vegetación secundaría alta del zonobioma húmedo tropical Casanare: Para la caracterización de este ecosistema se realizaron un total de 9 unidades de muestreo, las cuales equivalen a un área de 0,9 ha.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Pastos arbolados del Helobioma Altillanura, Pastos enmalezados Zonobioma húmedo tropical Casanare: Para la caracterización de este ecosistema se realizaron un total de 8 unidades de muestreo, las cuales equivalen a un área de 0,8 ha.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Pastos arbolados Zonobioma Húmedo Tropical Casanare: Para la caracterización de este ecosistema se realizaron un total de 16 unidades de muestreo, las cuales equivalen a un área de 1,6 ha.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Pastos enmalezados del Zonobioma húmedo tropical Altillanura: Para la caracterización de este ecosistema se realizaron un total de 11 unidades de muestreo, las cuales equivalen a un área de 1,1 ha.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Pastos limpios del Helobioma Altillanura: Para la caracterización de este ecosistema se realizaron un total de 7 unidades de muestreo, las cuales equivalen a un área de 0,7 ha.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Pastos limpios del Helobioma Villavicencio: Para la caracterización de este ecosistema se realizaron un total de 12 unidades de muestreo, las cuales equivalen a un área de 1,2 ha.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Pastos limpios del Zonobioma húmedo tropical Altillanura: Para la caracterización de este ecosistema se realizaron un total de 16 unidades de muestreo, las cuales equivalen a un área de 0,67 ha.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Pastos limpios del Zonobioma húmedo tropical Casanare: Para la caracterización de este ecosistema se realizaron un total de 34 unidades de muestreo, las cuales equivalen a un área de 3,4 ha.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Pastos limpios del Zonobioma Húmedo Tropical Villavicencio: Para la caracterización de este ecosistema se realizaron un total de 43 unidades de muestreo, las cuales equivalen a un área de 4,3 ha.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Especies vasculares: La caracterización de las especies vasculares de hábitos epífito y otros hábitos (rupícola y terrestre) se realizó en las seis (6) coberturas de la tierra con presencia de árboles, arbustos y otros sustratos (rupícolas y terrestres) presentes en el Helobioma Altillanura del área de influencia del proyecto. La estimación de la representatividad del muestreo para las especies de hábito epífito se determinó mediante curvas de acumulación de especies para cada una de las coberturas presentes en el bioma (Ecosistemas), por su parte, para las especies de otros hábitos, es decir, rupícola y terrestre, el esfuerzo de muestreo estuvo sujeto a la implementación de mínimo 6 parcelas de 1 x 1 m.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Especies no vasculares: La caracterización de las especies no vasculares de hábitos epífito y otros hábitos (rupícola y terrestre) se realizó en las seis (6) coberturas de la tierra con presencia de árboles, arbustos y otros sustratos (rupícolas y terrestres) presentes en el Helobioma Altillanura del área de influencia Biótica del proyecto. La estimación de la representatividad del muestreo para las especies no vascular de hábito epífito se determinó mediante curvas de acumulación de especies para cada una de las coberturas presentes en el bioma (Ecosistemas), por su parte, para las especies de otros hábitos, es decir, rupícola y terrestre, el esfuerzo de muestreo estuvo sujeto a la implementación de mínimo 6 parcelas de 1x1 m.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FAUNA: La caracterización de la fauna silvestre en el área de influencia se realizó con base en muestreos específicos para cada grupo (aves, mamíferos, reptiles y anfibios), teniendo en cuenta lo planteado en la Metodología General para la Presentación de Estudios Ambientales y el Manual de Métodos para el Desarrollo de Inventarios de Biodiversidad, y bajo el Permiso de Estudio para la Recolección de Especímenes de Especies Silvestres de la Diversidad Biológica con Resolución 2468 del 25 de octubre de 2023.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Herpetofauna (Anfibios y Reptiles): En presente estudio se desarrolló entre el 17 de abril al 11 de mayo de 2024 y se empleó el muestro por transectos, realizando recorridos diurnos y nocturnos entre las 8:00 y 17:00 horas para las especies diurnas y entre las 18:00 y 23:00 horas para las especies nocturnas en diferentes localidades, buscando activamente individuos en todos los lugares posibles: vegetación, hojarasca, debajo de troncos y rocas. El esfuerzo de muestreo para esta técnica fue de 469 horas-hombre en un total de 140 transectos y 27 coberturas de la tierra caracterizadas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Dentro de las labores de campo también se realizaron puntos de observación para coberturas vegetales con poca representatividad de área, en donde la metodología transectos no cumplía con las distancias mínimas requeridas (0-100 m); dentro de esta metodología también se incluyen los registros de herpetos obtenidos de manera fortuita por el equipo de trabajo y que no están enmarcados dentro del desarrollo de los transectos. El esfuerzo de muestreo para esta técnica fue de 10 horas-hombre (28 puntos).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: Para el muestreo de aves se desarrolló entre el 17 de abril al 9 de mayo de 2024, se emplearon tres metodologías con el fin de obtener una amplia diversidad de especies e individuos en el área de influencia. La primera consistió en realizar transectos libres activos en cada una de las coberturas, donde se registraron las aves observadas y escuchadas en un radio no definido. Estos recorridos se llevaron a cabo en dos sesiones diarias: una por la mañana, de 06:00 a 11:00 horas, y otra por la tarde, de 15:00 a 18:00 horas. Para los transectos, se realizó un esfuerzo de muestreo de 176 horas de esfuerzo horas-hombre.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El segundo método de muestreo empleado consistió en puntos de observación fijo con radio indeterminado, los puntos se realizaron por una hora en las diferentes coberturas del área de influencia. En los puntos de observación, se consideró el número de puntos, las horas y las sesiones, obteniendo un esfuerzo de 18 horas-hombre.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El tercer método consistió en instalar siete redes de niebla (2,5 x 12 metros) en cada uno para la captura de aves. Cada una de las aves capturas en redes de niebla fueron identificadas con guías de campo, fotografiadas y posteriormente liberadas. En cuanto a las capturas con redes de niebla, se calculó el esfuerzo de muestreo multiplicando el número de redes, los días y las horas, lo que resultó en un esfuerzo total de 504 redes-horas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: Se realizaron 95 transectos de observación con longitudes de entre 0.2 y 3.8 km, donde se registraron mamíferos terrestres y arborícolas observados o escuchados dentro de un rango de 20 metros a ambos lados del transecto. Se evitó mezclar diferentes tipos de cobertura vegetal, y los recorridos se realizaron en distintos momentos del día. Las huellas se identificaron con la ayuda de guías especializadas y un guía local, asegurando no sobreestimar la abundancia al considerar cada conjunto de huellas encontradas como pertenecientes a un solo registro.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En el área de influencia del AD Llanos 123, se instalaron 18 cámaras trampa Bushnell (Trophycam) de 8 megapíxeles, colocadas en la base de árboles en sitios donde se observaron senderos, huellas u otros rastros de mamíferos. Las cámaras permanecieron activas durante todo el tiempo en los sitios de muestreo, desde su instalación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El muestreo de pequeños mamíferos se llevó a cabo mediante el establecimiento de seis estaciones de muestreo, en cada una se instalaron seis puntos de trampas Sherman y Tomahawk. Cada punto consistió en la instalación de cinco trampas Sherman y una Tomahawk. Esto resulto en un total de 36 trampas Sherman y seis Tomahawk por cada estación de muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se establecieron seis sitios de monitoreo para la captura de murciélagos, instalando en cada uno siete redes de niebla de 2,5 x 12 metros. Durante la ejecución de las actividades de campo, se realizaron observaciones de especies de mamíferos que no siempre coincidieron con los puntos de monitoreo de fauna previamente establecidos. En este contexto, estas observaciones se incorporaron a la base de datos de fauna (GDB) utilizando identificadores de muestreo específicos (PUNTO_OB_1_EIALLA123_JAGPUNTO_OB_11_EIALLA123_JAG.). Estos identificadores corresponden a avistamientos puntuales de mamíferos registrados durante las actividades de campo en lugares al azar. La inclusión de estas observaciones en la GDB es relevante, ya que permite enriquecer el conocimiento sobre la diversidad de mamíferos en la zona, proporcionando información adicional que puede ser valiosa para el análisis de la fauna local.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Encuestas: Como complemento a las técnicas de muestreo descritas, se realizaron 25 encuestas semi estructuradas a pobladores locales del área de influencia del proyecto que tuvieran viviendas cerca de los sitios de muestreo, para indagar acerca de las especies de difícil observación y/o de densidades poblacionales muy bajas en el área, así mismo para conocer los nombres comunes y diferentes usos que le dan a la fauna en su cotidianidad y en algunas prácticas culturales. Para su aplicación, se utilizaron guías ilustradas de los diferentes grupos taxonómicos, teniendo en cuenta información representativa como el nombre común dado a la especie, su frecuencia de observación y el tipo de hábitat en donde había sido observado. Cabe señalar que los datos provenientes de las encuestas solamente se emplearon en la composición de especies, gremios tróficos y especies, pero fueron excluidos de los análisis de representatividad del muestreo, diversidad (alfa y beta) y asociación a coberturas para evitar asignaciones erróneas de patrones ecológicos.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El proyecto AD Llanos-123 se ubica en los municipios con representación son Cabuyaro y Barranca de Upía del departamento de Meta, Paratebueno de Cundinamarca y Villanueva del departamento de Casanare.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>En el marco del Estudio de Impacto Ambiental (EIA) del proyecto, se realizó la caracterización del componente biótico asociado al área de influencia del mismo, y por eso se presenta este conjunto de datos compuesto por 19.317 registros biológicos que provienen de las actividades de aprovechamiento forestal, inventario forestal, así como muestreos de fauna y flora que se desarrollaron en el año 2024.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>En el proceso de estructuración y validación de los datos, se realizó el control de la calidad de la información. A continuación, se enumeran los procesos asociados a esta actividad: 1. Revisión de la información documentada asociada a los datos biológicos; 2. Estructuración de los datos en el estándar Darwin Core (DwC) según elementos, definiciones y vocabularios controlados; 3. Validación y limpieza de la información consignada en el DwC.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Estudio de Impacto Ambiental para la modificación de la licencia ambiental exploratoria con el fin de realizar actividades de explotación en el Área de Desarrollo Llanos 123</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Andrés Leonardo</givenName>
+                    <surName>Rodríguez Galvis</surName>
+                    </individualName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>El propósito del proyecto es la explotación de yacimientos convencionales de hidrocarburos, actividad que se desea ejecutar, solicitando la modificación de la licencia ambiental exploratoria con el fin de realizar actividades de explotación en el AD Llanos-123.</para>
+                </abstract>
+                <funding>
+                    <para>Geopark Colombia S.A.S.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El proyecto AD Llanos-123 se ubica en los municipios con representación son Cabuyaro y Barranca de Upía del departamento de Meta, Paratebueno de Cundinamarca y Villanueva del departamento de Casanare.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Con el fin de dar cumplimiento al contrato de Exploración y Producción de Hidrocarburos E&amp;P  LLA-123 Área Continental, suscrito entre Geopark., y la Agencia Nacional de Hidrocarburos – ANH. La compañía planea iniciar las actividades de explotación en el AD Llanos-123 bajo las etapas, actividades y aspectos ambientales.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:14Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/royhlq">GeoPark Colombia S.A.S., Geocol Consultores S.A (2025). Fauna y Flora del proyecto: Estudio de Impacto Ambiental 2024 en el Área de Desarrollo Llanos 123. Version 1.1. GeoPark Colombia S.A.S. Occurrence dataset https://doi.org/10.15472/royhlq accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-geopark.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

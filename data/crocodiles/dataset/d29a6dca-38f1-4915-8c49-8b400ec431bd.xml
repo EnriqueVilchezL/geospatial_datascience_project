@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="d29a6dca-38f1-4915-8c49-8b400ec431bd"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/7omx2b</alternateIdentifier>
+        <alternateIdentifier>d29a6dca-38f1-4915-8c49-8b400ec431bd</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=geopark_golondrina_flora-fauna</alternateIdentifier>
+        <title>Fauna y Flora del proyecto: Estudio de Impacto Ambiental - EIA para el Área de Desarrollo - AD Golondrina 2022-2024</title>
+        <creator>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>MCS Consultoría y Monitoreo Ambiental S.A.S.</surName>
+            </individualName>
+            <organizationName>MCS Consultoría y Monitoreo Ambiental S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Carrera 17 N° 66-72</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6797855</phone>
+            <electronicMailAddress>mcsconsultoria@mcsconsultoria.com</electronicMailAddress>
+            <onlineUrl>https://www.mcsconsultoria.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>MCS Consultoría y Monitoreo Ambiental S.A.S.</surName>
+            </individualName>
+            <organizationName>MCS Consultoría y Monitoreo Ambiental S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Carrera 17 N° 66-72</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6797855</phone>
+            <electronicMailAddress>mcsconsultoria@mcsconsultoria.com</electronicMailAddress>
+            <onlineUrl>https://www.mcsconsultoria.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <surName>MCS Consultoría y Monitoreo Ambiental S.A.S.</surName>
+            </individualName>
+            <organizationName>MCS Consultoría y Monitoreo Ambiental S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Carrera 17 N° 66-72</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6797855</phone>
+            <electronicMailAddress>mcsconsultoria@mcsconsultoria.com</electronicMailAddress>
+            <onlineUrl>https://www.mcsconsultoria.com/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Dairo</givenName>
+                <surName>Escobar</surName>
+            </individualName>
+            <organizationName>ANDI - CNAB</organizationName>
+            <positionName>Profesional ANDI - CNAB</positionName>
+            <address>
+                <deliveryPoint>Calle 73 # 8 – 13 Piso 7 Torre A</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dairoescobar@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-8327-8670</userId>
+            <role>EDITOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Johanna</givenName>
+                <surName>Velásquez Niño</surName>
+            </individualName>
+            <organizationName>ANDI - CNAB</organizationName>
+            <positionName>Consultora</positionName>
+            <address>
+                <deliveryPoint>Calle 73 # 8 – 13 Piso 7 Torre A</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jvelasqueznino@gmail.com</electronicMailAddress>
+            <role>EDITOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>https://www.geo-park.com/es/</onlineUrl>
+            <role>OWNER</role>
+        </associatedParty>
+        <pubDate>
+                2024-12-24
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El Estudio de Impacto Ambiental (EIA), denominado &amp;#34;ESTUDIO DE IMPACTO AMBIENTAL – EIA PARA EL ÁREA DE DESARROLLO – AD GOLONDRINA&amp;#34;, tiene como objetivo obtener la Licencia Ambiental Global, que permita entre otros aspectos lo siguiente: la conformación del AD Golondrina con una extensión total de 144678,67 ha, y al interior del AD poder realizar las actividades de para la explotación y comercialización de hidrocarburos mediante los métodos convencionales actividades que se desarrollaran a través de cinco grandes estrategias que se simplifican en: Desarrollo de la infraestructura petrolera, suministro energético, Explotación, inyección y optimización de procesos.</para><para>En el marco del Estudio de Impacto Ambiental (EIA) del proyecto, se realizó la caracterización del componente biótico asociado al área de influencia del mismo, y por eso se presenta este conjunto de datos compuesto por 15.086 registros biológicos que provienen de las actividades de aprovechamiento forestal, inventario forestal, así como muestreos de fauna y flora que se desarrollaron entre los años 2022 y 2024.</para><para>Los municipios con representación son Puerto Gaitán y Puerto López, ubicados en el departamento de Meta. El recurso se distribuye taxonómicamente en los reinos Plantae (9.070), Fungi (3.421) y Animalia (2.595).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Monitoreo; Aprovechamiento forestal; Inventario forestal; Transectos; Parcelas permanentes; Puntos de observación; Fauna; Flora; Hongos; Epífitas; Estudio de Impacto Ambiental; EIA; Colombia; Meta; Golondrina</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=geopark_golondrina_flora-fauna</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El proyecto AD Golondrina, se ubica en el departamento de Meta y los municipios: Puerto Gaitán y Puerto López.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.646</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.029</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.433</northBoundingCoordinate>
+                    <southBoundingCoordinate>3.886</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2022-08-13
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-01-20
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El recurso taxonómicamente cubre los reinos Plantae (9.070), Fungi (3.421) y Animalia (2.595), que su vez se encuentran divididos en 5 filos, 17 clases, 80 órdenes, 209 familias, 527 géneros y 609 especies. En el reino Plantae, la distribución es de 7 clases, 37 órdenes, 86 familias, 271 géneros, 297 especies y 1 subespecie. Del total de plantas, un 79% está identificado a nivel de especie y un 21% restante a nivel de género y variedad.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Pinopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Marchantiopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En el reino Fungi, la distribución es de 4 clases, 8 órdenes, 23 familias, 82 géneros y 71 especies. Del total de hongos, el 63% está identificado a nivel de especie y un 37% restante a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Dothideomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En el reino Animalia, la distribución es de 6 clases, 35 órdenes, 100 familias, 244 géneros y 297 especies. El 99% de los animales está identificado a nivel de especie y 1% a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Enfoque integral para desarrollar un único proyecto para la ejecución de la estrategia de desarrollo de los bloques Llanos 86 y Llanos 104 que son colindantes, razón por la cual se inicia el proceso de licenciamiento del “Área de Desarrollo Golondrina”.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Andrés Leonardo</givenName>
+                <surName>Rodríguez Galvis</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Especialista Biótico</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>anrodriguez@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Precampo: Se realizó una revisión de información secundaria en los meses previos a la fase de campo para conocer la fauna silvestre con posible distribución en el departamento del Meta. Se revisaron los conjuntos de datos disponibles en el Sistema de Información sobre Biodiversidad de Colombia (SIB Colombia); adicionalmente se consultaron las colecciones biológicas del Instituto de Ciencias Naturales de la Facultad de Ciencias de la Universidad Nacional de Colombia; y se utilizará el inventario de fauna de CORMACARENA, 2017.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Finalmente se consultaron bases de datos especializadas para cada grupo donde se realizó la confirmación taxonómica y/o de distribución: para el caso de los anfibios se consultó Batrachia la cual brinda información sobre la distribución de la especies en el país y Amphibian Species of the World versión 6.1, la cual brinda información sobre la taxonomía actualizada; con respecto a los reptiles se consultó The Reptile Database133 para corroborar la información taxonómica; para el grupo de las aves se manejó la base de datos de South American Classification Committee (SACC) y, finalmente, para el grupo de los mamíferos, se consultó la base de datos de Mammal Species of the World135 y se siguió lo propuesto por Ramírez-Chávez et al. (2016)136 y Rojas-Díaz et al. (2012).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Adicionalmente, se realizó la validación de los datos de cada una de las especies: Categorías de amenaza a nivel nacional bajo la Resolución 1912 del 15 septiembre de 2017, del Ministerio de Ambiente y Desarrollo Sostenible, y los Libros Rojos de Anfibios, Reptiles, Aves, y Mamíferos; y a nivel global de acuerdo con las categorías referenciadas en la Unión Internacional para la Conservación de la Naturaleza (IUCN). Las regulaciones internacionales del comercio de especímenes contemplados en la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres (CITES). Aspectos de historia natural como rangos de distribución restringida (especies endémicas END y casi endémicas C-END) y hábitos de migración en aves y mamíferos. Las restricciones totales y temporales de la explotación de las especies en un área determinada, con Resoluciones por las cuales se vedan especies de fauna silvestre.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: Para la caracterización del grupo de las aves en el AI AB-B para el AD-Golondrina se realizaron 68 recorridos de observación con una efectividad del 92,647 % (63 recorridos) para temporada seca y 68 recorridos de observación con una efectividad del 76,470 % (52 recorridos) en temporada de lluvia. Se instalación de redes de niebla para avistar a las aves en todas las diferentes coberturas que se observaran. El esfuerzo de muestreo para la época de lluvia fue de 1689,24 h*km-hombre y para la época de seca 1760,36 h*km-hombre. El éxito de captura obtenido en lluvia fue 2,92 ind/hora*km-hombre y seca: 2,23 ind/hora*km-hombre)</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La metodología usada en campo para cada grupo contempló los criterios de la guía “Metodología General para la Elaboración y Presentación de Estudios Ambientales” de 2018, del Ministerio de Ambiente, Vivienda y Desarrollo Territorial, y del “Manual de Métodos para el Desarrollo de Inventarios de Biodiversidad” del Instituto de Investigaciones de Recursos Biológicos Alexander von Humboldt, con el fin de obtener información puntual y exacta de cada una de las especies.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Campo: Información primaria: Para la caracterización de la comunidad faunística se llevaron a cabo dos (2) eventos de muestreo: uno durante la temporada de lluvia y uno durante la temporada seca. En cada uno de los eventos de muestreo se verificaron los sitios con potencial para el asentamiento de fauna y para la instalación de equipos de captura que forman parte de las metodologías propuestas para el censo de fauna silvestre. De esta forma, se ubicaron puntos de muestro y se realizaron recorridos de detección visual y auditiva, teniendo en cuenta la homologación de las coberturas que se presenta en el Área de Desarrollo Golondrina, en función de que la fauna no discrimina entre estratificaciones o tipos de crecimiento.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Herpetofauna: Para los grupos de anfibios y reptiles se utilizó el método VES (Survey Visual Encounter) propuesto por Heyer et al. (1994) y Angulo et al. (206), permitiendo hacer recorridos lineales de ancho variable, en busca de individuos de forma constante, en un tiempo estimado. Los recorridos de observación se efectuaron entre las 6:00 y las 11:00 horas, para el registro de especies diurnas, y entre las 16:00 y las 21:00 horas, para el registro de las especies nocturnas. Se abarcó cada una de las coberturas vegetales identificadas para el área, y en cada una de ellas se verificó cada uno de los estratos y así mismo hacer remoción de material en descomposición tal como hojarasca, vegetación arbustiva y grietas en troncos, entre otros. La determinación taxonómica de los individuos en campo se realizó a partir de claves taxonómicas, guías y textos de divulgación científica tales como: Acosta Galvis y Alfaro-Bejarano (2011), Castro, (2008), Angarita, et al (2013) Aponte, et al, Moreno Arias, et al (2021), Durán-Prieto, et al (2018)152 y Angarita-Sierra, et al (2013).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Avifauna: Para el registro de las aves, se realizó recorridos de detección visual y auditiva en horas de la mañana desde las 5:00 hasta las 11:00 horas y al final del día desde las 15:00 hasta las 17:00 horas, en los cuales se censo cada uno de los individuos detectados a lo largo de las diferentes coberturas vegetales tomando apunte de los datos ecológicos pertinentes, consignando dicha información en formatos de campo específicos para el grupo (Anexo. Ecosistemas_terrestres/Fauna) y de ser posible, el registro fotográfico. Para este grupo, adicionalmente se instalaron redes de niebla (75D/2PLY 15x15mm / 24X24mm / 30x30mm con un metraje de seis (6) m cada una); las cuales fueron instaladas en serie y de manera ininterrumpida 153 en zonas abiertas; y se hizo la georreferenciación de cada una de ellas teniendo en cuenta el sistema de coordenadas CTM12- origen único nacional. El horario de apertura de redes para el grupo de las aves fue desde las 6:00 hasta las 10:00 horas en la mañana y desde las 16:00 hasta las 18:00 horas en la tarde. De los individuos capturados se tomó medidas morfométricas pertinentes para la identificación de la especie, consignando dicha información en formatos específicos y se tomó el debido registro fotográfico. La determinación de las especies de aves se realizó en campo por medio de guías de campo para su identificación taxonómica como Ayerbe-Quiñones (2019)154, Hilty &amp; Brown (2001)155 y McMullan Quevedo &amp; Donegan (2011)156.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mastofauna: Para conocer los mamíferos presentes, se aplicaron cinco (5) metodologías soportadas por los autores Painter, et al. (1999)157, Rabinowitz, (2003)158, y Gallina &amp; López-González, (2011)159, entre otros. A continuación, se describen cada una de ellas:</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Recorridos de observación: Se realizaron recorridos de ancho variable y abarcando la mayor cantidad de área posible. Al momento del avistamiento, se tomó, de ser posible, registro fotográfico y datos ecológicos de los individuos, los cuales se consignaron en formatos de campo específicos. Adicionalmente, durante los recorridos se realizó la búsqueda de rastros, indicios, impresiones de huellas, madrigueras, frutos consumidos con marcas de dentición, garras, ornamentas, restos de pelo y heces fecales, entre otros, los cuales permitieron reportar a las especies que no fue posible observar de forma directa, aportando de esta forma a la lista de riqueza de mamíferos en el área.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Captura con redes de niebla
+Para este grupo, se instalaron redes de niebla (75D/2PLY 15x15mm / 24X24mm / 30x30mm con un metraje de seis (6) m cada una); las cuales fueron instaladas en serie y de manera ininterrumpida en zonas abiertas; y se hará la georreferenciación de cada una de ellas teniendo en cuenta el sistema de coordenadas CTM12- origen único nacional. Para el caso de los mamíferos voladores, las redes serán abiertas en el horario comprendido entre las 18:00 y las 22:00 horas y cada red será revisada cada 30 minutos o más, teniendo en cuenta el éxito de captura. A los individuos capturados se les tomará medidas morfométricas, y se tendrá en cuenta la edad, el sexo y el estado reproductivo de cada individuo, de igual manera, se tomó registro fotográfico de los caracteres diagnósticos. Para su su posterior identificación de las especies se usó la clave de Díaz et al., (2021).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Captura con trampas Sherman: Para el muestreo de los pequeños mamíferos se instalaron trampas Sherman, estas fueron instaladas a nivel del suelo en áreas que presentaron algún tipo de vegetación de bosque o de crecimiento secundario, y fueron dispuestas en secuencia con una separación aproximada de 5 m; adicionalmente, cubiertas con hojarasca para su camuflaje con el fin incrementar el éxito de captura. Se implementaron dos tipos de cebos, uno dulce que consistió en una mezcla de avena en hojuelas, banano y emulsión de Scott y uno salado usando sardinas y atún. Las trampas serán instaladas en los puntos establecidos, durante dos (2) noches y se revisaron y recebaron (cuando sea necesario) diariamente en las horas de la mañana. Los individuos capturados fueron sexados, pesados, medidos (cuando sea posible), fotografiados y liberados. La determinación se realizó a través de la búsqueda bibliográfica en Patton et al. 2015161 y la guía de campo de los mamíferos del Ecuador Tirira (2017)especializadas para este grupo de fauna.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Captura con trampas Tomahawk: Para la captura de mamíferos de tamaño mediano y grande, se instalaron trampas Tomahawk, cada trampa fue cebada con atrayentes como sardinas, menudencias de pollo y frutas (banano, guayaba o mango), siendo clave la utilización de distintos cebos para atraer especies con diferentes hábitos alimenticios. Las trampas se ubicarán en coberturas de bosque y en zonas con crecimiento secundario, en caminos de tránsito de fauna o en lugares donde se camuflarán fácilmente; cada una será instalada durante dos (2) noches por punto de muestreo y revisadas y recebadas (cuando sea necesario) diariamente en las horas de la mañana.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los individuos capturados fueron sexados, pesados, medidos (cuando fue posible), fotografiados y liberados. La determinación se realizará a través de la búsqueda bibliográfica en el manual para el rastreo de mamíferos silvestres de México, Aranda (2012) y el libro Zarigüeyas, marmosas y colicortos en Colombia de Flórez &amp; Vivas (2020).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Instalación de cámaras trampa: Se instalaron cámaras trampa Bushnell Trophy Cam XLT HD, en zonas que presenten vegetación arbórea o arbustiva asociada con rastros de comederos, senderos, madrigueras, registro de algún individuo de forma visual o por información de habitantes de la zona. Cada cámara fue instalada mínimo a 20 cm del suelo aproximadamente y buscando que el ángulo fuera lo más abierto posible para así tener una mayor área de captura. Finalmente, cada cámara instalada fue debidamente georreferenciada y adicionalmente se realizó una descripción del lugar de instalación para futuros análisis ecológicos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Métodos complementarios: Como método complementario se realizaron encuestas a la comunidad local, teniendo en cuenta éstas como técnica indirecta para registrar información valiosa acerca de las especies con hábitos estacionales y que por algún motivo no se pudieron observar directamente durante la fase de campo. Las encuestas indagaron sobre los nombres comunes de las especies, el valor económico o cultural, los hábitats frecuentados, las épocas del año en las que se observan, las abundancias que han sido observadas, posibles usos dados por la comunidad e información adicional. Para la implementación de este método se contó con la ayuda de un catálogo de identificación de especies que contiene fotografías de las especies pertenecientes a los grupos faunísticos de interés (anfibios, reptiles, aves y mamíferos) que se encuentran potencialmente distribuidas en la región. Las especies identificadas y la información recopilada por medio de las encuestas serán registradas en formatos de campo específicos para tal fin</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fase Poscampo: Para los análisis de los datos obtenidos en campo durante el monitoreo de fauna, se elaboró una base de datos organizada para cada grupo evaluado, teniendo en cuenta la información taxonómica actualizada de las especies registradas, metodologías aplicadas y la información biológica y ecológica verificada de cada una de ellas. Para esta base de datos organizada se tiene en cuenta la información de las especies ya recopilada.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El AD Golondrina, se encuentra localizada en el departamento del Meta, en los municipios de Puerto López y Puerto Gaitán, cuya área a licenciar es de 144678,67 ha, la cual se delimita por 56 vértices.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>En el marco del Estudio de Impacto Ambiental (EIA) del proyecto, se realizó la caracterización del componente biótico asociado al área de influencia del mismo, y por eso se presenta este conjunto de datos compuesto por 15.086 registros biológicos que provienen de las actividades de aprovechamiento forestal, inventario forestal, así como muestreos de fauna y flora que se desarrollaron entre los años 2022 y 2024.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>En el proceso de estructuración y validación de los datos, se realizó el control de la calidad de la información. A continuación, se enumeran los procesos asociados a esta actividad: 1. Revisión de la información documentada asociada a los datos biológicos; 2. Estructuración de los datos en el estándar Darwin Core (DwC) según elementos, definiciones y vocabularios controlados; 3. Validación y limpieza de la información consignada en el DwC.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Estudio de Impacto Ambiental - EIA para el Área de Desarrollo - AD Golondrina</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Andrés Leonardo</givenName>
+                    <surName>Rodriguéz Galvis</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>El Estudio de Impacto Ambiental (EIA), denominado &quot;ESTUDIO DE IMPACTO AMBIENTAL – EIA PARA EL ÁREA DE DESARROLLO – AD GOLONDRINA&quot;, tiene como objetivo obtener la Licencia Ambiental Global, que permita entre otros aspectos lo siguiente: la conformación del AD Golondrina con una extensión total de 144678,67 ha, y al interior del AD poder realizar las actividades de para la explotación y comercialización de hidrocarburos mediante los métodos convencionales actividades que se desarrollaran a través de cinco grandes estrategias que se simplifican en: Desarrollo de la infraestructura petrolera, suministro energético, Explotación, inyección y optimización de procesos.</para>
+                </abstract>
+                <funding>
+                    <para>Geopark Colombia S.A.S.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El AD Golondrina, se encuentra localizada en el departamento del Meta, en los municipios de Puerto López y Puerto Gaitán, cuya área a licenciar es de 144678,67 ha, la cual se delimita por 56 vértices.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>GeoPark mediante el presente Estudio de Impacto Ambiental – EIA solicita ante la ANLA la Licencia Ambiental Global para el proyecto denominado “Área de Desarrollo – AD Golondrina”, el cual fue elaborado de acuerdo con la normatividad ambiental vigente: el Decreto 1076 del 26 de mayo de 2015 del Ministerio de Ambiente y Desarrollo Sostenible – MADS y modificado por el Decreto 1585 del 2 de diciembre de 2020, la Metodología General para la Presentación y Elaboración de estudios ambientales de 2018, acogida por la Resolución 1402 del 25 de julio de 2018 del Ministerio de Ambiente y Desarrollo Sostenible - MADS y los Términos de Referencia HI-TER-1-03, acogidos bajo la Resolución 1543 del 06 de agosto de 2010, del entonces Ministerio de Ambiente, Vivienda y Desarrollo Territorial –MAVDT hoy MADS para la elaboración del Estudio de Impacto Ambiental para los proyectos de explotación de hidrocarburos.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:54Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/7omx2b">GeoPark Colombia S.A.S., MCS Consultoría y Monitoreo Ambiental S.A.S. (2024). Fauna y Flora del proyecto: Estudio de Impacto Ambiental - EIA para el Área de Desarrollo - AD Golondrina 2022-2024. Version 1.1. GeoPark Colombia S.A.S. Occurrence dataset https://doi.org/10.15472/7omx2b accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation identifier="http://www.biovirtual.unal.edu.co">Instituto de Ciencias Naturales, Facultad de Ciencias, Universidad Nacional de Colombia (2004 y continuamente actualizado). Colecciones en Línea. Publicado en Internet http://www.biovirtual.unal.edu.co [8 de abril de 2022].</citation>
+                <citation identifier="http://www.batrachia.com">ACOSTA GALVIS, A. R. 2022. Lista de los Anfibios de Colombia: Referencia en linea V.12.2022 (11 de abril de 2022). Página web accesible en http://www.batrachia.com; Batrachia, Villa de Leyva, Boyacá, Colombia.</citation>
+                <citation identifier="doi.org/10.5531/db.vz.0001">FROST, DARREL R. 2021. Amphibian Species of the World: an Online Reference. Version 6.1 (11 de abril de 2022). Electronic Database accessible at https://amphibiansoftheworld.amnh.org/index.php. American Museum of Natural History, New York, USA. doi.org/10.5531/db.vz.0001</citation>
+                <citation identifier="http://www.reptile-database.org">UETZ, P., FREED, P, AGUILAR, R. &amp; HOŠEK, J. (eds.) (2021) The Reptile Database, http://www.reptile-database.org, accessed [11 de abril de 2022]</citation>
+                <citation identifier="http://www.museum.lsu.edu/~Remsen/SACCBaseline.htm">REMSEN, J. V., JR., J. I. ARETA, E. BONACCORSO, S. CLARAMUNT, A. JARAMILLO, D. F. LANE, J. F. PACHECO, M. B. ROBBINS, F. G. STILES, AND K. J. ZIMMER. Version febrero de 2022. A classification of the bird species of South America. American Ornithological Society. http://www.museum.lsu.edu/~Remsen/SACCBaseline.htm</citation>
+                <citation identifier="http://www.press.jhu.edu">DON E. WILSON &amp; DEEANN M. REEDER (editores). 2005. Especies de mamíferos del mundo. Una referencia taxonómica y geográfica (3.ª ed.), Johns Hopkins University Press, 2142 págs. (Disponible en Johns Hopkins University Press, 1-800-537-5487 o (410) 516-6900, o en http://www.press.jhu.edu).</citation>
+                <citation>RAMÍREZ-CHAVEZ, H.E., et al. (2016). Cambios recientes a la lista de los mamíferos de Colombia. En: Mammalogy Notes. vol. 3 no. 1, p. 1-9.</citation>
+                <citation>ROJAS-DÍAZ, V., REYES-GUTIÉRREZ, M., &amp; ALBERICO, M. S. (2012). Mamíferos (Synapsida, Theria) del Valle del Cauca, Colombia. Biota Colombiana, 13(1), 99-116.</citation>
+                <citation>RUEDA-ALMONACID, J. V., LYNCH, J. D. &amp; AMÉZQUITA, A. (Eds.). (2004). Libro rojo de anfibios de Colombia. Serie Libros Rojos de Especies Amenazadas de Colombia. Conservación Internacional Colombia, Instituto de Ciencias Naturales – Universidad Nacional de Colombia, Ministerio del Medio Ambiente. Bogotá, Colombia. 384 pp.</citation>
+                <citation>MORALES-BETANCOURT, M. A., C. A. LASSO, V. P. PÁEZ Y B. C. BOCK. (2015). Libro rojo de reptiles de Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH), Universidad de Antioquia. Bogotá, D. C., Colombia. 258 pp.</citation>
+                <citation>RENJIFO, L. M., GÓMEZ, M. F., VELÁSQUEZ-TIBATÁ, J., AMAYA-VILLARREAL, A. M., KATTAN, G. H., AMAYA-ESPINEL, J. D., Y BURBANOGIRÓN, J. (2014). Libro rojo de aves de Colombia, Volumen I: bosques húmedos de los Andes y la costa Pacífica. Editorial Pontificia Universidad Javeriana e Instituto Alexander von Humboldt. Bogotá D.C., Colombia.</citation>
+                <citation>RENJIFO, L. M., AMAYA-VILLARREAL, A. M., BURBANO-GIRÓN, J., Y VELÁSQUEZ-TIBATÁ, J., (2016). Libro rojo de aves de Colombia, Volumen II: Ecosistemas abiertos, secos, insulares, acuáticos continentales, marinos, tierras altas del Darién y Sierra Nevada de Santa Marta y bosques húmedos del centro, norte y oriente del país. Editorial Pontificia Universidad Javeriana e Instituto Alexander von Humboldt. Bogotá, D.C., Colombia.</citation>
+                <citation>RODRÍGUEZ-M., J. V., ALBERICO, M., TRUJILLO, F. &amp; JORGENSON, J. (Eds.). (2006). Libro Rojo de los Mamíferos de Colombia. Serie Libros Rojos de Especies Amenazadas de Colombia. Conservación Internacional Colombia, Instituto de Ciencias Naturales – Universidad Nacional de Colombia, Ministerio del Medio Ambiente. Bogotá, Colombia. 384 pp.</citation>
+                <citation identifier="https://www.iucnredlist.org">IUCN. 2021. The IUCN Red List of Threatened Species. Version 2021-3. https://www.iucnredlist.org. Accessed on [abril de 2022].</citation>
+                <citation>NARANJO, L. G., AMAYA, J. D., EUSSE-GONZÁLEZ, D. &amp; CIFUENTES-SARMIENTO, Y. (EDITORES). (2012). Guía de las Especies Migratorias de la Biodiversidad en Colombia. Aves. Vol. 1. Ministerio de Ambiente y Desarrollo Sostenible / WWF Colombia. Bogotá, D.C. Colombia. 708 p.</citation>
+                <citation>AMAYA-ESPINEL, J. D. &amp; L. A. ZAPATA (editores). (2014). Guía de las especies migratorias de la biodiversidad en Colombia: Insectos, murciélagos, tortugas marinas, mamíferos marinos y dulceacuícolas. Volumen 3. Ministerio de Ambiente y Desarrollo Sostenible y WWF-Colombia. Bogotá, D.C. Colombia. P. 370.</citation>
+                <citation>COLOMBIA. MINISTERIO DE AMBIENTE, VIVIENDA Y DESARROLLO TERRITORIAL. (2018). Metodología general para la elaboración y presentación de estudios ambientales / ZAPATA, D. M. &amp; LONDOÑO, C. A. et al. (Eds.) GONZÁLEZ, C. V. et al. (Textos). Bogotá, D.C.: Colombia. Ministerio de Ambiente, Vivienda y Desarrollo Territorial. 228 p</citation>
+                <citation>VILLAREAL, H., et al. (2006). Manual de métodos para el desarrollo de inventarios de biodiversidad. 2 ed. Bogotá: Programa de Inventarios de Biodiversidad. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. p. 93.</citation>
+                <citation>HEYER, W. R. et al. (Eds.). (1994). Measuring and monitoring biological diversity-standard methods for amphibians. Smithsonian Institute Press, Washington, DC. 364 p.</citation>
+                <citation>ANGULO, A. et al. (2006). Técnicas de inventario y monitoreo para los anfibios de la región tropical andina. Bogotá: Conservación Internacional. 299 p.</citation>
+                <citation>Aponte, A. F., Arias, A., Niño, L., López, C. A., &amp; Lynch, J. D. RIQUEZA Y DIVERSIDAD DE ANFIBIOS Y REPTILES DEL TERRITORIO SABANAS Y HUMEDALES DE ARAUCA, COLOMBIA.</citation>
+                <citation>Moreno Arias, R. Á., Velasco, J. A., Urbina Cardona, J. N., Cárdenas-Arévalo, G., Medina Rangel, G. F., Gutiérrez Cárdenas, P. D. A., ... &amp; Noguera-Urbano, E. Atlas de la biodiversidad de Colombia. Anolis. Moreno-Arias, RA et al. (2021). Atlas de la biodiversidad de Colombia. Anolis. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá DC, Colombia. 72 pp.</citation>
+                <citation>Durán-Prieto, C., Lasso, C. A., Morales-Betancourt, M. A., &amp; Rojas-Runjaic, F. J. (2018). Reptiles del Escudo Guayanés en Colombia. En Lasso, CA &amp; Señaris, JC (Eds.), 6, 151-177.</citation>
+                <citation>VILLAREAL, H., ÁLVAREZ, M., CÓRDOBA, S., ESCOBAR, F., FAGUA, G., GAST, H., UMAÑA, A. M. (2004). Manual de métodos para el desarrollo de inventarios de la Biodiversidad. Bogotá: Instituto de Investigación de Recursos Biológicos Alexander von Humboltd.</citation>
+                <citation>AYERBE-QUIÑONES, F. (2019). Guía ilustrada de la avifauna colombiana. Wildlife Conservation Society, Bogotá, Colombia.</citation>
+                <citation>HILTY, S. L., &amp; BROWN, W. L. (2001). Guía de las Aves de Colombia. American Bird Conservancy, Imprelibros SA.</citation>
+                <citation>MCMULLAN, M., QUEVEDO, A., &amp; DONEGAN, T. M. (2011). Guía de campo de las aves de Colombia. ProAves.</citation>
+                <citation>PAINTER, L., et al. (1999) Técnicas de investigación para el manejo de fauna silvestre: Un manual del curso dictado con motivo del III Congreso Internacional sobre Manejo de Fauna Silvestre en la Amazonía, Santa Cruz de la Sierra, Bolivia. USAID, Bolivia. 81 p.</citation>
+                <citation>RABINOWITZ, A.R. (2003). Manual de capacitación para la investigación de campo y la conservación de la vida silvestre. 1 ed. Bolivia: Editorial FAN. 327 p.</citation>
+                <citation>GALLINA, S. &amp; LÓPEZ-GONZÁLEZ, C. (Eds). (2011). Manual de técnicas para el estudio de la fauna. Universidad Autónoma de Querétaro-Instituto de Ecología A.C. Querétaro, México. vol. 1, 377 p.</citation>
+                <citation>DÍAZ, M. M., SOLARI, S., GREGORIN, R., AGUIRRE, L. F., &amp; BARQUEZ, R. M. (2021). Clave de identificación de los murciélagos neotropicales.</citation>
+                <citation>PATTON, J. L., et al. (eds). (2015). Mammals of South America Volume 2. Rodents. The University of Chicago Press</citation>
+                <citation>TIRIRA, D. G. (2017): ¨Guia de Campo de los Mamíferos del Ecuador¨. 2a. ed. Ediciones Murcielago blanco. Publicación Especial sobre los Mamíferos del Ecuador 11, pp 600.</citation>
+                <citation>ARANDA, J.M. (2012). Manual para el rastreo de mamíferos silvestres de México. Editorial Impresora Apolo, S.A. de C.V. México. 255 pp.</citation>
+                <citation>FLÓREZ-OLIVEROS F.J., VIVAS-SERNA C., 2020. Zarigüeyas (chuchas comunes), marmosas y colicortos en Colombia. Fundación Zarigüeya – FUNDZAR, Medellín, Colombia. 264 pp</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-geopark.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

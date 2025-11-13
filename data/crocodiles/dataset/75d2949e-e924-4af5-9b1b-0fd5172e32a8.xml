@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="75d2949e-e924-4af5-9b1b-0fd5172e32a8"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/ka0pks</alternateIdentifier>
+        <alternateIdentifier>75d2949e-e924-4af5-9b1b-0fd5172e32a8</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=registros_fauna_campo_hurones_nunchia_casanare</alternateIdentifier>
+        <title>Inventario y evaluación de fauna silvestre en el campo de exploración petrolera Niscota Sur</title>
+        <creator>
+            <individualName>
+                <givenName>Victoria Andrea</givenName>
+                <surName>Barrera Zambrano</surName>
+            </individualName>
+            <organizationName>Asociación de Becarios de Casanare</organizationName>
+            <positionName>Directora de conservación y soberanía ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 39 # 15 -35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dir.investigacionrn@abccolombia.org</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Victoria Andrea</givenName>
+                <surName>Barrera Zambrano</surName>
+            </individualName>
+            <organizationName>Asociación de Becarios de Casanare</organizationName>
+            <positionName>Directora de conservación y soberanía ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 39 # 15 -35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dir.investigacionrn@abccolombia.org</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Victoria Andrea</givenName>
+                <surName>Barrera Zambrano</surName>
+            </individualName>
+            <organizationName>Asociación de Becarios de Casanare</organizationName>
+            <positionName>Directora de conservación y soberanía ambiental</positionName>
+            <address>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dir.investigacionrn@abccolombia.org</electronicMailAddress>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Cesar</givenName>
+                <surName>Villamil</surName>
+            </individualName>
+            <organizationName>Independiente</organizationName>
+            <positionName>Investigador independiente</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Daniela</givenName>
+                <surName>García</surName>
+            </individualName>
+            <organizationName>Independiente</organizationName>
+            <positionName>Investigador independiente</positionName>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Luis</givenName>
+                <surName>Arcos Franco</surName>
+            </individualName>
+            <organizationName>Independiente</organizationName>
+            <positionName>Investigador independiente</positionName>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Beatriz</givenName>
+                <surName>Ramirez</surName>
+            </individualName>
+            <organizationName>Asociación de Becarios de Casanare</organizationName>
+            <positionName>Asesora Investigación</positionName>
+            <address>
+                <city>Yopal</city>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>be.ramir@gmail.com</electronicMailAddress>
+            <role>PROCESSOR</role>
+        </associatedParty>
+        <pubDate>
+                2019-06-04
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Este proyecto surge en respuesta a un compromiso de la compañía petrolera Equión Energy Limited en su licencia del bloque petrolero Niscota Sur
+        </abstract>
+        <keywordSet>
+            <keyword>mamíferos</keyword>
+            <keyword>anfibios y reptiles</keyword>
+            <keyword>Piedemonte Casanareño</keyword>
+            <keyword>aves</keyword>
+            <keywordThesaurus>NA</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=registros_fauna_campo_hurones_nunchia_casanare</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Este estudio se llevo a cabo dentro del campo de Exploración y Explotación Niscota Sur, en jurisdicción  del Municipio de Nunchia. Sin embargo, existe en la zona un área en litigio entre los municipios de Nunchía (Casanare) y Paya (Boyacá) de acuerdo al Memorando 3080 de IGAC en respuesta a la Resolución 704 del 11-09-2009 sobre deslinde Boyacá-Paya y Casanare-Nunchía. Por esta razón algunos puntos de muestreo salen como si pertenecieran al municipio de Paya, Boyacá. El área de estudio pertenece a la macrocuenca del Orinoco, en la región biogeográfica de Apure – Villavicencio, ecoregiones Húmeda de Piedemonte y bosques montanos de al cordillera oriental. El Piedemonte  se constituye como una zona de transición entre la llanura y la Cordillera Oriental, y está formado por la acumulación heterogénea de materiales producidos por la erosión y el levantamiento de la cordillera. El régimen de lluvias es unimodal, con un periodo seco entre diciembre y marzo y una época de lluvias entre abril y noviembre. La precipitación anual en el municipio de Nunchía oscila entre los 2500 y 3000 mm anuales. La temperatura media anual es de 26.1°C.  Dadas las altas pendientes y las características de sus suelos,  la mayoría de las zonas de piedemonte tiene una vocación forestal de conservación, sin embargo, los ecosistemas naturales se encuentran fuertemente intervenidos por actividades agropecuarias. El muestreo se realizó en seis veredas del municipio (Vega del Tacare, Piedecuesta, La Capilla, Maguito, Vijagual, San Martín), en diferentes coberturas vegetales  durante 23 días en la temporada de lluviasde abril a mayo de 2018. El número de días por vereda variaba entre tres a cinco días, dependiendo del clima y la presencia de lluvias.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.351</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.228</eastBoundingCoordinate>
+                    <northBoundingCoordinate>5.615</northBoundingCoordinate>
+                    <southBoundingCoordinate>5.535</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2018-04-23
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2018-05-24
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Se abarcaron las clases: Aves, Mammalia, Amphibia, Reptilia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                    <commonName>aves</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                    <commonName>mamíferos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                    <commonName>anfibios</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                    <commonName>reptiles</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Victoria Andrea</givenName>
+                <surName>Barrera Zambrano</surName>
+            </individualName>
+            <organizationName>Asociación de Becarios de Casanare</organizationName>
+            <positionName>Directora de conservación y soberanía ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 39 # 15 -35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dir.investigacionrn@abccolombia.org</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Anfibios y reptiles: Se realizaron muestreos diurnos de 8:00 am a 12:00 pm, y  muestreos nocturnos se ejecutaron de 6:00 pm a 10:00 pm. El trabajo de campo total tuvo un esfuerzo de muestreo de 242 horas/hombre. Para la determinación y clasificación se tuvieron en cuenta los cambios taxonómicos propuestos recientemente para la familia Hylidae (Duellman, Marion, &amp; Hedges, 2016). Para el resto de las familias de anfibios se empleó la taxonomía sugerida por Frost (2018). En serpientes se estableció la clasificación taxonomía propuesta por Peters &amp; Orejas-Miranda (1970) y para lagartos se siguieron las claves taxonómicas realizadas por Ayala (1986). Finalmente, para la identificación de tortugas y cocodrilos se utilizó la taxonomía establecida por Rueda-Almoacid et al., (2007)
+Aves: El muestreo con redes se realizó entre las 6:00 y las 12:00 horas, y entre las 15:00 y las 19:00 horas. En cada punto de monitoreo se instalaron 10 redes de niebla estándar: dos redes de (6 x2.5 m, 32 mm de ojo de malla), 4 redes de (12x2.5 m, 32 mm de ojo de malla) y 4 redes de (15x2.5 m, 32 mm de ojo de malla), para un total de 120 metros de redes de niebla. En total el esfuerzo de muestreo fue de 820 h/red. Se implementó el método de transectos de observación con desplazamientos a pie de forma constante en senderos establecidos por el investigador y abarcando las diferentes coberturas vegetales del área de estudio donde se registró la avifauna sin considerar un ancho fijo de observación. El total del esfuerzo de muestreo en los transectos fue de 49.9 km. 
+Mastofauna: Se emplearon redes de niebla, foto trampeo y recorridos de observación en los cuales se buscaba heces, huellas, pelos, rastros o los individuos directamente. Para la captura de quirópteros se emplearon 10 redes de niebla de 6 y 15 metros de manera ad libitum, estas redes se monitoreaban cada 20 - 30 minutos, dependiendo el éxito de captura  desde las 18:00 pm hasta las 23:00. El esfuerzo de muestreo con redes fue de 900 horas/red. Se instalaron 8 cámaras trampas de manera ad libitum, Las cámaras fueron programadas para capturar imágenes y estar activas durante 24 horas por los días de muestreo (3 o 4 días en cada zona). El esfuerzo de muestreo para las cámaras trampa fue de 3456 trampas/día</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El muestreo se realizó en seis veredas del municipio de Nunchía, Casanare (Vega del Tacare, Piedecuesta, La Capilla, Maguito, Vijagual, San Martín), en diferentes coberturas vegetales  (bosques secundarios, riparios, rastrojos) durante 23 días en la temporada de lluviasde abril a mayo de 2018. El número de días por vereda variaba entre tres a cinco días, dependiendo del clima y la presencia de lluvias.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Anfibios y reptiles: La técnica para el monitoreo de los anfibios y reptiles utilizada fue una búsqueda de revelamiento por muestreo visual (REV), también conocida como VES por sus siglas en inglés (Survey Visual Encounter). Este método de muestreo tiene en cuenta el número de individuos de las especies presentes en un periodo de tiempo determinado. Se realizaron muestreos diurnos de 8:00 am a 12:00 pm, con el fin de registrar lagartos y serpientes diurnas. Por otro lado, los muestreos nocturnos se ejecutaron de 6:00 pm a 10:00 pm para optimizar el encuentro de anfibios vocalizando y serpientes nocturnas forrajeando, pues se conoce que durante estas horas hay un pico de actividad en numerables especies. Sin embargo, no siempre se lograba cumplir con las horas establecidas, dadas  las fuertes lluvias de esta época . El trabajo de campo total tuvo un esfuerzo de muestreo de 242 horas/hombre
+Aves: El muestreo se realizó durante el mes de abril y mayo del 2018. El muestreo con redes se realizó en horas de  mayor actividad de las aves, es decir, en las primeras horas de la mañana y hacia el final de la tarde entre las 6:00 y las 12:00 horas, y entre las 15:00 y las 19:00 horas. En cada punto de monitoreo se instalaron 10 redes de niebla estándar: dos redes de (6 x2.5 m, 32 mm de ojo de malla), 4 redes de (12x2.5 m, 32 mm de ojo de malla) y 4 redes de (15x2.5 m, 32 mm de ojo de malla), para un total de 120 metros de redes de niebla. Las redes fueron instaladas en diferentes coberturas vegetales y dependiendo del nivel de tránsito de las aves, se dispusieron de forma consecutiva o interrumpida, como en aquellos casos en que se tuviera más de un tipo de cobertura vegetal por sitio de muestreo o que se observara mayor afluencia de aves en puntos alejados entre sí. Los lugares más idóneos para la instalación de las redes de niebla fueron el interior y en los bordes de la vegetación secundaria o en transición. En total el esfuerzo de muestreo fue de 820 h/red. Se implementó el método de transectos de observación con desplazamientos a pie de forma constante en senderos establecidos por el investigador y abarcando las diferentes coberturas vegetales del área de estudio donde se registró la avifauna sin considerar un ancho fijo de observación. El total del esfuerzo de muestreo en los transectos fue de 49.9 km. 
+A partir de los datos obtenidos en campo, para la determinación de los individuos del componente de avifauna  se empleó la guía de las aves de Colombia (Hilty &amp; Brown, 2009), la guía de campo de las aves de Colombia  (McMullan &amp; Donegan, Field Guide to the Birds of Colombia, 2014) y  Birds of Northern South America: An Identification Guide (Restall, 2007). La taxonomía de las especies se estableció de acuerdo la información propuesta por la  “Classification of the Bird Species of South America American Ornithologists” última actualización 1 de marzo 2018
+Mastofauna: Se emplearon redes de niebla, foto trampeo y recorridos de observación en los cuales se buscaba heces, huellas, pelos, rastros o los individuos directamente. Para la captura de quirópteros se emplearon 10 redes de niebla de 6 y 15 metros de manera ad libitum, e intentando abarcar y ocupar la mayoría de las coberturas presentes en la zona de estudio, estas redes se monitoreaban cada 20 - 30 minutos, dependiendo el éxito de captura  desde las 18:00 pm hasta las 23:00. El esfuerzo de muestreo con redes fue de 900 horas/red. Se instalaron 8 cámaras trampas de manera ad libitum, dentro de las coberturas de la zona, para esto se ubicaron sitios específicos como madrigueras, senderos, rondas de agua, pastizales, árboles enraizados o posibles comederos, sitios específicos determinados como potenciales corredores de fauna. Las cámaras fueron programadas para capturar imágenes y estar activas durante 24 horas por los días de muestreo (3 o 4 días en cada zona). El esfuerzo de muestreo para las cámaras trampa fue de 3456 trampas/día</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="FF_Nunchía">
+                <title>Inventario y evaluación de fauna silvestre en el campo de exploración petrolera Niscota Sur</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Victoria Andrea</givenName>
+                    <surName>Barrera Zambrano</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para>Este proyecto surge en respuesta a un compromiso de la compañía petrolera Equión Energy Limited en su licencia del bloque petrolero Niscota Sur</para>
+                </abstract>
+                <funding>
+                    <para>Equión Energy Limited</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El muestreo se realizó en seis veredas del municipio de Nunchía, Casanare (Vega del Tacare, Piedecuesta, La Capilla, Maguito, Vijagual, San Martín), en diferentes coberturas vegetales  (bosques secundarios, riparios, rastrojos) durante 23 días en la temporada de lluviasde abril a mayo de 2018. El número de días por vereda variaba entre tres a cinco días, dependiendo del clima y la presencia de lluvias.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:32Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/ka0pks">Barrera Zambrano V A (2019). Inventario y evaluación de fauna silvestre en el campo de exploración petrolera Niscota Sur. Version 2.1. ABC Colombia Somos Territorio. Occurrence dataset https://doi.org/10.15472/ka0pks accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://ipt.biodiversidad.co/sib/logo.do?r=registros_fauna_campo_hurones_nunchia_casanare</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

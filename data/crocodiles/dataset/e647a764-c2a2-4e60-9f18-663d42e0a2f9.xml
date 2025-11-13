@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="e647a764-c2a2-4e60-9f18-663d42e0a2f9"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/iqxcw3</alternateIdentifier>
+        <alternateIdentifier>e647a764-c2a2-4e60-9f18-663d42e0a2f9</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=parex_vim43-sismica</alternateIdentifier>
+        <title>Biodiversidad asociada al programa sísmico 3D del Bloque VIM-43</title>
+        <creator>
+            <individualName>
+                <surName>Parex Resources (Colombia) AG Sucursal</surName>
+            </individualName>
+            <organizationName>Parex Resources (Colombia) AG Sucursal</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Cl. 113 #7 21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>MCS Consultoria y Monitoreo Ambiental S.A.S</surName>
+            </individualName>
+            <organizationName>MCS Consultoria y Monitoreo Ambiental S.A.S</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Cra. 17 #166 72</deliveryPoint>
+                <city>Bogotá, D.C</city>
+                <administrativeArea>Bogotá, D.C</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6016797855</phone>
+            <electronicMailAddress>gerencia@mcsconsultoria.con</electronicMailAddress>
+            <onlineUrl>http://mcsconsultoria.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Parex Resources (Colombia) AG Sucursal</surName>
+            </individualName>
+            <organizationName>Parex Resources (Colombia) AG Sucursal</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Cl. 113 #7 21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </metadataProvider>
+        <pubDate>
+                2023-12-11
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Muestreo realizado en el Área de Influencia del Proyecto Medidas de Manejo Ambiental – MMA para el programa sísmico 3D, del bloque VIM-43 y corresponde a la información recopilada en campo de los componentes Fauna y Flora. Para la Fauna silvestre (Aves, Mamíferos, Reptiles y Anfibios) se realiza recorridos de observación y no se realiza colecta de especímenes; mientras que para la Flora presente en el lugar si se realiza recolección de material biológico para ser identificado en herbarios nacionales.
+
+Del 08 al 10 de julio de 2021 se realizó el monitoreo hidrobiológico de Fitoplancton, zooplancton, perifiton, macrófitas, macroinvertebrados bentónico e Ictiofauna en cinco (5) puntos de monitoreo, ubicados en los municipios del Pivijay, departamento del Magdalena, entre las coordenadas: latitud decimal 10.3465193 / 10.5462834 y longitud decimal -74.4589578 / -74.2703816.
+        </abstract>
+        <keywordSet>
+            <keyword>Zooplancton</keyword>
+            <keyword>Pivijay</keyword>
+            <keyword>Icitiofauna</keyword>
+            <keyword>Macroinvertebrados bentónicos</keyword>
+            <keyword>Magdalena</keyword>
+            <keyword>Fitoplancton</keyword>
+            <keyword>Perifiton</keyword>
+            <keyword>Hidrobiológicos</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=parex_vim43-sismica</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El proyecto se desarrolló en el departamento de Magdalena, en el municipio del Pivijay, y los puntos de monitoreo Jagüey Inglaterra, Jagüey La Pachita, Jagüey La Margarita, Zona Pantanosa la Vitrina, Jagüey El Socorro.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-74.459</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-74.27</eastBoundingCoordinate>
+                    <northBoundingCoordinate>10.546</northBoundingCoordinate>
+                    <southBoundingCoordinate>10.347</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-06-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-07-22
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Las comunidades de fitoplancton y perifiton fueron identificados hasta el nivel taxonómico de género, para la comunidad de zooplancton se identificaron organismos hasta el nivel taxonómico de phylum (Nematoda), Subclase (Bdelloidea), género y especie. La comunidad de bentos reporto identificación al nivel de taxonómico de familia (Naididae) y género. Para las macrofitas la identificación taxonómica fue al nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Pinnularia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Gomphonema</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Closterium</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Euglypha</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Arcella discoides</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Macrobrachium</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Tropisternus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Paspalum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eichhornia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Laura</givenName>
+                <surName>Lozano</surName>
+            </individualName>
+            <organizationName>Parex Resources (Colombia) AG Sucursal</organizationName>
+            <positionName>Profesional ambiental</positionName>
+            <address>
+                <deliveryPoint>Cl. 113 #7 21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>LLozano.contratista@parexresources.com</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Maria Claudia</givenName>
+                <surName>Sanchez Sanchez</surName>
+            </individualName>
+            <organizationName>MCS Consultoría y Monitoreo Ambiental SAS</organizationName>
+            <positionName>Gerente General</positionName>
+            <address>
+                <deliveryPoint>Cra. 17 166 72</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6016797855</phone>
+            <electronicMailAddress>gerencia@mcsconsultoria.con</electronicMailAddress>
+            <onlineUrl>http://mcsconsultoria.com/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Para toma de muestras de macroinvertebardos bentónicos, se utilizó una red Surber con diámetro de ojo de malla de 530 μm, de 30cm X 30cm, el cual es depositado sobre el sustrato con la abertura en dirección contraria a la corriente, para así barrer el fondo desplazando los sedimentos dentro del cono, este proceso se llevó a cabo en cada uno de los puntos evaluados. Las muestras fueron depositas en bolsa plásticas, identificadas y rotuladas con la información básica del proyecto y el punto de monitoreo. Las muestras de fitoplancton fueron tomadas utilizando y filtrado 10 baldes de 10 litros filtrados con red de diámetro de ojo de 23 µm, las muestras fueron depositas y preservadas con luego en un  frasco ámbar. Por su parte las muestras de zooplancton, fueron tomadas utilizando 10 baldes de 10 litros filtrados con red de diámetro de ojo de 55 µm, las muestras fueron narcotizadas con bórax y fijadas con solución traseau. Para tomar las muestras de perifiton, se realizaron raspado en los sustratos naturales presentes en los puntos monitoreados (troncos, piedras y hojas), en un área conocida (cuadrante de perifíton de 78.2 cm2), las muestras fueron depositas y preservadas con luego en un  frasco ámbar. Para las macrofitas se realizó un transecto, para luego registrar el porcentaje de cobertura para cada morfo-especie encontrada, en un cuadrante de 1m x 1m, actividad que fue replicada seis (6) veces, de las cuales tres (3) se realizaron en la interfase agua – tierra y tres (3) en la fase acuática, cada macrofita fue fotografiada con todas las estructuras posibles (raíces, hojas, entre otros) que faciliten su identificación. Finalmente la ictiofauna (peces), se utilizó una red de arrastre de 60 x 1,5 m, ojo de maya de 625 μm, realizando Máximo 4 arrastres por transecto de 100m / 1 transecto por estación de 100m / 10 estaciones por cada 1km del cuerpo de agua ese realizaron. Finalmente, las muestras preservadas fueron envías al labraotorio para su respectivo análisis.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las metodologías utilizadas para la obtención de los datos y archivos, estuvieron basada en las  directrices del standard Methods for Examination of Water and wastewaters, 2017, Edición 23rd. El recuento e identificación de los organismos  de fitoplancton, se realizó siguiendo el protocolo 10200F de APHA-AWWA-WPCF (2017). Al efecto, el frasco que contenía la muestra concentrada en campo se agitaba para homogenizar la muestra, y del centro de este se tomaba una alícuota de 1 ml, que se depositaba en una placa Sedgwick-Rafter estándar (50 mm x 20 mm x 1 mm). A continuación, con ayuda de un microscopio compuesto con aumentos entre 40X y 200X, se realizó el recuento e identificación de los organismos; revisando un número determinado de transectos horizontales (filas). 
+Para zooplancton El recuento e identificación de los organismos se realizó siguiendo el protocolo de APHA-AWWA-WPCF (2017). Al efecto, el frasco que contenía la muestra concentrada en campo se agitaba para homogenizar la muestra, y del centro de este se tomaba una alícuota de 1 ml, que se depositaba en una celda de conteo de plástico acrílico transparente de 1 mL, equipada con un cubreobjetos de vidrio. Para el caso de los microcrustáceos maduros más grandes, se utilizó una cámara de conteo que contenía de 5 a 10 mL. A continuación, con ayuda de un microscopio compuesto con aumentos entre 40X y 200X, se realizó el recuento e identificación de los organismos. 
+Para perifíton el recuento e identificación de los organismos se realizó siguiendo el protocolo 10300C de APHA-AWWA-WPCF (2017). Al efecto, el frasco que contenía la muestra concentrada en campo se agitaba para homogenizar la muestra, y del centro de este se tomaba una alícuota de 1 ml, que se depositaba en una placa Sedgwick-Rafter estándar (50 mm x 20 mm x 1 mm). A continuación, con ayuda de un microscopio compuesto con aumentos entre 40X y 100X, se realizaba el recuento e identificación de los organismos; revisando un número determinado de transectos horizontales (filas). 
+Para las metodologías de análisis y formulas de la comunidad de bentos, se basó en la tecina de SM 10500 B y C, las muestras colectadas se separaron sobre una serie de tamices con ojo de malla diferente, entre 330 μm y 1,18 mm; todo el material retenido en cada tamiz se revisó sobre bandejas esmaltadas blancas o cajas de Petri. Al efecto, se empleó un microscopio de luz (aumentos de 10X y 40X) y/o estereoscopio según la necesidad. 
+
+Para macrofitas se utiliza la técnica SM 10400 B, M., el protocolo de muestreo y análisis para Macrofitras, 2005 (Confederación hidrográfica del Ebro-URS). Para los peces se utilizó el protocolo de muestreo y análisis para Macrofitras, 2005 (Confederación hidrográfica del Ebro-URS). Para las macrófitas acuáticas, la identificación se basa en la observación de las estructuras vegetativas y florales de las plantas. Cuando es necesario se diseccionan las macrófitas con la ayuda de un estereoscopio (aumentos de 0,65X a 6X), pinzas y agujas finas; teniendo en cuenta la metodología propuesta en los textos de la APHA-AWWA-WPCF; APHA (American Public Health Association, AWWA (American Water Works Association) y WPCF (Water Pollution Control Federation), en el Standard Methods Edición 23rd (2017).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se realizó la evaluación de fauna y flora utilizando los métodos establecidos, las especies que no pudieron ser determinadas en campo, fueron fotografiadas y para el caso, se recolectaron dos ejemplares para posteriormente ser identificados por comparación en colecciones de herbario, mediante literatura especializada o con ayuda de profesionales expertos en el área dendrológica. Siguiendo la metodología propuesta por la Universidad Distrital Francisco José de Caldas en su “Guía para la recolección y preservación de muestras botánicas en campo”.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El proyecto  desarrolla en los municipios del Pivijay, departamento del Magdalena, para el proyecto Medida de Manejo Ambiental para el Programa Sísmico 3D, del Bloque VIM 43, en una (1) campañas comprendida entre 08 y 10 julio de 2021.
+
+El polígono de prospección sísmica 3D, del bloque VIM-43 se localiza en nueve (9) unidades territoriales menores, corregimientos (Placita, Chinoblas, Las Piedras, Paraíso, Caraballo, Salaminita, Piñuela, Media Luna y Avianca), pertenecientes al municipio de Pivijay en el departamento del Magdalena y cuenta con una superficie de 35252,66 ha.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se realizó una evaluación de fauna, flora e hidrobiología asociada al polígono de prospección sísmica 3D del bloque VIM-43.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="CESP2022-010">
+                <title>Medidas de Manejo Ambiental - MMA para el Programa Sísmico 3D, del bloque VIM-43</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Maria Claudia</givenName>
+                    <surName>Sanchez Sanchez</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:09Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/iqxcw3">Parex Resources (Colombia) AG Sucursal, MCS Consultoria y Monitoreo Ambiental S.A.S (2023). Biodiversidad asociada al programa sísmico 3D del Bloque VIM-43. Version 1.3. Parex Resources Colombia - AG Sucursal. Occurrence dataset https://doi.org/10.15472/iqxcw3 accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>Medidas de Manejo Ambiental – MMA para el programa sísmico 3D, del bloque VIM-43 (Fauna y Flora)</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/permisos/resource?r=1093_mcs_faunayfloramma_20220306</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>Medidas de Manejo Ambiental para el Programa Sísmico 3D, del Bloque VIM-43</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/permisos/resource?r=1093_mcs_programasismico_20220304</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-parex.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>IMCN</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 52</collectionIdentifier>
+                    <collectionName>Colecciones Zoológicas de Referencia Cientifíca</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>UDBC</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 25</collectionIdentifier>
+                    <collectionName>Herbario Forestal UDBC &quot;Gilberto Emilio Mahecha Vega&quot;</collectionName>
+                </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

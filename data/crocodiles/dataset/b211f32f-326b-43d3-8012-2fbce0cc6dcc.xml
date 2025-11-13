@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="b211f32f-326b-43d3-8012-2fbce0cc6dcc"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/5o0fct</alternateIdentifier>
+        <alternateIdentifier>https://ipt.vertnet.org/resource?r=msb_host</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=msb_host</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=msb_host</alternateIdentifier>
+        <alternateIdentifier>b211f32f-326b-43d3-8012-2fbce0cc6dcc</alternateIdentifier>
+        <alternateIdentifier>14895</alternateIdentifier>
+        <title>MSB Host Collection (Arctos)</title>
+        <creator>
+            <individualName>
+                <givenName>Sara</givenName>
+                <surName>Brant</surName>
+            </individualName>
+            <organizationName>Museum of Southwestern Biology</organizationName>
+            <positionName>Collection Manager, Parasitology</positionName>
+            <address>
+                <deliveryPoint>University of New Mexico</deliveryPoint>
+                <city>Albuquerque</city>
+                <administrativeArea>NM</administrativeArea>
+                <postalCode>87131-0001</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>(505) 277-8171</phone>
+            <electronicMailAddress>sbrant@unm.edu</electronicMailAddress>
+            <onlineUrl>http://www.msb.unm.edu/parasites</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Sara</givenName>
+                <surName>Brant</surName>
+            </individualName>
+            <organizationName>Museum of Southwestern Biology</organizationName>
+            <positionName>Collection Manager, Parasitology</positionName>
+            <address>
+                <deliveryPoint>University of New Mexico</deliveryPoint>
+                <city>Albuquerque</city>
+                <administrativeArea>NM</administrativeArea>
+                <postalCode>87131-0001</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>(505) 277-8171</phone>
+            <electronicMailAddress>sbrant@unm.edu</electronicMailAddress>
+            <onlineUrl>http://www.msb.unm.edu/parasites</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>David</givenName>
+                <surName>Bloom</surName>
+            </individualName>
+            <positionName>VertNet Coordinator</positionName>
+            <electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Dusty</givenName>
+                <surName>McDonald</surName>
+            </individualName>
+            <organizationName>University of Alaska Museum</organizationName>
+            <positionName>Arctos Database Programmer</positionName>
+            <electronicMailAddress>dlmcdonald@alaska.edu</electronicMailAddress>
+            <onlineUrl>http://arctos.database.museum</onlineUrl>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Eric</givenName>
+                <surName>Loker</surName>
+            </individualName>
+            <organizationName>Museum of Southwestern Biology</organizationName>
+            <positionName>Curator of Parasitology</positionName>
+            <address>
+                <deliveryPoint>University of New Mexico</deliveryPoint>
+                <city>Albuquerque</city>
+                <administrativeArea>NM</administrativeArea>
+                <postalCode>87131-0001</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>(505) 277-2124</phone>
+            <electronicMailAddress>esloker@unm.edu</electronicMailAddress>
+            <onlineUrl>http://biology.unm.edu/biology/esloker/</onlineUrl>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Mariel</givenName>
+                <surName>Campbell</surName>
+            </individualName>
+            <organizationName>Museum of Southwestern Biology</organizationName>
+            <address>
+                <deliveryPoint>University of New Mexico</deliveryPoint>
+                <city>Albuquerque</city>
+                <administrativeArea>NM</administrativeArea>
+                <postalCode>87131-0001</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>campbell@carachupa.org</electronicMailAddress>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Gordon</givenName>
+                <surName>Jarrell</surName>
+            </individualName>
+            <organizationName>Museum of Southwestern Biology</organizationName>
+            <address>
+                <deliveryPoint>University of New Mexico</deliveryPoint>
+                <city>Albuquerque</city>
+                <administrativeArea>NM</administrativeArea>
+                <postalCode>87131-0001</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>gordon.jarrell@gmail.com</electronicMailAddress>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <pubDate>
+                2025-10-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The MSB Division of Parasitology maintains data on the host organisms of parasites in the MSB Parasite Collection. These are mostly observations rather than specimen records, and taxonomic determinations are often based upon the parasitologist&amp;#39;s notation. Hosts with specimen vouchers in other Arctos collections are related to the records in those collections.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://www.msb.unm.edu/parasites</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.vertnet.org/archive.do?r=msb_host</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The MSB host data has global representation.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia, Aves, Actinopterygii, Gastropoda, Osteichthyes, Chondrichthyes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Sara</givenName>
+                <surName>Brant</surName>
+            </individualName>
+            <organizationName>Museum of Southwestern Biology</organizationName>
+            <positionName>Collection Manager, Parasitology</positionName>
+            <address>
+                <deliveryPoint>University of New Mexico</deliveryPoint>
+                <city>Albuquerque</city>
+                <administrativeArea>NM</administrativeArea>
+                <postalCode>87131-0001</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>(505) 277-8171</phone>
+            <electronicMailAddress>sbrant@unm.edu</electronicMailAddress>
+            <onlineUrl>http://www.msb.unm.edu/parasites</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:06Z</dateStamp>
+                <citation>Brant S (2025). MSB Host Collection (Arctos). Version 34.100. Museum of Southwestern Biology. Occurrence dataset https://doi.org/10.15468/5o0fct accessed via GBIF.org on 2025-10-11.</citation>
+                <livingTimePeriod>1937 to present</livingTimePeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="14e51da8-2284-4fc6-8c9b-0146681910b9"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/mrokj1</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=cortolima_0673_21-318_043</alternateIdentifier>
+        <title>Fauna presente en el humedal Las Garzas, departamento del Tolima</title>
+        <creator>
+            <individualName>
+                <givenName>Juan Gabriel</givenName>
+                <surName>Albornoz Garzón</surName>
+            </individualName>
+            <organizationName>Universidad del Tolima (UT)</organizationName>
+            <positionName>Investigador Ictiología</positionName>
+            <address>
+                <deliveryPoint>Barrio Santa Helena Parte Alta Cl 42 1-02</deliveryPoint>
+                <city>Ibagué</city>
+                <administrativeArea>Tolima</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Adriana Marcela</givenName>
+                <surName>Forero Céspedes</surName>
+            </individualName>
+            <organizationName>Universidad del Tolima (UT)</organizationName>
+            <positionName>Investigadora Macroinvertebrados Acuáticos</positionName>
+            <address>
+                <deliveryPoint>Barrio Santa Helena Parte Alta Cl 42 1-02</deliveryPoint>
+                <city>Ibagué</city>
+                <administrativeArea>Tolima</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <userId directory="http://orcid.org/">0000-0001-5185-5891</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Diana Carolina</givenName>
+                <surName>Montoya Ospina</surName>
+            </individualName>
+            <organizationName>Universidad del Tolima (UT)</organizationName>
+            <positionName>Investigadora Ictiología</positionName>
+            <address>
+                <deliveryPoint>Barrio Santa Helena Parte Alta Cl 42 1-02</deliveryPoint>
+                <city>Ibagué</city>
+                <administrativeArea>Tolima</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Leonardo Alberto</givenName>
+                <surName>Ospina López</surName>
+            </individualName>
+            <organizationName>Universidad del Tolima (UT)</organizationName>
+            <positionName>Investigador Herpetología</positionName>
+            <address>
+                <deliveryPoint>Barrio Santa Helena Parte Alta Cl 42 1-02</deliveryPoint>
+                <city>Ibagué</city>
+                <administrativeArea>Tolima</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Gladys</givenName>
+                <surName>Reinoso Flórez</surName>
+            </individualName>
+            <organizationName>Universidad del Tolima (UT)</organizationName>
+            <positionName>Investigadora Macroinvertebrados Acuáticos</positionName>
+            <address>
+                <deliveryPoint>Barrio Santa Helena Parte Alta Cl 42 1-02</deliveryPoint>
+                <city>Ibagué</city>
+                <administrativeArea>Tolima</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <userId directory="http://orcid.org/">0000-0003-2002-1645</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Margarita María</givenName>
+                <surName>Roa Cubillos</surName>
+            </individualName>
+            <organizationName>Universidad del Tolima (UT)</organizationName>
+            <positionName>Investigadora Ictiología</positionName>
+            <address>
+                <deliveryPoint>Barrio Santa Helena Parte Alta Cl 42 1-02</deliveryPoint>
+                <city>Ibagué</city>
+                <administrativeArea>Tolima</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <userId directory="http://orcid.org/">0000-0002-6790-1431</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Francisco Antonio</givenName>
+                <surName>Villa Navarro</surName>
+            </individualName>
+            <organizationName>Universidad del Tolima (UT)</organizationName>
+            <positionName>Investigador Ictiología</positionName>
+            <address>
+                <deliveryPoint>Barrio Santa Helena Parte Alta Cl 42 1-02</deliveryPoint>
+                <city>Ibagué</city>
+                <administrativeArea>Tolima</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>favilla@ut.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-5913-188X</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Luis Fernando</givenName>
+                <surName>Poveda Cabezas</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional del Tolima (CORTOLIMA)</organizationName>
+            <positionName>Profesional Universitario - Área Planeación CORTOLIMA</positionName>
+            <address>
+                <deliveryPoint>Av del Ferrocarril Calle 44 Esquina</deliveryPoint>
+                <city>Ibagué</city>
+                <administrativeArea>Tolima</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>fernando.poveda@cortolima.gov.co</electronicMailAddress>
+            <onlineUrl>https://www.cortolima.gov.co/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Universidad del Tolima</surName>
+            </individualName>
+            <organizationName>Universidad del Tolima</organizationName>
+            <positionName>Universidad</positionName>
+            <address>
+                <deliveryPoint>Barrio Santa Helena Parte Alta Cl 42 1-02</deliveryPoint>
+                <city>Ibagué</city>
+                <administrativeArea>Tolima</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>https://www.ut.edu.co/</onlineUrl>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Sergio</givenName>
+                <surName>Losada Prado</surName>
+            </individualName>
+            <organizationName>Universidad del Tolima (UT)</organizationName>
+            <positionName>Coordinador del Proyecto</positionName>
+            <address>
+                <deliveryPoint>Barrio Santa Helena Parte Alta Cl 42 1-02</deliveryPoint>
+                <city>Ibagué</city>
+                <administrativeArea>Tolima</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>slosada@ut.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-6916-3893</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Shirly Alejandra</givenName>
+                <surName>Espinosa Guzmán</surName>
+            </individualName>
+            <organizationName>Universidad del Tolima (UT)</organizationName>
+            <positionName>Geomática</positionName>
+            <address>
+                <deliveryPoint>Barrio Santa Helena Parte Alta Cl 42 1-02</deliveryPoint>
+                <city>Ibagué</city>
+                <administrativeArea>Tolima</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2022-10-05
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Los humedales sirven para mitigar los impactos generados por el ciclo hidrológico de una región y, paralelamente, proveen de hábitat a distintos organismos, incluyendo aquellas especies que recurren a la migración como estrategia adaptativa. Proveen de hábitat, alimento, refugio, y áreas de crianza y reproducción a un elevado número de especies de peces, aves, anfibios, reptiles, mamíferos e invertebrados. Son reconocidos por su alto nivel de endemismos, en particular de peces e invertebrados, por su fauna altamente especializada y por ser refugio de una gran diversidad de especies de aves migratorias. Los humedales tienen también un papel ecológico muy importante en el control de la erosión, la sedimentación y las inundaciones; en el abastecimiento y depuración del agua, y en el mantenimiento de pesquerías. En la actualidad estos sistemas han reducido su extensión considerablemente debido al drenado y relleno de sus áreas para diferentes usos (Aguilar, 2003).</para>
+<para>En el departamento del Tolima se registran como los humedales más importantes 300 lagunas de cordillera, de origen glaciar, localizadas en la cordillera central en áreas de los Parques Nacionales Naturales y numerosas lagunas y sistemas de humedales en las zonas bajas. A pesar de esta variedad de humedales en el departamento del Tolima solo se han realizado evaluaciones iniciales de los humedales ubicados en el Parque Natural Nacional Los Nevados y en su área amortiguadora.</para>
+<para>Teniendo en cuenta lo anterior y consciente de la importancia de los humedales, de la fauna y flora que los caracteriza, la Corporación Autónoma del Tolima - CORTOLIMA y el Grupo de Investigación en Zoología (GIZ) de la Universidad del Tolima, han considerado muy relevante desarrollar el proyecto de estudio de ocho humedales ubicados en las zonas bajas y altas del departamento del Tolima cuyo objetivo es la caracterización de la fauna y flora presente en ellos y generar la línea base para plantear el Plan de Manejo para su conservación.</para>
+<para>En un esfuerzo de monitorear y documentar la biodiversidad presente en los humedales del Tolima, se muestreó en el año 2015, la fauna presente en el humedal Las Garzas jurisdicción del municipio Guamo, departamento del Tolima. Este conjunto de datos comprende 75 registros biológicos, todos pertenecientes al reino Animalia. Un 27.94% de los registros está determinado a nivel de especie y 72.05% a categorías superiores. En total se documentan 60 registros de macroinvertebrados, ocho peces y siete herpetos.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Humedales</keyword>
+            <keyword>Herpetos</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Las Garzas</keyword>
+            <keyword>Macroinvertebrados</keyword>
+            <keyword>CORTOLIMA</keyword>
+            <keyword>Peces</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>La estructuración y validación de los registros, se realizó con el apoyo de la Corporación Autónoma Regional del Tolima (CORTOLIMA). Agradecemos a CORTOLIMA y al SiB Colombia por facilitar la publicación de estos datos asegurando que estén disponibles de manera libre y gratuita para las personas de la región y para el público interesado en familiarizarse con la gran diversidad y riqueza natural que alberga el departamento del Tolima.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=cortolima_0673_21-318_043</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El proyecto se ejecutó en el humedal Las Garzas localizado en la vereda Chontaduro en el municipio Guamo, departamento del Tolima y pertenece a perteneciente a la subzona hidrográfica río Luisa y otros directos al Magdalena. Actualmente el humedal se encuentra dividido en tres partes, por esta razón se divide el humedal en zona occidental, central y oriental; en su totalidad el cuerpo de agua del humedal ocupa un área aproximada de 7.13 ha a una altura promedio de 321 m.s.n.m.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-74.966</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-74.953</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.044</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.035</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2015-06-04
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2015-06-15
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este conjunto de datos comprende 75 registros biológicos pertenecientes al reino Animalia. Un 27.94% de los registros está determinado a nivel de especie y 72.05% a categorías superiores.
+
+Macroinvertebrados: Se reportan 23 familias, pertenecientes a seis ordenes, dos clases y dos filo. El 100% de los registros fue determinado a nivel de familia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Baetidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Belostomatidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ceratopogonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Chironomidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Coenagrionidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Culicidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Curculionidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dytiscidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ephydridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hebridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hydrobiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hydrophilidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lampyridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Libellulidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Mesoveliidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Naucoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Notonectidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Physidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Planorbidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pleidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Stratiomyidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Tenebrionidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Thiaridae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Herpetofauna: Se reportan siete especies, pertenecientes a siete géneros, cuatro familias y tres ordenes. El 85.71% de los registros fue determinado a nivel de especie y 14.28% hasta el nivel de subespecie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alligatoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leptodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Teiidae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Ictiofauna: Se reportan cuatro especies, pertenecientes a cuatro géneros, cuatro familias y tres ordenes. El 100% de los registros fue determinado a nivel de especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Characidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Cichlidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Erythrinidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Poeciliidae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Este recurso tiene como propósito incrementar, hacer pública y disponible la información sobre la biodiversidad presente en el departamento del Tolima.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Luis Fernando</givenName>
+                <surName>Poveda Cabezas</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional del Tolima (CORTOLIMA)</organizationName>
+            <positionName>Profesional Universitario - Área Planeación CORTOLIMA</positionName>
+            <address>
+                <deliveryPoint>Av del Ferrocarril Calle 44 Esquina</deliveryPoint>
+                <city>Ibagué</city>
+                <administrativeArea>Tolima</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>fernando.poveda@cortolima.gov.co</electronicMailAddress>
+            <onlineUrl>https://www.cortolima.gov.co/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>La metodología se dividió en macroinvertebrados acuáticos, herpetofauna y ictiofauna, para ello se llevaron a cabo las siguientes estrategias:
+
+MACROINVERTEBRADOS ACUÁTICOS
+La metodología consistió en la colecta y formas inmaduras en los cuerpos de agua lenticos, se tomaron dos puntos equidistantes del humedal y se tomaron muestras a nivel superficial con la red D, removiendo las raíces de material vegetal flotante. Así mismo se tomaron muestras de lodo para establecer la fauna de macroinvertebrados acuáticos asociados con el fondo. El material obtenido, se colocó en frascos plásticos y se fijó con alcohol al 90%, se etiquetó y se llevó una ficha de campo. Una vez se realizó el muestreo, se procedió separaron en alcohol al 70% y se determinaron al más bajo nivel taxonómico posible con un estereomicroscopio Olympus SZ40 y un microscopio Olympus CH30. Para la determinación taxonómica se realizaron micropreparados del material colectado y se emplearon las claves y descripciones de McCafferty (1981), Machado (1989), Needham &amp; Needham (1991), Rosemberg &amp; Resh (1993), Lopretto &amp; Tell (1995), Roldán (1996, 2003), Muñoz-Q. (2004), Merrit &amp; Cummins (2008), Domínguez &amp; Fernández (2009), y posteriormente fueron ingresados a la Colección Zoológica de la Universidad del Tolima CZUT-Ma.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>HERPETOFAUNA
+La recolecta de los individuos se realizó entre las 15:00-22:00 horas. La metodología se dividió en anuros y reptiles: 1) Anuros: La metodología de campo utilizada para la captura de estos individuos fue la propuesta por Crump &amp; Scott (1994), Muestreo de Encuentro Visual (MEV) y reconocimiento acústico, bajo un diseño de muestreo intencional, debido a que la presencia de estos individuos está condicionada por la presencia de cuerpos de agua y regiones poseedoras de altos grados de humedad (Heyer et al., 1994); esto con el fin de determinar la riqueza de herpetos de la zona. El muestreo MEV intencional e intensivo, se realizó por medio de recorridos diurnos y nocturnos, detectando las vocalizaciones en el caso de los anuros (para la captura de machos) y para obtener los registros vocales. Para cada animal capturado se especificaron características morfológicas y acústicas, teniendo en cuenta la hora de captura, presencia de cuerpos de agua, el tipo de sustrato donde se encontraba, temperatura del ambiente, condiciones climáticas y humedad relativa, a través de un GPS y termohigrómetro, respectivamente. Posteriormente, los individuos fueron capturados para su identificación taxonómica y registro fotográfico. Según el protocolo de McDiarmid (1994) los ejemplares fueron sacrificados para su posterior identificación el laboratorio; 2) Reptiles: La metodología consistió en visitas nocturnas y diurnas a diferentes microhábitats en el humedal. Otro método de búsqueda fue el sugerido por Casas-Andreu et al. (1991) y complementada por la de Pisani &amp; Villa (1974), la cual consistió en la búsqueda de serpientes y demás reptiles en troncos huecos, bajo los troncos de los árboles caídos, cortezas flojas, en tumultos de ramas, en la hojarasca, bajo las rocas flojas, grietas de peñascos y el suelo en general. Los organismos capturados fueron sacrificados de la manera menos dolorosa posible, para este caso se le inyecto a cada individuo lidocaína directamente en el corazón (serpientes y lagartos) y para pequeños lagartos se realizó el sacrificio mediante inmersión en alcohol al 10%. Posteriormente, los organismos fueron fijados en formol al 10%, las serpientes enrolladas en forma de anillos y los lagartos en su posición natural (Casas–Andreu et al., 1991). La determinación taxonómica de los ejemplares recolectados se realizó a través de diagnosis descriptivas para cada una de las especies y mediante comparación con las muestras de la Colección Zoológica de la Universidad del Tolima, secciones reptiles y anfibios CZUT-R &amp; CZUT-A, y los registros fotográficos de bases de datos disponibles en internet.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>ICTIOFAUNA
+La metodología implementada para la colecta fue la electropesca, método que consiste en una corriente que fluye entre dos electrodos opuestos y que al tener contacto con los peces les produce un estado de electrotaxis (natación de forma obligada), electrotétano (contracción muscular) y electronarcosis (relajación muscular) (Lobón-Cerviá 1996). En la aplicación se empleó un equipo de corriente pulsante de 340 voltios y un amperio. Con dos electrodos (positivo y negativo), uno de ellos (electrodo positivo) modificado a manera de nasa redonda (50 cm de diámetro) con un mango de PVC de longitud variable. Adicional a la pesca eléctrica, se utilizaron redes de arrastre con ojo de malla de 2 mm y 1.5 m de altura y 3 m de longitud. Una vez se realizó el muestreo, se procedió a la recolecta del material y fijación con una solución de formol al 10%, se depositaron en bolsas plásticas de sello hermético y fueron transportadas en canecas herméticas al laboratorio para su posterior identificación e ingresó a la colección CZUT-IC. Por último, para la determinación taxonómica del material íctico se empleó literatura especializada (Eigenmann 1922; Miles 1943; Dahl 1971; Villa-Navarro et al., 2003; Maldonado-Ocampo et al., 2005; Villa-Navarro et al., 2005; Castro-Roa 2006; Lozano-Zárate 2008; Castro-Roa 2006).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El proyecto se ejecutó en el humedal Las Garzas localizado en la vereda Chontaduro jurisdicción del municipio Guamo, departamento del Tolima y pertenece a perteneciente a la subzona hidrográfica río Luisa y otros directos al Magdalena. Actualmente el humedal se encuentra dividido en tres partes, por esta razón se divide el humedal en zona occidental, central y oriental; en su totalidad el cuerpo de agua del humedal ocupa un área aproximada de 7.13 ha a una altura promedio de 321 m.s.n.m.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>MACROINVERTEBRADOS ACUÁTICOS: Para la colecta de individuos se empleó la red D. 
+
+HERPETOFAUNA: El muestreo se dividió para anuros y reptiles utilizando las técnicas Muestreo de Encuentro Visual (MEV), reconocimiento acústico y visual.
+
+ICTIOFAUNA: Los individuos se recolectaron mediante el empleó de electropesca.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>En el proceso de estructuración y validación de los datos, se realizó el control de la calidad de la información. A continuación, se enumeran los procesos asociados a esta actividad: 1. Revisión de la información documentada asociada a los datos biológicos; 2. Estructuración de los datos en el estándar Darwin Core (DwC) según elementos, definiciones y vocabularios controlados; 3. Validación y limpieza de la información consignada en el DwC, 3.1. Corrección de errores de tipeo, para esta tarea se usó OpenRefine, adicionalmente se identificaron datos erróneos como sinonimias, con el uso de Species Matching, COL | The Catalogue of Life; 4. Finalmente, la base datos DwC se validó haciendo uso del Validador de datos - GBIF.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Ampliación del conocimiento sobre especies de Fauna Silvestre, Ampliación del conocimiento sobre especies de Flora Silvestre</title>
+                <personnel>
+                    <individualName>
+                    <givenName>UT</givenName>
+                    <surName>Universidad del Tolima</surName>
+                    </individualName>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <abstract>
+                    <para>La recuperación de la diversidad y el crecimiento de las poblaciones de fauna dependen directamente de las políticas de manejo que se implementen. Por ello se hace necesario ampliar el conocimiento que se tiene sobre las especies de fauna y flora silvestre a fin de establecer lineamientos de manejo de las mismas, toda vez que se está presentando una fuerte presión sobre algunas de ellas, y las actividades antrópicas contribuyen en esta situación. La información que se genere es necesaria en aras de desarrollar programas de control y protección de la fauna y flora silvestre, e incluso debe llegar a proponer posibilidades de uso con el recurso fauna y flora, y establecer planes de manejo específicos para cada una de las especies con algún grado de vulnerabilidad que se encuentran en la región.</para>
+                </abstract>
+                <funding>
+                    <para>Este proyecto fue financiado por CORTOLIMA.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El proyecto se ejecutó en el humedal Las Garzas localizado en la vereda Chontaduro jurisdicción del municipio Guamo, departamento del Tolima y pertenece a perteneciente a la subzona hidrográfica río Luisa y otros directos al Magdalena. Actualmente el humedal se encuentra dividido en tres partes, por esta razón se divide el humedal en zona occidental, central y oriental; en su totalidad el cuerpo de agua del humedal ocupa un área aproximada de 7.13 ha a una altura promedio de 321 m.s.n.m.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Los humedales son considerados ecosistemas muy sensibles a la intervención de origen antrópico, en Colombia son vitales dentro de la amplia variedad de ecosistemas y, al ofrecer distintos bienes y servicios, constituyen en un reglón importante de la economía nacional, regional y local (Ministerio del Medio Ambiente, 2002). Los humedales sirven para mitigar los impactos generados por el ciclo hidrológico de una región y, paralelamente, proveen de hábitat a distintos organismos, incluyendo aquellas especies que recurren a la migración como estrategia adaptativa. Proveen de hábitat, alimento, refugio, y áreas de crianza y reproducción a un elevado número de especies de peces, aves, anfibios, reptiles, mamíferos e invertebrados. Son reconocidos por su alto nivel de endemismos, en particular de peces e invertebrados, por su fauna altamente especializada y por ser refugio de una gran diversidad de especies de aves migratorias. Los humedales tienen también un papel ecológico muy importante en el control de la erosión, la sedimentación y las inundaciones; en el abastecimiento y depuración del agua, y en el mantenimiento de pesquerías. En la actualidad estos sistemas han reducido su extensión considerablemente debido al drenado y relleno de sus áreas para diferentes usos (Aguilar, 2003). 
+
+Su afectación obedece a distintos factores, generalmente antrópicos. Uno de ellos ha sido la inadecuada planificación y el uso de técnicas nocivas, así la ejecución de políticas de desarrollo sectorial inconsistentes y desarticuladas (Ministerio del Medio Ambiente, 2002). Con el fin de detener la pérdida de humedales se han desarrollado distintas iniciativas, una de ellas es la Convención Relativa a los Humedales de Importancia Internacional, especialmente como hábitat de aves acuáticas, adoptada en RAMSAR en 1971 (Sánchez, 1998). Igualmente, la Agenda 21 plantea como prioridad para los recursos de agua dulce la protección de los ecosistemas y la ordenación integrada de los recursos hídricos (Ministerio del Medio Ambiente, 2002). 
+
+La declinación en la producción de las especies acuáticas en general se ha asociado a la pérdida de diversos tipos de hábitat estuarinos y ribereños, como la vegetación acuática sumergida, vegetación marginal halófita, sustratos someros lodosos, arrecifes ostrícolas y restos de vegetación arbórea. Sin embargo, la declinación en el tamaño de las poblaciones de igual manera es causada por una serie de procesos biológicos, geológicos, físicos y químicos, tales como la alteración física de los hábitats, la modificación de los influjos de agua dulce y la contaminación crónica o accidental (Barba, 2004). Los humedales poseen atributos o valores intrínsecos que los distinguen de otros ecosistemas y es ahí donde reside su gran importancia en el sistema vital del planeta y el hecho de detentar la máxima consideración desde el punto de vista de la conservación (Viñals, 2004). 
+
+Situaciones como la agricultura intensiva, la urbanización, la contaminación, la desecación, sobreexplotación de recursos y la introducción de especies foráneas, han afectado los procesos naturales que se dan en los humedales convirtiéndolos en ecosistemas frágiles con pérdida de capacidad productiva. Las acciones antrópicas sobre los humedales tienen efectos negativos tanto en las especies silvestres, como en las mismas comunidades humanas, ya que se ven afectado los servicios ecosistémicos de los cuales se benefician (Lasso et al., 2014). Debido a la alteración de estos ecosistemas el Estado propone su protección mediante la Ley 99 de 1993, en su artículo 5 numeral 24, donde establece la responsabilidad del Ministerio del Medio Ambiente en relación con los humedales, y menciona que: &quot;le corresponde regular las condiciones de conservación y manejo de ciénagas, pantanos, lagos, lagunas y demás ecosistemas hídricos continentales&quot;. El Ministerio del Medio Ambiente adopta esta responsabilidad por medio de la Resolución 157 del 12 de febrero de 2004, y en su artículo 4, dispone en relación con el Plan de Manejo Ambiental, que las Autoridades Ambientales competentes deberán elaborarlos y ejecutarlos para los humedales prioritarios de su jurisdicción, los cuales deberán partir de una delimitación, caracterización y zonificación para la definición de medidas de manejo, con la participación de los distintos interesados. Así mismo, el Plan de Manejo Ambiental deberá garantizar el uso sostenible y el mantenimiento de su diversidad y productividad biológica (Resolución 196 Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 01 de febrero de 2006). 
+
+En el departamento del Tolima se registran como los humedales más importantes 300 lagunas de cordillera, de origen glaciar, localizadas en la cordillera central en áreas de los Parques Nacionales Naturales y numerosas lagunas y sistemas de humedales en las zonas bajas. A pesar de esta variedad de humedales en el departamento del Tolima solo se han realizado evaluaciones iniciales de los humedales ubicados en el Parque Natural Nacional Los Nevados y en su área amortiguadora. Teniendo en cuenta lo anterior y consciente de la importancia de los humedales, de la fauna y flora que los caracteriza, la Corporación Autónoma del Tolima - CORTOLIMA y el Grupo de Investigación en Zoología (GIZ) de la Universidad del Tolima, han considerado muy relevante desarrollar el proyecto de estudio de ocho humedales ubicados en las zonas bajas y altas del departamento del Tolima cuyo objetivo es la caracterización de la fauna y flora presente en ellos y generar la línea base para plantear el Plan de Manejo para su conservación.
+
+El objetivo general del proyecto es establecer medidas, estrategias y acciones necesarias para fomentar la conservación in situ, uso racional sostenible, evitar la degradación y potenciar algunas funciones del humedal Las Garzas, priorizando sus características ecológicas y socioeconómicas. Así mismo, se busca diagnosticar los problemas ambientales y socioeconómicos que caracterizan el humedal y su zona de influencia, así como las oportunidades de servicios ambientales y finalmente determinar las acciones de mitigación, compensación y de solución a la problemática presente en el municipio del Guamo mediante el plan de acción.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:22Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/mrokj1">Albornoz Garzón J G, Forero Céspedes A M, Montoya Ospina D C, Ospina López L A, Reinoso Flórez G, Roa Cubillos M M, Villa Navarro F A, Poveda Cabezas L F (2022). Fauna presente en el humedal Las Garzas, departamento del Tolima. Cortolima - Corporación Autónoma Regional del Tolima. Occurrence dataset https://doi.org/10.15472/mrokj1 accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Casas-Andreu, G., Valenzuela-López, G. &amp; Ramírez–Bautista, A. (1991). Cómo hacer una colección de anfibios y reptiles. Cuadernos del Instituto de Biología. 10 UNAM. México D. F. 68pp.</citation>
+                <citation>Castro-Roa, D. (2006). Composición y estructura de la comunidad de Characiformes en la cuenca del río Prado (Tolima-Colombia). Trabajo de grado Programa de Biología. Facultad de Ciencias Básicas. Universidad del Tolima. Ibagué. 169 -204 p.</citation>
+                <citation>Crump, M.L. &amp; Scott, N.J. (1994). Visual Encounter Surveys. En: Measuring and Monitoring Biological Diversity. Standard Methods for Amphibians. Eds. Heyer, W., Donnelley, M.A., McDiarmid, R.A., Hayec L.C., &amp; Foster, M.C. Smithsonian Institution Press, Washington D.C.</citation>
+                <citation>Dahl, G. (1971). Los Peces del Norte de Colombia. Bogotá, Ministerio de Agricultura, Instituto de Desarrollo de los recursos Naturales Renovables (INDERENA). 391 p.</citation>
+                <citation>Domínguez, E. &amp; Fernández, H. (2009). Macroinvertebrados bentónicos sudamericanos: sistematica y biología. (1a ed.) Tucumán, Argentina. Fundación Miguel Lillo. ISBN 978-950-668- 015-2.</citation>
+                <citation>Eigenmann, C. (1922). The fishes of the Northwestern South America, part I. The fresh-water fishes of Northwestern South America, including Colombia, Panamá, and Pacific slopes of Ecuador, y Perú, together with an appendix upon the fishes of the río Meta in Colombia. En: Mem. Carnegie Mus. Vol.9, No. 1. p. 1-346.</citation>
+                <citation>Eigenmann, C. J. (1912). Some Results from An ichthyological Reconnaissance of Colombia, South America. Contributions from the Zoological Laboratory of Indiana University. Indiana University Studies. No. 8. p. 27.</citation>
+                <citation>Lobón-Cerviá, J. (1996). Response of a stream fish assemblage to a severe spate in northern Spain. Trans. Amer. Fish. Soc., 125: 913-919.</citation>
+                <citation>Lopretto, E. &amp; Tell, G. (1995). Ecosistemas de aguas continentales. Argentina: Ediciones Sur. 1401 p.</citation>
+                <citation>Lozano-Zarate, Y. (2008). Diversidad, distribución, abundancia y ecología de la familia Characidae (Ostariophysi: Characiformes) en la cuenca del río Totare (Tolima-Colombia). Tesis de Pregrado. Programa de Biología., Facultad de Ciencias Básicas, Universidad del Tolima. Ibagué.216p.</citation>
+                <citation>Heyer, M. A., R. W. Donelly, L. A. Mcdiarmid, C. Hayek &amp; M.S. Foster. (1994). Measuring and Monitoring Biological Diversity. Standard Methods for Amphibians. The Smithsonian Institution Press, Washington, D.C.</citation>
+                <citation>Hilty, S.L. &amp; W.L. Brown. (1986). A guide to the birds of Colombia. Princeton Univ. Press. Princeton, New Jersey.</citation>
+                <citation>Machado, T. A. (1989). Distribución ecológica e identificación de los coleópteros acuáticos en diferentes pisos altitudinales del departamento de Antioquia. Medellín. Proyecto de investigación. Universidad de Antioquia. Facultad de ciencias exactas y naturales. 323 p.</citation>
+                <citation>Maldonado-Ocampo, J. A., Ortega-Lara, A., Usma, J. S., Galvis, G., Villa-Navarro, F., Vásquez, L., Prada-Pedreros, S… (2005). Peces de los Andes de Colombia (1st ed. p. 346). Bogotá D.C: Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</citation>
+                <citation>McDiarmid, R.W. (1994). Preparing amphibians as scientific specimens (pp. 289-296). En: Heyer, R., Donnelly, M., McDiarmid, R. W., Hayek, L. &amp; Foster, M. S. (Eds.).</citation>
+                <citation>Merrit, R. W. &amp; Cummins, K. W. (Eds). (2008). An Introduction to the Aquatic Insects of North America. Third edition. Kendall/Hunt Publishing Company.</citation>
+                <citation>Miles, C. (1943). Los peces del río Magdalena. Ministerio de economía Nacional.</citation>
+                <citation>Musilova, Z., Rican, O. &amp; Novak, J. (2009). Phylogeny of the Neotropical cichlid fish tribe Ciclhlasomatini (Teleostei: Cichlidae) based on morphological and molecular data, with the description of a new genus. Zool. Syst. Evol. Res. doi: 10,1111/j.439-0469.</citation>
+                <citation>Needham, J. G &amp; Needham. (1991). Guía para el estudio de los seres vivos de las aguas dulces. Barcelona: Reverté. 131 p</citation>
+                <citation>Pisani, R. G. &amp; J. Villa. (1974). Guía de técnicas de preservación de anfibios y reptiles. Estados Unidos de Norteamérica: Society for the study of amphibians and reptiles.</citation>
+                <citation>Pointier, J-P.; Yong, M. &amp; Gutiérrez, A. (2005). Guide to the Freshwater molluscs of Cuba. ConchBooks. ISBN 3-925919-75-9. 119 p.</citation>
+                <citation>Ralph, C. J., Geupel, G. R., Pyle, P., Martin, T. E. &amp; Desante, D. F. (1993). Handbook of field methods for monitoring landbirds. Gen. Tech. Rep. PSW-GTR-144-www. Albany, CA: Pacific Southwest Research Station, Forest Service, U.S. Department of Agriculture; 41 p.</citation>
+                <citation>Ralph, G. J., Geupel, R., Pyle, P., Martin, T., Desante D., Mila, B. (1995). Manual de métodos de campo para el monitoreo de aves terrestres. General Technical report, Albany, CA: Pacific Southwest Station, Forest Service, U.S. Department of Agriculture. 47 p.</citation>
+                <citation>Restall, R., Rodner, C. &amp; Lentino, M. (2006). Birds of Northern South America: An Identification Guide, Volume 1: Species Accounts. Christopher Helm. Helm Identification Guides.</citation>
+                <citation>Rosemberg, D.M. &amp; Resh, V.H. (1993). Freshwater biomonitoring and benthic macroinvertebrates. New York : Chapman y Hill. 48p</citation>
+                <citation>Villa-Navarro, F.A., Ortega-Lara, A., García-Melo J.E., Briñez, G.N., García-Melo, L.J. &amp; Zúñiga, P.T. (2003). En: Villa-Navarro, F.A., Reinoso-Flórez, G., Bernal-Bautista, M.H. &amp; Losada-Prado, S. (2003). Biodiversidad Faunística de la Cuenca del río Coello. Biodiversidad Regional Fase I. Grupo de Investigación en Zoología, Universidad del Tolima, Ibagué, Colombia. p. 390-413.</citation>
+                <citation>Zuñiga-Upegüi, P., Villa-Navarro, F. A., Ortega-Lara, A., Reinoso-Flórez, G. (2005). &quot;Relación longitud-peso y frecuencias de tallas para los peces del género Chaetostoma (Siluriformes, Loricariidae) de la cuenca del río Coello, Colombia&quot;. En: Colombia Dahlia ISSN: 0122-9982 ed: Unibiblos Universidad Nacional De Colombia v. fasc.8 p.47 – 52.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/cortolima.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

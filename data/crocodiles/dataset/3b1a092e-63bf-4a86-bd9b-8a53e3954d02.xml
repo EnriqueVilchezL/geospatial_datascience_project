@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="3b1a092e-63bf-4a86-bd9b-8a53e3954d02"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/4fpguy</alternateIdentifier>
+        <alternateIdentifier>3b1a092e-63bf-4a86-bd9b-8a53e3954d02</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sibm/resource?r=sanguare_ecosistemas</alternateIdentifier>
+        <title>Biodiversidad de la Reserva Natural Sanguaré y sus ecosistemas estratégicos</title>
+        <creator>
+            <individualName>
+                <givenName>Juliana</givenName>
+                <surName>Cardona Duque</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Docente/Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 10A #22-04</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555 ext. 1240</phone>
+            <electronicMailAddress>jcardonad@ces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Lizette Irene</givenName>
+                <surName>Quan Young</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Docente/Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 10A #22-04</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>44440555 ext. 1762</phone>
+            <electronicMailAddress>lquan@ces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-2393-7328</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Luis Esteban</givenName>
+                <surName>Alzate Basto</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Docente/Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 10A #22-04</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>44440555</phone>
+            <electronicMailAddress>lalzateb@ces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">sk4s5IUAAAAJ&amp;hl=en</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Juan David</givenName>
+                <surName>Sanchéz</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Docente/Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 10A #22-04</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555</phone>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Mariana</givenName>
+                <surName>Ossa Yepes</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                <deliveryPoint>Calle 10A #22-04</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555</phone>
+            <electronicMailAddress>ossay.mariana@uces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Cristina</givenName>
+                <surName>Aristizábal Osorio</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                <deliveryPoint>Calle 10A #22-04</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555</phone>
+            <electronicMailAddress>aristizabal.cristina@uces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Estefania</givenName>
+                <surName>Marín Pulgarin</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                <deliveryPoint>Calle 10A #22-04</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555</phone>
+            <electronicMailAddress>estefa0624@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Camilo</givenName>
+                <surName>Flórez V</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Docente/Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 10A #22-04</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555</phone>
+            <electronicMailAddress>kmilofv@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Juliana</givenName>
+                <surName>Cardona Duque</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Docente/Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 10A No. 22-04</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555 ext. 1240</phone>
+            <electronicMailAddress>jcardonad@ces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Lizette Irene</givenName>
+                <surName>Quan Young</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Docente/Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 10A #22-04</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>44440555 ext. 1762</phone>
+            <electronicMailAddress>lquan@ces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-2393-7328</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Luis Esteban</givenName>
+                <surName>Alzate Basto</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Docente/Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 10A #22-04</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555</phone>
+            <electronicMailAddress>lalzateb@ces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">sk4s5IUAAAAJ&amp;hl=en</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Juliana</givenName>
+                <surName>Cardona Duque</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Docente/Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 10A No. 22-04</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555 ext. 1240</phone>
+            <electronicMailAddress>jcardonad@ces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+            <role>CURATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Lizette Irene</givenName>
+                <surName>Quan Young</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Docente/Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 10A No. 22-04</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555 ext. 1762</phone>
+            <electronicMailAddress>lquan@ces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-2393-7328</userId>
+            <role>CURATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Luis Esteban</givenName>
+                <surName>Alzate Basto</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Docente/Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 10A No. 22-04</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555</phone>
+            <electronicMailAddress>lalzateb@ces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+            <role>CURATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Juan David</givenName>
+                <surName>Sánchez Londoño</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Docente/Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 10A No. 22-04</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555</phone>
+            <electronicMailAddress>jsanchezl@ces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">sk4s5IUAAAAJ&amp;hl=en</userId>
+            <role>CURATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Mariana</givenName>
+                <surName>Ossa Yepes</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Estudiante/Monitora</positionName>
+            <address>
+                <deliveryPoint>Calle 10A #22-04</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555</phone>
+            <electronicMailAddress>ossay.mariana@uces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Cristina</givenName>
+                <surName>Aristizábal Osorio</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                <deliveryPoint>Calle 10A #22-04</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555</phone>
+            <electronicMailAddress>aristizabal.cristina@uces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Estefanía</givenName>
+                <surName>Marín Pulgarín</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                <deliveryPoint>Calle 10A #22-04</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555</phone>
+            <electronicMailAddress>estefa0624@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Camilo</givenName>
+                <surName>Flórez V.</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Docente/investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 10A #22-04</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555</phone>
+            <electronicMailAddress>kmilofv@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2022-10-13
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El curso de zoología general constituye la base fundamental sobre la cual se cimienta el estudio de algunos aspectos de los animales, y busca despertar en los estudiantes el interés en estudiar la morfología, fisiología, historia natural, diversidad e historia evolutiva. Así, el curso busca presentar conceptos claves sobre árboles filogenéticos; describir diferentes modelos de organización corporal; presentar las principales características morfológicas, evolutivas, fisiológicas y ecológicas de diferentes filo de animales seleccionados, a través de diferentes hipótesis filogenéticas; y presentar las metodologías y técnicas de trabajo en campo y laboratorio, con diferentes filo de animales.</para>
+<para>Dentro del curso se realiza una salida de campo a la Reserva Natural Sanguaré con el fin de conocer diferentes metodologías para realizar muestreos entre los diversos grupos taxonómicos y colectar eventualmente especímenes para depositarlos en las colecciones biológicas CBUCES y realizar identificaciones posteriores.</para>
+<para>En este recurso se presentan 199 registros de especímenes colectados entre octubre de 2014 y noviembre del 2019 en la Reserva Natural Sanguaré. Abarcando los grupos biológicos de herpetos, peces, moluscos, algas rojas, verdes y pardas, decápodos, esponjas marinas, equinodermos y algunos mamíferos. La mayoría de los especímenes se ha identificado a especie (n&amp;#61;65), familia (n&amp;#61;56), clase (n&amp;#61;31), género (n&amp;#61;26), orden (n&amp;#61;15) y otros niveles intermedios (n&amp;#61;6). Todos los especímenes cuentan con numero de catálogo en la colección CBUCES.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Técnicas de campo</keyword>
+            <keyword>Herpetos</keyword>
+            <keyword>Zoología</keyword>
+            <keyword>Muestreo</keyword>
+            <keyword>Caribe colombiano</keyword>
+            <keyword>Animales</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>SiB_MARINO</keyword>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>[autoridad]ANLA[numero]790[titular]Universidad CES[nit o cedula]890984002-6[fecha]2014-07-18</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sibm/archive.do?r=sanguare_ecosistemas</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El trabajo de campo se realiza en la Reserva Natural Sanguaré e Isla Palma, ubicada en el Golfo de Morrosquillo en el Caribe colombiano, en jurisdicción de la ciudad de Cartagena de Indias y el municipio de San Onofre. Esta reserva incluye los ecosistemas de bosque seco tropical, manglares, praderas de pastos, fondos sedimentarios y arrecifes coralinos.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-75.74</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-75.677</eastBoundingCoordinate>
+                    <northBoundingCoordinate>9.739</northBoundingCoordinate>
+                    <southBoundingCoordinate>9.697</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2014-10-25
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-11-03
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este conjunto de datos contiene 199 registros de especímenes agrupados en tres reinos: Animalia, Chromista y Plantae. Los especímenes se distribuyen en 11 filos, 23 clases, 22 ordenes, 41 familias, 41 géneros y 35 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Chromista</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Los especímenes del reino Animalia corresponden a 79 morfoespecies (189 registros), agrupadas en 20 clases, 18 ordenes, 37 familias, 37 géneros y 35 especies de los siguientes filo: Arthropoda, Annelida, Chordata, Echinodermata, Mollusca, Cnidaria, Porifera y Sipuncula. La mayor cantidad de registros se agrupan en el filo Annelida, seguidos de Chordata y Arthropoda. Los especímenes se encuentran mayormente identificados a nivel de especie (34.39%), seguidos de familia (28.57%), clase (15.87%), género (11.11%) y orden (7.93%).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Aciculata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Amphilepidida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Camarodonta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Canalipalpata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Chiroptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cidaroida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Decapoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Didelphimorphia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Eunicida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lagomorpha</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Phyllodocida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sabellida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Semaeostomeae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Synallactida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Terebellida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Los especímenes vegetales corresponden a 7 morfoespecies (7 registros), agrupadas en 2 clases, 3 ordenes, 3 familias y 3 géneros de los filo: Rhodophyta y  Chlorophyta. La mayor cantidad de registros se agrupan en el filo Rhodophyta, con 4, seguidos Chlorophyta con 3. Los especímenes se encuentran mayormente identificados a nivel de género (42.8%), seguidos de clase, familia, filo y sublclase cada una con un registro para un restante de 57.1%.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lithophyllaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Udoteaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Valoniaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Florideophyceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Los especímenes del reino Chromista corresponden a 2 morfoespecies (3 registros) del filo Ochrophyta, clase Phaeophyceae, orden Dictyotales y familia Dictyotaceae y género Dictyota.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dictyotaceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Juliana</givenName>
+                <surName>Cardona Duque</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Docente/Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 10A No. 22-04</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>4440555 ext. 1240</phone>
+            <electronicMailAddress>jcardonad@ces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Lizette Irene</givenName>
+                <surName>Quan Young</surName>
+            </individualName>
+            <organizationName>Universidad CES</organizationName>
+            <positionName>Docente/Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 10A #22-04</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <postalCode>050021</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>44440555 ext. 1762</phone>
+            <electronicMailAddress>lquan@ces.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.ces.edu.co/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-2393-7328</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Las técnicas de muestreo y captura para anfibios, siguen a las utilizadas en Angulo et al. (2006), Lieberman (1986), Lips et al (2001), Scott (1976), Vogt y Hine (1982). Tras ser capturados, se aplicaron anestésicos para humanos vía cutánea, oral o intratorácica, tal como lidocaína, benzocaína o xilocaína (López-López 2005).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los mamíferos fueron capturados mediante el uso de trampas sherman o havatar, y fueron sacrificados mediante la aplicación de una sobredosis de anestésico que no cause necrosis en tejidos, o mediante dislocación cervical (para los mamíferos muy pequeños) siguiendo las recomendaciones de Sikes et al. (2011). En ningún caso se recolectaron hembras gestantes.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las técnicas de muestreo y captura de insectos, siguen a las utilizadas en Villarreal et al. (2004), Wolff Echeverri (2006) y Schauff (2001). En particular, los especímenes recolectados, se capturaron de manera manual, con redes entomológicas y con trampas Vanommeren Rydon, y se utilizaron cámaras de sacrificio con acetato de etilo (C4H8O2) (Schauff 2001); además, se utilizaron trampas de caída (Pitfall), en las cuales los insectos mueren unos cuantos segundos después de entrar en contacto con el alcohol etílico al 70%, el cual es ampliamente usado como agente para sacrificar a los individuos (Schauff 2001). Las libélulas fueron sumergidas en acetona para fijar los colores.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los organismos marinos se capturaron manualmente o con la ayuda de recipientes, se relajaron en una solución de agua de mar saturada con sulfato de magnesio antes de su fijación. Poríferos - Las esponjas intermareales se recogieron completas y unidas a su substrato inmediato, desprendiéndolas del sustrato cuidadosamente con un cuchillo. Cnidarios - Los corales de estructura pétrea se fijaron y conservaron en etanol al 70% para evitar la disolución del material calcáreo. Moluscos - Se anestesiaron con sulfato de magnesio, después se fijaron en formol al 5% y posteriormente se conservaron en alcohol al 70%. Los bivalvos se conservaron con las valvas entreabiertas. Crustáceos - Los crustáceos se fijaron directamente en formol al 5%, y después de 24 horas se preservaron en etanol al 70%.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para capturar aves se dispusieron redes de niebla; estas fueron fotografiadas y luego liberadas. En ningún caso se recolectaron aves con parches de incubación.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Reserva Natural Sanguaré e Isla Palma, ubicadas en el Golfo de Morrosquillo en el Caribe colombiano.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Técnicas de muestreo y captura para anfibios, mamíferos, insectos, organismos marinos y aves.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Se estructuraron los datos biológicos en Darwin Core (DwC) como registros biológicos, mediante el uso de los elementos, definiciones y vocabularios controlados del estándar. Adicionalmente se realizó un control de la calidad de los datos por medio de las rutinas diseñadas por el SiB Colombia que permiten comparar la información biológica de los registros con el árbol taxonómico de GBIF o WoRMs y a partir de las sugerencias traídas se puedo completar la información de algunos campos; por otro lado, la información de las entidades político/administrativas se valido con la DIVIPOLA de Colombia y haciendo uso del software QGiS se valido la georreferenciación de las coordenadas a partir de un análisis de intersección de los puntos con las entidades geográficas; El formato de fecha se valido de acuerdo a ISO 8601.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Sanguaré ecosistemas estratégicos</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Juliana</givenName>
+                    <surName>Cardona Duque</surName>
+                    </individualName>
+                    <role>CURATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Lizette Irene</givenName>
+                    <surName>Quan Young</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0002-2393-7328</userId>
+                    <role>CURATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Esteban</givenName>
+                    <surName>Alzate Basto</surName>
+                    </individualName>
+            <userId directory="http://scholar.google.com/citations?user=">sk4s5IUAAAAJ&amp;hl=en</userId>
+                    <role>CURATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Juan David</givenName>
+                    <surName>Sánchez Londoño</surName>
+                    </individualName>
+                    <role>CURATOR</role>
+                </personnel>
+                <abstract>
+                    <para>En el curso de zoología, ofertado en los programas de Biología y Ecología de la universidad CES, se realizan salidas de campo anuales a la reserva natural Sanguaré con el objetivo de transmitir conocimiento práctico a los estudiantes sobre los métodos para realizar muestreos de diferentes grupos taxonómicos animales  y recolectar especímenes con el fin de identificarlos y hacer aportes sobre la biodiversidad colombiana.</para>
+                </abstract>
+                <funding>
+                    <para>Universidad CES.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El Golfo de Morrosquillo está localizado entre los 9°22’-9°45’ N y 75°33’-75°55’ W, ocupa un área de aproximadamente 1.000 km2, con profundidades entre 0 y 55 m, y una plataforma de 70 km de máxima extensión en la parte más ancha. El Golfo está rodeado por manglares y estuarios, ciénagas y, en las áreas adyacentes, existen arrecifes coralinos y pastos marinos (Ramírez et al. 1994). En el extremo suroeste se encuentra la bahía de Cispatá, antiguo delta del río Sinú (Delgadillo-Garzón y García 2009). Al norte del golfo de Morrosquillo se encuentra el conjunto de las  islas del Archipiélago de San Bernardo que corresponde a porciones elevadas de un antiguo arrecife de barrera. Este arrecife emergente, una vez erosionado, originó algunas mesetas insulares de 3 m de altura como las de Múcura y Tintipán que se caracterizan por andamios esqueléticos coralinos fósiles de Acropora cervicornis y A. palmata. La estructura de estas islas es similar a la de las Islas del Rosario, por lo cual se consideran del mismo sistema arrecifal (López-Victoria y Díaz 2000). El archipiélago está bañado por aguas relativamente claras, de salinidad poco variable (alrededor de 35%), recibe ocasionalmente la influencia de aguas provenientes de la desembocadura del río Sinú, localizada a unos 30 km al Sur del extremo sur del archipiélago (López y Díaz 2000).</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>El curso de zoología general constituye la base fundamental sobre la cual se cimienta el estudio de algunos aspectos de los animales, y busca despertar en los estudiantes el interés en estudiar la morfología, fisiología, historia natural, diversidad e historia evolutiva. Así, el curso busca presentar conceptos claves sobre árboles filogenéticos; describir diferentes modelos de organización corporal; presentar las principales características morfológicas, evolutivas, fisiológicas y ecológicas de diferentes filo de animales seleccionados, a través de diferentes hipótesis filogenéticas; y presentar las metodologías y técnicas de trabajo en campo y laboratorio, con diferentes filo de animales.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:21Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/4fpguy">Cardona Duque J, Quan Young L I, Alzate Basto L E, Sanchéz J D, Ossa Yepes M, Aristizábal Osorio C, Marín Pulgarin E, Flórez V C (2022). Biodiversidad de la Reserva Natural Sanguaré y sus ecosistemas estratégicos. Version 1.1. Universidad CES. Occurrence dataset https://doi.org/10.15472/4fpguy accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>curso_zoologia</objectName>
+                    <characterEncoding>UFT-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=curso_zoologia</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>790_curso_zoologia_20201023</objectName>
+                    <characterEncoding>UFT-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=790_curso_zoologia_20201023</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>055-059-074_790_curso_zoologia_2019-12-18</objectName>
+                    <characterEncoding>UFT-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=055-059-074_790_curso_zoologia_2019-12-18</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>zool</objectName>
+                    <characterEncoding>UFT-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=zool</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>curso_zool</objectName>
+                    <characterEncoding>UFT-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=curso_zool</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>790_curso_zoologia_20180119</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=790_curso_zoologia_20180119</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://sibcolombia.net/wp-content/uploads/2017/05/logo-ces.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>CBUCES</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 209</collectionIdentifier>
+                    <collectionName>Colecciones Biológicas de la Universidad CES</collectionName>
+                </collection>
+                <specimenPreservationMethod>OTHER</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

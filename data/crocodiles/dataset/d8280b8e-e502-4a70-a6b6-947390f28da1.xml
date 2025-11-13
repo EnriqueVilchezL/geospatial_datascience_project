@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="d8280b8e-e502-4a70-a6b6-947390f28da1"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/pmrxcl</alternateIdentifier>
+        <alternateIdentifier>d8280b8e-e502-4a70-a6b6-947390f28da1</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=geopark_llanos124_fauna_2023</alternateIdentifier>
+        <title>Monitoreo de fauna del APE Llanos 124: plataforma Pitajo Cucarachero (2023 - 2024)</title>
+        <creator>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57 601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Tellus Ingeniería S.A.S.</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 84 No. 24 – 77</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6013002836</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Tellus Ingeniería S.A.S.</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 84 No. 24 – 77</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6013002836</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57 601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <surName>Tellus Ingeniería S.A.S.</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 84 No. 24 – 77</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6013002836</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Dairo</givenName>
+                <surName>Escobar</surName>
+            </individualName>
+            <organizationName>ANDI - CNAB</organizationName>
+            <positionName>Profesional ANDI - CNAB</positionName>
+            <address>
+                <deliveryPoint>Calle 73 # 8 – 13 Piso 7 Torre A</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dairoescobar@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-8327-8670</userId>
+            <role>EDITOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Johanna</givenName>
+                <surName>Velásquez Niño</surName>
+            </individualName>
+            <organizationName>ANDI - CNAB</organizationName>
+            <positionName>Consultora</positionName>
+            <address>
+                <deliveryPoint>Calle 73 # 8 – 13 Piso 7 Torre A</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jvelasqueznino@gmail.com</electronicMailAddress>
+            <role>EDITOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57 601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>https://www.geo-park.com/es/</onlineUrl>
+            <role>OWNER</role>
+        </associatedParty>
+        <pubDate>
+                2025-02-28
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El proyecto &amp;#34;Monitoreo de fauna del APE Llanos 124: plataformas Saltador y Toritos - (2023 - 2024)&amp;#34; busca realizar la caracterización de mastofauna amenazada para el “Área de intervención de la Plataforma Multipozo Pitajo Cucarachero y su vía de acceso en el Área de Perforación Exploratoria Llanos 124, localizado en el municipio de Cabuyaro (departamento de Meta)” en cumplimiento a la medida de manejo establecida en la Ficha PSM-ECT-08</para><para>En el marco de este estudio, se realizó la caracterización del componente biótico asociado al área de influencia del mismo, y por eso se presenta este conjunto de datos compuesto por 1.723 registros biológicos (1.609 presencias y 114 ausencias)  que provienen de muestreos de fauna desarrollados durante un monitoreo en el año 2023 y otro en el año 2024.</para><para>El municipio representado es Cabuyaro, ubicado en el departamento de Meta. El recurso se distribuye taxonómicamente en 5 clases: Amphibia (370), Aves (1.046) y Crocodylia (39), Mammalia (105), Squamata (46) y Testudines (3).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Monitoreo; Transectos; Puntos de observación; Fauna; Colombia; Meta; Llanos 124; 2023; 2024</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=geopark_llanos124_fauna_2023</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Coberturas de la tierra de las áreas de intervención de la Plataforma Multipozos Pitajo Cucarachero y su vía de acceso y zonas adyacentes; la cual se encuentra ubicada cerca al municipio de Cabuyaro - Meta, vereda Guayabal.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.838</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.822</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.408</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.395</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-10-23
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-11-07
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El recurso taxonómicamente cubre las clases Amphibia (370), Aves (1.046) y Crocodylia (39), Mammalia (105), Squamata (46) y Testudines (3), que su vez se encuentran divididos en 26 órdenes, 59 familias, 114 géneros y 133 especies. De los registros con presencia, el 99.9% de los animales está identificado a nivel de especie. a excepción de un registro que esta determinado hasta género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Realizar el Monitoreo de mastofauna amenazada para el “Área de intervención de la Plataforma Multipozo Pitajo Cucarachero y su vía de acceso en el Área de Perforación Exploratoria Llanos 124, localizado en el municipio de Cabuyaro (departamento de Meta)” en cumplimiento a la medida de manejo establecida en la Ficha PSM-ECT-08</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Andrés Leonardo</givenName>
+                <surName>Rodríguez Galvis</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Especialista Biótico</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>anrodriguez@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FASE DE CAMPO</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: A fin de identificar la estructura y la composición de la avifauna presente en el área de intervención de la Plataforma Multipozo Pitajo Cucarachero y su vía de acceso, desde el 23 hasta el 31 de octubre de 2023 y desde el 29 de octubre al 6 de noviembre de 2024, se utilizaron las metodologías que se describen a continuación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Recorridos de observación: Se realizaron recorridos o transectos de observación de forma constante, los cuales abarcaron diferentes coberturas al interior del área de estudio (Bosques de galería y/o riparios, vegetación secundaria o en transición, palmas de aceites, pastos, herbazales densos, red vial y territorios artificializados y zonas de préstamo lateral), con el fin de registrar aves en sitios con topografía irregular y paisajes con hábitats reducidos. Esta metodología permitió registrar individuos vistos o escuchados durante el trayecto realizado por el observador, tomando la información relacionada con la abundancia, ecología y otra información relevante, así como también el registro fotográfico cuando fue posible.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las observaciones se realizaron en las horas de mayor actividad de las aves, entre las 5:00 a 10:00 horas, y las 15:00 – 18:00 horas (Bibby et al, 2000). Los datos referentes al tipo de cobertura vegetal, posición o estrato en la que el ave fue observada también se priorizó como información de campo, la cual fue consignada en formatos de campo específicos. La identificación de las especies estuvo apoyada en la experiencia del observador y las guías de campo mencionadas en la metodología por captura de individuos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La caracterización de la comunidad de aves asociada a las dos coberturas identificadas en el área de intervención de la Plataforma Multipozo Pitajo Cucarachero y su vía de acceso (Cacao y Pastos Limpios), se llevó a cabo a través de transectos de largo y ancho variable, lo que permite al observador generar una lista de especies que presentes en el hábitat. Los recorridos se llevaron a cabo durante cuatro (4) días para cada una de las coberturas y se tuvieron en cuenta todos los registros visuales y auditivos de las aves. La observación se llevó a cabo en dos jornadas, en la mañana, entre las 6:00 am y las 10:30 am, y en la tarde entre las 15:00 y las 18:00 horas teniendo en cuenta que según Villareal et. al 2014, estos horarios resultan ser los más recomendados para la observación de aves. La identificación y observación de los individuos durante los recorridos se realizaron con apoyo de binoculares, cámara fotográfica y guías de campo de Ayerbe-Quiñonez, 2022. La determinación taxonómica, hábitat y abundancias que fueron consignadas en formatos digitales de campo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La implementación de esta metodología permitió la realización de un total de ocho (8) transectos para el 2023 y 12 transectos para el 2024 en toda el área de intervención del proyecto.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Captura con redes de niebla: Para la captura de aves se instalaron cinco (5) redes de niebla de 12 x 2,5 m y 34 mm de ojo de malla en lugares específicos de alto tránsito de individuos, abiertas en horas de mayor actividad comprendiendo las 05:30 hasta las 10:00 horas y las 15:00 y las 18:00 horas y revisión cada 20 o 30 minutos, cuya funcionalidad por unidad vegetal muestreada comprendió los tres (3) días consecutivos por unidad vegetal (Villarreal et al, 2006).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Durante el monitoreo llevado a cabo mediante la utilización de redes de niebla, se estableció una estación de muestreo para el 2023 y tres estaciones para el 2024 para cada una de las dos coberturas evaluadas, teniendo en cuenta las recomendaciones realizadas por diversos autores para su instalación. Dentro de las cuales se instalaron 5 redes de 12 m de largo y 2,5 m de alto con un ojo de malla de 30 mm, lo que permitió obtener un 60 m red/hombre por estación de muestreo. Las redes fueron abiertas durante el día teniendo en cuenta los picos de mayor actividad que se tienen establecidos de acuerdo a la literatura para este grupo faunístico.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las redes fueron abiertas al amanecer y/o al atardecer, estas fueron revisadas con una frecuencia de 20 minutos. Cada uno de los individuos capturados durante los días de muestreo fueron dispuestos en bolsas de tela individuales, con el fin de ser posteriormente manipuladas para obtener los respectivos registros fotográficos, así como todos los datos que fuesen requeridos para lograr su correcta identificación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Con el fin de obtener el registro fotográfico y toda la información que se requiriera para la correcta identificación de los individuos se estableció un punto equidistante a las redes instaladas en el que se realizaron estas actividades, los cuales posteriormente fueron liberados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Si bien cada método empleado trae consigo sus ventajas y desventajas es importante resaltar que la metodología basada en observación tal como lo plantean autores como Taylor (2003) presentan diversas ventajas al momento de determinar la diversidad de aves en un hábitat, tal como lo es el hecho de que este tipo de metodología permite registrar datos comportamentales de las aves, así como sobre el uso que hacen de los diferentes recursos ofrecidos por cada una de las coberturas, al igual que permiten detectar aquellas aves que se encuentran en los diferentes estratos vegetales de las coberturas, mientras que en el caso del uso de las redes de niebla, al ser una técnica relativamente selectiva frente a las especies, en ocasiones no se logrará la captura de muchos individuos presentes en la zona que podrían ser incluidos mediante los recorridos de observación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>A la par con las metodologías anteriormente descritas se aplicaron encuestas semiestructuradas a algunos de los habitantes adultos aledaños a la zona de estudio con el fin de obtener información adicional de las especies de avifauna que pudieran llegar a ser difíciles de observar en periodos cortos de muestreo o con hábitos migratorios. Para el año 2024, en el área de intervención se realizaron 2 entrevistas semiestructuradas a los habitantes de la zona, estas encuestas se realizaron con el fin de obtener información de las especies animales con hábitos estacionarios o migratorios que no se evidencian durante todo el año y no fue posible registrarlos en la fase de campo. La información proporcionada por los encuestados respecto a nombre común, hábitat, frecuencia de observación, amenazas, usos y demás datos, fueron consignados en formatos de campo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para esto, se utilizó como recurso catálogos de identificación, guías de campo y la herramienta digital Merlín en la que se pueden evidenciar las fotografías de los individuos que podrían llegar a ser avistados en el área de estudio. La información proporcionada por los encuestados respecto a nombre común, hábitat, frecuencia de observación, amenazas, usos y demás datos, fueron consignados en formatos de campo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: Los mamíferos son un grupo de animales que pertenecen a la clase Mammalia dentro del reino Animalia que están ampliamente distribuidos a lo largo del planeta tierra debido a diferentes adaptaciones evolutivas que se pueden encontrar en todas sus especies. Dichas especies ocupan un papel muy importante en todas las comunidades y ecosistemas donde se desempeñan, mantenido un equilibrio en el intercambio de energía con el medio biótico y abiótico (Trujillo &amp; S., Biodiversidad de la cuenca baja y media del río Meta. , 2016)</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Colombia es un país megadiverso, ocupando el segundo lugar en biodiversidad en el mundo después de Brasil, siendo esto favorecido por su ubicación geográfica al norte de la cordillera de los Andes donde confluyen biotas de las biorregiones del Chocó, los Llanos, el Amazonas, el Caribe y los Andes, evidenciando una heterogeneidad geográfica, ambiental y biótica (Solari, y otros, 2013). Para el presente monitoreo desarrollado entre el 23 y el 31 de octubre del 2023, en el cual se realizó la caracterización e identificación de la composición y estructura de la mastofauna presente en el área de intervención de la plataforma Multipozo Pitajo Cucarachero y su vía de acceso ubicado en el APE Llanos 124, para ello, se utilizaron las metodologías que se describen a continuación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Recorridos de observación: La caracterización para la composición de mamíferos, asociada a las dos coberturas evaluadas en el área de intervención del proyecto Plataforma Multipozo Pitajo Cucarachero y su vía de acceso, se realizaron transectos de largo y ancho variable para la determinación de posibles avistamientos, como registros auditivos, rastros, huellas, excretas, marcas o alguna otra evidencia de la presencia de mamíferos en la zona de intervención. Se realizó un transecto por cada cobertura que se recorrió en un tiempo de una hora en horas diurnas (9:30-10:30) y una hora en horario nocturno (19:00-20:00). Sin embargo, se tuvieron en cuenta también los registros que no estuvieron asociados a un transecto, pero fueron obtenidos de manera alterna a las otras metodologías para mamíferos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Puntos de observación e implementación de trampas para Mamíferos: Para los puntos de observación se presenta los puntos referentes a encuentros visuales de indicios de la mastofauna como los rastros, huellas, auditivos y observación directa de los mamíferos para el área de intervención de la Plataforma Multipozo Pitajo Cucarachero y su vía de acceso (APE Llanos 124).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la caracterización de pequeños mamíferos que pueden ser principalmente de los órdenes Rodentia (ratones) y Didelphimorphia (zarigüeyas), aunque ocasionalmente pueden ser capturas como las musarañas y ratones, se implementó la instalación de 20 trampas Sherman. Revision de Trampas Sherman) distribuidas aleatoriamente durante 4 noches efectivas en cada cobertura de interés para analizar, en un transecto libre dejando un espacio entre 10 a 15 metros entre cada trampa, seleccionando sitios con evidencia o probabilidad de paso o refugio de pequeños mamíferos. Como cebo atrayente para las trampas se utilizó una mezcla de banano, avena, granola, esencia de vainilla y mantequilla de maní preparada con anticipación diariamente, ya que es buen atrayente de olor. Cada trampa se revisó al día siguiente de ser recebada para evidenciar posibles capturas y recebar nuevamente. En caso de tener capturas, se manipulaba el individuo con ayuda de guantes de carnaza y bolsas de tela para posibilitar la toma de fotografías e identificación para luego proceder a la liberación del individuo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los mamíferos de talla grande se instalaron trampas de tipo TomaHawk la cual cumple casi las mismas condiciones de activación de la metodología anteriormente descrita a excepción del cebo, el cual se implementó sardinas como alimento atrayente para la captura de mamíferos de porte mediano a grande. Estas fueron revisadas al día siguiente de ser recebada para evidenciar posibles capturas y recebadas nuevamente. En caso de tener capturas, se manipulaba el individuo con ayuda de guantes de carnaza y bolsas de tela para posibilitar la toma de fotografías e identificación para luego proceder a la liberación del individuo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Adicional a los métodos descritos anteriormente, se utilizaron cámaras trampa. Camara Trampa activada), para la detección de mamíferos de tamaño mediano y grande que pueden ser identificados por este método, ya que son un método no invasivo y que permite registrar animales que son de difícil detección o cuyas abundancias son bajas. Se colocaron entre 4 y 5 cámaras para cada cobertura analizada, dejándolas 4 noches efectivas en cada sitio y fueron cebadas con sardina en lata y comida para perro adulto para atraer mamíferos con preferencias de dieta principalmente carnívora u omnívora.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Captura con redes de niebla: Se utilizaron redes de niebla para la captura de mamíferos voladores (murciélagos) en un horario entre las 17:30 y las 20:30 durante cuatro noches por cada cobertura, esto con el fin de cubrir la mayor cantidad de especies posibles teniendo en cuenta los patrones de actividad, donde muchos murciélagos insectívoros comienzan su actividad antes del anochecer y cubriendo los mayores picos entre las 18:00 y las 19:00 horas (Presley, Willing, Castro-Arellano, &amp; Weaver, 2009). Las redes utilizadas tenían una longitud de 12 metros de largo x 3 metros de alto y fueron colocadas de manera independiente o en tándem (juntas) si el terreno lo permitía.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las redes se revisaron cada 20 o 30 minutos según la actividad de los murciélagos, y en caso de capturas, se manipularon a los individuos con guantes de carnaza y se desplazaron en bolsas de tela hasta el punto destinado para la identificación y fotografía, ubicado cerca de las redes, pero manteniendo una distancia prudente para no afectar el éxito de captura.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Esfuerzo de muestreo: Para la caracterización del área de intervención en la Plataforma Multipozo Pitajo-Cucarachero y su vía de acceso localizadas en el (APE Llano 124). Este esfuerzo fue estandarizado para cada cobertura con el fin de obtener resultados equilibrados entre ellas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cabe resaltar que el área presenta acciones constantes de fumigación y ganadería extensiva, los cuales son factores negativos para la presencia y ocurrencia de ciertas especies de fauna silvestre, principalmente mamíferos y anfibios que podrían estar presente en el área de estudio, lo cual permite evidenciar que estas presiones antrópicas en el área pueden estar afectar la ocurrencia y presencia de ciertas especies descritas en los estudios anteriores.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Anfibios y Reptiles: Los anfibios en Colombia, ocupa un segundo lugar con el mayor número de especies de anfibios para el planeta (Tapley, 2018), se reportan cerca de unas 884 especies, las cuales se encuentran distribuidas en tres (3) órdenes y 21 familias (Batrachia, 2023), siendo el orden Anura, el que presenta un mayor número de especies (827 especies y 14 familias), Otras familias distinguidas son Strabomantidae e Hylidae ya que presentan mayor número de especies para Colombia, cerca de 267 y 154 especies reportadas al presente. De todas las especies colombianas, 291 se encuentran en alguna categoría dentro de los criterios de amenaza y 421 son de tipo endémicas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para el grupo de reptiles Colombia presenta aproximadamente 667 especies de reptiles distribuidas en tres (3) órdenes y 35 familias, siendo el orden Squamata el que presenta la mayor cantidad de ellas (588 especies y 25 familias) (Uetz, 2022). Dentro de este orden, la familia Colubridae es la que presenta la mayor riqueza de especies, con un total de 251, seguida por las familias Dactyloidae (78) y Gymnophthalmidae (60) (Uetz, 2022). Del total de especies registradas para Colombia, 44 se encuentran en alguna categoría de amenaza (Morales-B, 2015). Aunque los órdenes Testudines y Crocodylia solo presentan 35 y seis (6) especies en Colombia, respectivamente, dichas cifras posicionan al país en un puesto privilegiado en cuanto a diversidad de tortugas y cocodrilos. Paradójicamente, el conocimiento sobre su biología es escaso en comparación con otros vertebrados (Castaño-Mora O. V., 2002).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>A continuación, se presentan las metodologías empleadas para el levantamiento de la composición y estructura de la herpetofauna presente en el área de intervención dde la Plataforma Multipozo Pitajo Cucarachero y su vía de acceso.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Inspección por Encuentro Visual (VES): Para el registro de las especies de anfibios y reptiles presentes en el área de intervención de la Plataforma Multipozo Pitajo Cucarachero y su vía de acceso, se implementó el método de búsqueda VES (por sus siglas en inglés, Visual Encounter Surveys) (Crump, 1994), (Carvajal-Cogollo, 2008). Este método, consiste en recorrer durante un tiempo establecido un área, hábitat o cobertura determinada, para lo cual se busca cubrir los picos de mayor actividad de los anfibios y reptiles, realizando muestreo entre 8:00 a 12:00 y entre 18:00 y las 22:00 horas (Crump, 1994). Para la caracterización de la herpetofauna en el área de intervención de la Plataforma Multipozo Pitajo Cucarachero y su vía de acceso, el trabajo de campo fue realizado por dos personas, un biólogo herpetólogo y un auxiliar de campo, conocedor del área, el esfuerzo de muestreo vario entre 8 y 10 horas efectivas diarias, cuando solo se realizó muestreo diurno el esfuerzo fue de 8 horas y cuando se incluyeron horas nocturnas el esfuerzo fue de 10 horas efectivas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Durante los muestreos se realizaron recorridos libres diurnos y nocturnos revisando de forma detallada todos los hábitat y coberturas disponibles, lo que permite registrar la mayor cantidad posibles de anfibios y reptiles. Cuando se localiza un individuo se registró la información de 1) cobertura vegetal asociada, 2) hábitat; 3) hora de captura o avistamiento, 4) coordenadas del sitio y 5) registro fotográfico de los individuos. Cuando era requerido se capturaron los individuos para su correcta identificación, para lo cual se manipulaba por medio de guantes de carnaza y gancho herpetológico, cuando fue necesario para corroborar las identificaciones los individuos fueron trasladados en bolsa de tela a un lugar para hacerle un registro fotográfico más detallado, los animales capturados fueron posteriormente liberados en la jornada de captura y en el mismo lugar de avistamiento.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Esfuerzo de muestreo: El trabajo de campo fue realizado por dos personas, un biólogo herpetólogo y un auxiliar de campo, conocedor del área, el esfuerzo de muestreo vario entre 8 y 10 horas efectivas diarias, cuando solo se realizó muestreo diurno el esfuerzo fue de 8 horas y cuando se incluyeron horas nocturnas el esfuerzo fue de 10 horas efectivas. En total se logró un esfuerzo acumulado para las dos coberturas (Cacao y Pastos limpios) de 76 horas/hombre, para el proyecto de intervención en la Plataforma Multipozo Pitajo-Cucarachero y su vía de acceso. Durante los muestreos se realizaron recorridos libres tanto diurnos y nocturnos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FASE POST-CAMPO</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Identificación Taxonómica: La información taxonómica de las especies de aves registradas se presenta con base en la clasificación de las especies de aves de Suramérica de la base de datos del “South American Classification Committee” consultada en noviembre de 2023 (https://www.museum.lsu.edu/~Remsen/SACCBaseline.htm). Para su identificación se emplearon las guías de campo Field Guide to the Birds of Colombia (McMullan, y otros, 2018) y Guía Ilustrada de la Avifauna Colombiana (Ayerbe-Quiñonez, 2022).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la identificación taxonómica en fase de campo, se utilizaron las guías de campo para mamíferos no voladores; mamíferos de Sur América, volumen 1 (Gardner, 2007), mamíferos de Sur América, volumen 2 (James L. Patton, 2015), para los mamíferos voladores se utilizó la guía de campo murciélagos amazónicos (López-Baucells., 2016), y la clave de identificación de los murciélagos de Sudamérica (Díaz, Solari, Aguirre, S., &amp; Barquez, 2016), agregando la experiencia del Biólogo profesional. Para la corroboración taxonómica se siguió la literatura de Mamíferos de Colombia (Ramírez Chaves, y otros, 2021) y Biodiversidad de la Cuenca baja y media del río Meta (Trujillo &amp; 2016, Biodiversidad de la cuenca baja y media del río Meta. , 2016).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la identificación taxonómica en fase de campo, se utilizó la lista de los anfibios de Colombia (Acosta Galvis, Lista de los Anfibios de Colombia: Referencia en línea V.12.2022 (12 de noviembre de 2023). , 2022), anfibios y reptiles capítulo 8 biodiversidad de la cuenca del Orinoco (Acosta-Galvis A.R., 2010) y Anfibios y Reptiles del departamento del Meta, Colombia (Ana Milena Ramírez-Villalba, 2014)</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la identificación taxonómica en fase de campo, se utilizó la guía de los anfibios y reptiles capítulo 8 biodiversidad de la cuenca del Orinoco (Acosta-Galvis A.R., 2010), Anfibios y Reptiles del departamento del Meta, Colombia (Ana Milena Ramírez-Villalba, 2014), Libro Rojo de Reptiles de Colombia (Castaño-Mora, 2002) y el libro rojo de reptiles de Colombia actualizado (Morales-Betancourt M. A., 2015).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Realizar el Monitoreo de mastofauna amenazada para el “Área de intervención de la Plataforma Multipozo Pitajo Cucarachero y su vía de acceso en el Área de Perforación Exploratoria Llanos 124, localizado en el municipio de Cabuyaro (departamento de Meta)” en cumplimiento a la medida de manejo establecida en la Ficha PSM-ECT-08.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Las diferentes metodologías empleadas en campo para el levantamiento de información de fauna terrestre, se basó en el Manual de Métodos para el Desarrollo de Inventarios de Biodiversidad (Villarreal et al., 2006), la Metodología General para la Elaboración y Presentación de Estudios Ambientales (MADS, 2018) y los estudios anteriores como el Estudios de Impacto Ambiental para el Área de Perforación Exploratoria Llanos 124 (APE Llanos 124) realizado en noviembre de 2021 y el plan de manejo ambiental para la Plataforma Multipozo Pitajo-Cucarachero y su vía de acceso.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Con el objetivo de obtener una alta representatividad en los registros de Mamíferos para la zona enfocándonos en el registro de especies amenazadas y/o de importancia ecológica se implementaron diferentes metodologías de trampeo como: recorridos de observación, captura en redes de niebla, captura en trampas Sherman y cámaras trampa, es de resaltar que para la Plataforma Multipozo Pitajo-Cucarachero y su vía de acceso, en cuanto a especies de mamíferos amenazadas se obtuvieron los registros mediante los recorridos de observación con registro de rastros y cámaras trampa.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Monitoreo de Fauna Llanos124 - Pitajo cucarachero</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Andrés Leonardo</givenName>
+                    <surName>Rodríguez Galvis</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>El proyecto &quot;Monitoreo de Fauna Llanos124 - Pitajo cucarachero&quot; busca realizar la caracterización de mastofauna amenazada para el “Área de intervención de la Plataforma Multipozo Pitajo Cucarachero y su vía de acceso en el Área de Perforación Exploratoria Llanos 124, localizado en el municipio de Cabuyaro (departamento de Meta)” en cumplimiento a la medida de manejo establecida en la Ficha PSM-ECT-08.</para>
+                </abstract>
+                <funding>
+                    <para>Geopark Colombia S.A.S.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Coberturas de la tierra de las áreas de intervención de la Plataforma Multipozos Pitajo Cucarachero y su vía de acceso y zonas adyacentes; la cual se encuentra ubicada cerca al municipio de Cabuyaro - Meta, vereda Guayabal.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Para dar cumplimiento a las obligaciones establecidas por la Autoridad Nacional de Licencias Ambientales – ANLA en la Resolución N° 01198 del 08 de junio de 2022 “Por la cual se otorga una Licencia Ambiental y se toman otras determinaciones” al Área de Perforación Exploratoria Llanos 124 (APE Llanos 124), se realiza el Monitoreo de mastofauna amenazada para el “Área de intervención de la Plataforma Multipozo Pitajo Cucarachero y su vía de acceso al interior del APE Llanos 124, localizado en el municipio de Cabuyaro (departamento de Meta)”, en cumplimiento a la medida de manejo establecida en la Ficha PSM-ECT-08.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:11Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/pmrxcl">GeoPark Colombia S.A.S., Tellus Ingeniería S.A.S. (2025). Monitoreo de fauna del APE Llanos 124: plataforma Pitajo Cucarachero (2023 - 2024). Version 1.1. GeoPark Colombia S.A.S. Occurrence dataset https://doi.org/10.15472/pmrxcl accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Bibby, C. J., Burgess, N. D., Hillis, D., Hill, D. &amp; Mustoe, S. 2000. Bird Census Techniques. Academic Press, London</citation>
+                <citation>Ayerbe-Quiñones, F. 2022. Guía ilustrada d ela avifauna colombiana. Wildlife conservation society.</citation>
+                <citation>Villarreal, H., Álvarez, M., Córdoba, S., Escobar, F., Fagua, G., Gast, F., Mendoza, H., Ospina, M. &amp; Umaña, A. 2006. Manual de métodos para el desarrollo de inventarios de biodiversidad. Programa de inventario de biodiversidad. Instituto de investigación de recursos biológicos Alexander Von Humboldt. Bogotá, p. 235.</citation>
+                <citation>Taylor, R. (2003). ¿Cómo medir la diversidad de aves presentes en los sistemas agroforestales? Agroforestería en las Américas, 39-40.</citation>
+                <citation>Trujillo, F., &amp; 2016, R. A. (2016). Biodiversidad de la cuenca baja y media del río Meta. . Fundación OMACHA, Fundacion Palmarito, WWF, 336 pag.</citation>
+                <citation>Solari, S., Muñoz Saba, Y., Rodríguez Mahecha, J. V., Defler, T. R., Ramírez Chaves, H. E., &amp; Trujillo, F. (2013). Riqueza, Endemismo y Conservación de los Mamíferos de Colombia. . Mastozoólogía Neotropical. , Pag. 301-365.</citation>
+                <citation>Presley, S. J., Willing, M. R., Castro-Arellano, I., &amp; Weaver, S. C. (2009). Effects of Habitat Conversion on Temporal Activity Patterns of Phyllostomid Bats in Lowland Amazonian Rain Forest. Journal of Mammalogy. , 210-221.</citation>
+                <citation>Tapley, B. M.-K. (2018). The disparity between species description and conservation assessment: A case study in taxa with high rates of species discovery. . Biological conservation, 220, 209-214.
+Taylor, R. (2003). ¿Cómo medir la diversidad de aves presentes en los sistemas agroforestales? Agroforestería en las Américas, 39-40.</citation>
+                <citation identifier="https://www.batrachia.com/">Batrachia. (15 de noveimbre de 2023). https://www.batrachia.com/. Obtenido de https://www.batrachia.com/: https://www.batrachia.com/</citation>
+                <citation>Uetz, P. F. (2022). The Reptile Database. reptile-database.org. Acceso: 16 de noviembre de 2023.</citation>
+                <citation>Morales-B, M. A. (2015). Libro rojo de reptiles de Colombia (2015). Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH),. Universidad de Antioquia. Bogotá, D. C., Colombia., 258 p.</citation>
+                <citation>Castaño-Mora, O. V. (2002). Libro rojo de reptiles de Colombia. . Instituto Humboldt Colombia, Universidad Nacional de Colombia.</citation>
+                <citation>Crump, M. A. (1994). Visual encounter survey.In: Heyer, W.R.Donnelly, MA; McDiarmid, R.W, Donnelly, Heyek, L.C, and Foster, M.S.(Eds). Measuring and monitoring Biological diversity, Standard Methods for Amphibians Smithsonian Institution Press, Washington D.C, pp 84-91.</citation>
+                <citation>Carvajal-Cogollo, J. E.-C. (2008). Patrones de diversidad y composición de reptiles en fragmentos de bosque seco tropical en Córdoba, Colombia. . Tropical Conservation Science Vol.1 , (4):397-416.</citation>
+                <citation>McMullan, M., Donegan, T., Pantoja-Peña, G., Tuncer-Navarro, T., Bartels, A., &amp; Ellery, T. (2018). Field Guide to the Birds of Colombia. Bogotá, D.C: Delfín S.A.S.</citation>
+                <citation>Gardner, A. L. (2007). Mammals of South America Volumen 1. The University of Chicago Press. London.</citation>
+                <citation>James L. Patton, U. F. (2015). Mammals of South America Volumen 2. The University of Chicago Press Chicago and London. Chicago and London: The University of Chicago Press Chicago and London.</citation>
+                <citation>López-Baucells., A. (2016). Field Guide to Amazonian Bats / Manaus:. Editora INPA,.</citation>
+                <citation>Díaz, M. M., Solari, S., Aguirre, L. F., S., A. L., &amp; Barquez, R. M. (2016). Clave de Identificación de los Murciélagos de Sudamérica. . Tucumán.: Magna Publicaciones.</citation>
+                <citation>Ramírez Chaves, H. E., Suárez Castro, A. F., Morales Martínez, D. M., Rodríguez Posada, M. E., Zurc, D., Concha Osbahr, D. C., . . . C, L. (2021). Mamiferos de Colombia. Sociedad Colombiana de Mastozoologia.</citation>
+                <citation>Acosta Galvis, A. R. (12 de noviembre de 2022). Lista de los Anfibios de Colombia: Referencia en línea V.12.2022 (12 de noviembre de 2023). . Obtenido de Lista de los Anfibios de Colombia: Referencia en línea V.12.2022 (12 de noviembre de 2023). : Página web accesible en http://www.batrachia.com; Batrachia, Villa de Leyva, Boyacá, Colombia.</citation>
+                <citation>Acosta-Galvis A.R., J. S.-R.-P. (2010). Anfibios y reptiles. in Biodiversidad de la cuenca del Orinoco: Bases científicas para la identificación de áreas prioritarias para la conservación y uso sostenible de la biodiversidad . Instituto de Investigacion de Recursos Biologicos Alexander von Humboldt, WWF Colombia, Fundacion OMACHA, Fundacion la Salle and Instituto de Estudios de la Orinoquia (Universidad Nacional de Colombia), Capítulo 8. Pp. 258-289.</citation>
+                <citation>Ana Milena Ramírez-Villalba, D. A. (2014). Anfibios y Reptiles del departamento del Meta, Colombia.</citation>
+                <citation>Morales-Betancourt, M. A., Lasso, C., Páez, V., &amp; Bock, B. .. (2015). Libro rojo de reptiles de Colombia (2015). . Bogota: Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH), Universidad de Antioquia.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-geopark.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

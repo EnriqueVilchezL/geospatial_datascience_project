@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="6bf81dee-f056-435b-bcf0-fe54f39b2a13"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/q0wrzm</alternateIdentifier>
+        <alternateIdentifier>6bf81dee-f056-435b-bcf0-fe54f39b2a13</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=ecopetrol_ecoreservas_sonidos-apiay</alternateIdentifier>
+        <title>Sonidos de fauna de la Ecoreserva Apiay (Villavicencio, Meta) - Proyecto Ecoreservas</title>
+        <creator>
+            <individualName>
+                <surName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <onlineUrl>http://www.humboldt.org.co/es/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Ecopetrol. S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol. S.A.</organizationName>
+            <positionName>Gerencia de Sostenibilidad y Descarbonización</positionName>
+            <address>
+                <deliveryPoint>Carrera 7 # 32–42. Edificio San Martín Piso 32</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>60 (1) 2340000 Ext 54510</phone>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Cenit Transporte y Logística de Hidrocarburos S.A.S.</surName>
+            </individualName>
+            <organizationName>Cenit Transporte y Logística de Hidrocarburos S.A.S.</organizationName>
+            <address>
+                <deliveryPoint>Calle 113 # 7-80 piso 10</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57 (601) 319 88 00</phone>
+            <onlineUrl>https://cenit-transporte.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Oleoducto Bicentenario de Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>Oleoducto Bicentenario de Colombia S.A.S.</organizationName>
+            <address>
+                <deliveryPoint>Carrera 11 A # 93-35 Torre UNO 93</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57 (601) 6461300</phone>
+            <onlineUrl>https://www.odl.com.co/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Infraestructura Institucional de Datos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Ecopetrol. S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol. S.A.</organizationName>
+            <positionName>Gerencia de Sostenibilidad y Descarbonización</positionName>
+            <address>
+                <deliveryPoint>Carrera 7 # 32–42. Edificio San Martín Piso 32</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>60 (1) 2340000 Ext 54510</phone>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Eliana</givenName>
+                <surName>Barona Cortés</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15-08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>ebarona@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Oleoducto Bicentenario de Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>Oleoducto Bicentenario de Colombia S.A.S.</organizationName>
+            <address>
+                <deliveryPoint>Carrera 11 A # 93-35 Torre UNO 93</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57 (601) 6461300</phone>
+            <onlineUrl>https://www.odl.com.co/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Cenit Transporte y Logística de Hidrocarburos S.A.S.</surName>
+            </individualName>
+            <organizationName>Cenit Transporte y Logística de Hidrocarburos S.A.S.</organizationName>
+            <address>
+                <deliveryPoint>Calle 113 # 7-80 piso 10</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57 (601) 319 88 00</phone>
+            <onlineUrl>https://cenit-transporte.com/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-05-19
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Bajo el convenio de cooperación No. 22-007 entre Ecopetrol, Cenit y Bicentenario y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, se llevó a cabo el levantamiento de la Línea Base de Biodiversidad y Servicios Ecosistémicos para cuatro predios piloto de Ecoreservas en predios de Ecopetrol, Cenit y Bicentenario, ubicados en tres regiones del país. Este levantamiento incluyó el desarrollo de muestreos rápidos de biodiversidad para siete grupos biológicos y la recolección de sonidos en predios ubicados en los departamentos de Cundinamarca, Córdoba y Meta.  
+
+El componente de sonidos, hizo un acompañamiento durante tres días de muestreo. Se recorrieron senderos y caminos, donde se identificaron áreas como quebradas y otros cuerpos de agua para realizar las grabaciones. Se siguió el protocolo de grabación de la Colección de Sonidos Ambientales del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-CSA).
+
+El presente conjunto de datos contiene 72 registros de sonidos de aves, anfibios, mamíferos, insectos, aves, peces y reptiles  de la Ecoreserva Apiay (Villavicencio, Meta).
+        </abstract>
+        <keywordSet>
+            <keyword>espécimen extendido</keyword>
+            <keyword>sonidos</keyword>
+            <keyword>mamíferos</keyword>
+            <keyword>peces</keyword>
+            <keyword>reptiles</keyword>
+            <keyword>anfibios</keyword>
+            <keyword>conservacion</keyword>
+            <keyword>aves</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://ipt.biodiversidad.co/sib/resource?r=ecopetrol_ecoreservas_sonidos-apiay</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=ecopetrol_ecoreservas_sonidos-apiay</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El muestreo de sonidos se llevó a cabo en las veredas Alto de Pompeya y Peralonso del municipio de Villavicencio, en un área de 312,1 ha distribuidas en un rango altitudinal de 286 a 309 m s.n.m</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.389</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.362</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.095</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.074</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2022-11-09
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-11-16
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El presente conjunto de datos contiene 72 registros de sonidos y abarca seis grupos biológicos (anfibios, reptiles, aves, peces, mamíferos e insectos), 16 órdenes, 30 familias, 43 géneros y 47 especies. El grupo mejor representado fueron las aves, con el 59 % de los cortes de audio, seguido de los anfibios (25%) y finalmente peces (8%). En las aves la mayor proporción de cantos estuvo representada por el orden de las aves cantoras (Passeriformes) con 63% , donde la familia los atrapamoscas (Tyrannidae) y los hormigueros (Thamnophilidae) conformaron la mayoría de los cortes de audio (35%). En los anfibios el 54 % de los cantos pertenecieron a especies de la familia Hylidae.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Sauropsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Este conjunto de datos hace parte de la Línea Base de Biodiversidad y Servicios Ecosistémicos generada para cuatro Ecoreservas, identificadas como áreas de propiedad de Ecopetrol y sus filiales, destinadas en parte o completamente a la conservación de la biodiversidad y oferta de servicios ecosistémicos, sin limitar su vocación productiva.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Aída</givenName>
+                <surName>Otálora-Ardila</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15 - 08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>aotalora@humbdolt.org.co</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Angela M</givenName>
+                <surName>Mendoza-Henao</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15 - 08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>amendoza@humbdolt.org.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Se realizó una validación geográfica de coordenadas del área de estudio, la cual incluyó corrección a nivel de vereda, municipio y departamento.
+Se realizaron consultas con expertos y material de referencia de la IAvH-CSA para la correcta identificación taxonómica de cada corte de audio obtenido. Así mismo, cada corte fue procesado siguiendo los estándares internos (Acevedo-Charry et al., 2021, Buitrago et al., 2022) y depositado en la colección. 
+El depósito de lo ejemplares de audio estuvo apoyado por un formato tipo Darwin Core, con lenguaje controlado, el cual fue migrado a la plataforma interna de manejo de datos Specify.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La Ecoreserva Apiay se encuentra ubicada en las veredas Alto de Pompeya y Peralonso del municipio de Villavicencio (Meta). Esta Ecoreserva tiene un área de 312,1 ha distribuidas en un rango altitudinal de 286 a 309 m s.n.m . Esta Ecoreserva está localizada en un paisaje caracterizado por abanicos de terraza antiguos, formado por depósitos aluviales mixtos. Presenta suelos de fertilidad baja y fuertemente ácidos (IGAC 2014). El área total comprendida por la Ecoreserva corresponde a territorios transformados en donde el bioma original presente era el Zonobioma Húmedo Tropical. Las principales coberturas actuales son vegetación secundaria en transición (41.30%), pastos limpios (29.84%,) zonas industriales o comerciales (22.20%) y bosques riparios o de galería (6.64%).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El componente de sonidos, hizo un acompañamiento al equipo de anfibios, reptiles y aves durante tres días de muestreo. Se recorrieron senderos y caminos, donde se identificaron áreas como quebradas y otros cuerpos de agua para realizar las grabaciones. Se siguió el protocolo de grabación de la Colección de Sonidos Ambientales del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-CSA) que incluye los siguientes parámetros estandarizados para la obtención de audios (Acevedo- Charry et al., 2021): archivos en formato tipo wav, tasa de muestreo 48 kHz y resolución de 24 bits. Se empleó una grabadora Sound Device Mix pre 3 acoplada a un micrófono unidireccional Sennheiser MKH60, el cual fue ubicado a una distancia aproximada de entre 50 y 100 cm del individuo que estuviese emitiendo una vocalización. Para el caso particular de aves adicionalmente se usó un microfono omnidireccional Wildtronics Mono, con el fin de amplificar señales lejanas. Una vez se obtuvieron entre 3 y 5 llamados por cada individuo se procedió a tomar datos de temperatura ambiental con un termómetro infrarrojo Gm320 y mencionar los metadatos asociados al evento, tales como, identidad taxonómica de la especie grabada, comportamiento al momento de la grabación, sustrato sobre el cual se encontraba, hora, fecha y localidad de la grabación. En lo posible, se recolectaron los ejemplares grabados con el fin de tener la mayor información asociada a cada ejemplar. Posteriormente, cada corte de audio obtenido fue depositado en la Colección de Sonidos Ambientales (IAvH-CSA).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Validación geográfica de las coordenadas, a nivel de veredas, municipio y departamento.
+Curaduría de los cortes de audio siguiendo protocolos internos (Acevedo- Charry et al., 2021, Buitrago et al., 2022)
+Sistematización de la información mediante formato de migración tipo Darwin Core</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="proyecto_Ecoreservas">
+                <title>Proyecto Ecoreservas</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Aída</givenName>
+                    <surName>Otálora-Ardila</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Angela M</givenName>
+                    <surName>Mendoza-Henao</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>El convenio Ecoreservas es un acuerdo de cooperación para la planificación y gestión de la biodiversidad y sus contribuciones al bienestar para dos áreas del territorio colombiano, bajo criterios de conservación y desarrollo sostenible basados en información científica. Como parte de este convenio surge la conformación de cuatro Ecoreservas, identificadas como áreas del Grupo Ecopetrol destinadas en parte o completamente a la conservación de la biodiversidad y oferta de servicios ecosistémicos, sin limitar su vocación productiva.</para>
+                </abstract>
+                <funding>
+                    <para>Convenio de cooperación No. 22-077 entre ECOPETROL, CENIT, BICENTENARIO y el Instituto de Investigación de Recursos Biológicos Alexader von Humboldt</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Este proyecto se llevó a cabo en áreas correspondientes a los departamentos de Cundinamarca, Córdoba y Meta. En particular el componente de la Línea Base de Biodiversidad y Servicios Ecosistémicos de Ecoreservas se enfocó en cuatro predios ubicados en los municipios de Facatativá y Tocancipá (Cundinamarca),  Villavicencio (Meta), y San Antero (Cordoba).</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:09Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/q0wrzm">Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Ecopetrol. S.A., Cenit Transporte y Logística de Hidrocarburos S.A.S., Oleoducto Bicentenario de Colombia S.A.S. (2023). Sonidos de fauna de la Ecoreserva Apiay (Villavicencio, Meta) - Proyecto Ecoreservas. Version 1.6. Ecopetrol S.A.. Occurrence dataset https://doi.org/10.15472/q0wrzm accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation identifier="http://revistas.humboldt.org.co/index.php/BEP/article/view/932">Acevedo-Charry, O., Ospina-L., A. M., Buitrago-Cardona, A., &amp; Borja-Acosta, K. G. (2021). Recomendaciones para registrar y almacenar señales acústicas como especímenes digitales en Colombia. Biodiversidad En La Práctica, 6(1) e932.</citation>
+                <citation identifier="http://hdl.handle.net/20.500.11761/35978">Buitrago, A., Mendoza Henao, A., Marín Zúñiga, D., Martínez Medina, Daniela., Barona Cortés, E., Pantoja-Sanchez, H.E &amp; Zapata Hernández, Leidy Camila. Protocolo para toma de medidas de grabaciones focales en espectro audible utilizando el programa Raven (Versión 1.6.1). Ed. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. 22p.</citation>
+                <citation>IGAC. (2014). Mapa de Geopedología del Territorio Colombiano. Escala: 1:100.000 (Tipo vectorial). Instituto Geográfico Agustín Codazzi, IGAC. Bogotá, Colombia</citation>
+                </bibliography>
+                <physical>
+                    <objectName>Sonidos de fauna de la Ecoreserva Apiay (Villavicencio, Meta) - Proyecto Ecoreservas</objectName>
+                    <characterEncoding>utf-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>txt</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=sonidos_ecoreservas_apiay_2023</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ecopetrol.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>IAvH</parentCollectionIdentifier>
+                    <collectionIdentifier>IAvH-CSA</collectionIdentifier>
+                    <collectionName>Colección de Sonidos Ambientales del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+                </collection>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

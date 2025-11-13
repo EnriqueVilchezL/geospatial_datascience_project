@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="3fcc20af-1051-4773-8ef2-f7284a4d53b4"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15468/okafaz</alternateIdentifier>
+        <alternateIdentifier>https://base.mlp.fcnym.unlp.edu.ar/ipt/resource?r=reptiles</alternateIdentifier>
+        <alternateIdentifier>http://base.mlp.fcnym.unlp.edu.ar:8080/ipt/resource?r=reptiles</alternateIdentifier>
+        <alternateIdentifier>3fcc20af-1051-4773-8ef2-f7284a4d53b4</alternateIdentifier>
+        <alternateIdentifier>13553</alternateIdentifier>
+        <title>Colección de Reptiles</title>
+        <creator>
+            <individualName>
+                <givenName>Jorge</givenName>
+                <surName>Williams</surName>
+            </individualName>
+            <organizationName>Museo de La Plata</organizationName>
+            <positionName>Coordinador de Bases de Datos</positionName>
+            <address>
+                <deliveryPoint>Paseo del Bosque S/N</deliveryPoint>
+                <city>La Plata</city>
+                <administrativeArea>Buenos Aires</administrativeArea>
+                <postalCode>B1900FWA</postalCode>
+                <country>ARGENTINA</country>
+            </address>
+            <electronicMailAddress>williams@fcnym.unlp.edu.ar</electronicMailAddress>
+            <onlineUrl>http://www.fncym.unlp.edu.ar</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Jorge</givenName>
+                <surName>Williams</surName>
+            </individualName>
+            <organizationName>Museo de La Plata</organizationName>
+            <positionName>Coordinador de Bases de Datos</positionName>
+            <address>
+                <deliveryPoint>Paseo del Bosque S/N</deliveryPoint>
+                <city>La Plata</city>
+                <administrativeArea>Buenos Aires</administrativeArea>
+                <postalCode>B1900FWA</postalCode>
+                <country>ARGENTINA</country>
+            </address>
+            <electronicMailAddress>williams@fcnym.unlp.edu.ar</electronicMailAddress>
+            <onlineUrl>http://www.fncym.unlp.edu.ar</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2024-04-17
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Base de datos de biodiversidad de la colección de Reptiles del Museo de La Plata.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://base.mlp.fcnym.unlp.edu.ar/ipt/archive.do?r=reptiles</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Conosur Sudamericano</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Jorge</givenName>
+                <surName>Williams</surName>
+            </individualName>
+            <organizationName>Museo de La Plata</organizationName>
+            <positionName>Coordinador de Bases de Datos</positionName>
+            <address>
+                <deliveryPoint>Paseo del Bosque S/N</deliveryPoint>
+                <city>La Plata</city>
+                <administrativeArea>Buenos Aires</administrativeArea>
+                <postalCode>B1900FWA</postalCode>
+                <country>ARGENTINA</country>
+            </address>
+            <electronicMailAddress>williams@fcnym.unlp.edu.ar</electronicMailAddress>
+            <onlineUrl>http://www.fncym.unlp.edu.ar</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:01Z</dateStamp>
+                <citation>Williams J (2024). Colección de Reptiles. Version 3.3. Museo de La Plata. Occurrence dataset https://doi.org/10.15468/okafaz accessed via GBIF.org on 2025-10-11.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

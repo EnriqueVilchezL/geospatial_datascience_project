@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="8fcf74b1-fbcd-4769-8f10-dc67e86ab062"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/qhans9</alternateIdentifier>
+        <alternateIdentifier>8fcf74b1-fbcd-4769-8f10-dc67e86ab062</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=geopark_vim3_flora-fauna</alternateIdentifier>
+        <title>Caracterización de flora y fauna en Área de perforación exploratoria VIM3, departamento de Bolívar, Colombia</title>
+        <creator>
+            <individualName>
+                <givenName>Belkis</givenName>
+                <surName>Aguilar</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Componente Mastofauna</positionName>
+            <address>
+                <deliveryPoint>Calle 84 # 24 - 77</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>601700 2808</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Gerson</givenName>
+                <surName>Peñuela</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Componente Avifauna</positionName>
+            <address>
+                <deliveryPoint>Calle 84 # 24 - 77</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>601700 2808</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Herón</givenName>
+                <surName>Romero Martínez</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Componente Herpetofauna</positionName>
+            <address>
+                <deliveryPoint>Calle 84 # 24 - 77</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>601700 2808</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Luis</givenName>
+                <surName>Eduardo Rojas</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Componente Herpetofauna</positionName>
+            <address>
+                <deliveryPoint>Calle 84 # 24 - 77</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>601700 2808</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Laura Natalia</givenName>
+                <surName>Soler</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Componente Epifitas</positionName>
+            <address>
+                <deliveryPoint>Calle 84 # 24 - 77</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>601700 2808</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Oscar</givenName>
+                <surName>Zuleta</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Componente Cobertura vegetal</positionName>
+            <address>
+                <deliveryPoint>Calle 84 # 24 - 77</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>601700 2808</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Oscar</givenName>
+                <surName>Zuleta</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Componente Cobertura vegetal</positionName>
+            <address>
+                <deliveryPoint>Calle 84 # 24 - 77</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>601700 2808</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Tellus Ingeniería S.A.S.</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 84 # 24 - 77</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>601700 2808</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Geopark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>Geopark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30. Pisos 8, 9 y 10</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6017432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>https://www.geo-park.com/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2024-04-16
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>GEOPARK COLOMBIA S.A.S., es una organización cuyo objetivo se enfoca en la exploración y producción de hidrocarburos, tomando como base los principios del desarrollo sostenible y la normatividad ambiental vigente. En la actualidad proyecta ampliar su campo de acción hacia el Bloque de Perforación Exploratoria VIM 3 (Adquirido en la ronda Colombia 2014, bajo Contrato E&amp;P No. 8 celebrado con la Agencia Nacional de Hidrocarburos –ANH-) para lo cual se ha seleccionado un área de interés a licenciar denominada Área de Perforación Exploratoria (En adelante APE) VIM 3, localizada en jurisdicción de los municipios de Cicuco, Magangué, Mompox y Talaigua Nuevo, departamento de Bolívar.</para>
+<para>Por lo anterior, allega a la Autoridad Nacional de Licencias Ambientales (En adelante ANLA), la solicitud de Licencia Ambiental para la realización de las actividades de exploración de hidrocarburos en el APE VIM 3, para lo cual emplea como soporte el presente Estudio de Impacto Ambiental (EIA).</para>
+<para>Este recurso representa la caracterización de flora y fauna y consta de 3.531 registros biológicos observados en el departamento de Bolívar, Colombia en el 2016.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Red</keyword>
+            <keyword>Trampa</keyword>
+            <keyword>Parcela</keyword>
+            <keyword>Caracterización</keyword>
+            <keyword>Muestreo</keyword>
+            <keyword>Altura</keyword>
+            <keyword>Abundancia</keyword>
+            <keyword>Ecosistemas</keyword>
+            <keyword>Bioma</keyword>
+            <keyword>Coberturas</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=geopark_vim3_flora-fauna</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los datos fueron tomados al interior del Área de Perforación Exploratoria VIM3, ubicada en el departamento de Bolívar, Colombia.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-74.76</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-74.598</eastBoundingCoordinate>
+                    <northBoundingCoordinate>9.27</northBoundingCoordinate>
+                    <southBoundingCoordinate>9.059</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2016-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2016-12-30
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>3.531 registros de flora (1.464), fauna (885) y fungi (1.181) pertenecientes a las clases: Lecanoromycetes, Eurotiomycetes, Arthoniomycetes, Dothideomycetes, Magnoliopsida, Liliopsida, Reptilia, Amphibia, Aves y Mammalia. Corresponden a 51 órdenes, 97 familias y de los cuales 3.501 registros fueron identificados hasta especie (204 especies) y 27 hasta género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caliciales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lecanorales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ostropales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pyrenulales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Arthoniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Peltigerales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Trypetheliales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Eremithallales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Brassicales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rosales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caryophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malvales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fabales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Myrtales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sapindales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lamiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Zygophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Boraginales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Arecales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ericales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anseriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Galliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ciconiiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Suliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pelecaniformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Accipitriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Falconiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gruiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Charadriiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Columbiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Psittaciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cuculiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Strigiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Nyctibiiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apodiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coraciiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Piciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Passeriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Carnivora</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Chiroptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sirenia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rodentia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Didelphimorphia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pilosa</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Caracterizar la flora y fauna en el Área de Perforación Exploratoria VIM3.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <surName>Geopark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>Geopark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30. Pisos 8, 9 y 10</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6017432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>https://www.geo-park.com/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Si bien se cuenta con un permiso de investigación científica otorgado por el MADS, mediante Resolución No. 1118 de 2014 y 598 de 2015 para efectuar colectas en terreno, es importante señalar que no fue necesario colectar especímenes vegetales, principalmente porque la diversidad florística es muy baja en la zona y permanecen especies muy comunes, cuya identificación se pudo realizar directamente en el sitio de acuerdo con la experticia del profesional además del apoyo de los auxiliares de la región, quienes aportaron información sobre nombres de maderas de la región, calidad y usos dados, tanto de calidad de maderas como otros aspectos (medicinal, ornamental, protección, entre otros).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En ésta etapa se realizó la caracterizaron y cuantificaron las diferentes unidades florísticas mediante un inventario estadístico, con una probabilidad del 95% y error de muestreo no mayor del 15% por unidad de cobertura natural. Este inventario forestal se realizó sobre las coberturas boscosas, la vegetación secundaria y Herbazal, así como coberturas no naturales (Pastos y Mosaicos), concordantes con lo dispuesto en el Decreto 1076 del 26 de mayo de 2015 sobre el régimen de aprovechamiento forestal.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La forma de las unidades de muestreo usada para el inventario forestal fue la parcela. En la cobertura de bosque denso bajo inundable (manglar) se ubicaron transectos de 50 m de largo por 10m de ancho, orientados en sentido perpendicular al cuerpo de agua principal, con dos (2) subparcelas para el registro de la regeneración natural. En la cobertura de vegetación secundaria o en transición, se delimitaron parcelas de 10 m* 10 m dado que corresponden a pequeños parches de áreas en descanso donde se están presentando procesos de sucesión, allí se registró la regeneración natural en subparcelas 5m * 5m para latizales y 2m * 2m para brinzales. Por su parte, en las coberturas de Pastos arbolados, Pastos enmalezados, Pastos limpios y Mosaico de pastos con espacios naturales, se delimitaron parcelas cuadradas de 50 m.* 50 m para el registro de fustales; allí la regeneración natural se registró mediante subparcelas de 25 m * 25 m. En la cobertura de herbazal denso inundable, se siguió la misma metodología para el inventario forestal, recolectando además información cualitativa de las especies herbáceas presentes (poaceas, arvenses y renuevos) al interior de la unidad de muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se realizaron recorridos en el área de influencia del APE VIM 3, con el apoyo de auxiliares de campo y la comunidad de la región y utilizando GPS, planos, formatos de inventario forestal y cámara fotográfica, lo cual permitió determinar puntos de control que sirvieron para la actualización del mapa de coberturas de la tierra.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La comisión forestal contó con el acompañamiento de dos (2) asistentes de campo originarios del área de estudio, quienes colaboraron en la determinación de los nombres comunes y usos de las especies inventariadas, el trazado de las parcelas y toma de datos dasometricos (circunferencia a la altura del pecho (CAP), altura a la base de la copa (HC) y altura total (HT)).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Una vez en el punto predefinido para el inventario de vegetación, se realizó la delimitación de la unidad de muestreo para realizar en su interior el registro de los individuos, procurando así no exceder o limitar su área de muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La altura de los individuos fue una variable que se utilizó para la determinación del volumen, estudios de crecimiento, posición sociológica, estratificación y construcción de perfiles de vegetación. Para el caso de las especies de árboles esta variable contribuyó a la definición de la altura total y altura comercial.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La altura total hace referencia a la longitud comprendida desde la base del árbol sobre la superficie del suelo, hasta su ápice. La altura comercial se relaciona con la longitud aprovechable del tronco del árbol.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se midió el grosor del tronco de los árboles teniendo como base el diámetro de referencia localizado a 1,3 m de altura sobre la parte del fuste más cercana al suelo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Epífitas: En la fase de campo, se realizó el muestreo de la vegetación epifita en las fechas del 02 al 16 de septiembre del 2016. Durante el desarrollo de dicha fase se ejecutaron recorridos en el Área de Influencia Físico Biótica con el propósito de establecer la ubicación de los puntos de muestreo en cada una de las coberturas vegetales identificadas donde se observó un potencial desarrollo de las especies de epifitas (líquenes, musgos, hepáticas, bromelias y orquídeas). Para tal fin se tuvo en cuenta las diferentes características ambientales, las alteraciones antrópicas que se observaron y las especies arbóreas presentes en la zona para poder así representar la heterogeneidad ecosistémica y obtener un esfuerzo de muestreo representativo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Dentro de cada parcela se seleccionaron al azar ocho (8) forófitos preferiblemente con un DAP&gt;20 cm y diferentes especies arbórea buscando abarcar toda la diversidad. El número de los forófitos seleccionados en algunas parcelas fue de siete (7) ya que solo se contaba con esa cantidad de forófitos encerrados en dichas parcelas, en total se evaluaron 253 forófitos (unidad de muestreo).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Epífitas vasculares: Se evalúo la presencia de especies de bromelias y orquídeas en todas las parcelas de caracterización observando los sustratos donde se pudieran desarrollar como son el suelo, rocas, troncos en descomposición.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Epífitas no vasculares: El muestreo se realizó en las 32 parcelas de caracterización observando las especies de epífitas no vasculares (líquenes, musgos y hepáticas) que se pudieran encontrar desarrollándose sobre los diferentes sustratos tales como: suelo, rocas, troncos en descomposición</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En el caso de los individuos que no se pudieron determinar en campo, fue necesario realizar la determinación taxonómica en laboratorio, para lo cual se tomó una pequeña muestra por individuo de 20x20cm según permitiera las características de la corteza del forófito. Cada muestra fue depositada en bolsas de papel A4 de (10 X 14) y se rotuló cada sobre con la información de la colecta (fecha, parcela, forófito, número de la especie, georeferenciación, colector).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: A continuación, se describe la metodología y parámetros para la identificación de la avifauna detectada en el Área de Influencia (AI) del Proyecto APE VIM 3, según lo descrito por el Ministerio de Ambiente y Desarrollo Sostenible (MADS) en la Metodología General para la Presentación de Estudios Ambientales, además de los Términos de referencia para la elaboración del “Estudio de Impacto Ambiental para proyectos de perforación exploratoria de hidrocarburos M-M-INA-01, así como en lo estipulado en las Resoluciones No. 1118 del 29 de septiembre de 2014 y 0598 del 25 de mayo de 2015, a través de las cuales la ANLA emite permiso de estudio para la recolección de especímenes de especies silvestres de la diversidad biológica con fines de elaboración de estudios ambientales y se toman otras determinaciones a Tellus Ingeniería S.A.S.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Recorridos: Consistió en la realización de 16 recorridos a una velocidad aproximada de 0.7- 1.0 Km/hora con el fin de establecer transectos de observación, que oscilan entre los 1.5 y 2 Km de distancia; las caminatas se efectuaron en las horas de mayor actividad de las especies entre las 05:30 y 10:30 horas y en la tarde de 15:00- 18:00 horas dentro de las diferentes coberturas vegetales.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La identificación de las especies se realizó tanto visual como auditivamente, para la identificación por canto se utilizaron bases de datos de las vocalizaciones de las aves del Caribe, que se obtienen de la página Xeno-canto.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la observación e identificación de la avifauna se realizaron 16 transectos en las diferentes coberturas vegetales presentes en el área de influencia del APE VIM 3.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La metodología de transectos para la búsqueda y registro de la ornitofauna presente en el AI del APE VIM 3 se empleó durante 12 días, con un esfuerzo de muestreo de ocho (8) horas diarias, abarcando un total de 96 horas/hombre.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Red de niebla: En cada cobertura vegetal muestreada dentro del AI, se instalaron 17 redes de niebla, para un total de 204 metros. Para la captura de las aves las redes de niebla se dejaron abiertas durante dos (2) días consecutivos, en los picos de mayor actividad, que comprendía desde las 5:30 - 10:30 horas y en horas de la tarde a partir de las 15:00 - 18:00. La instalación de redes se realizó teniendo en cuenta que se cubriera el máximo número de lugares de paso de las aves y se colocaron lo suficientemente concentradas como para no tardarse más de 10 ó 15 min en revisarlas; cada 20 minutos las redes fueron revisadas con el objeto de evitar decesos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El esfuerzo de muestreo con redes de niebla se mide en horas red, donde una hora red equivale a una red de 12x3 m abierta durante una hora. El esfuerzo de muestreo para todas las coberturas por día fue de 272 horas/red.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Encuestas: Se realizaron cinco (5) encuestas para la obtención de información de aves, a partir del conocimiento de la gente sobre la zona con el fin de verificar y complementar los listados obtenidos a partir de los monitoreos realizados. Para ello se entrevistaron personas mayores de edad y residentes en el área de influencia del proyecto que conocieran acerca del grupo de interés. En las encuestas se tomaron datos como nombre común de la especie, así como características relevantes en comportamiento y morfología.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mastofauna: Debido a las importantes diferencias que existen en los enfoques y metodologías disponibles para estudiar dicho grupo, para los fines del presente proyecto la información se presenta por separado de los mamíferos en: pequeños, voladores, grandes y acuáticos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Pequeños mamíferos: Los pequeños mamíferos no voladores se caracterizan por ser animales con un peso inferior a dos (2) kilos, pertenecientes a los órdenes Rodentia y Didelphimorphia: Marmosidae, Caluromydae, Didelphidae.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Trampas Sherman: Según la cobertura vegetal fueron seleccionadas tres (3) estaciones de muestreo en donde fueron instaladas 50 trampas por tres (3) días consecutivos, las trampas tienen un tamaño de 3 x 3.75 x 12cm. Como cebo se empleó una mezcla de avena, maíz amarillo y mantequilla de maní. Las trampas se revisaron cada mañana después de las 9 de la mañana para verificar si habían ocurrido capturas y recebar.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Trampas Tomahawk: Se utilizaron 10 trampas Tomahawk con medidas de 20 Cm x 15 Cm x 2 Cm; usadas en simultaneo y combinadas con las trampas Sherman para aumentar la probabilidad de capturas. Como cebo se usó mantequilla de maní y hueso carnudo de vaca.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Parcelas de trampas combinadas (Sherman y Tomahawk): La captura con trampas es la forma más común de determinar las poblaciones de pequeños mamíferos. Los roedores y marsupiales fueron muestreados mediante parcelas de trampas fijadas en los lugares de muestreo seleccionados. Se escogieron tres (3) sitios de muestreo según el tipo de vegetación, en total había por cada unidad de muestreo 60 trampas (Sherman – Tomahawk) funcionando en forma simultánea. Se utilizó el mismo transecto para las trampas Sherman y las Tomahawk, armando cada 10 trampas Sherman una Tomahawk.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos voladores: Redes de niebla: Se instalaron 10 redes de niebla de 10 metro de largo y con 36 mm de ojo de malla. Este tipo de redes permite la captura en diferentes situaciones, es portátil, y fácil de instalar.  Están formadas por una malla fina de fibra sintética (nylon o poliéster) sostenida por un marco rectangular de varias líneas de nylon. Las redes fueron montadas en las zonas identificadas como de paso de murciélagos, arboles de frutas, o dentro de la vegetación a muestrear, sostenidas por tubos de metal.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Grandes mamíferos: Línea de Transecto: Un transecto lineal consiste en describir las especies y el número de individuos de mamíferos vistos durante el recorrido del mismo. Dichos transectos tuvieron una longitud de entre dos (2) y cuatro (4) kilómetros.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La información que fue recogida se limita a diferencias en el uso de la zona. Esto significa que solo se compararan las diferencias de uso entre las diferentes coberturas vegetales muestreadas. Para la búsqueda de mamíferos acuáticos se realizaron recorridos en bote por la ribera de ríos, caños y ciénagas en busca de evidencias indirectas y directas de la presencia de dichas especies.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cámaras trampa: Las cámaras trampa son utilizadas en las investigaciones biológicas como una herramienta para registrar animales crípticos, ariscos y que viven en baja densidad. Sirven para distinguir y confirmar la presencia de especies difíciles de reconocer por sus huellas u otros indicios en evaluaciones de biodiversidad. Las trampas emplean dos (2) sistemas de detección (Infrarrojo pasivo y activo). Los sensores detectan un cambio de temperatura ambiental debido al cuerpo del animal y/o el movimiento del mismo, que en el momento de la interrupción del rayo disparara una cámara automática conectada al sensor. Las cámaras estarán activas durante las 24 horas del día y para el lapso entre fotos consecutivas (de 1 hasta 3 por segundo). Las cámaras marcan cada foto con la fecha y la hora, y requieren una revisión periódica para confirmar su buen funcionamiento.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Entrevistas: Muchas de las especies presentes en el área de influencia del APE VIM 3, no van a poder ser observadas de forma directa o indirecta por el investigador a cargo, es por ello que se recurre a las entrevistas como una herramienta complementaria para la obtención de información. Durante la fase de campo, se realizaron ocho (8) entrevistas semi - estructuradas a hombres mayores de edad habitantes del AI, se prefirió a aquellos que practiquen técnicas de caza.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Herpetofauna: Anfibios: La caracterización de la fauna silvestre presente en el área de influencia (AI) del proyecto se realizó con base en los lineamientos descritos en la Metodología General para la Presentación de Estudios Ambientales, el Manual de Métodos para el Desarrollo de Inventarios de Biodiversidad y los Términos de Referencia M-M-INA-01 para Estudios de Impacto Ambiental de Perforación Exploratoria de Hidrocarburos. Además, el proceso de registro de la información biológica consideró los estándares establecidos por el Instituto Alexander von Humboldt, entre ellos, localidad, elevación, coordenadas, datum, exactitud del GPS, extensión y referencias. Las coordenadas se presentan en Datum WGS84 y la referencia corresponde a un GPS Garmin 60CSx para coordenadas, exactitud y elevación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Recorridos y observaciones: La búsqueda se realizó por medio de la búsqueda libre y por encuentro visual azaroso, que consiste en la realización de recorridos no predeterminados, en las diferentes coberturas registradas y delimitados por tiempo; este método el más eficiente para obtener el mayor número de especies en el menor tiempo por parte de colectores experimentados; por lo tanto, el que mejor se adapta a los objetivos y tiempos del presente estudio. Además, se incluye la información de observaciones realizadas por fuera de los recorridos establecidos. Se realizaron búsquedas diurnas y nocturnas en diferentes tipos de hábitats registrados en la zona y cerca de las casas habitadas y abandonadas que se encuentran en la zona de estudio. La colecta de especímenes se realizó manualmente. El trabajo de campo fue realizado entre el 18 de junio y 2 de julio 2016. Los recorridos se llevaron a cabo durante el día en diferentes horarios en la mañana y tarde para observar y capturar especies con diferentes horarios de actividad; durante la noche los muestreos se realizaron entre las 6:00 y 11:00 pm, con un esfuerzo de muestreo total de 186 horas/hombre, en el área de influencia del proyecto donde se llevó a cabo una búsqueda intensiva en el suelo, vegetación, debajo de troncos y piedra. El registro de las diferentes especies se llevó a cabo tanto por avistamiento, como por reconocimiento de cantos y se complementó con el registro fotográfico de los especímenes observados. Los individuos capturados fueron identificados, fotografiados y liberados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Entrevistas: Se realizaron tres (3) entrevistas semiestructuradas no formales a habitantes del área de influencia del APE VIM 3, para lo cual se utilizó la guía de campo de los Anfibios y Reptiles de los alrededores del complejo cenagoso de Zapatosa, departamento del Cesar – Colombia y Anuros del departamento del Atlántico y norte de Bolívar.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El Área de Perforación Exploratoria (APE) VIM 3, se ubica en jurisdicción de los municipios de Cicuco, Magangué, Mompox y Talaigua Nuevo, departamento de Bolívar. Su extensión es de 18.394,19 hectáreas. El APE VIM 3, se encuentra en jurisdicción de la Corporación Autónoma Regional del Sur de Bolívar. Se limitó el área de influencia del proyecto, la cual corresponde a aquella en la que se manifiestan los impactos ambientales significativos generados por la ejecución de las diferentes actividades. Esta a su vez, se subdivide en dos (2) áreas: área de influencia físico-biótica y área de influencia socioeconómica cultural.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Flora: El presente inventario forestal contó con una etapa inicial donde se realizó el levantamiento de tres unidades de muestreo para las unidades de cobertura vegetal según el tamaño definido para cada caso. Éste premuestreo sobre las coberturas naturales y seminaturales, permitió garantizar una representatividad estadística de la información florística capturada en el área de estudio.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="CESP2022-010">
+                <title>Estudio de Impacto Ambiental, Área de perforación exploratoria VIM3</title>
+                <personnel>
+                    <individualName>
+                    <surName>Geopark Colombia S.A.S.</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>En este proyecto, se presentan los aspectos relevantes relacionados con: localización general, antecedentes, estudios e investigaciones realizadas en el área de influencia, permiso de estudios de investigación, trámites anteriores ante autoridades competentes, ubicación de otros proyectos en el área de influencia (proyectos de interés nacional y regional). Así mismo se detallan las metodologías utilizadas para la caracterización del área de influencia en sus diferentes elementos ambientales.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El Área de Perforación Exploratoria (APE) VIM 3, se ubica en jurisdicción de los municipios de Cicuco, Magangué, Mompox y Talaigua Nuevo, departamento de Bolívar. Su extensión es de 18.394,19 hectáreas.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>GEOPARK COLOMBIA S.A.S., es una organización cuyo objetivo se enfoca en la exploración y producción de hidrocarburos, tomando como base los principios del desarrollo sostenible y la normatividad ambiental vigente. En la actualidad proyecta ampliar su campo de acción hacia el Bloque de Perforación Exploratoria VIM 3 (Adquirido en la ronda Colombia 2014, bajo Contrato E&amp;P No. 8 celebrado con la Agencia Nacional de Hidrocarburos –ANH-) para lo cual se ha seleccionado un área de interés a licenciar denominada Área de Perforación Exploratoria (En adelante APE) VIM 3, localizada en jurisdicción de los municipios de Cicuco, Magangué, Mompox y Talaigua Nuevo, departamento de Bolívar.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:23Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/qhans9">Aguilar B, Peñuela G, Romero Martínez H, Eduardo Rojas L, Soler L N, Zuleta O (2024). Caracterización de flora y fauna en Área de perforación exploratoria VIM3, departamento de Bolívar, Colombia. Version 1.1. GeoPark Colombia S.A.S. Occurrence dataset https://doi.org/10.15472/qhans9 accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-geopark.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

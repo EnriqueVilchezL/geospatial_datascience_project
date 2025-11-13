@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="3cfe4b66-6ede-4a66-9fae-88e7b400ce48"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/pr1vug</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=rrbb_calenturitas_fauna-rescate_2018-2019</alternateIdentifier>
+        <shortName>calenturitas_fauna-rescate_2018-2019</shortName>
+        <title>Ahuyentamiento, rescate y liberación de fauna silvestre en la Mina Calenturitas, 2018-2019</title>
+        <creator>
+            <individualName>
+                <surName>Grupo Prodeco</surName>
+            </individualName>
+            <organizationName>Grupo Prodeco</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Centro Empresarial Buenavista, Carrera 53 No. 106 – 280, Piso 11</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(605) 3855599</phone>
+            <electronicMailAddress>comunicacionesgrupoprodeco@grupoprodeco.com.co</electronicMailAddress>
+            <onlineUrl>https://www.grupoprodeco.com.co/es</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Corporación Autónoma Regional del Cesar - CORPOCESAR</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional del Cesar - CORPOCESAR</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Km 2 vía La Paz. Lote 1</deliveryPoint>
+                <city>Valledupar</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(605)5748960</phone>
+            <electronicMailAddress>atencionalciudadano@corpocesar.gov.co</electronicMailAddress>
+            <onlineUrl>https://www.corpocesar.gov.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Corporación Autónoma Regional del Cesar - CORPOCESAR</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional del Cesar - CORPOCESAR</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Km 2 vía La Paz. Lote 1</deliveryPoint>
+                <city>Valledupar</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(605)5748960</phone>
+            <electronicMailAddress>atencionalciudadano@corpocesar.gov.co</electronicMailAddress>
+            <onlineUrl>https://www.corpocesar.gov.co/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Grupo Prodeco</surName>
+            </individualName>
+            <organizationName>Grupo Prodeco</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Centro Empresarial Buenavista, Carrera 53 No. 106 – 280, Piso 11</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(605) 3855599</phone>
+            <electronicMailAddress>comunicacionesgrupoprodeco@grupoprodeco.com.co</electronicMailAddress>
+            <onlineUrl>https://www.grupoprodeco.com.co/es</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Johanna</givenName>
+                <surName>Velásquez Niño</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</organizationName>
+            <positionName>Contratista</positionName>
+            <address>
+                <deliveryPoint>Calle 28a # 16-29</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>jvelasqueznino@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.humboldt.org.co/</onlineUrl>
+            <role>EDITOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Grupo Prodeco</surName>
+            </individualName>
+            <organizationName>Grupo Prodeco</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Centro Empresarial Buenavista, Carrera 53 No. 106 – 280, Piso 11</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Barranquilla</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(605) 3855599</phone>
+            <electronicMailAddress>comunicacionesgrupoprodeco@grupoprodeco.com.co</electronicMailAddress>
+            <onlineUrl>https://www.grupoprodeco.com.co/es</onlineUrl>
+            <role>OWNER</role>
+        </associatedParty>
+        <pubDate>
+                2025-08-14
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El Grupo Prodeco en el marco de su Plan de Manejo Ambiental considera el rescate, ahuyentamiento y reubicación de fauna como una medida importante para minimizar el impacto sobre las poblaciones animales que se verían afectados durante cualquier proceso minero, buscando con esto, garantizar la supervivencia del mayor número posible de animales traslocados hacia las áreas ecológicamente viables destinadas para la liberación de fauna y que con anterioridad han sido evaluadas en cuanto a su capacidad de carga y oferta de recursos.</para><para>De este modo, el objetivo del presente proyecto fue ejecutar labores de ahuyentamiento, rescate y liberación de fauna silvestre en la Mina Calenturitas, municipios de Becerril, El Paso y La Jagua de Ibirico, departamento del Cesar, Colombia.</para><para>Para esto se buscó: (i) emplear métodos de captura, rastreo y ahuyentamiento para diferentes grupos de fauna , (ii) determinar taxonómicamente las especies capturadas y ahuyentadas del polígono de rescate y (iii) reubicar las especies de fauna capturadas en el área biosensora dentro del entorno de la mina.</para><para>El conjunto de datos consta de 4.328 registros biológicos de fauna rescatada y reubicada durante el 2018 y 2019 en los municipios de Becerril, El Paso y La Jagua de Ibirico, en el departamento del Cesar. La cobertura taxonómica del recurso está constituida por 5 clases, 10 órdenes, 42 familias, 66 géneros y 77 especies/subespecie.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Ahuyentamiento</keyword>
+            <keyword>Reubicación</keyword>
+            <keyword>Área biosensora</keyword>
+            <keyword>Captura</keyword>
+            <keyword>Mina</keyword>
+            <keyword>Rastreo</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=rrbb_calenturitas_fauna-rescate_2018-2019</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La mina Calenturitas del Grupo Prodeco en los municipios deLa Jagua de Ibirico y Becerril, en el departamento del Cesar, al norte de Colombia.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.502</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.462</eastBoundingCoordinate>
+                    <northBoundingCoordinate>9.709</northBoundingCoordinate>
+                    <southBoundingCoordinate>9.637</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2018-06-21
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-12-07
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La cobertura taxonómica del recurso está constituida por registros de fauna de 5 clases, 10 órdenes, 42 familias, 66 géneros y 77 especies/subespecie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose>Ejecutar labores de ahuyentamiento, rescate y liberación de fauna silvestre en la Mina Calenturitas, grupo Prodeco, Cesar-Colombia.</purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unknown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Sergio</givenName>
+                <surName>Vargas Troncoso</surName>
+            </individualName>
+            <organizationName>Grupo Prodeco</organizationName>
+            <positionName>Coordinador de compensaciones ambientales y biodiversidad</positionName>
+            <address>
+                <deliveryPoint>Centro Empresarial Buenavista, Carrera 53 No. 106 – 280, Piso 11</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(605) 3855599</phone>
+            <electronicMailAddress>Sergio.Vargas@cerrejon.com</electronicMailAddress>
+            <onlineUrl>https://www.grupoprodeco.com.co/es</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">in/sergio-vargas-troncoso-47248135/</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>2018 - Ictiofauna: Para facilitar la captura de la ictiofauna el nivel del agua fue disminuido con la ayuda de motobombas facilitadas por la Mina Calenturitas, Cesar-Colombia. Cuando el nivel del agua presentó una profundidad adecuada en lo que respecta a la seguridad industrial se procedió a la captura de los peces mediante diferentes artes de pesca como: trasmallo de 5 y 25 mm de ojo de malla, atarrayas de 12 mm de ojo de malla y jamás. Los peces capturados fueron transportados hasta un campamento, donde fueron vertidos en una pileta con agua inyectada con oxígeno. Una vez identificados se procedió a tomar las medidas morfo-métricas como la longitud estándar, longitud total y peso total de cada ejemplar, para luego ser transportados al sitio de liberación designados por la mina Calenturitas, donde en primera medida se realizó un proceso de aclimatación para que los individuos no fueran a sufrir estrés térmico.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018 - Pista aérea - Ahuyentamiento: Este proceso se realizó generando el mayor disturbio posible en los recorridos, para lo cual se hizo ruido con pitos y objetos metálicos. Como ruta u orientación del ahuyentamiento, en lo posible fueron realizados en la zona norte de la pista hacia las márgenes izquierda y derecha de la misma, en donde en sentido sur-Norte se encuentra en la margen derecha la laguna de oxidación y en la parte izquierda una amplia zona también con características de bajo inundable.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018 - Pista aérea - Rescate: Durante cuatro días de trabajo realizando recorridos diurnos y nocturnos (5 horas/periodo) en campo, se capturaron 80 animales de cuatro especies; la principal metodología empleada fue la búsqueda intensiva. Se inspeccionó minuciosamente la vegetación en busca de nidos activos de aves para el rescate de polluelos, pero no se encontraron éstos. Los nidos encontrados vacios fueron destruidos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018 - Pista aérea - Procesamiento de fauna: Los ejemplares capturados se depositaron en bolsas de tela, recipientes plásticos o guacales dependiendo del tipo de fauna, para ser medidos y pesados posteriormente. Y posteriormente liberados en el Corredor biológico Caimancito.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018 - Sector A, Nivel 10 - Ahuyentamiento: Para efectuar este proceso se implementó el uso de objetos metálicos que generaran ruido como mecanismo de estrés ambiental en las poblaciones de anfibios, reptiles, Mamíferos y aves, que aprovechaban los recursos que el área en estudio ofrecía e impulsando su migración hacia otros lugares. Como se mencionó, se realizó el ahuyentamiento de norte a sur hacia el bosque contiguo a la ROAM o piscina de sedimentación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018 - Sector A, Nivel 10 - Rescate: Durante 29 días de trabajo en campo se realizaron capturas y avistamiento de fauna de los diferentes grupos taxonómicos (anfibios, reptiles y mamíferos), acompañados búsqueda intensiva diurna y nocturna con periodos de duración de 5 horas/ periodo, esto, con la intención de capturar la mayor cantidad posible de especies (Foto 4); además del registro fotográfico de huellas, excremento y algún tipo de rastro que evidenciara la presencia de fauna (rascaderos, tomaderos, madrigueras, nidos y otros). Se destruían los nidos sin presencia de huevos ni crias y en caso de encontrarlos eran trasladados al Centro de Atención de Fauna Silvestre de Calenturitas (CAFS) para su debido manejo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Método de trampeo: Generalmente se instalaron secciones de trampas de caída libre o Pitfall compuestas por una batería de 12 tanques de 50L y una lona plástica de 15 m de longitud que actuaba como barrera interceptora de anfibios, reptiles, pequeños y medianos mamíferos durante el día y la noche, estas trampas eran revisadas y limpiadas a diario durante los días de trabajo. Se dispuso también de 30 trampas Sherman separadas a 10 metros de distancia, revisadas y cebadas con una mezcla de esencias y cereales a diario, esta funciona como atrayente principalmente de roedores, otros mamíferos pequeños y algunos reptiles.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018 - Sector A, Nivel 10 - Procesamiento de fauna: Los ejemplares capturados se depositaron en bolsas de tela, recipientes plásticos o guacales dependiendo del tipo de fauna, fueron rotulados y llevados al campamento de trabajo ubicado dentro del área de transformación; para el caso de reptiles peligrosos y mamíferos medianos se usó una cinta de peligro en la jaula del animal, precedido del proceso de valoración, medición e identificación taxonómica.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018 - Sector A, Nivel 10 - Liberación: Posterior a la valoración de los animales capturados se procedió al transporte desde el campamento de trabajo hacia la zona de liberación (Corredor biológico Caimancito; Foto 7), el procedimiento estaba asesorado por un profesional y un auxiliar de campo. Los sitios dentro del área eran ubicados considerando el hábitat propicio para el animal, por lo general la zona cercana al cuerpo de agua eran de mayor interés por la rápida posibilidad de hidratación y oferta de recursos para los animales que llegaban de un proceso de captura y estrés producto del mismo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018 - Sector CD - Rescate: Durante tres días de campo (19 a 21 de noviembre de 2018) se realizó el rescate de fauna en el polígono designado el cual presentaba un área de 1.8 hectáreas, en el cual se hicieron recorridos diurnos y nocturnos (5 horas/periodo) con el fin de capturar la mayor cantidad posible de animales que pudieran estar en el área (Foto 3); tomando registros fotográficos de huellas o rastros si fuese el caso. Para el caso de nidos de aves se revisaban y si no presentaban actividad o huevos eran destruidos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Método de trampeo: Por ser un área pequeña se instaló un juego de trampas Pitfall o caída libre compuesta por cinco tanques plásticos y una lona plástica de diez metros que actuaba como barrera interceptora de anfibios, reptiles, pequeños y medianos mamíferos durante el día y la noche, estas trampas eran revisadas y limpiadas a diario. Además de las trampas de caída, se realizó un encierro perimetral con malla con el objetivo de atrapar aquellos animales que posiblemente salieran del polígono.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018 - Sector CD - Procesamiento de fauna: Los ejemplares capturados se depositaron en bolsas de tela y tanques plásticos tapa rosca, fueron rotulados y llevados al campamento de trabajo ubicado dentro del área de trabajo, para ser valorado, medido, identificado y posteriormente liberado</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018 - Sector CD - Liberación: Como paso final del proceso de rescate posterior a la valoración, se procedió a la liberación de los animales en el corredor biológico Caimancito (Foto 6), sitio destinado por la mina Calenturitas como apto o propicio para la liberación de fauna silvestre.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018 - Sector CD, Nivel 11 - Ahuyentamiento: Para efectuar este proceso se implemento el uso de objetos metálicos (Foto 4) que generaran ruido como mecanismo de estrés ambiental en las poblaciones de anfibios, reptiles, Mamíferos y aves, que aprovechaban los recursos que el área en estudio ofrecia e impulsando su migración hacia otros lugares. No se diseño una ruta de ahuyentamiento específica para movilizar la fauna por las condiciones de conectividad del sitio, (vías publicas, internas y limitaciones de hábitat); sin embargo, era evidente que la fauna presentaba movilidad desde multiples sectores de la mina en particular del fregamento de vegetacion de la zona este del polígono.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018 - Sector CD, Nivel 11 - Rescate: Durante 10 días de trabajo en campo se realizaron capturas y avistamiento de fauna de los diferentes grupos taxonómicos (mamíferos, reptiles y anfibios), acompañados de recorridos libres diurnos y nocturnos con periodos de duración de 5 horas/ periodo, esto, con la intención de recoger la mayor cantidad de información posible de las especies; además del registro fotográfico de huellas, excremento y algún tipo de rastro que evidenciara la presencia de fauna (rascaderos, tomaderos, madrigueras, nidos, etc). Se destruían los nidos sin presencia de huevos ni crias y en caso de encontrarlos eran trasladados al centro de atención y valoración de fauna silvestre de Calenturitas CAVFS para su debido manejo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Método de trampeo: Se instalaron 2 juegos de trampas Pitfall o caída libre, cada una compuesta por 3 tanques de 50 L y una lona plástica de 15 m de longitud que actuaba como barrera interceptora de anfibios, reptiles, pequeños y medianos mamíferos durante el día y la noche, estas trampas eran revisadas y limpiadas a diario durante 10 días. Se dispuso también de 20 trampas Sherman separadas a 10 metros de distancia, revisadas y cebadas con una mescla de esencias y cereales a diario, esta funciona como atrayente principalmente de roedores, otros mamíferos pequeños y algunos reptiles.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018 - Sector CD, Nivel 11 - Procesamiento de fauna: Los ejemplares capturados se depositaron en bolsas de tela, recipientes plásticos o guacales dependiendo del tipo de fauna, fueron rotulados y llevados al campamento de trabajo ubicado dentro del área de transformacion, para el caso de reptiles peligrosos y mamíferos medianos se uso una cinta de peligro en la jaula del animal, precedido del proceso de valoración, medición e identificación taxonómica</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018 - Sector CD, Nivel 11 - Liberación: Posterior a la valoración de los animales capturados se procedió al transporte desde el campamento de trabajo hacia la zona de liberación (Corredor biológico Caimancito; Foto 8), el procedimiento estaba asesorado por un profesional y un auxiliar de campo. Los sitios dentro del área eran ubicados considerando el habiat propicio para el animal, por lo general la zona cercana al cuerpo de agua eran de mayor interés por la rápida posibilidad de hidratación y oferta de recrusos para los animales que llegaban de un proceso de captura y estrés producto del mismo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2019 - Botadero Norte - Ahuyentamiento: Este proceso se desarrolló, ocasionando el mayor disturbio posible en los recorridos a través de ruido con pitos y objetos metálicos. Se muestra que los ahuyentamientos en lo posible fueron realizados hacia el río Caimancito el cual para la temporada de trabajo se encontraba totalmente seco.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2019 - Botadero Norte - Rescate: Durante cinco (5) días de trabajo se realizaron recorridos diurnos y nocturnos (5 horas/periodo) y se capturaron 55 animales de nueve especies. La principal metodología empleada fue la búsqueda intensiva, además de colocar diez trampas Sherman y trampas de caída. También se inspeccionó la vegetación en busca de nidos activos de aves para el rescate de polluelos y los nidos vacíos fueron destruidos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2019 - Botadero Norte - Procesamiento de fauna: Los ejemplares capturados durante los recorridos y en las trampas de caída fueron depositados en bolsas de tela, recipientes plásticos o guacales para ser transportados al campamento donde fueron valorados, pesados, medidos y posteriormente ser liberados en el corredor biológico Caimancito.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2019 - Botadero Norte Fase II - Ahuyentamiento: Este proceso se realizo realizando el mayor disturbio posible en los recorridos, para lo que se hizo ruido con pitos y objetos metálicos. Como ruta u orientación del ahuyentamiento en la Figura 3 se muestra que los ahuyentamientos en lo posible fueron realizados hacia el arroyo Caimancito el cual para la temporada de trabajo se encontraba totalmente seco.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2019 - Botadero Norte Fase II - Rescate: Durante seis (6) días de trabajo se realizaron recorridos diurnos y nocturnos (5 horas/periodo) y se capturaron 111 animales de 17 especies, la principal metodología empleada fue la búsqueda intensiva, además de colocar diez trampas Sherman y trampas de caída. También se inspecciono la vegetación en busca de nidos activos de aves para el rescate de polluelos y los nidos vacíos fueron destruidos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2019 - Botadero Norte Fase II - Procesamiento fauna: Los ejemplares capturados durante los recorridos y en las trampas de caída fueron depositados en bolsas de tela, recipientes plásticos o guacales para ser transportados al campamento donde fueron valorados, pesados y medidos, para posteriormente ser liberados en el corredor biológico Caimancito.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2019 - Botadero Sur, Sector CD - Captura: La principal técnica empleada fue la búsqueda intensiva que se realizó durante los días 4 y 5 de agosto, con jornadas de trabajo desde las 5:30 am a 10:30 y de 16:00 a 19:00 horas, por dos cuadrillas (8 personas). La metodología empleada permitió la captura de todos los animales avistados en el polígono o área de trabajo la cual tenía una extensión de 3.158 hectáreas. Es importante aclarar que por la ubicación y lo pequeño del área no se realizó ahuyentamiento, ya que como se mencionó anteriormente se capturaron todos los animales presentes. Por lo anterior no hubo ruta de ahuyentamiento al no presentarse coberturas adyacentes que sirvieran de refugio a la fauna. Además, la zona no presentó indicios de grupos de fauna terrestre con gran movilidad como medianos y grandes mamíferos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2019 - Botadero Sur, Sector CD - Liberación: Los ejemplares capturados se depositaron en bolsas de tela, fueron valorados, identificados, medidos y posteriormente liberados en la unidad Biosensora Caimancito</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2019 - Nivel 11, Sector A - Ahuyentamiento: Por ser una actividad programada para tres días de trabajo, la principal metodología empleada fue la búsqueda intensiva y el ahuyentamiento realizando ruido con pitos y objetos metálicos. Para este rescate se definió una ruta de ahuyentamiento orientada en sentido Norte – Sur.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2019 - Nivel 11, Sector A - Rescate: Durante tres (3) días de trabajo se realizaron recorridos diurnos y nocturnos (5 horas/periodo) y se capturaron 160 animales de 21 especies; la principal metodología empleada fue la búsqueda intensiva; inspeccionando troncos huecos, madrigueras en el suelo y la vegetación en busca de nidos activos de aves para el rescate de polluelos, los nidos vacíos o inactivos fueron destruidos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2019 - Nivel 11, Sector A - Procesamiento de fauna: Los ejemplares capturados durante el PALFS fueron depositados en bolsas de tela, recipientes plásticos o guacales para ser transportados al campamento donde fueron valorados, pesados y medidos, para posteriormente ser liberados en el área receptora Caimancito.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Mina Calenturitas del Grupo Prodeco, municipios La Jagua de Ibirico y Becerril, en el departamento del Cesar, al norte de Colombia.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Capturar y/o ahuyentar la mayor cantidad de fauna de los diferentes grupos taxonómicos (Anfibios, Reptiles y Mamíferos) con el fin de garantizar su permanencia en áreas ecológicamente aptas, que promuevan los procesos biológicos y funcionales de las especies a lo largo de su ciclo de vida.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Ahuyentamiento, rescate y liberación de fauna silvestre en la Mina Calenturitas, 2018-2019</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Sergio</givenName>
+                    <surName>Vargas Troncoso</surName>
+                    </individualName>
+            <userId directory="https://www.linkedin.com/profile/view?id=">in/sergio-vargas-troncoso-47248135/</userId>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>El Grupo Prodeco en el marco de su Plan de Manejo Ambiental considera el rescate, ahuyentamiento y reubicación de fauna como una medida importante para minimizar el impacto sobre las poblaciones animales que se verían afectados durante cualquier proceso minero, buscando con esto, garantizar la supervivencia del mayor número posible de animales traslocados hacia las áreas ecológicamente viables destinadas para la liberación de fauna y que con anterioridad han sido evaluadas en cuanto a su capacidad de carga y oferta de recursos.</para>
+                </abstract>
+                <funding>
+                    <para>Grupo Prodeco</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Mina Calenturitas del Grupo Prodeco, municipios  La Jagua de Ibirico y Becerril, en el departamento del Cesar, al norte de Colombia.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Capturar y/o ahuyentar la mayor cantidad de fauna de los diferentes grupos taxonómicos (Anfibios, Reptiles y Mamíferos) con el fin de garantizar su permanencia en áreas ecológicamente aptas, que promuevan los procesos biológicos y funcionales de las especies a lo largo de su ciclo de vida.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:12Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/pr1vug">Grupo Prodeco, Corporación Autónoma Regional del Cesar - CORPOCESAR (2025). Ahuyentamiento, rescate y liberación de fauna silvestre en la Mina Calenturitas, 2018-2019. Grupo Prodeco. Occurrence dataset https://doi.org/10.15472/pr1vug accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-prodeco.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

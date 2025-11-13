@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="1850e2cd-37d5-4c56-9927-a20cae8acdc4"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/js9bq3</alternateIdentifier>
+        <alternateIdentifier>1850e2cd-37d5-4c56-9927-a20cae8acdc4</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=frontera_careto_fauna-flora</alternateIdentifier>
+        <title>Monitoreos de fauna y flora silvestre en el área de explotación campos Careto y Arauco</title>
+        <creator>
+            <individualName>
+                <surName>Frontera Energy Colombia Corp</surName>
+            </individualName>
+            <organizationName>Frontera Energy Colombia Corp</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Calle 110 No. 9 ‑ 25</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>xcastro@fronteraenergy.ca</electronicMailAddress>
+            <onlineUrl>https://www.fronteraenergy.ca/es/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Geotec Ingenieria LTDA</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria LTDA</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Cra 15 No. 92-29 oficina 405</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>comercial@geotecingenieria.com</electronicMailAddress>
+            <onlineUrl>https://geotecingenieria.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Geotec Ingenieria LTDA</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria LTDA</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Cra 15 No. 92-29 oficina 405</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>comercial@geotecingenieria.com</electronicMailAddress>
+            <onlineUrl>https://geotecingenieria.com/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Alba Yaneth</givenName>
+                <surName>Mora Bernal</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria Ltda</organizationName>
+            <positionName>Profesional ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 15 No. 92-29 ofc, 405</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Cundinamarca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>alba.mora@geotecingenieria.com</electronicMailAddress>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Martha Sofia</givenName>
+                <surName>Mesa González</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria Ltda</organizationName>
+            <positionName>Profesional ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 15 No. 92-29 ofc, 405</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Cundinamarca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>martha.mesa@geotecingenieria.com</electronicMailAddress>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Alejandro</givenName>
+                <surName>Cabrejo</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria Ltda</organizationName>
+            <positionName>Biólogo</positionName>
+            <address>
+                <deliveryPoint>Carrera 15 No. 92-29 ofc, 405</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Cundinamarca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>alejandroc.bello@gmail.com</electronicMailAddress>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Ricardo Javier</givenName>
+                <surName>Pineda</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria Ltda</organizationName>
+            <positionName>Biologo</positionName>
+            <address>
+                <deliveryPoint>Carrera 15 No. 92-29 ofc, 405</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Cundinamarca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>rijapineda0704@gmail.com</electronicMailAddress>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Jorge Luis</givenName>
+                <surName>Apache Montaña</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria Ltda</organizationName>
+            <positionName>Biólogo</positionName>
+            <address>
+                <deliveryPoint>Carrera 15 No. 92-29 ofc, 405</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Cundinamarca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jorge.apache@geotecingenieria.com</electronicMailAddress>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Tania</givenName>
+                <surName>Cardozo</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria Ltda</organizationName>
+            <positionName>Ingeniera Forestal</positionName>
+            <address>
+                <deliveryPoint>Carrera 15 No. 92-29 ofc, 405</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Cundinamarca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>andreacc1007@gmail.com</electronicMailAddress>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-01-24
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Teniendo en cuenta que las actividades de explotación de hidrocarburos pueden causar diferentes impactos sobre la biodiversidad, el artículo Noveno de la Resolución 0378 del 05 de marzo de 2008 estableció el Plan de Manejo Ambiental para el Proyecto Explotación Campos Careto y Arauco, este consta de las fichas: (1) BMS-2 Manejo de flora, mediante la cual se busca generar acciones para proteger el recurso de flora en el área de influencia directa del proyecto, identificar las acciones más impactantes sobre ella, así como los sitios más sensibles en que pueda presentarse afectación a este recurso y (2) BMS-3 Manejo de fauna, mediante la cual se busca proteger la fauna silvestre que puede llegar a ser afectada durante todas las etapas del proyecto “Explotación Campos Careto y Arauco”, así como sensibilizar y concienciar a todos los trabajadores y personas relacionadas con el proyecto, sobre la importancia de conocer y proteger las especies de fauna silvestre locales, promoviendo la generación de actividades hacia su conservación.</para><para>Para dar cumplimiento a las mencionadas fichas, Frontera Energy realizó en noviembre de 2023 y julio de 2024 una salida al Proyecto Explotación Campos de Careto Arauco como parte del monitoreo anual, época que corresponden a la transición lluvias-sequía, durante el cual se procuró evaluar la presencia de especies de fauna y flora silvestre en coberturas vegetales aledañas a las áreas efectivamente intervenidas en el marco del Proyecto Careto Arauco y dar respuesta a los requerimientos que están vinculados al expediente LAM3341.</para><para>Este conjunto de datos consta de 2.811 registros biológicos que fueron tomados en el área de licenciamiento del proyecto, ubicada en los municipios de Trinidad y San Luis de Palenque en el departamento de Casanare, en la jurisdicción de la Corporación Autónoma Regional de la Orinoquia (CORPORINOQUIA). Este recurso se distribuye en cuatro clases para fauna y dos clases para flora: Aves (902), Amphibia (117), Mammalia (230), Reptilia (147), Magnoliopsida (1.321), Liliopsida (94), agrupados en 50 órdenes, 116 familias, 250 géneros y 286 especies.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Fauna silvestre</keyword>
+            <keyword>Monitoreo</keyword>
+            <keyword>Flora silvestre</keyword>
+            <keyword>Hidrocarburos</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=frontera_careto_fauna-flora</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El área de Licenciamiento Proyecto de Explotación Campos Careto y Arauco se encuentra ubicado en los municipios de Trinidad y San Luis de Palenque en el departamento de Casanare, en la jurisdicción de la Corporación Autónoma Regional de la Orinoquia (CORPORINOQUIA).</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-71.404</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-71.369</eastBoundingCoordinate>
+                    <northBoundingCoordinate>5.259</northBoundingCoordinate>
+                    <southBoundingCoordinate>5.233</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-11-10
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-11-23
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2024-07-17
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-07-25
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>2.811 registros biológicos de fauna y flora silvestre distribuidos así: Plantae (1.415) y Animalia (1.396). 
+En cuanto al reino Animalia, la distribución se da en 4 clases, 35 órdenes, 80 familias, 188 géneros y 220 especies. Del total, se identificó un 99.4% a nivel de especie y un 0.5% a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Para Plantae el recurso se distribuye en 2 clases, 15 órdenes, 36 familias, 62 géneros y 66 especies. Del total, se identificó un 83.67% a nivel de especie y un 16.32% a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Ximena Andrea</givenName>
+                <surName>Castro Ordoñez</surName>
+            </individualName>
+            <organizationName>Frontera Energy Colombia Corp</organizationName>
+            <positionName>Calle 110 No. 9 ‑ 25</positionName>
+            <address>
+                <deliveryPoint>Calle 110 No. 9 ‑ 25</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>xcastro@fronteraenergy.ca</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FAUNA - MASTOFAUNA: Transectos de largo fijo y ancho variable: Como método principal para la búsqueda y registro de la mastofauna, se realizaron transectos en diferentes coberturas en cada Unidad de Muestreo (UM). El largo de cada transecto varió de acuerdo con las características del parche de vegetación. Adicionalmente, en zona de operación, también se realizaron transectos. Los transectos fueron definidos en conjunto por todo el equipo de consultores asegurando que se distribuyeran de acuerdo con los mosaicos de coberturas presentes en cada una de las Estaciones de Muestreo. En cada transecto se determinaron las coordenadas de inicio y fin. Cada grupo de huellas encontradas en el camino durante un mismo recorrido se reconocieron como las huellas de un mismo animal, esto con el fin de evitar sobreestimar la abundancia. Cada uno de los recorridos fueron georreferenciados a través de GPS, marcando el punto inicial y final, registrando la distancia recorrida (m) y la duración (horas) del mismo, la información fue recopilada en los diferentes formatos de campo y en la Geo-DataBase (GDB) del proyecto.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Redes de niebla: Para documentar la riqueza y abundancia de las especies de murciélagos en cada una de las tres estaciones de monitoreo (EM), se instalaron seis (6) redes de niebla de 12 x 2.5 m y ojo de malla de 32 mm por tres noches de muestreo por cada Estación de Muestreo. Las redes fueron instaladas dentro de coberturas boscosas, cerca de cuerpos de agua y/o demás lugares que sean propicios para la captura de estos, así como las zonas de transición entre los mismos. Las redes estuvieron abiertas mínimo una noche por cada cobertura en cada una de las estaciones de muestreo desde las 18 hasta las 21 horas de la noche y fueron revisadas cada 20 minutos. Los individuos capturados de las distintas especies fueron procesados tomando medidas estándar y demás datos necesarios para su correcta identificación en campo usando las guías de Díaz, et al., (2016)  y Díaz et al., (2021). Una vez realizada la identificación, los individuos fueron liberados cerca al sitio de captura. A cada murciélago se le tomaron las medidas morfométricas (longitud antebrazo, longitud pata, longitud oreja, longitud cola y longitud cabeza – cuerpo) y se determinará su sexo (macho/hembra). Todos los individuos capturados fueron fotografiados y liberados en el mismo lugar de su captura.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Trampas Sherman: Para el muestreo de pequeños mamíferos, se instalaron Trampas Sherman. En cada una de las Unidades de Muestreo (UM), se instalaron 30 trampas Sherman durante 3 días de monitoreo efectivos, para un total de 90 trampas instaladas en el área de estudio. Las trampas fueron ubicadas en aquellos lugares donde se evidenció la presencia de mamíferos, o en aquellos sitios de acuerdo con la experticia del consultor la posibilidad de captura fuera alta. Las trampas, fueron cubiertas con hojarasca, además se utilizaron cebos de mantequilla de maní con avena y cebos de esencia de vainilla, intercalándolos. Las trampas Sherman estuvieron activas por tres noches en la misma estación de muestreo (EM) para maximizar las opciones de captura de individuos, cada trampa se ubicó separa al menos a 10 m de distancia de la anterior. Los animales una vez tomados los datos, fueron liberados en sitios aledaños para reducir la posibilidad de recapturas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cámaras trampa: Esta técnica de muestreo es una de las herramientas de estudio de mamíferos con mayores avances en las últimas décadas dados los desarrollos tecnológicos que han dado grandes beneficios a dicha metodología. El fototrampeo permite monitorear independientemente de las condiciones climáticas, las 24 horas del día. En campo Careto Arauco se instalaron diez (10) cámaras trampa por Estación de Muestreo por diez (10) días continuos, para un total de 30 cámaras, en el Bloque. Estos dispositivos fueron instalados y configurados siguiendo los parámetros del manual de fototrampeo de Díaz-Pulido &amp; Payán- Garrido, (2012). La ubicación principal de las cámaras trampa se focalizó en la cobertura del bosque de galería, así como en áreas con evidencias de actividad de fauna terrestre y una abundancia de recursos esenciales para estos mamíferos, como fuentes de alimento, agua y refugios. En cada unidad de muestreo, se desplegaron diez cámaras que permanecieron activas durante diez días, operando las 24 horas del día. Este enfoque proporcionó un total de 2,400 horas de registro por unidad de muestreo. Estos dispositivos fueron instalados y configurados siguiendo los parámetros del manual de fototrampeo de IAvH.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Trampas Tomahawk: En cada estación de muestreo (EM) se instalaron cinco (5) trampas Tomahawk distribuidas en las coberturas naturales de interés en sitios sombríos y camuflados, para un total de 15 trampas instaladas. Se tomaron los registros respectivos para cada uno de los individuos capturados. Los animales una vez tomados los datos, fueron liberados en sitios aledaños para reducir la posibilidad de recapturas. Las trampas Tomahawk fueron sometidas a revisiones matutinas para preservar la vida de posibles animales capturados. Se instalaron cinco (5) trampas durante tres (3) días por 24 horas en cada sitio de muestreo, generando así un esfuerzo de muestreo total de 120 horas por localidad.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Entrevistas a la comunidad: Se realizaron encuestas para mamíferos, con formatos para el registro de la información, así como apoyo visual con guías y folletos de la fauna de la zona para ayudar a identificar las especies más comunes percibidas por parte de los pobladores. Las especies reportadas fueron registradas y consideradas solamente dentro de los análisis cualitativos como una forma de tener en cuenta los mamíferos potenciales dentro del área de estudio. Para los mamíferos en particular fueron realizadas cuatro encuestas estructuradas para conocer la fauna de mamíferos que ha existido en la zona y comprender los registros históricos de algunas especies dentro del área de estudio.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>AVIFAUNA - Transectos de largo fijo y ancho variable: Se establecieron un total de 45 transectos de largo fijo y ancha variable para la realización de recorridos de observación de aves, distribuidas a lo largo de las coberturas priorizadas en el monitoreo, distribuidos a lo largo de las tres (3) Estaciones de Muestreo (EM) establecidas para la realización del presente monitoreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Redes de niebla: Se instalaron 6 redes de niebla de 12x2.5 m y ojo de malla de 32 mm por 3 días de muestreo por cada estación de muestreo (EM), abarcando particularmente ecotonos. Se instalaron una serie de seis (6) redes de niebla de 12x2.5 m y ojo de malla de 32 mm, operando simultáneamente en cada EM. Para la selección de los sitios de ubicación de la estación, se tuvo en cuenta la facilidad de acceso al lugar y el análisis del profesional en cuanto a la certeza de realizar capturas, garantizando realizar el muestreo en todas las coberturas naturales de cada estación de muestreo (EM). Los horarios de monitoreo fueron: 6:00 a 10.00 horas y de las 15:00 a 18.00 horas. Los horarios de monitoreo en cada estación se alternaron los horarios de monitoreo. Las redes se revisaron cada 10 a 15 minutos, de acuerdo con lo sugerido para el monitoreo de avifauna. Las aves capturadas, fueron desenredadas de la red cuidadosamente para evitar generarles una mayor perturbación. Posteriormente, se dispusieron temporalmente y de manera individual en bolsas de tela para su posterior manipulación y verificación de variables como: Determinación taxonómica (Nombre científico); si el individuo no se logró identificar a especie, se tomaron fotografías de todo el individuo, ventrales, dorsales, laterales y de múltiples caracteres del plumaje, en especial plumas de vuelo (primarias, secundarias), plumas rémiges y plumas de la cola (rectrices), vientre, pecho, color del iris entre otros caracteres diagnósticos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Entrevistas a la comunidad: Se realizaron encuestas para aves, con formatos para el registro de la información, así como apoyo visual con guías y folletos de la fauna de la zona para ayudar a identificar las especies más comunes percibidas por parte de los pobladores. Las especies reportadas fueron registradas y consideradas solamente dentro de los análisis cualitativos como una forma de tener en cuenta los mamíferos potenciales dentro del área de estudio.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>HERPETOFAUNA - Transectos de largo fijo y ancho variable: Se realizaron varios recorridos sobre transectos de observación dentro del área de estudio del proyecto durante el período de muestreo. Dichos transectos tuvieron una longitud variable de acuerdo con las características de la cobertura evaluada. Los recorridos fueron realizados en varios periodos durante la mañana y la tarde, abarcando diferentes coberturas vegetales presentes dentro del área de estudio e incluyendo zonas de transición entre las mismas. Los recorridos se ajustaron a los permisos que se otorgaron para el ingreso a los predios a evaluar. Para las tres estaciones de muestreo (EM) se llevaron a cabo tres recorridos por cada una de las coberturas vegetales, en total se hicieron 33 recorridos en coberturas naturales y seminaturales, dichos recorridos cuentan con una longitud aproximada a 115 metros. Se localizaron en la vereda La Nevera en los predios Arauquita y La Nevera.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Relevamiento por Encuentro Visual (VES): La intensidad media en esta técnica de muestreo hace referencia a que además de registrar los individuos que son visibles a simple vista, el o los observadores pueden remover los diversos objetos que usualmente están en el suelo como troncos caídos, hojarasca, rocas, entre otros, para poder reportar los individuos que allí puedan ocultarse. Las inspecciones fueron llevadas a cabo en las horas del día entre las 8 y 12 horas, y para la herpetofauna nocturna se muestrearon entre las 17 a 22 horas, teniendo como propósito registrar la mayoría de los reptiles que exhiben hábitos matutinos, diurnos o crepusculares.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FLORA: se llevaron a cabo muestreos exhaustivos en tres (3) Estaciones distintas, con el propósito de caracterizar diversas coberturas vegetales. Para la cobertura de Pastos arbolados, se muestrearon un total de seis (6) parcelas, distribuidas equitativamente entre las Estaciones 1 y 2. En cuanto al Bosque de galería, se realizaron nueve (9) muestreos en total, con tres (3) parcelas evaluadas en cada estación, este es el mismo caso para vegetación secundaria o en transición y Herbazal denso inundable, para los cuales se montaron 9 parcelas para cada uno, y teniendo una distribución de unidades por cada estación. De manera similar, la cobertura de Herbazal denso inundable y Vegetación secundaria o en transición fue muestreada en nueve (9) parcelas en total, con tres (3) parcelas por estación. En resumen, se establecieron un total de 33 parcelas de muestreos, distribuidos entre las tres estaciones de manera proporcional, con el objetivo de obtener una representación completa y detallada de la diversidad florística en cada tipo de cobertura a lo largo del área de estudio para el bloque Careto Arauco.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la vegetación secundaria alta y baja (dada su importancia en las oferta de recursos alimenticios y hábitat para la fauna en el área de estudio) la unidad de muestreo corresponde a parcelas cuadradas de 10 m x 10 m ocupando un área de 100 m2, medida sugerida por Van der Hammen (1998), dentro de la unidad de muestreo (parcela) se establecieron subparcelas de 10 m x 10 m para medir fustales, de 5 m x 5 m para medir latizales y de 2 m x 2 m para medir brinzales. Vale la pena aclarar que los fundamentos para determinar las categorías de tamaño de los individuos corresponden a las expuestas en el apartado anterior. Para pastos arbolados se delimitaron fajas de 10m x 500m para fustales (500m2), las unidades de latizales y brinzales no se fijan en este caso debido a la ausencia de esta categoría al verse ocupado el espacio por praderas. Finalmente, para el Herbazal denso inundable, se fijó como unidad de muestreo parcelas de 3 m x 3 m (9 m2), en las que se evalúa la composición y el porcentaje de cobertura para cada especie registrada. Durante el levantamiento de información se muestrearon tres parcelas distintas por cada cobertura en cada estación, con el objetivo de abarcar adecuadamente cada una de las coberturas presentes en el área de estudio.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La recolección de datos (aplica para todas las unidades de cobertura) se realizó del 10 al 22 de noviembre de 2023, en formatos digitales de campo, diseñados y autorizados para tal fin. Una vez establecidas las parcelas, se demarcaron con el correspondiente ID los individuos de tipo fustal a 1,30 m de altura, para los individuos de tipo latizal se realizó un punto en el tallo a 1,30 m de altura, en lo concerniente a los individuos de tipo brinzal y herbáceas no se realizó ninguna marcación a fin de minimizar el impacto sobre esta población; en todos los casos se empleó pintura de aceite de color amarillo. La toma de datos de cada individuo se efectuó con los instrumentos y técnicas acordes a cada caso, para el CAP se emplearon cintas métricas, la estimación de alturas se realizó con base en la determinación del profesional forestal según el método tradicional, así mismo, la georreferenciación se desarrolló con el navegador GPS 60CSx marca Garmin, que presenta un margen de error en la horizontal de ± 5 m y en vertical de ±10 pies. Durante el desarrollo de las actividades de campo se contó con la participación de profesionales forestales con experiencia en botánica responsables de la identificación de las especies encontradas al nivel taxonómico más detallado posible, con el apoyo de material bibliográfico disponible para la zona; por otro lado, el nombre común se asignó con la colaboración de los auxiliares de campo, amplios conocedores de la flora en su región.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área de Licenciamiento Proyecto de Explotación Campos Careto y Arauco se encuentra ubicado en los municipios de Trinidad y San Luis de Palenque en el departamento de Casanare, en la jurisdicción de la Corporación Autónoma Regional de la Orinoquia (CORPORINOQUIA).
+
+El Proyecto de Explotación Campos Careto y Arauco tiene una extensión de 4.935,33 hectáreas  en el cual se han adelantado diversas actividades relacionadas con la construcción de Plataformas multipozo y facilidades permanentes de producción, la perforación de pozos, así como, la construcción y adecuación de vías de acuerdo con las determinaciones de la Resolución 0378 del 05 de marzo de 2008, modificada por la Resolución 0572 del 25 de marzo de 2009, la Resolución 1043 del 5 de junio de 2009, la Resolución 1313 del 13 de julio de 2010 y la Resolución 0350 del 12 de abril de 2013.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>FAUNA: El desarrollo de los monitoreos de fauna silvestre en el Área de Explotación Campos Careto y Arauco, incluyeron tres (3) etapas que iniciaron con la etapa precampo en donde se realizó la revisión de la información secundaria, de los estudios ya realizados, la información registrada en la literatura y los requerimientos establecidos en las licencias ambientales correspondientes. Posteriormente, se desarrolló la etapa de campo, en la que, de acuerdo con las metodologías establecidas, se realizó la evaluación de la mastofauna, avifauna y herpetofauna silvestre asociada a las áreas de intervención y los ecosistemas aledaños y en algunos ecosistemas de mayor interés. Finalmente, se realizó el análisis de la información recopilada tanto en la literatura como en campo (postcampo). 
+
+FLORA: se llevaron a cabo muestreos exhaustivos en tres (3) Estaciones distintas, con el propósito de caracterizar diversas coberturas vegetales. Para la cobertura de Pastos arbolados, se muestrearon un total de seis (6) parcelas, distribuidas equitativamente entre las Estaciones 1 y 2. En cuanto al Bosque de galería, se realizaron nueve (9) muestreos en total, con tres (3) parcelas evaluadas en cada estación, este es el mismo caso para vegetación secundaria o en transición y Herbazal denso inundable, para los cuales se montaron 9 parcelas para cada uno, y teniendo una distribución de unidades por cada estación. De manera similar, la cobertura de Herbazal denso inundable y Vegetación secundaria o en transición fue muestreada en nueve (9) parcelas en total, con tres (3) parcelas por estación. En resumen, se establecieron un total de 33 parcelas de muestreos, distribuidos entre las tres estaciones de manera proporcional, con el objetivo de obtener una representación completa y detallada de la diversidad florística en cada tipo de cobertura a lo largo del área de estudio para el bloque Careto Arauco.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Monitoreo de fauna y flora área de explotación Bloque Careto Arauco en San Luis de Palenque-Casanare 2024</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Ximena Andrea</givenName>
+                    <surName>Castro Ordoñez</surName>
+                    </individualName>
+                    <role>PUBLISHER</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El área de Licenciamiento del Proyecto Área de desarrollo de producción de hidrocarburos Careto Arauco se encuentra ubicado en el municipio de San Luis de Palenque en el departamento de Casanare, en la jurisdicción de la Corporación Autónoma Regional de la Orinoquia (Corporinoquia). El Bloque Careto y Arauco tiene una extensión de 4.935,33 hectáreas  en el cual se han adelantado diversas actividades relacionadas con la construcción de Plataformas multipozo y facilidades permanentes de producción, la perforación de pozos, así como, la construcción y adecuación de vías.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:01Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/js9bq3">Frontera Energy Colombia Corp, Geotec Ingenieria LTDA (2025). Monitoreos de fauna y flora silvestre en el área de explotación campos Careto y Arauco. Version 1.1. Frontera Energy Colombia Corp. Occurrence dataset https://doi.org/10.15472/js9bq3 accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Díaz, M. M., Solari, S., Aguirre, L. F., Aguiar, L. M. S., &amp; Barquez, R. M. (2016). CLAVE DE IDENTIFICACIÓN DE LOS MURCIÉLAGOS DE SUDAMÉRICA. Programa de Conservación de los Murciélagos de Argentina.</citation>
+                <citation>Díaz, M. M., Solari, S., Renato, G., Aguirre, Luis, F., &amp; Barquez, R. M. (2021). Clave De Identificación De Los Murciélagos Neotropicales Chave De Identificação Dos Morcegos Neotropicais. Programa de Conservación de los Murciélagos de Argentina.</citation>
+                <citation>Díaz-Pulido, A., &amp; Payán- Garrido, E. (2012). Manual de fototrampeo: una herramienta de investigación para la conservación de la biodiversidad en Colombia. Instituto de Investigaciones de Recursos Biológicos Alexander von Humboldt y Panthera Colombia.</citation>
+                <citation>MONTECZ S.A. 2009. Estudio de Impacto Ambiental para la Modificación de la Licencia Ambiental de los Campos Careto y Arauco (Resolución 0378 de marzo de 2008).</citation>
+                <citation>Rangel-Ch. J.O., M. Aguilar, H. Sánchez, P. Lowy-C., M. Aguilar &amp; A. Castillo. 1995. Región de la Orinoquia. En: Rangel-Ch. J.O. (ed.). 1995. Colombia Diversidad Biótica I. Bogotá D.C.: Instituto de Ciencias Naturales. Universidad Nacional de Colombia.</citation>
+                <citation>Vallejo-Joyas M.I., Londoño-Vega A.C. López- Camacho R., Galeano G., Álvarez-Dávila E. y Devia-Álvarez W. 2005. Establecimiento de parcelas permanentes en bosques de Colombia. Bogotá D.C., Colombia: Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, 310 p.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-frontera.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

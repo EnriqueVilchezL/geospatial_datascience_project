@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="a3dead0e-d687-47c5-9ef9-b80c688a706e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/sgpppi</alternateIdentifier>
+        <alternateIdentifier>https://bison.usgs.gov/ipt/resource?r=usgs_sesc_everglades_herpetofauna_2000_2002</alternateIdentifier>
+        <alternateIdentifier>a3dead0e-d687-47c5-9ef9-b80c688a706e</alternateIdentifier>
+        <alternateIdentifier>http://bison.ornl.gov/ipt/resource.do?r=usgs_sesc_everglades_herpetofauna_2000_2002</alternateIdentifier>
+        <title>USGS SESC - Everglades - Herpetofauna - 2000-2002</title>
+        <creator>
+            <individualName>
+                <givenName>Kenneth</givenName>
+                <surName>Rice</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>SESC Center Director</positionName>
+            <address>
+                <deliveryPoint>7920 NW 71 ST</deliveryPoint>
+                <city>Gainesville</city>
+                <administrativeArea>FL</administrativeArea>
+                <postalCode>32653</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>3522643544</phone>
+            <electronicMailAddress>krice@usgs.gov</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Matt</givenName>
+                <surName>Cannister</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>Biologist</positionName>
+            <address>
+                <deliveryPoint>7920 NW 71 ST</deliveryPoint>
+                <city>Gainesville</city>
+                <administrativeArea>FL</administrativeArea>
+                <postalCode>32653</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>3522643572</phone>
+            <electronicMailAddress>mcannister@usgs.gov</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Matt</givenName>
+                <surName>Cannister</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>Biologist</positionName>
+            <address>
+                <deliveryPoint>7920 NW 71 ST</deliveryPoint>
+                <city>Gainesville</city>
+                <administrativeArea>FL</administrativeArea>
+                <postalCode>32653</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>3522643572</phone>
+            <electronicMailAddress>mcannister@usgs.gov</electronicMailAddress>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2016-10-06
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The Comprehensive Everglades Restoration Plan (CERP) requires the use of ecological indicators to measure the success of restoration efforts.  The Everglades amphibian community is ideal because amphibians are present in all habitats and under all hydrologic regimes.  During Everglades restoration, hydrologic patterns will change and the response of ecological indicators will determine success. Fourteen amphibian species were detected through VES, vocalization surveys and trapping methods throughout the study and the occurrence information collected in this project database. USGS Southeast Ecological Science Center (SESC).
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>amphibians
+restoration
+ecological indicators
+reptiles
+ARMI</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>The original dataset contains many fields with information such as environmental variables, observers/collectors, and field notes associated with each record. Use the &apos;Point of Contact&apos; in this document for a complete list of, and to gain access to, fields associated with this subset of the original dataset.  More complete metadata document available at https://www.sciencebase.gov/catalog/item/53bc0c71e4b084059e8bff68</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.us/archive.do?r=usgs_sesc_everglades_herpetofauna_2000_2002</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Everglades National Park, Florida, USA</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-81.447</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-80.497</eastBoundingCoordinate>
+                    <northBoundingCoordinate>25.817</northBoundingCoordinate>
+                    <southBoundingCoordinate>25.148</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2000-07-25
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2002-11-13
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Lithobates sphenocephalus sphenocephalus</taxonRankValue>
+                    <commonName>Florida Leopard Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lithobates grylio</taxonRankValue>
+                    <commonName>Pig Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Gastrophryne carolinensis</taxonRankValue>
+                    <commonName>Eastern Narrow-mouthed Toad</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anaxyrus quercicus</taxonRankValue>
+                    <commonName>Oak Toad</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anaxyrus terrestris</taxonRankValue>
+                    <commonName>Southern Toad</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhinella marina</taxonRankValue>
+                    <commonName>Cane Toad</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hyla squirella</taxonRankValue>
+                    <commonName>Squirrel Treefrog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hyla cinerea</taxonRankValue>
+                    <commonName>Green Tree Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Acris gryllus dorsalis</taxonRankValue>
+                    <commonName>Florida Cricket Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudacris nigrita</taxonRankValue>
+                    <commonName>Southern Chorus Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Osteopilus septentrionalis</taxonRankValue>
+                    <commonName>Cuban Treefrog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eleutherodactylus planirostris</taxonRankValue>
+                    <commonName>Greenhouse Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Amphiuma means</taxonRankValue>
+                    <commonName>Two-toed Amphiuma</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Siren lacertina</taxonRankValue>
+                    <commonName>Greater siren</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Chelydra serpentina osceola</taxonRankValue>
+                    <commonName>Florida Snapping Turtle</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Kinosternon subrubrum steindachneri</taxonRankValue>
+                    <commonName>Florida mud turtle</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Kinosternon baurii</taxonRankValue>
+                    <commonName>Striped Mud Turtle</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Terrapene carolina bauri</taxonRankValue>
+                    <commonName>Florida Box Turtle</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Deirochelys reticularia chrysea</taxonRankValue>
+                    <commonName>Florida Chicken Turtle</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudemys nelsoni</taxonRankValue>
+                    <commonName>Florida Red-bellied Cooter</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudemys peninsularis</taxonRankValue>
+                    <commonName>Peninsular Cooter</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Gopherus polyphemus</taxonRankValue>
+                    <commonName>Gopher Tortoise</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Coluber constrictor paludicola</taxonRankValue>
+                    <commonName>Everglades Racer</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Opheodrys aestivus</taxonRankValue>
+                    <commonName>Rough Green Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Elaphe guttata guttata</taxonRankValue>
+                    <commonName>Corn Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Elaphe alleghaniensis</taxonRankValue>
+                    <commonName>Eastern Ratsnake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Cemophora coccinea coccinea</taxonRankValue>
+                    <commonName>Florida Scarlet Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Regina alleni</taxonRankValue>
+                    <commonName>Striped Crayfish Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Storeria victa</taxonRankValue>
+                    <commonName>Florida Brownsnake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Thamnophis sauritus sackenii</taxonRankValue>
+                    <commonName>Peninsula Ribbon Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Thamnophis sirtalis sirtalis</taxonRankValue>
+                    <commonName>Common Garter Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Nerodia fasciata pictiventris</taxonRankValue>
+                    <commonName>Florida Water Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Nerodia taxispilota</taxonRankValue>
+                    <commonName>Brown Water Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Nerodia clarkii compressicauda</taxonRankValue>
+                    <commonName>Mangrove Salt Marsh Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Nerodia floridana</taxonRankValue>
+                    <commonName>Florida Green Water Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Diadophis punctatus punctatus</taxonRankValue>
+                    <commonName>Southern Ringneck Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Farancia abacura abacura</taxonRankValue>
+                    <commonName>Eastern Mud Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Agkistrodon piscivorus conanti</taxonRankValue>
+                    <commonName>Florida Cottonmouth</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotalus adamanteus</taxonRankValue>
+                    <commonName>Eastern Diamondback Rattlesnake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hemidactylus garnotii</taxonRankValue>
+                    <commonName>Fox Gecko</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hemidactylus mabouia</taxonRankValue>
+                    <commonName>Cosmopolitan House Gecko</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis carolinensis</taxonRankValue>
+                    <commonName>Green Anole</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Norops sagrei</taxonRankValue>
+                    <commonName>Brown Anole</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eumeces inexpectatus</taxonRankValue>
+                    <commonName>Southeastern Five-lined Skink</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Alligator mississippiensis</taxonRankValue>
+                    <commonName>American Alligator</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Collect baseline data on the status of amphibian populations in Everglades National Park to be compiled into the Open-File Report 2004-165, titled "Herpetofaunal Inventories of the National Parks of South Florida and the Caribbean: Volume I. Everglades National Park"</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Kenneth</givenName>
+                <surName>Rice</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>SESC Center Director</positionName>
+            <address>
+                <deliveryPoint>7920 NW 71 ST</deliveryPoint>
+                <city>Gainesville</city>
+                <administrativeArea>FL</administrativeArea>
+                <postalCode>32653</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>3522643544</phone>
+            <electronicMailAddress>krice@usgs.gov</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:08Z</dateStamp>
+                <citation>Rice K, Cannister M (2016). USGS SESC - Everglades - Herpetofauna - 2000-2002. Version 2.1. United States Geological Survey. Occurrence dataset https://doi.org/10.15468/sgpppi accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://bison.usgs.gov/ipt/logo.do?r=usgs_sesc_everglades_herpetofauna_2000_2002</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

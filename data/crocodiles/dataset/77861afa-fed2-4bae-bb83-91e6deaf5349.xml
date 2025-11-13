@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="77861afa-fed2-4bae-bb83-91e6deaf5349"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/gamrf9</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=ecopetrol_platero_fauna-flora</alternateIdentifier>
+        <title>Fauna y flora asociada al proyecto piloto de investigación integral - PPII Platero, departamento de Santander</title>
+        <creator>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Gerencia de Gestión Ambiental y Relacionamiento</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>S.G.I. S.A.S. – Consultoría e Ingeniería</surName>
+            </individualName>
+            <organizationName>S.G.I. S.A.S. – Consultoría e Ingeniería</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 28 # 83-28/34</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(57-1) 813 8530</phone>
+            <electronicMailAddress>office@sgiltda.com</electronicMailAddress>
+            <onlineUrl>https://sgisas.co/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Gerencia de Gestión Ambiental y Relacionamiento</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2022-12-20
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El área objeto de licenciamiento se encuentra localizada hacia el occidente del departamento de Santander, en la provincia de Yariguíes, situada en la margen derecha del río Magdalena en lo que se conoce como el valle medio del río Magdalena, en inmediaciones de la vereda Terraplén del municipio de Puerto Wilches y jurisdicción ambiental de la Corporación Autónoma Regional de Santander (CAS). En cuanto a la división político-organizativa, el área de influencia establecida para el PPII Platero, incluye al municipio de Puerto Wilches y 11 unidades territoriales dentro de las cuales se encuentran cinco (5) corregimientos y seis (6) veredas.</para>
+<para>Este recurso contiene los datos biológicos provenientes de las actividades de foto-trampeo, recorridos de búsqueda libre, instalación de redes de niebla, cámaras trampa, inventario forestal y ubicación de parcelas, que permitieron identificar la fauna silvestre presente en el área de influencia establecida para PPII Platero, ubicado específicamente en el municipio de Puerto Wilches.</para>
+<para>El presente recurso contiene 21.090 registros de fauna y flora obtenidos durante los años 2021 y 2022. Dichos registros fueron identificados en el área de influencia del PPII Platero. Los datos están distribuidos en animales (13.678), plantas (3.439) y hongos (3.973).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Artrópodos</keyword>
+            <keyword>Plantas vasculares</keyword>
+            <keyword>Herpetos</keyword>
+            <keyword>Vertebrados</keyword>
+            <keyword>Inventario Forestal</keyword>
+            <keyword>Mamíferos</keyword>
+            <keyword>Aves</keyword>
+            <keyword>Plantas no vasculares</keyword>
+            <keyword>Líquenes</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=ecopetrol_platero_fauna-flora</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El presente estudio fue llevado a cabo en el occidente del departamento de Santander, en la provincia de Yariguíes, situada en el valle medio del río Magdalena, en los corregimientos El Centro, El Pedral, Kilometro 8, Puente Sogamoso, y las veredas Bocas de Sogamoso del municipio de Puerto Wilches.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.921</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.802</eastBoundingCoordinate>
+                    <northBoundingCoordinate>7.373</northBoundingCoordinate>
+                    <southBoundingCoordinate>7.197</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-08-13
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-06-20
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este recurso contiene un total de 21.090 registros biológicos, pertenecientes a los reinos Animalia (13.678), Plantae (3.439) y Fungi (3.973). El reino Animalia está agrupado en ocho clases, 40 ordenes, 134 familias y 501 géneros.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Collembola</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Plantae está agrupado en siete clases, 37 ordenes, 77 familias y 188 géneros.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lycopodiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Marchantiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Fungi está agrupado en cuatro clases, diez ordenes, 23 familias y 43 géneros.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Dothideomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <surName>Gerencia de Gestión Ambiental y Relacionamiento</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A.</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>INVERTEBRADOS
+Para la caracterización de la fauna invertebrada se definieron puntos de muestreo. dos (2) repeticiones por cada categoría dentro del gradiente de coberturas. Siguiendo los Términos de referencia, se muestrearon Colémbolos, Himenópteros terrestres (hormigas), Lepidópteros diurnos (mariposas), Coleópteros (escarabajos coprófagos y melolóntidos) e insectos estridulantes (Ortópteros y Cicadidos) por lo que seguidamente se desglosan los diseños de muestreo de cada grupo. A continuación, se detallan las metodologías implementadas por grupo: 
+
+i. Colémbolos: Embudo de Berlese-Tullgren. Tomando la propuesta de Gómez-Anaya et al. (2010), se empleó el Embudo de Berlese, realizando un transecto de 100 m, en el cual se tomaron 10 muestras (cada 10 m) de núcleos de suelo de igual tamaño (95 cm2 x 15 cm de profundidad). Las muestras recolectadas se procesaron (in situ) mediante una batería de embudos de Berlese-Tullgren, el tiempo de deshidratación de las muestras fue de 72 horas, con bombillos de 25 watts y en contacto con naftalina. Luego de las 72 horas, los ejemplares fueron preservados y fijados en frascos de vidrio en etanol al 70%, cada frasco fue etiquetado y almacenado para su posterior revisión y determinación taxonómica en laboratorio. Debido a que los arreglos de las trampas winkler y pitfall también involucran ejemplares de suelo y que el material biológico es importante en toda la caracterización, al momento de limpiar el material capturado en estas trampas también se efectuó la revisión de los ejemplares de Collembola a fin de ser incorporados en la caracterización.
+
+ii. Coleópteros: Trampas de caída (“Pitfall traps”). En este diseño de muestreo de utilizaron vasos plásticos de 500 mL enterrados a ras del suelo con un tercio del volumen de alcohol al 70%. Se utilizó aproximadamente 20 g de excremento humano como atrayente envuelto en trozos de tul de 20×20 cm en cada trampa, ubicado sobre el centro de la trampa por medio de un soporte enterrado en el suelo (Villareal et al. 2006; Cultid et al. 2012) y para reducir la desecación del atrayente y evitar la inundación por posible lluvia, se instalaron platos plásticos sostenidos por palillos de madera de 20 cm de largo sobre cada trampa. Si bien los Términos de referencia señalan un transecto de 300 m (dependiendo del área) con seis (6) unidades muestrales separadas entre sí cada 50 m durante cuatro (4) días, sin embargo, acorde al permiso de recolección (Resolución 00961 de 2 de junio de 2021) las unidades de muestreo máximas permanecen durante 24 horas. Adicionalmente, se encuentra que los parches de cobertura del área son pequeños por lo que para efectos de este muestreo, en cada sitio se estableció un transecto de 210 mts con ocho (8) trampas de caída separadas entre sí cada 30 m pues acorde con autores como Escobar y Chacón-Ulloa (2000) y Cultid et al. (2012), las distancia mínima entre trampas para su efectividad es esta distancia señalada, cada trampa constituye una unidad muestral y las trampas funcionaron durante 24 horas en cada sitio. Se preservó el material capturado en bolsas de cierre hermético con etanol al 96% que fueron debidamente etiquetadas y almacenadas para la posterior determinación taxonómica en laboratorio. Trampas de interceptación al vuelo. Se instalaron dos (2) trampas de interceptación de vuelo en cada cobertura, en un transecto de 210 m, una al inicio y otra al final del transecto; y a 30 metros a la derecha de la trampa inicial y final de las trampas pitfall con el fin de no ser alteradas por el atrayente de estas; se utilizó una bandeja de 70 x 30 cm con una mezcla de alcohol al 70 % y un poco de jabón y se instaló una polisombra negra en la parte superior de la bandeja de 80 x 70 cm y se fijó a los troncos más cercanos, cada trampa se revisó cada 24 horas. Captura manual. Se efectuó buscando los ejemplares sobre excremento o carroña hasta completar 12 horas de búsqueda.
+
+iii. Escarabajos: Se realizó el muestreo al azar en suelos de las unidades de muestreo seleccionados. Cada muestreo se realizó sobre una cuadrícula de 1m x 1m. Se revisaron troncos en descomposición en las unidades muestreadas y adicionalmente se colocaron algunas trampas de frutas en descomposición (Deloya et al. 2018).
+
+iv. Himenópteros: Trampas Winkler. Esta trampa se aplicó para el muestreo de hojarasca. La unidad de muestreo correspondió a un transecto de 50 m, en el cual se tomaron cinco (5) muestras de 1m2 de hojarasca cada 10 m. La hojarasca recogida fue cernida y colocada dentro de las bolsas winkler, y posteriormente montadas dentro de los sacos Winkler, secándose durante 48 a 72 horas. Las bolsas colectoras fueron debidamente identificadas y almacenadas para su posterior revisión en el laboratorio y los especímenes observados y/o colectados por trampa se fijaron en etanol 70%. Trampas de caída (“Pitfall traps”): Este método consistió en enterrar a ras de suelo con una preparación de con alcohol al 70% y una gota de jabón, un vaso plástico de 14 Onz de abertura circular de un diámetro 10 cm para atrapando los insectos que pasaban sobre ellos y caían en su interior. Se realizó un transecto de 100 m con 10 trampas ubicadas cada 10 m y con el fin de evitar la inundación por lluvia, se cubrieron parcialmente con platos plásticos sostenidos por palillos de madera de 20 cm de longitud. Las trampas se mantuvieron activas durante 24 horas. Especímenes observados y/o colectados por trampa se colocaron en frascos y se fijaron en etanol 70% para su posterior determinación taxonómica en laboratorio. Cebo con Atún: Para este método se realizó un transecto de 100 m con 10 cebos de atún de aproximadamente 15 gr. ubicados a una distancia de 10 m entre ellos. El cebo estuvo disponible durante 15 minutos, tiempo después del cual los individuos fueron recolectados manualmente y depositados en frascos para preservarlos en etanol al 96%. Captura Manual: Con esta técnica se efectuó la búsqueda cuidadosa de hormigas en troncos en descomposición, hojarasca, depósitos de detritos, frutos caídos, corteza de árboles y arbustos, epífitas, hojas y nectarios, pues con este método se pueden capturar especies raras o muy escasas, cuya probabilidad de captura con otros métodos es muy baja. Se realizó un transecto de 100 m cada 10 m se realizó observación directa de los individuos presentes en un área de 2x2 m, tomando muestras de las hormigas presentes durante 15 minutos. Los especímenes observados y/o colectados en cada parcela fueron preservados en frascos con etanol al 70%, los cuales fueron etiquetados y almacenados para efectuar la determinación taxonómica en laboratorio (Villarreal et al., 2006).
+
+v. Lepidópteros diurnos: Captura con jama. La jama o red entomológica está formada por un aro metálico al que va adherido un tul en forma cónica, sostenido por una vara de madera o metal, que da soporte a todo el instrumento. Los términos de referencia formulan cuatro (4) transectos de 100 m cada uno, sin embargo, por la misma intervención de las coberturas, se realizó la observación y captura directa de los individuos que se encontraban dentro de dos (2) transectos de 110 m observando a lado y lado hasta 5 m (110x10 m) durante un recorrido ejecutado por dos (2) personas. Los individuos colectados fueron sacrificados y guardados en sobres de papel milano. Cada sobre fue marcado y almacenado en bolsas de cierre hermético con sílica-gel para deshidratar los ejemplares y evitar el crecimiento de bacterias y hongos. Trampas van Someren Rydon. Esta trampa consiste en un tubo cilíndrico recubierto por un velo y en la boca inferior se colocó un plato ancho, en donde se adicionó como atrayente para mariposas, banano en descomposición y atún. Para este método, los términos de referencia pautan un transecto de 250 m en el que se colocan 6 trampas (unidades muestrales UM) durante dos (2) días y que la UM se dispondrán cada 50 m pero el área de las coberturas permitió un transecto de 160 m, donde se colocaron cuatro (4) trampas distanciadas 40 m entre sí, pues acorde a la literatura (Uehara-Prado et al. 2007) es la distancia mínima para ser efectivas. Las trampas se colgaron de los árboles entre 1 y 3 m de altura del suelo y permanecieron activas 72 horas (3 días) en cada cobertura a fin de no disminuir el esfuerzo de muestreo; se sacrificaron los individuos encontrados en ellas y se guardaron en sobres de papel milano (Villarreal et al., 2006).
+
+vii. Insectos estridulantes: Para el proceso de monitoreo fue necesario localizar los organismos guiándose por el sonido, actividad que consume bastante tiempo, posteriormente, al acercarse para realizar las grabaciones a 30 cm (o mayor distancia en algunas especies) y capturar los especímenes, se debía ser muy cautelosos, ya que cuando los insectos sienten la presencia humana dejan de estridular y se ocultan. Al final de las jornadas de muestreo para cada organismo colectado se contaba con las grabaciones en espectro audible y ultrasonido, coordenadas y, en algunos casos, fotos y videos de los individuos estridulando. Para la grabación de los insectos estridulantes, se contó con una grabadora Zoom H4n Pro para obtener los archivos audibles y con un micrófono Echometer Touch 2 Pro acoplado a un celular Huawei eco para generar los archivos de ultrasonido. Dichas grabaciones serán enviadas a la Colección de Sonidos Ambientales del Instituto Humboldt. Los ejemplares fueron colectados usando red entomológica (jama), fueron sacrificados en cámara letal con acetona, almacenados en sobres de papel debidamente marcados y guardados en bolsas de cierre hermético con abundante silica gel. Los individuos colectados serán montados con alfileres entomológicos y depositados en a una colección previamente registrada ante el RNC y siguiendo los procolos mínimos relacionados a los datos. Se efectuó un esfuerzo de entre 7 y 11 horas al día, distribuyendo las horas de muestreo a lo largo de la mañana, la tarde y la noche.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Etapa Post campo: Procesamiento e identificación de las muestras de invertebrados. En la fase de laboratorio, las muestras fueron revisadas y separadas por morfotipos y luego se procedió a la identificación hasta el nivel taxonómico más bajo posible con ayuda de textos de referencia y claves taxonómicas. La revisión y procesamiento se realizó empleando estereoscopios: dos (2) de tipo Estereoscopio Binocular marca Motic referencia Eco Sz-745 Led, con una magnificación total de 7.5X - 45X, con iluminación incidente LED con control de intensidad y un (1) estereoscopio con cabezote Unitron Z850 con una magnificación total de 8 X - 50 X y lámpara AmScope 144 LED. Se hizo el montaje de las morfoespecies de algunos de los grupos recolectados para su identificación, específicamente de mariposas y coleópteros y todos los especímenes recolectados se ingresaron a una colección previamente registrada ante el RNC siguiendo los protocolos mínimos relacionados a los datos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>VERTEBRADOS
+
+i. Aves: De manera preliminar en campo se realizó un recorrido de prospección y reconocimiento con el fin de validar y ubicar las áreas estratégicas para el monitoreo de la comunidad de aves ya fuese para instalar puntos de captura de aves con redes de niebla, así como lugares idóneos para realizar transectos de observación teniendo en cuenta las diferentes coberturas vegetales a ser muestreadas y el gradiente de intervención planteado, con el fin de planear actividades (tiempo de desplazamiento, tiempo efectivo de trabajo y logística). Se caracterizó la comunidad de aves del área de influencia del PPII Platero realizando puntos de conteo de radio fijo (Censo por puntos) en los cuales se ejecutaron detecciones visuales y auditivas siguiendo las metodologías estandarizadas para el muestreo de aves terrestres de la región neotropical propuestos por Ralph et al. (1993), Bibby et al. (2000), Villarreal et al. (2006) y Ortega-Álvarez et al. (2018) discriminándolos de manera en que se pudiera abarcar las diferentes unidades de cobertura vegetal y su gradiente de transforamcion (desde remanentes de ecosistemas naturales hasta altamente intervenidos). Adicionalmente, en estos mismos puntos de monitoreo de aves se instalaron estaciones de captura de aves en los cuales mediante redes de niebla se pudo registrar la presencia de especies crípticas (difíciles de avistar), otras que eran comunes dentro del área de influencia y aves pequeñas difícilmente observables o diferenciables,; mientras que los transectos de observación permitieron inventariar la mayor parte de las aves medianas y grandes; así como aquellas en los estratos superiores de la vegetación (Ralph et al., 1996). ii.i.Puntos de conteo de radio fijo (Censo por puntos): Se realizaron puntos de conteo las cuales abarcaron las unidades de cobertura vegetal presentes en los diferentes sectores del área de influencia del proyecto PPII Platero en los cuales se registraron todos los individuos observados o escuchados a una distancia máxima de 25 m en un periodo de tiempo de 10 minutos (Ralph et al., 1996).  i.ii. Transectos de observación. Se realizaron 14 transectos de observación a una velocidad constante (aproximadamente 5 km/h) en los que se fueron registrando los individuos observados o escuchados a una distancia máxima de 25 m a cada lado del transecto y para cada individuo observado se tomó información acerca de su actividad, cobertura de asociación, sexo (cuando fue posible) y organización social. En cada punto de muestreo en los transectos se le efectuaron cuatro (4) repeticiones en horas distintas buscando garantizar la detectabilidad de las especies (Ruiz-Gutiérrez &amp; Zipkin, 2011). Siguiendo los términos de referencia, todos los avistamientos se registraron en la plataforma eBird con el fin de compilar, ordenar y validar la información colectada en campo. Los transectos y puntos de observación fueron realizados durante las horas de mayor actividad de las aves, en la mañana entre las 6:00 y las 12:00 horas, y en la tarde entre las 15: y las 18:00 horas y en algunos casos se realizaron grabaciones de los individuos escuchados y comentarios sobre los mismos, los cuales fueron revisados posteriormente y comparados con la base de datos de cantos Xeno-canto (Xeno-canto.org is powered by the Xeno-canto Foundation and Naturalis Biodiversity Center, 2019). Durante los transectos y puntos de observación se realizaron registros fotográficos de las aves observadas cuando las condiciones lo permitían para la búsqueda, observación e identificación taxonómica de los ejemplares, con el fin de contar con el suficiente material ilustrativo. Las observaciones fueron apoyadas con binoculares 10x42 y cámaras fotográficas. i.iii. Redes de niebla: El estudio comprendió tres periodos de captura de aves mediante el uso de redes de niebla: en agosto 2021 temporada de mayor precipitación A en el cual se instalaron 9 redes de niebla (12m ojo de red de 12 mm), en noviembre 2021 (temporada de mayor precipitación B) con 12 redes de niebla (12m ojo de red de 12 mm) y en enero 2022 con intensidad total de 5,691h/2,310mts red. Las redes se revisaron permanentemente, máximo cada 25 minutos, disminuyendo el tiempo de revisión en condiciones extremas de calor o frío y cuando existió amenaza de lluvia las redes fueron cerradas para prevenir el deceso de los ejemplares capturados. A los individuos capturados se marcaron con marcador indeleble con el fin de no alterar los datos de abundancia de cada especie, posteriormente se tomaron medidas morfométricas para verificar sexo y condición física de los ejemplares, por último, fueron fotografiados y liberados en zonas cercanas redes de niebla. Así mismo se efectuaron algunas encuestas a los pobladores del área de influencia.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>ii. Mamíferos: Para el levantamiento de la información primaria en la etapa de campo, se realizó un recorrido de reconocimiento preliminar, con el fin de validar o reubicar los sitios de muestreo y planear las actividades (tiempo de desplazamiento, tiempo efectivo de trabajo y logística). La caracterización de la comunidad de mamíferos en el área de influencia se desarrolló en las coberturas más representativas teniendo en cuenta las Áreas de Muestreo Fijo (AMF), y fueron seleccionadas por mantener en primera medida remanentes de ecosistemas naturales y seminaturales para registrar especies sensibles y propias de la región, al igual que coberturas modificadas por el ser humano (pastos) para registrar especies generalistas y conocer su estado actual y adaptación a estas zonas transformadas. En cada una de estas AMF se desarrollaron métodos de detección directa a través de recorridos de observación y con sistemas de trampeo acorde a los términos de referencia, sobre las unidades boscosas y vegetaciones secundarias. ii.i. Recorridos de observación para mamíferos: El registro directo e indirecto de mamíferos medianos y grandes se hizo mediante observación directa y búsqueda de indicios, en recorridos de longitud y ancho variable anotando la información en libreta de campo. En los transectos de observación se registraron heces, madrigueras, huellas, marcas en árboles, comederos y cuevas, entre otras evidencias, cada una relacionada con un registro fotográfico o dimensión morfométrica, en el caso de las huellas. La identificación de huellas se realizó según la experiencia del profesional asignado, con el apoyo de las guías especializadas de Aranda (2012), Morales et al. (2004) y Tirira (2017). ii.ii. Redes de niebla para mamíferos voladores: Se establecieron seis (6) estaciones de redes niebla teniendo en cuenta las AMF propuestas, ubicando así las redes en diferentes coberturas de bosque ripario, bosque de tierra firme, bosque inundable, vegetación secundaria y zonas de transición, en donde se instalaron 10 redes de niebla, cada una de 12m de largo por 3m durante al menos dos (2) noches cada una. Éstas se abrieron a partir de las 17:30 Horas y se cerraron a las 22:30 Horas, obteniendo así cinco (5) horas efectivas diarias. Las redes de niebla se revisaron regularmente para verificar la captura de individuos. La ubicación de las redes se definió de acuerdo con su orientación con respecto a la vegetación, la disponibilidad de recursos tales como (flores, frutos, cuerpos de agua) y la presencia de bordes entre vegetación de estructura contrastante, entre otras. Todos los individuos capturados fueron fotografiados y liberados en el mismo lugar de su captura, ya que la totalidad de especies fueron determinadas en campo, hecho que se basó en la experiencia de los investigadores y se soportó en las guías de campo de Reid (2009), Aguirre, Vargas, &amp; Solari (2009), Díaz, Aguirre, &amp; Barquez (2011) y Tirira (2017). Dando cumplimiento a lo requerido por los términos de referencia, para el registro de murciélagos por medio del sonido, se realizaron grabaciones de los llamados de ecolocación de murciélagos insectívoros utilizando una grabadora de ultrasonido (Echo meter touch pro-2) empleando la técnica de encierro de tela de toldillo. ii.iii. Trampas Sherman para captura de mamíferos pequeños. Se instalaron 50 trampas Sherman en las coberturas de bosque ripario, bosque de tierra firme, bosque inundable y vegetación secundaria, manteniendo una distancia entre sí de 10 metros. El tiempo efectivo de trampeo fue de 200 trampas-noche para cada una de las principales unidades de cobertura; en cada sitio se dejaron trampas durante cuatro (4) días de tal manera que las líneas de trampas estuvieran separadas para evaluar las coberturas contrastantes adyacentes (Interior de bosque-Borde de bosque; Borde de bosque-Vegetación Secundaria, Bosque-Pastos). Se utilizó un cebo preparado de mantequilla de maní, grasa de cerdo y esencia de vainilla. La ubicación de las trampas Sherman se definió de acuerdo con los senderos de movilización de fauna silvestre terrestre, disponibilidad de recursos alimenticios, cuerpos de agua y bordes entre vegetación de estructura contrastante y base de árboles, entre otros lugares donde la probabilidad de captura es mayor, por ser sitios de tránsito o actividad de este grupo de animales. Para cada individuo capturado se registró la ubicación de la trampa y se tomaron las medidas morfométricas e información de especie, sexo, entre otras. Las trampas fueron revisadas cada día durante las primeras horas de la mañana para evitar el deterioro de las muestras y fueron cebadas diariamente. ii.iv. Trampas Tomahawk para captura de mamíferos medianos. Para la captura de mamíferos medianos se instalaron 10 trampas Tomahawk plegables con dos puertas, por Área de Muestreo Fija (AMF) mínimo por cuatro (4) días con una combinación de cebos atrayentes: esencias de banano y vainilla impregnadas en algodón, sardinas enlatadas y banano. Las trampas fueron revisadas cada día durante las primeras horas de la mañana para evitar el deterioro de las muestras y fueron cebadas diariamente. ii.v. Trampas Pitfall o de caída para captura de pequeños mamíferos. Las trampas de caída son recipientes (baldes o canecas) de al menos 12 litros enterrados hasta el borde superior a ras de suelo y dispuestos de forma lineal separados a una distancia de 10 m entre sí y atravesados por una barrera plástica de 60 cm de altura. A cada una de las trampas se les construyó una cubierta con elementos naturales de la zona con el objetivo de camuflar y proteger los animales atrapados de la radiación solar, de pequeñas lluvias y de posibles depredadores aéreos y en el fondo se colocó un poco de hojarasca con algunas rocas pequeñas. Este tipo de trampas son útiles para el monitoreo de especies terrestres fosoriales y semifosoriales con escasa capacidad trepadora o escaladora. Las trampas fueron revisadas cada día durante las primeras horas de la mañana para evitar el deterioro de las muestras y fueron cebadas diariamente, con una mezcla de avena, mantequilla de maní, ajonjolí y esencia de vainilla. Los arreglos de las barreras y trampas siguieron un diseño aleatorio dentro de la cobertura evaluada y esta disposición se tomó en cuenta considerando la posible intersección de corredores de dispersión y la unidad de muestreo fue de 15 trampas por 24 horas durante cuatro (4) días por cobertura evaluada. ii.vi. Fotorrastreo de mamíferos Para el muestreo de mamíferos grandes y medianos se utilizaron 22 cámaras de fotorrastreo o trampas-cámara, las cuales fueron instaladas en campo para completar al menos 30 días por cada una. Se estableció una distancia mínima de 1000 metros entre cada una con el fin de minimizar la sobrestimación de abundancias. Dentro de cada cobertura se empleó un muestreo oportunista en cuanto a ubicación de cámaras, buscando la cercanía a madrigueras, senderos utilizados por la fauna, posibles bebederos, troncos caídos que presten el servicio de refugio, zonas con abundantes frutos del bosque, etc. Cada cámara se programó para un monitoreo continuo de 24 horas por día. ii.vii. Entrevistas no estructuradas sobre mamíferos La información para el grupo de mamíferos se complementó mediante entrevistas no estructuradas realizadas a habitantes del área de estudio. Para esto se utilizaron láminas y/o guías ilustradas, que fueron mostradas a los habitantes de la zona con el fin de establecer el uso, la importancia y el conocimiento local que tienen sobre los mamíferos de la región. Se efectuaron ocho (8) entrevistas en las diferentes zonas, sin embargo, los pobladores entrevistados que residen en la zona corresponden en su mayoría a personas trashumantes que provienen de otras veredas o de otros municipios y la mayoría no sobrepasa los 20 años de vivir en esta región, pues son inmigrantes de otras zonas del país especialmente de Santander y del Cesar, siendo pocos los campesinos o personas que aún tienen parte de esa memoria biocultural. Por lo expuesto anteriormente, las entrevistas únicamente se tomaron para corroborar la presencia de algunas especies de interés para ellos y que generalmente corresponden a especies con las que tienen algún tipo de conflicto o aquellas que son buscadas en las faenas de cacería. En general, la mayoría de las personas entrevistadas tienen un bajo conocimiento de la fauna local, por lo cual no se tomó en cuenta dicha información para los análisis de riqueza al no existir coincidencias confiables en la información obtenida. Las personas entrevistadas fueron siempre mayores de edad, se seleccionaron a aquellas que demostraron un mayor conocimiento sobre la fauna local. Asimismo, se realizaron monitoreos de mamíferos atropellados en las carreteras de influencia directa de los carrotanques, tractocamiones y camionetas 4x4, y Se hicieron registros por fuera de las metodologías regularmente establecidas, los cuales corresponden a hallazgos de indicios o avistamientos fortuitos que se obtuvieron durante los desplazamientos hacia los sitios de muestreo, por información dada por los lugareños o por otros eventos aleatorios. Se trató de fotografiar las especies capturadas u observadas ad libitum para su evidencia y como soporte en la identificación, con el apoyo de las guías de Reid (2009) y Weksler &amp; Percequillo (2011) y Tirira (2017).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La determinación taxonómica de los individuos de mamíferos a nivel de especie se realizó siguiendo las propuestas taxonómicas de Wilson &amp; Reeder (2005), complementadas con las listas nacionales de Solari et al. (2013), Ramirez &amp; Suarez (2014) y Ramírez-Chaves et al. (2016). Para los quirópteros se siguió a Mantilla-Meluk et al. (2009) para la familia Phyllostomidae y para los didélfidos se siguió la propuesta de Gardner (2007); para los roedores se siguió la propuesta de Reid (2009) y Weksler &amp; Percequillo (2011); para los primates se siguió a Defler (2003, 2010). Las claves taxonómicas, las descripciones y fotografías incluidas en las guías de campo de Tirira (2017), Emmons &amp; Feer (1999) y la publicación de Gardner (2007), fueron soporte para la identificación en campo, además de los anteriores, se complementó la información de las huellas y rastros con las técnicas propuestas por Aranda (1981, 2012) e igualmente se complementó la verificación con revisiones electrónicas en diferentes bases de datos especializadas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>iii. Anfibios y reptiles: Transectos de encuentro visual. Se implementaron muestreos diurnos y nocturnos buscando abarcar las diferentes horas de actividad y descanso de las diferentes especies, en periodos de tres (3) horas diurnas y tres (3) horas nocturnas: entre las 8:00 y 12:00 horas, y entre las 17:30 y 21:30 horas en los cuales se implementó el método de búsqueda VES (por sus siglas en inglés, Visual Encounter Surveys: Heyer et al. 1984 y Ángulo et al. 2006) y remoción de hojarasca mediante el uso de rastrillo, para el registro de las especies de anfibios y reptiles presentes en el área de estudio del proyecto; se removió así mismo la hojarasca, se buscó debajo de piedras y troncos podridos en el suelo, en agujeros en el suelo y se inspeccionaron troncos y ramas de árboles grandes procurando así, abarcar todos los hábitats y microhábitats ideales para anfibios y reptiles a través de la unidad muestral por un período de tiempo determinado, dándole por lo general mayor prioridad a aquellos que podrían contener más especies, como márgenes de quebradas y pozos o jagüeyes. La unidad muestreo fueron 47 transectos ejecutados para la época de mayor precipitación A (agosto 2021), 48 ejecutados en la época de mayor precipitación B (noviembre 2021) y 48 más en época de menor precipitación (Enero 2022), en los que los profesionales se movilizaron despacio mientras buscaron visualmente a los anfibios y se evitó contar dos veces al mismo individuo y se realizó el conteo del número de individuos de cada especie observada evitando la sobreestimación al trabajar en diferentes áreas y evadiendo la misma área en la misma jornada. También se registró el tiempo del muestreo (diurno o nocturno), datos del hábitat en el cual se encontraron los individuos, datos meteorológicos, coordenadas y nombre del observador. Siempre que fue posible, los profesionales identificaron el anfibio o reptil en cuanto lo observaron y fotografiaron con Cámaras Cannon semiprofesionales, pero cuando fue necesario se capturó para su revisión y determinación taxonómica. La captura de individuos adultos se efectuó manualmente en el caso de los anfibios y con la ayuda de gancho herpetológico en el caso de los reptiles y todos los especímenes se transportaron en bolsas de tejido mojado y con material vegetal en el interior buscando reducir los niveles de estrés térmico e hídrico. Posteriormente, se revisaron los caracteres taxonómicos como patrones y características cromáticas y estructurales y se revisaron las propuestas de Trueb &amp; Duellman (1970), Heyer (1973), Lynch &amp; Suárez (2011), Acosta-Galvis (2021), entre otros, y el arreglo nomenclatural final a emplear para la determinación taxonómica se hizo con base en Frost (2021) para anfibios. Para la identificación de reptiles, se revisaron las propuestas de Peters &amp; Donoso-B. (1970), Peters &amp; Ears-M. (1970), Avila-P. (1995), Campbell &amp; Lamar (2004) y D&apos;Angiolella et al. (2011 y la determinación taxonómica sigue la propuesta de Uetz et al. (2021). Los ejemplares capturados, luego de haber sido identificados taxonómicamente, fueron liberados en la misma cobertura donde se le capturó. iii.i. Encuestas: Como complemento de las técnicas de registro directo, se efectuaron tres (3) encuestas semiestructuradas con apoyo de material fotográfico a los pobladores del área de estudio lo que permitió corroborar la presencia de aquellas especies faunísticas que debido a sus hábitos ecológicos no permiten su fácil avistamiento en la fase de campo. iii.ii. Atropellamiento de anfibios y reptiles Se realizó el monitoreo de anfibios y reptiles atropellados en las vías asociadas al área de influencia revisando en siete (7) recorridos a baja velocidad, registrando los animales atropellados. Al momento de tener un registro de atropellamientos se buscó tomar fotografías del animal, medir el ancho de la carretera del evento de atropellamiento (aplicación RECOSFA de la Red Colombiana de Seguimiento de fauna atropellada, siguiendo lineamiento de los términos de referencia).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Etapa Post Campo general: Análisis de la información para todos los grupos taxonómicos Acatando los términos de referencia PPII YNC MADS-ANLA (2020) y lo referido en la Metodología General para la presentación de Estudios Ambientales MADS-ANLA (2018), para todos los grupos taxonómicos caracterizados (Anfibios, Reptiles, Aves, Mamíferos e Invertebrados), se organizaron los datos recopilados en forma de listados de composición de especies que tienen en cuenta las unidades de cobertura de la tierra identificadas o a las que están asociadas las especies y las características principales de cada especie: Distribución altitudinal, hábitos de vida, periodo de actividad y nicho trófico. Al igual que para las especies potenciales, para cada registro obtenido en cada grupo taxonómico se revisó su estado de conservación acatando las categorías establecidas a nivel nacional en la Resolución 1912 del 15 de septiembre de 2017 emitida por el MADS y la Serie Libros Rojos de Especies Amenazadas de Colombia: Anfibios (Rueda-Almonacid et. al., 2004), Reptiles (Castaño-Mora, 2002) y a nivel global, se cotejó con la lista roja de especies amenazadas de la IUCN (Versión 2021-1). Con el objeto de identificar las especies que presentan presión por tráfico de fauna se revisaron los Apéndices de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres – CITES (2017). La identificación de las especies endémicas se trabajó comparando la distribución de las especies registradas en el área y de probable ocurrencia a través de los mapas generados por la IUCN (Versión 2021.1) y publicaciones en las cuales especifican endemismos para Colombia, para herpetofauna (anfibios y reptiles): Sánchez-C et al. (1995) y Acosta-Galvis (2000, 2021).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FLORA
+El estudio de la flora se desarrolló en tres fases, una fase pre-campo, una fase de campo y una fase de procesamiento de información y análisis de la misma. En la fase de pre-campo se realizó una revisión de bibliografía en la que se identificaron especies en categoría de veda nacional y/o regional de potencial distribución en el área del estudio, se diseñó el formulario digital de captura de información en el programa Memento Database® y se definieron de manera preliminar los puntos de muestreo a partir del mapa de coberturas de la tierra. Para la caracterización de la flora arbórea, se planteó una revisión documental específica para el área de estudio, que incluyó los listados de flora con distribución en la zona, soportada con una revisión bibliográfica metodológica, la cual ha sido empleada en la descripción de la vegetación, colección de muestras botánicas y elaboración del documento. En esta primera fase se realizó una clasificación a la imagen de la zona, que consiste en hacer una categorización sobre la respuesta espectral de las coberturas encontradas en el área, agrupando patrones preliminares y correlacionándolos con la información secundaria de las coberturas existentes. A partir de esto, se obtuvo una cartografía preliminar de coberturas de la tierra, las cuales se clasificaron aplicando la Metodología Corine Land Cover y se establecieron puntos de verificación. La caracterización de las especies vasculares y no vasculares de hábitos epífito se realizó teniendo en cuenta el protocolo para un Análisis Rápido y Representativo de la Diversidad de Epífitas (RRED analysis) propuesto por (Gradstein et al., 2003). El muestreo se efectuó en las mismas parcelas forestales con medida de parcela de 100x10. Se realizaron 128 parcelas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>i. Caracterización de la flora epífita vascular y no vascular del PPII: Teniendo en cuenta la metodología de Gradstein et al. (2003) se caracterizaron 8 forófitos por hectárea de cobertura vegetal y se estableció como tamaño de parcela para veda de 100 x10 m, aunque para algunas coberturas no se contaron con esta cantidad de forófitos debido a que el área del proyecto está bastante antropizada. Los parámetros de selección de forófitos que se tuvieron en cuenta para todas las coberturas son: Altura mayor a 7mts, DAP mayor a 10cm, cortezas rugosas, equidistantes entre sí.  Para las especies vasculares y no vasculares de hábito terrestre y/o Rupícola se realizaron al menos 6 parcelas por cobertura vegetal evaluada con un tamaño de 1x1 teniendo en cuenta la metodología de Gentry (1982). El registro de la flora epífita vascular se realizó teniendo en cuenta la distribución ecológica expuesta por Johannson (1974) de: Base (1), Tronco (2), corona interna (3), corona media (4) y corona externa (5) y para las especies no vasculares se realizó solo en la base y el tronco. Cada árbol (forófito) evaluado fue marcado con pintura roja y fue georreferenciado. Para censar la flora vascular se identificaron las especies presentes en cada forófito y se registró el número de individuos y su distribución ecológica, Las epífitas no vasculares se evaluaron por medio de una cuadricula de 30x20 cm que permitió estimar el área de cobertura en cm2 de cada especie sobre el tronco. Se registraron musgos, hepáticas, líquenes y antherocetales, la ubicación de la plantilla se dispuso al azar en los estratos 1 y 2. Se realizó la colecta de ejemplares botánicos como soporte para la identificación taxonómica de cada individuo o agregado del cual no fue posible tener certeza de su identidad taxonómica en campo, tanto de especies vasculares como de no vasculares usando métodos diferentes. Las vasculares colectadas, prensadas en papel periódico y preservadas en alcohol para su posterior secado y las no vasculares colectadas y preservadas en bolsas de papel kraft de 1 libra para ser secadas a temperatura ambiente. En la fase de análisis, se procesó la información tomada en campo y se evaluó la riqueza, la composición, la abundancia y la diversidad de la flora epífita vascular y no vascular de manera general y para cada unidad de cobertura.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>ii. Montaje de las parcelas para fustales y captura de información: De acuerdo con la determinación de los sitios de muestreos en la etapa de pre-campo, el equipo de profesionales accedió a cada parcela ubicando las coordenadas previamente definidas; en ellas se marcó con pintura cada uno de los individuos inventariados, quedando como referencia la unidad muestreada y con el Sistema de Posicionamiento Global (GPS) se georreferenciaron cada uno de los individuos de la parcela. El punto de inicio de cada parcela se determinó de acuerdo con la continuidad de la cobertura de cada ecosistema; a partir de este punto se extendió una cuerda de 100 metros, siendo esta línea el eje de la parcela y a partir de allí se midieron todos los fustales (DAP superior a los 10 centímetros) que se encontraron a 5 metros a la izquierda y 5 metros a la derecha. El registro de los atributos medidos se realizó en formularios; en ellos se registró información como la ubicación a nivel de municipio, vereda, las coordenadas de inicio y fin de la unidad de muestreo y la unidad de cobertura de cada ecosistema correspondiente, además, se determinó la especie, localización (coordenadas), DAP, altura comercial, altura total, características generales, presencia de bejucos y lianas, entre otros. En la columna de observaciones se realizaron anotaciones referentes a las raíces, altura de la primera rama, diámetro y forma de las copas y demás atributos de cada individuo como: hábito de crecimiento, bifurcaciones, fustes tortuosos, individuos muertos, inclinados o volcados. Cada individuo se marcó con un número consecutivo en amarilla sobre una superficie visible y de fácil interpretación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>iii. Montaje de las parcelas para latizales y captura de la información Para los individuos en categoría latizal, aquellos con diámetros a la altura del pecho (DAP) mayores o iguales a 5 cm y menores a 10 cm, se establecieron cinco (5) subparcelas de 5m x 5m buscando la mayor representatividad. En ellas se registraron e identificaron todos los individuos arbóreos con los datos de la especie, altura total, altura comercial, diámetro a la altura del pecho (DAP), coordenadas y observaciones.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>iv. Montaje de las parcelas para brinzales y renuevos, y captura de la información Para los individuos con altura mayor a 30 cm o diámetro a la altura del pecho (DAP) menor a 5 cm se establecieron subparcelas de 2 m de largo por 2 m de ancho, allí se registraron todos los individuos que se considere pudieran alcanzar por lo menos 10 cm de DAP; es decir los árboles que se encuentran dentro de la estructura del bosque.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En el caso del hallazgo de especies forestales de interés por estar en veda, incluidas en las resoluciones DGL N°469 del 13 de abril de 2012 y en la N°188 del 14 de mayo de 2020 de la Corporación Autónoma Regional de Santander CAS y de las especies de helechos arborescentes incluidas en la Resolución 0801 de 1977 del INDERENA, se realizó colecta botánica para su posterior identificación. Se tomó registro fotográfico para identificación taxonómica en los casos en los que no fue posible realizar la identificación de los individuos de manera directa, se procedió a tomar un registro fotográfico completo, que permitiera realizar la determinación en oficina.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El estudio fue llevado a cabo en el occidente del departamento de Santander, en la provincia de Yariguíes, situada en el valle medio del río Magdalena, en los corregimientos El Centro, El Pedral, Kilómetro 8, Puente Sogamoso, y las veredas Bocas de Sogamoso del municipio de Puerto Wilches.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se realizaron muestreos de la fauna silvestre para vertebrados (artrópodos, anfibios, reptiles, aves y mamíferos) y cada grupo tuvo metodologías diferentes muestreo. Al grupo de las aves y mamíferos voladores se les realizaron grabaciones durante el muestreo. Por último, la caracterización y muestreo florístico se dividió en un inventario forestal para las coberturas de bosques, caracterización de plantas vasculares - no vasculares y de las especies en veda. Asimismo, el muestreo de cada componente florístico tuvo diferentes metodologías.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>ESTUDIO DE IMPACTO AMBIENTAL PARA EL PROYECTO PILOTO DE INVESTIGACIÓN INTEGRAL - PPII PLATERO</title>
+                <personnel>
+                    <individualName>
+                    <surName>Gerencia de Gestión Ambiental y Relacionamiento</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <abstract>
+                    <para>El polígono de 12,58 Ha que delimita el área a licenciar se encuentra incluido en el bloque VMM 37 operado por Ecopetrol S.A. y al interior del área que comprende el Contrato Especial de Proyectos de Investigación (CEPI), suscrito entre la Agencia Nacional de Hidrocarburos (ANH) y ExxonMobil en junio de 2021, el cual cuenta con una extensión total de 455,9874 Ha. En cuanto a la división político-organizativa, el área de influencia establecida para el PPII Platero, incluye al municipio de Puerto Wilches y 11 unidades territoriales dentro de las cuales se encuentran cinco (5) corregimientos y seis (6) veredas. 
+
+En concordancia con el objetivo de investigación propuesto para el PPII Platero, Ecopetrol S.A., contempla el desarrollo de la etapa concomitante del PPII Platero en las siguientes fases o etapas: Previa, Constructiva, Perforación, Completamiento inyector y captador, Fracturamiento hidráulico (completamiento pozo de investigación), Periodo de limpieza, Dimensionamiento del yacimiento y Desmantelamiento, abandono y restauración.
+
+La información base para el Estudio de Impacto Ambiental del PPII de Platero es la disponible en el Servicio Geológico Colombiano (SGC antes INMGEOMINAS) particularmente la plasmada en la Geología de plancha 108 Puerto Wilches, escala 1:100.000 y el Estudio de Impacto Ambiental del PPII Kalé de autoría de Ecopetrol.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El área objeto de licenciamiento se encuentra localizada hacia el occidente del departamento de Santander, en la provincia de Yariguíes, situada en la margen derecha del río Magdalena en lo que se conoce como el valle medio del río Magdalena, en inmediaciones de la Vereda Terraplén del municipio de Puerto Wilches y jurisdicción ambiental de la Corporación Autónoma Regional de Santander (CAS).</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>La fase de campo para la recolección de registros acústicos asociada al componente del paisaje sonoro del PPII PLATERO se llevó a cabo en tres sesiones de campo en épocas climáticas contrastantes, entre el 20 de agosto y 3 de septiembre (mayor precipitación A), 12 y 23 de noviembre de 2021 (mayor precipitación B), en estos periodos se iniciaron las grabaciones pasivas mediante la instalación de las 19 grabadoras y se complementó con las grabaciones direccionales hasta el 23 de noviembre donde se inicia la desinstalación de las grabadoras, estas labores no implicaron la manipulación ni recolección de especímenes de fauna; el muestreo de Ortópteros que implica manipulación y captura de fauna se realiza durante los primeros días de cada una de las salidas que para el caso de mayor precipitación B, fue realizada entre el 10 al 15 de noviembre del 2021 . Una tercera sesión de muestreo fue realizada entre el 17 y el 27 de enero de 2022, siendo esta una salida en donde el terreno exhibió fuertes condiciones secas. 
+
+Con el fin de monitorear la composición y diversidad de comunidades de microorganismos durante la etapa de condiciones previas a la ejecución de los proyectos de fracturamiento hidráulico, se tomaron muestras de ADN ambiental asociadas a las zonas de pozos no convencionales, considerando las matrices de agua superficial, sedimento, suelo y agua subterránea. La diversidad global de bacterias, hongos y otros eucariotas se examinó a través de la técnica molecular de metabarcoding, la cual permite, luego de un proceso de extracción, amplificación y secuenciación de ADN, usando los marcadores moleculares 16S en bacterias (región V3-V4), ITS en hongos y 18S en Eucaria, encontrar regiones moleculares propias de ciertos organismos y así asignarles una taxonomía y realizar un análisis de diversidad. El monitoreo de microorganismos por metabarcoding se llevó a cabo en dos épocas de precipitación diferencial, una correspondiente al periodo de alta precipitación para la cual se realizaron dos campañas de muestreo: entre el 01 y 20 de agosto y entre 30 de octubre al 15 de noviembre del año 2021 se monitoreo la época de lluvia; la época seca se monitoreó entre el 19 de enero y el 08 de febrero del año 2022. Se definieron para cada una de las épocas de monitoreo, un total de 16 puntos de agua superficial entre sistemas lóticos y lénticos representativos del área de influencia del proyecto, 16 puntos de los sedimentos asociados, 6 puntos compuestos de suelo y 17 puntos para muestreo de agua subterránea; cada uno de los puntos se tomó por triplicado con el fin de aumentar la representatividad en el área de estudios y la robustez estadística de los resultados.
+
+Para la caracterización de ecosistemas acuáticos, se realizaron muestreos de perifiton, bentos y macrófitas en sistemas lóticos y lénticos, adicionalmente comunidades de plancton (fitoplancton y zooplancton) en sistemas lénticos, según lo solicitado por los términos de referencia para la elaboración del Estudio de Impacto Ambiental para Proyectos Piloto de Investigación Integral– PPII -2020. Se realizaron monitoreos representativos de la época de mayor precipitación en dos campañas (agosto y octubre) durante el año 2021, y un monitoreo correspondiente a la época de menor precipitación en enero de 2022) en 52 cuerpos de agua superficial clasificados en lóticos y lénticos ubicados en el área de influencia del Proyecto Platero.
+
+Para el PPII Platero se identificaron 34 coberturas distribuidas en sus niveles jerárquicos como Territorios Artificializados, Territorios Agrícolas, Bosques y Áreas Seminaturales, Áreas húmedas, y superficies de agua. La cobertura más representativa por su extensión corresponde a territorios agrícolas con el cultivo de palma de aceite con un cubrimiento de 56,76% del área de influencia físico - biótica. La caracterización de las especies vasculares y no vasculares de hábitos epífito se realizó teniendo en cuenta el protocolo para un Análisis Rápido y Representativo de la Diversidad de Epífitas (RRED analysis) propuesto por (GRADSTEIN, y otros, 2003). El muestreo se efectuó en las mismas parcelas forestales con medida de parcela de 100x10. 
+
+La caracterización de la fauna terrestre se surtió desde dos ópticas, la primera a partir de la recopilación de información secundaria acorde a la distribución geográfica y altitudinal y la segunda, desde el trabajo de campo para la recolección de información primaria, trabajo que se efectuó con dos salidas de campo (municipio de Puerto Wilches) que tomaron tres (3) temporadas climáticas: del 18 de julio al 15 de octubre de 2021 para época de mayor precipitación y de25 de enero al 23 de febrero de 2022 para la época de menor precipitación. Las unidades de muestreo corresponden a las coberturas de la tierra las cuales se muestrearon en un gradiente de menor a mayor intervención y se denominaron Áreas de Monitoreo Fijo (AMF) de la siguiente manera: Coberturas poco Intervenidas (Bosque de galería y/o ripario, Bosque abierto alto inundable), Coberturas Medianamente Intervenidas (Vegetación secundaria alta y baja), Coberturas Intervenidas (Zonas pantanosas – transición a la Ciénega, pastos arbolados) y Coberturas altamente Intervenidas (Cultivo de palma) y los grupos taxonómicos monitoreados corresponden a Invertebrados, Anfibios, Reptiles, Aves, Mamíferos e Ictiofauna, empleando las diferentes metodologías planteadas en los términos de referencia acorde a cada grupo.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:14Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/gamrf9">Ecopetrol S.A., S.G.I. S.A.S. – Consultoría e Ingeniería (2022). Fauna y flora asociada al proyecto piloto de investigación integral - PPII Platero, departamento de Santander. Ecopetrol S.A.. Occurrence dataset https://doi.org/10.15472/gamrf9 accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Cultid, C., Medina, C., Martínez, B. G., Escobar, A. F., Constantino, L. M., &amp; Betancur, N. J. (2012). Escarabajos coprófagos (Scarabaeinae) del Eje Cafetero: Guía para el estudio ecológico. WCS Colombia, CENICAFÉ &amp; Federación Nacional de Cafeteros de Colombia.</citation>
+                <citation>Villareal, H. M., Álvarez, M., Córdoba-Córdoba, S., Escobar, F., Fagua, G., Gast, F., Mendoza-Cifuentes, H., Ospina, M., &amp; Umaña, A. M. (2004). Manual de métodos para el desarrollo de inventarios de biodiversidad. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH).</citation>
+                <citation>Tirira, D. G. 2007. Mamíferos del Ecuador. Guía de campo. Ediciones Murciélago Blanco. Publicación Especial de los Mamíferos del Ecuador 6. Quito.</citation>
+                <citation>Emmons, H. Louise &amp; Feer F. 1999. Mamíferos de los bosques húmedos de América Tropical. Primera edición. F.A.N. Santa Cruz de la Sierra, Bolivia.</citation>
+                <citation>Duellman, William E. y Linda Trueb. 1986. Biology of Amphibians. Mc Graw-Hill, Nueva York.
+Emerson, Sharon. B. y Sunny K. Boyd. 1999. “Mating Vocalizations of Female Frogs: Control and Mvolutionary mechanisms”, en Brain, Behavior and Evolution. Vol. 53: 187-197 pp.</citation>
+                <citation>Rueda-Almonacid, J. V., J. D. Lynch &amp; A. Amézquita (Eds.). 2004. Libro rojo de anfibios de Colombia. Serie Libros Rojos de Especies Amenazadas de Colombia. Conservación Internacional Colombia, Instituto de Ciencias Naturales – Universidad Nacional de Colombia, Ministerio de Medio Ambiente. Bogotá, Colombia. 384 pp.</citation>
+                <citation>Acosta GALVIS, A.R. 2021. Lista de los Anfibios de Colombia: Referencia en línea V.09.2021.0 (15-01-2022). Página web accesible en http://www.batrachia.com; Batrachia, Villa de Leyva, Boyacá, Colombia.</citation>
+                <citation>Acosta-Galvis, A. 2000. Lista actualizada de la fauna Amphibia de Colombia. Biota Colombiana 1(3):240-256.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ecopetrol.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

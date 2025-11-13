@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="59514b30-b5f5-4a5a-b066-84d11041a24a"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/r20qf8</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iiap/resource?r=reptilescutiunguiaiiap2020</alternateIdentifier>
+        <title>Reptiles asociados al área boscosa del resguardo indígena Cuti, municipio de Unguía, Chocó. 2020</title>
+        <creator>
+            <individualName>
+                <givenName>Nelsy Sofia</givenName>
+                <surName>Bonilla Urrutia</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacífico</organizationName>
+            <positionName>Investigadora contratista</positionName>
+            <address>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6709126</phone>
+            <electronicMailAddress>sofibon@gmail.com</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Luis Eladio</givenName>
+                <surName>Rentería Moreno</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacífico</organizationName>
+            <positionName>Investigador asociado II</positionName>
+            <address>
+                <deliveryPoint>Carrera 6a N° 37 - 39, barrio Huapango</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6709126</phone>
+            <electronicMailAddress>erenteria@iiap.org.co</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Instituto de Investigaciones Ambientales del Pacífico</givenName>
+                <surName>IIAP</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacífico</organizationName>
+            <positionName>Institución investigativa</positionName>
+            <address>
+                <deliveryPoint>Carrera 6 N° 37 - 39, barrio Huapango</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6709126</phone>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <pubDate>
+                2021-09-16
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            el Instituto de Investigaciones Ambientales del Pacífico, en los últimos año ha venido generando información importante de los ecosistemas presente en la región, las dinámicas sociales y de la biodiversidad existente mediante el desarrollo de expediciones, estudios investigativos, valoraciones y planes de manejos, que permiten con información suficiente para consolidar el diagnóstico del estado ambiental actual del territorio del resguardo indígena de Cuti en Unguía, partiendo del conocimiento de la biodiversidad del lugar, siendo para este caso, la fauna reptiliana, el objeto específico de estudio.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>n/a</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://ipt.biodiversidad.co/iiap/resource?r=reptilescutiunguiaiiap2020&amp;amp;v=1.0</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/iiap/archive.do?r=reptilescutiunguiaiiap2020</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El Resguardo Indígena de Cuti pertenece a las zonas de vida de Bosque húmedo tropical (Bh–T), Bosque muy húmedo premontano (Bmh–PM) y Bosque muy húmedo tropical (Bmh–T). Presenta una temperatura Megatermal (25 y 28°C), una humedad relativa que la ubica dentro de las zonas con balance Zonas con balance hídrico semiseco a moderadamente húmedo (80%) y una precipitación Zonas de pluviosidad baja, que va de 730 a 3318 mm (Guhl 2000, Poveda et al. 2004). Además, cuenta con un área de 2.343 hectáreas, más 5.553 metros cuadrados aproximadamente y fue adjudicado a la comunidad Indígena de Cuti con una población aproximada de 349 habitantes</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-77.091</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-77.091</eastBoundingCoordinate>
+                    <northBoundingCoordinate>8.192</northBoundingCoordinate>
+                    <southBoundingCoordinate>8.192</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2020-03-11
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2020-03-14
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Dentro del diagnóstico del componente biótico del Resguardo Indígena Cuti, se registraron 11 especies, distribuidas en 9 géneros, 7 familias y 2 órdenes</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis auratus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis maculiventris</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis tropidogaster</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Basiliscus basiliscus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cnemidophorus lemniscatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Iguana iguana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Gonatodes albogularis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lygophis lineatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptophis ahaetulla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chironius carinatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Caiman crocodylus</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Zulmary</givenName>
+                <surName>Valoyes</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacífico</organizationName>
+            <positionName>Investigadora principal componente ecosistémico</positionName>
+            <address>
+                <deliveryPoint>Carrera 6a N° 37 - 39, barrio Huapango</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6709126</phone>
+            <electronicMailAddress>iiap@iiap.org.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>la metodología se basó en la Inspección por Encuentro Visual (VES), y auditivo limitado por tiempo o cronometrado, en un diseño aleatorio de caminatas en diferentes partes del resguardo (Crump &amp; Scott 1994, Angulo 2006, Angulo et al. 2006). Se llevaron a cabo muestreos diurnos en los bosques y áreas aledañas al resguardo. En los muestreos participaron 1 investigador y 2 miembro de comunidad indígena del Resguardo de Cuti que nos acompañaron durante los recorridos de campo. Los muestreos diurnos se desarrollaron entre las 8:00 y 17:00horas. Los individuos se capturaron de manera manual; y se priorizó que cada sesión de muestreo abarcará la mayor cantidad posible de hábitat y microhábitats representativos del área de estudio 
+Para la identificación de las especies inicialmente se hizo una búsqueda en literatura especializada enfocada en la fauna herpetológica de la región (Medina-R. et al. 2017); no se efectuaron sacrificios ni preservación de ejemplares de herpetos, dado a que la comunidad herpetológica registrada correspondió a especies comunes de amplia distribución.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El suelo posee pendientes hasta de 30° con abundante material orgánico, producido en parte, por el aprovechamiento forestal selectivo que evidenciado en algunos tocones de especies maderables</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para el levantamiento de registros de reptiles en campo se aplicó lo siguiente:
+
+Selección y caracterización de los sitios de muestreo
+Registro de individuos mediante búsqueda por encuentro visual
+Determinación taxonómica de individuos</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>DIAGNÓSTICO DE FAUNA, FLORA Y LAS FUENTES HÍDRICAS EN EL RESGUARDO INDÍGENA DE CUTI EN EL MUNICIPIO DE UNGUIA.</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Instituto de Investigaciones Ambientales del pacífico</givenName>
+                    <surName>IIAP</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>IIAP, CODECHOCÓ</para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:05Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/r20qf8">Bonilla Urrutia N S, Rentería Moreno L E (2021). Reptiles asociados al área boscosa del resguardo indígena Cuti, municipio de Unguía, Chocó. 2020. Instituto de Investigaciones Ambientales del Pacífico John Von Neumann - IIAP. Occurrence dataset https://doi.org/10.15472/r20qf8 accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/iiap.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

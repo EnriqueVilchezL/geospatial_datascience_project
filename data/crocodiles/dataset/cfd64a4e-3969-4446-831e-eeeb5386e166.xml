@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="cfd64a4e-3969-4446-831e-eeeb5386e166"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/oiwesq</alternateIdentifier>
+        <alternateIdentifier>cfd64a4e-3969-4446-831e-eeeb5386e166</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=ecopetrol_ecoreservas_reptiles-apiay</alternateIdentifier>
+        <title>Reptiles de la Ecoreserva Apiay (Villavicencio, Meta) - Proyecto Ecoreservas</title>
+        <creator>
+            <individualName>
+                <surName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <onlineUrl>http://www.humboldt.org.co/es/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Ecopetrol. S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol. S.A.</organizationName>
+            <address>
+                <deliveryPoint>Carrera 7 # 32–42. Edificio San Martín Piso 32</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>60 (1) 2340000 Ext 54510</phone>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Cenit Transporte y Logística de Hidrocarburos S.A.S.</surName>
+            </individualName>
+            <organizationName>Cenit Transporte y Logística de Hidrocarburos S.A.S.</organizationName>
+            <address>
+                <deliveryPoint>Calle 113 # 7-80 piso 10</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>60 (1) 2340000 Ext 54510</phone>
+            <onlineUrl>https://cenit-transporte.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Oleoducto Bicentenario de Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>Oleoducto Bicentenario de Colombia S.A.S.</organizationName>
+            <address>
+                <deliveryPoint>Carrera 11 A # 93-35 Torre UNO 93</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57 (601) 6461300</phone>
+            <onlineUrl>https://www.odl.com.co/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <onlineUrl>https://www.humboldt.org.co/es/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Infraestructura Institucional de Datos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Ecopetrol. S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol. S.A.</organizationName>
+            <positionName>Gerencia de Sostenibilidad y Descarbonización</positionName>
+            <address>
+                <deliveryPoint>Carrera 7 # 32–42. Edificio San Martín Piso 32</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>60 (1) 2340000 Ext 54510</phone>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Daniela</givenName>
+                <surName>Garcia Cobos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15-08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>dgarciac@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Khristian</givenName>
+                <surName>Venegas</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15-08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>kvenegas@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Cenit Transporte y Logística de Hidrocarburos S.A.S.</surName>
+            </individualName>
+            <organizationName>Cenit Transporte y Logística de Hidrocarburos S.A.S.</organizationName>
+            <address>
+                <deliveryPoint>Calle 113 # 7-80 piso 10</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57 (601) 319 88 00</phone>
+            <onlineUrl>https://cenit-transporte.com/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Oleoducto Bicentenario de Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>Oleoducto Bicentenario de Colombia S.A.S.</organizationName>
+            <address>
+                <deliveryPoint>Carrera 11 A # 93-35 Torre UNO 93</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57 (601) 6461300</phone>
+            <onlineUrl>https://www.odl.com.co/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-05-19
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Bajo el convenio de cooperación No. 22-007 entre Ecopetrol, Cenit y Bicentenario y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, se llevó a cabo el levantamiento de la Línea Base de Biodiversidad y Servicios Ecosistémicos para cuatro predios piloto de Ecoreservas en predios de Ecopetrol, Cenit y Bicentenario, ubicados en tres regiones del país. Este levantamiento incluyó el desarrollo de muestreos rápidos de biodiversidad para siete grupos biológicos y la recolección de sonidos en predios ubicados en los departamentos de Cundinamarca, Córdoba y Meta.  
+
+Se realizaron transectos estandarizados y se complementaron con muestreos de búsqueda libre sin restricciones . Se implementaron 9 transectos de 50 m x 2 m  durante un rango de 25-35 minutos por transecto. Se hicieron recorridos en dos jornadas en las que los individuos presentan el mayor pico de actividad. Estos transectos se realizaron principalmente mediante el método libre de muestreo “Visual Encounter Survey” (VES).
+
+El presente conjunto de datos contiene 58 registros de reptiles de la Ecoreserva Apiay (Villavicencio, Meta).
+        </abstract>
+        <keywordSet>
+            <keyword>reptiles</keyword>
+            <keyword>ecoreservas</keyword>
+            <keyword>Apiay</keyword>
+            <keyword>Villavicencio</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen
+Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://ipt.biodiversidad.co/sib/resource?r=ecopetrol_ecoreservas_reptiles-apiay</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=ecopetrol_ecoreservas_reptiles-apiay</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El muestreo de reptiles se llevó a cabo en las veredas Alto de Pompeya y Peralonso del municipio de Villavicencio, en un área de 312,1 ha distribuidas en un rango altitudinal de 286 a 309 m s.n.m</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.389</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.362</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.095</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.074</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2022-10-23
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-11-15
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>A partir de un esfuerzo de aproximadamente 290 horas/hombre invertidas en siete días efectivos de muestreo al interior de la Ecoreserva Apiay, se registró un total de 58 individuos, incluyendo capturas y observaciones, de 15 especies de reptiles pertenecientes a ocho familias. La mayoría de las especies (12 especies) registradas en la Ecoreserva pertenecen al orden Squamata (lagartos y serpientes) y pertenecen a seis familias. Las tres especies restantes corresponden a un caimán (Caiman crocodilus) y un caimán enano (Paleosuchus palpebrosus), del orden Crocodylia y una tortuga galápago llanera (Podocnemis vogli), del orden Testudines. Las familias con mayor representatividad fueron las familias de las serpientes cazadoras, Colubridae, y la familia de lagartos del género Anolis, Dactyloidae, de las que se obtuvo un registro de tres especies cada una, seguida por las familias, Alligatoridae (caimanes), Sphaerodactylidae (geckos diurnos) y Teiidae (lobos polleros) con una representación de dos especies cada una. Las tres familias restantes tuvieron una sola especie representativa durante los muestreos.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sphaerodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Anolidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Colubridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Viperidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alligatoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Scincidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Podocnemididae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Teiidae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Este conjunto de datos hace parte de la Línea Base de Biodiversidad y Servicios Ecosistémicos generada para cuatro Ecoreservas, identificadas como áreas de propiedad de Ecopetrol y sus filiales, destinadas en parte o completamente a la conservación de la biodiversidad y oferta de servicios ecosistémicos, sin limitar su vocación productiva.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Aída</givenName>
+                <surName>Otálora-Ardila</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15 - 08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>aotalora@humbdolt.org.co</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Angela M</givenName>
+                <surName>Mendoza-Henao</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15 - 08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>amendoza@humbdolt.org.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Una vez remitidos los especímenes a las instalaciones de las Colecciones Biológicas del Instituto Alexander von Humboldt, estos fueron lavados en agua, y transferidos a una solución preservante de Etanol al 70%. Posteriormente, se realizó la identificación y/o corroboración de la identidad taxonómica de los especímenes con base en literatura científica especializada y mediante la comparación con otros ejemplares de referencia ubicados en la Colección de Reptiles (IAvH-R). Estas determinaciones taxonómicas se realizaron hasta el nivel de especie. La taxonomía utilizada es de acuerdo a la propuesta en la plataforma ReptileDatabase (Uetz et al., 2021). Todos los ejemplares recolectados durante la salida de campo fueron depositados en la colección de Reptiles (IAvH-R) del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Los tejidos fueron catalogados con un código IAvH-CT y fueron depositados en la colección de tejidos del Instituto Humboldt (sede Palmira) en donde se mantendrán crioconservados a temperaturas entre -155°C y -170°C en tanques de nitrógeno líquido.
+
+Para la digitalización y sistematización de los datos asociados a los registros, se realizó una validación geográfica de coordenadas del área de estudio, la cual incluyó corrección a nivel de vereda, municipio y departamento. Los datos fueron migrados a la base de datos de Specify mediante un formato tipo Darwin Core, con lenguaje controlado.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Esta Ecoreserva tiene un área de 312,1 ha distribuidas en un rango altitudinal de 286 a 309 m s.n.m (Alos Palsar 2014). La temperatura promedio oscila entre 24 a 26 °C y tiene una precipitación media anual de 286 a 309 mm (DANE 2015a, DANE 2015b). Esta Ecoreserva está localizada en un paisaje caracterizado por abanicos de terraza antiguos, formado por depósitos aluviales mixtos. Presenta suelos de fertilidad baja y fuertemente ácidos (IGAC 2014). El área total comprendida por la Ecoreserva corresponde a territorios transformados en donde el bioma original presente era el Zonobioma Húmedo Tropical. Las principales coberturas actuales son vegetación secundaria en transición (41.30%), pastos limpios (29.84%,) zonas industriales o comerciales (22.20%) y bosques riparios o de galería (6.64%).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los muestreos de reptiles en la Ecoreserva Apiay en el municipio de Villavicencio, se realizaron durante siete días netos (9 al 15 de noviembre) enfocados principalmente en la cobertura vegetal dominante del predio que corresponde a bosque en regeneración (Ramírez et al. 2022). Se realizaron transectos estandarizados en ambas coberturas y se complementaron con muestreos de búsqueda libre sin restricciones con el fin de aumentar el número de especies durante los muestreos. Se implementaron 9 transectos de 50 m x 2 m separados por mínimo 50 m durante un rango de 25-35 minutos por transecto. Cada transecto fue medido con una cuerda de 50 m para obtener una mayor precisión de su longitud y se recorrió en dos jornadas en las que los individuos presentan el mayor pico de actividad, comprendidas entre las 8:00 h y las 12:00 h durante el día y desde las 18:00 h hasta las 22:00 h durante la noche. En los 50 m de separación entre transectos, distancia calculada para asegurar la independencia de los datos entre éstos, se realizaron búsquedas libres sin ninguna restricción. Así mismo, se implementó mínimo una hora de búsquedas libres sin restricción en las jornadas diurnas y nocturnas, complementando el muestreo a un total de aproximadamente 9 horas efectivas diarias. Durante los transectos diurnos se buscaron principalmente con comportamiento de forrajeo diurno y a su vez se hizo un reconocimiento del terreno, identificando los sitios más apropiados rodeados con cuerpos de agua como lagunas y caños, con el fin de repetir el mismo transecto durante los recorridos nocturnos. En los recorridos de la noche se buscaron principalmente especies de reptiles nocturnos, priorizando lugares asociados a diversos microhábitats como hojas, troncos, árboles, arbustos, orillas de lagunas, caños, hojarasca, troncos caídos o bajo piedras. El número de investigadores realizando los transectos varió entre 3-5 personas dependiendo por ejemplo si los investigadores principales del componente de reptiles iban acompañados del equipo de sonidos y/o fotografía. Estos transectos se realizaron principalmente mediante el método libre de muestreo “Visual Encounter Survey” (VES), también conocido en español como Relevamiento por Muestreo Visual (REV), debido a que se ha demostrado que es el método más costo-efectivo para obtener un mayor número de ejemplares y de especies en muestreos de corta duración (Angulo et al. 2006).
+
+La búsqueda mediante VES fue complementada con métodos de remoción que consistían en utilizar herramientas como rastrillos para remover hojarasca, rocas móviles o troncos en descomposición, con el fin de encontrar especies que habitan o se refugian en estos microhábitats. Así mismo, se registraron la mayor cantidad de datos ecológicos (e.g. estado reproductivo y microhábitat) asociados a los ejemplares recolectados y observados que fueron de utilidad para las descripciones de fichas de especies de interés para estudio y conservación en el predio piloto de la Ecoreserva Apiay.
+
+Se recolectó una submuestra (1-9 ejemplares por especie) de la totalidad de individuos encontrados en campo para obtener una muestra representativa por especie. Con la ayuda del fotógrafo de expediciones, se tomaron fotografías en vivo de al menos un ejemplar por especie para obtener datos de coloración, lo cual son atributos que se pierden en los ejemplares preservados en etanol. Posteriormente, se sacrificaron los individuos. Para el sacrificio de los reptiles se realizó una inyección de Xilocaína 2% a nivel subcutáneo o cardiovascular. Subsecuentemente, una vez verificado el deceso del individuo, se tomaron mediciones estándar del individuo como longitud rostro-cloaca (LRC), longitud de la cola (LC), peso (gr) y se hizo una extracción de tejidos (hígado o músculo) los cuales fueron depositados en un tubo eppendorf con solución de etanol al 96%. Inmediatamente se procedió al proceso de fijación de los especímenes con formol analítico al 10% para su posterior determinación en el laboratorio. Los ejemplares permanecieron sumergidos en este reactivo entre cuatro y ocho días, dependiendo del día de la fijación y del tamaño del ejemplar (entre mayor tamaño tenga el ejemplar, permaneció más tiempo sumergido en formol).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Se realizó una validación geográfica de las coordenadas, a nivel de veredas, municipios y departamentos. Para la identificación taxonómica de los ejemplares, se consultaron artículos de revisión de los grupos de interés y/o artículos de la descripción original de la especie. En caso de ser necesario, también se validó la determinación taxonómica con ejemplares de referencia depositados en la colección. La sistematización de la información fue realizada mediante formato de migración tipo Darwin Core.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="proyecto_Ecoreservas">
+                <title>Proyecto Ecoreservas</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Aída</givenName>
+                    <surName>Otálora-Ardila</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Angela M</givenName>
+                    <surName>Mendoza-Henao</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>El convenio Ecoreservas es un acuerdo de cooperación para la planificación y gestión de la biodiversidad y sus contribuciones al bienestar para dos áreas del territorio colombiano, bajo criterios de conservación y desarrollo sostenible basados en información científica. Como parte de este convenio surge la conformación de cuatro Ecoreservas, identificadas como áreas del Grupo Ecopetrol destinadas en parte o completamente a la conservación de la biodiversidad y oferta de servicios ecosistémicos, sin limitar su vocación productiva.</para>
+                </abstract>
+                <funding>
+                    <para>Convenio de cooperación No. 22-077 entre ECOPETROL, CENIT, BICENTENARIO y el Instituto de Investigación de Recursos Biológicos Alexader von Humboldt</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Este proyecto se llevó a cabo en áreas correspondientes a los departamentos de Cundinamarca, Córdoba y Meta. En particular el componente de la Línea Base de Biodiversidad y Servicios Ecosistémicos de Ecoreservas se enfocó en cuatro predios ubicados en los municipios de Facatativá y Tocancipá (Cundinamarca),  Villavicencio (Meta), y San Antero (Cordoba).</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:10Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/oiwesq">Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Ecopetrol. S.A., Cenit Transporte y Logística de Hidrocarburos S.A.S., Oleoducto Bicentenario de Colombia S.A.S. (2023). Reptiles de la Ecoreserva Apiay (Villavicencio, Meta) - Proyecto Ecoreservas. Version 2.1. Ecopetrol S.A.. Occurrence dataset https://doi.org/10.15472/oiwesq accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Alos Palsar. (2014). Digital elevation model grid. Resolución 12.5m (Tipo Raster).</citation>
+                <citation>DANE. (2015A). Mapa de la distribución de la temperatura media anual (°c). Promedio multianual 1981 - 2010. Escala: 1:500.000 (Tipo vectorial).</citation>
+                <citation>DANE. (2015B). Mapa de la distribución de la precipitación media anual (mm). Promedio multianual 1981 - 2010. Escala: 1:500.000 (Tipo vectorial).</citation>
+                <citation>IGAC. (2014). Mapa de Geopedología del Territorio Colombiano. Escala: 1:100.000 (Tipo vectorial).</citation>
+                <citation>Angulo, A., Rueda-Almonacid, J. V., Rodriguez-Mahecha, J. V., &amp; Marca, E. (2006). Técnicas para el inventario y muestreo de anfibios: Una compilación. Técnicas de inventario y monitoreo para los anfibios de la región Tropical Andina (pp. 135–171).</citation>
+                <citation>Ramírez B, A. Guevara, L. Naranjo, J. Cortés &amp; D. Gonzalez. 2022. Fichas descriptivas Ecoreservas. Instituto Alexander von Humboldt. Bogotá, Colombia</citation>
+                <citation identifier="http://reptile-database.org/">Uetz, P., Freed, P. &amp; Hošek, J. (eds.) (2023) The Reptile Database, http://www.reptile-database.org, accessed (mayo 15, 2021). Electronic Database accessible en http://reptile-database.org/</citation>
+                </bibliography>
+                <physical>
+                    <objectName>Reptiles de la Ecoreserva Apiay (Villavicencio, Meta) - Proyecto Ecoreservas</objectName>
+                    <characterEncoding>utf-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>txt</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=reptiles_ecoreservas_apiay_2023</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ecopetrol.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>IAvH</parentCollectionIdentifier>
+                    <collectionIdentifier>IAvH-R</collectionIdentifier>
+                    <collectionName>Colección de Reptiles del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-R)</collectionName>
+                </collection>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

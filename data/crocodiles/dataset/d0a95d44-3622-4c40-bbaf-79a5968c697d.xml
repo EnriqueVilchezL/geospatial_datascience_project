@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="d0a95d44-3622-4c40-bbaf-79a5968c697d"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/rsr3yg</alternateIdentifier>
+        <alternateIdentifier>d0a95d44-3622-4c40-bbaf-79a5968c697d</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=cerrejon_terrestre_arroyo-bruno</alternateIdentifier>
+        <title>Caracterización de fauna terrestre y flora en el arroyo Bruno, municipio de Albania, La Guajira</title>
+        <creator>
+            <individualName>
+                <givenName>Daniel</givenName>
+                <surName>Dávila Reyes</surName>
+            </individualName>
+            <organizationName>Cerrejón minería responsable</organizationName>
+            <positionName>Superintendente (e) Biodiversidad, Rehabilitación de Tierras y Compensaciones</positionName>
+            <address>
+                <deliveryPoint>Calle 100 No. 19-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57-1-595-5431</phone>
+            <electronicMailAddress>Daniel.Davila@cerrejon.com</electronicMailAddress>
+            <onlineUrl>https://www.cerrejon.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Juan</givenName>
+                <surName>Alzate</surName>
+            </individualName>
+            <organizationName>Cerrejón minería responsable</organizationName>
+            <address>
+                <deliveryPoint>Calle 100 No. 19-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57-1-595-5431</phone>
+            <electronicMailAddress>Juan.Alzate@cerrejon.com</electronicMailAddress>
+            <onlineUrl>https://www.cerrejon.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Nicole</givenName>
+                <surName>Franco</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>SIG</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>http://www.omacha.org/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Camila</givenName>
+                <surName>Durán Prieto</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Herpetóloga</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>http://www.omacha.org/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Victor Hugo</givenName>
+                <surName>Capera</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Herpetólogo</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>http://www.omacha.org/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jenilee</givenName>
+                <surName>Montes Fontalvo</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Entomóloga</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>http://www.omacha.org/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Carlos H.</givenName>
+                <surName>Gantiva-Q</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Entomólogo</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>http://www.omacha.org/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Iván Andrés</givenName>
+                <surName>Mendoza Perez</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Entomólogo</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>http://www.omacha.org/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Eduardo</givenName>
+                <surName>Andrade</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Mastozoólogo</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>http://www.omacha.org/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Santiago</givenName>
+                <surName>Cañón Escobar</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Mastozoólogo</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>http://www.omacha.org/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Estefanía</givenName>
+                <surName>Izquierdo</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Ornitóloga</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>http://www.omacha.org/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Laura Nattaly</givenName>
+                <surName>Tejeiro Mahecha</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Ornitóloga</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>http://www.omacha.org/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Juan David</givenName>
+                <surName>Suárez</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Botánico</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>http://www.omacha.org/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Lina Johana</givenName>
+                <surName>Peña Ramirez</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Ornitólogo</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>http://www.omacha.org/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Daniel</givenName>
+                <surName>Dávila Reyes</surName>
+            </individualName>
+            <organizationName>Cerrejón Minería responsable</organizationName>
+            <positionName>Superintendente (e) Biodiversidad, Rehabilitación de Tierras y Compensaciones</positionName>
+            <address>
+                <deliveryPoint>Calle 100 No. 19-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57-1-595-5431</phone>
+            <electronicMailAddress>Daniel.Davila@cerrejon.com</electronicMailAddress>
+            <onlineUrl>https://www.cerrejon.com/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Fundación</givenName>
+                <surName>Omacha</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(571) 2564682</phone>
+            <electronicMailAddress>contactenos@omacha.org</electronicMailAddress>
+            <onlineUrl>https://omacha.org/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2022-09-20
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>La empresa Carbones del Cerrejón Limited desde el año 2016 inició la modificación parcial de un tramo de 3.6 km del cauce del arroyo Bruno ubicado en el municipio de Albania, departamento de La Guajira, con el objetivo de generar una expansión de sus áreas de explotación minera ubicadas en el tajo la Puente. Para darle continuidad al cauce del arroyo Bruno se construyó un nuevo cauce, teniendo en cuenta los grados de la pendiente original y de meandrosidad para poder replicar los servicios ecosistémicos proporcionados por este arroyo a la región después de interrumpir su cauce natural. En el nuevo cauce se instalaron diferentes estructuras para la colonización de fauna.</para>
+<para>Se inició un plan de manejo ambiental de la cuenca para dar seguimiento a la calidad del agua y varios componentes fisicoquímicos y biológicos, que permitan llegar a conocer la efectividad de las medidas implementadas para la conformación ambiental del cauce modificado. Se determinaron cinco puntos para realizar los monitoreos de flora y fauna. El componente de flora se ejecutó durante el desarrollo de los monitoreos 3: 2018-03 y 5: 2018:09, para los grupos biológicos de insectos, anfibios y reptiles se realizaron monitoreos trimestrales, por último, para mamíferos y aves los monitoreos se realizaron semestralmente, durante los años 2018 - 2022</para>
+<para>Este conjunto de datos contiene 27.919 registros biológicos (RR. BB.) provenientes de diecinueve monitoreos desarrollados a lo largo del desvío del arroyo Bruno, de estos 1.276 RR. BB. pertenecen al monitoreo 1: 2017-09 y al monitoreo 2: 2017-12; 5.679 RR.BB pertenecen al monitoreo 3: 2018-03, monitoreo 4: 2018-06, monitoreo 5: 2018-09 y al monitoreo 6: 2018-11; 6.531 RR.BB del monitoreo 7: 2019-03, monitoreo 8: 2019-06, monitoreo 9: 2019-09 y al monitoreo 10: 2019-12; 6.227 RR.BB del monitoreo 11: 2020-03, monitoreo 12: 2020-07, monitoreo 13: 2020-10, monitoreo 14: 2020-12; 6.957 RR.BB pertenecen al  monitoreo 15: 2021-03, monitoreo 16: 2021-06, monitoreo 17: 2021-09, monitoreo 18: 2021-12; 1.249 RR.BB pertenencen al monitoreo 19: 2022-03.</para>
+<para>Los RR.BB se encuentran distribuidos en 2 reinos: Animalia (93.56%) y Plantae (6.43%). Un 0.17% está clasificado a nivel de subespecie, un 95.79% a especie, 3.46% a género, 0.40% a familia y 0.18% a categorías superiores. Además, del monitoreo 5 se incluyen medidas de la altura total de plantas (1.179), diámetro a la altura del pecho de plantas (1.178) y área basal (1.178).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Anfibios</keyword>
+            <keyword>Botánica</keyword>
+            <keyword>Mamíferos</keyword>
+            <keyword>monitoreos trimestrales</keyword>
+            <keyword>monitoreos semestrales</keyword>
+            <keyword>Entomología</keyword>
+            <keyword>Aves</keyword>
+            <keyword>Arroyo Bruno</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=cerrejon_terrestre_arroyo-bruno</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El Arroyo Bruno se encuentra localizado entre los límites municipales de Albania y Maicao al sur del departamento de la Guajira, tiene su nacimiento a 420 metros de altitud aproximadamente, dentro de la reserva natural de los Montes de Oca, este recibe las aguas de los arroyos Aritaymahana en su parte alta y Tamborana en su parte media. Es un importante tributario directo del río Ranchería y está relacionado con las dinámicas de aguas subterráneas, transcurre entre bosques de galería. En la zona natural del arroyo Bruno el bosque alcanza entre 25 y 30 metros de altura y sus límites horizontales son variables y se integran paulatinamente con las coberturas vegetales aledañas.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.567</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.51</eastBoundingCoordinate>
+                    <northBoundingCoordinate>11.172</northBoundingCoordinate>
+                    <southBoundingCoordinate>11.141</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2017-09-28
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-03-22
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este conjunto de datos comprende 27.919 registros biológicos. Se encuentran distribuidos en 2 reinos: Animalia (93.56%) y Plantae (6.43%). Un 0.17% está clasificado a nivel de subespecie, un 95.79% a especie, 3.46% a género, 0.40% a familia y 0.18% a categorías superiores.
+
+La clase Amphibia se encuentra distribuida en 1 orden, 8 familias, 13 géneros y 18 especies. El 99.26% se encuentra clasificado hasta especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La clase Reptilia se encuentra distribuida en 3 ordenes, 19 familias, 40 géneros y 50 especies. El 99.51% se encuentra clasificado hasta especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La clase Aves se encuentra distribuida en 21 ordenes, 50 familias, 155 géneros y 202 especies. El 99.09% se encuentra clasificado hasta especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Accipitriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anseriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apodiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cathartiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Charadriiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ciconiiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Columbiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coraciiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cuculiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Falconiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Galbuliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Galliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gruiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Nyctibiiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Passeriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pelecaniformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Piciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Psittaciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Strigiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Tinamiformes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La clase Mammalia se encuentra distribuida en 10 ordenes, 25 familias, 41 géneros y 49 especies. El 99.63% se encuentra clasificado hasta especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Artiodactyla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Carnivora</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cetartiodactyla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Chiroptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cingulata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Didelphimorphia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lagomorpha</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pilosa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Primates</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rodentia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La clase Insecta se encuentra distribuida en 4 ordenes, 11 familias, 144 géneros y 212 especies. El 85.49% se encuentra clasificado hasta especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coleoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hymenoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lepidoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hemiptera</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La clase Liliopsida se encuentra distribuida en 2 ordenes, 2 familias, 3 géneros y 3 especies. El 100% se encuentra clasificado hasta especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Arecales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Poales</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La clase Magnoliopsida se encuentra distribuida en 17 ordenes, 37 familias, 99 géneros y 128 especies. El 95.27% se encuentra clasificado hasta especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Boraginales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Brassicales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caryophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ericales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fabales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gentianales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lamiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malvales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Myrtales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Piperales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rosales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sapindales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Solanales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Zygophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Arecales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Santalales</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La clase Eudicotyledonneae se encuentra distribuida en 1 orden, 1 familia, 1 género y 1 especie. El 100% se encuentra clasificado hasta especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Vitales</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Daniel</givenName>
+                <surName>Dávila Reyes</surName>
+            </individualName>
+            <organizationName>Cerrejón Minería responsable</organizationName>
+            <positionName>Superintendente (e) Biodiversidad, Rehabilitación de Tierras y Compensaciones</positionName>
+            <address>
+                <deliveryPoint>Calle 100 No. 19-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57-1-595-5431</phone>
+            <electronicMailAddress>Daniel.Davila@cerrejon.com</electronicMailAddress>
+            <onlineUrl>https://www.cerrejon.com/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Para Botánica se utilizaron parcelas de muestreo rápido (RAP) (Gentry, 1982), este es un método empleado en los muestreos de bosque seco tropical, se basa en un muestreo de 200m2, con dos parcelas de 50mx4m en cada estación. Cada parcela fue dividida en dos secciones de 100 m2; de un lado se registraron sólo los individuos con DAP mayor o igual a 2.5 cm, del otro lado se registraron todos los individuos presentes sin discriminar diámetro del DAP o altura. Se tomó la precaución de iniciar el segundo lado desde el mismo vértice en que se terminó la colecta de información y muestras del primer lado en sentido contrario. Para cada parcela se registró su ubicación geográfica y puntos de referencia de las diferentes localidades que permitieran ubicarla fácilmente. Se realizó un barrido de la vegetación en sentido Sur-Norte del arroyo Bruno, con el fin de evitar la exclusión y/o el sobre-conteo de individuos dentro de cada parcela.
+
+Se consideraron los tipos de hábitos de crecimiento: árboles, como las plantas leñosas adultas con un tronco definido y mayores de 5 m de altura; arbustos, como las plantas leñosas adultas con altura entre 2 y 5 m; hierbas, como las plantas no leñosas o sufrútices menores de 2 m de altura; lianas, como las plantas leñosas y herbáceas trepadoras y de tallos flexibles.
+
+Para cada individuo presente dentro de las parcelas se tomo la información de altura, diámetro del tallo a la altura del pecho (DAP), cobertura o radio de la copa, información botánica in situ de características necesarias para la determinación de las especies como presencia de exudados, olores, colores de flores y frutos, las cuales se pierden en el proceso de herborización.
+
+La identificación taxonómica de las especies se realizó en el laboratorio con claves taxonómicas, guías y catálogos ilustrados, para llegar hasta el nivel de especie (Judd 2002; Steyermark et al. 1978; Mora-Osejo 1984) así como las de la serie Flora de Colombia (vols. 1; 3; 5-6; 10-21; 23-26), además de la serie Flora Neotropical. Se tomaron muestras para procesar los ejemplares no identificados en campo. Se utilizó la página: http://www.theplantlist.org/  con el fin de corroborar sus familias botánicas y nombres científicos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La metodología para Entomología fue la siguiente:
+
+-Hormigas:
+Se realizó captura manual haciendo búsqueda activa en depósitos de detritus, vegetación y troncos en descomposición a lo largo de los recorridos realizados en cada una de las estaciones. De igual forma, fueron colectadas cuatro porciones 1m2  de hojarasca seca por estación, las cuales fueron cernidas y donde se colectaron manualmente todos los organismos observados a simple vista por un periodo de 2 horas/hombre, con este método de muestreo se asegura la colecta de especies poco frecuentes en trampas con atrayentes. 
+Por cada estación se instalaron seis trampas de caída (Pitfall) distribuidas en un transecto lineal, separadas 30 m entre si, los recipientes se encontraban parcialmente llenos con agua y detergente, para la captura de hormigas estas trampas fueron colocadas sin cebo.
+Para la identificación de individuos se utilizaron claves y bibliografía especializada: (Mackay &amp; Mackay, 1989), (Gutiérez-Martínez, 2014),  (Serna &amp; Vergara , 2001), (Fernández F. , 2003), y se hicieron comparaciones con la base de datos de (AntWeb, 2021).
+
+-Escarabajos: 
+Se usaron seis trampas de caída cebadas con excremento humano, distribuidas en transectos lineales, separadas 30 m entre si y considerando el tipo de vegetación del lugar, estas fueron revisadas luego de transcurridas 48 horas. 
+Todo el material fue colectado en frascos con alcohol, para su separación y posterior identificación en el laboratorio.
+Para la identificación de escarabajos se utilizaron las claves taxonómicas y catálogos: (Medina &amp; Lopera-Toro, 2000), (Kohlmann &amp; Solis, 2001), (Delgado &amp; Kohlmann, 2007), (Sarmiento-Garcés &amp; Amat, 2009), (Camero-Rubio, 2010), (Vaz-de-Mello, Edmons, Ocampo, &amp; Schoolmeesters, 2011), (Solis &amp; Kohlmann, 2013) y (González-Alvarado &amp; Vaz-de-Mello, 2015).
+
+-Mariposas: 
+Se realizaron transectos lineales de 150m con trampas instaladas Van Someren Rydon formadas por un tubo cilíndrico recubierto por un velo; en la boca inferior se coloca un plato ancho, en donde se adiciona el atrayente para las mariposas, en este caso fruta en descomposición, fueron ubicadas cada 30m  a una altura de uno a tres metros del suelo aproximadamente con el fin de capturar mariposas diurnas, en la parte inferior se utilizó como cebo banano y papaya en descomposición. Se instalaron un total seis trampas en cada cobertura muestreada; se tuvo como criterio el tipo de vegetación y el tránsito de los lepidópteros diurnos; éstas fueron revisadas cumplidas las 24 horas. Algunas especies se capturaron de forma manual utilizando redes de tela.
+Para la determinación taxonómica se emplearon las guías de (Andrade-C G. , 1990), (Velez, Salazar, Uribe, &amp; Angel, 1991) y (D´Abrera , 1987) y se realizaron comparaciones con la base de datos Butterﬂies of America (Warren, y otros, 2016), BioButterfly Database (Garwood &amp; Jaramillo, 2018), y Learn About Butterfiles (Hoskins, 2012)
+
+El material de hormigas y escarabajos fue colectado en frascos con alcohol, para su separación y posterior identificación en el laboratorio. Y el material de mariposas se colecto en sobres de papel y se mantuvo en contenedores con sílica gel para su transporte y posterior identificación en el laboratorio, además se realizaron  registros fotográficos en todas las estaciones muestreadas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para el muestreo de anfibios y reptiles se realizó:
+-Recorridos de manera aleatoria en un área especifíca en un tiempo determinado buscando activamente anfibios y reptiles en todos los microhábitats presentes, bajo troncos o rocas, en la hojarasca, en la vegetación y alrededor de cuerpos de agua. Se realizaron recorridos en la mañana y en la noche tomando en cuenta las horas de mayor actividad de las especies Las caminatas diurnas iniciaron a las 4:30 h aproximadamente y finalizaron a las 11:00 h y las nocturnas se realizaron entre las 17:30 h y 22:00 h aproximadamente. Cada estación fue recorrida durante dos días, con un esfuerzo de muestreo diario efectivo de seis horas/hombre, repartidas en tres horas diurnas y tres nocturnas. El reconocimiento e identificación taxonómica se realizó en la mayoría de los casos a través de la observación directa y registro fotográfico de las diferentes especies, evitando su captura y manipulación; algunos individuos fueron manipulados (para observar caracteres diagnósticos que son inadvertidos a simple vista) y liberados en el lugar de captura. Algunas especies e individuos de anuros que no fueron observadas pudieron ser identificadas mediante las vocalizaciones características de su especie. Para los individuos hallados además de registrar su identidad taxonómica se anotó el microhábitat y actividad en el momento de la observación (vocalización, amplexus, reposo, otros). Para la manipulación de los anfibios se usaron guantes de látex, para los reptiles se usaron guantes de carnaza y para los ofidios venenosos se usaron dos herramientas: pinza y gancho herpetológico para la correcta manipulación de los mismos. 
+-Trampas de caída con cercas de desvío, estas buscan capturar principalmente especies terrestres y fosoriales, esta técnica consiste ubicar barreras artificiales de plástico negro enterrado en el suelo que interrumpen el paso del animal de un lugar a otro y adicionalmente lo guían hacia los extremos donde se encuentran los contenedores. A cada trampa instalada se le hicieron perforaciones en la base del recipiente y se les agregó un pedazo de icopor y hojarasca humedecida con el fin de evitar la muerte de los individuos por inundación o por insolación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Entre los métodos utilizados para Ornitología se empleó una adaptación de los métodos de campo propuestos por el Grupo de Exploración y Monitoreo Ambiental (GEMA) del Instituto de Investigaciones Biológicas Alexander Von Humboldt (Villareal, y otros, 2004) y los métodos de campo y recomendaciones propuestos por (Ralph, Geupel, Pyle, Martín, &amp; Borja, 1996).
+-Se utilizaron transectos y recorridos libres, al inicio de la jornada de la mañana se realizaron los transectos de observación, en donde se recorrieron tres tramos de 300 m cada uno, para un total de 900 m. Se empleó un mayor tiempo en el desarrollo de los recorridos libres, pues estos permiten la percepción visual y auditiva de la mayor cantidad de individuos, completándose en cada estación una mañana (posterior a la realización de los transectos) y una tarde en las horas pico de actividad de las aves (Ralph, et al., 1996). La observación y la grabación de cantos o llamados de los individuos se realizó por medio de binoculares Vortex DiamondBack 10x50 y una grabadora de sonidos con micrófonos integrados Tascam DR-40 respectivamente, y se tomaron fotografías con una cámara fotográfica Nikon CoolPix P 900 cuando fue posible. Los cantos percibidos en las jornadas de muestreo fueron comparados con los de Xeno canto. 
+
+-Redes de niebla: Se manejaron cinco redes de niebla ECOTONE (dimensiones: 12 m x 2.5 m, 12 mm ojo de malla), color negro. Las redes fueron ubicadas en tándem o separadas por poca distancia. Las líneas se instalaron dentro de los límites entre dos tipos de hábitat (ecotonos) o corredores observados previamente en los recorridos de observación, ya que esto aumenta la probabilidad de captura. Las redes fueron operadas de las 5:30 h a las 10:30 h, cerrándose cuando las condiciones climáticas fueron extremas. A los individuos capturados por medio de las redes de niebla, se les determinó taxonómicamente y se tomaron medidas como longitud total, del pico, cola, tarso, ala, entre otros, y además se determinó el peso, sexo, edad, estado reproductivo, cantidad de grasa en la fúrcula y flancos, estado del plumaje de todas las aves y finalmente les tomó fotografías. Además de esto se implementó la postura de anillos numerados cuando fue posible, que permite identificar individuos y taza de recambio. Con excepción de algunos taxones, aves migratorias y algunas aves estresadas por la captura, se anillaron todas aves capturadas.
+
+Para la identificación de los individuos avistados y capturados se usaron las guías de campo: Guía ilustrada de la avifauna colombiana (Ayerbe-Quiñones, 2018),  Birds of Colombia (Hilty y Brown, 1986), Field Guide to the Birds of Colombia (McMullan y Donegan, 2014),  National Geographic field guide to the birds of North America (Dunn y Alderfer, 2011) y  The Sibley Guide to Birds (Sibley, 2000), y cuando se tuvieron dudas se consultaron fuentes en línea como Neotropical birds: http://neotropical.birds.cornell.edu, Catálogo de especies del SIB (Sistema de información biológica) http://www.biodiversidad.co y Handbook of the Birds of the world alive http://www.hbw.com/species, Neotropicalbirds: http://neotropical.birds.cornell.edu, The Cornell Lab of Ornithology Macaulay library https://www.macaulaylibrary.org/, y en el caso de los registros auditivos, fueron cotejados con los de https://www.xeno-canto.org/. La nomenclatura y secuencia taxonómica de las especies encontradas sigue a (Clements, et al., 2019).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Durante el muestreo de mamíferos se utilizaron:
+-Trampas sherman: Se establecieron cuatro estaciones de muestreo, cada una conformada por seis trampas Sherman medianas con dimensiones 23 L* 7.5 W*9.0 H y dos Sherman grandes con dimensiones 38L x 10.0W x 11.0H, para un total de ocho trampas por estación y 32 por todo el monitoreo En cada una de las estaciones se ubicaron de forma aleatoria en sitios con potencial para capturar roedores y marsupiales (árboles, troncos, suelo) (Voss y Emmons 1996). El atrayente utilizado en las trampas Sherman fue una mezcla de avena en hojuelas, con esencia de vainilla y mantequilla de maní, con la cual se formaban pequeñas masas de formas circulares las cuales se introducían en la trampa (Rivas y McCoy 1999). Los cebos se colocaron el primer día de instalación y se volvian a cebar dia de por medio, la activación de las trampas fue entre las 8:00 a 13:00. Las especies capturadas fueron identificadas, fotografiadas y liberadas in situ.
+-Cámaras trampa: Se instalaron tres cámaras trampas Marca Bushnell® Trophy cam™ en cada estación de muestreo, para un total de 12 cámaras para todo el monitoreo. La instalación de las cámaras trampa se realizó siguiendo el “Manual para el fototrampeo” de Pulido y Payán (2012). Por ello se establecieron las cámaras trampa en lugares potenciales de tránsito de mamíferos en cada estación (caminos, excrementos, huellas, sonidos). Las cámaras fueron cebadas con una mezcla de huevo, sardinas, y una mezcla de frutas frescas (banano, papaya, mango) esto para atraer a los distintos gremios tróficos entre los mamíferos (Orjuela y Jiménez 2004). Los dos tipos de atrayentes eran mezclados de forma independiente y compactada en gasa, y sujeto a una cuerda cerca de la cámara. Las cámaras fueron programas para funcionar las 24 horas desde el momento de la instalación y equipadas con memorias SD con alta capacidad de almacenamiento. Las cámaras se dejaron fijas 24 horas durante los días de muestreo en cada sitio. 
+
+-Recorridos libres diurnos y nocturnos: Con el fin de obtener registros de observación directa de mamíferos se realizaron recorridos diurnos (paralelo a revisión de trampas Sherman y cámaras trampa) y nocturnos (paralelamente a la revisión de redes de niebla) estos recorridos fueron dentro de las coberturas propuestas y en promedio eran tres horas de recorridos. En estos recorridos se tuvieron en cuenta evidencias como registros visuales, registros auditivos, huellas y heces (Arévalo 2001).
+
+-Redes de niebla: Se instalaron tres redes de niebla de dimensiones 12m x 5m y ojo de malla de 36mm por cada una de las estaciones de muestreo, se buscaron sitios con las condiciones apropiadas para extender las redes. Estas fueron dispuestas entre las 17:00 h y 22:00 h y eran revisadas cada 30 minutos, estos horarios se basan en aprovechar el pico más alto de actividad de los murciélagos (Heithaus y Fleming 1978; Silva 1979). 
+Si se tenía alguna duda en la identificación de las especies que fueron capturadas, se les tomaban medidas morfométricas para su identificación taxonómica: longitud total (LT), longitud de cola (LC), longitud de la pata trasera (LP), longitud de la oreja (LO) y longitud del brazo (AB). Estas medidas se realizaron con un Vernier o pie de rey. Los murciélagos capturados e identificados fueron fotografiados y liberados in situ. Se le realizó un registro fotográfico. 
+
+-Grabaciones de murciélagos: De forma complementaria se realizaron grabaciones con un micrófono ultrasónico especializado marca “Echo Meter Touch 2 PRO” y con la aplicación “Echo Meter Touch Bat  Detector, Recorder &amp; Analyzer” de Wildlife Acoustics, Inc. Las grabaciones se realizaron a la par del trabajo con redes de niebla. Se trabajó por una hora, un día por cada estación, en los mismos sitios donde se colocaron las redes de niebla.
+
+Para la identificación de individuos y de registros de mamíferos se utilizaron claves y bibliografía especializada: (Aranda, 2000); (Chame, 2003); (Defler, 2003); (Morales, Sánchez, Poveda, &amp; Cadena, 2004); (Solari , y otros, 2013); (Tirira, 2007); (Albuja, 1999); (Linares, 1998); (Muñoz, 2001); (Tirira, 2008).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área de estudio se encuentra en el departamento de la Guajira, municipio de Albania, el arroyo Bruno es un importante tributario directo del río Ranchería y está relacionado con las dinámicas de aguas subterráneas, transcurre entre bosques de galería. En la zona natural del arroyo Bruno el bosque alcanza entre 25 y 30 metros de altura y sus límites horizontales son variables y se integran paulatinamente con las coberturas vegetales aledañas.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los monitoreos terrestres se están realizando en cinco estaciones distribuidas en 3,6 km de longitud de desvío del arroyo Bruno, ubicado dentro del complejo minero Cerrejón en la jurisdicción del municipio de Albania, tres estaciones se encuentran ubicadas a lo largo de la modificación parcial del cauce, una estación antes de la modificación parcial utilizado como punto de control y un quinto punto denominado madrevieja. Los monitoreos de los grupos biológicos de Herpetología e Insectos iniciaron en el mes de septiembre del 2017, el monitoreo del componente de flora se desarrolló únicamente en el mes de marzo del 2018 y en este se dio inicio a los monitoreos de Aves y Mamíferos.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Caracterización Hidrobiológica, Fauna y Flora del arroyo Bruno 2017, 2018, 2019 y 2020</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Fundación</givenName>
+                    <surName>Omacha</surName>
+                    </individualName>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:11Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/rsr3yg">Dávila Reyes D, Alzate J, Franco N, Durán Prieto C, Capera V H, Montes Fontalvo J, Gantiva-Q C H, Mendoza Perez I A, Andrade E, Cañón Escobar S, Izquierdo E, Tejeiro Mahecha L N, Suárez J D, Peña Ramirez L J (2022). Caracterización de fauna terrestre y flora en el arroyo Bruno, municipio de Albania, La Guajira. Version 2.5. Carbones del Cerrejón Limited. Occurrence dataset https://doi.org/10.15472/rsr3yg accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-cerrejon.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="87b8eaf5-a3ee-4144-80a2-cc6eaf71503a"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/n8dnas</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=hocol_eia-sn8</alternateIdentifier>
+        <title>Registros de los vertebrados silvestres presentes en el área de influencia del EIA-SN8, departamento de Córdoba</title>
+        <creator>
+            <individualName>
+                <surName>HOCOL S.A.</surName>
+            </individualName>
+            <organizationName>HOCOL S.A.</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Cra. 7 # 113 - 43 Piso 17 Torre Samsung</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>601 4884000</phone>
+            <electronicMailAddress>notificacionesjudiciales@hcl.com.co</electronicMailAddress>
+            <onlineUrl>https://www.hocol.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>EIATEC S.A.S.</surName>
+            </individualName>
+            <organizationName>EIATEC S.A.S.</organizationName>
+            <positionName>Empresa de Consultoría</positionName>
+            <address>
+                <deliveryPoint>Calle 45C N° 24-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>601 7042362 - 601 2450961</phone>
+            <electronicMailAddress>cgalan@eiatec.com</electronicMailAddress>
+            <onlineUrl>https://www.eiatec.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>EIATEC S.A.S.</surName>
+            </individualName>
+            <organizationName>EIATEC S.A.S.</organizationName>
+            <positionName>Empresa de Consultoría</positionName>
+            <address>
+                <deliveryPoint>Calle 45C N° 24-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>601 7042362 - 601 2450961</phone>
+            <electronicMailAddress>cgalan@eiatec.com</electronicMailAddress>
+            <onlineUrl>https://www.eiatec.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>HOCOL S.A.</surName>
+            </individualName>
+            <organizationName>HOCOL S.A.</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Cra. 7 # 113 - 43 Piso 17 Torre Samsung</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>601 4884000</phone>
+            <electronicMailAddress>notificacionesjudiciales@hcl.com.co</electronicMailAddress>
+            <onlineUrl>https://www.hocol.com.co/</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <surName>EIATEC S.A.S.</surName>
+            </individualName>
+            <organizationName>EIATEC S.A.S.</organizationName>
+            <positionName>Empresa de Consultoría</positionName>
+            <address>
+                <deliveryPoint>Calle 45C N° 24-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>601 7042362 - 601 2450961</phone>
+            <electronicMailAddress>cgalan@eiatec.com</electronicMailAddress>
+            <onlineUrl>https://www.eiatec.com/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Adriana Esther</givenName>
+                <surName>Rodríguez Andrade</surName>
+            </individualName>
+            <organizationName>HOCOL S.A.</organizationName>
+            <positionName>Profesional Aseguramiento Documentos Ambientales</positionName>
+            <address>
+                <deliveryPoint>Cra. 7 # 113 - 43 Piso 17 Torre Samsung</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>adriana.rodriguez@hocol.com.co</electronicMailAddress>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Daniel</givenName>
+                <surName>Ramos Torres</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Biólogo</positionName>
+            <address>
+                <deliveryPoint>Kr 63 #78A-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dramosto@unal.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-9969-2910</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Marcela</givenName>
+                <surName>Cabrera Guarín</surName>
+            </individualName>
+            <organizationName>EIATEC S.A.S.</organizationName>
+            <positionName>Gerente Técnica</positionName>
+            <address>
+                <deliveryPoint>Calle 45C N° 24-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>GerenciaTecnica@eiatec.com</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2023-11-30
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Los registros biológicos reportados se encuentran relacionados a la caracterización de fauna silvestre (anfibios, reptiles, aves y mamíferos) realizada en el área de influencia del Estudio de Impacto Ambiental para el Área de Perforación Exploratoria-SN8. El área de influencia del APE-SN8 tiene una extensión total de 42302.28 ha y abarca parte del municipio de Montería en el departamento de Córdoba, por su parte, el APE tiene una extensión total de 28562.45 ha igualmente en inmediaciones del municipio de Montería.</para>
+<para>La metodología para la caracterización de la fauna presente en el AI del proyecto se desarrolló de acuerdo con lo dispuesto en los términos de referencia para la elaboración del Estudio de Impacto Ambiental para proyectos de perforación exploratoria de hidrocarburos M-M-INA-01, expedidos por la Autoridad Nacional de Licencias Ambientales (ANLA) en 2014 y a la Metodología General para la Elaboración y Presentación de Estudios Ambientales, emitida por el Ministerio de Ambiente y Desarrollo Sostenible (MADS) en el año 2018, el manual de métodos para el desarrollo de inventarios de biodiversidad del Instituto de Investigación en recursos biológicos Alexander von Humboldt (Villarreal et al., 2004), y el Permiso de Estudio para la recolección de Especies Silvestres de la Diversidad Biológica con Fines de Elaboración de Estudios Ambientales, otorgado mediante Resolución 1215 de septiembre de 2017, por la ANLA a la empresa EIATEC S.A.S.</para>
+<para>El presente recurso incluye la información asociada a 709 registros pertenecientes a 457 aves, 111 mamíferos, 71 anfibios y 70 reptiles. En total, se listan 188 especies entre los cuatro grupos taxonómicos evaluados.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Anfibios</keyword>
+            <keyword>Caracterización</keyword>
+            <keyword>Mamíferos</keyword>
+            <keyword>Aves</keyword>
+            <keyword>EIA</keyword>
+            <keyword>Montería</keyword>
+            <keyword>Hidrocarburos</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=hocol_eia-sn8</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El AI del APE-SN8 tiene una extensión total de 42302.28 ha y abarca parte del municipio de Montería en el departamento de Córdoba, por su parte, el APE tiene una extensión total de 28562.45 ha igualmente en inmediaciones del municipio de Montería.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-75.982</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-75.982</eastBoundingCoordinate>
+                    <northBoundingCoordinate>8.707</northBoundingCoordinate>
+                    <southBoundingCoordinate>8.499</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2019-11-13
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-11-24
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Todos los individuos fueron identificados mínimo a nivel de género. En total, se listan 188 especies pertenecientes a 117 aves, 30 mamíferos, 24 reptiles y 17 anfibios.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Adriana Esther</givenName>
+                <surName>Rodríguez Andrade</surName>
+            </individualName>
+            <organizationName>HOCOL S.A.</organizationName>
+            <positionName>Profesional Aseguramiento Documentos Ambientales</positionName>
+            <address>
+                <deliveryPoint>Cra. 7 # 113 - 43 Piso 17 Torre Samsung</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>adriana.rodriguez@hocol.com.co</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Sergio Iván</givenName>
+                <surName>Barbosa Martínez</surName>
+            </individualName>
+            <organizationName>HOCOL S.A.</organizationName>
+            <positionName>Profesional Aseguramiento Documentos Ambientales</positionName>
+            <address>
+                <deliveryPoint>Cra. 7 # 113 - 43 Piso 17 Torre Samsung</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>sergio.barbosa@hocol.com.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>HERPETOFAUNA. La caracterización se desarrolló durante 18 días efectivos de muestreo, en el año 2019, durante estos días se aplicaron las técnicas que se describen a continuación sobre las coberturas Bosque de galería y/o riparia (Bgr), Tierras desnudas y degradadas (Tdd), Plantación de latifoliadas (Pflat), Herbazal abierto (Hza), Arbustal denso (Arld), Arbustal abierto (Ara), Vegetación secundaria alta (Vsa), Vegetación secundaria baja (Vsb), Herbazal denso de tierra firme no arbolado (Hdtfna), Herbazal denso de tierra firme arbolado (Hdtfa), Pastos limpios (Pl), Pastos arbolados (Pa), Pastos enmalezados (Pe), Zonas pantanosas (Zpn), Vegetación acuática sobre cuerpos de agua (Vaa), Lagunas, lagos y ciénagas naturales (Li) y Palma de aceite (Pac). Todos los recorridos o tracks de observación fueron referenciados con GPS Garmin x30.
+
+Para la caracterización de los grupos de anfibios y reptiles se emplearon las siguientes metodológicas:
+1) Transectos de búsqueda libre: Los transectos de búsqueda libre sin restricciones se establecieron de acuerdo al manual de Técnicas de Inventario y Monitoreo para los Anfibios de la Región Tropical Andina (Angulo et al., 2006), documento referenciado por la Metodología General para la Elaboración y Presentación de Estudios Ambientales (2018), en el cual se define la técnica Inventario completo de especies (búsqueda libre y sin restricciones) y determina que “Es el método más eficiente para obtener el mayor número de especies en el menor tiempo por parte de colectores experimentados. Consiste en realizar caminatas durante el día y la noche, en busca de anfibios y reptiles, pero sin que existan mayores reglas para la búsqueda (excepto el revisar minuciosamente todos los microhábitats disponibles).” Sin embargo, se tomó como recorrido mínimo el establecido por Alonso y García (2017), autores que definen 400 m como distancia recomendable para los recorridos de observación de los grupos. Los recorridos libres abarcaron todas las coberturas vegetales presentes en el área de influencia. Se realizaron 18 transectos que tendrán como mínimo un (1) km de longitud. Los cuales permitieron alcanzar un esfuerzo de muestreo suficiente, indicando que el número transectos fue el adecuado para el área de estudio, está oscilación se debió a las condiciones del terreno y al tamaño de las unidades de cobertura, donde se eligieron las áreas con mayor cobertura de cada unidad con el fin de alcanzar distancias mayores en los transectos y evitar los efectos de borde que pudieran afectar los resultados. Los transectos se realizaron en las horas en que suelen tener mayor actividad los organismos, revisando zonas preferenciales que cubren las necesidades ambientales básicas de este tipo de individuos, como cuerpos de agua (charcas, caños, quebradas), caminos o trochas dentro del bosque, pastos bajos, entre otros, así como microhábitats potenciales y refugios como madrigueras abandonadas, hojarasca, piedras, troncos o material en descomposición. La caracterización de la herpetofauna se realizó en horarios diurnos que iniciaron desde las 6:00 hasta las 8:00 horas para anfibios y de las 10:00 a 15:00 horas para reptiles, y nocturnos entre las 18:00 a 20:00 horas del día para los dos grupos. Para colectar los individuos se recorrieron los transectos lentamente en busca de los especímenes escuchados u observados sobre el sustrato o posados sobre vegetación circundante a cuerpos de agua. La captura se realizó de forma manual para anfibios y reptiles, para las serpientes se hizo uso de una pinza herpetológica, una vez capturados los ejemplares se pusieron en bolsas de tela húmedas o bolsas ziplog (anfibios) y en el caso del grupo de reptiles se realizó la identificación in situ y los individuos difíciles de identificar fueron transportados en bolsas de tela con vegetación al interior, así mismo, se hicieron anotaciones de datos ecológicos como el lugar de ubicación de los individuos, etología al momento de ser localizados y la hora de actividad. Posteriormente se tomaron datos morfométricos a cada uno de los ejemplares para facilitar su determinación (Cadavid, 2005), finalmente, se hizo registro fotográfico de los ejemplares y luego fueron liberados.
+
+2) Trampas de caída: Las trampas de caída consistieron en la ubicación de un arreglo de seis (6) recipientes en fila por cada cobertura natural y seminatural, direccionados con cuatro (4) láminas en cruz de 2 m de largo por 30 cm de alto con el fin de redireccionar los individuos hacia la trampa. La ubicación de las trampas se realizó en las coberturas definidas para trampeo por sus características de estructura y mayor disponibilidad de hábitat y microhábitat de potencial presencia de herpetofauna, la apertura de las trampas será de dos noches desde las 17:00 a las 07:00 por cada punto de cobertura seleccionado, la revisión de las mismas se realizará en horas de la mañana al momento del cierre de las trampas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>AVIFAUNA. De acuerdo al permiso de colecta otorgado por la ANLA en la Resolución 1215 del 29 de septiembre de 2017 a la empresa EIATEC S.A.S., la caracterización de este grupo de fauna se realizó por medio de la instalación de redes de niebla, sin embargo, para aumentar la probabilidad de encuentro de los individuos, también se empleó la metodología planteada por Villarreal et al., (2004), donde se combina distintas estrategias como censos visuales y auditivos, redes de niebla y encuestas, cada una aportan elementos complementarios para elaborar una caracterización completa del grupo, donde los censos permiten cubrir un área extensa registrando numerosas especies, en tanto redes de niebla, aunque generan pocas capturas por unidad de tiempo permiten obtener información relevante sobre características morfológicas o ecológicas de las especies (Ralph et al, 1996). Por otra parte, las encuestas realizadas a los habitantes ayudaron a identificar algunas especies y a determinar los usos que la población hace de la avifauna. A continuación, se especifican las técnicas y métodos utilizados:
+
+1) Transectos de observación: Villareal et al., (2006), definen que la observación de aves es uno de los métodos más aplicados para conocer la composición de la avifauna, permitiendo obtener listas más completas y representativas posibles, sin embargo, establecen que uno de los grandes inconvenientes para el registro de aves mediante este método son las coberturas con vegetación de por te alto o espeso. Por tanto la técnica de observación por recorridos o transectos es muy eficiente para unidades con vegetación de estratos bajos, por el contrario el uso de redes de niebla en estas unidades no es eficiente y requiere de tiempo que se puede emplear en otros métodos que obtiene mayores resultados, de esta manera para las coberturas con mayor estructura se establecieron transectos y estaciones de redes de niebla para complementar la caracterización, y en coberturas vegetales con estratos bajos se realizaron transectos de observación con el fin de optimizara el esfuerzo de muestreo y obtener una mayor caracterización del grupo, método que permitió alcanzar un esfuerzo de muestreo suficiente indicando que las especies registradas y el esfuerzo de muestreo  fueron suficientes para el AI. Se realizaron transectos de mínimo 1 km abarcando los diferentes tipos de cobertura del AI. En ellos se recolectó información a través del método de observación directa, utilizando binoculares de 10x50 y de 10x40. Adicionalmente se realizó un registro fotográfico de la avifauna observada, para la posterior confrontación con guías de campo (Hilty y Brown, 2001, MCMullan, et al., 2010).
+
+2) Captura con redes de niebla: Se emplearon 10 redes de niebla de 12 metros de largo por 2 metros de alto, con ojo de malla 36 mm, cuyo arreglo se mantuvo por dos (2) días para las coberturas, las cuales fueron seleccionadas por presentar mayor estructura en la composición vegetal y mayor número de hábitat disponibles para la avifauna, siendo está característica indispensable para garantizar la efectividad del método, Villareal et al (2006) establece como la principal desventaja de esta técnica, que las redes de niebla solo capturan las aves que se estrellan en su área de intercepción, entre el suelo y los  2 metros de altura, obteniendo una lista parcial de las especies de un determinado hábitat, pues no se capturan las aves de hábito de vuelo mayores. Por el contrario, la técnica es muy eficiente en coberturas vegetales con mayor estructura donde la observación por recorridos se dificulta. Las redes se abrieron desde las 06:00 hasta las 10:00 horas y desde las 15:00 hasta las 18:00 horas, y fueron revisadas aproximadamente cada 15 minutos, para un esfuerzo de muestreo total por cobertura vegetal de 140 horas/red. A las aves capturadas, se les realizó un registro fotográfico y se caracterizaron morfométricamente para su posterior liberación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>MAMÍFEROS. De acuerdo con el permiso de colecta otorgado por la ANLA en la Resolución 1215 del 29 de septiembre de 2017 a la empresa EIATEC S.A.S., la caracterización de este grupo de fauna se realizó por medio de la instalación de redes de niebla, trampas Sherman y trampas Tomahawk (Amador, 2010). 
+
+1) Mamíferos terrestres pequeños: i. Trampas Sherman: Para la captura de los mamíferos terrestres pequeños se hizo mediante la instalación de trampas Sherman, este método se empleó con el propósito de capturar los individuos mediante cebos a base de avena en hojuelas, frutas, atún y/o sardina, dos (2) días por cobertura vegetal, con distancia de separación de 5 m entre cada trampa, ubicando al menos 50 unidades de ellas. Este arreglo se mantuvo durante dos (2) noches en cada cobertura, para alcanzar un esfuerzo de muestreo por cobertura de 50 trampas/2 noches. Las trampas se revisaron cada mañana, para revisar los sistemas de activación de la trampa, cambiar cebos, y en los casos en los que se encontró individuos tomar registros fotográficos, medición y liberación de los individuos capturados. Las coberturas donde se realizó la instalación de las trampas fueron seleccionadas por su mayor disponibilidad de recursos, como alimento, refugio, agua, entre otros, que permitieran una mayor probabilidad de captura. Para las coberturas que presentaron menor estructura vegetal y por ende la probabilidad de captura menor mediante trampeo, se realizaron transectos de observación en busca de individuos o rastros indirectos como madrigueras, huellas, rascaderos, heces, pelos etc., que en conjunto con los datos de trampeo obtenidos para mamíferos voladores y no voladores permitieron obtener un esfuerzo de muestreo suficiente para el área de estudio.
+
+ 2) Mamíferos terrestres medianos y grandes: i. Transectos de observación: Se recorrieron transectos de 1 Km como mínimo, abarcando diferentes coberturas vegetales con el objeto de observar y anotar todas las especies de mamíferos a cada lado del transecto. De este modo el investigador camina a lo largo del transecto y cuenta sólo a las especies que observe dentro de la franja. El esfuerzo de muestreo fue medido en términos de horas totales de detección por distancia total recorrida, teniendo en cuenta los datos de la distancia de cada trayecto y la hora de inicio y finalización de cada recorrido; ii. Trampas Tomahawk: Este tipo de trampas se utilizó para la captura de mamíferos medianos, las cuales se encuentran en dos (2) dimensiones (30 x 20 x 50 cm; 30 x 25 x 70). Para las caracterizaciones se ubicaron 10 trampas con cebo en transectos lineales, con una distancia de separación de 40 m entre trampa para áreas boscosas, y 150 m en áreas abiertas (Sánchez, 2004). Lo anterior se realizó en cada cobertura vegetal identificada. Este arreglo se mantuvo durante 2 noches (48 horas) en cada unidad de cobertura vegetal. 
+En cuanto a su revisión, esta se realizó cada mañana durante el tiempo que se mantuvieron (2 días) los arreglos, para chequear los sistemas de activación de la trampa, cambio de cebo, toma de registro fotográfico, medición morfométrica y liberación de los individuos capturados. Los individuos que fueron capturados por este método fueron rotulados con un marcador de tinta indeleble en una de las orejas y posteriormente fueron liberados en el sitio de captura. Las coberturas donde se realizó la instalación de las trampas fueron seleccionadas por su mayor disponibilidad de recursos, como alimento, refugio, agua, entre otros, que permitieran una mayor probabilidad de captura; iii. Observaciones indirectas; iv. Observación de huellas y rastros: Se realizó la observación, identificación y registro fotográfico de huellas y rastros las cuales incluyen heces, restos óseos, madrigueras, rasguños, pieles, comederos, osamenta, senderos, entre otros, que permitieron establecer la presencia y uso del ecosistema de una determinada especie.
+
+3) Mamíferos voladores: Para la captura de quirópteros, se utilizaron 10 redes de niebla de 12 m de largo por 2 m de alto, empleando los mismos sitios de postura de las redes utilizadas para aves. Las redes se abrieron en horas de la noche de 18:00 – 22:00 horas, durante dos (2) días por cobertura vegetal identificada, para un total de 80 horas/red por cobertura. Una vez liberado de la red, el ejemplar capturado fue caracterizado morfo-métricamente y se realizó el respectivo registro fotográfico. Finalmente, se realizó la determinación del ejemplar y su liberación, teniendo precaución de marcar con cortes pequeños de pelo para evitar el reconteo. Las coberturas donde se realizó la apertura de redes, obedeció a las características de disponibilidad de hábitat, recursos y refugio que permitieran el mayor número de capturas posibles, las redes se ubicaron  al interior y  al borde de bosques o de los lugares que habitualmente emplean los murciélagos para desplazarse  y  donde hay más oportunidad  captura tales como cuerpos de  agua,  arroyos,  sendas, caminos y claros (Bracamonte, 2018); características que se presentaron en las coberturas seleccionadas y que permitieron obtener en conjunto con los mamíferos no voladores, un esfuerzo de muestreo suficiente para el área de estudio. Las coberturas en las cuales no se encontraron áreas de preferencia para el grupo de mamíferos voladores, debido fundamentalmente a que su estructura es de vegetación baja o de total ausencia, los transectos de observación incluyeron búsqueda en cuevas y sitios de descanso durante el día.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área de estudio se encuentra asociado al Área de Perforación Exploratoria SN-8 con una extensión de 285.6245 km2, la cual se encuentra ubicada en jurisdicción del municipio Montería, departamento de Córdoba.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>La metodología para la caracterización de la fauna se desarrolló de acuerdo con lo dispuesto en los términos de referencia para la elaboración del Estudio de Impacto Ambiental para proyectos de perforación exploratoria de hidrocarburos M-M-INA-01, expedidos por la Autoridad Nacional de Licencias Ambientales (ANLA) en 2014 y a la Metodología General para la Elaboración y Presentación de Estudios Ambientales, emitida por el Ministerio de Ambiente y Desarrollo Sostenible (MADS) en el año 2018, y el manual de métodos para el desarrollo de inventarios de biodiversidad del Instituto de Investigación en recursos biológicos Alexander von Humboldt (Villarreal et al., 2004).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>En el proceso de estructuración y validación de los datos, se realizó el control de la calidad de la información. A continuación, se enumeran los procesos asociados a esta actividad: 1. Revisión de la información documentada asociada a los datos biológicos; 2. Estructuración de los datos en el estándar Darwin Core (DwC) según elementos, definiciones y vocabularios controlados; 3. Validación y limpieza de la información consignada en el DwC, 3.1. Corrección de errores de tipeo, para esta tarea se usó OpenRefine, adicionalmente se identificaron datos erróneos como sinonimias, con el uso de Species Matching y www.catalogueoflife.org, 3.2. Se realizó la conversión de las fechas, acorde a lo exigido en el estándar, 3.3. Se llevó a cabo la visualización de las coordenadas para su validación con ayuda de un proceso de espacialización en un mapa (http://iobis.github.io/plotter/), y 3.4. Validación geográfica con QGIS; 4. Finalmente, la base datos DwC se validó haciendo uso del Validador de datos - GBIF.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="HOCOL:EIATEC:EIA_SN8">
+                <title>ESTUDIO DE IMPACTO AMBIENTAL PARA EL ÁREA DE PERFORACIÓN EXPLORATORIA SN8 (MONTERÍA - CÓRDOBA)</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Adriana Esther</givenName>
+                    <surName>Rodríguez Andrade</surName>
+                    </individualName>
+                    <role>USER</role>
+                </personnel>
+                <abstract>
+                    <para>HOCOL S.A. es la compañía operadora del Área de Perforación Exploratoria SN-8 con una extensión de 285,6245 Km2, la cual se encuentra ubicada en jurisdicción del municipio Montería, departamento de Córdoba.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Municipio Montería, departamento de Córdoba.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>La metodología para la caracterización de la fauna presente en el AI del proyecto se desarrolló de acuerdo con lo dispuesto en los términos de referencia para la elaboración del Estudio de Impacto Ambiental para proyectos de perforación exploratoria de hidrocarburos M-M-INA-01, expedidos por la Autoridad Nacional de Licencias Ambientales (ANLA) en 2014 y a la Metodología General para la Elaboración y Presentación de Estudios Ambientales, emitida por el Ministerio de Ambiente y Desarrollo Sostenible (MADS) en el año 2018, el manual de métodos para el desarrollo de inventarios de biodiversidad del Instituto de Investigación en recursos biológicos Alexander von Humboldt (Villarreal et al., 2004), y el Permiso de Estudio para la recolección de Especies Silvestres de la Diversidad Biológica con Fines de Elaboración de Estudios Ambientales, otorgado mediante Resolución 1215 de septiembre de 2017, por la ANLA a la empresa EIATEC S.A.S.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:50Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/n8dnas">HOCOL S.A., EIATEC S.A.S. (2023). Registros de los vertebrados silvestres presentes en el área de influencia del EIA-SN8, departamento de Córdoba. HOCOL S.A.. Occurrence dataset https://doi.org/10.15472/n8dnas accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-hocol.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="32ad19ed-6b89-447a-9242-795c0897f345"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.5066/p9kfftod</alternateIdentifier>
+        <alternateIdentifier>307745</alternateIdentifier>
+        <alternateIdentifier>10.5066/p95xl09q</alternateIdentifier>
+        <alternateIdentifier>32ad19ed-6b89-447a-9242-795c0897f345</alternateIdentifier>
+        <alternateIdentifier>https://bison.usgs.gov/ipt/resource?r=l48riis</alternateIdentifier>
+        <title>Global Register of Introduced and Invasive Species - United States (Contiguous) (ver.2.0, 2022)</title>
+        <creator>
+            <individualName>
+                <givenName>Annie</givenName>
+                <surName>Simpson</surName>
+            </individualName>
+            <organizationName>United States Geological Survey</organizationName>
+            <positionName>Biologist and Information Scientist</positionName>
+            <address>
+                <deliveryPoint>12201 Sunrise Valley Dr. Mailstop 302</deliveryPoint>
+                <city>Reston</city>
+                <administrativeArea>Virginia</administrativeArea>
+                <postalCode>20192</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>+1 703 648 4281</phone>
+            <electronicMailAddress>US-RIIS@usgs.gov</electronicMailAddress>
+            <onlineUrl>https://www.usgs.gov/programs/science-analytics-and-synthesis-sas</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0001-8338-5134</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Elizabeth</givenName>
+                <surName>Sellers</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>Data Manager</positionName>
+            <address>
+                <deliveryPoint>12201 Sunrise Valley Dr. Mailstop 302</deliveryPoint>
+                <city>Reston</city>
+                <administrativeArea>Virginia</administrativeArea>
+                <postalCode>20192</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>+1 703 648 4385</phone>
+            <electronicMailAddress>esellers@usgs.gov</electronicMailAddress>
+            <onlineUrl>https://www.usgs.gov/programs/science-analytics-and-synthesis-sas</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0003-4676-2994</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Shyama</givenName>
+                <surName>Pagad</surName>
+            </individualName>
+            <organizationName>IUCN Invasive Species Specialists Group</organizationName>
+            <positionName>Deputy Chair, Information</positionName>
+            <address>
+                <deliveryPoint>Department of Biological Sciences, University of Auckland</deliveryPoint>
+                <city>Auckland</city>
+                <administrativeArea>Auckland</administrativeArea>
+                <postalCode>1072</postalCode>
+                <country>NEW_ZEALAND</country>
+            </address>
+            <phone>+64 210754381</phone>
+            <electronicMailAddress>s.pagad@auckland.ac.nz</electronicMailAddress>
+            <onlineUrl>http://www.issg.org</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-5225-6580</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Annie</givenName>
+                <surName>Simpson</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>Biologist and Information Scientist</positionName>
+            <address>
+                <deliveryPoint>12201 Sunrise Valley Dr. Mailstop 302</deliveryPoint>
+                <city>Reston</city>
+                <administrativeArea>Virginia</administrativeArea>
+                <postalCode>20192</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>+1 703 648 4281</phone>
+            <electronicMailAddress>US-RIIS@usgs.gov</electronicMailAddress>
+            <onlineUrl>https://www.usgs.gov/programs/science-analytics-and-synthesis-sas</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0001-8338-5134</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Annie</givenName>
+                <surName>Simpson</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>Biologist and Information Scientist</positionName>
+            <address>
+                <deliveryPoint>12201 Sunrise Valley Dr. Mailstop 302</deliveryPoint>
+                <city>Reston</city>
+                <administrativeArea>Virginia</administrativeArea>
+                <postalCode>20192</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>+1 703 648 4281</phone>
+            <electronicMailAddress>US-RIIS@usgs.gov</electronicMailAddress>
+            <onlineUrl>https://www.usgs.gov/programs/science-analytics-and-synthesis-sas</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0001-8338-5134</userId>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Elizabeth</givenName>
+                <surName>Sellers</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>Data Manager</positionName>
+            <address>
+                <deliveryPoint>12201 Sunrise Valley Dr. Mailstop 302</deliveryPoint>
+                <city>Reston</city>
+                <administrativeArea>Virginia</administrativeArea>
+                <postalCode>20192</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>+1 703 648 4385</phone>
+            <electronicMailAddress>US-RIIS@usgs.gov</electronicMailAddress>
+            <onlineUrl>https://www.usgs.gov/programs/science-analytics-and-synthesis-sas</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0003-4676-2994</userId>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Shyama</givenName>
+                <surName>Pagad</surName>
+            </individualName>
+            <organizationName>IUCN Invasive Species Specialists Group</organizationName>
+            <positionName>Deputy Chair, Information</positionName>
+            <address>
+                <deliveryPoint>University of Auckland, School of Biological Sciences</deliveryPoint>
+                <city>Auckland</city>
+                <administrativeArea>Auckland</administrativeArea>
+                <postalCode>1072</postalCode>
+                <country>NEW_ZEALAND</country>
+            </address>
+            <phone>+64 210754381</phone>
+            <electronicMailAddress>s.pagad@auckland.ac.nz</electronicMailAddress>
+            <onlineUrl>http://www.issg.org</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-5225-6580</userId>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-01-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>This is the latest version of the dataset initially published to GBIF by the Invasive Species Specialist Group (ISSG) on behalf of the U.S. Geological Survey on October 12, 2020, at https://www.gbif.org/dataset/6b64ef7e-82f7-47a3-8ddb-ec6794ea07d6. Like that checklist, this version presents validated and verified national checklists of introduced (alien) and invasive alien species at the sub-country level. The other two related checklists for the United States, also newly published separately as V2.0, are for the States of Alaska and Hawaii.</para>
+<para>Differences between two previous versions and ver.2.0, 2022 (this dataset): SIZE: the first version V1.0 - 5,006 accepted names (arthropods were not included); the previous version - 8,654 accepted names and two unranked hybrids; ver.2.0, 2022 (this dataset) - 8,525 accepted names and two unranked hybrids. OTHER DIFFERENCES: the previous version provided: a broader inclusion of arthropods; approximate dates of introduction (where available); 4,693 references; improved disambiguation of scientific names; biocontrol species information (where applicable); taxonomic synonyms, where available, in taxonRemarks field; unique occurrenceIDs; no habitat information; ver.2.0, 2022 (this dataset) adds pathway and habitat information, where available, more precise management of names and synonyms (and so is smaller than the previous version), and additional data on approximate dates of introduction.</para>
+<para>OVERVIEW: Introduced (non-native) species that becomes established may eventually become invasive, so tracking introduced species provides a baseline for effective modeling of species trends and interactions, geospatially and temporally. The umbrella dataset, called United States Register of Introduced and Invasive Species (US-RIIS), is comprised of three lists, one each for Alaska (AK, with 545 records), Hawaii (HI, with 5,628 records), and the conterminous (or lower 48) United States (L48, with 8,527 records, this dataset). Each list includes introduced (non-native), established (reproducing) taxa that: are, or may become, invasive (harmful) in the locality; are not known to be harmful there; and/or have been used for biological control in the locality.</para>
+<para>To be included in the Global Register of Introduced and Invasive Species - United States (Contiguous), or GRIIS-L48 (with L48 meaning the Lower 48 Conterminous United States), a taxon must be non-native everywhere in the locality and established (reproducing) anywhere in the locality. Native pest species are not included.</para>
+<para>Each record has information on taxonomy, a vernacular name, establishment means designation (introduced unintentionally, or assisted colonization), degree of establishment (established, invasive, or widespread invasive), hybrid status, pathway of introduction (where available), habitat (where available), whether a biocontrol species, dates of introduction (where available; currently 46% of the records for the conterminous United States), associated taxa (where applicable), native and introduced distributions (where available), and citations for the authoritative source(s) from which this information is drawn. The umbrella dataset US-RIIS builds on a previous dataset, A Comprehensive List of Non-Native Species Established in Three Major Regions of the U.S.: Version 3.0 (Simpson et al., 2020, https://doi.org/10.5066/p9e5k160).</para>
+<para>There are 14,700 records in the master list (USRIISv2_MasterList) and 12,571 unique scientific names. The list is derived from more than 5,800 authoritative sources (USRIISv2_AuthorityReferences) and was reviewed by (or based on input from) more than 30 taxonomic experts and invasive species scientists.</para>
+<para>Many thanks to these reviewers and contributors: Coauthors Pam Fuller (USGS Emeritus), Kevin Faccenda (University of Hawaii), Neal Evenhuis (Bishop Museum), Janis Matsunaga (Hawaii Department of Agriculture), and Matt Bowser (US-Fish and Wildlife Service); contributors Rachael Blake (data science), National Socio-Environmental Synthesis Center (SESYNC); M. Lourdes Chamorro (Curculionidae), USDA-ARS Entomology; Meghan C. Eyler (data reviewer), US Fish &amp; Wildlife Service; Danielle Froelich (Hawaiian botany), SWCA Environmental Consultants; Thomas Henry (Heteroptera), USDA-ARS Entomology; Sam James (Annelida), Maharishi University; Nancy Khan (Hawaiian botany), Smithsonian Institution; Alex Konstantinov (Chrysomelidae), USDA-ARS Entomology; Andrew P. Landsman (Arachnida), National Park Service, C&amp;O Canal National Historical Park; Christopher Lepczyk (Vertebrata), Auburn University; Sandy Liebhold (Coleoptera), USDA-FS; Steven Lingafelter (Cerambycidae), USDA-APHIS; Walter Meshaka (Herpetology), State Museum of Pennsylvania; Gary L. Miller (Aphididae), USDA-ARS Entomology; Allen Norrbom (Tephritidae), USDA-ARS Entomology; Shyama Pagad (global invasive species), IUCN SSC Invasive Species Specialists&amp;#39; Group; John Reynolds (Annelida), Oligochaetology Laboratory; Alexander Salazar (Lycosidae), Miami University, Ohio; Elizabeth A. Sellers (data manager), USGS; Derek Sikes (Alaskan invertebrates), University of Alaska; Bruce A. Snyder (Annelida), Georgia College and State University; Alma Solis (Pyralid moths), USDS-ARS at the Smithsonian Institution; Rebecca Turner (data manager), Scion Inc., New Zealand; Darrell Ubick (Arachnida), Cal Academy; Warren Wagner (Hawaiian botany), Smithsonian Institution; Mark Wetzel (Annelida), Illinois Natural History Survey; and James D. Young (Lepidoptera), USDA-APHIS-PPQ-PHP. Our apologies to the many contributing experts we may have inadvertently omitted.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Checklist</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Contiguous 48 United States</keyword>
+            <keyword>Conterminous 48 United States</keyword>
+            <keywordThesaurus>USGS Geographic Names Information System: https://edits.nationalmap.gov/apps/gaz-domestic/public/search/names</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>nonindigenous species</keyword>
+            <keyword>species checklist</keyword>
+            <keyword>Environmental Health</keyword>
+            <keyword>Ecology</keyword>
+            <keyword>Wildlife Biology</keyword>
+            <keyword>species list</keyword>
+            <keyword>Wildlfe Disease</keyword>
+            <keyword>invasive species</keyword>
+            <keyword>Aquatic Biology</keyword>
+            <keyword>non-native species</keyword>
+            <keyword>database</keyword>
+            <keyword>exotic species</keyword>
+            <keyword>alien species</keyword>
+            <keyword>Botany</keyword>
+            <keyword>Forestry</keyword>
+            <keyword>introduced species</keyword>
+            <keywordThesaurus>USGS Biocomplexity Thesaurus: https://www1.usgs.gov/csas/biocomplexity_thesaurus/index.html</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>non-native</keyword>
+            <keyword>invasive</keyword>
+            <keyword>United States of America</keyword>
+            <keyword>l48riis</keyword>
+            <keyword>country_US-CUS</keyword>
+            <keyword>alien species</keyword>
+            <keyword>Global Register of Introduced and Invasive Species</keyword>
+            <keyword>checklist</keyword>
+            <keyword>inventory</keyword>
+            <keyword>country_US</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>During the data cleaning of this species checklist (that can be downloaded as part of the dataset at https://doi.org/10.5066/P9KFFTOD): 
+            1) &apos;locality&apos; values were translated during data cleaning: L48 = Conterminous United States of America
+            2) &apos;eventDate&apos; reflects the date the record was first added to the GRIIS-L48. NOTE: if earliest occurrence for the species is known or suspected, it is provided in the eventRemarks field not the eventDate field.
+            3) Content for these fields (where appropriate) was globally added during data cleaning: administrativeArea, basisOfRecord, occurrenceStatus, continent, country, countryCode, datasetID, datasetName, dcterms:bibliographicCitation, dcterms:language, dcterms:license, dcterms:references, dcterms:rightsHolder, dcterms:source, dcterms:subject, dcterms:temporal, dcterms:type, higherGeography, institutionCode, occurrenceStatus, stateProvince.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://doi.org/10.5066/P92DN8D8</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.us/archive.do?r=l48riis</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The Conterminous 48 United States, also known as the Contiguous 48 United States.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-124.736</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-66.945</eastBoundingCoordinate>
+                    <northBoundingCoordinate>49.383</northBoundingCoordinate>
+                    <southBoundingCoordinate>24.521</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                0999-12-27
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-10-23
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>All taxa are included, from Kingdoms Animalia, Bacteria, Chromista, Fungi, Plantae, Protozoa, and Viruses. In the umbrella dataset, there are 12,981 unique scientific names, mostly taxon rank species, but also subspecies, variety, form, and unranked hybrid. There are 8,527 names in the Conterminous 48 United States (GRIIS-L48) dataset. Just two Classes comprise 87% of the GRIIS-L48: 45% Magnoliopsida (dicotyledonous plants), and 42% Insecta (insects).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                    <commonName>Animals</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Bacteria</taxonRankValue>
+                    <commonName>Bacteria</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Chromista</taxonRankValue>
+                    <commonName>Chromists</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                    <commonName>Mushrooms</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                    <commonName>Plants</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Protozoa</taxonRankValue>
+                    <commonName>Protists</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Viruses</taxonRankValue>
+                    <commonName>Viruses</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    <commonName>Dicots</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                    <commonName>Insects</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>We anticipate the GRIIS-L48 will be used to 1) refine species lists for horizon scanning (established species should not be included), 2) create introduced species lists for smaller areas within the conterminous U.S., and 3) tag species occurrence data records with an introduced status where the species may not have been initially reported as introduced. The GRIIS-L48 also contributes to the Global Register of Introduced and Invasive Species (http://griis.org/about.php).</para></purpose>
+        <maintenance>
+            <description>
+                <para>Although updates to the U.S. Register of Introduced and Invasive Species are actively sought and the unofficial version may change daily, it is anticipated that peer reviewed updates for it and its three sublists will be made available annually or biannually.</para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Annie</givenName>
+                <surName>Simpson</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>Biologist and Information Scientist</positionName>
+            <address>
+                <deliveryPoint>12201 Sunrise Valley Dr. Mailstop 302</deliveryPoint>
+                <city>Reston</city>
+                <administrativeArea>Virginia</administrativeArea>
+                <postalCode>20192</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>+1 703 648 4281</phone>
+            <electronicMailAddress>US-RIIS@usgs.gov</electronicMailAddress>
+            <onlineUrl>https://www.usgs.gov/programs/science-analytics-and-synthesis-sas</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0001-8338-5134</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Tools used are described in the following steps:</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Microsoft Word to assist in formatting data.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Microsoft Excel to hold the data and sort and display it.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Global Biodiversity Information Facility to validate taxonomic names.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Integrated Taxonomic Information System (ITIS) to validate taxonomic names not found in GBIF.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Microsoft OneDrive to store the data.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Adobe Pro to extract text from image-based pdfs.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Sublime Text to assist with text formatting and metadata eml generation.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Various browsers (MS Edge, Google Chrome, Mozilla Firefox, Apple Safari), species databases, and search engines, to discover authoritative introduced species lists for L48.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>PROVENANCE: Our team tracks the provenance of the dataset as any modifications, transformations, edits, or decisions to accept or reject data points are made. Provenance is essential to the dataset, which consists entirely of assertions of the presence and non-native status of a species in an area.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>This tracking involves the inclusion of an authority or data source with each assertion that a species is introduced and established in a given area. The actual authorities&apos; lists and manuscripts themselves are also saved digitally as written proof of the individual assertions and to justify, as necessary, each species&apos; inclusion in the list.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>To assist with tracking the evolution of a data record, there are &quot;Acquisition Date&quot; and &quot;modified&quot; fields (which are not auto-generated and so subject to human error). The &quot;modified&quot; field is a Darwin Core term for the date of the last modification of the record (YYYY-MM-DD), and the cumulative modifications to the record are described in the &quot;Update Remarks&quot; field, separated within the field by commas (for modifications made on the same date) and semicolons (separating modifications made on different dates).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>The dataset and the reference authorities are maintained in Microsoft OneDrive. The list is worked on in MS Excel and the file&apos;s history can be used to &apos;roll back&apos; to previous versions, if necessary. A versionHistory.txt file published online along with the data describes major changes and differences in each published version of the list. Past versions of the precursor to this dataset are maintained and made available as part of the deprecated .zip files at: https://doi.org/10.5066/P9E5K160, and the previous superseded version of the US-RIIS are maintained at https://doi.org/10.5066/P95XL09Q. All versions of the US-RIIS are accessible here: https://doi.org/10.5066/P92DN8D8.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>ANALYZE CRITERIA: Assertions of introduced and established status for a species are accepted if the authority is a trusted source, such as a governmental or government-affiliated, non-governmental organization, international biodiversity organization, academic institution, or a taxonomic expert. If a list is found on the Web and judged as authoritative, it is downloaded for future reference. Authorities, in addition to being cited within each record, are accumulated in an AuthorityReferences spreadsheet. These criteria are part of our documentation. When there is disagreement among experts about establishment, taxonomy, native status, and approximate dates of introduction a wider search of available information is used to determine the best resolution. Cryptic species (of unknown origin) are not included in the GRIIS-L48. Taxa with conflicting status or taxonomy among different sources, that cannot be reconciled through further research, are moved to an informal watch list (available upon request).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Temporal: data collection began in 2012 and is ongoing. Although publication has been annual since 2018, it is likely that version 3.0 will take 2 years or more to complete.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Methods used to create the integrated dataset have varied somewhat over time. Additional fields have been added from those that were used at the start of the project. Initially, each region (AK, HI, L48) had a lead data searcher and the lists were combined afterwards within one Excel spreadsheet. The interpretation of the content of the citation fields follow the rules established by ITIS and described here: http://www.itis.gov/submit_guidlines.html.  Each lead data searcher was trained in the methods to discern an authoritative source; how to extract scientific names from the source; how to generate from the source and other reference databases such as ITIS all of the information in the spreadsheet columns. There are two spreadsheets to populate (MasterList and AuthorityReferences), plus a data dictionary sheet (DataDictionary).  The US-RIIS dataset shared with GBIF contains these fields:  locality - Required; L48 = conterminous United States of America;  scientificName - Required; modified from Darwin Core; an accepted species, subspecies, variety, form, or hybrid name, preferably validated in GBIF, or secondarily, in ITIS, or otherwise by another taxonomic authority; Genus names alone are not allowed; does not include scientificNameAuthorship.  scientificNameAuthorship - Optional; from Darwin Core; as provided by the taxonomic authority or the reference.  vernacularName - Required; from Darwin Core; generally provided by ITIS, the authority, or another reliable source; may be a very generic term where specific common names are not in use.  taxonRank - Required; from Darwin Core; as provided by the taxonomic authority or derived by data searcher; species, subspecies, variety, form, unranked.  establishmentMeans - Required; from Darwin Core; controlled vocabulary: introduced (alien, exotic, non-native, nonindigenous); introduced: assisted colonization; (or both terms). degreeOfEstablishment - Required; from Darwin Core; an assertion provided by or derived from the authority describing the established or invasive status of the taxa within the region; controlled vocabulary (smaller for this dataset than from Darwin Core, due to the nature of the dataset): established (category C3), meaning reproducing in the locality; invasive (category D2), meaning causing, or likely to cause, harm; widespread invasive (category E), meaning at least locally abundant and harmful ecologically, economically, or to health.  occurrenceStatus - Required; from Darwin Core; mapped value = &quot;present&quot;.  associatedTaxa - Optional; from Darwin Core; consists of a descriptor of the relationship (e.g., biocontrol for:, infests:, parasite of:, etc.) followed by a text description of the name of the organism(s) that the species was introduced to control.  eventRemarks - Optional; from Darwin Core; consists of &quot;approx. date of introduction: &quot; and a date or text string describing when the taxon is believed to have been introduced to the locality. Also includes brief (Author (YYYY)) value if the associatedReferences authority is not the authority providing the date of introduction. taxonRemarks - Optional; from Darwin Core; only included if the scientific name has many synonyms or misspellings, or, if the name provided by the authority is an unaccepted synonym of a valid/accepted name in a taxonomic authority; Multiple names are separated by a semicolon and a space. kingdom - Required; from Darwin Core; one of seven names as specified in GBIF or another naming authority; controlled vocabulary: Animalia, Bacteria, Chromista, Fungi, Plantae, Protozoa, Viruses.  phylum - Required; from Darwin Core; as provided by the taxonomic authority; occasionally = &quot;undefined&quot;.  class - Required; from Darwin Core; as provided by the taxonomic authority; occasionally = &quot;undefined&quot;.  order - Required; from Darwin Core; as provided by the taxonomic authority; occasionally = &quot;undefined&quot;.  family - Required; from Darwin Core; as provided by the taxonomic authority; occasionally = &quot;undefined&quot;.  taxonomicStatus - Required; from Darwin Core; value = &quot;Accepted &quot; followed by the acronym of the taxonomic authority providing the taxonID.  taxonID - Required; from Darwin Core; a unique number for the taxa, as provided by the taxonomic authority. Where possible, a URN. Otherwise a stable URL.  associatedReferences - Required; from Darwin Core; the abbreviated name for the author of the resource asserting the taxa&apos;s non-native species status in the locality; Generally, but not always, followed by (year), followed by a URL back to an online version of the reference, or by a full reference.  eventDate - Required; from Darwin Core; the date of creation of the record, in the format YYYY-MM-DD; manually generated so errors are possible; NOTE: if earliest occurrence for the species is known or suspected, it is provided in the eventRemarks field, not eventDate.  modified - Required; from Darwin Core; date of latest edit/change made to the record; is manually generated, so errors are possible.  occurrenceRemarks - Optional; from Darwin Core; text field with comments about the record, generally extracted from the text of the associatedReference or other references.  occurrenceID - Required; from Darwin Core; an identifier for the Organism instance (at the record level); a controlled vocabulary that is manually generated using an ordinal number that is not repeated, prefixed by the umbrella dataset&apos;s abbreviated name (USRIIS), the record&apos;s locality (L48), and the record&apos;s kingdom; since the content of this field is not auto-generated, it is subject to human error. Deleted occurrenceIDs are not reused.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Incoming data is error checked. Scientific names are validated against the Global Biodiversity Information Facility (GBIF), then the Integrated Taxonomic Information System (ITIS), and other taxonomic authorities when necessary. Other data fields are assumed correct. The validity of the assertion of non-native status itself may subsequently be questioned and the entry deleted or moved to a watch list if: the scientific name is not in GBIF or ITIS and not reaffirmed by other authoritative taxonomic sources; other authoritative sources state the species is not present or is native or cryptic; irreconcilable typographical errors in scientific names are found; entries are found to be duplicate or synonomous taxonomic names.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="https://doi.org/10.5066/P9KFFTOD">
+                <title>Global Register of Introduced and Invasive Species - United States (Contiguous) (ver.2.0, 2022)</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Annie</givenName>
+                    <surName>Simpson</surName>
+                    </individualName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>To be included in the GRIIS-L48, a taxon must be non-native everywhere in the locality and established (reproducing) anywhere in the locality. Native pest species are not included. Note that the previous, superseded version 1.0 (2021) is available here: https://doi.org/10.5066/P95XL09Q</para>
+                </abstract>
+                <funding>
+                    <para>The project is funded by the Science and Analytical Synthesis Program of the U.S. Geological Survey</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Research publications describing the introduced, established species in the conterminous 48 United States of America.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>All suggestions for additions to the GRIIS-L48 and the US-RIIS will gratefully be received by the authors (and should include an authoritative source reference) at US-RIIS@usgs.gov</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:59Z</dateStamp>
+                <citation identifier="https://doi.org/10.5066/P9KFFTOD">Simpson A, Sellers E, Pagad S (2023). Global Register of Introduced and Invasive Species - United States (Contiguous) (ver.2.0, 2022). Invasive Species Specialist Group ISSG. Checklist dataset https://doi.org/10.5066/p9kfftod accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/medium/public/thumbnails/image/USGS_logo_green.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

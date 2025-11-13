@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="c8565eef-a9f6-49a4-bf8d-7c8416361a99"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/rvr01t</alternateIdentifier>
+        <alternateIdentifier>c8565eef-a9f6-49a4-bf8d-7c8416361a99</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=epm_faunareubicada_20220809</alternateIdentifier>
+        <title>Fauna silvestre reubicada en el marco del Proyecto Hidroeléctrico Ituango</title>
+        <creator>
+            <individualName>
+                <givenName>Ángela María</givenName>
+                <surName>Jaramillo Palacio</surName>
+            </individualName>
+            <organizationName>Empresas Públicas de Medellín E.S.P.</organizationName>
+            <positionName>Profesional Ambiental y Social</positionName>
+            <address>
+                <deliveryPoint>Carrera 58 # 42 - 125</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>ANGELA.MARIA.JARAMILLO@epm.com.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jaime</givenName>
+                <surName>Aguirre Ceballos</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Director general del proyecto</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jaguirrec@unal.edu.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Juan Carlos</givenName>
+                <surName>Arias</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Encargado de vegetación y flora</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jcariasgar@unal.edu.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Vladimir Andrés</givenName>
+                <surName>Bernal González</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Encargado de Anfibios y Reptiles</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>vlacho83@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Juan Camilo</givenName>
+                <surName>Bonilla González</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Encargado de Mamíferos</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jcbonillag@unal.edu.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Irina Margarita</givenName>
+                <surName>Mendoza Polo</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Encargada de Aves</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mendozapoloirina@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Olga Lucía</givenName>
+                <surName>Montenegro Díaz</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Encargado de Mamíferos</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>olmontenegrod@unal.edu.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Adriana</givenName>
+                <surName>Prieto Cruz</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Coordinadora General</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>aprietocr@unal.edu.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Juliana</givenName>
+                <surName>Rodríguez</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Manejo administrativo</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mjuli2@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Agustín</givenName>
+                <surName>Rudas Lleras</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Director Científico del Proyecto</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>arudasl@unal.edu.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Hernán Alonso</givenName>
+                <surName>Serrano</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Encargado del componente geográfico</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>haserrano@yahoo.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Hernán</givenName>
+                <surName>Sánchez Cruz</surName>
+            </individualName>
+            <organizationName>Empresas Públicas de Medellín E.S.P.</organizationName>
+            <positionName>Profesional Ambiental y Social</positionName>
+            <address>
+                <deliveryPoint>Carrera 58 # 42 - 125</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>HERNAN.SANCHEZ@epm.com.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Universidad Nacional de Colombia</surName>
+            </individualName>
+            <organizationName>Instituto de Ciencias Naturales, sede Bogotá</organizationName>
+            <positionName>Contratista - Investigador</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57 1) 316 5000</phone>
+            <onlineUrl>https://bogota.unal.edu.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Consorcio CCC Ituango</surName>
+            </individualName>
+            <organizationName>Consorcio CCC Ituango</organizationName>
+            <positionName>Contratista</positionName>
+            <address>
+                <deliveryPoint>local 02, Dg. 52</deliveryPoint>
+                <city>Bello</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>48619400</phone>
+            <onlineUrl>https://cccituango.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Consorcio MISPE Ituango</surName>
+            </individualName>
+            <organizationName>Consorcio MISPE Ituango</organizationName>
+            <positionName>Contratista</positionName>
+            <address>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Jaime</givenName>
+                <surName>Aguirre Ceballos</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Director general del proyecto</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jaguirrec@unal.edu.co</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Juan Carlos</givenName>
+                <surName>Arias</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Encargado de vegetación y flora</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jcariasgar@unal.edu.co</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Vladimir Andrés</givenName>
+                <surName>Bernal González</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Encargado de Anfibios y Reptiles</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>vlacho83@gmail.com</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Juan Camilo</givenName>
+                <surName>Bonilla González</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Encargado de Mamíferos</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jcbonillag@unal.edu.co</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Irina Margarita</givenName>
+                <surName>Mendoza Polo</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Encargada de Aves</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mendozapoloirina@gmail.com</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Olga Lucía</givenName>
+                <surName>Montenegro Díaz</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Encargada de Mamíferos</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>olmontenegrod@unal.edu.co</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Adriana</givenName>
+                <surName>Prieto Cruz</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Coordinadora General</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>aprietocr@unal.edu.co</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Juliana</givenName>
+                <surName>Rodríguez</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Manejo administrativo</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mjuli2@gmail.com</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Agustín</givenName>
+                <surName>Rudas Lleras</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Director Científico del Proyecto</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>arudasl@unal.edu.co</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Hernán Alonso</givenName>
+                <surName>Serrano</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia, sede Bogotá</organizationName>
+            <positionName>Encargado del componente geográfico</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 No. 45-03</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>haserrano@yahoo.com</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Hernán</givenName>
+                <surName>Sánchez Cruz</surName>
+            </individualName>
+            <organizationName>Empresas Públicas de Medellín E.S.P.</organizationName>
+            <positionName>Profesional Ambiental y Social</positionName>
+            <address>
+                <deliveryPoint>Carrera 58 # 42 - 125</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </metadataProvider>
+        <pubDate>
+                2024-01-12
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El establecimiento de hidroeléctricas genera efectos negativos en las poblaciones de diferentes especies terrestres en la zona de influencia de estos proyectos, ya que debido a las inundaciones se presentan altas mortalidades de individuos y se reduce la calidad y cantidad de hábitat para el mantenimiento y viabilidad de dichas poblaciones (Szabó et al. 2003; Pandit &amp; Grumbine 2012; Andriolo et al. 2013; Palmeirim et al. 2014). Como estrategia de mitigación se ha planteado el movimiento o translocación de individuos a nuevas áreas. Sin embargo para este procedimiento es necesario conocer los requerimientos de hábitat de las especies a translocar y la calidad de hábitat de las áreas que recibirán estas especies (Richard-Hansen et al. 2000).</para>
+<para>Este conjunto de datos consta de 107,111 registros biológicos de fauna silvestre que fueron rescatados y reubicados en áreas receptoras y corredores de paso, desde el año 2014 hasta el 2021 en el departamento de Antioquia; la mayoría de capturas de fauna se realizó mediante la captura manual, utilización de pinzas herpetológicas, nasa y pértiga. La clase predominante de fauna reubicada y rescatada corresponde a Reptilia, esta tiene asociados un total de 77,944 registros, seguida de Amphibia (26,060), Mammalia (2,128), Aves (977) y Arachnida (2).</para>
+<para>El Proyecto Hidroeléctrico Ituango, es un proyecto diseñado para aprovechar el potencial hidroeléctrico del río Cauca en su tramo bajo y medio, conocido como Cañón del Cauca; este aprovecha un caudal de unos 1.000 m3 /s, alcanzado por el río luego de un recorrido de unos 900 km a lo largo de los cuales drena un área aproximada de 37.820 km2. Las obras principales del proyecto están localizadas en ambas márgenes del río Cauca entre las desembocaduras del río San Andrés y el río Ituango, ubicadas al norte del Departamento de Antioquia.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Conservación.</keyword>
+            <keyword>Nasa</keyword>
+            <keyword>Anfibios</keyword>
+            <keyword>Mamíferos</keyword>
+            <keyword>Hábitat</keyword>
+            <keyword>Reubicación</keyword>
+            <keyword>Rescate</keyword>
+            <keyword>Arácnidos</keyword>
+            <keyword>Fauna silvestre</keyword>
+            <keyword>Pinza herpetológica</keyword>
+            <keyword>Aves</keyword>
+            <keyword>Captura manual</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=epm_faunareubicada_20220809</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Las actividades de reubicación y rescate de fauna silvestre se desarrollaron en el área del influencia del Proyecto Hidroeléctrico Ituango, sobre la cuenca media y baja del río Cauca, específicamente en los municipios de Briceño, Buriticá, Ituango, Liborina, Peque, Sabanalarga, San Andrés de Cuerquía, Toledo, Valdivia, Yarumal y Yolombó, todos pertenecientes al departamento de Antioquia.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-75.8</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-74.78</eastBoundingCoordinate>
+                    <northBoundingCoordinate>7.423</northBoundingCoordinate>
+                    <southBoundingCoordinate>6.582</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2014-01-02
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-12-07
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El presente recurso consta de 107,111 registros biológicos que corresponden en su totalidad a fauna silvestre. Se encuentran distribuidos en 5 clases, 39 órdenes, 100 familias, 237 géneros y 275 especies. El 98% de los registros se encuentra identificado a nivel de especie y el porcentaje restante a categorías taxonómicas superiores.
+La especie más representativa es Gonatodes albogularis, con 31,186 registros asociados.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arachnida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Ángela María</givenName>
+                <surName>Jaramillo Palacio</surName>
+            </individualName>
+            <organizationName>Empresas Públicas de Medellín E.S.P.</organizationName>
+            <positionName>Profesional Ambiental y Social</positionName>
+            <address>
+                <deliveryPoint>Carrera 58 # 42 - 125</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>ANGELA.MARIA.JARAMILLO@epm.com.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Se realizaron las actividades de rescate y reubicación principalmente durante las actividades de intervención forestal y en aquellos frentes de obra ya intervenidos donde el personal de obra reportó la presencia de fauna. Para ello se contó con personal capacitado y con los elementos de manipulación, restricción y transporte acordes a las características de cada grupo taxonómico. 
+Además, de acuerdo con el estado de salud de los individuos capturados, se trasladaban al Centro de Atención y Valoración de Fauna Silvestre (CAVFS) para llevar a cabo el tratamiento necesario.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las actividades de reubicación y rescate se desarrollaron en 6 etapas: inspección, rescate y limitación del movimiento, toma y registros de parámetros físicos, confinamiento, Centro de Atención y Valoración de Fauna Silvestre (CAVFS) y liberación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las actividades de rescate y reubicación consistieron en la formación de brigadas, las primeras fluviales que estaban conformadas por un profesional biólogo o médico veterinario (a cargo de la lancha Express), dos auxiliares y un operador de motor y las segundas terrestres conformadas por un profesional biólogo y dos auxiliares con experiencia en la captura y manipulación de la fauna silvestre. Se llegó a tener un total máximo de 14 brigadas fluviales y cuatro (4) terrestres, estas brigadas tenían como función hacer recorridos por agua y tierra a lo largo del embalse por ambas márgenes, realizando el rescate de los individuos con baja movilidad primordialmente presente en los lugares del PHI.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cada cuadrilla de rescate contaba con los equipos requeridos para realizar la captura de ejemplares como ganchos y pinzas herpetológicas, snakebag, nasas extensibles, pértigas de control, bolsas de tela, guacales, cajas plásticas, binoculares y cámaras fotográficas, además, de los elementos para protección personal, los individuos eran rescatados y depositados en las bolsas de tela y/o cajas plásticas para ser trasladados a su posterior reubicación por encima de la cota 420 msnm y en los sitios previamente aprobados para esta actividad, los cuales contaban con las condiciones ambientales óptimas para la supervivencia de las especies rescatadas; aquellos individuos que presentaran algún tipo de herida o dificultad para su desplazamiento eran evaluados por la lancha Express, la cual era liderada por un médico veterinario con experiencia en el manejo de fauna silvestre.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Después de la revisión y según el criterio del profesional, los organismos que necesitaran atención eran llevados al Centro de Atención de Fauna (CAF) para su recuperación, pero aquellos que necesitaran rehabilitación eran entregados al Centro de Atención y Valoración de fauna silvestre (CAV-EPM), en donde eran evaluados por los médicos veterinarios del lugar y allí les hacían la rehabilitación para su reubicación, ya que cuentan con el espacio y los equipos adecuados para esta actividad.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La zona de estudio corresponde al área de influencia del proyecto hidroeléctrico Ituango, cuyas obras principales se localizan sobre ambas márgenes del río Cauca entre las desembocaduras de los ríos San Andrés e Ituango, ubicados al norte del departamento de Antioquia y que corresponden a la cuenca media del río Cauca; las localidades específicas para realizar la evaluación fueron seleccionadas por EPM como áreas de compensación, ya adquiridas o en proceso de adquisición y que corresponden a posibles áreas para realizar la reubicación de fauna silvestre que lo requiera, durante las actividades de construcción del proyecto, con énfasis en la adecuación y llenado del embalse del mismo.
+Específicamente se desarrollaron las actividades en los municipios de Briceño, Buriticá, Ituango, Liborina, Peque, Sabanalarga, San Andrés de Cuerquía, Toledo, Valdivia, Yarumal y Yolombó, todos pertenecientes al departamento de Antioquia.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Realizar las actividades de campo que involucren la captura, el traslado y la reubicación en las áreas establecidas para tal efecto, de los individuos de fauna silvestre terrestre, susceptibles de afectación, debido a las actividades de adecuación y llenado del embalse, así como de construcción de vías de acceso, obras principales y de infraestructura asociada al proyecto.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Bajo criterios y estándares de calidad aplicados por el SiB Colombia, se realizaron procesos de estructuración, validación y limpieza con los datos obtenidos, ello asegura la disponibilidad a información precisa y veraz.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>ESTABLECER Y CARACTERIZAR LOS SITIOS ADECUADOS PARA ADELANTAR LAS ACTIVIDADES DE REUBICACIÓN DE FAUNA QUE SERÁ AFECTADA POR LAS ACTIVIDADES DE CONSTRUCCIÓN DEL PROYECTO HIDROELÉCTRICO ITUANGO</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Ángela María</givenName>
+                    <surName>Jaramillo Palacio</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Proyecto encaminado a la realización de un estudio que permita establecer cuáles son los sitios más favorables para adelantar las actividades de reubicación de fauna que puede resultar afectada por las actividades constructivas del proyecto, así como analizar la composición y estructura de la vegetación, la flora y la fauna (anfibios, reptiles, aves y mamíferos) en las zonas de vida bosque húmedo y bosque seco tropical.</para>
+                </abstract>
+                <funding>
+                    <para>Empresas Públicas de Medellín E.S.P. mediante Convenio Marco No. CT-2014-002211 con la Universidad Nacional de Colombia, sede Bogotá.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>La zona de estudio corresponde al área de influencia del Proyecto Hidroeléctrico Ituango, cuyas obras principales se localizan sobre ambas márgenes del río Cauca entre las desembocaduras de los ríos San Andrés e Ituango, ubicados al norte del departamento de Antioquia y que corresponden a la cuenca media del río Cauca; las localidades específicas para realizar la evaluación fueron seleccionadas por EPM como áreas de compensación, ya adquiridas o en proceso de adquisición y que corresponden a posibles áreas para realizar la reubicación de fauna silvestre que lo requiera, durante las actividades de construcción del proyecto, con énfasis en la adecuación y llenado del embalse del mismo</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:55Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/rvr01t">Jaramillo Palacio Á M, Aguirre Ceballos J, Arias J C, Bernal González V A, Bonilla González J C, Mendoza Polo I M, Montenegro Díaz O L, Prieto Cruz A, Rodríguez J, Rudas Lleras A, Serrano H A, Sánchez Cruz H, Universidad Nacional de Colombia, Consorcio CCC Ituango, Consorcio MISPE Ituango (2024). Fauna silvestre reubicada en el marco del Proyecto Hidroeléctrico Ituango. Version 1.1. Empresas Públicas de Medellín E.S.P.. Occurrence dataset https://doi.org/10.15472/rvr01t accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-epm.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

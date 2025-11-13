@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="720f38cf-87a1-48f2-b8c9-688d0ad82698"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/u0vwjb</alternateIdentifier>
+        <alternateIdentifier>720f38cf-87a1-48f2-b8c9-688d0ad82698</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=rrbb_reptilia_bojonawi_2020</alternateIdentifier>
+        <title>Información morfo métrica y de peso de las tortugas acuáticas y los crocodílidos de la Reserva Natural Bojonawi (Vichada) en la temporada de aguas altas</title>
+        <creator>
+            <individualName>
+                <givenName>Monica Andrea</givenName>
+                <surName>Morales Betancourt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 28a # 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>mmorales@humboldt.org.co</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Monica Andrea</givenName>
+                <surName>Morales Betancourt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 28a # 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>mmorales@humboldt.org.co</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Infraestructura Institucional de Datos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Calle 28A No. 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Monica Andrea</givenName>
+                <surName>Morales Betancourt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 28a # 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>mmorales@humboldt.org.co</electronicMailAddress>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Beyker</givenName>
+                <surName>Castañeda</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Contratista</positionName>
+            <address>
+                <deliveryPoint>Calle 84 # 21-47</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>2564682</phone>
+            <electronicMailAddress>beykeromacha@gmail.com</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Brayan</givenName>
+                <surName>Marín</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Contratista</positionName>
+            <address>
+                <deliveryPoint>Calle 84 # 21-47</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>2564682</phone>
+            <electronicMailAddress>brayanrodrigez174@gmail.com</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Carlos</givenName>
+                <surName>Lasso</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 28A # 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>classo@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2022-02-17
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Con el fin de conocer la riqueza de las tortugas acuáticas y crocodílidos de la Reserva Natural Bojonawi (Vichada), se realizaron búsquedas libres (VES) en la estación climática de aguas altas (julio-diciembre) de 2020. Se capturaron 50 individuos, 33 tortugas (Chelidae y Podocnemididae) y 17 individuos de crocodílidos (Alligatoridae), a estos individuos se les tomo información sobre la talla, peso, sexo y estado de desarrollo.
+        </abstract>
+        <keywordSet>
+            <keyword>Crocodylia</keyword>
+            <keyword>talla</keyword>
+            <keyword>peso</keyword>
+            <keyword>Testudines</keyword>
+            <keyword>Orinoquia</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=rrbb_reptilia_bojonawi_2020</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/iavh/archive.do?r=rrbb_reptilia_bojonawi_2020</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Colombia, departamento Vichada, municipio de Puerto Carreño, humedales de la Reserva Natural Privada Bojonawi</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-67.539</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-67.486</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.11</northBoundingCoordinate>
+                    <southBoundingCoordinate>6.064</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2020-07-29
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2020-12-13
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Se registraron cinco especies de tortugas, cuatro de la familia Podocnemidae y una especie de Chelidae (Chelus orinosensis) y dos especies de la familia Alligatoridae (Caiman crocodilus y Paleosuchus plapebrosus) de la Reserva Natural Bojonawi (Vichada).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Paleosuschus palpebrosus</taxonRankValue>
+                    <commonName>Cachirre</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Caiman crocodilus</taxonRankValue>
+                    <commonName>Babilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Peltocephalus dumeriliianus</taxonRankValue>
+                    <commonName>Cabezón</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chelus orinocensis</taxonRankValue>
+                    <commonName>Matamata</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Podocnemis expansa</taxonRankValue>
+                    <commonName>Charapa</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Podocnemis unifilis</taxonRankValue>
+                    <commonName>Terecay</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Podocnemis vogli</taxonRankValue>
+                    <commonName>Sabanera</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Inventariar y tomar información biológica de las tortugas acuáticas y crocodílidos de la Reserva Natural Bojonawi (Vichada) en la estación climática de aguas altas (julio-diciembre) de 2020.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Monica Andrea</givenName>
+                <surName>Morales Betancourt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 28a # 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>mmorales@humboldt.org.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>El registro y captura de individuos siguió el método de inspección visual con captura manual, realizando salidas nocturnas entre las 19:00-23:00 horas principalmente, recorriendo a pie las orillas de los caños o dentro del caño en aguas someras y alumbrando con una linterna el cuerpo de agua para detectar los animales; en aguas más profundas el muestreo se realizó mediante inmersiones subacuáticas. Para la captura de tortugas es mediante captura manual y para la captura de cocodrilidos se puede con las manos si el individuo es de tallas menores, ahí se proceda rápidamente a cogerlo del cuello (aproximando ambas manos desde la parte de atrás del animal); el cuerpo y la cola deben inmovilizarse dejando caer todo el cuerpo del operador sobre el animal, con ambas rodillas puede apretarse y/o sujetar al ejemplar. Para la captura con lazo, no dejar de alumbrar el animal, desplazar el aro del lazo por entre la cabeza del animal hasta la nuca, ajustar el aro del lazo jalando la guaya del otro extremo, este movimiento debe ser muy rápido para que no se escape el animal. Ubique el animal fuera del agua (tierra o embarcación), jalando el lazo e movilice.
+Los individuos capturados se llevaron a la estación donde se les tomaron las medidas morfométricas, en el caso de las tortugas longitud recta del caparazón, ancho recto del caparazón y longitud recta del plastrón y en el caso de los cocodrilos la longitud total,  con una cinta métrica. Se pesaron con una balanza digital de 50 kg (± 0,5 g). Se registró el sexo mediante inspección externa de los caracteres secundarios de cada especie.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La Reserva Natural Bojonawi se encuentra ubicada en la parte nororiental de la cuenca del Orinoco, en el departamento de Vichada dentro de la jurisdicción del municipio de Puerto Carreño. Limita al norte con caño Negro, al occidente con caño Verde -denominado en la cartografía caño Amarillo-, al oriente con el río Orinoco que es frontera con Venezuela y al sur con caño Tesoro. La toma de información se realizó principalmente en la laguna El Pañuelo, la cual está conectada con el río Orinoco durante la época de lluvias, y sus caños o brazos afluentes (Charapa, Herradura, Temblón, El Puente); y caño de aguas claras caño Tesoro.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se capturaron individuos de tortugas y crocodílidos en la Reserva Bojonawi, la busquéda de los individuos siguió el método de inspección visual y la captura fue manual, en el caso de tortugas y con lazo en el caso de los crocodílidos. Los individuos se llevaron a la estación donde se les tomaron las medidas morfométricas, se pesaron y sexaron.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Riqueza hidrobiológica de la Orinoquia y su contribución a la conservación de la biodiversidad regional, caso de estudio Reserva Natural Privada Bojonawi, ubicada en Puerto Carreño, Vichada</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Monica Andrea</givenName>
+                    <surName>Morales Betancourt</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Resolución 0041 de 2020, Ministerio de Ambiente y Desarrollo Sostenible</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>La Reserva Natural Bojonawi se encuentra ubicada en la parte nororiental de la cuenca del Orinoco, en el departamento de Vichada dentro de la jurisdicción del municipio de Puerto Carreño. El  clima es cálido semihúmedo. Hace parte de la red de reservas del nodo Orinoco y también está incluida en la Reserva de la Biosfera El Tuparro. La RNB tiene una extensión de 4.682 ha. Se ubica entre los 06° 07´ y 06° 04´ latitud norte y los 67° 29´ y 67° 32´ de longitud oeste, a 15 km al sur occidente de Puerto Carreño. La altura va de los 47 a los 168 m s.n.m. Limita al norte con Caño Negro, al occidente con caño Verde -denominado en la cartografía caño Amarillo-, al oriente con el río Orinoco que es frontera con Venezuela y al sur con caño Tesoro.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Una de las eco regiones estratégicas más importantes del mundo es la cuenca del Orinoco, se encuentra dentro de las diez cuencas más importantes para el mantenimiento de la biodiversidad mundial. En esta cuenca el Instituto Humboldt ha realizado diferentes prospecciones para la toma de información primaria de recursos hidrobiológicos. Dado que la Orinoquia colombiana tiene el 48% (14 especies) de las tortugas continentales registradas para Colombia, solo dos son de hábitos terrestres y en el caso de los cocodrílidos se encuentra el 50% de las especies con representación de las dos familias presentes en Colombia; y la falta de información de las especies en la región, se decidió continuar con los estudios de algunos aspectos sobre la biología de las diferentes especies. Para esto se trabajo en convenio entre el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y la Fundación Omacha para realizar la toma de información biológica y poblacional de las tortugas acuáticas y crocodílidos en la Reserva Natural Privada Bojonawi entre agosto y diciembre de 2020, con el fin de generar información básica para apoyar las diferentes estrategias de conservación.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:35Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/u0vwjb">Morales Betancourt M A (2022). Información morfo métrica y de peso de las tortugas acuáticas y los crocodílidos de la Reserva Natural Bojonawi (Vichada) en la temporada de aguas altas. Version 1.1. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/u0vwjb accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>Información morfo métrica y de peso de las tortugas acuáticas y los crocodílidos de la Reserva Natural Bojonawi (Vichada) en la temporada de aguas altas</objectName>
+                    <characterEncoding>utf-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>txt</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_reptilia_bojonawi_2020</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/iavh.jpg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>NA</parentCollectionIdentifier>
+                    <collectionIdentifier>NA</collectionIdentifier>
+                    <collectionName>NA</collectionName>
+                </collection>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

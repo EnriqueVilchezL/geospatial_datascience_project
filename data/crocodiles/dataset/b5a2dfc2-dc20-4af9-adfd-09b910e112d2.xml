@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="b5a2dfc2-dc20-4af9-adfd-09b910e112d2"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/xj7bup</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iiap/resource?r=reptileslagunasbaudo</alternateIdentifier>
+        <alternateIdentifier>doi:10.15472/bqtnks</alternateIdentifier>
+        <title>Caracterización de Reptiles de las lagunas del municipio del Medio Baudó</title>
+        <creator>
+            <individualName>
+                <givenName>Nelsy Sofia</givenName>
+                <surName>Urrutia</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName>
+            <positionName>Investigadora contratista</positionName>
+            <address>
+                <deliveryPoint>Carrera sexta numero 37-39</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <postalCode>+57</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+5746709126</phone>
+            <electronicMailAddress>sofibon@gmail.com</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Jimmy</givenName>
+                <surName>Moya Robledo</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName>
+            <positionName>investigador contratista</positionName>
+            <address>
+                <deliveryPoint>Carrera 6 # 37-39</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <postalCode>+57</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+5746709126</phone>
+            <electronicMailAddress>zvaloyes@iiap.org.co</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Instituto de Investigaciones Ambientales del Pacífico</givenName>
+                <surName>IIAP</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName>
+            <positionName>Institución investigadora</positionName>
+            <address>
+                <deliveryPoint>Carrera 6 # 37-39</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <postalCode>+57</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>46709126</phone>
+            <electronicMailAddress>iiap@iiap.org.co</electronicMailAddress>
+            <role>OWNER</role>
+        </associatedParty>
+        <pubDate>
+                2019-07-07
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Las lagunas o humedales  cumplen una función ecologica muy importante dado que estos pueden soportar parte de la diversidad biológica de un territorio, propendiendo por la conservación de la misma y de su función de proveer bienes y servicios ambientales a las comunidades etnicas alli asentadas siendo indudablemente este aspecto fundamental en el crecimiento y desarrollo adecuado de una región .  
+
+Las lagunas del Choco Biogeográfico se caracteizan  además por sus funciones de vital importancia en el desarrollo de elementos bioticos, como sitios de control de inundaciones, ecosistemas para la recreación, turismo, descanso, despensa para el crecimiento y desarrollo  de peces basicos en la dieta alimenticia de los pobladores locales,  ademas de esto encontramos en las lagunas atributos bioecologicos   inigualables destacando que son reservorios  de  flora y fauna de carácter especial (aluvial) donde se desarrolla toda la cadena trofica desde algas, macrofitas, perifiton, fitoplancton, zooplancton, invertebrados, insectos, macroinvertebrados, vertebrados, peces, anfibios, reptiles, aves y mamíferos  etc.
+
+En este orden de ideas suele considerarse importante, el desarrollo de inventarios y monitoreos ecologicos rapidos de la fauna que habita estos  ecosistemas que conforman parte integral de la biota natural del Chocó biogeográfico,  ya que apartir de este tipo de estudios se pueden obtener datos particulares de la composición  estructura y la dinamica de las entidades biologicas que allí confluyen y entender procesos ecologicos y adaptativos en tiempo y espacio, lo cual en un futuro, se puede consolidar  como un instrumento clave y determinante para la generación de estrategias plausibles  en terminos de conservación.  Dado lo anterior y teniendo en cuenta la importancia de estos estudios. (en el Plan Operativo Anual POA del Instituto de Investigaciones Ambientales del Pacifico) Se busco inventariar y monitorear la comunidad de herpetos presente en lagunas del municipio de Medio Baudó ubicadas  en los corregimientos de Almendró y Bellavista los cuales se  encontrados a orillas del Río  Berre Berre tributario del Río Baduo.  Estos datos además serviran para la incorporación de información base que historicamente se viene  incorporando en el conocimiento de los ecosistemas naturales del Chocó Biogeográfico. Por lo cual en el presente documento se describen aspectos ecologicos detallados de la fauna de herpetos (anfibios y reptiles) que habitan  estos ecosistmas hidricos de municipio de Medio Baudó.
+        </abstract>
+        <keywordSet>
+            <keyword>Herpetofauna del Chocó</keyword>
+            <keyword>Occurrence</keyword>
+            <keyword>reptiles del Baudó</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>IIAP</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://ipt.biodiversidad.co/iiap/resource?r=reptileslagunasbaudo</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/iiap/archive.do?r=reptileslagunasbaudo</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El presente estudio se desarrollo sobre un complejo lagunar ubicado en los corregimientos de Almendró y Bellavista, municipio del Medio Baudó, este conjunto de lagunas se forman principalmente en zonas planas o depresivas de la localidad que se inundan en epocas de 3fuertes lluvias que generan la creciente del Rio Berre berre su principal afluente, durante estas epocas se crean estos cuerpos de agua temporales y permanentes cuya alimentación hidrica esta relacionada constantemente con el regimen de lluvias dado que la comunicación con el rió principal no es constante unicamente se presenta cuando este desborda su cauce, por lo cual no se genera un flujo continuo con este tributario.  
+
+Las lagunas seleccionadas corresponden a  tres : 1. laguna Caleta N 05 17 37.9 W 076 54 28.3,  2. Laguna  el Indio N 05 17 56.9 W 076 54 28.5 ubicadas sobre el corregimiento de Almendró  y  3. Laguna de Maria ubicada en el corregimiento de Bellavista.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-76.908</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-76.868</eastBoundingCoordinate>
+                    <northBoundingCoordinate>5.378</northBoundingCoordinate>
+                    <southBoundingCoordinate>5.294</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2017-09-26
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2017-10-30
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Durante el inventario se observaron 37 individuos, pertenecientes a 8 especies, 7 géneros y 6 familias de anfibios. la comunidad herpetológica está estrechamente asociada con los diferentes hábitats y microhabitats que confluyen en estas lagunas temporales y permanentes. 
+
+Entre las especies registradas las más abundantes fueron Ameiva ameiva y Anolys granuliceps la primera con 12 individuos y la segunda con ocho, las siete especies restantes tuvieron una representación entre uno y máximo seis individuos, sin embargo estos números nos dan una idea de la composición y estructura de la fauna de reptiles del complejo de lagunas de la localidad en tiempo y espacio puesto que es posible que el numero de reptiles sea mucho mayor acorde con la información previamente suministrada por porbladores locales quienes destacan la presencia de un numero indeterminado de serpientes y tortugas.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ameiva ameiva</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis granuliceps</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis maculiventis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Anolis sp.</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Basilliscus basilliscus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Boa constrictor</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Caiman crocodylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Holcosus anomalus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lepidoblepharis peruvianus</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Zulmary</givenName>
+                <surName>Valoyes</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName>
+            <positionName>Investigador principal componente ecosistémico</positionName>
+            <address>
+                <deliveryPoint>Carrera 6 # 37-39</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <postalCode>+57</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+5746709126</phone>
+            <electronicMailAddress>zvaloyes@iiap.org.co</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Jimmy</givenName>
+                <surName>Moya Robledo</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName>
+            <positionName>Investigador contratista</positionName>
+            <address>
+                <deliveryPoint>Carrera 6 # 37-39</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <postalCode>+57</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+5746709126</phone>
+            <electronicMailAddress>zvaloyes@iiap.org.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Véase descripción del muestreo</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Para la caracterización ecológica de la fauna de vertebrados presente en el  complejo de lagunas del Medio Baudó, se seleccionaron múltiples sitios, atendiendo los requerimientos ecológicos de los herpetos en general partiendo exclusivamente de la metodología aplicada para este grupo biológico y complementados con la revisión de la información existente sobre estos para la zona o ecosistemas aledaños. En este sentido se empleo la técnica directa de trabajo Inspección por Encuentro Visual (VES), para la cual se desarrollaron muestreos diurnos, en los diferentes tipos de coberturas que se observaron alrededor de las lagunas efectuando recorridos en busca de individuos que se encontraran asociados a la vegetación, al borde del cuerpo de agua o los encontrados al remover troncos del suelo y hojarasca (Heyer et al. 1994).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Particularmente se inspeccionaron tres lagunas dos del corregimiento de Almendró (La caleta N 05 17 37.9 W 076 54 28.3  El Indio N 05 17 56.9 W 076 54 28.5)  y la Laguna de Maria ubicada a un costado del caserio Bellavista  N 05 22 42 W 76 52 05
+
+Estos reportes fueron complementados con registro indirectos realizados mediante charlas con personas claves de la comunidad, que posteriormente fueron corroborados con la ayuda de la distribución potencial y ecología de las especies identificadas.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Para la preparación de los ejemplares capturados se siguió la metodología estandarizada utilizada por Rengifo (2002), que básicamente consiste en sacrificarlos individuos con un anestésico (roxicaina), fijarlos en formol al 10% y conservarlos en alcohol al 70%. Finalmente los organismos fueron identificados co claves de Rengifo &amp; Lumberg 1999, Lynch 1991, Ibañez 1999.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Caraterización ecológica de las lagunas del municipio del Medio Baudó (corregimientos del Almendro y Bella Vista), Chocó</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Zulmary</givenName>
+                    <surName>Valoyes</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <abstract>
+                    <para>Las lagunas o humedales  cumplen una función ecologica muy importante dado que estos pueden soportar parte de la diversidad biológica de un territorio, propendiendo por la conservación de la misma y de su función de proveer bienes y servicios ambientales a las comunidades etnicas alli asentadas siendo indudablemente este aspecto fundamental en el crecimiento y desarrollo adecuado de una región .  
+
+Las lagunas del Choco Biogeográfico se caracteizan  además por sus funciones de vital importancia en el desarrollo de elementos bioticos, como sitios de control de inundaciones, ecosistemas para la recreación, turismo, descanso, despensa para el crecimiento y desarrollo  de peces basicos en la dieta alimenticia de los pobladores locales,  ademas de esto encontramos en las lagunas atributos bioecologicos   inigualables destacando que son reservorios  de  flora y fauna de carácter especial (aluvial) donde se desarrolla toda la cadena trofica desde algas, macrofitas, perifiton, fitoplancton, zooplancton, invertebrados, insectos, macroinvertebrados, vertebrados, peces, anfibios, reptiles, aves y mamíferos  etc.
+
+En este orden de ideas suele considerarse importante, el desarrollo de inventarios y monitoreos ecologicos rapidos de la fauna que habita estos  ecosistemas que conforman parte integral de la biota natural del Chocó biogeográfico,  ya que apartir de este tipo de estudios se pueden obtener datos particulares de la composición  estructura y la dinamica de las entidades biologicas que allí confluyen y entender procesos ecologicos y adaptativos en tiempo y espacio, lo cual en un futuro, se puede consolidar  como un instrumento clave y determinante para la generación de estrategias plausibles  en terminos de conservación.  Dado lo anterior y teniendo en cuenta la importancia de estos estudios. (en el Plan Operativo Anual POA del Instituto de Investigaciones Ambientales del Pacifico) Se busco inventariar y monitorear la comunidad de herpetos presente en lagunas del municipio de Medio Baudó ubicadas  en los corregimientos de Almendró y Bellavista los cuales se  encontrados a orillas del Río  Berre Berre tributario del Río Baduo.  Estos datos además serviran para la incorporación de información base que historicamente se viene  incorporando en el conocimiento de los ecosistemas naturales del Chocó Biogeográfico. Por lo cual en el presente documento se describen aspectos ecologicos detallados de la fauna de herpetos (anfibios y reptiles) que habitan  estos ecosistmas hidricos de municipio de Medio Baudó.</para>
+                </abstract>
+                <funding>
+                    <para>IIAP</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El presente estudio se desarrollo sobre un complejo lagunar ubicado en los corregimientos de Almendró y Bellavista, municipio del Medio Baudó, este conjunto de lagunas se forman principalmente en zonas planas o depresivas de la localidad que se inundan en epocas de 3fuertes lluvias que generan la creciente del Rio Berre berre su principal afluente, durante estas epocas se crean estos cuerpos de agua temporales y permanentes cuya alimentación hidrica esta relacionada constantemente con el regimen de lluvias dado que la comunicación con el rió principal no es constante unicamente se presenta cuando este desborda su cauce, por lo cual no se genera un flujo continuo con este tributario.  
+
+Las lagunas seleccionadas corresponden a  tres : 1. laguna Caleta N 05 17 37.9 W 076 54 28.3,  2. Laguna  el Indio N 05 17 56.9 W 076 54 28.5 ubicadas sobre el corregimiento de Almendró  y  3. Laguna de Maria, ubicada en el corregimiento de Bellavista.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>La estructura metodológica  que se desarrolló para el presente proyecto de investigación está constituida en tres etapas, en la primera se levantó y consolido la línea base de información disponible sobre el tema en el área de estudio; la segunda se refirió al levantamiento de información en campo relacionada con el análisis de estado de la fuente hídrica en sus componentes físicos, biológicos y socioculturales y la tercera etapa consistió en el análisis de los resultados obtenidos durante el desarrollo de la investigación.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:20Z</dateStamp>
+                <citation identifier="http://doi.org/10.15472/xj7bup">Urrutia N S, Moya Robledo J (2019). Caracterización de Reptiles de las lagunas del municipio del Medio Baudó. Instituto de Investigaciones Ambientales del Pacífico John Von Neumann - IIAP. Occurrence dataset https://doi.org/10.15472/xj7bup accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-iiap.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

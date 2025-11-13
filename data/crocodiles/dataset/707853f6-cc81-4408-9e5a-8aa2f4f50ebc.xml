@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="707853f6-cc81-4408-9e5a-8aa2f4f50ebc"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/5qftnw</alternateIdentifier>
+        <alternateIdentifier>707853f6-cc81-4408-9e5a-8aa2f4f50ebc</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=frontera_cubiro-copa</alternateIdentifier>
+        <title>Monitoreo de fauna y flora área de explotación Bloque Cubiro Copa San Luis de Palenque-Casanare</title>
+        <creator>
+            <individualName>
+                <surName>Frontera Energy Colombia Corp.</surName>
+            </individualName>
+            <organizationName>Frontera Energy Colombia Corp</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Calle 110 # 9-25</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>xcastro@fronteraenergy.ca</electronicMailAddress>
+            <onlineUrl>https://www.fronteraenergy.ca/es/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Geotec Ingenieria LTDA</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria LTDA</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 15 No. 92-29 ofc, 405</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>martha.mesa@geotecingenieria.com</electronicMailAddress>
+            <onlineUrl>https://geotecingenieria.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>ABC Colombia Somos Territorio</surName>
+            </individualName>
+            <organizationName>ABC Colombia Somos Territorio</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Cra 39 # 15-35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dir.biodiversidad@abccolombia.org</electronicMailAddress>
+            <onlineUrl>https://abccolombia.org/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Geotec Ingenieria LTDA</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria LTDA</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 15 No. 92-29 ofc, 405</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>martha.mesa@geotecingenieria.com</electronicMailAddress>
+            <onlineUrl>https://geotecingenieria.com/</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <surName>ABC Colombia Somos Territorio</surName>
+            </individualName>
+            <organizationName>ABC Colombia Somos Territorio</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Cra 39 # 15-35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dir.biodiversidad@abccolombia.org</electronicMailAddress>
+            <onlineUrl>https://abccolombia.org/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Martha Sofia</givenName>
+                <surName>Mesa González</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria LTDA</organizationName>
+            <positionName>Profesional ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 15 No. 92-29 ofc, 405</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Cundinamarca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>martha.mesa@geotecingenieria.com</electronicMailAddress>
+            <role>USER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Marcela</givenName>
+                <surName>Chaparro</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria LTDA</organizationName>
+            <positionName>Bióloga</positionName>
+            <address>
+                <deliveryPoint>Carrera 15 No. 92-29 ofc, 405</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Cundinamarca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>chaparromarcela423@gmail.com</electronicMailAddress>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Silvia</givenName>
+                <surName>Cely</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria LTDA</organizationName>
+            <positionName>Bióloga</positionName>
+            <address>
+                <deliveryPoint>Carrera 15 No. 92-29 ofc, 405</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Cundinamarca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>celyramirez17@hotmail.com</electronicMailAddress>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Yeison</givenName>
+                <surName>Tolosa</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria LTDA</organizationName>
+            <positionName>Biólogo</positionName>
+            <address>
+                <deliveryPoint>Carrera 15 No. 92-29 ofc, 405</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Cundinamarca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>ytolosa@outlook.com</electronicMailAddress>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Carolina</givenName>
+                <surName>Guzmán</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria LTDA</organizationName>
+            <positionName>Ingeniera Forestal</positionName>
+            <address>
+                <deliveryPoint>Carrera 15 No. 92-29 ofc, 405</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Cundinamarca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>forestalcgs@gmail.com</electronicMailAddress>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Yeison Fernando</givenName>
+                <surName>Perez Cardenas</surName>
+            </individualName>
+            <organizationName>ABC Colombia Somos Territorio</organizationName>
+            <positionName>Profesional Ambiental</positionName>
+            <address>
+                <deliveryPoint>Cra 39 # 15 -35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <postalCode>850001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>yeison.perez@abccolombia.org</electronicMailAddress>
+            <onlineUrl>https://abccolombia.org/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">yeison-perez-ambientalhseq032/</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Beatriz</givenName>
+                <surName>Ramírez</surName>
+            </individualName>
+            <organizationName>ABC Colombia Somos Territorio</organizationName>
+            <positionName>Directora Conservación</positionName>
+            <address>
+                <deliveryPoint>Cra 39 # 15 -35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <postalCode>850001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dir.biodiversidad@abccolombia.org</electronicMailAddress>
+            <onlineUrl>https://abccolombia.org/</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0003-4368-4003</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Carolina</givenName>
+                <surName>Valencia</surName>
+            </individualName>
+            <organizationName>ABC Colombia Somos Territorio</organizationName>
+            <positionName>Mastozoóloga</positionName>
+            <address>
+                <deliveryPoint>Cra 39 # 15 -35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <postalCode>850001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>carolinapb09@gmail.com</electronicMailAddress>
+            <userId directory="http://www.researcherid.com/rid/">profile/Carolina-Valencia-Berrio</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Wilmer</givenName>
+                <surName>Gutierrez</surName>
+            </individualName>
+            <organizationName>ABC Colombia Somos Territorio</organizationName>
+            <positionName>Herpetólogo</positionName>
+            <address>
+                <deliveryPoint>Cra 39 # 15 -35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <postalCode>850001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gutierrezwilmer94@gmail.com</electronicMailAddress>
+            <userId directory="https://www.linkedin.com/profile/view?id=">wilmer-alejandro-gutierrez-lozano</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Jhonny</givenName>
+                <surName>Riay</surName>
+            </individualName>
+            <organizationName>ABC Colombia Somos Territorio</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Cra 39 # 15 -35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <postalCode>850001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>agroforestaldaniel@gmail.com</electronicMailAddress>
+            <onlineUrl>https://abccolombia.org/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">jhonny-riay-b0aa698b/?trk=contact-info</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Cándida</givenName>
+                <surName>Caicedo</surName>
+            </individualName>
+            <organizationName>ABC Colombia Somos Territorio</organizationName>
+            <positionName>Ornitóloga</positionName>
+            <address>
+                <deliveryPoint>Cra 39 # 15 -35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <postalCode>850001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>candida.caicedo@unillanos.edu.co</electronicMailAddress>
+            <onlineUrl>https://abccolombia.org/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">candida-caicedo-6001b3225/?originalSubdomain=co</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2025-09-19
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El Bloque Cubiro Copa licenciado mediante R0132 del 12 de febrero de 2013 la Autoridad Nacional de Licencias Ambientales (ANLA) establece dentro de sus obligaciones contempladas en el plan de monitoreo y seguimiento, la cual se propone realizar el monitoreo continuo de las actividades de protección de la población de fauna silvestre del garcero y evaluar el estado de dicho ecosistema durante todo el proceso de ejecución del proyecto Campo de Desarrollo Copa, por ello Frontera Energy desarrolló monitoreos para establecer las potenciales afectaciones sobre la biodiversidad asociada a los garceros aledaños al proyecto. </para><para>Dando continuidad y cumplimiento a la obligación, se desarrollaron monitoreos de fauna para los cuatro grupos faunísticos (aves, mamíferos, reptiles y anfibios) de vertebrados de mayor relevancia durante el mes de noviembre del año 2023, aplicando metodologías de transectos de ancho y largo variable, redes de niebla, cámaras trampa, trampas Tomahawk y trampas Sherman, con la participación de biólogos especialistas en los diferentes grupos biológicos. Para flora se realizaron mediante parcelas de 10x10 para fustales.</para><para>El recurso consta de 820 registros biológicos obtenidos en el mes de noviembre del año 2023, en las áreas aledañas al Bloque Cubiro Copa, ubicado en San Luis de Palenque, Casanare. Abarca una cobertura taxonómica distribuida en cuatro clases para fauna y tres clases para flora: Aves (168), Amphibia (18), Mammalia (57), Reptilia (24), Magnoliopsida (528), Liliopsida (12) y Polypodiopsida (13), agrupados en 41 órdenes, 90 familias, 156 géneros y 169 especies.</para><para>Adicionalmente, reúne 2.276 registros biológicos obtenidos entre el 04 al 15 de junio de 2025 del monitoreo de flora y fauna del campo de explotación de hidrocarburos Cubiro Copa (Expediente LAM 5557) , ubicado en los municipios de Orocué (Casanare) y operado por Frontera Energy Corp. El trabajo en campo abarcó los grupos taxonómicos de plantas, anfibios, reptiles, aves y mamíferos. Las áreas de muestreo se distribuyeron en predios de la vereda El Tigre. Así mismo se realizaron censos de flora y fauna en los alrededores de plataformas petroleras.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Casanare</keyword>
+            <keyword>Diversidad</keyword>
+            <keyword>monitoreo</keyword>
+            <keyword>petroleras</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Conservación</keyword>
+            <keyword>Cubiro Copa</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=frontera_cubiro-copa</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El Campo de Desarrollo Copa se encuentra ubicado en el municipio de San Luis de Palenque en el departamento de Casanare, tiene una extensión de 6.681,48 hectáreas, las coberturas priorizadas, de acuerdo con la exigencia de la Autoridad Ambiental, se centraron en zonas de garcero, las cuales fueron abordadas en aquellos predios que permitieron y aseguraron el acceso del equipo de consultores. Las unidades de cobertura sobre las cuales se realizó levantamiento de información de fauna y/o flora en la fase de campo corresponden a zonas aledañas o coberturas asociadas a garceros como son: pastos limpios, bosques de galería y/o ripario, herbazal denso inundable no arbolado y herbazal denso inundable arbolado.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-71.227</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-71.193</eastBoundingCoordinate>
+                    <northBoundingCoordinate>5.138</northBoundingCoordinate>
+                    <southBoundingCoordinate>5.112</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-11-10
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-11-15
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2025-06-04
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2025-06-15
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El componente flora está compuesto por 118 especies de plantas (1.027 registros biológicos) distribuidas en tres clases (Liliopsida, Magnoliopsida y Polypodiopsida), 27 ordenes y 60 familias. Del total, se identificó un 75.5% a nivel de especie y un 23% a nivel de género.
+
+Los grupos se eligieron por su sensibilidad a la alteración de los ecosistemas.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gentianales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sapindales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rosales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Myrtales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Arecales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dilleniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fabales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Asterales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lamiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malvales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Polypodiales</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El componente fauna está conformada por las clases (Mammalia, Aves, Crocodylia, Squamata y Amphibia). La clase Mammalia, para este conjunto de datos está conformada por 46 especies distribuidas en 8 órdenes y 21 familias. La clase Amphibia esta compuesta por 19 especies distribuidas en 1 orden y 3 familias. La clase Aves, está conformada por 177 especies distribuidas en 21 órdenes y 50 familias. Para los Crocodylia está conformada por 1 especies. La clase Squamata esta compuesta por 19 especies distribuidas en 9 familias y la clase Testudines esta compuesta por 2 especies distribuidas en 2 familias. 
+Del total, el 99.3% se identificó a nivel de especie y el 0.6% a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rodentia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Didelphimorphia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Carnivora</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Artiodactyla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pilosa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cingulata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Chiroptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Primates</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apodiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Passeriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Piciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ciconiiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Galliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Accipitriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Psittaciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Columbiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cuculiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Falconiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Strigiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gruiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pelecaniformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Charadriiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anseriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Suliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coraciiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Ximena Andrea</givenName>
+                <surName>Castro Ordóñez</surName>
+            </individualName>
+            <organizationName>Frontera Energy Colombia Corp</organizationName>
+            <positionName>Profesional ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 110 # 9-25</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>xcastro@fronteraenergy.ca</electronicMailAddress>
+            <onlineUrl>https://www.fronteraenergy.ca/es/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">/in/ximena-andrea-castro-o-32138a71/</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Martha Sofía</givenName>
+                <surName>Mesa González</surName>
+            </individualName>
+            <organizationName>Geotec Ingenieria LTDA</organizationName>
+            <positionName>Profesional ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 15 No. 92-29 ofc, 405</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>martha.mesa@geotecingenieria.com</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Beatriz</givenName>
+                <surName>Ramírez</surName>
+            </individualName>
+            <organizationName>ABC Colombia Somos Territorio</organizationName>
+            <positionName>Directora Conservación</positionName>
+            <address>
+                <deliveryPoint>Cra 39 # 15 -35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dir.biodiversidad@abccolombia.org</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-4368-4003</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Se realizaron transectos de observación e instalación de cámaras trampa, trampas Tomahawk, trampas Sherman  y redes de niebla.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se generó un registro fotográfico de las especies encontradas, dentro de lo posible</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La mayoría de la las capturas y observaciones fueron identificas en campo utilizando claves taxonómicas para cada grupo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las demás se identificaron en oficina, con ayuda de expertos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se tabularon los datos, organizaron y publicaron.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Anfibios y reptiles: búsqueda no dirigida, que consiste en recorrer las diferentes unidades del paisaje buscando individuos en micro hábitats preferidos; Las especies detectadas fueron fotografiadas in situ. Los muestreos se realizaron de 7:00 a 11:00 horas y de 18:00 a 22:00 horas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: a)	Censos visuales y auditivos en puntos de observación a lo largo de puntos en la tarde de las 15:00 a 18:00 horas.
+b) 120 m de redes de niebla que se abrieron de 6:00 a 10:00 horas. Las redes de niebla se ubicaron en 8 puntos de muestreo. Los individuos capturados fueron liberados en el mismo lugar luego de su identificación taxonómica.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos
+a) Censos visuales en puntos de observación a lo largo de transectos en la tarde de las 15:00 a las 18:00 horas.
+b) Treinta y seis cámaras trampa distribuidas en 12 cámaras por sector instaladas a 40 cm del suelo, ubicadas de manera aleatoria dentro de coberturas boscosas. En la ubicación de cámara trampa se pusieron cebos (mantequilla de maní, sardinas o atún) a 1 m de distancia de la cámara. Cada cámara se programó para estar activa durante los 10 días de monitoreo las 24 horas y grabar videos de 15 segundos (Mosquera-Guerra et al., 2018). 
+c) 120 m de redes de niebla que se abrieron de 18:00 a 22:00 horas. Las redes de niebla se ubicaron en 8 puntos de muestreo. Los individuos capturados fueron liberados en el mismo lugar luego de su identificación taxonómica.
+d) Se instalaron 5 trampas Tomahawk y 10 trampas Sherman con cebos de mantequilla de maní o sardinas, durante 9 días. Estas trampas se revisaron todos los días en horas de la mañana.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Flora:
+•Parcelas/transectos de 0.01 ha (2 x 50 m), equivalentes a 0.3 ha, para fustales en coberturas de bosques con parcelas anidadas de regeneración de 2x2 m para brinzales y 5x5m para latizales.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El Campo de Desarrollo Copa se encuentra ubicado en el municipio de San Luis de Palenque en el departamento de Casanare, tiene una extensión de 6.681,48 hectáreas, las coberturas priorizadas, de acuerdo con la exigencia de la Autoridad Ambiental, se centraron en zonas de garcero, las cuales fueron abordadas en aquellos predios que permitieron y aseguraron el acceso del equipo de consultores. Las unidades de cobertura sobre las cuales se realizó levantamiento de información de fauna y/o flora en la fase de campo corresponden a zonas aledañas o coberturas asociadas a garceros como son: pastos limpios, bosques de galería y/o ripario, herbazal denso inundable no arbolado y herbazal denso inundable arbolado.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Transectos de ancho y largo variable, redes de niebla (10 de 12 metros para aves y quiropteros), 30 cámaras trampa, cinco trampas Tomahawk y 30 trampas Sherman, con la participación de biólogos especialistas en los diferentes grupos biológicos. Para flora se realizaron mediante parcelas de 10x10 para fustales. Ubicadas en coberturas naturales y seminaturales.
+
+Anfibios: Puntos de observación en recorridos de búsqueda libre 144 horas /persona
+Reptiles: Puntos de observación en recorridos de búsqueda libre 144 horas /persona
+Aves: Puntos de observación en transectos de ancho variable 72 horas/persona Redes de niebla (120 m * 4 h/día * 9 días) 360 horas/red
+Mamíferos: Cámaras trampa (n= 36 * 9 días) 7776 horas/cámara
+Puntos de observación en transectos de ancho variable 54 horas/persona
+Redes de niebla (120 m * 4 h/noche* 9 noches) 360 horas/red
+Trampas Tomahawk (5 trampas * 9 días) 1080 horas/trampa
+Trampas Sherman (10 trampas *9 días)	2160 horas/trampa
+Se abarcaron las siguientes coberturas: Bosques de galería y riparios (314), Vegetación secundaria (323), Herbazal denso (321), Pastos limpios (231) y Mosaico de pastos con espacios naturales (244). En esta temporada del año, se presenta un aumento de los picos de lluvias e inician los desbordes de caños e inundaciones dependiendo de la topografía del terreno. Para el muestreo de fauna se siguieron metodologías estandarizadas, establecidas en el Manual de métodos para el desarrollo de inventarios de biodiversidad</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Los datos se colectan en campo empleando un formato en Excel diseñado para obtener la información necesaria para la generación de las capas y tablas de la GDB y desarrollar los análisis de datos. Una vez se reciben las matrices de datos se desarrolla un proceso de revisión y validación que consiste en:
+ 
+1. Corroborar que hay correspondencia entre los ID de los puntos de muestreo con los ID de los registros de muestreo. 
+2. Validar los nombres científicos de acuerdo con el GBIF. 
+3. Comprobar que las coordenadas coincidan con el área de estudio y los sectores seleccionados.
+4. Validar las opciones de los diferentes campos requeridos en la GDB</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Monitoreo de fauna y flora área de explotación Bloque Cubiro Copa San Luis de Palenque-Casanare</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Ximena Andrea</givenName>
+                    <surName>Castro Ordóñez</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Frontera Energy Corp.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El Campo de Explotación de Hidrocarburos Cubiro Copa se localiza en el oriente del departamento de Casanare (127 a 144 m de altitud), abarcando jurisdicción en los municipios de San Luis de Palenque y Orocué del departamento de Casanare. Su área de influencia comprende diversas veredas como Samán, San Francisco, La Nevera, Los Patos, El Tigre, La Virgen, Agua Verde, La Independencia, Los Aceites (El Pellizco), Miralindo, La Unión, San Rafael de Guirripa, La Culebra y La Libertad Tujua.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>El proyecto ha desarrollado en cumplimiento de la Ficha PSMB-2. Con el fin de caracterizar las especies presentes de aves, mamíferos, herpetos y plantas en tres estaciones de muestreo dentro del Bloque Cubiro Copa, aplicando metodologías de transectos de ancho y largo variable, redes de niebla, cámaras trampa, trampas Tomahawk y trampas Sherman, con la participación de biólogos especialistas en los diferentes grupos biológicos. Para flora se realizaron mediante parcelas de 10x10 para fustales.
+
+Objetivo: 
+Evaluar el estado de la flora y fauna en el Campo de Explotación de Hidrocarburos Cubiro Copa (Expediente LAM 4700) basándose en el análisis de los resultados actuales y en su comparación con monitoreos de años anteriores.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:31Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/5qftnw">Frontera Energy Colombia Corp., Geotec Ingenieria LTDA, ABC Colombia Somos Territorio (2025). Monitoreo de fauna y flora área de explotación Bloque Cubiro Copa San Luis de Palenque-Casanare. Version 1.1. Frontera Energy Colombia Corp. Occurrence dataset https://doi.org/10.15472/5qftnw accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-frontera.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

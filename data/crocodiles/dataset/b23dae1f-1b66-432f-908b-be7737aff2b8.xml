@@ -1,0 +1,2619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="b23dae1f-1b66-432f-908b-be7737aff2b8"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15468/2chk4d</alternateIdentifier>
+        <alternateIdentifier>https://www.snib.mx/iptconabio/resource?r=SNIB-A014-A014005F</alternateIdentifier>
+        <alternateIdentifier>http://ipttest.conabio.gob.mx/iptconabiotest/resource?r=SNIB-A014</alternateIdentifier>
+        <alternateIdentifier>http://www.snib.mx/iptconabio/resource?r=SNIB-A014-A014005F</alternateIdentifier>
+        <alternateIdentifier>http://www.snib.mx/iptconabio/resource?r=SNIB-A014-A014005F-AnfibiosReptiles_catalogo</alternateIdentifier>
+        <alternateIdentifier>b23dae1f-1b66-432f-908b-be7737aff2b8</alternateIdentifier>
+        <title>Formación de una base de datos y elaboración de un atlas de la herpetofauna de México (Anfibiosreptiles_catálogo)</title>
+        <creator>
+            <individualName>
+                <givenName>Oscar</givenName>
+                <surName>Flores Villela</surName>
+            </individualName>
+            <organizationName>Universidad Nacional Autónoma de MéxicoFacultad de CienciasDepartamento de BiologíaMuseo de Zoología &quot;Alfonso L Herrera&quot;</organizationName>
+            <positionName>Responsable</positionName>
+            <address>
+                <city>México</city>
+                <administrativeArea>Distrito Federal</administrativeArea>
+                <postalCode>04510</postalCode>
+                <country>MEXICO</country>
+            </address>
+            <phone>Tel. 56-22-48-32</phone>
+            <electronicMailAddress>ofvq@servidor.unam.mx</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>CONABIO</givenName>
+                <surName>Comisión nacional para el conocimiento y uso de la biodiversidad</surName>
+            </individualName>
+            <organizationName>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</organizationName>
+            <positionName>Dirección General de Sistemas</positionName>
+            <address>
+                <deliveryPoint>Liga Periférico-Insurgentes Sur No. 4903, Col. Parques del Pedregal</deliveryPoint>
+                <city>MÉXICO</city>
+                <administrativeArea>Tlalpan</administrativeArea>
+                <postalCode>14010</postalCode>
+                <country>MEXICO</country>
+            </address>
+            <phone>50045000</phone>
+            <electronicMailAddress>patricia.ramos@conabio.gob.mx</electronicMailAddress>
+            <onlineUrl>https://www.gob.mx/conabio</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2025-04-01
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El objetivo es producir el primer atlas de los anfibios y reptiles de México, con ilustración de las especies y mapas de distribución. Hasta la fecha se ha entregado a la CONABIO una base de datos de más de 67,000 registros de las localidades de recolecta de los anfibios y reptiles de México. 
+En la producción del atlas se han elaborado cerca de 300 apuntes de las 1007 especies de anfibios y reptiles de México y se esta trabajando el la elaboración y revisión de los apuntes de las especies faltantes.</para><para>Reino: 1
+Filo: 1
+Clase: 1
+Orden: 3
+Familia: 38
+Género: 115
+Especie: 283
+Epitetoinfraespecifico: 85
+</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://www.snib.mx/proyectos/cgi-bin/datos2.cgi?Letras=A&amp;Numero=14</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://www.snib.mx/iptconabio/archive.do?r=SNIB-A014-A014005F</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>País: GUATEMALA
+País: MEXICO (, BAJA CALIFORNIA, BAJA CALIFORNIA SUR, CHIAPAS, CHIHUAHUA, COAHUILA DE ZARAGOZA, COLIMA, DISTRITO FEDERAL, DURANGO, GUANAJUATO, GUERRERO, JALISCO, MEXICO, MICHOACAN DE OCAMPO, MORELOS, NAYARIT, NO DISPONIBLE, NUEVO LEON, OAXACA, PUEBLA, QUINTANA ROO, SAN LUIS POTOSI, SINALOA, SONORA, TABASCO, TAMAULIPAS, VERACRUZ DE IGNACIO DE LA LLAVE, YUCATAN, ZACATECAS)</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-116.608333</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-86.75</eastBoundingCoordinate>
+                    <northBoundingCoordinate>32.358333</northBoundingCoordinate>
+                    <southBoundingCoordinate>14.523889</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1836-04-15
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                1984-11-07
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Reino: Animalia
+Filo: Chordata
+Clase: Reptilia
+Orden: Squamata, Testudines, Crocodylia
+Familia: Teiidae, Phrynosomatidae, Iguanidae, Anolidae, Colubridae, Anguidae, Natricidae, Dipsadidae, Viperidae, Emydidae, Elapidae, Crotaphytidae, Corytophanidae, Phyllodactylidae, Kinosternidae, Gekkonidae, Geoemydidae, Loxocemidae, Leptotyphlopidae, Crocodylidae, Xantusiidae, Scincidae, Sphaerodactylidae, Cheloniidae, Diploglossidae, Helodermatidae, Eublepharidae, Sibynophiidae, Anniellidae, Boidae, Trionychidae, Typhlopidae, Bipedidae, Xenosauridae, Testudinidae, Alligatoridae, Charinaidae, Dibamidae</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chordata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Teiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phrynosomatidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Iguanidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Anolidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Colubridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Anguidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Natricidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dipsadidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Viperidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Emydidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Elapidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Crotaphytidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Corytophanidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phyllodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Kinosternidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gekkonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Geoemydidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Loxocemidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leptotyphlopidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Crocodylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Xantusiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Scincidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sphaerodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Cheloniidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Diploglossidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Helodermatidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Eublepharidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sibynophiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Anniellidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Boidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Trionychidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Typhlopidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bipedidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Xenosauridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Testudinidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alligatoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Charinaidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dibamidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Cnemidophorus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Sceloporus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Ctenosaura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Anolis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Masticophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Gerrhonotus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Salvadora</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Thamnophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Pituophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Dryadophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Storeria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Pliocercus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Oxybelis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Urosaurus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Ninia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Phrynosoma</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Conopsis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Atropoides</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Trachemys</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Coluber</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Clelia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Micrurus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Leptophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Geagras</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Ameiva</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Crotaphytus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Stenorrhina</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Trimorphodon</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Sibon</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Nerodia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Leptodeira</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Diadophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Basiliscus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Crotalus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Coniophanes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Thecadactylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Callisaurus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Drymobius</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Barisia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Phyllodactylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Agkistrodon</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Bothrops</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Dendrophidion</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Petrosaurus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Geophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Enyaliosaurus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Imantodes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Senticolis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Iguana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Kinosternon</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Hemidactylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Spilotes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Drymarchon</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Rhinoclemmys</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Loxocemus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Leptotyphlops</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Crocodylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Lepidophyma</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Laemanctus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Lampropeltis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Corytophanes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Oxyrhopus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Elgaria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Rhadinaea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Eumeces</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Gyalopion</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Ophryacus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Sphaerodactylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Conophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Staurotypus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Pseudoleptodeira</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Gehyra</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Uta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Lepidochelys</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Celestus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Heloderma</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Coleonyx</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Tantilla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Manolepis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Uma</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Elaphe</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Scaphiodontophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Anniella</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Hypsiglena</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Ficimia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Toluca</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Sonora</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Terrapene</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Tantalophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Abronia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Mesaspis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Boa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Adelphicos</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Apalone</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Holbrookia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Pelamis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Eretmochelys</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Typhlops</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Bipes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Xenosaurus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Gopherus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Caiman</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Chilomeniscus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Cophosaurus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Mabuya</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Exiliboa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Dipsosaurus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Scincella</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Pseustes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Chersodromus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Marisora</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Pseudoficimia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Anelytropsis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Xenodon</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Sauromalus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cnemidophorus guttatus</taxonRankValue>
+                    <commonName>ticuiliche mexicano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus chrysostictus</taxonRankValue>
+                    <commonName>lagartija escamosa pintas amarillas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ctenosaura similis</taxonRankValue>
+                    <commonName>iguana espinosa rayada, iguana negra, iguana negra de cola espinosa</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus utiformis</taxonRankValue>
+                    <commonName>lagartija escamosa de suelo, lagartija espinosa del pacífico, roño del suelo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis nebulosus</taxonRankValue>
+                    <commonName>abaniqillo de Simmons, abaniquillo de Colima, abaniquillo de Schmidt, abaniquillo pañuelo del pacífico, anolis de Colima, anolis de Schmidt, anolis pañuelo, anolis pañuelo del pacífico, cachorita, lagartija, lagartija de papada rosa, pañuelo, roño de paño</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus scalaris</taxonRankValue>
+                    <commonName>lagartija da pastizal, lagartija escamosa escalonada, lagartija espinosa de pastizal</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Gerrhonotus liocephalus</taxonRankValue>
+                    <commonName>lagartija lagarto sureña, lagarto escorpión texano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Salvadora intermedia</taxonRankValue>
+                    <commonName>corredora, culebra chata de Oaxaca, culebra parchada oaxaqueña</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus spinosus</taxonRankValue>
+                    <commonName>lagartija escamosa espinosa, lagartija espinosa</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophis scalaris</taxonRankValue>
+                    <commonName>culebra de agua nómada cola corta alpestre, culebra listonada de montaña cola larga</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ctenosaura acanthura</taxonRankValue>
+                    <commonName>garrobo de México, iguana, iguana de cola espinosa del noreste, iguana de cola-espinosa del noroeste, iguana espinosa del Golfo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus horridus</taxonRankValue>
+                    <commonName>chintete escamoso, lagartija, lagartija escamosa tarasca, lagartija espinosa del pacífico, torosco</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pituophis deppei</taxonRankValue>
+                    <commonName>alicante, cincuate, cincuate mexicana, culebra casera, culebra sorda mexicana, ratonera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus jarrovii</taxonRankValue>
+                    <commonName>cachorón, lagartija escamosa de montaña, lagartija espinosa de Yarrow, rochaca</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Storeria storerioides</taxonRankValue>
+                    <commonName>culebra, culebra parda mexicana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pliocercus elapoides</taxonRankValue>
+                    <commonName>coralillo falso, culebra falsa coral, culebra falsa coral de Andrew, culebra imita coral, culebra imita coral bicolor, culebra imita coral común, culebra imita coral de Andrew, falsa coral</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Oxybelis microphthalmus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Urosaurus irregularis</taxonRankValue>
+                    <commonName>lagartija arbolera de Gadow, lagartija arbolera mexicana, lagartija de árbol de Michoacán, lagartija de árbol mexicana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ninia sebae</taxonRankValue>
+                    <commonName>coralillo falso, culebra de cafetal espalda roja</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phrynosoma modestum</taxonRankValue>
+                    <commonName>camaleón, camaleón de cola redonda, lagartija cornuda cola redonda, tapayatxin</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Conopsis nasus</taxonRankValue>
+                    <commonName>culebra de tierra de la meseta mexicana, culebra terrestre narigona, culebrita gris</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus pyrocephalus</taxonRankValue>
+                    <commonName>lagartija escamosa de pedregal, lagartija espinosa de cabeza roja</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Atropoides nummifer</taxonRankValue>
+                    <commonName>mano de metate, metapilcoate (Yuto-nahua), metapilcuate (Yuto-nahua), metlapilocóatl (Yuto-nahua), nauyaca o nayaraca saltadora, tepocho, tepotzo, tepoxo, víbora sorda</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Coluber constrictor</taxonRankValue>
+                    <commonName>corredora mexicana, corredora parda, culebra corredora constrictor</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus bulleri</taxonRankValue>
+                    <commonName>lagartija escamosa de Buller</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Clelia scytalina</taxonRankValue>
+                    <commonName>coralillo falso, culebra viborera mexicana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Micrurus elegans</taxonRankValue>
+                    <commonName>coral punteado, coralillo, serpiente coralillo elegante</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptophis mexicanus</taxonRankValue>
+                    <commonName>culebra perico mexicana, ranera mexicana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Geagras redimitus</taxonRankValue>
+                    <commonName>culebra minera de Tehuantepec</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus siniferus</taxonRankValue>
+                    <commonName>lagartija escamosa cola larga, lagartija escamoso castaño, lagartija espinosa de cola larga</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ameiva undulata</taxonRankValue>
+                    <commonName>ameiva metálica, lagartija metálica</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus variabilis</taxonRankValue>
+                    <commonName>lagartija escamosa panza rosada, lagartija espinosa panza rosada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotaphytus collaris</taxonRankValue>
+                    <commonName>cabezona, cachorón, cachorón de collar, lagartija, lagartija de collar común, lagartija de collar del altiplano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Stenorrhina degenhardtii</taxonRankValue>
+                    <commonName>culebra alacranera, culebra alacranera de Degenhardt</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Trimorphodon tau</taxonRankValue>
+                    <commonName>culebra, falsa nauyaca mexicana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sibon nebulatus</taxonRankValue>
+                    <commonName>culebra caracolera jaspeada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cnemidophorus deppii</taxonRankValue>
+                    <commonName>cuiji panzanegra, huico siete líneas, lagartija rayada de panzanegra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis petersii</taxonRankValue>
+                    <commonName>abaniquillo, abaniquillo liquenero, anolis de Peters</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodeira maculata</taxonRankValue>
+                    <commonName>culebra ojo de gato del suroeste, escombreara del suroeste mexicano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Basiliscus vittatus</taxonRankValue>
+                    <commonName>basilisco rayado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotalus basiliscus</taxonRankValue>
+                    <commonName>cascabel del pacífico, cola prieta, saye, víbora cascabel de Saye, víbora cascabel tropical, víbora de cascabel</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus licki</taxonRankValue>
+                    <commonName>lagartija escamosa del Cabo, lagartija espinosa de los Cabos, vejore árboreal del Cabo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Coniophanes fissidens</taxonRankValue>
+                    <commonName>culebra de panza amarilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophis validus</taxonRankValue>
+                    <commonName>culebra de agua, culebra listonada de la costa oeste</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Urosaurus bicarinatus</taxonRankValue>
+                    <commonName>cachorita, chintete, lagartija arbolera tropical, lagartija de árbol, lagartija de árbol del pacífico, roñito, salamanquesa</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophis chrysocephalus</taxonRankValue>
+                    <commonName>culebra de agua nómada cabeza dorada, culebra listonada cabeza dorada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thecadactylus rapicauda</taxonRankValue>
+                    <commonName>geco cola de nabo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Urosaurus nigricauda</taxonRankValue>
+                    <commonName>lagartija arbolera cola negra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Callisaurus draconoides</taxonRankValue>
+                    <commonName>cachora, cachora arenera, cachorita blanca, ctamófi (Seri), lagartija cachora, lagartija cola de cebra, perrita</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Trimorphodon biscutatus</taxonRankValue>
+                    <commonName>codorniz, culebra nocturna lagartijera, víbora sorda</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Oxybelis fulgidus</taxonRankValue>
+                    <commonName>bejuquilla verde, culebra bejuquilla verde</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Drymobius margaritiferus</taxonRankValue>
+                    <commonName>corredora moteada, culebra, culebra corredora de Petatillos, lagunera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Barisia imbricata</taxonRankValue>
+                    <commonName>escorpión, lagarto alicante del Popocatépetl</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phyllodactylus tuberculosus</taxonRankValue>
+                    <commonName>geco panza amarilla, geco tuberculoso, salamanquesa, salamanquesa blanca, salamanquesa vientre amarillo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Agkistrodon bilineatus</taxonRankValue>
+                    <commonName>abaniqillo de Simmons, cantil, cantil enjaquimado, cumcóatl (Yuto-nahua), gamarilla, pichicuate, volpoch (Maya), víbora de freno, víbora enjaquimada, víbora negra, zolcuate</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis rodriguezii</taxonRankValue>
+                    <commonName>abaniquillo chipojo, abaniquillo de Rodriguez, abaniquillo liso del sureste, anolis liso, anolis liso del sureste</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cnemidophorus angusticeps</taxonRankValue>
+                    <commonName>cuiji yucateco, huico yucateco</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Bothrops asper</taxonRankValue>
+                    <commonName>nauyaca terciopelo real</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus vandenburgianus</taxonRankValue>
+                    <commonName>lagartija de salvia meridional, lagartija espinosa de Baja California Norte</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phrynosoma asio</taxonRankValue>
+                    <commonName>camaleón gigante, lagartija cornuda gigante, lagarto espinoso</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dendrophidion vinitor</taxonRankValue>
+                    <commonName>culebra corredora barrada, víbora de tierra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Petrosaurus thalassinus</taxonRankValue>
+                    <commonName>lagartija de piedra Baja Californiana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis liogaster</taxonRankValue>
+                    <commonName>abaniquillo rojo, anolis de Adler, anolis rojo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptophis diplotropis</taxonRankValue>
+                    <commonName>culebra perico, culebra perico gargantilla, culebra verde, güirotillera, ranera del litoral del Pacífico, ranera verde</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Geophis bicolor</taxonRankValue>
+                    <commonName>culebra minera del Altiplano, minadora de la meseta mexicana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cnemidophorus inornatus</taxonRankValue>
+                    <commonName>huico liso, huico liso del altiplano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Enyaliosaurus quinquecarinatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus poinsettii</taxonRankValue>
+                    <commonName>cachorón, lagartija, lagartija escamosa de grieta, lagartija espinosa de barrada, lagartija espinosa norteña de grieta, rochaca</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Geophis semidoliatus</taxonRankValue>
+                    <commonName>coralillo falso, culebra minadora coralillo, minadora coralilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophis scaliger</taxonRankValue>
+                    <commonName>culebra listonada de montaña cola corta</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus formosus</taxonRankValue>
+                    <commonName>chintete esmeralda, lagartija escamosa esmeralda norteña, lagartija espinosa esmeralda norteña</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Imantodes gemmistratus</taxonRankValue>
+                    <commonName>cordelilla de la escamuda, culebra, culebra cordelilla centroamericana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophis godmani</taxonRankValue>
+                    <commonName>culebra listonada, culebra listonada de Godman, culebra rayada, víbora de agua, víbora rayada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Iguana rhinolopha</taxonRankValue>
+                    <commonName>iguana verde</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis sericeus</taxonRankValue>
+                    <commonName>abaniquillo de Cuming, abaniquillo del Balsas, abaniquillo punto azul, abaniquillo sedoso, abaniquillo yanki, anolis del Balsas, anolis sedoso</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phyllodactylus homolepidurus</taxonRankValue>
+                    <commonName>salamanquesa de Sonora, salamanquesa sonorense</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus heterolepis</taxonRankValue>
+                    <commonName>lagartija escamosa dorso aquillado, lagartija espinosa jalisciense</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus asper</taxonRankValue>
+                    <commonName>lagartija escamosa de Boulenger, lagartija espinosa áspera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Kinosternon sonoriense</taxonRankValue>
+                    <commonName>casquito de Sonora, tortuga pecho quebrado sonorense, xtamáaija (Seri)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Geophis petersi</taxonRankValue>
+                    <commonName>culebra minera de Peters, minadora de Peters</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Drymarchon corais</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis tropidonotus</taxonRankValue>
+                    <commonName>abaniquillo escamoso mayor, anolis escamoso mayor, chipojo escamudo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Geophis latifrontalis</taxonRankValue>
+                    <commonName>culebra minera potosina, minadora de San Luis Potosí</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhinoclemmys areolata</taxonRankValue>
+                    <commonName>mojina, tortuga de monte mojina</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophis eques</taxonRankValue>
+                    <commonName>culebra de agua, culebra de agua nómado mexicano, culebra listonada del sur Mexicano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhinoclemmys pulcherrima</taxonRankValue>
+                    <commonName>tortuga colorado, tortuga de monte pintada, tortuga de rayas rojas, tortuga pinta</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Kinosternon cruentatum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Micrurus fulvius</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Loxocemus bicolor</taxonRankValue>
+                    <commonName>serpiente chatilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phrynosoma douglasii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crocodylus acutus</taxonRankValue>
+                    <commonName>caimán, caimán aguja, caimán de costa, cocodrilo americano, cocodrilo de río, lagarto amarillo, lagarto real</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lepidophyma tuxtlae</taxonRankValue>
+                    <commonName>lagartija nocturna de Los Tuxtlas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ctenosaura hemilopha</taxonRankValue>
+                    <commonName>iguana, iguana de palo, iguana del Cabo, iguana espinosa de Sonora</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cnemidophorus calidipes</taxonRankValue>
+                    <commonName>huico michoacano, ticuiliche</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Laemanctus longipes</taxonRankValue>
+                    <commonName>lemacto coludo, toloque verde</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lampropeltis triangulum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus melanorhinus</taxonRankValue>
+                    <commonName>brinca cara, lagartija escamosa hocico negro, lagartija espinosa de hocico negro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Kinosternon scorpioides</taxonRankValue>
+                    <commonName>tortuga pecho quebrado escorpión</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Corytophanes hernandezii</taxonRankValue>
+                    <commonName>toloque de montaña, turipache de Hernández</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cnemidophorus hyperythrus</taxonRankValue>
+                    <commonName>güico (Seri), huico garganta anaranjada, huico peninsular de garganta anaranjada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phrynosoma taurus</taxonRankValue>
+                    <commonName>camaleón, camaleón toro, el toro, lagartija cornuda, lagartija cornuda toro, sapo cornudo, torito de la Virgen</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophis cyrtopsis</taxonRankValue>
+                    <commonName>abaniqillo de Simmons, abaniquillo, culebra de agua, culebra lineada de bosque, culebra listonada cuello negro, víbora de agua</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Oxyrhopus petola</taxonRankValue>
+                    <commonName>coralillo falso, culebra encendida de Cálico</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Elgaria kingii</taxonRankValue>
+                    <commonName>escorpión, lagartija, lagartija lagarto de montaña, lagarto de montaña, lagarto escorpión de Arizona</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Micrurus tener</taxonRankValue>
+                    <commonName>coral neotropical, coral texano, coralillo, coralillo ensillado, serpiente coralillo arlequín</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotalus triseriatus</taxonRankValue>
+                    <commonName>cascabel oscura de la Sierra Madre, víbora cascabel transvolcánica</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus acanthinus</taxonRankValue>
+                    <commonName>lagartija escamosa, lagartija escamosa de Bocourt, lagartija espinosa chiapaneca</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hemidactylus mabouia</taxonRankValue>
+                    <commonName>geco casero tropical</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhadinaea hesperia</taxonRankValue>
+                    <commonName>culebra café de Occidente, culebra rayada occidental</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Geophis dubius</taxonRankValue>
+                    <commonName>culebra minera de la Mesa del Sur, minadora de la meseta del sur</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Urosaurus ornatus</taxonRankValue>
+                    <commonName>cachorita, hehe iti cooscl (Seri), lagartija, lagartija arbolera común, lagartija de árbol norteña, salamanquesa</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pituophis melanoleucus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptotyphlops maximus</taxonRankValue>
+                    <commonName>agujilla, culebrilla ciega gigante, culebrilla lombriz gigante, serpiente lombriz gigante</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eumeces lynxe</taxonRankValue>
+                    <commonName>eslizón de bosque de encinos, eslizón encinero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus gadoviae</taxonRankValue>
+                    <commonName>chintete, lagartija escamosa de Gadow, lagartija espinosa del Alto Balsas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cnemidophorus mexicanus</taxonRankValue>
+                    <commonName>cuija mexicana, cuiji mexicano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus torquatus</taxonRankValue>
+                    <commonName>lagartija escamosa barrada, lagartija espinosa de collar, rápido barrado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Gyalopion quadrangulare</taxonRankValue>
+                    <commonName>corallilo?, culebra de naricilla del desierto, culebra nariz de gancho de desierto, culebra nariz ganchuda de desierto, viboríta</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhadinaea decorata</taxonRankValue>
+                    <commonName>culebra café adornada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Geophis sallaei</taxonRankValue>
+                    <commonName>culebra minadora de Salle, minadora de Sallé</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Senticolis triaspis</taxonRankValue>
+                    <commonName>culebra oliva, culebra ratonera oliva, culebra verde, ratonera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ophryacus undulatus</taxonRankValue>
+                    <commonName>cuernillos, cuernitos, mazacóatl (Yuto-nahua), nauyaca, serpiente cornuda, torito, víbora de cachitos, víbora de cuernecitos, víbora de cuernitos mexicana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus ornatus</taxonRankValue>
+                    <commonName>lagartija escamosa adornada, lagartija espinosa adornada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Geophis omiltemanus</taxonRankValue>
+                    <commonName>culebra minera guerrerense, minadora de Guerrero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sphaerodactylus glaucus</taxonRankValue>
+                    <commonName>geco enano collarejo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Conophis vittatus</taxonRankValue>
+                    <commonName>culebra guardacaminos rayada, culebra mexicana de dos líneas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotalus stejnegeri</taxonRankValue>
+                    <commonName>cascabel cola-larga, víbora cascabel cola larga, víbora de cascabel, víbora de cascabel cola larga sinaloense</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Kinosternon hirtipes</taxonRankValue>
+                    <commonName>casquito de pata rugosa, tortuga pecho quebrado pata rugosa</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Staurotypus salvinii</taxonRankValue>
+                    <commonName>crucilla, tortuga almizclera crucilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Salvadora mexicana</taxonRankValue>
+                    <commonName>culebra chata del Pacífico, culebra manguera, culebra nariz de parche mexicana, culebra parchada mexicana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudoleptodeira latifasciata</taxonRankValue>
+                    <commonName>culebra de cabeza roja, culebra ojo de gato falsa cabeza roja</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Gehyra mutilata</taxonRankValue>
+                    <commonName>geco plano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phrynosoma orbiculare</taxonRankValue>
+                    <commonName>camaleón, camaleón de montaña, falso camaleón, lagartija cornuda de montaña</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus dugesii</taxonRankValue>
+                    <commonName>lagartija escamosa de Duge, lagartija espinosa jalisciense</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lepidochelys kempii</taxonRankValue>
+                    <commonName>tortuga lora</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Celestus enneagrammus</taxonRankValue>
+                    <commonName>celesto huasteco</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Kinosternon acutum</taxonRankValue>
+                    <commonName>chechahua de Monte, tortuga de pantano de Tabasco, tortuga pecho quebrado de Tabasco</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Heloderma horridum</taxonRankValue>
+                    <commonName>escorpión, escorpíon grande, lagarto de chaquira, lagarto de cuentas, lagarto enchaquirado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodeira annulata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Coleonyx variegatus</taxonRankValue>
+                    <commonName>cozíxol (Seri), cuija occidental, geco de bandas del noroeste, salamanquesa de franjas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tantilla bocourti</taxonRankValue>
+                    <commonName>culebra cabeza negra, culebra cabeza negra de Bocourt, culebra encapuchada, culebra encapuchada de Bocourt</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Manolepis putnami</taxonRankValue>
+                    <commonName>culebra cabeza surcada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Uta stansburiana</taxonRankValue>
+                    <commonName>cachora gris, lagartija, lagartija costado manchado adornada, lagartija costado manchado antigua, lagartija costado manchado común, lagartija de cercos, lagartija de manchas laterales, lagartija manchada norteña, tozípla (Seri)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus serrifer</taxonRankValue>
+                    <commonName>lagartija escamosa azul, lagartija espinosa azul</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Elaphe flavirufa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Stenorrhina freminvillei</taxonRankValue>
+                    <commonName>culebra alacranera de sangre</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Salvadora bairdi</taxonRankValue>
+                    <commonName>culebra chata de Baird, culebra parchada de Baird</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus aeneus</taxonRankValue>
+                    <commonName>lagartija escamosa llanera, llanerita</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Scaphiodontophis annulatus</taxonRankValue>
+                    <commonName>coralillo falso, culebra añadida guatemalteca</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anniella stebbinsi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hypsiglena torquata</taxonRankValue>
+                    <commonName>culebra de la noche, culebra noctura del Pacífico, culebra nocturna, culebra nocturna ojo de gato, culebra ojo de gato</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ficimia olivacea</taxonRankValue>
+                    <commonName>culebra naricilla huasteca</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Toluca megalodon</taxonRankValue>
+                    <commonName>culebra terrestre oaxaqueña</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sonora semiannulata</taxonRankValue>
+                    <commonName>coralillo, culebra de arena, culebra suelera semianillada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lampropeltis polyzona</taxonRankValue>
+                    <commonName>falsa coralillo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tantalophis discolor</taxonRankValue>
+                    <commonName>culebra de mitica, culebra ojo de gato falsa oaxaqueña</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eumeces dugesii</taxonRankValue>
+                    <commonName>eslizón chato, eslizón de Cuitzeo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cnemidophorus parvisocius</taxonRankValue>
+                    <commonName>huico pigmeo, huico pigmeo de Tehuacán, lagartija</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Abronia oaxacae</taxonRankValue>
+                    <commonName>escorpión arborícola de Oaxaca, lagarto alicante oaxaqueño</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Mesaspis gadovii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Elaphe guttata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Adelphicos quadrivirgatum</taxonRankValue>
+                    <commonName>lombriz rayada, tzincan (Maya), zacatera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lampropeltis abnorma</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Holbrookia propinqua</taxonRankValue>
+                    <commonName>lagartija sorda carinata</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pelamis platura</taxonRankValue>
+                    <commonName>alicate del mar, culebra de mar, serpiente marina pelágica, serpiente negra y amarilla, xepe ano cocázni (Seri)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis barkeri</taxonRankValue>
+                    <commonName>abaniquillo arroyero, anolis de Barker</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Kinosternon integrum</taxonRankValue>
+                    <commonName>casquito de burro, tortuga de agua, tortuga de río, tortuga pecho quebrado mexicana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotalus lepidus</taxonRankValue>
+                    <commonName>cascabel verde, chachamuri (Yuto-nahua), chachamuri verde, chichámora, víbora cascabel variable, víbora de cascabel, víbora de cascabel de las rocas, víbora de cascabel gris</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Nerodia melanogaster</taxonRankValue>
+                    <commonName>culebra de agua, culebra de agua de panza negra, culebra de agua de panza negra mexicana, culebra negra en Aguascalientes, víbora de agua</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eretmochelys imbricata</taxonRankValue>
+                    <commonName>perico, tortuga carey, tortuga de carey, tortuga marina de carey</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Imantodes cenchoa</taxonRankValue>
+                    <commonName>cordelilla manchada, culebra cordelilla chata</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eumeces tetragrammus</taxonRankValue>
+                    <commonName>eslizón cuatro líneas, eslizón cuatro líneas del noreste</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Geophis chalybeus</taxonRankValue>
+                    <commonName>minadora jarocha</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Micrurus diastema</taxonRankValue>
+                    <commonName>coral diastema, coral variable, coralilla veracruzana, coralillo anillado, serpiente coralillo del sureste, serpiente coralillo variable</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cnemidophorus sackii</taxonRankValue>
+                    <commonName>campeche, lagartija</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Typhlops tenuis</taxonRankValue>
+                    <commonName>serpiente ciega del golfo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus ochoterenae</taxonRankValue>
+                    <commonName>chintete de Querétaro, lagartija escamosa de Querétaro, lagartija espinosa del Alto Balsas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhadinaea laureata</taxonRankValue>
+                    <commonName>culebra café coronada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Masticophis mentovarius</taxonRankValue>
+                    <commonName>alicate, chicoteadora, chicotera, chirrionera, chirrionera sabanera, corredora, culebra chirriadora neotropical</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Geophis dugesii</taxonRankValue>
+                    <commonName>culebra minera de Chihuahua, minadora de Dugés</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Bipes canaliculatus</taxonRankValue>
+                    <commonName>lagartija topo cuatro dedos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Conophis lineatus</taxonRankValue>
+                    <commonName>culebra guardacaminos hermosa, culebra guardacaminos lineada, playera, sabanera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Bipes biporus</taxonRankValue>
+                    <commonName>lagartija topo cinco dedos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis biporcatus</taxonRankValue>
+                    <commonName>abaniquilllo verde, anolis verde neotropical, toloque</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis sagrei</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tantilla miniata</taxonRankValue>
+                    <commonName>culebra cabeza-negra, culebra ciempiés veracruzana, culebra rojilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tantilla rubra</taxonRankValue>
+                    <commonName>culebra cabeza-negra, culebra ciempiés veracruzana, culebra rojilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophis errans</taxonRankValue>
+                    <commonName>culebra de agua, culebra listonada errante</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Coniophanes piceivittis</taxonRankValue>
+                    <commonName>culebra rayada de Cope</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhadinaea taeniata</taxonRankValue>
+                    <commonName>culebra café de pino encino</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis nebuloides</taxonRankValue>
+                    <commonName>abaniqillo de Simmons, abaniquillo nebulado falso, abaniquillo oaxaqueño, anolis de Simmons, anolis falso pañuelo, anolis oaxaqueño, falso abiniquillo nebulosa</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Abronia graminea</taxonRankValue>
+                    <commonName>escorpión arborícola de Tehuacán, lagarto alicante terrestre</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cnemidophorus gularis</taxonRankValue>
+                    <commonName>huico pinto del noreste, huico texano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotalus pusillus</taxonRankValue>
+                    <commonName>cascabel oscura del Tancítaro, víbora cascabel de Tancítaro, víbora de cascabel de Tancítaro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis laeviventris</taxonRankValue>
+                    <commonName>abaniquillo blanco, anolis blanco</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Nerodia rufipunctatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodeira septentrionalis subsp. polysticta</taxonRankValue>
+                    <commonName>culebra ojo de gato</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Laemanctus serratus</taxonRankValue>
+                    <commonName>lemacto coronado, toloque coronado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Xenosaurus grandis</taxonRankValue>
+                    <commonName>xenosaurio mayor</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodeira nigrofasciata</taxonRankValue>
+                    <commonName>culebra ojo de gato cabeza negra, escombrera anillada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Masticophis flagellum</taxonRankValue>
+                    <commonName>amarilla, chirrionera, chirrionera de Baja California, chirrionera de Sonora, chirrionera norteña, chirrionera rayadita, chirrionera roja, corredora, culebra chirriadora común, culebra chirrionera, culebra chirrionera roja sonorense, látigo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lepidophyma flavimaculatum</taxonRankValue>
+                    <commonName>escorpión nocturno puntos amarillos, lagartija nocturna de puntos amarillos, lagartija nocturna puntos amarillos, lepidofima, perrozompopo atlántico, reina de culebra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodeira splendida</taxonRankValue>
+                    <commonName>culebra ojo de gato espléndida, escombrera ojo de gato</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Enyaliosaurus clarki</taxonRankValue>
+                    <commonName>iguana de cola espinosa del Balsas, nopilchi</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus zosteromus</taxonRankValue>
+                    <commonName>lagartija escamosa de San Lucas, lagartija espinosa del desierto mexicano, lagartija espinosa peninsular, vejore de San Lucas, vejore del desierto mexicano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus undulatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lepidochelys olivacea</taxonRankValue>
+                    <commonName>Moosni otác (Seri), tortuga golfina, tortuga marina escamosa del Pacífico</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chilomeniscus cinctus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Urosaurus auriculatus</taxonRankValue>
+                    <commonName>lagartija arbolera de Socorro, lagartija de árbol de la Isla Socorro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Urosaurus microscutatus</taxonRankValue>
+                    <commonName>lagartija arbolera cola negra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phyllodactylus bordai</taxonRankValue>
+                    <commonName>eslaboncillo, salamanquesa de Guerrero, salamanquesa del Alto Balsas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Coniophanes imperialis</taxonRankValue>
+                    <commonName>culebra rayas negras</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophis sumichrasti</taxonRankValue>
+                    <commonName>culebra de agua nómada de sumichrast, culebra listonada, culebra listonada de Sumichrast</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Coleonyx fasciatus</taxonRankValue>
+                    <commonName>cuija negra, geco de bandas negras, geco de bandas negras del noroeste, geco de manchas negras, salamanquesa</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tantilla calamarina</taxonRankValue>
+                    <commonName>culebra ciempiés del Pacífico, culebra ciempiés del litoral del pacífico, culebra cienpiés del litoral del Pacífico</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eumeces sumichrasti</taxonRankValue>
+                    <commonName>eslizón listado, eslizón listado del sureste</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cophosaurus texanus</taxonRankValue>
+                    <commonName>cachora, lagartija sorda mayor, lagartijón sordo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Iguana iguana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tantilla deppei</taxonRankValue>
+                    <commonName>culebra ciempiés de Deppe, culebra ciénpies de Deppe</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Kinosternon leucostomum</taxonRankValue>
+                    <commonName>abaniquillo de Hidalgo, casquito de labios blancos, pochitoque septentrional, tortuga pecho quebrado labios blancos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Kinosternon herrerai</taxonRankValue>
+                    <commonName>casquito de Herrera, galapago, pochitoque, tortuga casquito pecho quebrado, tortuga pecho quebrado de Herrera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chilomeniscus stramineus</taxonRankValue>
+                    <commonName>coralillo falso, culebra arenera manchada, culebra arenera manchada del noroeste, culebra de los médanos, culebrita de la arena</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Mabuya brachypoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotalus polystictus</taxonRankValue>
+                    <commonName>hocico de puerco, víbora cascabel ocelada, víbora de cascabel ocelada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Holbrookia maculata</taxonRankValue>
+                    <commonName>lagartija sorda, lagartija sorda menor, lagartija sorda pequeñita, lagartilla perrilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eumeces brevirostris</taxonRankValue>
+                    <commonName>ajolote, eslizón chato, salamanquesa</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Exiliboa placata</taxonRankValue>
+                    <commonName>boa enana de oaxaca, boa enana mexicana, boa enana oaxaqueña</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Masticophis lateralis</taxonRankValue>
+                    <commonName>culebra chirriadora rayada, culebra rayada, culebra rayada corredora</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophis proximus</taxonRankValue>
+                    <commonName>culebra acuática, culebra listonada occidental</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dipsosaurus dorsalis</taxonRankValue>
+                    <commonName>cachorón güero, iguana, iguana de desierto, meyo (Seri), porohui (Seri)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ninia diademata</taxonRankValue>
+                    <commonName>coralillo falso, culebra de cafetal de collar, culebra dormilona de collar</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Scincella lateralis</taxonRankValue>
+                    <commonName>encinela norteña, escíncela de tierra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Mesaspis viridiflava</taxonRankValue>
+                    <commonName>lagarto escorpión enano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseustes poecilonotus</taxonRankValue>
+                    <commonName>culebra resoplona norteña</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lepidophyma pajapanensis</taxonRankValue>
+                    <commonName>lagartija nocturna de Pajapan</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Mesaspis moreletii</taxonRankValue>
+                    <commonName>lagarto escorpión, lagarto escorpión de Morelet, lagarto escorpión sureño</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chersodromus liebmanni</taxonRankValue>
+                    <commonName>coralillo falso, culebra corredora de Liebmann</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sibon dimidiatus</taxonRankValue>
+                    <commonName>culebra caracolera cordel negro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptotyphlops humilis</taxonRankValue>
+                    <commonName>culebra ciega de occidente, culebrilla ciega de occidente, culebrita ciega, serpiente lombriz occidental, viboríta</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sibon philippii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus grandaevus</taxonRankValue>
+                    <commonName>lagartija escamosa anciana, lagartija espinosa de la Isla Cerralvo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Oxybelis aeneus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phrynosoma coronatum</taxonRankValue>
+                    <commonName>camaleón del litoral, lagartija cornuda de litoral</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phyllodactylus unctus</taxonRankValue>
+                    <commonName>salamanquesa de Cabo San Lucas, salamanquesa de San Lucas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Abronia deppii</taxonRankValue>
+                    <commonName>escorpión arborícola, escorpión arborícola de Deppe, lagarto alicante</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lepidophyma smithii</taxonRankValue>
+                    <commonName>lagartija nocturna de Smith, lagartija nocturna del sureste</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hemidactylus frenatus</taxonRankValue>
+                    <commonName>besucona, geco casero bocón</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Marisora aquilonaria</taxonRankValue>
+                    <commonName>mabuya centroamericana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodeira frenata</taxonRankValue>
+                    <commonName>culebra ojo de gato de selva, escombrera de selva</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Kinosternon creaseri</taxonRankValue>
+                    <commonName>casquito, casquito de Creaser, tortuga de pantano yucateca, tortuga pecho quebrado de Craser</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Micrurus distans</taxonRankValue>
+                    <commonName>coral del oeste mexicano, coralillo, serpiente coralillo del occidente mexicano, serpiente coralillo del oeste Mexicano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Mesaspis antauges</taxonRankValue>
+                    <commonName>lagartija lagarto del Pico de Orizaba, lagarto escorpión de Monte Orizaba</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudoficimia frontalis</taxonRankValue>
+                    <commonName>culebra, culebra ilamacoa, ilamacoa</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis baccatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sphaerodactylus millepunctatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sibon sartorii</taxonRankValue>
+                    <commonName>coralillo falso, culebra caracolera de oriente</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Salvadora grahamiae</taxonRankValue>
+                    <commonName>culebra, culebra chata de montaña, culebra parchada de montaña</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Micrurus laticollaris</taxonRankValue>
+                    <commonName>coral del Balsas, coralillo, coralillo del Balsas, serpiente coralillo del Balsas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Micrurus apiatus</taxonRankValue>
+                    <commonName>coralillo, gargantilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhadinaea omiltemana</taxonRankValue>
+                    <commonName>culebra café guerrerense</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anelytropsis papillosus</taxonRankValue>
+                    <commonName>lagartija ciega mexicana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Uta palmeri</taxonRankValue>
+                    <commonName>lagartija costado manchado o de San Pedro, lagartija de machas laterales de San Pedro, lagartija manchada de la Isla San Pedro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Xenodon rabdocephalus</taxonRankValue>
+                    <commonName>culebra engañosa norteña</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Uta squamata</taxonRankValue>
+                    <commonName>lagartija costado manchado de Santa catalina, lagartija manchada de la Isla Santa Catalina</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus olivaceus</taxonRankValue>
+                    <commonName>lagartija escamosa de Texas, lagartija espinosa del noreste</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis cymbops</taxonRankValue>
+                    <commonName>abaniquillo de Veracruz, anolis veracruzano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sibon fasciata</taxonRankValue>
+                    <commonName>culebra caracolera de bandas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Diadophis punctatus</taxonRankValue>
+                    <commonName>coralillo falso, culebra de collar, culebra de panza roja, culebrita</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Coniophanes quinquevittatus</taxonRankValue>
+                    <commonName>culebra rayada escofinada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ctenosaura pectinata</taxonRankValue>
+                    <commonName>iguana de roca, iguana espinosa Mexicana, iguana mexicana de cola espinosa, iguana negra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tantilla atriceps</taxonRankValue>
+                    <commonName>culebra cabeza negra mexicana, culebra encapuchada mexicana, culebras cabeza negra mexicana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodeira punctata</taxonRankValue>
+                    <commonName>culebra ojo de gato occidental, escombrera del occidente México</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phrynosoma braconnieri</taxonRankValue>
+                    <commonName>camaleón, camaleón de cola corta, lagartija cornuda cola corta</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus angustus</taxonRankValue>
+                    <commonName>lagartija escamosa angosta</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sauromalus varius</taxonRankValue>
+                    <commonName>chacahuala de la Isla San Esteban, chuckwalla de San Esteban, iguana de oared de piebald, iguana de pared del desierto de Picbald</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis gadovii</taxonRankValue>
+                    <commonName>abaniquillo de Gadow, abaniquillo de Tierra Colorada, anolis de Gadow, anolis de Tierra Colorada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Marisora syntoma</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhadinaea fulvivittis</taxonRankValue>
+                    <commonName>culebra café listada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Micrurus browni</taxonRankValue>
+                    <commonName>coral de cañotos, coral nayarita, serpiente coralillo de brown, serpiente coralillo nayarita</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lampropeltis mexicana</taxonRankValue>
+                    <commonName>culebra real escarlata, culebra real potosina, falsa coralillo real</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotalus aquilus</taxonRankValue>
+                    <commonName>cascabel de Querétaro, cascabel obscura de Querétaro, cascabel obscuro de Querétaro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus jalapae</taxonRankValue>
+                    <commonName>chintete, lagartija escamosa jalapeña, lagartija espinosa de Jalapa, lagartija espinosa del Valle de Tehuacán</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Coniophanes taeniata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Cnemidophorus costatus subsp. occidentalis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Masticophis flagellum subsp. lineatulus</taxonRankValue>
+                    <commonName>amarilla, chirrionera, chirrionera de Baja California, chirrionera de Sonora, chirrionera norteña, chirrionera rayadita, chirrionera roja, corredora, culebra chirriadora común, culebra chirrionera, culebra chirrionera roja sonorense, látigo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Dryadophis melanolomus subsp. veraecrucis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Thamnophis eques subsp. eques</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus grammicus subsp. microlepidotus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Trachemys scripta subsp. ornata</taxonRankValue>
+                    <commonName>jicotea, jicotea occidental</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Nerodia melanogaster subsp. canescens</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Diadophis punctatus subsp. regalis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Micrurus diastema subsp. apiatus</taxonRankValue>
+                    <commonName>coralillo, gargantilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Cnemidophorus sackii subsp. sacki</taxonRankValue>
+                    <commonName>campeche, lagartija</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus lundelli subsp. gaigeae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus torquatus subsp. melanogaster</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Cnemidophorus costatus subsp. costatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Dryadophis melanolomus subsp. melanolomus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Gerrhonotus liocephalus subsp. ophiurus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Senticolis triaspis subsp. intermedia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Nerodia erythrogaster subsp. transversa</taxonRankValue>
+                    <commonName>culebra de agua manchada, culebra de agua vientre claro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Hemidactylus turcicus subsp. turcicus</taxonRankValue>
+                    <commonName>geco casero del Mediterráneo, geco del mediterraneo, geco pinto, lagartija de cristal</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Cnemidophorus deppii subsp. cozumelus</taxonRankValue>
+                    <commonName>cuiji de Cozumel, huico de cozumel, huico de la Isla Cozumel</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Spilotes pullatus subsp. mexicanus</taxonRankValue>
+                    <commonName>culebra ratonera mica, culebra voladora</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Cnemidophorus costatus subsp. huico</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Cnemidophorus gularis subsp. scalaris</taxonRankValue>
+                    <commonName>huico manchado de la altiplanicie</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Leptotyphlops humilis subsp. dugesii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Micrurus diastema subsp. alienus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Trachemys scripta subsp. grayi</taxonRankValue>
+                    <commonName>tortuga jicotea de Tehuantepec</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Cnemidophorus cozumela subsp. cozumelae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus mucronatus subsp. omiltemanus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Anolis lemurinus subsp. bourgeaei</taxonRankValue>
+                    <commonName>anolis de Serrano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Imantodes gemmistratus subsp. gracillimus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Thamnophis proximus subsp. rutiloris</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Leptotyphlops dulcis subsp. myopicus</taxonRankValue>
+                    <commonName>culebrilla ciega de Nuevo México, culebrilla ciega del noreste, culebrilla ciega texana, serpiente lombriz texana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Leptotyphlops goudotii subsp. phenops</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Cnemidophorus communis subsp. communis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Phrynosoma orbiculare subsp. cortezii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Uta stansburiana subsp. elegans</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Dryadophis melanolomus subsp. slevini</taxonRankValue>
+                    <commonName>culebra lagartijera común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Uma notata subsp. rufopunctata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Cnemidophorus hyperythrus subsp. beldingi</taxonRankValue>
+                    <commonName>huico garganta anaranjada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Terrapene carolina subsp. mexicana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Imantodes gemmistratus subsp. splendidus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Eumeces brevirostris subsp. indubitus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Barisia imbricata subsp. imbricata</taxonRankValue>
+                    <commonName>escorpión, lagarto alicante del Popocatépetl</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Rhinoclemmys pulcherrima subsp. incisa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Boa constrictor subsp. imperator</taxonRankValue>
+                    <commonName>káxab yuk (Maya)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Apalone spinifera subsp. emoryi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Drymarchon corais subsp. melanurus</taxonRankValue>
+                    <commonName>arroyera, babatuco, babutua, culebra azul, culebra prieta, palancacoate, tilcoate</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Crotalus durissus subsp. culminatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Rhinoclemmys rubida subsp. rubida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Urosaurus ornatus subsp. symmetricus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Leptophis mexicanus subsp. yucatanensis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Cnemidophorus communis subsp. mariarum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Micrurus diastema subsp. affinis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Leptophis mexicanus subsp. septentrionalis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Coniophanes imperialis subsp. imperialis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Eumeces tetragrammus subsp. callicephalus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Crotalus intermedius subsp. omiltemanus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Lepidophyma flavimaculatum subsp. tenebrarum</taxonRankValue>
+                    <commonName>lagartija nocturna de montaña</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Crotalus durissus subsp. durissus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus variabilis subsp. teapensis</taxonRankValue>
+                    <commonName>lagartija espinosa de Tabasco</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Caiman crocodilus subsp. fuscus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Callisaurus draconoides subsp. crinitus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus formosus subsp. scitulus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Leptotyphlops goudotii subsp. bakewelli</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Rhadinaea taeniata subsp. aemula</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sonora michoacanensis subsp. michoacanensis</taxonRankValue>
+                    <commonName>culebra de tierra de Michoacán, culebra suelera michoacana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Holbrookia maculata subsp. elegans</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Terrapene carolina subsp. yucatana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Trimorphodon biscutatus subsp. vilkinsoni</taxonRankValue>
+                    <commonName>limacoa de Texas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Nerodia rhombifer subsp. blanchardi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Hypsiglena torquata subsp. affinis</taxonRankValue>
+                    <commonName>culebra nocturna de Jalisco, culebra ojo de gato</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Eumeces brevirostris subsp. bilineatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Leptotyphlops dulcis subsp. dissectus</taxonRankValue>
+                    <commonName>culebrilla ciega de Nuevo México, culebrilla ciega del noreste, culebrilla ciega texana, serpiente lombriz texana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus clarkii subsp. boulengeri</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Thamnophis eques subsp. megalops</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sonora michoacanensis subsp. mutabilis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Coniophanes imperialis subsp. clavatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Coniophanes fissidens subsp. dispersus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Nerodia rhombifer subsp. rhombifer</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Barisia imbricata subsp. ciliaris</taxonRankValue>
+                    <commonName>escorpión de montaña, lagartija falso escorpión</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Toluca lineata subsp. lineata</taxonRankValue>
+                    <commonName>culebra nariz de pala del occidente, culebra terrestre del centro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Eumeces lynxe subsp. bellii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Crotalus scutulatus subsp. salvini</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Coniophanes fissidens subsp. proterops</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Lampropeltis triangulum subsp. smithi</taxonRankValue>
+                    <commonName>falsa coralillo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Salvadora grahamiae subsp. lineata</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Patricia</givenName>
+                <surName>Ramos Rivera</surName>
+            </individualName>
+            <organizationName>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</organizationName>
+            <positionName>Directora General de Sistemas</positionName>
+            <address>
+                <deliveryPoint>Liga Periférico-Insurgentes Sur No. 4903, Col. Parques del Pedregal</deliveryPoint>
+                <city>México</city>
+                <administrativeArea>Tlalpan</administrativeArea>
+                <postalCode>14010</postalCode>
+                <country>MEXICO</country>
+            </address>
+            <phone>50045000</phone>
+            <electronicMailAddress>patricia.ramos@conabio.gob.mx</electronicMailAddress>
+            <onlineUrl>https://www.gob.mx/conabio</onlineUrl>
+        </contact>
+
+            <project id="SNIB-A014-A014005F-AnfibiosReptiles_catálogo">
+                <title>Formación de una base de datos y elaboración de un atlas de la herpetofauna de México (Anfibiosreptiles_catálogo)</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Oscar</givenName>
+                    <surName>Flores Villela</surName>
+                    </individualName>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <abstract>
+                    <para>El objetivo es producir el primer atlas de los anfibios y reptiles de México, con ilustración de las especies y mapas de distribución. Hasta la fecha se ha entregado a la CONABIO una base de datos de más de 67,000 registros de las localidades de recolecta de los anfibios y reptiles de México. 
+En la producción del atlas se han elaborado cerca de 300 apuntes de las 1007 especies de anfibios y reptiles de México y se esta trabajando el la elaboración y revisión de los apuntes de las especies faltantes.</para>
+                </abstract>
+                <funding>
+                    <para>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Reptiles
+boas, cobras, coralillos, culebras, pitones, serpientes, víboras
+caimanes, cocodrilos
+camaleones, geckos, iguanas, lagartijas, lagartos
+tortugas dulceacuícolas, tortugas terrestres
+tortugas marinas</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:58Z</dateStamp>
+                <citation>Flores Villela O, Comisión nacional para el conocimiento y uso de la biodiversidad C (2025). Formación de una base de datos y elaboración de un atlas de la herpetofauna de México (Anfibiosreptiles_catálogo). Version 1.18. Comisión nacional para el conocimiento y uso de la biodiversidad. Occurrence dataset https://doi.org/10.15468/2chk4d accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>SNIB-A014-AnfibiosReptiles_catalogo-CSV.zip</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>CSV</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://www.snib.mx/proyectos/A014/AnfibiosReptiles_catalogo/SNIB-A014-AnfibiosReptiles_catalogo-CSV.zip</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>SNIB-A014-AnfibiosReptiles_catalogo-BD.zip</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>MDB</formatName>
+                            <formatVersion>MicrosoftAccess2007</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://www.snib.mx/proyectos/A014/AnfibiosReptiles_catalogo/SNIB-A014-AnfibiosReptiles_catalogo-BD.zip</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-A014-A014005F-AnfibiosReptiles_catálogo</collectionIdentifier>
+                    <collectionName>Herpetology Collection;NHM;Natural History Museum, London;NHM</collectionName>
+                </collection>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Ejemplar</jgtiUnitType>
+                    <jgtiUnitRange>
+                        <beginRange>1</beginRange>
+                        <endRange>2,077</endRange>
+                    </jgtiUnitRange>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

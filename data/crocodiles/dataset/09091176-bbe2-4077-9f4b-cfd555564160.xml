@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="09091176-bbe2-4077-9f4b-cfd555564160"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/nsyvpc</alternateIdentifier>
+        <alternateIdentifier>09091176-bbe2-4077-9f4b-cfd555564160</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=osteologi_krypdyr</alternateIdentifier>
+        <title>Amphibian and reptile skeletons in the modern Osteological Collections at the University Museum of Bergen</title>
+        <creator>
+            <individualName>
+                <givenName>Hanneke J.M.</givenName>
+                <surName>Meijer</surName>
+            </individualName>
+            <organizationName>University Museum of Bergen, Department of Natural History</organizationName>
+            <positionName>Associate Professor &amp; Curator</positionName>
+            <address>
+                <deliveryPoint>Allegaten 41</deliveryPoint>
+                <city>Bergen</city>
+                <postalCode>5007</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <phone>+47 55 58 29 18</phone>
+            <electronicMailAddress>Hanneke.Meijer@uib.no</electronicMailAddress>
+            <onlineUrl>https://www.uib.no/en/persons/Hanneke.J.M..Meijer</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0001-7066-6869</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Hanneke J.M.</givenName>
+                <surName>Meijer</surName>
+            </individualName>
+            <organizationName>University Museum of Bergen, Department of Natural History</organizationName>
+            <positionName>Associate Professor &amp; Curator</positionName>
+            <address>
+                <deliveryPoint>Allegaten 41</deliveryPoint>
+                <city>Bergen</city>
+                <postalCode>5007</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <phone>+47 55 58 29 18</phone>
+            <electronicMailAddress>Hanneke.Meijer@uib.no</electronicMailAddress>
+            <onlineUrl>https://www.uib.no/en/persons/Hanneke.J.M..Meijer</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0001-7066-6869</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Hanneke J.M.</givenName>
+                <surName>Meijer</surName>
+            </individualName>
+            <organizationName>University Museum of Bergen, Department of Natural History</organizationName>
+            <positionName>Associate Professor &amp; Curator</positionName>
+            <address>
+                <deliveryPoint>Allegaten 41</deliveryPoint>
+                <city>Bergen</city>
+                <postalCode>5007</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <phone>+47 55 58 29 18</phone>
+            <electronicMailAddress>Hanneke.Meijer@uib.no</electronicMailAddress>
+            <onlineUrl>https://www.uib.no/en/persons/Hanneke.J.M..Meijer</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0001-7066-6869</userId>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2024-09-24
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            This dataset contains a list of all the amphibian and reptile skeletons, partial skeletons, and skulls in the modern Osteological Collections at the University Museum of Bergen in Bergen, Norway, and associated information such as provenance data and measurements (if available). The material has been collected between the late 19th century and now. The main geographical focus of the collection is Norway and Scandinavia, but the collection also contains specimens from other countries.
+        </abstract>
+        <keywordSet>
+            <keyword>osteology</keyword>
+            <keyword>skeleton</keyword>
+            <keyword>reptiles</keyword>
+            <keyword>Amphibia</keyword>
+            <keyword>Reptilia</keyword>
+            <keyword>skull</keyword>
+            <keyword>Occurrence</keyword>
+            <keyword>amphibians</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.no/archive.do?r=osteologi_krypdyr</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The main focus of this collection is Norway and Scandinavia, but it contains specimens of other areas as well.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1850
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>All amphibian and reptile skeletons, partial skeletons and skulls were identified to species level.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                    <commonName>Amphibians</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                    <commonName>Reptiles</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Hanneke J.M.</givenName>
+                <surName>Meijer</surName>
+            </individualName>
+            <organizationName>University Museum of Bergen, Department of Natural History</organizationName>
+            <positionName>Associate Professor &amp; Curator</positionName>
+            <address>
+                <deliveryPoint>Allegaten 41</deliveryPoint>
+                <city>Bergen</city>
+                <postalCode>5007</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <phone>+47 55 58 29 18</phone>
+            <electronicMailAddress>Hanneke.Meijer@uib.no</electronicMailAddress>
+            <onlineUrl>https://www.uib.no/en/persons/Hanneke.J.M..Meijer</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0001-7066-6869</userId>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:10Z</dateStamp>
+                <citation>Meijer H J (2024). Amphibian and reptile skeletons in the modern Osteological Collections at the University Museum of Bergen. Version 1.6. University of Bergen. Occurrence dataset https://doi.org/10.15468/nsyvpc accessed via GBIF.org on 2025-10-11.</citation>
+                <collection>
+                    
+                    <collectionIdentifier>urn:uuid:528159de-155f-4fb7-bce5-c92cb1c041d0</collectionIdentifier>
+                    <collectionName>Amphibian and reptile skeletons in the modern Osteological Collections at the University Museum of Bergen</collectionName>
+                </collection>
+                <specimenPreservationMethod>DRIED</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

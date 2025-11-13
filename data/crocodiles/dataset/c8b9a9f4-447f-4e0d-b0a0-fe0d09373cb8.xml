@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="c8b9a9f4-447f-4e0d-b0a0-fe0d09373cb8"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/ntwgfy</alternateIdentifier>
+        <alternateIdentifier>c8b9a9f4-447f-4e0d-b0a0-fe0d09373cb8</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=ullanos_muestras-sangre_vertebrados</alternateIdentifier>
+        <title>Fauna silvestre rescatada por Cormacarena y evaluada por la Universidad de los Llanos</title>
+        <creator>
+            <individualName>
+                <givenName>José</givenName>
+                <surName>Fernández-Manrique</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Docente Programa de Medicina Veterinaria Zootecnia</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jose.fernandez@unillanos.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-9786-5574</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ricardo</givenName>
+                <surName>Murillo Pacheco</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Docente Programa de Medicina Veterinaria Zootecnia</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>rmurillo@unillanos.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-9785-4699</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Andrea</givenName>
+                <surName>Morales Rozo ULlanos</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Curadora</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+            </address>
+            <electronicMailAddress>amoralesrozo@unillanos.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-6920-8438</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>CORMACARENA - Corporación para el Desarrollo Sostenible del área de Manejo Especial La Macarena</surName>
+            </individualName>
+            <organizationName>CORMACARENA - Corporación para el Desarrollo Sostenible del área de Manejo Especial La Macarena</organizationName>
+            <positionName>Corporación regional</positionName>
+            <address>
+                <deliveryPoint>Carrera 44C No. 33B-24 Barzal Alto</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>info@cormacarena.gov.co</electronicMailAddress>
+            <onlineUrl>http://www.cormacarena.gov.co/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2021-03-09
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Dentro del “Convenio Marco de Cooperación No 2.8.2015.007 Unillanos – Cormacarena” en apoyo a las Acciones de Cormacarena se realizan rescates de individuos de fauna silvestres. Posteriormente son evaluados por la Línea de Profundización, Medicina de Especies Silvestres, del Programa de Medicina Veterinaria Zootecnia de la Universidad de los Llanos.
+Este recurso contiene 17 registros de vertebrados que han sido evaluados, correspondientes a 7 mamíferos, 5 aves y 5 reptiles. Los animales provienen de la región, pero son rescates de Cormacarena, por lo tanto, la ubicación no es precisa.
+        </abstract>
+        <keywordSet>
+            <keyword>Muestra</keyword>
+            <keyword>Veterinaria</keyword>
+            <keyword>Sangre</keyword>
+            <keywordThesaurus>na</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=ullanos_muestras-sangre_vertebrados</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La mayoría de rescates provienen de la Orinoquia, pero muchas veces no se sabe la localidad específica.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-74.004</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-67.39</eastBoundingCoordinate>
+                    <northBoundingCoordinate>7.101</northBoundingCoordinate>
+                    <southBoundingCoordinate>1.67</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2016-08-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2017-11-30
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este recurso contiene 17 registros, distribuidos en 3 clases, 12 ordenes, 16 familias y 17 géneros, todos están clasificados a especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Podocnemis vogli</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Coendou prehensilis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dasypus novemcinctus </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Iguana iguana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Vanellus chilensis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cabassous unicintus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Megascops choliba</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Alouatta seniculus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Trachemys scripta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Mesembrinibis  cayennensis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ara macao</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cuniculus paca</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Didelphis marsupialis </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Amazona  ochrocephala</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Boa constrictor</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>José</givenName>
+                <surName>Fernández-Manrique</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Docente Programa de Medicina Veterinaria Zootecnia</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jose.fernandez@unillanos.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-9786-5574</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Se registra la toma de muestras de sangre, las cuales se emplearon en los análisis de hematología y bioquímica sanguínea. No se dejan muestras en colección de referencia, por que se emplea toda la muestra en el  proceso.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se registran los eventos de atención y valoración de fauna, rescatada, atropellada. No se registran especímenes en ninguna colección.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los animales sanos se liberan nuevamente, o se remiten a través de Cormacarena al Bioparque los Ocarros, los que fallecen, por bioseguridad se disponen en la ruta sanitaria de disposición de desechos patógenos en la Unillanos.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La mayoría de rescates provienen de la Orinoquia, pero muchas veces no se sabe la localidad específica.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los individuos se reciben por parte de Cormacarena y se hace una evaluación veterinaria. Se toman muestras de sangre y se liberan posteriormente o se disponen en caso de que mueran. No se realizó deposito en ninguna colección.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Línea de Profundización, Medicina de Especies Silvestres, MVZ-UNILLANOS</title>
+                <personnel>
+                    <individualName>
+                    <givenName>José</givenName>
+                    <surName>Fernández-Manrique</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0002-9786-5574</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para>Dentro del “Convenio Marco de Cooperación No 2.8.2015.007 Unillanos – Cormacarena”
+En apoyo a las Acciones de Cormacarena. Rescate de Individuo por la Línea de Profundización, Medicina de Especies Silvestres, del Programa de Medicina Veterinaria Zootecnia de la Universidad de los Llanos</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:47Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/ntwgfy">Fernández-Manrique J, Murillo Pacheco R, Morales Rozo ULlanos A (2021). Fauna silvestre rescatada por Cormacarena y evaluada por la Universidad de los Llanos. Version 2.1. Universidad de los Llanos. Occurrence dataset https://doi.org/10.15472/ntwgfy accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>2015-007_ullanosrescate_20201126</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=2015-007_ullanosrescate_20201126</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unillanos.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

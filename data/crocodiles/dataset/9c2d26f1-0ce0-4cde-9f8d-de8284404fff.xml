@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="9c2d26f1-0ce0-4cde-9f8d-de8284404fff"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/9uddlh</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=iavh-ct</alternateIdentifier>
+        <alternateIdentifier>10.15472/iwlqjr</alternateIdentifier>
+        <alternateIdentifier>10.15472/iwlqjr</alternateIdentifier>
+        <alternateIdentifier>10.15468/vx2b8p</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=iavh-ct</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/iavh/resource.do?r=iavh-ct</alternateIdentifier>
+        <alternateIdentifier>9c2d26f1-0ce0-4cde-9f8d-de8284404fff</alternateIdentifier>
+        <title>Colección de Tejidos del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-CT)</title>
+        <creator>
+            <individualName>
+                <givenName>Kevin G.</givenName>
+                <surName>Borja-Acosta</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Curador de datos colecciones biológicas</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15-08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>kborja@humboldt.org.co</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Luis Miguel</givenName>
+                <surName>Leyton Ramos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>investigador colección de tejidos</positionName>
+            <address>
+                <deliveryPoint>CIAT Km. 17 Carretera Cali - Palmira</deliveryPoint>
+                <city>Cali</city>
+                <administrativeArea>Valler del Cauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(57) 2 4450000 Ext. 3174</phone>
+            <electronicMailAddress>lleyton@humboldt.org.co</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Luis Miguel</givenName>
+                <surName>Leyton Ramos</surName>
+            </individualName>
+            <organizationName>Instituto de investigación de recursos biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>CIAT km 17, recta Cali - Palmira</deliveryPoint>
+                <city>Cali</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <postalCode>57</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>lleyton@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://colecciones.humboldt.org.co/tejidos/</onlineUrl>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <pubDate>
+                2024-01-22
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            La Colección de Tejidos del Instituto Humboldt (IAvH-CT) es la colección de tejidos no humanos más grande y biodiversa de Colombia, y está registrada bajo el número 170 del 9 de marzo del 2023 ante el Registro Nacional de Colecciones Biológicas en Colombia. La colección inició en 1998 en el marco del Inventario Nacional de Biodiversidad de Colombia, con el apoyo económico del entonces Ministerio de Ambiente, Vivienda y Desarrollo Territorial. En la actualidad la colección preserva en nitrógeno líquido y a muy bajas temperaturas (-196°C), muestras de tejidos para todos los grupos biológicos, plantas (45%), aves (25%), peces (10%), anfibios (6%), reptiles (6%), mamíferos (4%) insectos (2%), hongos (1%) e invertebrados no insectos (1%). La mayoría de las muestras de la colección están asociadas a un espécimen voucher o testigo depositado en las Colecciones Biológicas del Instituto Humboldt u otras colecciones biológicas o museos de historia natural del país. Los tejidos preservados en la colección y su información asociada constituyen una fuente importante de referencia para la investigación científica, conocimiento y conservación de la biodiversidad colombiana, los cuales son accesibles a instituciones e investigadores nacionales e internacionales a través del intercambio de tejidos.
+        </abstract>
+        <keywordSet>
+            <keyword>recurso biológico</keyword>
+            <keyword>criopreservación</keyword>
+            <keyword>recurso genético</keyword>
+            <keyword>nitrógeno líquido</keyword>
+            <keyword>tejidos</keyword>
+            <keyword>muestras</keyword>
+            <keyword>ADN</keyword>
+            <keyword>biorepositorio</keyword>
+            <keyword>biobanco</keyword>
+            <keyword>long-term preservation.</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PreservedSpecimen</keyword>
+            <keyword>tissues</keyword>
+            <keyword>Occurrence</keyword>
+            <keyword>samples</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=iavh-ct</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/iavh/archive.do?r=iavh-ct</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El 99,5% de las muestras son provenientes de los 32 departamentos de Colombia, en su mayoría de las regiones de los Andes, Llanos y Amazonas. El 0,5% restante provienen de otros países como: Bolivia, Ecuador, Panamá, Perú, Trinidad y Tobago, Estados Unidos y Venezuela.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-81.72</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-36</eastBoundingCoordinate>
+                    <northBoundingCoordinate>12.55</northBoundingCoordinate>
+                    <southBoundingCoordinate>-21.62</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1936-06-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-04-16
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La colección preserva 42764 muestras de tejidos de todos los grupos biológicos y usa los siguientes referentes taxonómicos para sus determinaciones. Aves (The South American Classificación Committee SACC), anfibios (Amphibian Species of the World), mamíferos (Sociedad de Mastozoología Colombiana), reptiles (The Reptile Database), plantas (Catálogo de plantas de Colombia), peces (Listado de peces de agua dulce de Colombia - Acictios).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Chilopoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arachnida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Gastropoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bivalvia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Bacteria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Preservar muestras biológicas de la biodiversidad de fauna y flora de Colombia, como fuente de información para estudios en biología molecular, con el objetivo de apoyar la investigación científica y promover el diálogo común entre ciencia, educación y conservación de la biodiversidad.
+Brindar acceso a las muestras de la colección y su información asociada a investigadores nacionales e internacionales a través del intercambio de tejidos.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Carolina</givenName>
+                <surName>Gómez-Posada</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Líder de Colecciones Biológicas</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15-08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>cgomez@humboldt.org.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>) transcripción de la información proveniente de los especímenes testigo en Hoja de Excel (Archivo de Migración), 2) validación de información geográfica, 3) verificación de número de ejemplares por registro e identificación taxonómica hasta el nivel más detallado posible, 4) ingreso de nuevos Números de Catálogo directamente en el Archivo de Migración, 5) migración de registros desde Archivo de Migración a Specify y generación de archivo Darwin Core</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Todos los departamentos del territorio nacional (Colombia)</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>La mayoría de las muestras de tejidos fueron recolectadas de acuerdo a la metodología de recolección de tejidos biológicos para análisis genético (González M. A., Arenas-Castro H. (Eds). 2017).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Las muestras de la colección, antes de ser depositadas pasan por varios filtros, donde se revisa y verifican su información asociada (información geográfica, de colecta, determinación y voucher). Una vez recibidas las muestras, se revisa que el total de muestras corresponda a la información suministrada por el depositante</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Colecciones Biológicas del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Luis M</givenName>
+                    <surName>Leyton Ramos</surName>
+                    </individualName>
+                    <role>METADATA_AUTHOR</role>
+                </personnel>
+                <abstract>
+                    <para>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <designDescription>
+                    <description>
+                        <para>Ejemplares depositados en las colecciones biológicas del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:56Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/9uddlh">Borja-Acosta K G, Leyton Ramos L M (2024). Colección de Tejidos del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-CT). Version 20.9. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/9uddlh accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation identifier="http://www.museum.lsu.edu/~Remsen/SACCBaseline.htm.">Pacheco, M. B. Robbins, F. G. Stiles, and K. J. Zimmer. Version (2023, Enero). A classification of the bird species of South America. American Ornithological Society. http://www.museum.lsu.edu/~Remsen/SACCBaseline.htm.</citation>
+                <citation identifier="http://repository.humboldt.org.co/handle/20.500.11761/33659.">González M. A., Arenas-Castro H. (Eds). (2017). Recolección de tejidos biológicos paraAnálisis genéticos. Instituto de Investigación de Recursos Biológicos Alexander vonHumboldt. Bogotá, D. C., Colombia. 33 pp. http://repository.humboldt.org.co/handle/20.500.11761/33659.</citation>
+                <citation identifier="https://amphibiansoftheworld.amnh.org/">Frost Darrel, American Museum of Natural History (2023, Enero). Amphibian Species of the World 6.1 an Online Reference. https://amphibiansoftheworld.amnh.org/.</citation>
+                <citation identifier="www.reptile-database.org">P., Freed, P, Aguilar, R., Reyes, F. &amp; Hošek, J. (eds.) (2023, Enero) The Reptile Database. www.reptile-database.org</citation>
+                <citation>Ramírez-Chaves, H. E., Suárez-Castro, A. F., &amp; González-Maya, J. F. (2016). Cambios recientes a la lista de los mamíferos de Colombia. Mammalogy notes, 3(1-2), 1-9.</citation>
+                <citation identifier="http://catalogoplantasdecolombia.unal.edu.co/es/">Bernal Rodrigo, Robbert Gradstein S., y Celis Marcela (eds) (2023, Enero) Catálogo de plantas de Colombia. http://catalogoplantasdecolombia.unal.edu.co/es/</citation>
+                <citation identifier="https://doi.org/10.15472/numrso">DoNascimiento, C., J. D. Bogotá Gregory, J. G. Albornoz Garzón, A. Méndez López, F. A. Villa Navarro, E. E. Herrera Collazos, H. Agudelo Zamora, M. Arce H. 2021. Lista de especies de peces de agua dulce de Colombia / Checklist of the freshwater fishes of Colombia. v. 2.13. Asociación Colombiana de Ictiólogos. Dataset/Checklist. https://doi.org/10.15472/numrso</citation>
+                </bibliography>
+                <physical>
+                    <objectName>Colección de Tejidos del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-CT)</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>txt</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=iavh-ct</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>página web</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>html</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://colecciones.humboldt.org.co/tejidos/</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://ipt.biodiversidad.co/iavh/logo.do?r=iavh-ct</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>IAvH</parentCollectionIdentifier>
+                    <collectionIdentifier>IAvH-CT</collectionIdentifier>
+                    <collectionName>Colección de Tejidos del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+                </collection>
+                <specimenPreservationMethod>DEEP_FROZEN</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

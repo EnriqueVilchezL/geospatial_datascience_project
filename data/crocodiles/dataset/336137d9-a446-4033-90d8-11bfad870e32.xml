@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="336137d9-a446-4033-90d8-11bfad870e32"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/e3eljx</alternateIdentifier>
+        <alternateIdentifier>336137d9-a446-4033-90d8-11bfad870e32</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=rutacacao_biotica</alternateIdentifier>
+        <title>Monitoreo de fauna silvestre en el Proyecto Vial 4G Bucaramanga-Barrancabermeja-Yondó (BBY)</title>
+        <creator>
+            <individualName>
+                <givenName>José Ariel</givenName>
+                <surName>Dueñas Cepeda</surName>
+            </individualName>
+            <organizationName>Biótica Consultores LTDA.</organizationName>
+            <positionName>Director proyectos</positionName>
+            <address>
+                <deliveryPoint>Carrera 24 #107-18</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <postalCode>680001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3168312475</phone>
+            <electronicMailAddress>ariel.duenas@bioticaconsultores.com</electronicMailAddress>
+            <onlineUrl>https://www.bioticaconsultores.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Luz Adriana</givenName>
+                <surName>Gutierrez Triana</surName>
+            </individualName>
+            <organizationName>Biótica Consultores LTDA.</organizationName>
+            <positionName>Profesional ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 24 #107-18</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <postalCode>680001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3166056995</phone>
+            <electronicMailAddress>adriana.gutierrez@bioticaconsultores.com</electronicMailAddress>
+            <onlineUrl>https://www.bioticaconsultores.com/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Sandra Yaneth</givenName>
+                <surName>Galván Carvajal</surName>
+            </individualName>
+            <organizationName>Consorcio BBY</organizationName>
+            <positionName>Profesional</positionName>
+            <address>
+                <deliveryPoint>Cra 20 No. 110-69. San Lorenzo de Provenza II.</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6879670-7</phone>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2021-03-15
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Realizar el monitoreo de fauna silvestre para los grupos: anfibios, reptiles, aves y mamíferos en el área de influencia del Proyecto Vial 4G Bucaramanga-Barrancabermeja-Yondó (BBY), lo que permitirá obtener un mejor conocimiento de la distribución de las especies en las diferentes coberturas vegetales monitoreadas, así como evaluar, el comportamiento de la fauna a través del desarrollo de este proyecto vial.</para>
+<para>Este conjunto de datos comprende 199 registros de fauna, repartidos en cuatro clases: Aves (155), Anfibios (89), Reptiles (80) y Mamíferos (75). De estos hay un 99% identidicado a nivel de especie y 1% a nivel de género. Todos fueron tomados en el departamento de Santander, en los municipios de Barrancabermeja, Betulia, Girón y Lebrija.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>especie</keyword>
+            <keyword>diversidad alfa</keyword>
+            <keyword>Biota</keyword>
+            <keyword>ecosistema</keyword>
+            <keyword>Cobertura vegetal</keyword>
+            <keyword>diversidad beta</keyword>
+            <keyword>especie amenazada</keyword>
+            <keywordThesaurus>na</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keyword>GBIF CESP</keyword>
+            <keyword>OpenPSD</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Este conjunto de datos fue publicado con el apoyo del proyecto CESP “OpenPSD – Engage and promote the private sector in open biodiversity data publication (ID CESP2019-004)”, y la alianza con la Asociación Nacional de Empresarios de Colombia (ANDI) a través de su iniciativa “Biodiversidad y Desarrollo” (Datos abiertos sobre biodiversidad desde el sector empresarial). Agradecemos la colaboración y el incentivo para compartir datos desde el sector empresarial. This dataset was published with support of the CESP project “OpenPSD – Engage and promote the private sector in open biodiversity data publication (ID CESP2019-004)”, and the alliance with the National Business Association of Colombia (ANDI) through its initiative &quot;Biodiversity and Development&quot; (Biodiversity open data from the private sector). We are grateful with the colaboration and incentive to share data from the private sector.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=rutacacao_biotica</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los puntos de muestreo estan ubicados en 4 municipios del departamento de Santander, estos fueron Barrancabermeja, Betulia, Girón y Lebrija.
+Abarcan las coberturas Nivel 1 de Corine Land Cover: Territorios artificializados; Territorios agrícolas; Bosques y Áreas Seminaturales; Áreas Húmedas y Superficies de agua.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.742</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.288</eastBoundingCoordinate>
+                    <northBoundingCoordinate>7.184</northBoundingCoordinate>
+                    <southBoundingCoordinate>7.066</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2020-02-19
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2020-03-01
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este conjunto de datos comprende 199 registros de fauna, repartidos en cuatro clases: Aves (155), Anfibios (89), Reptiles (80) y Mamíferos (75). De estos hay un 99% identidicado a nivel de especie y 1% a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>José Ariel</givenName>
+                <surName>Dueñas Cepeda</surName>
+            </individualName>
+            <organizationName>Biótica Consultores LTDA.</organizationName>
+            <positionName>Director proyectos</positionName>
+            <address>
+                <deliveryPoint>Carrera 24 #107-18</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <postalCode>680001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3166056995</phone>
+            <electronicMailAddress>ariel.duenas@bioticaconsultores.com</electronicMailAddress>
+            <onlineUrl>https://www.bioticaconsultores.com/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Los puntosde muestro fueron seleccionados teniendo en cuenta los resultados del monitoreo anterior y se buscó con la selección de los mismos, abarcar las coberturas Nivel 1 de Corine Land Cover: Territorios artificializados; Territorios agrícolas; Bosques y Áreas Seminaturales; Áreas Húmedas y Superficies de agua.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para el monitoreo de la herpetofauna se implementó la técnica de búsqueda libre y sin restricciones mediante captura manual (VES) (Visual Encounter Surveys, Crump y Scott, 1994; Angulo et al., 2006), a lo largo de transectos aleatorios ubicados en los diferentes tipos de cobertura vegetal.
+El método de búsqueda libre por encuentro casual permite registrar en poco tiempo el mayor número de especies presentes en un área determinada por parte de colectores experimentados a lo largo de transectos definidos (Crump y Scott, 1994), realizando búsquedas aleatorias. Se realizaron los recorridos en dos períodos de tiempo, en la mañana de 7:00 a 11:00 am y en la tarde-noche de 5:00 a 9:00 pm. Dos días en cada una de las coberturas seleccionadas. Se revisaron cuidadosamente todos los microhábitats disponibles asociados a cada tipo de cobertura a ser evaluada: cuerpos de agua, vegetación, fitotelmata, hojarasca, bordes de ríos y quebradas, debajo de rocas, troncos y materia orgánica en descomposición. Se fotografiaron la gran mayoría de individuos para facilitar su determinación taxonómica. 
+
+La determinación taxonómica se llevó a cabo teniendo en cuenta las descripciones originales de las especies. La nomenclatura taxonómica actualizada y estandarizada siguiendo a Frost (2019) para el caso de los anfibios, cuya información se encuentra consignada en la base de datos en línea Amphibian Species of the World. http://research.amnh.org/vz/herpetology/amphibia/), y en el caso de los reptiles, se tuvo en cuenta a Uetz et al., (2019), según la información depositada en la base de datos Reptile Database (http://www.reptile-database.org/).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para caracterizar la comunidad de aves, se emplearon métodos de detección directa e indirecta en las unidades de cobertura vegetal seleccionadas como se describe a continuación:
+Transectos de detección visual y auditivos. Se realizaron observaciones directas mediante recorridos en transectos de ancho y longitud variables a una velocidad constante, cubriendo las coberturas vegetales de interés. Bajo esta metodología, se registraron únicamente individuos observados a una distancia hasta de 25 m a cada lado del transecto y que presentan un desplazamiento contrario al trayecto del observador para evitar reconteos (Ralph, y otros, 1996). Se realizaron transectos entre las 6:00 horas y 10 horas y entre las 15:00 y las 18:00 horas, períodos de mayor actividad de las aves (Ralph, et al., 1996).
+Redes de niebla. De manera complementarias, se emplearon métodos de captura como las redes de niebla, las cuales fueron operadas solo en horas de la tarde, siendo menos efectivas que la detección visual, dado que las coberturas del área de influencia del proyecto vial son muy intervenidas en su mayoría ocupadas por especies fáciles de detectar e identificar.
+Las aves observadas y/o capturadas fueron identificadas por medio de guías como: la Guía de las Aves de Colombia (Hilty &amp; Brown, 2001), Guía de Campo de Las Aves de Colombia (McMullan, 2018) y “Birds of Northern of South America” (Restall, Rodner, &amp; Lentino, 2006). El nombre taxonómico actualizado de las especies estará basado en los criterios establecidos por SACC - South American Classification Comittee (Remsen, y otros, 2019).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La metodología para el registro de mamíferos en el actual estudio incluyó técnicas directas, como la observación en recorridos y la captura en redes de niebla (Fotografía 1.A), y técnicas indirectas, como el rastreo y el fototrampeo (Fotografía 2.B-D), las cuales fueron aplicadas de la siguiente manera:
+Recorridos de observación: El registro directo e indirecto de los mamíferos grandes y medianos se realizó mediante observación y la búsqueda de indicios como: rastros, huellas, heces, madrigueras, comederos, marcas en árboles y sendas; haciendo recorridos por el área de influencia de las coberturas vegetales de interés, en transectos de longitud y ancho variable. Los recorridos se realizaron de 7:00 a 12:00 horas, durante dos días en cada cobertura vegetal, excepto en tejido urbano en el cual se realizó en un día. Cada registro fue fotografiado y georreferenciado. La identificación de huellas se realizará según la experiencia del profesional asignado y el apoyo de las guías especializadas de Aranda (2012), Zapata-Rios et al. (2017), De Angelo et al. (2015) y Navarro &amp; Muñoz (2000).
+Redes de niebla para mamíferos voladores: Se establecerán 4 puntos de redes niebla en cada una de las coberturas. Las redes se activaron desde las 17:00 hasta las 21:00 horas durante dos días en cada cobertura, verificando la captura de individuos cada 20 o 30 minutos según la variación en el éxito de captura. Su ubicación se definió de acuerdo a la orientación respecto a la vegetación con disponibilidad de recursos (flores, frutos, cuerpos de agua), y la presencia de bordes entre vegetación de estructura contrastante, entre otras. Todos los individuos registrados fueron fotografiados en el mismo lugar de su captura, la identificación de las especies se obtuvo en campo a partir de medidas morfométricas, el apoyo de las guías especializadas y la experiencia del profesional asignado.
+Fototrampeo: Empleando un muestreo oportunista (Maffei et al., 2002) se seleccionaron 7 puntos potenciales para el paso de mamíferos medianos y grandes, en senderos y puntos de interés para este tipo de fauna como quebradas y/o pasaderos, los cuales fueron elegidos a partir de los registros obtenidos en los recorridos iniciales realizados en la zona. Se utilizaron cinco (5) trampas-cámara, cada trampa-cámara se programó para un monitoreo continuo de 24 horas por día durante cinco días en promedio por punto.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El proyecto denominado “Concesión Vial Ruta del Cacao” (Corredor vial Bucaramanga – Barrancabermeja – Yondó) se encuentra localizado en jurisdicción de los municipios de Barrancabermeja, San Vicente de Chucuri, Betulia, Girón y Lebrija en el departamento de Santander, en un rango altitudinal comprendido entre los 70 y los 1200 msnm y tiene como objeto principal generar una interconexión vial entre la ciudad de Bucaramanga con la zona occidente del departamento de Santander, así como con el Municipio de Yondó en el departamento de Antioquia y con la Concesión Ruta del Sol II. El proyecto se encuentra dividido en un total de 9 unidades funcionales, de la siguiente forma: - Unidad Funcional 1. Yondó – Puente Guillermo Gaviria – La Virgen – Rancho Camacho. Longitud (Km) 40,45. - Unidad Funcional 2. Barrancabermeja – La Lizama Longitud (Km) 51,2. - Unidad Funcional 3. La Fortuna – Puente La Paz – Capitancitos – Lisboa. Longitud (Km) 37,6. - Unidad Funcional 4. La Fortuna – Puente La Paz. Longitud (Km) 17,97. - Unidad Funcional 5. Puente La Paz – Santa Rosa. Longitud (Km) 14,76. - Unidad Funcional 6. Túnel La Paz. Longitud (Km) 3,52. - Unidad Funcional 7. Río Sucio – Lisboa. Longitud (Km) 10,39. - Unidad Funcional 8. Lisboa – Portugal. Longitud (Km) 6. - Unidad Funcional 9. Portugal – Lebrija. Longitud (Km) 12,4.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se realizó el monitoreo de fauna silvestre para los grupos: anfibios, reptiles, aves y mamíferos en el área de influencia del Proyecto Vial 4G Bucaramanga-Barrancabermeja-Yondó (BBY), lo que permitió obtener un mejor conocimiento de la distribución de las especies en las diferentes coberturas vegetales monitoreadas, así como evaluar, el comportamiento de la fauna a través del desarrollo de este proyecto vial.
+No se realizó ninguna colecta difinitiva ni se depositó nada en alguna colección</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="CESP2019-004">
+                <title>Monitoreo de fauna silvestre para los grupos faunisticos, anfibios, reptiles, aves y mamíferos</title>
+                <personnel>
+                    <individualName>
+                    <givenName>José Ariel</givenName>
+                    <surName>Dueñas Cepeda</surName>
+                    </individualName>
+                    <role>AUTHOR</role>
+                </personnel>
+                <abstract>
+                    <para>Se realizó el monitoreo de fauna silvestre para los grupos: anfibios, reptiles, aves y mamíferos en el área de influencia del Proyecto Vial 4G Bucaramanga-Barrancabermeja-Yondó (BBY), lo que permitió obtener un mejor conocimiento de la distribución de las especies en las diferentes coberturas vegetales monitoreadas, así como evaluar, el comportamiento de la fauna a través del desarrollo de este proyecto vial.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El proyecto denominado “Concesión Vial Ruta del Cacao” (Corredor vial Bucaramanga – Barrancabermeja – Yondó) se encuentra localizado en jurisdicción de los municipios de Barrancabermeja, San Vicente de Chucuri, Betulia, Girón y Lebrija en el departamento de Santander, en un rango altitudinal comprendido entre los 70 y los 1200 msnm y tiene como objeto principal generar una interconexión vial entre la ciudad de Bucaramanga con la zona occidente del departamento de Santander, así como con el Municipio de Yondó en el departamento de Antioquia y con la Concesión Ruta del Sol II. El proyecto se encuentra dividido en un total de 9 unidades funcionales, de la siguiente forma: - Unidad Funcional 1. Yondó – Puente Guillermo Gaviria – La Virgen – Rancho Camacho. Longitud (Km) 40,45. - Unidad Funcional 2. Barrancabermeja – La Lizama Longitud (Km) 51,2. - Unidad Funcional 3. La Fortuna – Puente La Paz – Capitancitos – Lisboa. Longitud (Km) 37,6. - Unidad Funcional 4. La Fortuna – Puente La Paz. Longitud (Km) 17,97. - Unidad Funcional 5. Puente La Paz – Santa Rosa. Longitud (Km) 14,76. - Unidad Funcional 6. Túnel La Paz. Longitud (Km) 3,52. - Unidad Funcional 7. Río Sucio – Lisboa. Longitud (Km) 10,39. - Unidad Funcional 8. Lisboa – Portugal. Longitud (Km) 6. - Unidad Funcional 9. Portugal – Lebrija. Longitud (Km) 12,4.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Para la caracterización de la fauna silvestre presente en el Proyecto Vial 4G Bucaramanga-Barrancabermeja-Yondó (BBY), se realizÓ una búsqueda de información secundaria y se tomaron como referencia “El Estudio de Impacto Ambiental Construcción Corredor Vial Bucaramanga – Barrancabermeja – Yondó, Capítulo 5.2.1.1 Ecosistemas Terrestres Fauna, con contrato de concesión APP 013 de 2016 y el Monitoreo de fauna silvestre para los grupos faunísticos de mamíferos, aves, reptiles y anfibios realizado en el año 2019.
+Otra de la información consultada de manera previa corresponde a:
+ Sistema de información sobre biodiversidad de Colombia (SiBColombia, 2017).
+ The IUCN Red List of Threatened Species (IUCN, 2019).
+ Resolución 1912 de 2017 (MADS 2017).
+ Plan nacional de especies migratorias Naranjo &amp; Amaya-Espinel, Plan Nacional de Especies migratorias. Diagnóstico e identificación de acciones para la conservación y el manejo sostenible de las especies migratorias de la biodiversidad en Colombia, 2009.
+ Convención sobre el comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre (CITES, 2017).
+ POT’s municipios del Área de Influencia Directa del proyecto.
+
+Fase de campo. El desarrollo del presente monitoreo se llevó a cabo entre los días 19 de febrero al 1 de marzo de 2020, correspondiendo el mismo a temporada seca climáticamente hablando.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:34Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/e3eljx">Dueñas Cepeda J A, Gutierrez Triana L A (2021). Monitoreo de fauna silvestre en el Proyecto Vial 4G Bucaramanga-Barrancabermeja-Yondó (BBY). Version 1.2. Biotica Consultores Ltda. Occurrence dataset https://doi.org/10.15472/e3eljx accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>00696_bioticafaunabby_20200904</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=00696_bioticafaunabby_20200904</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/biotica.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="d22ae0d3-6eb0-4746-a420-b316691119a0"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/v2cghp</alternateIdentifier>
+        <alternateIdentifier>d22ae0d3-6eb0-4746-a420-b316691119a0</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=mhnmbrg_atropellamiento_20230928</alternateIdentifier>
+        <title>Registros de fauna asociados a atropellamiento en las vías del departamento del Huila</title>
+        <creator>
+            <individualName>
+                <givenName>Juan Sebastián</givenName>
+                <surName>Arana Rivera</surName>
+            </individualName>
+            <organizationName>Corporación Museo de Historia Natural María Belén Rivera Gualy</organizationName>
+            <positionName>Director General</positionName>
+            <address>
+                <deliveryPoint>calle 1c #17-10 barrio la Voragine</deliveryPoint>
+                <city>Rivera</city>
+                <administrativeArea>Huila</administrativeArea>
+                <postalCode>413001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jsarana1993@hotmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-4618-3012</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Juan Sebastián</givenName>
+                <surName>Arana Rivera</surName>
+            </individualName>
+            <organizationName>Corporación Museo de Historia Natural María Belén Rivera Gualy</organizationName>
+            <positionName>Director General</positionName>
+            <address>
+                <deliveryPoint>calle 1c #17-10 barrio la Voragine</deliveryPoint>
+                <city>Rivera</city>
+                <administrativeArea>Huila</administrativeArea>
+                <postalCode>413001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jsarana1993@hotmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-4618-3012</userId>
+        </metadataProvider>
+        <pubDate>
+                2024-02-19
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Los registros encontrados en este recurso corresponden a un conjunto de datos asociados a fauna arrollada en las vías del departamento del Huila-Colombia. Estos registros se  han tomado entre octubre de 2018 a octubre de 2022.Hasta el momento se cuentan con 103 registros de anfibios, aves, mamíferos y reptiles.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>vías</keyword>
+            <keyword>Atropellamiento</keyword>
+            <keyword>fauna arrollada</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=mhnmbrg_atropellamiento_20230928</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los datos fueron colectados en las vías del Departamento del Huila, Colombia</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2018-10-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-10-19
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>De los 103 registros encontrados se representan 58 de mamíferos, 25 de reptiles, 18 de aves y 2 de anfibios. Las especies que presentan mayor número de registros son: Didelphis marsupialis (47 registros), Iguana iguana (6 registros), Cerdocyon thous, Megascops choliba y Micrurus mipartitus (4 registros).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Clelia clelia</taxonRankValue>
+                    <commonName>cazadora negra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Didelphis marsupialis</taxonRankValue>
+                    <commonName>Chucho-Zariguella</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Iguana iguana</taxonRankValue>
+                    <commonName>Iguana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cerdocyon thous</taxonRankValue>
+                    <commonName>Zorro perro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Megascops choliba</taxonRankValue>
+                    <commonName>Currucutú común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Micrurus mipartitus</taxonRankValue>
+                    <commonName>Rabo de ají</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Erythrolamprus mimus</taxonRankValue>
+                    <commonName>Falsa coral</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tamandua mexicana</taxonRankValue>
+                    <commonName>Oso melero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotophaga ani</taxonRankValue>
+                    <commonName>Garrapatero menor</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudoboa neuwiedii</taxonRankValue>
+                    <commonName>Candelilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhinella marina</taxonRankValue>
+                    <commonName>Sapo común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rupornis magnirostris</taxonRankValue>
+                    <commonName>Gavilán pollero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sciurus granatensis</taxonRankValue>
+                    <commonName>Ardilla cola roja</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sibon nebulatus</taxonRankValue>
+                    <commonName>Caracolera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Aramides cajaneus</taxonRankValue>
+                    <commonName>Chilaco</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Bothrops asper</taxonRankValue>
+                    <commonName>Talla X</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Bubulcus ibis</taxonRankValue>
+                    <commonName>Garcilla bueyera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Caiman crocodilus</taxonRankValue>
+                    <commonName>Babilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotophaga major</taxonRankValue>
+                    <commonName>Garrapatero mayor</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Falco columbarius</taxonRankValue>
+                    <commonName>Esmerejon</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Herpailurus yagouaroundi</taxonRankValue>
+                    <commonName>Yagouroundi</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leopardus tigrinus</taxonRankValue>
+                    <commonName>Tigrillo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodeira annulata</taxonRankValue>
+                    <commonName>Ojos de gato</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Mastigodryas boddaerti</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Nycticorax nycticorax</taxonRankValue>
+                    <commonName>Garza nocturna</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Oxyrhopus petolarius</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudoscops clamator</taxonRankValue>
+                    <commonName>Lechuzon orejudo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sicalis flaveola</taxonRankValue>
+                    <commonName>Canario común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Spilotes pullatus</taxonRankValue>
+                    <commonName>Toche</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophilus multistriatus</taxonRankValue>
+                    <commonName>Batará carcajada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Turdus ignobilis</taxonRankValue>
+                    <commonName>Embarrador</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tyto alba</taxonRankValue>
+                    <commonName>Lechuza de campanario</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Juan Sebastián</givenName>
+                <surName>Arana Rivera</surName>
+            </individualName>
+            <organizationName>Corporación Museo de Historia Natural María Belén Rivera Gualy</organizationName>
+            <positionName>Director General</positionName>
+            <address>
+                <deliveryPoint>calle 1c #17-10 barrio la Voragine</deliveryPoint>
+                <city>Rivera</city>
+                <administrativeArea>Huila</administrativeArea>
+                <postalCode>413001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jsarana1993@hotmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-4618-3012</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Una vez a la semana se realizo el recorrido por las carreteras del departamento. Este proceso de repitió cada año, durante los 5 años de vigencia del permiso.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Todas las carreteras del Departamento del Huila-Colombia.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se realizo un recorrido periódico por las vías del Huila.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Se plasmo la ubicación especifica a través de las coordenadas y se realizó la toma de fotografías de los individuos encontrados.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:24Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/v2cghp">Arana Rivera J S (2024). Registros de fauna asociados a atropellamiento en las vías del departamento del Huila. Version 1.1. Corporación Museo de Historia Natural María Belén Rivera Gualy. Occurrence dataset https://doi.org/10.15472/v2cghp accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-mbrg.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>en proceso de legalización</parentCollectionIdentifier>
+                    <collectionIdentifier>en proceso de legalización</collectionIdentifier>
+                    <collectionName>Museo de Historia Natural María Belén Rivera Gualy MBRG</collectionName>
+                </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

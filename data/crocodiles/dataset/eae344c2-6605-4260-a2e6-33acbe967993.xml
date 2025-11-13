@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="eae344c2-6605-4260-a2e6-33acbe967993"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/vs5dxg</alternateIdentifier>
+        <alternateIdentifier>https://science-net.kahaku.go.jp/ipt2/resource?r=snet-1195-104</alternateIdentifier>
+        <title>Fish, Amphibian, Reptile Specimens of The Cattle Museum</title>
+        <creator>
+            <individualName>
+                <givenName>Yo</givenName>
+                <surName>Morimoto</surName>
+            </individualName>
+            <organizationName>The Cattle Museum</organizationName>
+            <positionName>chief curator</positionName>
+            <address>
+                <country>JAPAN</country>
+            </address>
+            <electronicMailAddress>you-m@city.oshu.iwate.jp</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Yo</givenName>
+                <surName>Morimoto</surName>
+            </individualName>
+            <organizationName>The Cattle Museum</organizationName>
+            <positionName>chief curator</positionName>
+            <address>
+                <country>JAPAN</country>
+            </address>
+            <electronicMailAddress>you-m@city.oshu.iwate.jp</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2023-03-09
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Fish, Amphibian, Reptile Specimens collected by The Cattle Museum.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://science-net.kahaku.go.jp/ipt2/archive.do?r=snet-1195-104</url>
+            </online>
+        </distribution>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Yo</givenName>
+                <surName>Morimoto</surName>
+            </individualName>
+            <organizationName>The Cattle Museum</organizationName>
+            <positionName>chief curator</positionName>
+            <address>
+                <country>JAPAN</country>
+            </address>
+            <electronicMailAddress>you-m@city.oshu.iwate.jp</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:52Z</dateStamp>
+                <citation>Morimoto Y (2023). Fish, Amphibian, Reptile Specimens of The Cattle Museum. National Museum of Nature and Science, Japan. Occurrence dataset https://doi.org/10.15468/vs5dxg accessed via GBIF.org on 2025-10-11.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

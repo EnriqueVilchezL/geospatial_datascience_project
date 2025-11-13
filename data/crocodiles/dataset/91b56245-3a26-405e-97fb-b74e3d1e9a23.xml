@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="91b56245-3a26-405e-97fb-b74e3d1e9a23"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/rkidfj</alternateIdentifier>
+        <alternateIdentifier>91b56245-3a26-405e-97fb-b74e3d1e9a23</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=event_fauna_parque-solar_2023-2024</alternateIdentifier>
+        <title>Caracterización de fauna del proyecto Parque Solar Fotovoltaico Cañahuate 240 MV Etapa I (54MW) en el departamento de Cesar (2023, 2024)</title>
+        <creator>
+            <individualName>
+                <surName>Drummond Energy Inc</surName>
+            </individualName>
+            <organizationName>Drummond Energy Inc</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 72 #10 07</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(571)5871000</phone>
+            <electronicMailAddress>correo@drummondltd.com</electronicMailAddress>
+            <onlineUrl>https://drummondenergy.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Consultorias y Proyectos de Cesar S.A.S.</surName>
+            </individualName>
+            <organizationName>Consultorias y Proyectos de Cesar S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Carrera 33 # 6 B - 26</deliveryPoint>
+                <city>Valledupar</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6055623253</phone>
+            <electronicMailAddress>rguerra@consultoriasyproyectos.com</electronicMailAddress>
+            <onlineUrl>https://consultoriasyproyectos.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Consultorias y Proyectos de Cesar S.A.S.</surName>
+            </individualName>
+            <organizationName>Consultorias y Proyectos de Cesar S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Carrera 33 # 6 B - 26</deliveryPoint>
+                <city>Valledupar</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6055623253</phone>
+            <electronicMailAddress>rguerra@consultoriasyproyectos.com</electronicMailAddress>
+            <onlineUrl>https://consultoriasyproyectos.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Drummond Energy Inc</surName>
+            </individualName>
+            <organizationName>Drummond Energy Inc</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 72 #10 07</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(571)5871000</phone>
+            <electronicMailAddress>correo@drummondltd.com</electronicMailAddress>
+            <onlineUrl>https://drummondenergy.com/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Drummond Energy Inc</surName>
+            </individualName>
+            <organizationName>Drummond Energy Inc</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 72 #10 07</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(571)5871000</phone>
+            <electronicMailAddress>correo@drummondltd.com</electronicMailAddress>
+            <onlineUrl>https://drummondenergy.com/</onlineUrl>
+            <role>OWNER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Johanna</givenName>
+                <surName>Velásquez Niño</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</organizationName>
+            <positionName>Contratista</positionName>
+            <address>
+                <deliveryPoint>Calle 28a # 16-29</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>jvelasqueznino@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.humboldt.org.co/</onlineUrl>
+            <role>EDITOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-07-10
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El proyecto Parque Solar Fotovoltaico Cañahuate 240 MW tiene como objetivo la construcción de un parque de generación solar fotovoltaico con capacidad nominal de 240 MW AC y su línea de conexión al switchyard Mina de Drummond. El Proyecto se desarrollará en dos etapas: Etapa 1 – Proyecto de autogeneración con capacidad de 100 MW AC, y Etapa 2 – Proyecto de generación con capacidad de 140 MW AC.</para><para>La Licencia Ambiental otorgada mediante Resolución No. 00559 Del 17 de marzo de 2023, otorga los permisos para desarrollar las actividades constructivas del Parque Solar.</para><para>El proyecto contemplo actividades como: consolidación de una línea base, actividades de rescate y ahuyentamiento de fauna, censado y relocalización de aves y nidos y dos monitoreos de fauna silvestre.</para><para>El recurso de datos consta de 1.324 registros biológicos observados el año 2023 y 2024 en el departamento del Cesar, en los municipios Berrecil, El Paso y Chiriguaná, específicamente en el corregimiento de La Loma de Calenturas y en la vereda Los Cerrajones. El recurso se distribuye taxonómicamente en los filo Chordata (1293), Arthropoda (31).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Samplingevent</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Colombia</keyword>
+            <keyword>Herpetos</keyword>
+            <keyword>El Paso</keyword>
+            <keyword>Mamíferos</keyword>
+            <keyword>Monitoreo</keyword>
+            <keyword>Auyentamiento</keyword>
+            <keyword>Nidos</keyword>
+            <keyword>Insectos</keyword>
+            <keyword>Rescate</keyword>
+            <keyword>Ambibios</keyword>
+            <keyword>Aves</keyword>
+            <keyword>Chiriguana</keyword>
+            <keyword>Cesar</keyword>
+            <keyword>Becerril</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=event_fauna_parque-solar_2023-2024</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El proyecto “Parque Solar Fotovoltaico Cañahuate 240 MW” está ubicado en el departamento del Cesar, en los municipios de El Paso y Chiriguaná, específicamente en el corregimiento de La Loma de Calenturas y en la vereda Los Cerrajones.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.559</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.522</eastBoundingCoordinate>
+                    <northBoundingCoordinate>9.688</northBoundingCoordinate>
+                    <southBoundingCoordinate>9.591</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-09-02
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-12-23
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El recurso se distribuye taxonómicamente en el reino Animalia, la distribución es de 7 clases, 32 órdenes, 80 familias, 178 géneros y 220 especies. El 96% de los animales está identificado a nivel de especie y el 4% a nivel de clase y género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Consolidación de una línea base, actividades de rescate y ahuyentamiento de fauna, censado y relocalización de aves y nidos y dos monitoreos de fauna silvestre para la fase posterior al aprovechamiento forestal del proyecto “Parque Solar Fotovoltaico Cañahuate 240 MW Etapa I” expediente LAV0052-00-2022 de acuerdo con lo establecido en la Resolución 00559 del 17 de marzo de 2023 y Plan de Manejo Ambiental.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Andrea</givenName>
+                <surName>Avila</surName>
+            </individualName>
+            <organizationName>Drummond Energy Inc</organizationName>
+            <positionName>Analista Ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 72 #10 07</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(571)5871000</phone>
+            <electronicMailAddress>andrea.avila@drummondenergy.com</electronicMailAddress>
+            <onlineUrl>https://drummondenergy.com/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">in/andrea-avila-055034169/?originalSubdomain=co</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>2023 - LÍNEA BASE / 2024 MONITOREO 1 / 2024 MONITOREO 2: Herpetofauna (Anfibios y Reptiles): La caracterización y análisis de la Herpetofauna se realizó tomando datos relacionados con la composición, riqueza y abundancia de anfibios y reptiles en las diferentes estaciones de muestreo, abarcando el mayor número posible de hábitats, representados por las unidades de cobertura. Ningún ejemplar de este grupo fue lesionado, sacrificado, colectado o fijado como muestra durante su manejo en los muestreos y las capturas fueron con fines de identificación y sin reubicación. Los ejemplares fueron fotografiados y posteriormente liberados en su medio ambiente.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Búsqueda libre sin restricción: Consistió en realizar caminatas, buscando anfibios y reptiles, sin que existieran demasiadas reglas para la búsqueda a excepción de revisar minuciosamente todos los microhábitats disponibles como cuerpos de agua (charcos, caños, lagunas y quebradas, bajos inundables), caminos o trochas dentro del bosque; refugios como troncos, piedras, agujeros, hojarasca o material en descomposición, basado en la metodología de búsqueda libre sin restricción. Estos recorridos se llevaron a cabo durante el día y la noche, en un lapso comprendido entre las 8:00 h y las 11:00 h y entre las 16:00 h y las 21:00 h. Para el caso de capturas posibles, se tuvo el cuidado necesario para no afectar el bienestar de los individuos; en especial, para el caso de las serpientes se empleó la ayuda de una pinza herpetológica, evitando riesgos de mordida (sin importar que se tratase o no de especies venenosas). Simultáneamente con los recorridos de observación se realizó la grabación de registros focales de cantos de anfibios, con una grabadora de periodista, principalmente a individuos que fueron de difícil observación y acceso o que bien solían estar concentrados en considerable densidad.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Avifauna: El registro de la avifauna se basó en la metodología de transectos en franjas de Ralph et al. (1996) 26, que consiste en que el observador registra las aves detectadas mientras camina a través de un área en línea recta y así obtener un registro visual directo (Foto 10) o sonoro. Las divisiones de dicha línea recta son las unidades de medición. Los transectos fueron realizados tanto en la mañana como en la tarde, de las 06:00 h a las 10:30 h y en la tarde de las 15:30 h a las 17:30 h, con longitudes de ± 900 y 300 metros. Para las observaciones en cada uno de los transectos se utilizó una cámara digital de alto poder de zoom.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mastofauna: Con el fin de obtener el inventario de mastofauna en las áreas biosensoras, se realizó la observación y captura de mamíferos presentes en el área, a través del uso de cámaras trampas, colectas manuales, observaciones directas en recorridos, registros indirectos y búsqueda de rastros. Estas técnicas se desarrollaron teniendo en cuenta el tamaño y las características físicas y biológicas de las especies de interés, considerando como pequeños mamíferos aquellos con una masa inferior a 150gr, los medianos entre 150gr y 5kg, y los grandes aquellos con masa superior a 5kg.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos voladores: La toma de datos necesarios para el inventario de mamíferos voladores se realizó a partir de inspecciones en cuevas, troncos, pozos o instalaciones abandonadas a nivel de sotobosque a fin de determinar una línea base preliminar que permita proyectar la utilización de equipos sonoros para próximos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos Medianos y Grandes: Para la obtención de registros directos de mamíferos medianos y grandes se realizó búsqueda libre a través de recorridos libres, tanto diurnos como nocturnos por la zona de estudio. Así mismo se realizó muestreo con cámaras trampas empleando cámaras de fototrampeo instaladas al azar en zonas donde se evidenció algún rastro, madriguera o indicio de presencia de mamíferos en la zona; las cámaras fueron instaladas en las áreas biosensoras con un periodo de actividad entre 12 a 24 horas al igual que en los puntos seleccionados para las áreas en proceso de rehabilitación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se emplearon métodos de detección indirecta y búsqueda de rastros, registrando toda evidencia de alimentación o de actividad que pudiera identificarse de mamíferos, como excretas, pelos y huellas, cada observación fue fotografiada y georreferenciada.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2023 - 2024 RESCATE, TRASLADO Y AHUYENTAMIENTO DE FAUNA: Búsqueda intensiva: Consiste en realizar recorridos por toda el área de trabajo en donde se inspeccionan cada una de las coberturas en búsqueda de animales; en esta técnica también se inspeccionaron madrigueras terrestres, troncos y árboles huecos en donde los animales pueden esconderse. Además de esto, se desarrolla remoción de hojarasca y hojas de palmas caídas con el fin de capturar a los animales que pudiesen encontrarse en ellas. Esta técnica se desarrollaba desde las 06:00 – 10:00 horas y las 17:00-21:00 horas. La búsqueda intensiva es una técnica comúnmente empleada para el registro de diferentes grupos faunísticos, entre estos anfibios y reptiles.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Inspección de Nidos: Se realizó inspección de los nidos presentes en el área de trabajo, se diligenció el formato de control de nidos, recolectando información sobre estado del nido, especie y contenido del nido (Huevos, polluelos), los nidos inactivos fueron destruidos para evitar regreso de especies al área.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Ahuyentamiento de fauna silvestre: con el fin de causar condiciones de estrés ambiental a la fauna que no pudo ser capturada, se realiza estímulos auditivos mediante vuvuzela acompañado de provocaciones mecánicas como movimientos de la vegetación presente en el área de rescate.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Trampas Sherman: Trampas de captura viva, usadas para pequeños mamíferos no voladores con peso inferior a 500 gr, que incluye especies de los órdenes Didelphimorphia y Rodentia. Se activó una red de 20 trampas dispuestas en transectos lineales distanciados entre sí 20m-50m aproximadamente, de tamaño mediano y pequeñas con dimensiones de 38x12x10 y 23x9x7,5 cm, cebadas con una mezcla de avena en hojuela, mantequilla de maní y esencia de vainilla. Se revisaron diariamente con el fin de retirar los animales capturados y recebar.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Trampas Pitfall: también llamadas trampas de pozo o trampas de caída, es una barrera que se ubica estratégicamente y que conduce a los animales hacia un foso o balde. Generalmente esta técnica permite capturar, anfibios, lagartos y en algunas ocasiones mamíferos roedores de pequeño tamaño como ratones y zarigüeyas. Para los rescates se ubicaron dos trampas de barrera de cinco a ocho metros de longitud con cinco baldes de ocho y doce galones enterrados en el piso los cuales fueron revisados diariamente.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Todos los animales capturados son manipulados considerando los protocolos de bioseguridad, seguridad industrial y salud ocupacional, usando diferentes equipos como pinzas, ganchos herpetológicos, pértigas y nasas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Destino final de la fauna: Dependiendo del tipo de grupo taxonómico capturado, los individuos fueron depositados en bolsas de tela y transportados al campamento provisional donde fueron almacenados en contenedores plásticos, cajas plásticas, jaulas y guacales, mientras se realiza el proceso de valoración, identificación y posterior liberación en las zonas receptoras de fauna, a las cuales previamente se les realizó un análisis de idoneidad de hábitat y capacidad de carga, en este caso particular la zona receptora de fauna más cercana es la ubicada en caimancito y está denominada como ZRF_EDN_3.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las áreas seleccionadas para el traslado y reubicación de la fauna silvestre se encuentran adyacentes a los contratos mineros de propiedad de Drummond Ltd. Las zonas de Liberación de Fauna ZRF_EDN_3 y ZRF_PBN_1, fueron seleccionadas ya cumplen con las condiciones ecológicas para la reubicación de fauna rescatada del proyecto Parque Solar Fotovoltaico Cañahuate. En términos de cobertura vegetal, ambas zonas ofrecen coberturas vegetales similares, con estructuras florísticas similares, lo que permitiría su uso indistinto, entre ambas zonas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>A pesar de esto, la zona de recepción de fauna ZRF_EDN_3 ofrece condiciones de rutas acceso que son más apropiadas para trasladar rápidamente los animales (Promedio 40 minutos desde el área del parque solar fotovoltaico) mientras que para la zona ZRF_PBN_1, los accesos son más difíciles (3 horas desde el área del parque solar fotovoltaico), por lo cual la zona escogida de manera definitiva para la liberación de los animales correspondió a la ZRF_EDN_3.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Ahuyentamiento de fauna: Durante los recorridos realizados en las áreas prioritarias para la construcción del parque fotovoltaico Cañahuate Fase 1, se realizó permanente ahuyentamiento de fauna silvestre, a través de estímulo auditivo, en proceso pudieron ser observados y ahuyentados 141 individuos, distribuidos en 22 especies, las cuales todas pertenecen a la clase Mammalia y Aves. Cabe resaltar que estos grupos taxonómicos por lo general presentan una gran movilidad y respuesta a estímulos de perturbación sonoro y físico, por lo que las prácticas de ahuyentamiento son muy efectivas en estos grupos taxonómicos. La abundancia observada corresponde al 34% de la abundancia total registrada durante las labores de rescate y ahuyentamiento y la riqueza represento 36,5% de las especies totales registradas en el rescate en general, entre las cuatro áreas asociadas y priorizadas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Revisión de nidos: Durante las actividades de rescate y ahuyentamiento de fauna realizadas en el mes de septiembre y octubre de 2023, se desarrolló con especial interés el programa de Manejo y Reubicación de Nidos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>A manera de resumen, se reportaron veintiséis (26) nidos de aves que corresponden a veintidós (22) nidos inactivos y cuatro (4) nidos activos. Para los nidos activos se establecieron áreas de restricción con diferentes distancias, que dependen de la especie y de las actividades de la obra. La finalidad de esta limitación de actividades es garantizar la integridad de cada nido para su desarrollo natural hasta que estos sean abandonados por los parentales y sus crías.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los nidos registrados corresponden a nueve (9) especies de aves y una especie indeterminada, siendo Campylorhynchus griseus e Icterus nigrogularis las especies con mayor números de nidos registrados, seis (6) nidos representando el (23%) respectivamente en total, seguido de Machetornis rixosa con cuatro (4) nidos (15%), Columbina passerina tres (3) nidos (12%), dos (2) nidos indeterminados (8%) y por último, las especies Athene cunicularia, Colinus cristatus y Tyto alba con un (1) nido representando el 4% respectivamente en total.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cada nido registrado fue georreferenciado de acuerdo con el sitio en el cual fue reportado dentro del proyecto. Los nidos inactivos registrados fueron inhabilitados para evitar futuras ocupaciones de aves y otros grupos de fauna en las zonas de trabajo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Captura y liberación de Anfibios general: Para la clase Amphibia se registraron un total de 16 especies y 149 individuos, la especie más representativa en el área fue Pleurodema brachyops con 33 individuos y un 22% de la abundancia total, seguido de Leptodactylus fuscus con 24 individuos, representando 16% de la abundancia total registrada por el grupo en el rescate en general. En contra posición las especie menos abundantes en el rescate para los anfibios fueron Scinax x-signatus con un individuo, representando 0,013% de la abundancia general de este grupo en el rescate. A nivel de familia, las especies rescatadas, correspondieron a cinco familias (Bufonidae, Ceratophryidae, Hylidae, Leptodactylidae y Microhylidae) de las cuales la familia Leptodactylidae fue la más representativa tanto en riqueza como en abundancia, representando el 47,3% de todas las especies de anfibios y 71,2% de todos los individuos capturados para el grupo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Captura y liberación de Reptiles: Para la clase Reptilia se registraron en total 18 especies y 121 individuos, la especie más representativa en el área fue Anolis auratus con 38 individuos, representando el 31,4% de la abundancia total del grupo. En contraste las especies menos representativas en cuanto abundancia fueron Leptophis ahaetulla, Micrurus dissoleucus, Iguana iguana Thamnodynastes paraguanae y Epicrates maurus con un individuo cada una, representando 0,8 % de la abundancia general del grupo por individuo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Captura y liberación de Mamíferos: Para la clase Mammalia se registraron en total cuatro especies y 39 individuos, las especies más representativa en el área fueron Proechimys magdalenae y Oligoryzomys delicatus con 17 y 13 individuos cada uno, los cuales fueron capturados mediante trampas Sherman. A nivel de familia, las especies rescatadas, pertenecen a cuatro familias, las cuales estuvieron representadas cada una por una especie, en relación con la abundancia las familias más representativas fueron Echimyidae, Didelphidae, Chlamyphoridae y Cricetidae</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Área de libración: El área dispuesta por Drummond Energy, Proyecto Solar Fotovoltaico Cañahuate para efectuar las liberaciones representa una extensión de bosque con características ecológicas similares al área intervenida (Figura 5). Ésta se ubica en el bosque contiguo al caño Caimancito, el cual mantiene importantes coberturas vegetales que ofrecen refugio y oferta de alimento a la fauna ahí reubicada. Esta área tiene una extensión de 301 ha y se reubicaron 313 individuos que corresponden a 149 Amphibia de 17 especie, Reptilia 121 individuos de 18 especies y Mamífero 39 individuos de 4 especies.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Proceso de Liberación: La liberación de los ejemplares rescatados se realizó dependiendo de los ambientes específicos para cada grupo taxonómico y/o especie, y considerando su conducta territorial y hábitos sociales para no separar núcleos familiares, manadas u otras estructuras gregarias. Para esto se tuvo en cuenta los estudios preliminares realizados sobre el Zona de Recepción de Fauna, en la cual se identificaron aspectos como idoneidad de hábitat y capacidad de carga del área receptora.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se realizó un registro de las actividades de reubicación diario durante el periodo en que éstas fueron efectuadas, referenciando, la siguiente información: Nombre y cargo del profesional encargado de realizar la actividad, Fecha y hora, Descripción de la etapa y actividad del proyecto asociada, Descripción detallada del procedimiento, Lugar, cobertura vegetal y descripción de los hábitats presentes, Condiciones ambientales, Coordenadas, Especie, Nombre común, Abundancia (número de individuos por especie), Estado de los individuos (herido, en buen estado, etc), Manejo (el sugerido para el espécimen dado por el profesional encargado), Sitio de liberación con coordenadas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El registro muestra además datos por individuo rescatado, relacionando su identificación taxonómica, forma de captura, estado de salud, tratamientos requeridos por los individuos en caso de trauma o estado de salud no óptimo, tipo de transporte utilizado para el traslado, detalles del evento de la liberación.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Con una extensión territorial de 147.56 ha en su etapa inicial, el proyecto “Parque Solar Fotovoltaico Cañahuate 240 MW” está ubicado en el departamento del Cesar, en los municipios de El Paso y Chiriguaná, específicamente en el corregimiento de La Loma de Calenturas y en la vereda Los Cerrajones.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El proyecto contemplo actividades como: consolidación de una línea base, actividades de rescate y ahuyentamiento de fauna, censado y relocalización de aves y nidos y dos monitoreos de fauna silvestre.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Parque Solar Fotovoltaico Cañahuate 240 MV Etapa I (54MW)</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Andrea</givenName>
+                    <surName>Avila</surName>
+                    </individualName>
+            <userId directory="https://www.linkedin.com/profile/view?id=">in/andrea-avila-055034169/?originalSubdomain=co</userId>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>El proyecto Parque Solar Fotovoltaico Cañahuate 240 MW tiene como objetivo la construcción de un parque de generación solar fotovoltaico con capacidad nominal de 240 MW AC y su línea de conexión al switchyard Mina de Drummond. El Proyecto se desarrollará en dos etapas: Etapa 1 – Proyecto de autogeneración con capacidad de 100 MW AC, y Etapa 2 – Proyecto de generación con capacidad de 140 MW AC.</para>
+                </abstract>
+                <funding>
+                    <para>Drummond Energy Inc</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Con una extensión territorial de 147.56 ha en su etapa inicial, el proyecto “Parque Solar Fotovoltaico Cañahuate 240 MW” está ubicado en el departamento del Cesar, en los municipios de El Paso y Chiriguaná, específicamente en el corregimiento de La Loma de Calenturas y en la vereda Los Cerrajones.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>El proyecto contemplo actividades como: consolidación de una línea base, actividades de rescate y ahuyentamiento de fauna, censado y relocalización de aves y nidos y dos monitoreos de fauna silvestre.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:02Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/rkidfj">Drummond Energy Inc, Consultorias y Proyectos de Cesar S.A.S. (2025). Caracterización de fauna del proyecto Parque Solar Fotovoltaico Cañahuate 240 MV Etapa I (54MW) en el departamento de Cesar (2023, 2024). Version 1.1. Drummond Energy Inc.. Sampling event dataset https://doi.org/10.15472/rkidfj accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-drummondenergy.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

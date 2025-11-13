@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="5fdcdc28-2a80-4236-a257-866b42ed250c"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/biosam</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=cerrejon_monitoreos_trianuales_fauna</alternateIdentifier>
+        <title>Monitoreos trianuales de fauna y flora en el Valle del Cerrejón, La Guajira</title>
+        <creator>
+            <individualName>
+                <givenName>Daniel</givenName>
+                <surName>Dávila Reyes</surName>
+            </individualName>
+            <organizationName>Cerrejón Minería responsable</organizationName>
+            <positionName>Superintendente (e) Biodiversidad, Rehabilitación de Tierras y Compensaciones</positionName>
+            <address>
+                <deliveryPoint>Calle 100 No. 19-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57-1-595-5431</phone>
+            <electronicMailAddress>Daniel.Davila@cerrejon.com</electronicMailAddress>
+            <onlineUrl>https://www.cerrejon.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Juan David</givenName>
+                <surName>Suarez Avellaneda</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Botánico</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Carlos H</givenName>
+                <surName>Gantiva – Q</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Entomólogo</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Victor Hugo</givenName>
+                <surName>Capera Moreno</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Herpetólogo</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Estefania</givenName>
+                <surName>Izquierdo Gómez</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Ornitólogo</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Santiago</givenName>
+                <surName>Cañón Escobar</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Mastozoologo</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Dolly</givenName>
+                <surName>González Torres</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Primates</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Miguel</givenName>
+                <surName>Manjarres</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Felinos</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Maribel</givenName>
+                <surName>Herrera Palma</surName>
+            </individualName>
+            <organizationName>Servicios geográficos y ambientales</organizationName>
+            <positionName>Botánica</positionName>
+            <address>
+                <deliveryPoint>Calle 11 B No. 40A – 130 Piso 4</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mherrera@sag-sa.com.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jenilee</givenName>
+                <surName>Montes Fontalvo</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Entomólogo</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Camila</givenName>
+                <surName>Durán Prieto</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Herpetóloga</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Federico</givenName>
+                <surName>Mosquera Guerra</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Felinos</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Andrea</givenName>
+                <surName>Flórez</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Primates</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Marjorie</givenName>
+                <surName>Pinzón Arias</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Tortugas</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jessica</givenName>
+                <surName>Díaz</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Ornitóloga</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Margarita</givenName>
+                <surName>Moreno Arocha</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Primates</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Edgar A</givenName>
+                <surName>Patiño Florez</surName>
+            </individualName>
+            <organizationName>Fundación Hidrobiológica George Dahl</organizationName>
+            <positionName>Director General</positionName>
+            <address>
+                <deliveryPoint>Kra. 43 No. 47-32</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3511856</phone>
+            <electronicMailAddress>prensa@fhgdcolombia.com</electronicMailAddress>
+            <onlineUrl>https://fhgdcolombia.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Martha Luz</givenName>
+                <surName>Guerra</surName>
+            </individualName>
+            <organizationName>Fundación Hidrobiológica George Dahl</organizationName>
+            <positionName>Directora administrativa</positionName>
+            <address>
+                <deliveryPoint>Kra. 43 No. 47-32</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3511856</phone>
+            <electronicMailAddress>prensa@fhgdcolombia.com</electronicMailAddress>
+            <onlineUrl>https://fhgdcolombia.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Verena</givenName>
+                <surName>Fuentes</surName>
+            </individualName>
+            <organizationName>Fundación Hidrobiológica George Dahl</organizationName>
+            <positionName>Bióloga marina</positionName>
+            <address>
+                <deliveryPoint>Kra. 43 No. 47-32</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3511856</phone>
+            <electronicMailAddress>prensa@fhgdcolombia.com</electronicMailAddress>
+            <onlineUrl>https://fhgdcolombia.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Luis Guillermo</givenName>
+                <surName>Rojas</surName>
+            </individualName>
+            <organizationName>Fundación Hidrobiológica George Dahl</organizationName>
+            <positionName>Biólogo marina</positionName>
+            <address>
+                <deliveryPoint>Kra. 43 No. 47-32</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3511856</phone>
+            <electronicMailAddress>prensa@fhgdcolombia.com</electronicMailAddress>
+            <onlineUrl>https://fhgdcolombia.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Gustavo</givenName>
+                <surName>Herrera Suárez</surName>
+            </individualName>
+            <organizationName>Fundación Hidrobiológica George Dahl</organizationName>
+            <positionName>Biólogo</positionName>
+            <address>
+                <deliveryPoint>Kra. 43 No. 47-32</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3511856</phone>
+            <electronicMailAddress>prensa@fhgdcolombia.com</electronicMailAddress>
+            <onlineUrl>https://fhgdcolombia.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jader</givenName>
+                <surName>Díaz Bustillo</surName>
+            </individualName>
+            <organizationName>Asesorías y Estudios Ambientales J.D.B</organizationName>
+            <positionName>Dirección general</positionName>
+            <address>
+                <deliveryPoint>Mzna. 16 - Casa 9. Urb. Líbano 2000 - Piso 1</deliveryPoint>
+                <city>Santa Marta</city>
+                <administrativeArea>Magdalena</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57-1-595-5431</phone>
+            <electronicMailAddress>info@aeam.com.co</electronicMailAddress>
+            <onlineUrl>https://www.cerrejon.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Daniel</givenName>
+                <surName>Dávila Reyes</surName>
+            </individualName>
+            <organizationName>Cerrejón Minería responsable</organizationName>
+            <positionName>Superintendente (e) Biodiversidad, Rehabilitación de Tierras y Compensaciones</positionName>
+            <address>
+                <deliveryPoint>Calle 100 No. 19-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57-1-595-5431</phone>
+            <electronicMailAddress>Daniel.Davila@cerrejon.com</electronicMailAddress>
+            <onlineUrl>https://www.cerrejon.com/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Fundación Omacha</surName>
+            </individualName>
+            <organizationName>Fundación</organizationName>
+            <positionName>Fundación</positionName>
+            <address>
+                <deliveryPoint>Calle 84 #21-64 barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(571) 2564682</phone>
+            <electronicMailAddress>contactenos@omacha.org</electronicMailAddress>
+            <onlineUrl>https://omacha.org/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Servicios Ambientales y Geográficos S.A.</surName>
+            </individualName>
+            <organizationName>Servicios Ambientales y Geográficos S.A.</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 11 B No. 40A – 130 Piso 4, El Poblado</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(574) 403 55 70</phone>
+            <electronicMailAddress>sag.sa@sag-sa.com</electronicMailAddress>
+            <onlineUrl>http://www.sag-sa.com/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Fundación Hidrobiológica George Dahl</surName>
+            </individualName>
+            <organizationName>Fundación Hidrobiológica George Dahl</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Kra. 43 No. 47-32</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3511856</phone>
+            <electronicMailAddress>prensa@fhgdcolombia.com</electronicMailAddress>
+            <onlineUrl>https://fhgdcolombia.com/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Asesorías y Estudios Ambientales J.D.B</surName>
+            </individualName>
+            <organizationName>Asesorías y Estudios Ambientales J.D.B</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Mzna. 16 - Casa 9. Urb. Líbano 2000 - Piso 1</deliveryPoint>
+                <city>Santa Marta</city>
+                <administrativeArea>Magdalena</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(5) 435 4771</phone>
+            <electronicMailAddress>info@aeam.com.co</electronicMailAddress>
+            <onlineUrl>https://aeam.com.co/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2022-09-02
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>En el año 2016, Cerrejón inició la modificación parcial de un tramo de 3.6 kilómetros a una distancia de 700 m del cauce natural del arroyo Bruno, para expansión de sus áreas de explotación minera ubicadas en el tajo la Puente. Teniendo en cuenta lo anterior, se propuso un programa de monitoreo de la calidad del agua y varios componentes fisicoquímicos y biológicos, que permitan llegar a conocer la efectividad de las medidas implementadas para la conformación ambiental del cauce modificado en función del tiempo.</para>
+<para>El presente conjunto de datos contiene los resultados de los monitoreos trianuales de flora y fauna (peces, reptiles, anfibios, aves, mamíferos, arácnidos e insectos), en las diferentes unidades de paisaje del complejo minero del Valle del Cerrejón durante los períodos 2005/2006; 2009/2010; 2016/2017; 2019; 2020.</para>
+<para>En total comprende 80.359 registros biológicos, entre ausencias (11.426) y presencias (68.933). De estos registros 48.177 pertenecen al monitoreo trianual 2005/2006; 15.738 al monitoreo 2009/2010; 7.624 al monitoreo 2016/2017; 2.512  al monitoreo 2019; 6.308 al monitoreo 2020. Abarcando los siguientes municipios: Albania (25.382), Barrancas (34.185), Hatonuevo (18.854), Maicao (149), Fonseca (166) y Riohacha (96) todos en el departamento de La Guajira.</para>
+<para>Los registros están distribuidos en 2 reinos: Animalia (73.371), Plantae (6.988). Un 66.3% esta clasificado a nivel de especie, 11.5% a género, 21.8% a familia y 0.14% a categorías superiores. Adicionalmente, contiene información de medidas bióticas para cuerda alar en aves (76), peso en aves (73) y diámetro a la altura del pecho (27).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Insectos</keyword>
+            <keyword>monitoreos trianuales</keyword>
+            <keyword>Anfibios</keyword>
+            <keyword>época seca</keyword>
+            <keyword>Mamíferos</keyword>
+            <keyword>Aves</keyword>
+            <keyword>época de lluvia</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=cerrejon_monitoreos_trianuales_fauna</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El área de estudio comprende una zona de aptitud minera ubicada en los predios de la mina el Cerrejón que abarcan 30.444,57 ha, enmarcada en un área de influencia de 64.467,02 ha, localizadas entre los municipios de Hato Nuevo, Albania, Barrancas y Maicao en el departamento de la Guajira. Aproximadamente el 38% del área de influencia tiene territorios agrícolas entre cultivos y pastos de ganadería y un 10% pertenecen a área de territorios artificializados como zonas urbanas y zonas mineras.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.012</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.518</eastBoundingCoordinate>
+                    <northBoundingCoordinate>11.176</northBoundingCoordinate>
+                    <southBoundingCoordinate>10.784</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2005-10-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2020-09-07
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Los registros están distribuidos en 2 reinos: Animalia (73.371), Plantae (6.988). Un 66.3% esta clasificado a nivel de especie, 11.5% a género, 21.8% a familia y 0.14% a categorías superiores.
+
+El reino Animalia está distribuido en 2 filo, 7 clases, 55 ordenes, 274 familias, 535 géneros y 721 especies. Un 65% esta clasificado a nivel de especie, 11% a género, 24% a familia y 0.01% a categorías superiores.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arachnida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Plantae está distribuido en 2 filos, 3 clases, 27 ordenes, 63 familias, 214 géneros y 240 especies. Un 79% clasificado a nivel de especie, 16.5% a género, 1.6% a familia y 1.9% a categorías superiores.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Equisetopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Daniel</givenName>
+                <surName>Dávila Reyes</surName>
+            </individualName>
+            <organizationName>Cerrejón Minería responsable</organizationName>
+            <positionName>Superintendente (e) Biodiversidad, Rehabilitación de Tierras y Compensaciones</positionName>
+            <address>
+                <deliveryPoint>Calle 100 No. 19-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57-1-595-5431</phone>
+            <electronicMailAddress>Daniel.Davila@cerrejon.com</electronicMailAddress>
+            <onlineUrl>https://www.cerrejon.com/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Las metodologías para anfibios y reptiles fueron: 
+Inspección por encuentro visual y tiempo en donde se realizaron recorridos en la mañana y en la noche tomando en cuenta las horas de mayor actividad de las especies. Las caminatas diurnas iniciaron a las 08:00 h aproximadamente y finalizaron a las 11:00 h y las nocturnas se realizaron entre las 18:00 h y 22:00 h aproximadamente. Cada estación fue recorrida durante dos días, con un esfuerzo de muestreo diario efectivo de seis horas/hombre, repartidas en tres horas diurnas y tres nocturnas.
+
+Se instalaron en las estaciones E1 y E3 trampas de caída con cercas de desvío, que buscan capturar principalmente especies terrestres y fosoriales. El sistema de trampas usado consistió en cinco tanques, cuatro de ellos de 9 gal y uno de 30 gal, enterrados a ras del suelo y separados entre sí a una distancia de 10 metros. Para cada set de trampas, se dispusieron linealmente los recipientes. En los dos casos, la revisión de las trampas se hizo en horas de la mañana  entre las 7:00 y las 9:00 durante ocho días efectivos para cada una.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las metodologías para aves fueron transectos libres y redes de niebla
+
+-Se realizaron transectos de observación, en donde se recorrieron tres tramos de 300 m cada uno, completándose 1,5 Km en cada estación. Adicionalmente se realizaron recorridos libres que permiten la percepción visual y auditiva de la mayor cantidad de individuos, por lo que se empleó un mayor tiempo en la implementación de esta metodología, completándose en cada estación una mañana (posterior a la realización de los transectos) y una tarde en las horas pico de actividad de las aves. Se completaron cuatro días en total para la implementación de transectos y recorridos libres.
+
+-Las redes fueron ubicadas en tándem o separadas por poca distancia e instaladas en los límites entre dos tipos de hábitat (ecotonos). Fueron instaladas de cinco a ocho redes de niebla ECOTONE (dimensiones: 12 m x 2.5 m, 12 mm ojo de malla), que fueron operadas de las 5:30 a.m. a las 10:30 a.m. Se anilló a las aves capturadas cuando fue posible, lo que permitirá identificar individuos y taza de recambio.
+
+Se determinó la identidad taxonómica de las especies observadas y capturadas con las redes de niebla empleando	guías de campo Birds of	Colombia	(Hilty y Brown,	1986), Field Guide to the Birds of Colombia (McMullan	et al	2014), Tangaras de Colombia (Ayerbe-Quñones 2013), National Geographic fiel guide to the birds of North America (Dunn J. L 2011), The Sibley	Guide to Birds. Segunda	Edición (Sibley, 2014), Lista de Chequeo de las Aves de Colombia (Salaman et al. 2001) y las escuchadas	por comparación con las	grabaciones de Xeno-canto (www.xeno-canto.org). La nomenclatura y secuencia taxonómica de las especies encontradas sigue a Clements et al. (2016).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las metodologías empleadas para el muestreo de Mamíferos fueron: fototrampeo con sensor de calor, trampeo con trampas Sherman, redes de niebla, Tomajawk, recorridos libres en busca de individuos (observación directa) y de indicios (rastros) de la presencia de mamíferos en el área. Adicionalmente se realizaron grabaciones de murciélagos (bioacústica). Cada Estación de monitoreo fue trabajada durante dos días. Algunas metodologías como el fototrampeo y el trampeo (Sherman) se desplegaron por más tiempo.
+
+Para la identificación de individuos	 y de registros	de mamíferos terrestres se utilizaron claves y bibliografía especializada: Aranda 2000; Chame 2003; Defler 2003; Morales et al. 2004; Solari et	al. 2013; Tirira	2007. Las fotos obtenidas fueron analizadas y los animales identificados, siguiendo la	orientación taxonómica de Wilson &amp; Reeder (2005); Emmons &amp;	Feer	(1997). Para la identificación taxonómica de mamíferos voladores se utilizaron claves especializadas (Albuja 1999; Linares 1998; Muñoz 2001; Tirira 2008)</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La metodología para el muestreo de flora fue: Realizar parcelas de muestreo rápido para estudios florísticos de Bosques Tropicales descrito por Gentry (1982), el cual se basa en un muestreo de 0.1 hectárea, subdividida en 10 parcelas de 50m x 2m (100 m2) cada una. Cada parcela fue dividida en dos secciones de 50 m2; de un lado se registraron sólo los individuos con DAP mayor o igual a 2.5 cm, del otro lado se registraron todos los individuos presentes sin discriminar diámetro del DAP o altura. Para cada individuo dentro de la parcela se registró altura, diámetro  del tallo a la altura del pecho (DAP), cobertura o radio de la copa, información botánica in situ de características necesarias  para  la determinación de las especies como presencia de exudados, olores, colores de flores y frutos, las cuales se pierden en el proceso de herborización. Con el fin  de caracterizar las diferentes áreas y censar fenofases de las especies vegetales, se realizaron transectos de longitud y dirección variables en todas las localidades de estudio, realizando colectas aleatorias de muestras florecidas y/o fructificadas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La metodología para insectos fue:
+-Hormigas: Captura manual haciendo búsqueda activa en depósitos de detritus, vegetación y troncos en descomposición a los largo de los recorridos, se instalaron 10 trampas de caída sin cebo por punto de muestreo, trampas Winckler con las que se colecto 1m2 de hojarasca
+-Escarabajos coprófagos: Se usaron 10 trampas de caída por cada punto de muestreo, con agua y detergente, cebadas con excremento humano
+-Mariposas: Se realizaron transectos lineales de 150m con 5 a 7 trampas Van Someren Rydon cada 30m ubicadas a una altura de 1m a 3m del suelo aproximadamente, se utilizó banano y papaya en descomposición como cebo, además se realizaron caminatas de reconocimiento de ambiente y colecta selectiva con seis horas efectivas</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área de estudio comprende una zona de aptitud minera ubicada en los predios de la mina el Cerrejón que abarcan 30.444,57 ha, enmarcada en un área de influencia de 64.467,02 ha localizadas entre los municipios de Hato Nuevo, Albania, Barrancas y Maicao en el departamento de la Guajira.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los monitoreos realizados comprenden el componente de flora y el componente de fauna terrestre (reptiles, anfibios, insectos, aves, mamíferos en general y dos grupos focales dentro de ellos: primates y felinos.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Caracterización Hidrobiológica, de Fauna y Flora trianual 2005 al 2020 - Valle del Cerrejón</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Fundación</givenName>
+                    <surName>Omacha</surName>
+                    </individualName>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:55Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/biosam">Dávila Reyes D, Suarez Avellaneda J D, Gantiva – Q C H, Capera Moreno V H, Izquierdo Gómez E, Cañón Escobar S, González Torres D, Manjarres M, Herrera Palma M, Montes Fontalvo J, Durán Prieto C, Mosquera Guerra F, Flórez A, Pinzón Arias M, Díaz J, Moreno Arocha M, Patiño Florez E A, Guerra M L, Fuentes V, Rojas L G, Herrera Suárez G, Díaz Bustillo J (2022). Monitoreos trianuales de fauna y flora en el Valle del Cerrejón, La Guajira. Carbones del Cerrejón Limited. Occurrence dataset https://doi.org/10.15472/biosam accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>01493_cerrejonbio_20200731</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=01493_cerrejonbio_20200731</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>01493_cerrejonbio_20210519</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=01493_cerrejonbio_20210519</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-cerrejon.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

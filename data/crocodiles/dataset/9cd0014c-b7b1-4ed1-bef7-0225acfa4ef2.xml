@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="9cd0014c-b7b1-4ed1-bef7-0225acfa4ef2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/mi2dlu</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=smns_herps</alternateIdentifier>
+        <alternateIdentifier>9cd0014c-b7b1-4ed1-bef7-0225acfa4ef2</alternateIdentifier>
+        <alternateIdentifier>14192</alternateIdentifier>
+        <title>SMNS Herpetologie</title>
+        <creator>
+            <individualName>
+                <givenName>Dr. Andreas</givenName>
+                <surName>Schlüter</surName>
+            </individualName>
+            <organizationName>Staatliches Museum für Naturkunde Stuttgart</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <country>GERMANY</country>
+            </address>
+            <phone>+49 711 8936 257</phone>
+            <electronicMailAddress>schlueter.smns@naturkundemuseum-bw.de</electronicMailAddress>
+            <onlineUrl>http://www.naturkundemuseum-bw.de/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Dr. Andreas</givenName>
+                <surName>Schlüter</surName>
+            </individualName>
+            <organizationName>Staatliches Museum für Naturkunde Stuttgart</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <country>GERMANY</country>
+            </address>
+            <phone>+49 711 8936 257</phone>
+            <electronicMailAddress>schlueter.smns@naturkundemuseum-bw.de</electronicMailAddress>
+            <onlineUrl>http://www.naturkundemuseum-bw.de/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>David</givenName>
+                <surName>Bloom</surName>
+            </individualName>
+            <organizationName>VertNet</organizationName>
+            <positionName>VertNet Programmer</positionName>
+            <phone>+01 785 813-1496</phone>
+            <electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>David</givenName>
+                <surName>Bloom</surName>
+            </individualName>
+            <organizationName>VertNet</organizationName>
+            <positionName>VertNet Coordinator</positionName>
+            <electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>John</givenName>
+                <surName>Wieczorek</surName>
+            </individualName>
+            <organizationName>Museum of Vertebrate Zoology at Berkeley</organizationName>
+            <positionName>Information Architect</positionName>
+            <electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <pubDate>
+                2015-02-17
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The herpetological collection at the SMNS comprises about 20,000 specimens from all over the world. Some of the material is historically valuable. After Baron Carl Ferdinand von Ludwig (1784-1847) and Duke Paul Wilhelm von Württemberg (1797-1860) had added their specimens, the herpetological collection grew further through material collected by Baron F. von Müller (collected between 1836-1896) and August Kappler (collected between 1832-1872). More detailed information is published in the type catalogue, that can be obtained from the curator. Important parts of the collection are tortoise, crocodiles and neotropical amphibians.
+
+Through destruction of parts of the collection during the Second World War important information has been lost. It was necessary to reorganise and record the entire collection. In addition to collection-based research, studies on the ecology of South American frogs, toads and reptiles are conducted. Our knowledge of species composition and ecology of rainforests contrasts sharply with the speed that these habitats vanish from our planet. The analysis of such complex ecosystems can only be achieved step by step by looking at smaller systems within larger ones. In cooperation with the Natural History Museum at Lima (Museo de Historia Natural de la Universidad San Marcos), species composition and ecology of amphibians and reptiles in small pools within the Peruvian rainforest have been under investigation since 1977. These pools and streams are such &amp;#39;smaller systems&amp;#39; that at least, on a temporary basis, offer ideal conditions to many species. A massive undertaking is to find out more about the food chains in these habitats. Most amphibians and reptiles are very sensitive to environmental change and are often at the centre of the food chain which makes them perfect indicators of an ecosystem. The identification of frogs and toads is often done by recording their call and subsequent analysis of the tapes which result in sonograms. On the other hand, to identify snakes, lizards and crocodiles it is often necessary to count rows of scales and for some species you have to look at their teeth with magnifying glass. This is of course difficult with wriggly, living and often poisonous animals and it is often easier to identify those as part of a scientific collection. Some of the specimens preserved in alcohol are over 200 years old and are used for taxonomic research as well as being available for the international research community. The entire collection is inventoried on a computer database.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.vertnet.org/archive.do?r=smns_herps</url>
+            </online>
+        </distribution>
+        <contact>
+            <individualName>
+                <givenName>Dr. Andreas</givenName>
+                <surName>Schlüter</surName>
+            </individualName>
+            <organizationName>Staatliches Museum für Naturkunde Stuttgart</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <country>GERMANY</country>
+            </address>
+            <phone>+49 711 8936 257</phone>
+            <electronicMailAddress>schlueter.smns@naturkundemuseum-bw.de</electronicMailAddress>
+            <onlineUrl>http://www.naturkundemuseum-bw.de/</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:22Z</dateStamp>
+                <citation>Schlüter D A (2015). SMNS Herpetologie. Staatliches Museum für Naturkunde Stuttgart. Occurrence dataset https://doi.org/10.15468/mi2dlu accessed via GBIF.org on 2025-10-11.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="78b82f66-05ae-4f63-9c02-9a6a7d3aa9b8"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/02ykez</alternateIdentifier>
+        <alternateIdentifier>78b82f66-05ae-4f63-9c02-9a6a7d3aa9b8</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sinchi/resource?r=sinchi_expedicion_binacional_reptiles</alternateIdentifier>
+        <title>Reptiles de la cuenca media del río Putumayo, el Encanto, Amazonas - Expedición Binacional</title>
+        <creator>
+            <individualName>
+                <givenName>José Rances</givenName>
+                <surName>Caicedo Portilla</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas - SINCHI</organizationName>
+            <positionName>Investigador asociado, integrante del Grupo de Fauna Amazónica, curador colección de reptiles</positionName>
+            <address>
+                <deliveryPoint>Avenida Vásquez Cobo entre calles 15 y 16</deliveryPoint>
+                <city>Leticia</city>
+                <administrativeArea>Amazonas</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jcaicedo@sinchi.org.co</electronicMailAddress>
+            <onlineUrl>https://www.sinchi.org.co/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0001-5689-5657</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Mariela</givenName>
+                <surName>Osorno Muñoz</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas - SINCHI</organizationName>
+            <positionName>Investigadora Principal, coordinadora Ecosistemas y Recursos Naturales, curadora colección de anfibios</positionName>
+            <address>
+                <deliveryPoint>Avenida Vásquez Cobo entre calles 15 y 16</deliveryPoint>
+                <city>Leticia</city>
+                <administrativeArea>Amazonas</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mosorno@sinchi.org.co</electronicMailAddress>
+            <onlineUrl>https://www.sinchi.org.co/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0001-9333-068X</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Doris Laurinette</givenName>
+                <surName>Gutiérrez Lamus</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas - SINCHI</organizationName>
+            <positionName>Investigadora contratista, curadora colección de anfibios</positionName>
+            <address>
+                <deliveryPoint>Avenida Vásquez Cobo entre calles 15 y 16</deliveryPoint>
+                <city>Leticia</city>
+                <administrativeArea>Amazonas</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>lgutierrez@sinchi.org.co</electronicMailAddress>
+            <onlineUrl>https://www.sinchi.org.co/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-9801-4544</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>José Rances</givenName>
+                <surName>Caicedo Portilla</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas - SINCHI</organizationName>
+            <positionName>Investigador asociado, integrante del Grupo de Fauna Amazónica, curador colección de reptiles</positionName>
+            <address>
+                <deliveryPoint>Avenida Vásquez Cobo entre calles 15 y 16</deliveryPoint>
+                <city>Leticia</city>
+                <administrativeArea>Amazonas</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jcaicedo@sinchi.org.co</electronicMailAddress>
+            <onlineUrl>https://www.sinchi.org.co/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0001-5689-5657</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Dairon</givenName>
+                <surName>Cárdenas López</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas - SINCHI</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Avenida Vásquez Cobo entre Calles 15 y 16</deliveryPoint>
+                <city>Leticia</city>
+                <administrativeArea>Amazonas</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dcardenas@sinchi.org.co</electronicMailAddress>
+            <onlineUrl>https://www.sinchi.org.co/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-7495-7564</userId>
+            <role>PROCESSOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-05-03
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>La Expedición Binacional a la Biodiversidad de la Cuenca del río Putumayo entre Perú y Colombia es una oportunidad valiosa para documentar la diversidad biológica de la cuenca media del río Putumayo y su potencial de uso sostenible, que presenta un estado de conservación ideal con muy poca transformación de coberturas naturales, características que han motivado la creación áreas protegidas en la región. Es por lo tanto un área representativa de los ecosistemas de la cuenca amazónica influenciados por ríos de aguas negras; en consecuencia, es un área representativa de la flora y fauna de esta importante región del territorio nacional fronteriza. El objetivo principal del proyecto  se enfoca en caracterizar la diversidad biológica de la cuenca media del río Putumayo en la frontera Perú-Colombia.</para>
+<para>El presente recurso cuenta con información de 74 registros biológicos de las clase Reptilia recolectados durante el mes de abril 2022 en el área no municipalizada de El Encanto y San Rafael, Amazonas.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>ColombiaBio</keyword>
+            <keyword>El Encanto</keyword>
+            <keyword>Expedición científica</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sinchi/archive.do?r=sinchi_expedicion_binacional_reptiles</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El muestreo se realizó en el departamento del Amazonas, municipio El Encanto.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.266</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.197</eastBoundingCoordinate>
+                    <northBoundingCoordinate>-1.665</northBoundingCoordinate>
+                    <southBoundingCoordinate>-1.748</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2022-04-09
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-04-25
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este conjunto de datos comprende 74 registros biológicos, perteneciente al reino Animalia, filo Chordata, clase Reptilia, orden Squamata, en el cual se registraron 14 familias, 33 géneros y 37 especies. Se resalta la gran diversidad de serpientes, con 18 especies, especialmente de la familia Colubridae; Así mismo, los lagartos de hojarasca de la familia Gymnophthalmidae se registraron cinco especies. Un 95% esta clasificado a nivel de especie y 4% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alligatoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Boidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Colubridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dactyloidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Elapidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gekkonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gymnophthalmidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hoplocercidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Scincidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sphaerodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Teiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Tropiduridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Typhlopidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Viperidae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>José Rances</givenName>
+                <surName>Caicedo Portilla</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas - SINCHI</organizationName>
+            <positionName>Investigador asociado, integrante del Grupo de Fauna Amazónica, curador colección de reptiles</positionName>
+            <address>
+                <deliveryPoint>Avenida Vásquez Cobo entre calles 15 y 16</deliveryPoint>
+                <city>Leticia</city>
+                <administrativeArea>Amazonas</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jcaicedo@sinchi.org.co</electronicMailAddress>
+            <onlineUrl>https://www.sinchi.org.co/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0001-5689-5657</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Mariela</givenName>
+                <surName>Osorno Muñoz</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas - SINCHI</organizationName>
+            <positionName>Investigadora Principal, coordinadora Ecosistemas y Recursos Naturales, curadora colección de anfibios</positionName>
+            <address>
+                <deliveryPoint>Avenida Vásquez Cobo entre calles 15 y 16</deliveryPoint>
+                <city>Leticia</city>
+                <administrativeArea>Amazonas</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mosorno@sinchi.org.co</electronicMailAddress>
+            <onlineUrl>https://www.sinchi.org.co/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0001-9333-068X</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>La búsqueda libre de anfibios y reptiles se realizo principalmente de 6:30 p.m a 11:30 p.m. Para efectuar la búsqueda, captura y/u observación de reptiles, se realizaron recorridos utilizando el método de búsqueda libre por encuentro visual azaroso (Crump &amp; Scott 1994, Guyer &amp; Donnelly 2012); los muestreos se realizaron principalmente en la noche, aunque algunos muestreos fueron realizados en el día. Los hábitats muestreados fueron los bosques de tierra firme, bosques inundables, rastrojos, bosques abiertos, la vegetación emergente de caños y en los alrededores de ambas comunidades (hábitats antropizados).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El protocolo de muestreo incluyó perturbar el sustrato para detectar los individuos de hojarasca y la búsqueda desde el suelo hasta los 3 metros de altura aproximadamente, los individuos se capturaron manualmente y se mantuvieron en bolsas de tela numeradas para su posterior identificación en el campamento, las serpientes y cachirres medianos fueron capturadas por medio de ganchos y pinzas herpetológicas. Se recolectaron ejemplares voucher de cada punto de muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>A todos los ejemplares recolectados se les describió el patrón de coloración y los datos habituales de hábitat, microhábitat y coordenadas. La mayor parte de los ejemplares fueron fotografiados, adicionalmente a algunos ejemplares se les tomaron muestras de tejido para posteriores estudios a nivel molecular.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los reptiles, fueron sacrificados por medio de una inyección pericárdica de roxicaina al 2%, posteriormente fueron fijados en formaldehído al 10% durante 15 días. En el laboratorio, todos los ejemplares fueron lavados con agua y finalmente preservados en alcohol al 70%. Todos los individuos recolectados se encuentran depositados en la colección de reptiles del Instituto Sinchi (SINCHI-R)</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La nomenclatura para reptiles sigue la taxonomía presentada por Uetz et al. (2022). .</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La expedición se desarrolló en la cuenca del río Putumayo que se constituye en una de las cuencas de mayor importancia para Colombia y Perú, dado su carácter de frontera natural y hacer parte de la cuenca Amazónica. Es una de las regiones más alejadas de los centros poblados de desarrollo en ambos países, no solo geográficamente, sino por la débil presencia de los estados, situación reflejada en el nivel de desarrollo alcanzado en sus poblados y entes administrativos locales.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Del 9 al 25 de abril del 2022 se llevaron a cabo los muestreos de reptiles en el área no municipalizada del El Encanto, departamento de Amazonas, en los diferentes hábitats disponibles en los alrededores de la comunidad de El Encanto (S 1° 44´ 50.2, W 73° 12´ 31.1”) y de San Rafael de Caraparaná (S 1° 41 ́ 18.7”, W 73° 14´ 22.6”). Para la captura de los ejemplares se contó con el apoyo de 12 coinvestigadores locales (6 en El Encanto y 6 en San Rafael) quienes nos guiaron dentro de sus territorios para realizar la búsqueda libre de anfibios y reptiles</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="Expedición_Binacional_Perú_Colombia">
+                <title>Expedición Binacional a la Biodiversidad de la Cuenca de río Putumayo entre Perú y  Colombia.</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Edwin</givenName>
+                    <surName>Agudelo Córdoba</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0001-9318-2568</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para>La realización de Expedición Binacional a la Biodiversidad de la Cuenca de río Putumayo entre Perú y Colombia brindará información rigurosa y confiable de la diversidad biológica de un área poco explorada, con alta vulnerabilidad por procesos de transformación que se presentan en la zona. Contribuye a establecer el estado de la biodiversidad de la zona y puede ser considerada un primer paso en la formación de promotores ambientales comunitarios por medio de la capacitación en inventarios, uso y conservación de algunos miembros de las comunidades aledañas. Así mismo generará la base del conocimiento de especies útiles y su potencial de uso sostenible generando estrategias y alternativas económicas para los pobladores.</para>
+                </abstract>
+                <funding>
+                    <para>Cofinanciador Ministerio de Ciencia, Tecnología e Innovación (Minciencias) a través del Fondo Francisco José de Caldas</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>La propuesta se desarrollará en el departamento del Putumayo en el eje comprendido entre el Encanto y Puerto Arica (del lado colombiano) y tendrá como centro operativo el Estrecho (del lado peruano); según acuerdos establecidos por técnicos del Instituto Amazónico de Investigaciones Científicas SINCHI, del Instituto de Investigaciones de la Amazonia Peruana IIAP y de la Universidad de San Marcos; con el acompañamiento de una delegación de Colciencias. Cabe resaltar que del lado colombiano la expedición se realizará con la Comunidad de Sabaloyaco y la Comunidad de El Encanto.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Objetivo: Caracterizar la diversidad biológica de la cuenca media del río Putumayo en la frontera Perú-Colombia. Objetivos específicos: Caracterizar la diversidad biológica de la cuenca media del río Putumayo mediante registros biológicos debidamente curados, preservados, catalogados. Publicar los registros biológicos de los grupos inventariados en el Sistema de Información en Biodiversidad de Colombia SiB-Colombia y en el Sistema de Información SIAMAZONIA del IIAP. Desarrollar talleres de capacitación en técnicas de colecta y procesamiento de colecciones biológicas. Fortalecer las colecciones biológicas de la región amazónica colombiana y peruana.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:29Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/02ykez">Caicedo Portilla J R, Osorno Muñoz M, Gutiérrez Lamus D L (2023). Reptiles de la cuenca media del río Putumayo, el Encanto, Amazonas - Expedición Binacional. Version 2.2. Instituto Amazónico de Investigaciones Científicas - SINCHI. Occurrence dataset https://doi.org/10.15472/02ykez accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>CRUMP, M. L. &amp; N. J. SCOTT. 1994. Visual encounter surveys. Pp. 84-92. En: HEYER, W. R., DONNELLY, M. A., MCDIARMID, R. W., HAYEK, L. C. &amp; FOSTER, M. S. (eds.). Measuring and monitoring biological diversity, standard methods for amphibians. Smithsonian Institution Press, Washington, DC.</citation>
+                <citation>GUYER, C., &amp; M. A. DONNELLY. 2012. Visual encounter surveys. En: R. W. McDiarmid, M. S. Foster, C. Guyer, J. W. Gibbons, &amp; N. Chernoff (eds.). Reptile Biodiversity Standard Methods for Inventorying and Monitoring, pp. 218 220. University of California Press, USA.</citation>
+                <citation identifier=" http://www.reptile-database.org">Uetz, P., P. Freed, R. Aguilar, F. Reyes &amp; J. Hošek (eds.) (2022) The Reptile Database</citation>
+                </bibliography>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/sinchi.jpg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>SINCHI-R</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 215</collectionIdentifier>
+                    <collectionName>Colección Reptiles Instituto Sinchi</collectionName>
+                </collection>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

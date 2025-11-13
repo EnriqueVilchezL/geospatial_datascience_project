@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="c90a0778-e222-406f-bcd7-ed96a2bc5f4c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/xiiklm</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sanbi.org.za/iptsanbi/resource?r=uct_reptile_conservation_assessment</alternateIdentifier>
+        <alternateIdentifier>http://197.189.235.147:8080/iptsanbi/resource?r=uct_reptile_conservation_assessment</alternateIdentifier>
+        <alternateIdentifier>c90a0778-e222-406f-bcd7-ed96a2bc5f4c</alternateIdentifier>
+        <alternateIdentifier>11948</alternateIdentifier>
+        <title>UCT: Southern African Reptile Conservation Assessment (1910-2009)</title>
+        <creator>
+            <individualName>
+                <givenName>Rene</givenName>
+                <surName>Navarro</surName>
+            </individualName>
+            <organizationName>Animal Demography Unit, University of Cape Town</organizationName>
+            <positionName>IT Manager</positionName>
+            <address>
+                <deliveryPoint>Animal Demography Unit, Department of Zoology, University of Cape Town</deliveryPoint>
+                <city>Rondebosch</city>
+                <administrativeArea>Western Cape</administrativeArea>
+                <postalCode>7701</postalCode>
+                <country>SOUTH_AFRICA</country>
+            </address>
+            <phone>(021) 650 2566</phone>
+            <electronicMailAddress>rene.navarro@uct.ac.za</electronicMailAddress>
+            <onlineUrl>http://adu.org.za/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Fhatani</givenName>
+                <surName>Ranwashe</surName>
+            </individualName>
+            <organizationName>SANBI</organizationName>
+            <positionName>Data Technician</positionName>
+            <address>
+                <deliveryPoint>Private Bag X7, Kirstenbosch</deliveryPoint>
+                <city>Claremont</city>
+                <administrativeArea>Western Cape</administrativeArea>
+                <postalCode>7735</postalCode>
+                <country>SOUTH_AFRICA</country>
+            </address>
+            <phone>021 799 8738</phone>
+            <electronicMailAddress>f.ramwashe@sanbi.org.za</electronicMailAddress>
+            <onlineUrl>http://www.sanbi.org/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2020-07-28
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Distribution records for the reptiles of southern Africa, from literature and the SARCA Virtual Museum.
+For protected information, contact service provider.
+        </abstract>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://ipt.sanbi.org.za/iptsanbi/archive.do?r=uct_reptile_conservation_assessment</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Southern Africa, mainly South Africa, Lesotho and Swaziland</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>13.883</westBoundingCoordinate>
+                    <eastBoundingCoordinate>39.29</eastBoundingCoordinate>
+                    <northBoundingCoordinate>-5.749</northBoundingCoordinate>
+                    <southBoundingCoordinate>-34.875</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2009-09-25
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                1910-09-07
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Reptiles of southern Africa, mainly South Africa, Lesotho and Swaziland</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                    <commonName>Reptiles</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Rene</givenName>
+                <surName>Navarro</surName>
+            </individualName>
+            <organizationName>Animal Demography Unit, University of Cape Town</organizationName>
+            <positionName>IT Manager</positionName>
+            <address>
+                <deliveryPoint>Animal Demography Unit, Department of Zoology, University of Cape Town</deliveryPoint>
+                <city>Rondebosch</city>
+                <administrativeArea>Western Cape</administrativeArea>
+                <postalCode>7701</postalCode>
+                <country>SOUTH_AFRICA</country>
+            </address>
+            <phone>(021) 650 2566</phone>
+            <electronicMailAddress>rene.navarro@uct.ac.za</electronicMailAddress>
+            <onlineUrl>http://adu.org.za/</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:25Z</dateStamp>
+                <citation>Navarro R, Ranwashe F (2020). UCT: Southern African Reptile Conservation Assessment (1910-2009). Version 1.2. South African National Biodiversity Institute. Occurrence dataset https://doi.org/10.15468/xiiklm accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>http://197.189.235.147:8080/iptsanbi/logo.do?r=uct_reptile_conservation_assessment</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

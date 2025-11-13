@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="0b2df02a-3f94-464c-9e2f-3a82cb952bae"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/uoj43i</alternateIdentifier>
+        <alternateIdentifier>0b2df02a-3f94-464c-9e2f-3a82cb952bae</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=cocorna_lasierra-epm</alternateIdentifier>
+        <title>Biodiversidad asociada al proyecto Interconexión Cocorná - La Sierra 110 kV</title>
+        <creator>
+            <individualName>
+                <givenName>Elizabeth</givenName>
+                <surName>Carmona Cano</surName>
+            </individualName>
+            <organizationName>Empresas públicas de Medellín E.S.P.</organizationName>
+            <positionName>Profesional Ambiental y Social</positionName>
+            <address>
+                <deliveryPoint>Carrera 58 # 42-125</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>5743802959</phone>
+            <electronicMailAddress>elizabeth.carmona@epm.com.co</electronicMailAddress>
+            <onlineUrl>https://www.epm.com.co</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Luis Hernán</givenName>
+                <surName>Barreto Sánchez</surName>
+            </individualName>
+            <organizationName>Empresas públicas de Medellín E.S.P.</organizationName>
+            <positionName>Profesional Ambiental y Social</positionName>
+            <address>
+                <deliveryPoint>Carrera 58 # 42-125</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>5743803870</phone>
+            <electronicMailAddress>luis.hernan.barreto@epm.com.co</electronicMailAddress>
+            <onlineUrl>https://www.epm.com.co</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Claudia Juliana</givenName>
+                <surName>Quijano Abril</surName>
+            </individualName>
+            <organizationName>Servicios Ambientales y Geográficos S.A</organizationName>
+            <positionName>Bióloga especies en Veda</positionName>
+            <address>
+                <deliveryPoint>Calle 11 B No. 40A – 130</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(574) 370-6666</phone>
+            <onlineUrl>http://www.sag-sa.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Deysi</givenName>
+                <surName>Carmona</surName>
+            </individualName>
+            <organizationName>Servicios Ambientales y Geográficos S.A</organizationName>
+            <positionName>Bióloga encargada del inventario forestal</positionName>
+            <address>
+                <deliveryPoint>Calle 11 B No. 40A – 130</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(574) 370-6666</phone>
+            <onlineUrl>http://www.sag-sa.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Nancy Fiorella</givenName>
+                <surName>Ordoñez Castillo</surName>
+            </individualName>
+            <organizationName>Servicios Ambientales y Geográficos S.A</organizationName>
+            <positionName>Bióloga encargada de la caracterización de epífitas</positionName>
+            <address>
+                <deliveryPoint>Calle 11 B No. 40A – 130</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(574) 370-6666</phone>
+            <onlineUrl>http://www.sag-sa.com/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">nancy-ordoñez-castillo-6b584469</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Margarita</givenName>
+                <surName>Jaramillo Ciro</surName>
+            </individualName>
+            <organizationName>Servicios Ambientales y Geográficos S.A</organizationName>
+            <positionName>Ingeniera ambiental encargada de la caracterización de líquenes</positionName>
+            <address>
+                <deliveryPoint>Calle 11 B No. 40A – 130</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(574) 370-6666</phone>
+            <onlineUrl>http://www.sag-sa.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Richard</givenName>
+                <surName>Gómez Monsalve</surName>
+            </individualName>
+            <organizationName>Servicios Ambientales y Geográficos S.A</organizationName>
+            <positionName>Tecnólogo forestal y Asistente biótico</positionName>
+            <address>
+                <deliveryPoint>Calle 11 B No. 40A – 130</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(574) 370-6666</phone>
+            <onlineUrl>http://www.sag-sa.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Cyndi Lorena</givenName>
+                <surName>Tapasco Estrada</surName>
+            </individualName>
+            <organizationName>Servicios Ambientales y Geográficos S.A</organizationName>
+            <positionName>Tecnólogo forestal encargado de la caracterización de flora</positionName>
+            <address>
+                <deliveryPoint>Calle 11 B No. 40A – 130</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(574) 370-6666</phone>
+            <onlineUrl>http://www.sag-sa.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>María Camila</givenName>
+                <surName>Mejía Arango</surName>
+            </individualName>
+            <organizationName>Servicios Ambientales y Geográficos S.A</organizationName>
+            <positionName>Tecnólogo forestal encargado de la caracterización de flora</positionName>
+            <address>
+                <deliveryPoint>Calle 11 B No. 40A – 130</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(574) 370-6666</phone>
+            <onlineUrl>http://www.sag-sa.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Blanca Ercilia</givenName>
+                <surName>González Arango</surName>
+            </individualName>
+            <organizationName>Servicios Ambientales y Geográficos S.A</organizationName>
+            <positionName>Tecnóloga gestión de recursos naturales encargada de la caracterización de flora</positionName>
+            <address>
+                <deliveryPoint>Calle 11 B No. 40A – 130</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(574) 370-6666</phone>
+            <onlineUrl>http://www.sag-sa.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Lucas</givenName>
+                <surName>Arias Álvarez</surName>
+            </individualName>
+            <organizationName>Servicios Ambientales y Geográficos S.A</organizationName>
+            <positionName>Ecólogo encargado de la caracterización de fauna</positionName>
+            <address>
+                <deliveryPoint>Calle 11 B No. 40A – 130</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(574) 370-6666</phone>
+            <onlineUrl>http://www.sag-sa.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Sandra Marcela</givenName>
+                <surName>Cohen Ballesteros</surName>
+            </individualName>
+            <organizationName>Servicios Ambientales y Geográficos S.A</organizationName>
+            <positionName>Bióloga encargado de la caracterización de fauna</positionName>
+            <address>
+                <deliveryPoint>Calle 11 B No. 40A – 130</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(574) 370-6666</phone>
+            <onlineUrl>http://www.sag-sa.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Alberto</givenName>
+                <surName>Duarte</surName>
+            </individualName>
+            <organizationName>Servicios Ambientales y Geográficos S.A</organizationName>
+            <positionName>Biólogo encargado de la caracterización de fauna</positionName>
+            <address>
+                <deliveryPoint>Calle 11 B No. 40A – 130</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(574) 370-6666</phone>
+            <onlineUrl>http://www.sag-sa.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Servicios Ambientales y Geográficos S.A.</surName>
+            </individualName>
+            <organizationName>Servicios Ambientales y Geográficos S.A.</organizationName>
+            <positionName>Consultora Ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 11 B No. 40A – 130</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57(604) 403 55 70</phone>
+            <onlineUrl>http://www.sag-sa.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Elizabeth</givenName>
+                <surName>Carmona Cano</surName>
+            </individualName>
+            <organizationName>Empresas públicas de Medellín E.S.P.</organizationName>
+            <positionName>Profesional Ambiental y Social</positionName>
+            <address>
+                <deliveryPoint>Carrera 58 # 42-125</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>5743802959</phone>
+            <electronicMailAddress>elizabeth.carmona@epm.com.co</electronicMailAddress>
+            <onlineUrl>https://www.epm.com.co</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Bomnierw Lisefth</givenName>
+                <surName>Hernández Acosta</surName>
+            </individualName>
+            <organizationName>Empresas públicas de Medellín E.S.P.</organizationName>
+            <positionName>Practicante</positionName>
+            <address>
+                <deliveryPoint>Carrera 58 # 42-125</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>5743806590</phone>
+            <electronicMailAddress>Bomnierw.hernandez@epm.com.co</electronicMailAddress>
+            <onlineUrl>https://www.epm.com.co</onlineUrl>
+            <role>PROCESSOR</role>
+        </associatedParty>
+        <pubDate>
+                2022-08-12
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El presente recurso contiene datos de biodiversidad recolectados en el marco del proyecto denominado Línea de transmisión 110 kV La Sierra - Cocorná, el cual atraviesa los territorios de las veredas La Mina, Peña Flor, Mulas, Porvenir Río Cocorná y Las Angelitas y la zona rural del corregimiento de Puerto Perales. Este proyecto pertenece al Sistema de Transmisión Regional (STR) de Antioquia y permite, mediante el cierre del anillo en el Magdalena Medio, dar mayor confiabilidad y seguridad al suministro de energía en esta zona del territorio antioqueño.</para>
+<para>Este conjunto de datos consta de 5.040 registros biológicos (Plantae 4.184, Fungi 467 y Animalia 389) que fueron recolectados entre noviembre de 2015 y enero de 2016 en el departamento de Antioquia, sobre los municipios de Puerto Nare y Puerto Triunfo. Para el componente de flora se realizó un inventario forestal a individuos fustales, latizales y brinzales, y para el componente de fauna, se realizaron recorridos de observación, uso de redes de niebla, cámaras trampa y detección de marcas.</para>
+<para>Los datos de este recurso, son procedentes de un Estudio de Impacto Ambiental, realizado para la obtención de la licencia ambiental para el proyecto.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Animalia</keyword>
+            <keyword>Fungi</keyword>
+            <keyword>Cámara trampa</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Inventario forestal</keyword>
+            <keyword>Plantae</keyword>
+            <keyword>Recorridos de observación</keyword>
+            <keyword>Red de niebla</keyword>
+            <keyword>Línea de transmisión</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Este conjunto de datos fue publicado con el apoyo del proyecto CESP “OpenPSD – Engage and promote the private sector in open biodiversity data publication (ID CESP2019-004)”, y la alianza con la Asociación Nacional de Empresarios de Colombia (ANDI) a través de su iniciativa “Biodiversidad y Desarrollo” (Datos abiertos sobre biodiversidad desde el sector empresarial). Agradecemos la colaboración y el incentivo para compartir datos desde el sector empresarial. This dataset was published with support of the CESP project “OpenPSD – Engage and promote the private sector in open biodiversity data publication (ID CESP2019-004)”, and the alliance with the National Business Association of Colombia (ANDI) through its initiative &quot;Biodiversity and Development&quot; (Biodiversity open data from the private sector). We are grateful with the colaboration and incentive to share data from the private sector.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=cocorna_lasierra-epm</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El desarrollo de las actividades de recolección de datos tuvo lugar en el área de influencia del proyecto de La Línea de Transmisión La Sierra - Cocorná que se localiza en los municipios de Puerto Nare y Puerto Triunfo (Antioquia), y recorre las veredas de La Mina, Peña Flor, Mulas, Porvenir Río Cocorná y Las Angelitas y la zona rural del corregimiento de Puerto Perales.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-74.625</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-74.561</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.234</northBoundingCoordinate>
+                    <southBoundingCoordinate>6.028</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2015-11-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2016-01-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este recurso contiene 5040 registros biológicos distribuidos en flora, fauna y hongos. El reino Plantae contiene registros de brinzales, latizales, fustales y epífitas, con un total de 4184 individuos. Del total, un 91.82% se encuentra clasificado a nivel de especie, seguido de un 6.81% clasificado a nivel de género y un 1.86% restante a categorías superiores.
+Los registros de este reino comprenden 5 clases, 30 órdenes, 67 familias, 143 géneros y 138 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Fungi contiene 467 registros, de los cuales un 92.93% está clasificado a nivel de especie y un 7.07% clasificado a nivel de género.
+Los registros de este reino comprenden 4 clases, 7 órdenes, 10 familias, 16 géneros y 10 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Arthoniaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Graphidaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Coenogoniaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Caliciaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Trypetheliaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pyrenulaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ramalinaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Collemataceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lecanoraceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Parmeliaceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Animalia cuenta con 389 registros clasificados en un 100% a nivel de especie y comprende 4 clases, 23 órdenes, 57 familias, X géneros y 147 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Elizabeth</givenName>
+                <surName>Carmona Cano</surName>
+            </individualName>
+            <organizationName>Empresas públicas de Medellín E.S.P.</organizationName>
+            <positionName>Profesional Ambiental y Social</positionName>
+            <address>
+                <deliveryPoint>Carrera 58 # 42-125</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>5743802959</phone>
+            <electronicMailAddress>elizabeth.carmona@epm.com.co</electronicMailAddress>
+            <onlineUrl>https://www.epm.com.co</onlineUrl>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Yesenia</givenName>
+                <surName>García Morera</surName>
+            </individualName>
+            <organizationName>Empresas públicas de Medellín E.S.P.</organizationName>
+            <positionName>Profesional Ambiental y Social</positionName>
+            <address>
+                <deliveryPoint>Carrera 58 # 42-125</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>5743806590</phone>
+            <electronicMailAddress>yesenia.garcia@epm.com.co</electronicMailAddress>
+            <onlineUrl>https://www.epm.com.co</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Flora: El inventario al 100% consistió en identificar uno a uno los individuos fustales (con diámetro a la altura del pecho -DAP- superior a 10 cm) sobre todas las coberturas asociadas al área o franja posiblemente a intervenir (20 m); todos los individuos fueron marcados con pintura asfáltica de color amarillo asignando una letra que representaba la cuadrilla de trabajo y un número consecutivo (1, 2, 3, … etc.) y además fueron georrefenciados. Para cada individuo fustal se registraron las variables dasométricas correspondientes a: circunferencia a la altura del pecho (CAP; ver Figura 1 3), altura total (Ht), altura comercial (Hc), altura de copa (Ac) y diámetro de copa en dos (2) direcciones.se establecieron unidades de muestreo correspondiente a parcelas rectangulares de 50 x 4 m (200 m2), y se trazaron subparcelas de 5 x 4 m (20 m2), ubicadas al inicio de cada parcela para el registro de la regeneración natural y/o brinzales (ver  Figura 1 4); los latizales corresponden a los individuos con un DAP en el rango de 5,0&lt;DAP≤9,9 cm o individuos con altura superior a 2,5 m; y los brinzales a los individuos con un DAP inferior a los 5,0 cm y una altura inferior a los 2,5 m. Para los latizales se registró la circunferencia a la altura del pecho y la altura total, y para brinzales se realizó un conteo por especies y se georeferenció cada inicio de parcela. Se levantaron un total de 58 parcelas ubicadas aleatoriamente en cada una de las coberturas naturales identificadas.Para los individuos vegetales que no lograron ser identificados en campo teniendo en cuenta sus características morfológicas o por desconocimiento de los auxiliares de la comunidad, se les realizó colección de muestra botánica, registrando en los formularios de campo todas las características visibles en ese momento. El material vegetal previamente alcoholizado fue llevado al Herbario de la Universidad Nacional de Colombia, sede Medellín (MEDEL), donde fue disectado e identificado.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Epífitas vasculares: Para la caracterización del área de servidumbre de la línea de trasmisión La Sierra-Cocorná, y la evaluación de las coberturas vegetales, se establecieron tres (3) unidades de muestreo por cobertura de 50 metros de longitud por 8 metros de ancho; vale anotar que para el bosque de galería se realizaron solo dos (2) unidades de muestreo, debido a que el área dentro del proyecto es reducida; en total fueron 14 transectos. En cada unidad de muestreo se escogieron 12 árboles al azar (con DAP&gt;10 cm) para epifitas vasculares, en caso de no encontrar los 12 árboles se tomó el número de fustales que se encontraban dentro del transecto. En los árboles donde se evidenció la presencia de epífitas se definieron tres (3) estratos de muestreo: el primero desde la base del fuste hasta tres (3) metros de altura y el segundo entre tres y nueve metros (3 - 9 m), y el estrato cuatro (4) desde nueve metros (9 m) hasta la máxima altura del árbol. Para cada epífita se tomaron datos de: Especie, número de individuos, estrato en los cuales se encontraron presentes y especie hospedera registrando el código que presentaba cada árbol.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Anfibios y reptiles: El muestreo consistió en realizar caminatas diurnas y nocturnas con la única regla de revisar minuciosamente todos los microhábitats disponibles, tales como: charcas temporales y permanentes, hojarasca, troncos caídos, debajo de rocas, cavidades del suelo o de los árboles. Bajo este método, el esfuerzo de muestreo se expresó como el número de horas de búsqueda/hombre. Esta metodología es útil para determinar la riqueza y composición, y es eficiente para obtener el mayor número de especies posible en periodos de muestreo cortos. En total se obtuvo un esfuerzo equivalente a 144 horas/hombre. Las búsquedas fueron realizadas entre los rangos de tiempo de las 7:00 horas a las 14:00 horas en jornada diurna, y en jornada nocturna de las 17:00 horas a las 22:00 horas. A cada individuo observado durante el muestreo se le tomaron fotografías, se le registró la hora, fecha de encuentro, microhábitat y se georeferenció. Todos los anfibios se capturaron manualmente mientras que algunos reptiles, como las serpientes, se manipularon con un capturador especial para este tipo de animales, pero antes almacenándolos en una bolsa de tela mientras se le tomaba el registro fotográfico, con el objetivo de evitar cualquier accidente ofídico.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: Para la caracterización de las aves se implementaron dos técnicas de muestreo: observación con binoculares y captura con redes de niebla. Los recorridos de observación de la avifauna se realizaron en el AID del proyecto Línea de transmisión 110 kV La Sierra - Cocorná, donde se registraron los siguientes datos: fecha, hora, sitio, cobertura vegetal de registro, especie y número de individuos. Adicionalmente, cuando las condiciones eran óptimas se realizó un registro fotográfico de los ejemplares. Para la primera técnica se utilizó la metodología de búsqueda intensiva propuesta por (Ralph et al., 1996), la cual consistió en realizar transectos sobre los senderos o trochas que pasan de forma estratégica por las diferentes coberturas vegetales definidas para el área de estudio, realizando observaciones con binoculares (10x50) para registrar detalladamente aquellas características de las aves que permitieron su posterior identificación. Esta metodología permitió obtener un inventario más eficiente debido a que se cubrió una mayor área, además permitió obtener los registros de las actividades ecológicas y comportamentales durante los censos. Los muestreos se realizaron en el horario de 6:00h a las 11:00h y entre las 14:00h y las 17:00h, con el fin de abarcar los picos más altos de actividad. Las redes de niebla se ubicaron en sitios estratégicos como bordes de los caminos, dentro del bosque, rastrojos, potreros y orillas de las quebradas, procurando el tránsito de las aves. Estas redes fueron colocadas a nivel del suelo y en el sotobosque.  En total se colocaron tres redes de niebla con longitudes de 12 m x 2,5 m de altura, completando en total 96 horas/red durante los 12 días de muestreo. Las redes permanecieron abiertas durante un máximo de ocho (8) horas. Después de abiertas se revisaron cada 20 minutos en horas de mayor actividad (06:00 - 11:00 horas y de 15:00 - 18:00 horas).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Pequeños mamíferos no voladores (PMNV): Para la captura  se utilizaron 27 trampas Sherman (ocho pequeñas, 15 medianas y cuatro grandes) y cinco trampas Tomahawk, dispuestas de forma aleatoria, separadas entre sí aproximadamente 10 m. Estas se instalaron en sitios estratégicos como troncos caídos, junto a la base de los árboles, cavidades formadas por las raíces de los árboles. Como cebo para las trampas Shermn se utilizó una mezcla de maní, avena, esencia de vainilla y semillas, para las Tomahawk se utilizó sardina y fruta,  durante todos los días en que estuvieron activas (14 días). Todos los individuos capturados fueron liberados en el sitio de captura, después de realizar la identificación y el registro fotográfico correspondiente. Para este grupo PMNV, el esfuerzo de muestreo estuvo dado en el número de trampas que se instalaron, contabilizando un total de 1.536 trampas noche.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos Voladores (MV): Para el monitoreo de los murciélagos se instalaron dos (2) redes de niebla de 12 m de longitud, las cuales fueron ubicadas al interior y en el borde de las diferentes coberturas vegetales muestreadas, alrededor de sitios de refugio, árboles asociados a los murciélagos, caminos y corredores biológicos. Las redes permanecieron abiertas entre las 17:30 y 20:30 h, dependiendo de las condiciones de muestreo y climáticas en el área, las cuales fueron revisadas en intervalos de 15 a 30 minutos según la actividad de los murciélagos en la zona. Los individuos capturados fueron liberados de la red, y almacenados en bolsas de tela para su posterior registro fotográfico, identificación y toma de medidas corporales. Por cada cobertura muestreada se realizó un muestreo nocturno, obteniendo un total de 24 horas/red.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos Medianos y Grandes (MMG): Este grupo fue registrado mediante la instalación de tres (3) trampas cámara, las cuales fueron ubicadas en áreas identificadas como pasos de animales en cada una de las cuatro (4) coberturas vegetales muestreadas. Además, se efectuaron recorridos con el fin de realizar avistamientos directos de las diferentes especies y buscar indicios de su presencia y actividad (huellas, heces, restos alimenticios, rasguños). Los indicios se registraron siguiendo principalmente cursos de agua, sendas y caminos abandonados en recorridos diurnos y nocturnos.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La Línea de Transmisión La Sierra - Cocorná se encuentra ubicada en los municipios de Puerto Nare y Puerto Triunfo (Antioquia), la cual tiene su inicio en la Subestación de la Termoeléctrica La Sierra y termina en la Subestación Cocorná, ambas de propiedad de Empresas Públicas de Medellín (EPM). El proyecto consiste en la construcción de una línea de transmisión a 110 kV, de 28,5 km de longitud, circuito sencillo, que después de cruzar el costado norte del corregimiento La Sierra atravesará los territorios de las veredas La Mina, Peña Flor, Mulas, Porvenir Río Cocorná y Las Angelitas (Puerto Nare) y la zona rural del corregimiento de Puerto Perales (Puerto Triunfo).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se realizó la identificación de los ecosistemas terrestres utilizando la metodología implementada para la elaboración del Mapa Nacional de Ecosistemas Marinos y Terrestres para Colombia. El mapa de coberturas de la tierra (Escala 1:10.000) se realizó utilizando la metodología CORINE Land Cover tomada del estudio adaptado para Colombia por el IDEAM. A partir de información secundaria y la zonificación climática se determinaron las zonas de vida presentes en el área de influencia directa, según los criterios para Zonas de Vida definidos por  Holdridge (1982). El trabajo de campo se realizó en dos fases, entre el 3 y 12 de noviembre de 2015 y entre el 20 y 28 de enero de 2016. Para el área de estudio se realizó un inventario forestal al 100% sobre los individuos fustales de toda el área de influencia directa. Para la caracterización de aves, anfibios, reptiles y mamíferos presentes en el área de influencia del proyecto se llevó a cabo la revisión de fuentes secundarias como literatura científica, guías de campo, bases de datos online, listados taxonómicos, estudios ambientales realizados en el AII, entre otros. La información obtenida se utilizó para realizar una lista preliminar de las especies de posible ocurrencia en las áreas de influencia del proyecto, dicha lista permitió resolver algunos interrogantes como: grado de disponibilidad y calidad de la información referente al componente faunístico, posibles áreas de distribución en la zona, diversidad de especies amenazadas, existencia de especies endémicas y de importancia biológica, entre otros. El trabajo de campo se realizó entre el 3 y 17 de noviembre de 2015.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Biodiversidad asociada al proyecto Interconexión Cocorná - La Sierra 110 kV</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Yesenia</givenName>
+                    <surName>García Morera</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <abstract>
+                    <para>El proyecto denominado Línea de transmisión 110 kV La Sierra - Cocorná se localiza en los municipios de Puerto Nare y Puerto Triunfo, del departamento de Antioquia; la línea de circuito sencillo se construyó aproximadamente con 28,5 km de longitud, y conecta las subestaciones eléctricas de La Sierra y Cocorná, propiedad de EPM. Teniendo en cuenta que la Línea de transmisión 110 kV La Sierra – Cocorná es un proyecto de infraestructura cuyo alcance fue generar un cambio positivo en la zona de implantación, al mejorar la confiabilidad del servicio de energía en el Magdalena Medio, fortalecer el sistema de interconexión regional, y atender la creciente demanda de los actuales clientes (Ecopetrol, Mansarovar, Ocensa) y otros nuevos como Oxy), indudablemente contribuye al desarrollo socioeconómico de las comunidades. En consecuencia, los municipios de Puerto Nare y Puerto Triunfo se convierten en los beneficiarios del Proyecto, experimentando dichos cambios favorables, que trascienden al ámbito regional (Magdalena Medio Antioqueño).</para>
+                </abstract>
+                <funding>
+                    <para>Empresas Públicas de Medellín E.S.P.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>La Línea de Transmisión La Sierra - Cocorná se encuentra ubicada en los municipios de Puerto Nare y Puerto Triunfo (Antioquia), la cual tiene su inicio en la Subestación de la Termoeléctrica La Sierra y termina en la Subestación Cocorná, ambas de propiedad de Empresas Públicas de Medellín (EPM). El proyecto consistió en la construcción de una línea de transmisión a 110 kV, de 28,5 km de longitud, circuito sencillo, que después de cruzar el costado norte del corregimiento La Sierra atraviesa los territorios de las veredas La Mina, Peña Flor, Mulas, Porvenir Río Cocorná y Las Angelitas (Puerto Nare) y la zona rural del corregimiento de Puerto Perales (Puerto Triunfo).</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Se realizó la identificación de los ecosistemas terrestres utilizando la metodología implementada para la elaboración del Mapa Nacional de Ecosistemas Marinos y Terrestres para Colombia. El mapa de coberturas de la tierra (Escala 1:10.000) se realizó utilizando la metodología CORINE Land Cover tomada del estudio adaptado para Colombia por el IDEAM. A partir de información secundaria y la zonificación climática se determinaron las zonas de vida presentes en el área de influencia directa, según los criterios para Zonas de Vida definidos por  Holdridge (1982). El trabajo de campo se realizó en dos fases, entre el 3 y 12 de noviembre de 2015 y entre el 20 y 28 de enero de 2016. Para el área de estudio se realizó un inventario forestal al 100% sobre los individuos fustales de toda el área de influencia directa. 
+
+Para la caracterización de aves, anfibios, reptiles y mamíferos presentes en el área de influencia del proyecto se llevó a cabo la revisión de fuentes secundarias como literatura científica, guías de campo, bases de datos online, listados taxonómicos, estudios ambientales realizados en el AII, entre otros. La información obtenida se utilizó para realizar una lista preliminar de las especies de posible ocurrencia en las áreas de influencia del proyecto, dicha lista permitió resolver algunos interrogantes como: grado de disponibilidad y calidad de la información referente al componente faunístico, posibles áreas de distribución en la zona, diversidad de especies amenazadas, existencia de especies endémicas y de importancia biológica, entre otros. El trabajo de campo se realizó entre el 3 y 17 de noviembre de 2015.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:17Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/uoj43i">Carmona Cano E, Barreto Sánchez L H, Quijano Abril C J, Carmona D, Ordoñez Castillo N F, Jaramillo Ciro M, Gómez Monsalve R, Tapasco Estrada C L, Mejía Arango M C, González Arango B E, Arias Álvarez L, Cohen Ballesteros S M, Duarte A, Servicios Ambientales y Geográficos S.A. (2022). Biodiversidad asociada al proyecto Interconexión Cocorná - La Sierra 110 kV. Version 1.1. Empresas Públicas de Medellín E.S.P.. Occurrence dataset https://doi.org/10.15472/uoj43i accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Aguiló, M. 1981. Metodología para la evaluación de la fragilidad visual del paisaje. Madrid: Universidad Politécnica de Madrid.</citation>
+                <citation>Aguirre, J. 2008. Diversidad y Riqueza de líquenes en Colombia. En: J. O. Rangel Ch. (ed.) Colombia Diversidad Biótica VI Riqueza y diversidad de los musgos y líquenes en Colombia. Universidad Nacional de Colombia, Bogotá D.C. 598 pp.</citation>
+                <citation>Cuartas-Calle C, Muñoz-Arango J. 2003. Lista de los mamíferos (Mammalia: Theria) del departamento de Antioquia, Colombia. Biota Colombiana, 4(1): 65-78.</citation>
+                <citation>Gradstein, S. R., Nadkarni, N. M., Krömer, T., Holz, I., &amp; Nöske, N. 2003. A protocol for rapid and representative sampling of vascular and non-vascular epiphyte diversity of tropical rain forests. Selbyana, 105-111.</citation>
+                <citation>Holdridge, L. R. 1982. Ecología Basada en Zonas de Vida. En: Serie Libros y Materiales Educativos: Instituto Interamericano de Cooperación para la Agricultura. N° 34.  IICA. San José, Costa Rica.</citation>
+                <citation>IDEAM, IGAC, IAvH, INVEMAR, I. SINCHI e IIAP. Ecosistemas continentales, costeros y marinos de Colombia. Bogotá D. C: Instituto de Hidrología, Meteorología y Estudios Ambientales, Instituto Geográfico Agustín Codazzi, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Instituto de Investigaciones Ambientales del Pacífico Jhon von Neumann, Instituto de Investigaciones Marinas y Costeras José Benito Vives de Andréis e Instituto Amazónico de Investigaciones Científicas SINCHI., 2007. 276 p. + 37 hojas cartográficas.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-epm.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

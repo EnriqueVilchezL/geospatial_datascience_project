@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="b22afcb8-2c53-44ca-b24d-32d0597fa299"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/hxhdgs</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=frontera_cpe6_2023_informe1_ecosistemas_sensibles</alternateIdentifier>
+        <title>Caracterización de ecosistemas estratégicos y/o áreas sensibles en el bloque de hidrocarburos CPE-6 Área de Desarrollo Fase 1</title>
+        <creator>
+            <individualName>
+                <surName>Frontera Energy Colombia Corp.</surName>
+            </individualName>
+            <organizationName>Frontera Energy Colombia Corp.</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Calle 110 # 9-25</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>xcastro@fronteraenergy.ca</electronicMailAddress>
+            <onlineUrl>https://www.fronteraenergy.ca/es/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Fundación Orinoquia Biodiversa</surName>
+            </individualName>
+            <organizationName>Fundación Orinoquia Biodiversa</organizationName>
+            <positionName>ONG</positionName>
+            <address>
+                <deliveryPoint>Cll 15 #12-15</deliveryPoint>
+                <city>Tame</city>
+                <administrativeArea>Arauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>info@orinoquiabiodiversa.org</electronicMailAddress>
+            <onlineUrl>https://fundacionorinoquiabiodiversa.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Fundación Orinoquia Biodiversa</surName>
+            </individualName>
+            <organizationName>Fundación Orinoquia Biodiversa</organizationName>
+            <positionName>ONG</positionName>
+            <address>
+                <deliveryPoint>Cll 15 #12-15</deliveryPoint>
+                <city>Tame</city>
+                <administrativeArea>Arauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>info@orinoquiabiodiversa.org</electronicMailAddress>
+            <onlineUrl>https://fundacionorinoquiabiodiversa.com/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2025-01-27
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El proyecto de caracterización de ecosistemas estratégicos y áreas sensibles en el Bloque CPE-6 buscó evaluar la biodiversidad y la composición estructural de las coberturas naturales en ecosistemas críticos como morichales, bosques densos altos inundables y bosques de galería, dentro del corredor ecológico de la danta. Enmarcado en el cumplimiento de normativas ambientales y apoyado por metodologías científicas como las evaluaciones ecológicas rápidas y el uso de parcelas permanentes, el estudio se enfocó en monitorear cambios en flora y fauna durante diferentes épocas climáticas. Estas acciones permiten identificar alertas tempranas, promover la regeneración ambiental y desarrollar planes de manejo y conservación adaptados a las condiciones locales, contribuyendo a la protección de la riqueza biológica de esta región de alta presión antrópica en los Llanos Orientales de Colombia.</para><para>El presente conjunto de datos consta de 964 registros biológicos tomados en los años 2023 y 2024 en Puerto Gaitán-Meta, y distribuidos taxonómicamente en los reinos Plantae (705) y Animalia (259). </para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Restauración de ecosistemas.</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Conservación de la biodiversidad</keyword>
+            <keyword>Diversidad biológica</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=frontera_cpe6_2023_informe1_ecosistemas_sensibles</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Esta caracterización se realizó en Puerto Gaitán, Meta.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.4</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.231</eastBoundingCoordinate>
+                    <northBoundingCoordinate>3.497</northBoundingCoordinate>
+                    <southBoundingCoordinate>3.432</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-09-21
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-10-04
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2024-02-21
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-07-14
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El componente de flora se encuentra representado por 705 registros biológicos que se distribuyen en 2 clases, 18 órdenes, 39 familias, 73 géneros y 61 especies. Del total, se identificó un 68% a nivel de especie, un 26.5% a nivel de género y un 5.5% restante identificado a nivel de familia y orden.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El componente de fauna se encuentra representado por 259 registros biológicos que se distribuyen en 4 clases, 28 órdenes, 63 familias, 118 géneros y 134 especies. Del total, se identificó un 99.5% a nivel de especie y un 0.5% a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Ximena Andrea</givenName>
+                <surName>Castro Ordóñez</surName>
+            </individualName>
+            <organizationName>Frontera Energy Colombia Corp.</organizationName>
+            <positionName>Profesional ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 110 # 9-25</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>xcastro@fronteraenergy.ca</electronicMailAddress>
+            <onlineUrl>https://www.fronteraenergy.ca/es/</onlineUrl>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Edna Julieth</givenName>
+                <surName>Penagos Carvajal</surName>
+            </individualName>
+            <organizationName>Fundación Orinoquia Biodiversa</organizationName>
+            <positionName>Líder de proyectos</positionName>
+            <address>
+                <deliveryPoint>Cll 15 #12-15</deliveryPoint>
+                <city>Tame</city>
+                <administrativeArea>Arauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>epenagos@orinoquiabiodiversa.org</electronicMailAddress>
+            <onlineUrl>https://fundacionorinoquiabiodiversa.com/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>La metodología consistió en un diseño integral para caracterizar los ecosistemas estratégicos del Bloque CPE-6, con énfasis en morichales, bosques densos altos inundables y bosques de galería. Se seleccionaron sitios de muestreo con criterios ecológicos y estratégicos mediante herramientas de georreferenciación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En cada cobertura, se establecieron parcelas permanentes de 0.1 hectárea para el registro de especies vegetales, incluyendo mediciones de altura, DAP y cobertura. Simultáneamente, se instalaron cámaras trampa en sitios estratégicos para monitorear la fauna, priorizando áreas de alta probabilidad de tránsito animal. Adicionalmente, se realizaron evaluaciones ecológicas rápidas que incluyeron recorridos para registrar visual y auditivamente especies de fauna, así como rastros y evidencia de su presencia. Finalmente, los datos recolectados fueron sistematizados y analizados para generar información relevante para la gestión y conservación de estas áreas críticas.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El monitoreo se llevó a cabo en el Bloque CPE-6 Área de Desarrollo Fase 1, ubicado en la vereda Kioscos, municipio de Puerto Gaitán, Meta, en Colombia. Este bloque presenta ecosistemas estratégicos como morichales, bosque denso alto inundable y bosque de galería y/o ripario, que son esenciales para la conservación de la biodiversidad y el mantenimiento de los servicios ecosistémicos.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El muestreo se diseñó para realizar una caracterización de los ecosistemas estratégicos durante la época de transición, lluvia y seca. Este incluyó el establecimiento de parcelas permanentes, evaluaciones ecológicas rápidas y la instalación de cámaras trampa en sitios estratégicos.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:20Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/hxhdgs">Frontera Energy Colombia Corp., Fundación Orinoquia Biodiversa (2025). Caracterización de ecosistemas estratégicos y/o áreas sensibles en el bloque de hidrocarburos CPE-6 Área de Desarrollo Fase 1. Frontera Energy Colombia Corp. Occurrence dataset https://doi.org/10.15472/hxhdgs accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-frontera.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

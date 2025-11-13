@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="f84805f1-8d56-4a22-8804-62d591aea2ff"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/dza7xy</alternateIdentifier>
+        <alternateIdentifier>f84805f1-8d56-4a22-8804-62d591aea2ff</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=corporinoquia_pomca_cravo_norte</alternateIdentifier>
+        <title>Fauna y flora asociada al Plan de Ordenación y Manejo Ambiental de la cuenca del río Cravo Norte, jurisdicción del departamento de Arauca</title>
+        <creator>
+            <individualName>
+                <surName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Autoridad ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (608) 6358588</phone>
+            <electronicMailAddress>atencionusuarios@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Autoridad ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (608) 6358588</phone>
+            <electronicMailAddress>atencionusuarios@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Planeación Ecológica LTDA.</surName>
+            </individualName>
+            <organizationName>Planeación Ecológica LTDA.</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2024-12-19
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El proceso de ordenación y manejo de cuencas hidrográficas en Colombia, ha tenido en los últimos años un auge en lo relacionado con la planificación ambiental a nivel regional, toda vez que la unidad territorial “cuenca”, por sus condiciones físicas y bióticas y las relaciones ecosistémicas que en ella ocurren, determinan un área con mayor capacidad integral de desarrollo generando que esta unidad territorial sea la más aceptada para la gestión de los recursos naturales. En razón a lo anterior, la Corporación Autónoma Regional de la Orinoquía - CORPORINOQUÍA, la Unidad Administrativa Especial del Sistema de Parques Nacionales Naturales de Colombia - UAESPNN y la firma consultora Planeación Ecológica LTDA., realizaron el proyecto denominado &amp;#34;Formulación del Plan de Ordenación y Manejo Ambiental -POMACH- de la cuenca del río Cravo Norte&amp;#34;, localizado en jurisdicción de Corporinoquía en el departamento de Arauca, en los municipios de Tame, Puerto Rondón, Cravo Norte y Arauquita.</para><para>Este conjunto de datos cuenta con 2.113 registros biológicos correspondientes a los reinos Plantae (639) y Animalia (1.474). Estos fueron tomados en el año 2009 a lo largo de la cuenca del río Cravo Norte en jurisdicción de los municipios de Tame, Puerto Rondón y Cravo Norte. Para la captura de información de flora se utilizaron parcelas de muestreo y transectos, mientras que para la de fauna, se realizaron recorridos libres de observación y una faena de pesca.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>POMCA</keyword>
+            <keyword>Ordenamiento territorial</keyword>
+            <keyword>Parcelas de muestreo</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Gestión</keyword>
+            <keyword>Observaciones.</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=corporinoquia_pomca_cravo_norte</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La Cuenca Hidrográfica del Río Cravo Norte se encuentra ubicada al sur del departamento de Arauca dispuesta en sentido occidente-oriente y cruzando los municipios de Tame, Puerto Rondón, Arauquita y Cravo Norte. La extensión total del área de la cuenca es de 487.227 Ha aproximadamente, presenta una longitud axial de 202 Km y se encuentra ubicada altitudinalmente entre los 105 msnm en la desembocadura del río Cravo Norte al río Casanare y los 3600 msnm en territorio del Parque Nacional Natural El Cocuy en las estribaciones de la Cordillera Oriental.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-71.886</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-70.22</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.503</northBoundingCoordinate>
+                    <southBoundingCoordinate>6.286</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2009-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2009-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>2.113 registros biológicos de fauna y flora silvestre distribuidos así: Plantae (639) y Animalia (1.474). El recurso está compuesto por 8 clases, 59 órdenes, 133 familias, 254 géneros y 269 especies. Del total, se identificó un 92.4% a nivel de especie, un 7.5% a nivel de género y un 0.1% a nivel de subespecie. 
+
+En cuanto al reino Animalia, la distribución se da en 6 clases, 35 órdenes, 83 familias, 151 géneros, 170 especies y 2 subespecies. Del total, se identificó un 99.6% a nivel de especie y un 0.4% a nivel de género y subespecie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En cuanto al reino Plantae, la distribución se da en 2 clases, 24 órdenes, 50 familias, 103 géneros y 99 especies. Del total, se identificó un 75.4% a nivel de especie y un 24.6% a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Nathalia</givenName>
+                <surName>Meza Fernández</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Profesional Universitaria SPA- Biodiversidad</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>nathaliameza@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FLORA: Para cada cobertura se realizaron como mínimo cuatro (4) parcelas de muestreo de 25x10 m, es decir, 0.025 Ha, para completar 0.1 Ha por cada cobertura, lo cual se constituye de acuerdo a la metodología Gentry (1982) como la intensidad de muestreo adecuada en la  realización de inventarios de biodiversidad. Se establecieron cuatro (4) parcelas en bosque de galería primario, cuatro (4) parcelas en bosque de galería secundario, cinco (5) en bosque natural fragmentado, cuatro (4) en bosque secundario basal (4) y cuatro en 
+matorral denso y restos de bosque; para un total de 21 parcelas de muestreo en la cuenca.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En cada parcela se identificaron las especies in situ, sin afectar los árboles y mediante observación de corteza y vista desde el suelo de la 
+filotaxia; también se recogió material vegetal de los individuos de difícil observación desde el suelo para reconocerlos inmediatamente en campo o para identificarlos en el campamento central mediante literatura, lo cual fue realizado por los ingenieros forestales de Planeación Ecológica Ltda. No se recolectaron muestras rotuladas de especies para herbario.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>VEGETACIÓN DE LAGUNAS Y ESTEROS: Se identificó la zona pantanosa objeto de muestreo mediante la lectura de GPS el cual  generó datos de coordenadas y altitud que fueron registrados y verificados dentro del límite de la cuenca. Teniendo en cuenta los criterios técnicos establecidos por la resolución 196 de 2006 del Ministerio del Medio Ambiente se determinaron las condiciones presentes del estero mencionando factores de perturbación en el estero, identificando las condiciones naturales o inducidas por el hombre que pudieran estar afectando los aspectos hidrológicos, vegetación y suelos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los sitios escogidos fueron determinados al azar y se utilizó la metodología correspondiente al muestreo de macrófitas. Por ende, en la orilla de cada sitio a muestrear se realizó un recorrido para determinar la presencia de macrófitas. En los manchones de macrófitas se efectuó un transecto perpendicular al borde de la zona pantanosa, en el cual se contó la presencia en porcentaje de las especies acuáticas localizadas en dicho transecto, registrando la información en los formatos de campo predeterminados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>VEGETACIÓN DE SABANA: Previa identificación cartográfica del sitio, en cada lugar a muestrear se realizó un recorrido para determinar la 
+presencia de pastos naturales. En estas coberturas se tendió un cuadrado hecho con una cuerda de un metro de lado y se contó en porcentaje la presencia de las especies de gramíneas y herbáceas de carácter natural localizadas dentro de dicho cuadrado registrando la información en los formatos de campo prediseñados. Se tomaron fotos del sitio, señalando en el formato los números de las fotos que correspondieron y se recogieron muestras de las especies que no fueron identificadas en campo, las cuales se colocaron en una bolsa plástica debidamente marcada con el número de la muestra correspondiente al sitio de muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FAUNA: Se tomó registros visuales, acústicos y evidencias físicas (rastros, huellas y excrementos, cantos, sonidos, entre otros), previa autorización del encargado del predio para la realización de los recorridos preestablecidos en un tiempo determinado y constante para cada unidad de muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Entrevistas y encuestas a los conocedores de fauna de la región (baquianos) se aplicó el formato de encuesta para la fauna. Captura de peces. En el cuerpo de agua seleccionado se diligencia el formato de campo para el registro de información de peces y se realizó una faena de pesca, con una duración de 1 a 2 horas aproximadamente, utilizando atarraya y nasa. Los peces capturados fueron fotografiados, clasificados y devueltos al medio.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La Cuenca Hidrográfica del Río Cravo Norte se encuentra ubicada al sur del departamento de Arauca dispuesta en sentido occidente-oriente y cruzando los municipios de Tame, Puerto Rondón, Arauquita y Cravo Norte. La extensión total del área de la cuenca es de 487.227 Ha aproximadamente, presenta una longitud axial de 202 Km y se encuentra ubicada altitudinalmente entre los 105 msnm en la desembocadura del río Cravo Norte al río Casanare y los 3600 msnm en territorio del Parque Nacional Natural El Cocuy en las estribaciones de la Cordillera Oriental.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>La obtención de información primaria de fauna silvestre se obtuvo mediante la realización de recorridos de observación en donde también se registró sonidos y evidencias físicas (rastros, huellas y excrementos), previa autorización del encargado del predio para la realización de los recorridos preestablecidos en un tiempo determinado y constante para cada unidad de muestreo. Para la obtención de información de flora, se realizaron muestreos estratificados al azar en el área de la cuenca teniendo en cuenta como estratos cada una de las coberturas identificadas.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Formulación del Plan de Ordenación y Manejo Ambiental -POMACH- de la cuenca del Río Cravo Norte, jurisdicción del departamento de Arauca, bajo los parámetros y directrices del decreto 1729 de 2002</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Nathalia</givenName>
+                    <surName>Meza</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>El proceso de ordenación y manejo  de cuencas hidrográficas en Colombia, ha tenido en los últimos años un auge en lo relacionado con la planificación ambiental a nivel regional, toda vez que la unidad  territorial “cuenca”, por sus condiciones físicas y bióticas y las relaciones ecosistémicas que en ella ocurren, determinan un área con mayor capacidad integral de desarrollo generando que esta unidad territorial sea la más aceptada  para la gestión de los recursos naturales. Lo anterior, radica en las dinámicas de los sistemas socioeconómicos y biofísicos, las cuales obedecen a un comportamiento que responde al modelo de manejo dado a los recursos  agua, suelo, flora, fauna y a las  actividades económicas e infraestructuras existentes en la zona. De esta forma, la cuenca hidrográfica es un espacio geográfico basado en el ciclo hidrológico natural y sus perturbaciones antrópicas, en donde los grupos sociales que allí habitan y se interrelacionan, socializan y desarrollan actividades en función de la disponibilidad de dicho  recurso hídrico que posteriormente determina la presencia y conservación de los demás recursos naturales.
+En razón a esta  concepción, la Corporación Autónoma Regional de la Orinoquía CORPORINOQUÍA, la Unidad Administrativa Especial del Sistema de Parques Nacionales Naturales de Colombia UAESPNN y la firma consultora PLANEACIÓN ECOLÓGICA LTDA. presentan a continuación, el proyecto denominado “FORMULACIÓN DEL PLAN DE ORDENACIÓN Y MANEJO AMBIENTAL POMACH DE LA CUENCA DEL RÍO CRAVO NORTE” localizado en jurisdicción de Corporinoquía en el departamento de Arauca y en los municipios de Tame, Puerto Rondón, Cravo Norte y Arauquita.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>La Cuenca Hidrográfica del Río Cravo Norte se encuentra ubicada al sur del departamento de Arauca dispuesta en sentido occidente-oriente y cruzando los municipios de Tame, Puerto Rondón, Arauquita y Cravo Norte. Las partes más extremas de su territorio la delimitan entre las coordenadas X=895977 – Y=1212839 y las coordenadas X=1097511 – Y=1188029. La extensión total del área de la cuenca es de 487.227 Ha aproximadamente, presenta una longitud axial de 202 Km y se encuentra ubicada altitudinalmente entre los 105 msnm en la desembocadura del río Cravo Norte al río Casanare y los 3600 msnm en territorio del Parque Nacional Natural El Cocuy en las estribaciones de la Cordillera Oriental.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>La obtención de información primaria de fauna silvestre se obtuvo mediante la realización de recorridos de observación en donde también se registró sonidos y evidencias físicas (rastros, huellas y excrementos), previa autorización del encargado del predio para la realización de los recorridos preestablecidos en un tiempo determinado y constante para cada unidad de muestreo. Para la obtención de información de flora, se realizaron muestreos estratificados al azar en el área de la cuenca teniendo en cuenta como estratos cada una de las coberturas identificadas.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:19Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/dza7xy">Corporación Autónoma Regional de la Orinoquia - Corporinoquia (2024). Fauna y flora asociada al Plan de Ordenación y Manejo Ambiental de la cuenca del río Cravo Norte, jurisdicción del departamento de Arauca. Version 2.2. Corporación Autónoma Regional de la Orinoquia - Corporinoquia. Occurrence dataset https://doi.org/10.15472/dza7xy accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>COLOMBIA. DEPARTAMENTO NACIONAL DE PLANEACIÓN. Plan Nacional de Desarrollo. 2006</citation>
+                <citation>GENTRY, A. H. 1982. Patterns of Neotropical plant diversity. Evolutionary Biology  15: 1-84.</citation>
+                <citation>VILLARREAL H., M. ÁLVAREZ, S. CÓRDOBA, F. ESCOBAR,  G. FAGUA,  F. GAST,  H. MENDOZA,  M. OSPINA y A.M. UMAÑA. Segunda edición. 2006. Manual de métodos para el desarrollo de inventarios de biodiversidad. Programa de Inventarios de Biodiversidad. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá, Colombia. 236 p.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-corporinoquia.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

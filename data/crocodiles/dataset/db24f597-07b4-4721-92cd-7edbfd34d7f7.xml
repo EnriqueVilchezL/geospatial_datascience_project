@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="db24f597-07b4-4721-92cd-7edbfd34d7f7"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/tlbxc2</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iiap/resource?r=reptilesbosquesubxerofiticounguia</alternateIdentifier>
+        <alternateIdentifier>db24f597-07b4-4721-92cd-7edbfd34d7f7</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iiap/resource?r=reptilesbosquesubxerofiticounguia</alternateIdentifier>
+        <title>Caracterización ecológica de reptiles presentes en los bosques subxerofíticos de Unguía, Chocó</title>
+        <creator>
+            <individualName>
+                <givenName>Nelsy Sofia</givenName>
+                <surName>Urrutia</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName>
+            <positionName>Investigadora contratista</positionName>
+            <address>
+                <deliveryPoint>Carrera sexta numero 37-39</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <postalCode>+57</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+5746709126</phone>
+            <electronicMailAddress>sofibon@gmail.com</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Luis Eladio</givenName>
+                <surName>Moreno</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName>
+            <positionName>Investigador asociado I</positionName>
+            <address>
+                <deliveryPoint>Carrera sexta numero 37-39</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <postalCode>+57</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+5746709126</phone>
+            <electronicMailAddress>erenteria@iiap.org.co</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Instituto de Investigaciones Ambientales del</givenName>
+                <surName>IIAP</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName>
+            <positionName>Institución investigadora</positionName>
+            <address>
+                <deliveryPoint>Carrera 6 # 37-39</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <postalCode>+57</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>46709126</phone>
+            <role>OWNER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Zulmary</givenName>
+                <surName>Valoyes</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName>
+            <positionName>Investigadora principal componente Ecosistémico</positionName>
+            <address>
+                <deliveryPoint>Carrera 6 # 37-39</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <postalCode>+57</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+5746709126</phone>
+            <electronicMailAddress>zvaloyes@iiap.org.co</electronicMailAddress>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <pubDate>
+                2018-12-26
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            La fauna que habita el bosque seco ha desarrollado una serie de estrategias que les permiten sobrevivir a las altas temperaturas y reproducirse en ambientes secos donde la disponibilidad de agua es limitada y fluctuante, además de la alta competencia que caracteriza a los bosques secos tropicales; de ahí que se presentan muchos endemismos, en especial en los anfibios por sus requerimientos ecológicos, entre estos, su elevada dependencia del recurso hídrico. La amplia diversidad faunística, así como la importante concentración de endemismos hace que estos bosques presenten altísima prioridad para la conservación.
+Los estudios sobre la fauna de los bosques secos tropicales en Colombia son incipientes, desconociéndose gran parte de la biodiversidad que los integra. Adicionalmente, estos ecosistemas a nivel nacional presentan un estado crítico de fragmentación y deterioro, y por ende su biodiversidad corre el riesgo inminente de desaparecer; por lo que se hace necesario incrementar los conocimientos sobre este componente, lo cual permita diseñar estrategias óptimas para la conservación de tan importante recurso.
+Este apartado contiene los aspectos metodológicos específicos para cada grupo faunístico, aplicados ´para el levantamiento de información en campo y los resultados relacionados con su composición, estructura y estado de conservación. 
+ 
+        </abstract>
+        <keywordSet>
+            <keyword>Bosques secos</keyword>
+            <keyword>Herpetos del Chocó</keyword>
+            <keyword>Occurrence</keyword>
+            <keyword>Biota de Unguía</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>IIAP</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://ipt.biodiversidad.co/iiap/resource?r=reptilesbosquesubxerofiticounguia&amp;amp;v=1.0</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/iiap/archive.do?r=reptilesbosquesubxerofiticounguia</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El municipio de Unguía está ubicado en la parte norte de Colombia, en la parte norte del Departamento del Chocó, específicamente en la frontera con panamá., Al extremo noroccidental del país a una distancia de 478 kilómetros por vía fluvial de la capital del departamento (Quibdó). Limita por el norte con el municipio de Acandí y el Océano Atlántico, por el sur con el Municipio de Río sucio, por el occidente con la República de Panamá y por el oriente con el Departamento de Antioquia. Tiene una extensión de 1179 m2. Presentando una altura de 5 metros sobre el nivel del mar y su temperatura promedio es de 26°C a 28°C.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-77.064</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-77.064</eastBoundingCoordinate>
+                    <northBoundingCoordinate>8.245</northBoundingCoordinate>
+                    <southBoundingCoordinate>8.245</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2016-09-05
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2016-09-09
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La herpetofauna de los bosques de transición está comprendida por 20 especies, 21 géneros, 17 familias, que pertenecieron a cuatro grupos de herpetos como son las ranas, los lagartos, las serpientes, las tortugas y los crocodilidos.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhinella marina</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Craugastor</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dendrobates auratus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dendropsophus ebraccatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dendropsophus microcephalus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Scinax sugillatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Trachycephalus typhonius</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>leptodactylus fuscus cfa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Caiman crocodilus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Trachemys venusta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhinoclemmys melanosterna</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Kinosternon leucostomum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Basiliscus basiliscus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Iguana iguana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Anolis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hemidactylus brookii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tupinambis teguixin</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Boa constrictor</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Epicrates cenchria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chironius carinatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptophis ahaetulla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Bothrops asper</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Zulmary</givenName>
+                <surName>Valoyes</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName>
+            <positionName>Investigador principal componente ecosistémico</positionName>
+            <address>
+                <deliveryPoint>Carrera 6 # 37-39</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <postalCode>+57</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+5746709126</phone>
+            <electronicMailAddress>zvaloyes@iiap.org.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Para la caracterización de la herpetofauna presente en los bosques de transición de Unguia, se realizó una salida de campo, con una duración de 4 días. La herpetofauna fue registrada mediante una metodología directa como es la Inspección por Encuentro Visual (VES), para la cual se desarrollaron muestreos de campo diurnos y nocturnos llevados a cabo por tres investigadores entre las 9:00 y las 13:00 horas para los muestreos diurnos y entre las 18:00 y las 21:00 horas para los nocturnos,; en los muestreos se efectuaron recorridos en busca de individuos que se encontraran asociados a la vegetación, a plantaciones, al borde de un sendero o los encontrados al remover troncos del suelo y hojarasca (Heyer et al. 1994), Para la preparación de los ejemplares capturados, se siguió la metodología estandarizada utilizada por Rengifo (2002), que básicamente consiste en sacrificarlos individuos con un anestésico (rixocaina), fijarlos en formol al 10% y conservarlos en alcohol al 70%.
+
+Los especímenes fueron identificados con la ayuda de guías, trabajos y claves taxonómicas de Peter &amp; Donoso – Barros (1970), Lynch (1999), Rengifo y Lunderg (1999), Páez et al (2000), Cuentas et al (2002) y Ayala y Castro (Datos no publicados), y por medio de la comparación con materiales de colección</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El municipio de Unguía está ubicado en la parte norte de Colombia, en la parte norte del Departamento del Chocó, específicamente en la frontera con panamá., Al extremo noroccidental del país a una distancia de 478 kilómetros por vía fluvial de la capital del departamento (Quibdó). Limita por el norte con el municipio de Acandí y el Océano Atlántico, por el sur con el Municipio de Río sucio, por el occidente con la República de Panamá y por el oriente con el Departamento de Antioquia. Tiene una extensión de 1179 m2. Presentando una altura de 5 metros sobre el nivel del mar y su temperatura promedio es de 26°C a 28°C. 
+
+La presente investigación se desarrolló en cuatro sectores del corregimiento de Santa María la Antigua del Darién</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la caracterización de la herpetofauna presente en los bosques de transición de Unguia, se realizó una salida de campo, con una duración de 4 días. La herpetofauna fue registrada mediante una metodología directa como es la Inspección por Encuentro Visual (VES), para la cual se desarrollaron muestreos de campo diurnos y nocturnos llevados a cabo por tres investigadores entre las 9:00 y las 13:00 horas para los muestreos diurnos y entre las 18:00 y las 21:00 horas para los nocturnos,; en los muestreos se efectuaron recorridos en busca de individuos que se encontraran asociados a la vegetación, a plantaciones, al borde de un sendero o los encontrados al remover troncos del suelo y hojarasca (Heyer et al. 1994).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Para la preparación de los ejemplares capturados, se siguió la metodología estandarizada utilizada por Rengifo (2002), que básicamente consiste en sacrificarlos individuos con un anestésico (rixocaina), fijarlos en formol al 10% y conservarlos en alcohol al 70%.
+
+Los especímenes fueron identificados con la ayuda de guías, trabajos y claves taxonómicas de Peter &amp; Donoso – Barros (1970), Lynch (1999), Rengifo y Lunderg (1999), Páez et al (2000), Cuentas et al (2002) y Ayala y Castro (Datos no publicados), y por medio de la comparación con materiales de colección</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Caracterización ecológica de los bosques subxerofiticos de Unguía, Chocó</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Zulmary</givenName>
+                    <surName>Valoyes</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <abstract>
+                    <para>Los bosques secos en el departamento del Chocó se han convertido a lo largo del tiempo, por diversos procesos naturales y antrópicos, en remanentes de bosques en medio de una amplia y exuberante selva húmeda, por lo cual estos presentan un conjunto de características únicas y constituyen ecosistemas complejos que aportan una amplia gama de beneficios económicos, sociales y ambientales; entre los más relevantes cabe mencionar que es el hábitat de numerosas especies, tanto vegetales como animales siendo muchos endémicos, producen gran cantidad y variedad de materia prima para alimento, producción económica, construcción y compuestos químicos secundarios, actúan como importantes reguladores del clima, captadores de carbono, protección del suelo contra la erosión y también pueden constituirse en destino turísticos y de recreación. Los usos directos de estos bosques son muy diversos y varían regionalmente de acuerdo con las tradiciones culturales de la población y las de tenencia de las tierras. 
+Pese a toda esta importancia, los bosques secos enfrentan fuertes problemáticas, lo cual amenaza considerablemente su estabilidad. La extracción de maderas, por ejemplo, es una de las actividades más fuertes, puesto que estos bosques son el hábitat de muchas especies que producen maderas finas de gran demanda para la elaboración de diversos productos. Sin embargo, las tasas de explotación han sido superiores a las de rebrote de nuevos árboles, por lo que las especies arbóreas son muy escasas en algunas áreas y la actividad extractiva es insostenible. otro factor es la transformación en otro sistema, pues debido a que los climas secos han sido preferidos por los humanos de las regiones tropicales y los suelos de la zona de vida presentan muy buena calidad, los asentamientos humanos y sus actividades productivas se han concentrado en dicha zona. Adicionalmente, a nivel nacional la presión sobre los remanentes, incluyendo los de las zonas destinadas a la conservación, ha alcanzado niveles críticos y ha dado origen a conflictos entre leñadores y autoridades ambientales y propietarios de tierras; por esta razón es de vital importancia protegerlos y colaborar con su recuperación.
+Este manuscrito contiene la caracterización de los bosques subxerofíticos del municipio de Unguía, analizada desde una visión integral, dado que se presenta el análisis tanto ecológico como sociocultural del ecosistema, con lo cual se genera una herramienta de conocimiento que contribuya a implementar estrategias de conservación del mismo y de los elementos que lo componen, así como de los bienes y servicios que generan.</para>
+                </abstract>
+                <funding>
+                    <para>IIAP</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El municipio de Unguía está ubicado en la parte norte de Colombia, en la parte norte del Departamento del Chocó, específicamente en la frontera con panamá., Al extremo noroccidental del país a una distancia de 478 kilómetros por vía fluvial de la capital del departamento (Quibdó). Limita por el norte con el municipio de Acandí y el Océano Atlántico, por el sur con el Municipio de Río sucio, por el occidente con la República de Panamá y por el oriente con el Departamento de Antioquia. Tiene una extensión de 1179 m2. Presentando una altura de 5 metros sobre el nivel del mar y su temperatura promedio es de 26°C a 28°C.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>La identificación y caracterización ecológica del bosque subxerofítico de Unguía se realizó mediante el desarrollo de dos etapas, la primera estuvo comprendida por la elaboración de la línea base, mientras que la segunda consistió en el levantamiento de la información directa en el área de estudio y su posterior análisis, mediante la implementación de distintos muestreos e inventarios, que permitieron determinar la composición, estructura y estado de los componentes florístico y faunístico asociados al bosque, así como la identificación y documentación los aspectos socioculturales de las comunidades asentadas en el área de influencia de dichos bosques. Las anteriores fases estuvieron acompañadas por un proceso de socialización de la investigación con la comunidad, donde se les informo sobre los objetivos del estudio y se tuvieron en cuenta sus consideraciones al respecto, y finalmente al concluir las fases de muestreo se procedió a la presentación preliminar de los resultados obtenidos</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:24Z</dateStamp>
+                <citation identifier="http://doi.org/10.15472/tlbxc2">Urrutia N S, Moreno L E (2018). Caracterización ecológica de reptiles presentes en los bosques subxerofíticos de Unguía, Chocó. Version 1.2. Instituto de Investigaciones Ambientales del Pacífico John Von Neumann - IIAP. Occurrence dataset https://doi.org/10.15472/tlbxc2 accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-iiap.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

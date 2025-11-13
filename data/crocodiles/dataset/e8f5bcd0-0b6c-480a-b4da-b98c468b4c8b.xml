@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="e8f5bcd0-0b6c-480a-b4da-b98c468b4c8b"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/sdcj6o</alternateIdentifier>
+        <alternateIdentifier>e8f5bcd0-0b6c-480a-b4da-b98c468b4c8b</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=babilla_apaporis</alternateIdentifier>
+        <title>Babilla del Apaporis (Caiman crocodilus apaporiensis) en la cuenca media del río Apaporis, municipio de Pacoa</title>
+        <creator>
+            <individualName>
+                <givenName>Sergio</givenName>
+                <surName>Balaguera-Reina</surName>
+            </individualName>
+            <organizationName>Universidad de Ibagué</organizationName>
+            <positionName>Profesor asociado</positionName>
+            <address>
+                <deliveryPoint>Carrera 22 - Calle 67 Barrio Ambalá</deliveryPoint>
+                <city>Ibagué</city>
+                <administrativeArea>Tolima</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3209871741</phone>
+            <electronicMailAddress>sergio.balaguera-reina@unibague.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-5153-0031</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Ana Maria</givenName>
+                <surName>Montoya Tafur</surName>
+            </individualName>
+            <organizationName>Universidad de Ibagué</organizationName>
+            <positionName>Dirección de Investigaciones</positionName>
+            <address>
+                <deliveryPoint>Carrera 22 - Calle 67 Barrio Ambalá</deliveryPoint>
+                <city>Ibagué</city>
+                <administrativeArea>Tolima</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>2760010 Ext 3402</phone>
+            <electronicMailAddress>investigaciones@unibague.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.unibague.edu.co/investigaciones</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2022-07-22
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>La babilla del Apaporis (Caiman crocodilus apaporiensis) ha sido de particular interés desde su descripción debido principalmente a su claro y diferenciado morfotipo (hocico aguzado) dentro del morfo-espacio Caiman. Sin embargo, la falta de muestras derivadas de especímenes vivos o tejidos y el reducido tamaño muestreal con que se cuenta (holotipos y paratipos), ha limitado el alcance de los estudios hechos a la fecha sobre esta especie. Sumado a esto, la falta de estudios ecológicos y poblacionales han impedido definir el estado de conservación de esta subespecie endémica para Colombia desde su descripción en 1955, mostrando la inherente necesidad de reactivar cuento antes la investigación sobre esta subespecie. Es así como el presente estudio pretende evaluar las relaciones filogenéticas de la subespecie C. c. apaporiensis así como evaluar y describir aspectos ecológicos y poblacionales de la misma en la cuenca media del río Apaporis.</para>
+<para>Este recurso contiene 42 registros de la babilla, tomados en los municipios de Pacoa en Amazonas y Vaupés en los años 2019 y 2021.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>phylogenetic</keyword>
+            <keyword>Spectacled caiman</keyword>
+            <keyword>phytogeography</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=babilla_apaporis</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Proyecto desarrollado entre los municipios de La Victoria Amazonas y Pacoa Vaupés a lo largo de la cuenca media Del Río Apaporis.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-71.329</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-71.154</eastBoundingCoordinate>
+                    <northBoundingCoordinate>0.189</northBoundingCoordinate>
+                    <southBoundingCoordinate>0.05</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2019-01-09
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-01-06
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El conjunto de datos cuenta con 42 registros biológicos, todos los registros pertenecen a la subespecie Caiman crocodilus apaporiensis.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Caiman crocodilus apaporiensis</taxonRankValue>
+                    <commonName>Babilla</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Sergio</givenName>
+                <surName>Balaguera-Reina</surName>
+            </individualName>
+            <organizationName>Universidad de Ibagué</organizationName>
+            <positionName>Profesor asociado</positionName>
+            <address>
+                <deliveryPoint>Carrera 22 - Calle 67 Barrio Ambalá</deliveryPoint>
+                <city>Ibagué</city>
+                <administrativeArea>Tolima</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3209871741</phone>
+            <electronicMailAddress>sergio.balaguera-reina@unibague.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-5153-0031</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Teniendo en cuenta las dificultades logísticas del área de trabajo, este proyecto se desarrolló por fases. La primera fase comprende una expedición de 10 días en diciembre 2018, en la cual se realizaron capturas y conteos nocturnos con el fin de evaluar la ecología espacial de la subespecie, así como colectar muestras de tejido (sanguíneo y muscular/dérmico) para realizar análisis filogenéticos. La colecta de sangre se hizo del seno venoso nucal y el tejido muscular/dérmico se colectó por medio del corte de escamas de la cresta sencilla de la cola, la cual sirvió además como método de marcaje para su posterior identificación (numeración seriada). Análisis morfométricos y merísticos fueron ejecutados con el fin de determinar cuan variable es esta subespecie dentro del morfo-espacio de Caiman crocodilus. Además, se efectuó una evaluación ecológica preliminar en el área con el fin de obtener, por primera vez, números poblacionales. Todas las colectas se realizan bajo el amparo del permiso de investigación marco de la universidad de Ibagué.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La segunda fase se llevó a cabo a través del 2019 en la cual se realizaron análisis moleculares en el laboratorio de biología molecular de la Universidad de Ibagué. Esta fase comprendió la extracción, amplificación y secuenciación de genes específicos de ADN mitocondrial, con el fin de realizar arboles comparativos con la información actualmente publicada sobre la especie en otras regiones de centro y sur América (Vasconcelos et al. 2006, Venegas-Anaya et al. 2008, Hrbek et al. 2008). Se realizaron además salidas de campo al área a lo largo del 2019 con el fin de colectar mayor información ecológica, así como muestras que permitan un acercamiento optimo a resolver el estatus taxonómico y estado de conservación de la subespecie en el área.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El estudio se realizó en la cuenca media del río Apaporis entre los municipios Pacoa Amanzonas y Pacoa Vaupés. El área de estudio cuenta con una cobertura principalmente boscosa (bosque húmedo tropical) prístina con áreas impactadas debido a actividades de supervivencia realizadas por indígenas y colonos así como deforestación por cultivos ilícitos.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Teniendo en cuenta las dificultades logísticas del área de trabajo, este proyecto se desarrolló por fases. La primera fase comprende una expedición de 10 días en diciembre 2018, en la cual se realizaron capturas y conteos nocturnos con el fin de evaluar la ecología espacial de la subespecie, así como colectar muestras de tejido (sanguíneo y muscular/dérmico) para realizar análisis filogenéticos. La colecta de sangre se hizo del seno venoso nucal y el tejido muscular/dérmico se colectó por medio del corte de escamas de la cresta sencilla de la cola, la cual sirvió además como método de marcaje para su posterior identificación (numeración seriada). Análisis morfométricos y merísticos fueron ejecutados con el fin de determinar cuan variable es esta subespecie dentro del morfo-espacio de Caiman crocodilus. Además, se efectuó una evaluación ecológica preliminar en el área con el fin de obtener, por primera vez, números poblacionales. Todas las colectas se realizan bajo el amparo del permiso de investigación marco de la universidad de Ibagué.
+
+La segunda fase se llevó a cabo a través del 2019 en la cual se realizaron análisis moleculares en el laboratorio de biología molecular de la Universidad de Ibagué. Esta fase comprendió la extracción, amplificación y secuenciación de genes específicos de ADN mitocondrial, con el fin de realizar arboles comparativos con la información actualmente publicada sobre la especie en otras regiones de centro y sur América (Vasconcelos et al. 2006, Venegas-Anaya et al. 2008, Hrbek et al. 2008). Se realizaron además salidas de campo al área a lo largo del 2019 con el fin de colectar mayor información ecológica, así como muestras que permitan un acercamiento optimo a resolver el estatus taxonómico y estado de conservación de la subespecie en el área.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Ajuste de vocabulario controlado en los elementos geográficos: county y municipality.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Sistemática y conservación de la  babilla del río Apaporis (Caiman  crocodilus apaporiensis Medem 1955),  trapecio amazónico, Colombia</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Sergio</givenName>
+                    <surName>Balaguera-Reina</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0002-5153-0031</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <abstract>
+                    <para>La babilla, cómo es conocido comúnmente Caiman crocodilus en Colombia, tiene una de las distribuciones más extensas entre los crocodílidos del mundo, abarcando naturalmente desde México hasta Perú y Brasil, y deliberadamente introducida en Estados Unidos, Cuba y Puerto Rico (Velasco y Balaguera-Reina 2018). Estudios morfológicos y genéticos hechos en las últimas cinco décadas han mostrado gran variabilidad en esta especie a través de su ámbito de distribución, dando paso a la hipótesis de al menos cuatro subespecies presentes dentro del complejo taxonómico
+Caiman: C. c. fuscus, C. c. crocodilus, C. c. chiapasius, and C. c. apaporiensis (Medem 1981, King y Burke 1989, Busack y Pandya 2001, Amato y Gatesby 1994, Venegas-Anaya et al. 2008, Escobedo-Galván et al. 2015). De estos, C. c. fuscus y C. c. crocodilus se encuentran ampliamente distribuidos en centro y Suramérica comparado con C. c. chiapasius, and C. c. apaporiensis quienes tienes distribuciones más reducidas (en el primer caso desde Chiapas, México hasta El Salvador, y en el segundo únicamente presente en la cuenca media y alta del río Apaporis en Colombia;
+Medem 1981, Venegas-Anaya et al. 2008).
+
+La babilla del Apaporis (C. c. apaporiensis) ha sido de particular interés desde su descripción (Medem 1955) debido principalmente a su claro y diferenciado morfotipo (hocico aguzado) dentro del morfo-espacio Caiman (Escobedo-Galvan et al. 2015). Sin embargo, la falta de muestras derivadas de especímenes vivos o tejidos y el reducido
+tamaño muestreal con que se cuenta (holotipos y paratipos), ha limitado el alcance de los estudios hechos a la fecha sobre esta especie (Bloor 2013, Escobedo-Galván et al. 2015). Sumado a esto, la falta de estudios ecológicos y poblacionales han impedido definir el estado de conservación de esta subespecie endémica para Colombia desde
+su descripción en 1955 (Velasco y Balaguera-Reina 2018), mostrando la inherente necesidad de reactivar cuento antes la investigación sobre esta subespecie. Es así como el presente estudio pretende evaluar las relaciones filogenéticas de la subespecie C. c. apaporiensis así como evaluar y describir aspectos ecológicos y poblacionales de la misma en la cuenca media del río Apaporis.</para>
+                </abstract>
+                <funding>
+                    <para>CrocFest, IUCN/SSC/Crocodile Specialist Group, Universidad De Ibagué.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El estudio se realizó en la cuenca media del río Apaporis entre los municipios Pacoa Amanzonas y Pacoa Vaupés. El área de estudio cuenta con una cobertura principalmente boscosa (bosque húmedo tropical) prístina con áreas impactadas debido a actividades de supervivencia realizadas por indígenas y colonos así como deforestación por cultivos ilícitos.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Teniendo en cuenta las dificultades logísticas del área de trabajo, este proyecto se desarrolló por fases. La primera fase comprende una expedición de 10 días en diciembre 2018, en la cual se realizaron capturas y conteos nocturnos con el fin de evaluar la ecología espacial de la subespecie, así como colectar muestras de tejido (sanguíneo y muscular/dérmico) para realizar análisis filogenéticos. La colecta de sangre se hizo del seno venoso nucal y el tejido muscular/dérmico se colectó por medio del corte de escamas de la cresta sencilla de la cola, la cual sirvió además como método de marcaje para su posterior identificación (numeración seriada). Análisis morfométricos y merísticos fueron ejecutados con el fin de determinar cuan variable es esta subespecie dentro del morfo-espacio de Caiman crocodilus. Además, se efectuó una evaluación ecológica preliminar en el área con el fin de obtener, por primera vez, números poblacionales. Todas las colectas se realizan bajo el amparo del permiso de investigación marco de la universidad de Ibagué.
+
+La segunda fase se llevó a cabo a través del 2019 en la cual se realizaron análisis moleculares en el laboratorio de biología molecular de la Universidad de Ibagué. Esta fase comprendió la extracción, amplificación y secuenciación de genes específicos de ADN mitocondrial, con el fin de realizar arboles comparativos con la información actualmente publicada sobre la especie en otras regiones de centro y sur América (Vasconcelos et al. 2006, Venegas-Anaya et al. 2008, Hrbek et al. 2008).
+
+Se realizarán además salidas de campo al área a lo largo del 2019 con el fin de colectar mayor información ecológica, así como muestras que permitan un acercamiento optimo a resolver el estatus taxonómico y estado de conservación de la
+subespecie en el área. Se diseñará un monitoreo comunitario con las poblaciones indígenas presentes en la zona con el fin generar apropiación y procesos de conservación inclusivos, así como una evaluación etno-zoológica de su interacción con la especie.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:29Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/sdcj6o">Balaguera-Reina S, Montoya Tafur A M (2022). Babilla del Apaporis (Caiman crocodilus apaporiensis) en la cuenca media del río Apaporis, municipio de Pacoa. Version 1.3. Universidad de Ibagué. Occurrence dataset https://doi.org/10.15472/sdcj6o accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Balaguera-Reina, S.A. 2019. Rediscovering the Apaporis Caiman (Caiman crocodilus apaporiensis): Notes from a Long-Anticipated Expedition, Journal of Herpetology 53(4), 310-315, (5 December 2019). https://doi.org/10.1670/19-028</citation>
+                <citation>Balaguera-Reina, S.A., M Vargas-Ramírez, N. Ordóñez-Garza, F. Hernández-González1, L.D. Densmore III. 2020. Unveiling the mystery: assessing the evolutionary trajectory of the Apaporis caiman population (Caiman crocodilus apaporiensis, Medem 1955) via mitochondrial molecular makers, Biological Journal of the Linnean Society, Volume 131, Issue 1, September 2020, Pages 163–171, https://doi.org/10.1093/biolinnean/blaa096</citation>
+                </bibliography>
+                <physical>
+                    <objectName>1003_uibaguebabilla_20200611</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=1003_uibaguebabilla_20200611</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>Articulo científico: Unveiling the mystery: assessing the evolutionary trajectory of the Apaporis caiman population (Caiman crocodilus apaporiensis, Medem 1955) via mitochondrial molecular makers</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>PDF</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://doi.org/10.1093/biolinnean/blaa096</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>Articulo científico: Rediscovering the Apaporis Caiman (Caiman crocodilus apaporiensis): Notes from a Long-Anticipated Expedition</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>PDF</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://doi.org/10.1670/19-028</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unibague.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

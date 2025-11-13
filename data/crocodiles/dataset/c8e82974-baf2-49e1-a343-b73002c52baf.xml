@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="c8e82974-baf2-49e1-a343-b73002c52baf"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/uykb1w</alternateIdentifier>
+        <alternateIdentifier>c8e82974-baf2-49e1-a343-b73002c52baf</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=corporinoquia_pomca_ariporo</alternateIdentifier>
+        <title>Fauna y flora asociada al Plan de Ordenación y Manejo Ambiental de la cuenca del río Ariporo</title>
+        <creator>
+            <individualName>
+                <surName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Autoridad ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (608) 6358588</phone>
+            <electronicMailAddress>atencionusuarios@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Autoridad ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (608) 6358588</phone>
+            <electronicMailAddress>atencionusuarios@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Consorcio POMCA 2015 057</surName>
+            </individualName>
+            <organizationName>Consorcio POMCA 2015 057</organizationName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2024-12-19
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Se suscribió el contrato de consultoría 200-14-4-15-232 entre Corporinoquia y el Consorcio POMCA 2015 057, cuyo objeto es el de Formular el plan de ordenación y manejo de la Subzona hidrográfica del Río Ariporo, donde se estructuran los lineamientos técnicos y metodológicos
+considerados por la Guía técnica para la formulación de los Planes de Ordenación y Manejo de Subzona hidrográficas (2013) y que además plantea la necesidad de incorporar los lineamientos y directrices de la Política Nacional para la Gestión Integral de Recurso Hídrico (PNGIRH) (2010) en relación con la estructura de planificación de Subzona hidrográficas y a lo establecido en el Decreto 1640 de agosto de 2012.</para><para>La elaboración del Plan de Ordenación y Manejo para la Subzona hidrográfica se estructuró para dar cumplimiento a lo establecido en el Título IV “De Los Planes de Ordenación y Manejo de Subzona hidrográfica” del decreto 1640 de 2012 y seguir los criterios, procedimientos y  lineamientos de la Guía Técnica para la formulación de los Planes de Ordenación y Manejo de Subzona hidrográficas y sus anexos, expedida por la Resolución 1907 de 2014.</para><para>Este conjunto de datos cuenta con 1.095 registros biológicos correspondientes a los reinos Plantae (770) y Animalia (325). Estos fueron tomados en diciembre del 2016, a lo largo de la cuenca del río Ariporo que se localiza en la parte oriental del país, entre las coordenadas 72°16’ a 69°53’ de longitud oeste y 5°47’ a 6°13’ de latitud norte. La Subzona hidrográfica del río Ariporo se encuentra en jurisdicción de la  Corporación Autónoma Regional de Corporinoquia y corresponde a los municipios de Sácama, Támara, Hato corozal y Paz de Ariporo.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>POMCA</keyword>
+            <keyword>Ordenamiento territorial</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Gestión</keyword>
+            <keyword>Observaciones.</keyword>
+            <keyword>Inventario</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=corporinoquia_pomca_ariporo</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La Subzona hidrográfica del río Ariporo se localiza en la parte oriental del país, entre las coordenadas 72°16’ a 69°53’ de longitud oeste y 5°47’ a 6°13’ de latitud norte. La Subzona hidrográfica del río Ariporo se encuentra en jurisdicción de la Corporación Autónoma Regional de Corporinoquia y corresponde a los municipios de Sácama, Támara, Hato corozal y Paz de Ariporo.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.098</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-71.273</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.035</northBoundingCoordinate>
+                    <southBoundingCoordinate>5.853</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2016-12-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2016-12-12
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>1.095 registros biológicos de fauna y flora silvestre distribuidos así: Plantae (770) y Animalia (325). El recurso está compuesto por 10 clases, 54 órdenes, 131 familias, 260 géneros y 312 especies. Del total, se identificó un 97.3% a nivel de especie y un 2.7% a nivel de género.
+
+En cuanto al reino Animalia, la distribución se da en 7 clases, 27 órdenes, 69 familias, 115 géneros y 135 especies. Del total, se identificó un 99.7% a nivel de especie y un 0.3% a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Elasmobranchii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En cuanto al reino Plantae, la distribución se da en 3 clases, 27 órdenes, 62 familias, 145 géneros y 177 especies. Del total, se identificó un 96.2% a nivel de especie y un 3.8% a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Nathalia</givenName>
+                <surName>Meza Fernández</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Profesional Universitaria SPA- Biodiversidad</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>nathaliameza@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FLORA: se ejecutó una salida previa de reconocimiento en la zona con el fin de identificar las coberturas vegetales que se presentan a lo largo de la Subzona hidrográfica  del rio Ariporo y dar a conocer el proyecto a la comunidad. En ésta se pudo identificar un total de once (11) tipos de coberturas: herbazal inundable (HI), herbazal de tierra firme (HTF), herbazal arbustivo (HArB), herbazal arbolado (HAr), médanos (MED), bosque de galería (BG), bosque ripario (BR), bosque inundable (BI), bosque denso (BD), zonas pantanosas (ZP) y cuerpos de agua (CA), todas estas se identificaron con la ayuda de la leyenda nacional de coberturas de la tierra (metodología CORINE Land Cover) adaptada para Colombia escala 1:1000.000.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para determinar la estructura y composición de la vegetación presente en la Subzona hidrográfica del río Ariporo, se tomó como base la metodología de Evaluación Ecológica Rápida (EER) de The Nature Conservancy (2002). Se realizaron parcelas o cuadrantes de 20 x 20 metros en bosques y se censaron todos los individuos con un DAP ≥ 10 centímetros; para herbazales, herbazales arbustivos y arbolados, cuerpos de agua y zonas pantanosas se realizaron parcelas o cuadrantes de 10 x 10 metros y se censaron los individuos con un DAP ≥ 2,5 centímetros en los herbazales arbustivos y arbolados. En el caso de los bosques y herbazales arbustivos y arbolados se tomaron 
+también datos de altura a la base de la copa y altura total, para los herbazales, cuerpos de agua y  zonas pantanosas se tomaron datos de  número de individuos y porcentaje de cobertura por cada especie dentro del cuadrante, a la vez, para cada uno de los levantamientos se registraron las coordenadas geográficas mediante georreferenciación. Como último se realizaron algunas entrevistas estructuradas a los habitantes cercanos a los levantamientos, con el fin de comprender las relaciones sociales en torno a la vegetación y los usos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FAUNA: La caracterización de fauna silvestre terrestre e íctica se llevó a cabo teniendo encuentra las coberturas descritas presentes en la Subzona hidrográfica  del río Ariporo y se realizó en tres (3) fases:1)  identificación de las especies potenciales; 2) levantamiento de información  primaria (trabajo de campo); y 3) procesamiento e interpretación de la información.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La selección de las localidades de muestreo se realizó conjuntamente con el componente de flora y vegetación quienes establecieron las  coberturas a estudiar, además, se tuvo en cuenta la revisión y análisis de imágenes de satélite, cartografía temática de cobertura y uso de la zona de estudio. Las localidades de muestreo fueron seleccionadas con base en criterios de representatividad del tipo de unidades de cobertura, grado de conservación, logística, y representatividad biológica en la Subzona hidrográfica (áreas con hábitats o bien tipos de coberturas con alta probabilidad de registro). Las localidades definidas para el muestreo fueron georreferenciadas con la ayuda de un (1) Geo Posicionador Espacial (Garmin GPS 60CSx).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Encuestas: Se realizaron encuestas no formales a los lugareños de cada una de las localidades de muestreo y durante los recorridos, como complemento a las técnicas de registro a cada grupo faunístico. Se indagó acerca de las especies que habitan en la zona, sus nombres comunes, hábitat, estados poblacionales, usos e importancia cultural. Además, se averiguó sobre aquellas especies cuyos avistamientos se  han reducido o bien de difícil observación apoyándose en la utilización de ilustraciones del libro rojo de especies amenazadas para Colombia.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Identificación directa: Los muestreos estuvieron conformados por un equipo humano de cuatro (4) especialistas con amplia experiencia en la  región, sumado al apoyo y acompañamiento de las comunidades durante la labor de campo. La caracterización realizada sobre los mismos  sectores donde se generaron las parcelas de flora, intentando siempre recorrer la mayor cantidad de área en zonas mejor conservados y representativos de cada cobertura natural, como también los diferentes tipos de hábitats en los mismos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Anfibios y reptiles: Se realizaron búsquedas activas de reptiles y anfibios con el método de Búsqueda de Encuentro Visuales – VES, cuyo método es muy eficiente en el inventario y seguimiento de anfibios y reptiles en un área, para obtener el mayor número de especies en el menor tiempo por parte de colectores experimentados y compilar una lista de especies (composición de especies de un ensamblaje). El método consiste en caminar aleatoriamente, buscando encuentros visuales a lo largo de diversos hábitats (hojarasca, debajo de troncos caídos y rocas, sobre las hojas, ramas y trocos y entre los diferentes cuerpos de agua presentes en la zona de estudio), observando y buscando con mucha atención cualquier especie de anfibio o reptil que se pueda encontrar tanto dentro como fuera del agua, en las orillas. Los recorridos se realizaron durante el día y noche, entre las 5:00 a 11:00 a.m, y en las horas de la tarde de 15:00 a 22:00, horario en el que suelen ser más activas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: Se registraron los individuos de manera visual usando binoculares de óptica y auditivamente, a través de diferentes métodos (puntos fijos, transectos, búsqueda activa y pasiva) con el fin de registrar la mayor cantidad de especies y obtener el mejor resultado en cuanto al ensamblaje de aves del lugar (Ralph, 1996; Stiles y Rosselli, 1998; Bohórquez, 2002; Villareal et al., 2004).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los recorridos se realizaron en las horas de mayor actividad de las aves: en la mañana de 6:00 - 10:00  horas y en la tarde de 15:00 -18:00  horas. La  distancia recorrida abarcó la mayor cantidad de la cobertura muestreada durante el tiempo previsto. La ubicación de los transectos se realizó por la periferia de la cobertura, lo cual permite mayor apreciación de las aves, como también las aves que ingresan o salen de las coberturas, y en el interior de los bosques, lo que permite identificar especies de interior. Se realizaron registros fotográficos (cuando fue posible) con ayuda de una cámara Canon SX 50 permitiendo el registro de detalles morfológicos para la posterior determinación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: Se realizaron recorridos por la mayor cantidad de hábitats donde se registraron los mamíferos por método directo e indirecto. Como método directo, se registraron las especies de mamíferos silvestres observados. Como método indirecto, los indicios de presencia de animales como huellas, huesos, excretas, madrigueras, rastros de presas y sonidos (Painter, 1999). Para la identificación de los mamíferos registrados se utilizó literatura especializada: Lista de los mamíferos de la Subzona hidrográfica del río Orinoco  (Ferrer et al., 2009);  Mamíferos (Synapsida: Theria) de Colombia  (Alberico  et  al., 2000); Mamíferos terrestres y voladores de Colombia (Morales et al., 2004); Mamíferos Colombianos: sus nombres comunes e indígenas (Rodríguez  et  al., 1995);  Manual  de  huellas  de  algunos  mamíferos  terrestres  de  Colombia (Navarro y Muñoz, 2000); Libro Rojo de los Mamíferos de Colombia (Rodríguez et al., 2006); Guía de campo: Mamíferos del Ecuador (Tirira, 2007); Mamíferos Acuáticos, y relacionados con el agua, Neotropicales (Trujillo et al., 2005). A su vez, se revisaron guías faunísticas donde se incluyen mamíferos como: Biodiversidad de departamento del Casanare, y Biodiversidad de la 
+Subzona hidrográfica del Orinoco, Bases científicas para la identificación de áreas prioritarias para la conservación y uso sostenible de la biodiversidad (Lasso et al., 2010).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Este estudio se desarrolló en la Subzona hidrográfica del río Ariporo especialmente en tres zonas base, la primera en el municipio de Támara  que representa la zona alta de la Subzona hidrográfica, la segunda en el municipio de Paz de Ariporo que representa la zona alta media de la Subzona hidrográfica y la tercera en el municipio de Hato Corozal que representa la zona media baja de la Subzona hidrográfica.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se realizó una fase de campo entre el 1 y 12 de diciembre de 2016 en los municipios de Támara, Paz de Ariporo y Hato Corozal, zonas alta y media de la Subzona hidrográfica del Río Ariporo, en los cuales se realizaron 75 parcelas, en  las  que se tomaron registros fotográficos de las especies vegetales presentes en cada una de las coberturas en las diferentes zonas, con la colaboración de la comunidad local. Se presenta la caracterización de la fauna silvestre (anfibios, reptiles, aves y mamíferos) e íctica, gracias a los aportes de los actores locales, desarrollo de encuestas aplicadas en los diferentes recorridos y el avistamiento de especies que se observaron en los recorridos.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Formulación del Plan de Ordenación y Manejo Ambiental -POMCA- del río Ariporo</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Nathalia</givenName>
+                    <surName>Meza</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>En este plan se describen las variables climáticas de la Subzona hidrográfica del río Ariporo a partir de registros disponibles en la base de datos del IDEAM, dando cumplimiento a la Guía Técnica para la Formulación de Planes de ordenación y Manejo de cuencas hidrográficas. El estudio climático tiene como objetivo identificar e interpretar el comportamiento atmosférico en la Subzona hidrográfica del río Ariporo a partir  del estudio de variables climáticas independientes y, así permitir definir las bases para comprender las causas de ese comportamiento, determinar el cómo y el porqué del clima presente en la Subzona hidrográfica, tener una base para evaluar las fluctuaciones climáticas y poder definir los efectos y relaciones de la atmósfera con otros comportamientos naturales.
+
+El plan se encuentra divido en dos partes, la primera consiste en la identificación de estaciones localizadas en la Subzona hidrográfica del  río  Ariporo, los registros disponibles, el análisis de las series de datos reportados, revisando su calidad, su consistencia y homogeneidad para dar pertinencia en su uso para los análisis subsiguientes. La segunda parte consta del análisis de las variables climáticas por separado y finalmente la representación de la variación temporal y espacial de dichas variables, balances hídricos y finalmente la determinación del índice de aridez y la zonificación climática empleando la metodología de Caldas-Land.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Para el estudio climático, el análisis de la localización de la Subzona hidrográfica es importante para comprender los principales factores que a nivel regional determinan el clima y la hidrología de una determinada área. La Subzona hidrográfica del río Ariporo se localiza en la parte oriental del país, entre las coordenadas 72°16’ a 69°53’ de longitud oeste y 5°47’ a 6°13’ de latitud norte. La Subzona hidrográfica del río Ariporo  se encuentra en jurisdicción de la Corporación Autónoma Regional de Corporinoquia y corresponde a los municipios de Sácama, Támara, Hato corozal y Paz de Ariporo. 
+
+En la región de estudio, como en la mayoría del país, las precipitaciones están de terminadas por perturbaciones de la Zona de Confluencia Intertropical (ZCIT), Ondas del Este del Caribe y Ciclones Tropicales entre otros. La Zona de Confluencia Intertropical se mueve latitudinalmente, siguiendo el desplazamiento aparente del sol con respecto a la Tierra, con un retraso aproximado de dos meses. Esto produce un régimen de precipitaciones con dos periodos húmedos durante el año, el primer periodo se registra durante los meses de abril y mayo y el segundo durante los meses de octubre y noviembre.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:27Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/uykb1w">Corporación Autónoma Regional de la Orinoquia - Corporinoquia (2024). Fauna y flora asociada al Plan de Ordenación y Manejo Ambiental de la cuenca del río Ariporo. Version 1.1. Corporación Autónoma Regional de la Orinoquia - Corporinoquia. Occurrence dataset https://doi.org/10.15472/uykb1w accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-corporinoquia.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

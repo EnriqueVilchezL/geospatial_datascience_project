@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="ed4b0f29-1e82-4386-80ee-9b9dd863a706"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/5kyoac</alternateIdentifier>
+        <alternateIdentifier>ed4b0f29-1e82-4386-80ee-9b9dd863a706</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=fototrampeo_magdalena-medio_2021</alternateIdentifier>
+        <title>Monitoreo pasivo de fauna silvestre con cámaras trampa en el Magdalena Medio, Santander y Cesar, Colombia - Proyecto FIBRAS</title>
+        <creator>
+            <individualName>
+                <surName>Ecopetrol. S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol. S.A.</organizationName>
+            <positionName>Gerencia de Sostenibilidad y Descarbonización</positionName>
+            <address>
+                <deliveryPoint>Carrera 7 # 32 – 42. Edificio San Martín Piso 32</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>60 (1) 2340000 Ext 54510</phone>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Biotica Consultores LTDA</surName>
+            </individualName>
+            <organizationName>Biotica Consultores LTDA</organizationName>
+            <positionName>ONG</positionName>
+            <address>
+                <deliveryPoint>Carrera 24 N° 107-18 Barrio Provenza</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 316 830 6662</phone>
+            <electronicMailAddress>info@bioticaconsultores.com</electronicMailAddress>
+            <onlineUrl>https://www.bioticaconsultores.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Instituto de investigación</positionName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>adiaz@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Instituto de investigación</positionName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Angélica</givenName>
+                <surName>Díaz-Pulido</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15-08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>adiaz@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Luis Fernando</givenName>
+                <surName>Cáceres Gómez</surName>
+            </individualName>
+            <organizationName>Biotica Consultores Ltda</organizationName>
+            <positionName>Biólogo</positionName>
+            <address>
+                <deliveryPoint>Carrera 24#107-18</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3168753988</phone>
+            <electronicMailAddress>fernando.caceres@bioticaconsultores.com</electronicMailAddress>
+            <onlineUrl>http://www.bioticaconsultores.com</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Infraestructura Institucional de Datos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Ecopetrol. S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol. S.A.</organizationName>
+            <positionName>Gerencia de Sostenibilidad y Descarbonización</positionName>
+            <address>
+                <deliveryPoint>Carrera 7 # 32–42. Edificio San Martín Piso 32</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>60 (1) 2340000 Ext 54510</phone>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-12-12
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Monitoreo pasivo con cámaras trampa en los sitios seleccionados por el IAvH, en el área del Magdalena Medio de los municipios Carmen de Chucurí, Puerto Parra, Barrancabermeja, San Vicente de Chucurí, Sabana de Torres (Departamento de Santander) y San Martín (Departamento de Cesar), en el marco del Convenio 19-155 suscrito entre el Instituto Alexander von Humboldt y Ecopetrol S.A.  Se obtuvieron un total de 163.642 registros fotográficos.
+ Para la publicación de estos datos se eliminan los 83.767 registros negativos, dejando únicamente 79.875 observaciones.
+        </abstract>
+        <keywordSet>
+            <keyword>Sabana de Torres</keyword>
+            <keyword>San Vicente de Chucurí</keyword>
+            <keyword>Magdalena Medio</keyword>
+            <keyword>Biotica Consultores Ltda</keyword>
+            <keyword>monitoreo pasivo</keyword>
+            <keyword>reptiles</keyword>
+            <keyword>IAvH</keyword>
+            <keyword>fototrampeo</keyword>
+            <keyword>aves</keyword>
+            <keyword>Barrancabermeja</keyword>
+            <keyword>mamíferos</keyword>
+            <keyword>Carmen de Chucurí</keyword>
+            <keyword>Puerto Parra</keyword>
+            <keyword>Santander</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Samplingevent</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=fototrampeo_magdalena-medio_2021</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El área de trabajo incluyó sectores del Magdalena medio de los municipios de Carmen de Chucurí, Puerto Parra, Barrancabermeja, San Vicente de Chucurí y Sabana de Torres del departamento de Santander; y el municipio de San Martín del departamento de Cesar.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-74.11</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.53</eastBoundingCoordinate>
+                    <northBoundingCoordinate>7.81</northBoundingCoordinate>
+                    <southBoundingCoordinate>6.52</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2020-11-03
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-04-14
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-11-13
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-02-23
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Los registros biológicos fueron obtenidos en su totalidad a partir de fototrampeo. con la instalación de 146 cámaras trampa durante un promedio de 48 días, en dos tiempos de muestreo. La mayor parte de los registros corresponden a taxones de los grupos Mamíferos y Aves con unos pocos representantes de los reptiles.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                    <commonName>Mamíferos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                    <commonName>Aves</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                    <commonName>Reptiles</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Este conjunto de datos y sus metadatos complementan el conocimiento actual de la fauna asociada al Magdalena medio y servirá de base para la formulación de estrategias de conservación y manejo sostenible de la biodiversidad en las áreas de influencia y operación de Ecopetrol S.A.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Angélica</givenName>
+                <surName>Diaz-Pulido</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15-08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>adiaz@humboldt.org.co</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Luis Fernando</givenName>
+                <surName>Cáceres Gómez</surName>
+            </individualName>
+            <organizationName>Biotica Consultores Ltda</organizationName>
+            <positionName>Biólogo</positionName>
+            <address>
+                <deliveryPoint>Carrera 24 # 107-18</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+            </address>
+            <phone>3168753988</phone>
+            <electronicMailAddress>fernando.caceres@bioticaconsultores.com</electronicMailAddress>
+            <onlineUrl>http://www.bioticaconsultores.com</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Se aplicó el protocolo de programación de cámaras trampa definido por el IAvH, el cual contempla 18 pasos para la configuración de cada dispositivo. Previa programación se procedió a verificar el correcto funcionamiento de todas las cámaras y para esto se instalaron las baterías y se verificó la correcta posición de la tarjeta de memoria SD. 
+
+A partir de información básica y temática suministrada por el IAVH y otra secundaria de acceso libre, se construyeron mapas temáticos y georreferenciados para cada uno de los sectores de trabajo definidos en el Magdalena Medio. Esta información se generó con ayuda del profesional SIG de Biótica Consultores LTDA y permitió la producción de 14 salidas gráficas. Los mapas fueron el insumo principal para el trabajo de ubicación y localización de las cámaras trampa en terreno; estos fueron descargados en los celulares de los profesionales y cargados en la aplicación AVENZA MAPS con la cual se logró ubicar en sitio las cuadriculas de trabajo y establecer la mejor estrategia para disponer cada una de las trampas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Con las cámaras programadas y las herramientas de ubicación vrificadas, se procedió a ejecutar el proceso de instalación de las cámaras bajo el siguiente lineamiento:
+
+Las actividades del protocolo de instalación contemplaron los siguientes pasos:
+a.	Aprestamiento: Alistamiento de las cámaras, baterías, memoria SD y correa. Así mismo el porte de GPS y celular con carga suficiente y la disponibilidad de las aplicaciones MAPS. ME y Avenza. Junto con lo anterior, una lista de chequeo para verificar la correcta programación de las cámaras. Finalmente asegurar la disponibilidad de los materiales para la instalación como son acetato, marcadores, borrador y el formato para el registro de las variables de instalación. 
+
+b.	Búsqueda de lugar de ubicación de las cámaras: Con base en las salidas gráficas generadas y la grilla aportada por el IAvH, se usó la aplicación AVENZA para encontrar en sitio cada uno de los cuadrantes definidos para la disposición de los equipos. Las cámaras se  instalaron teniendo en cuenta criterios como el acceso, el estado de la cobertura en el sitio, la presencia de rastros o evidencias de tránsito de fauna, la ausencia de personas o actividades antrópicas y la integridad del personal de campo. 
+
+c.	Una vez definido el lugar de ubicación de la cámara se procedió a registrar la coordenada geográfica donde la misma fue dispuesta.
+
+d.	Aplicación de lista de chequeo de programación de la cámara: Se aplicó la lista de chequeó predefinida para programar las cámaras trampa según las necesidades del proyecto. En sitio se incluyó como dato final las coordenadas registradas en el numeral anterior. 
+
+e.	Orientación: utilizando la brújula del GPS se definió la orientación de la cámara teniendo en cuenta que la misma fuera instalada en sentido Norte- Sur o viceversa con el fin de evitar la sobreexposición a la luz de sol. 
+
+f.	Altura de la cámara: la cámara fue instalada a una altura definida por las condiciones del lugar. En terrenos planos y secos se instaló a aproximadamente 40 cm del suelo. 
+
+g.	Socola y despeje del lugar: En cada uno de los lugares donde se instaló cámaras trampa se despejó el campo visual de la cámara con el fin de garantizar una imagen clara de los potenciales animales. 
+
+h.	Prueba de Gateo: En el lugar donde se crea que cruzará el animal, verificar por medio de la prueba de gateo la correcta instalación. Para esto se activa la cámara, se cruza frente a esta gateando, se revisan las fotos, se verifica que todo el cuerpo aparecen en al menos una de las fotos y se verifica que no existan objetos que obstaculicen la captura de la imagen. 
+
+i.	Prueba del acetato: En el acetato suministrado, incluir los siguientes datos: Nombre de la estación de muestreo, fecha, hora y nombre del personal responsable. Una vez diligenciada esta información, activar la cámara y posar frente a la cámara para que esta foto quede almacenada. 
+
+j.	Registro fotográfico de la vegetación existente en el sitio donde se instaló la cámara trampa.
+
+k.	Diligenciar formato de instalación: toda la información descrita en el protocolo se registra en el formato suministrado.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Luego de un promedio de 48 días de permanecer instaladas, las cámaras fueron retiradas siguiendo el protocolo definido: 
+
+a.	Búsqueda en campo de la cámara a partir de la información cartográfica disponible y el reconocimiento de la zona por parte del baquiano y profesional.  
+b.	Identificación del equipo y apagado. Una vez identificada la cámara trampa se procedió inmediatamente a su desactivación. 
+c.	Cuando se apagó la cámara se revisó y se procedió a desamarrar la correa que la sujetaba al tronco o superficie donde fue instalada. 
+d.	Revisión del estado de la cámara. Una vez desatada se prendió la cámara y se verificó su funcionamiento. Así mismo se observó el estado general de la cámara en cuanto a humedad, golpes o daños. 
+e.	Descripción de la estación de muestreo. Se observó si existía algún cambio significativo en las características del lugar donde fue instalada la cámara, como eventos de tala, incendios, o cambios significativos en el hábitat.
+f.	Diligenciamiento del formato de campo. Se diligenció el formato de campo “RECOLECCIÓN DE CÁMARAS TRAMPA”, teniendo en cuenta la información previamente mencionada, así como datos de fecha, hora y estación de muestreo.
+g.	Una vez recogida la cámara esta se embaló en un bolso junto con la correa, para posteriormente ser transportada a las instalaciones de Biótica Consultores Ltda. 
+h.	En la oficina, se procedió a retirar las tarjetas de memoria y descargar la información allí contenida. Esta información fue guardada en carpetas individuales para cada una de las estaciones de muestreo y atendiendo al código asignado a cada una. 
+i.	Una vez en el lugar de acopio, las cámaras fueron limpiadas, las correas lavadas y las baterías retiradas y embaladas para su posterior uso según protocolo definido por el IAvH. 
+j.	Finalmente las cámaras fueron embaladas en sus cajas originales junto con sus correas y baterías. Así mismo las memorias se dejaron en la cámara y contienen la información original como respaldo de la carpeta que creó Biótica Consultores LTDA.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Con la información descargada, se procedió a organizarla por carpetas según el codigo de cada estación y separ los registros en subcarpetas de fotos y video. Las carpetas originales de fotos de cada estación, fueron comprimidas con ayuda del programa R para disminuri su resolución al 50%. Las carpetas comprimidas posteriormente fueron cargadas en la plataforma Wildlife Insigths donde fueron identificadas y catalogadas. Finalizado este proceso se obtuvo la matriz de datos Darwin Core, con la cual se generaron los análisis respectivos y se consolidó el informe de resultados.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>En total se instalaron 150 cámaras trampa distribuidas en 2 departamentos,  6 municipios y 6 sectores.
+
+Carmen de Chucurí, Santander: Las cámaras fueron instaladas en 4 veredas (El porvenir, Caño lajas, Tres amigos, La reserva).
+
+Puerto Parra, Santander: Campo Capote se ubican al sur del área de estudio en el Magdalena Medio. Las cámaras fueron ubicadas en jurisdicción de la vereda La Reforma. 
+
+Barrancabermeja, Santander: Se establecieron dos sectores, el Sector del corregimiento de Cuatro Bocas, aledaño por el occidente al humedal de Juan Esteban; y el segundo al norte en las Veredas de Campo Gala y Termo Galán, embebida dentro del Humedal Palotal, que comprende los sectores de la Esperanza, La Encantada y es atravesado por los caños El Rosario al occidente y San Silvestre al Norte.
+
+San Vicente - Barrancabermeja: Sectores la Lizama-Pozo Nutrias- La Fortuna. Pozo Nutria en inmediaciones de los predios Quinta Estrella y el Provenir, propiedad de Ecopetrol . Las cámaras de la Fortuna (Oriente), se instalaron en la vereda Las Margaritas; Las cuadriculas del sector de Lizama y Pozo Nutria se encontraron ubicadas en las Veredas EL Zarzal, Las Lajas, EL Poblado y Pozo Nutrias. 
+
+Sabana de Torres, Santander:  La grilla de trabajo está distribuida en su mayoría en la Vereda Campo Tigre y una porción mas pequeña en la vereda la Puyana del Municipio de Sabana de Torres, Santander. 
+
+San Martín, Cesar: Este sector se ubicó en Límites del Municipio de San Martín, Vereda Salinas y el Municipio de Rionegro, Vereda La Muzanda del corregimiento de San Rafael, en Santander. Corresponde a la grilla del extremo norte del área de trabajo del Magdalena Medio.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El diseño de muestreo contempló establecer las cámaras en un gradiente de perturbación asociado a las áreas de influencia directa e indirecta de los lugares de operaciones actuales y potenciales de Ecopetrol S.A en el Magdalena Medio. Para esto se definieron 27 grillas, divididas en cuadrantes de 9 casillas, cada una con un área de 1 km cuadrado, para un total de 9 km cuadrados por cuadrante. Dentro de cada casilla se instalaron las cámaras trampa tratando de mantener un equidistancia entre ellas de al menos 1 km. Los lugares de muestreo se definieron por parte del equipo técnico del convenio FIBRAS, y se tuvo en cuenta asegurar una probabilidad de registro de fauna silvestre mayor a 0.
+En cada lugar de muestreo se realizaron dos momentos de monitoreo con aproximadamente un año de diferencia</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Se estableció control de calidad por parte de dos supervisores asignados por parte del IAvH, quienes hicieron seguimiento al desarrollo de las actividades ejecutadas por el CONTRATISTA. Así mismo se utilizaron las herramientas de depuración y verificación recomendadas por el mismo IAvH.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="proyecto_FIBRAS">
+                <title>Proyecto FIBRAS</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Angelica</givenName>
+                    <surName>Díaz Pulido</surName>
+                    </individualName>
+                    <role>AUTHOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Convenio de cooperación No. 19-155 entre ECOPETROL y el Instituto de Investigación de Recursos Biológicos Alexader von Humboldt.
+Contrato BIOTICA CONSULTORES LTDA número 20-19-155-139PS y número  21-19-155-392PS</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El proyecto se llevó a cabo en las áreas operativas y proyectadas de ECOPETROL.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Aunar esfuerzos para la planificación socioecológica en las áreas operativas y proyectadas de ECOPETROL, como aporte a una transición hacia la sosteniblilidad.  El convenio involucra la implementación y generación de datos de monitoreo en los sitios seleccionados. Esta actividad incluye el monitoreo pasivo mediante cámaras trampa en las áreas de interés.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:05Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/5kyoac">Ecopetrol. S.A., Biotica Consultores LTDA, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (2023). Monitoreo pasivo de fauna silvestre con cámaras trampa en el Magdalena Medio, Santander y Cesar, Colombia - Proyecto FIBRAS. Version 5.2. Ecopetrol S.A.. Sampling event dataset https://doi.org/10.15472/5kyoac accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>Monitoreo pasivo de fauna silvestre con cámaras trampa en el Magdalena Medio, Santander y Cesar, Colombia - Proyecto FIBRAS</objectName>
+                    <characterEncoding>urf-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>txt</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://i2d.humboldt.org.co/resource?r=fototrampeo_magdalena-medio_2021</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ecopetrol.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="ed225529-9908-4670-a359-4165f245b963"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/zt6kri</alternateIdentifier>
+        <alternateIdentifier>http://41.77.13.208:8081/ipt/resource?r=reptiles-and-amphibians-of-liwonde-national-park-1972</alternateIdentifier>
+        <title>reptiles-and-amphibians-of-liwonde-national-park-1972</title>
+        <creator>
+            <individualName>
+                <givenName>C.O.</givenName>
+                <surName>Dudley</surName>
+            </individualName>
+            <organizationName>Chancellor College</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>P.O. Box 211, Blantyre, Malawi</deliveryPoint>
+                <city>Blantyre</city>
+                <administrativeArea>Malawi</administrativeArea>
+                <postalCode>211</postalCode>
+                <country>MALAWI</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>D.</givenName>
+                <surName>Stead</surName>
+            </individualName>
+            <organizationName>Wildlife and Environmental Society of Malawi</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Wildlife and Environmental Society of Malawi</deliveryPoint>
+                <city>Blantyre</city>
+                <administrativeArea>Malawi</administrativeArea>
+                <postalCode>1429</postalCode>
+                <country>MALAWI</country>
+            </address>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Blessings</givenName>
+                <surName>Chingagwe</surName>
+            </individualName>
+            <organizationName>Wildlife and Environmental Society of Malawi</organizationName>
+            <positionName>Environmental Education Officer</positionName>
+            <address>
+                <deliveryPoint>Wildlife and Environmental Society of Malawi</deliveryPoint>
+                <city>Lilongwe</city>
+                <administrativeArea>Malawi</administrativeArea>
+                <postalCode>30293</postalCode>
+                <country>MALAWI</country>
+            </address>
+            <phone>+265994024124</phone>
+            <electronicMailAddress>blechingagwe@gmail.com</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Blessings</givenName>
+                <surName>Chingagwe</surName>
+            </individualName>
+            <organizationName>Wildlife and Environmental Society of Malawi</organizationName>
+            <positionName>Environmental Education Officer</positionName>
+            <address>
+                <deliveryPoint>Wildlife and Environmental Society of Malawi</deliveryPoint>
+                <city>Lilongwe</city>
+                <administrativeArea>Malawi</administrativeArea>
+                <postalCode>30293</postalCode>
+                <country>MALAWI</country>
+            </address>
+            <phone>+265994024124</phone>
+            <electronicMailAddress>blechingagwe@gmail.com</electronicMailAddress>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <pubDate>
+                2018-11-12
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Liwonde National Park had just been proclaimed a national park but was not yet opened to the public the time this resource data was recorded. It was expected that the park will be one of the most important part of the country&amp;#39;s preservation, conservation and tourism programme, which has really been.
+        </abstract>
+        <keywordSet>
+            <keyword>Malawi</keyword>
+            <keyword>reptiles</keyword>
+            <keyword>derived from occurrence</keyword>
+            <keyword>Checklist</keyword>
+            <keyword>nyala</keyword>
+            <keyword>amphibians</keyword>
+            <keyword>wesm</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Derivedfromoccurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://41.77.13.208:8081/ipt/archive.do?r=reptiles-and-amphibians-of-liwonde-national-park-1972</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Liwonde National park is located in the Eastern Part of Malawi in Machinga district</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>35.167</westBoundingCoordinate>
+                    <eastBoundingCoordinate>35.559</eastBoundingCoordinate>
+                    <northBoundingCoordinate>-15.006</northBoundingCoordinate>
+                    <southBoundingCoordinate>-15.193</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <singleDateTime>
+                    <calendarDate>                1972
+</calendarDate>
+                </singleDateTime>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>This resource is talking just the reptiles and amphibians of Liwonde National Park mapped to family, genus, order,phylum, kingdom and class</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankValue>Viperidae</taxonRankValue>
+                    <commonName>The puff adder</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lamprophiidae</taxonRankValue>
+                    <commonName>Sand snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pythonidae</taxonRankValue>
+                    <commonName>Python</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Varanidae</taxonRankValue>
+                    <commonName>Ssavanna monitor</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Varanidae</taxonRankValue>
+                    <commonName>Nile monitor</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Testudinidae</taxonRankValue>
+                    <commonName>Bell&apos;s hinged tortoise</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pelomedusidae</taxonRankValue>
+                    <commonName>Serrated terrapin</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Trionychidae</taxonRankValue>
+                    <commonName>Large mud turtle</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Crocodylidae</taxonRankValue>
+                    <commonName>Crocodile</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hyperoliidae</taxonRankValue>
+                    <commonName>reed frogs</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ptychoderidae</taxonRankValue>
+                    <commonName>ridged frogs</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Tiwonge</givenName>
+                <surName>Gawa</surName>
+            </individualName>
+            <organizationName>Wildlife and Environmental Society of Malawi</organizationName>
+            <positionName>Wildlife Research Officer</positionName>
+            <address>
+                <deliveryPoint>Wildlife and Environmental Society of Malawi</deliveryPoint>
+                <city>Blantyre</city>
+                <administrativeArea>Malawi</administrativeArea>
+                <postalCode>1429</postalCode>
+                <country>MALAWI</country>
+            </address>
+            <electronicMailAddress>birdsmalawi@gmail.com</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Blessings</givenName>
+                <surName>Chingagwe</surName>
+            </individualName>
+            <organizationName>Wildlife and Environmental Society of Malawi</organizationName>
+            <positionName>Environmental Education Officer</positionName>
+            <address>
+                <deliveryPoint>Wildlife and Environmental Society of Malawi</deliveryPoint>
+                <city>Lilongwe</city>
+                <administrativeArea>Malawi</administrativeArea>
+                <postalCode>30293</postalCode>
+                <country>MALAWI</country>
+            </address>
+            <phone>+265994024124</phone>
+            <electronicMailAddress>blechingagwe@gmail.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>There was no systematic method employed or the recording of the resource</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Liwonde National Park is located in Machinga district along the Shire River north of Liwonde township. The park area is approximately 250 square miles. The park&apos;s western boundary incorporates 15 miles of the Shire River from the Likwenu River inlet and railway north to the base of Lake Malombe, then north east to the Mangochi Forest Reserve.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>There was no systematic method employed or the recording of the resource</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="African Biodiversity Challenge 2018">
+                <title>Enhancing accessibility of Biodiversity Data in Malawi</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Blessings</givenName>
+                    <surName>Chingagwe</surName>
+                    </individualName>
+                    <role>CURATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Tiwonge</givenName>
+                    <surName>Gawa</surName>
+                    </individualName>
+                    <role>REVIEWER</role>
+                </personnel>
+                <abstract>
+                    <para>Mobilizing and publishing biodiversity data through IPT for it to be readily available to the public.</para>
+                </abstract>
+                <funding>
+                    <para>JRS Foundation</para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:22Z</dateStamp>
+                <citation>Dudley C, Stead D, Chingagwe B (2018). reptiles-and-amphibians-of-liwonde-national-park-1972. Wildlife and Environmental Society of Malawi. Occurrence dataset https://doi.org/10.15468/zt6kri accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>http://41.77.13.208:8081/ipt/logo.do?r=reptiles-and-amphibians-of-liwonde-national-park-1972</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

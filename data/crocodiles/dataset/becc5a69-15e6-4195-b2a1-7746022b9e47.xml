@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="becc5a69-15e6-4195-b2a1-7746022b9e47"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/3fzhxq</alternateIdentifier>
+        <alternateIdentifier>https://ipt.kznm.saiab.ac.za/resource?r=kznm-herpetology-collection</alternateIdentifier>
+        <title>kznm-herpetology-collection</title>
+        <creator>
+            <individualName>
+                <givenName>Siyabonga</givenName>
+                <surName>Zamisa</surName>
+            </individualName>
+            <organizationName>KwaZulu-Natal Museum</organizationName>
+            <positionName>Data Technician</positionName>
+            <address>
+                <deliveryPoint>237 Jabu Ndlovu Street</deliveryPoint>
+                <city>Pietermaritzburg</city>
+                <administrativeArea>KwaZulu-Natal</administrativeArea>
+                <postalCode>3201</postalCode>
+                <country>SOUTH_AFRICA</country>
+            </address>
+            <phone>+27333410524</phone>
+            <electronicMailAddress>szamisa@nmsa.org.za</electronicMailAddress>
+            <onlineUrl>http://www.nmsa.org.za</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Siyabonga</givenName>
+                <surName>Zamisa</surName>
+            </individualName>
+            <organizationName>KwaZulu-Natal Museum</organizationName>
+            <positionName>Data Technician</positionName>
+            <address>
+                <deliveryPoint>237 Jabu Ndlovu Street</deliveryPoint>
+                <city>Pietermaritzburg</city>
+                <administrativeArea>KwaZulu-Natal</administrativeArea>
+                <postalCode>3201</postalCode>
+                <country>SOUTH_AFRICA</country>
+            </address>
+            <phone>+27333410524</phone>
+            <electronicMailAddress>szamisa@nmsa.org.za</electronicMailAddress>
+            <onlineUrl>http://www.nmsa.org.za</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>John</givenName>
+                <surName>Midgley</surName>
+            </individualName>
+            <organizationName>KwaZulu-Natal Museum</organizationName>
+            <positionName>Assistant Director</positionName>
+            <address>
+                <deliveryPoint>237 Jabu Ndlovu Street</deliveryPoint>
+                <city>Pietermaritzburg</city>
+                <administrativeArea>KwaZulu-Natal</administrativeArea>
+                <postalCode>3201</postalCode>
+                <country>SOUTH_AFRICA</country>
+            </address>
+            <phone>+27333410559</phone>
+            <electronicMailAddress>jmidgley@nmsa.org.za</electronicMailAddress>
+            <onlineUrl>http://www.nmsa.org.za</onlineUrl>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <pubDate>
+                2022-01-07
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>The Herpetology collection is one of many collections found from the Department of Natural Science at the KwaZulu-Natal Museum. The collection is a minor but important collection within the museum, housing an important set of locally and international specimens. The collection is primarily used by external researchers, as our researchers have traditionally focussed on other groups.</para>
+<para>The collection notably contains the acquisition of JC Poynton&amp;#39;s frog collection from the University of KwaZulu-Natal. It also house material of lizards, snakes and frogs which were donated by Ezemvelo KwaZulu-Natal Wildlife research staff. The collection date back 1907 and it has recently been look at by herpetologist Adriaan Jordaan and Christiaan Steenkamp from the Natural Science Collections Facility.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Herpetology</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>KwaZulu-Natal Museum</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.kznm.saiab.ac.za/archive.do?r=kznm-herpetology-collection</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The Herpetology collection is found all over Africa in 19 countries.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-26.719</westBoundingCoordinate>
+                    <eastBoundingCoordinate>57.656</eastBoundingCoordinate>
+                    <northBoundingCoordinate>36.598</northBoundingCoordinate>
+                    <southBoundingCoordinate>-43.069</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1907
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2020
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>The collection covers 33 families.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Agamidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Amphisbaenidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Arthroleptidae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>This dataset shows the collection the KwaZulu-Natal Museum is holding. And make it accessible to everyone that may need it.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Siyabonga</givenName>
+                <surName>Zamisa</surName>
+            </individualName>
+            <organizationName>KwaZulu-Natal Museum</organizationName>
+            <positionName>Data Technician</positionName>
+            <address>
+                <deliveryPoint>237 Jabu Ndlovu Street</deliveryPoint>
+                <city>Pietermaritzburg</city>
+                <administrativeArea>KwaZulu-Natal</administrativeArea>
+                <postalCode>3201</postalCode>
+                <country>SOUTH_AFRICA</country>
+            </address>
+            <phone>+27 33 341 0524</phone>
+            <electronicMailAddress>szamisa@nmsa.org.za</electronicMailAddress>
+            <onlineUrl>http://www.nmsa.org.za</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Data verification and cleaning conducted by herpetologist Adriaan Jordaan and Christiaan Steenkamp.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Dataset comprises historical records from circa 1907 to 2020, focussing on frogs, lizards and snakes.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Historically collected records using different trapping methods.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Historical specimens have been re-identified where possible.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="KwaZulu-Natal Museum">
+                <title>Herpetology Collection</title>
+                <personnel>
+                    <individualName>
+                    <givenName>John</givenName>
+                    <surName>Midgley</surName>
+                    </individualName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Important set of specimens, as well as a small number of types.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:48Z</dateStamp>
+                <citation identifier="nmsa.org.za/herpetology-collection.html">Zamisa S (2022). kznm-herpetology-collection. KwaZulu-Natal Museum. Occurrence dataset https://doi.org/10.15468/3fzhxq accessed via GBIF.org on 2025-10-11.</citation>
+                <collection>
+                    
+                    <collectionIdentifier>nmsa.org.za/herpetology-collection.html</collectionIdentifier>
+                    <collectionName>Herpetology Collection</collectionName>
+                </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

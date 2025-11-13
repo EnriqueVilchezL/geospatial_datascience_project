@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="1f2cfb6f-c91b-498e-80f3-8eeeec688292"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/thhw9c</alternateIdentifier>
+        <alternateIdentifier>https://ipt.tacc.utexas.edu/resource?r=npl</alternateIdentifier>
+        <alternateIdentifier>http://ipt.tacc.utexas.edu/resource?r=npl</alternateIdentifier>
+        <alternateIdentifier>1f2cfb6f-c91b-498e-80f3-8eeeec688292</alternateIdentifier>
+        <title>Non-vertebrate Paleontology, Jackson School Museum of Earth History, University of Texas at Austin</title>
+        <creator>
+            <individualName>
+                <givenName>Lisa</givenName>
+                <surName>Boucher</surName>
+            </individualName>
+            <organizationName>The Non-vertebrate Paleontology Laboratory</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>10100 Burnet Rd, Bldg 122, Code R8500</deliveryPoint>
+                <city>Austin</city>
+                <administrativeArea>Texas</administrativeArea>
+                <postalCode>78758</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>512-232-6169</phone>
+            <electronicMailAddress>lisadboucher@austin.utexas.edu</electronicMailAddress>
+            <onlineUrl>http://www.jsg.utexas.edu/npl/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Liath</givenName>
+                <surName>Appleton</surName>
+            </individualName>
+            <organizationName>The Non-vertebrate Paleontology Collections</organizationName>
+            <positionName>Collections Manager</positionName>
+            <address>
+                <deliveryPoint>10100 Burnet Rd, Bldg 122, Code R8500</deliveryPoint>
+                <city>Austin</city>
+                <administrativeArea>Texas</administrativeArea>
+                <postalCode>78758</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>512-471-9698</phone>
+            <electronicMailAddress>liathappleton@austin.utexas.edu</electronicMailAddress>
+            <onlineUrl>http://www.jsg.utexas.edu/npl/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Tomislav</givenName>
+                <surName>Urban</surName>
+            </individualName>
+            <organizationName>TACC</organizationName>
+            <positionName>Senior Software Developer</positionName>
+            <address>
+                <deliveryPoint>10100 Burnet Rd.</deliveryPoint>
+                <city>Austin</city>
+                <administrativeArea>TX</administrativeArea>
+                <postalCode>78758</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>turban@tacc.utexas.edu</electronicMailAddress>
+            <onlineUrl>http://tacc.utexas.edu</onlineUrl>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <pubDate>
+                2025-10-06
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Records of specimens ranging in age from the Precambrian to the recent (Holocene) with strong Paleozoic, Cretaceous and Paleogene/Neogene components. Taxonomic emphasis includes, echinoderms, brachiopods, molluscs, corals and sponges. Geographic spread is global with about 60% of the collection deriving from Texas. Substantial holdings come from Mexico, Europe and Australia.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>paleontology</keyword>
+            <keyword>historic collections</keyword>
+            <keyword>fossil terrestrial invertebrates</keyword>
+            <keyword>type specimens</keyword>
+            <keyword>invertebrate</keyword>
+            <keyword>fossil marine invertebrates</keyword>
+            <keyword>paleobotanical</keyword>
+            <keyword>rocks and minerals</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>While every effort is made to provide accurate information, use of these databases is entirely at your own risk. The Non-vertebrate Paleontology Laboratory makes no warranty, either express or implied, regarding the completeness, accuracy or currency of the information in the databases or its suitability for any particular purpose. Where the use of this data is critical to scientific investigation, scholarly publication, or policy decisions, the user is responsible for verifying identities and provenance against specimens and other primary data sources.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://www.jsg.utexas.edu/npl/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.tacc.utexas.edu/archive.do?r=npl</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>United States, Texas, Mexico, Central America, South America, Europe, Australia.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>weekly</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Liath</givenName>
+                <surName>Appleton</surName>
+            </individualName>
+            <organizationName>The Non-vertebrate Paleontology Collections</organizationName>
+            <positionName>Collections Manager</positionName>
+            <address>
+                <deliveryPoint>10100 Burnet Rd, Bldg 122, Code R8500</deliveryPoint>
+                <city>Austin</city>
+                <administrativeArea>Texas</administrativeArea>
+                <postalCode>78758</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>512-471-9698</phone>
+            <electronicMailAddress>liathappleton@austin.utexas.edu</electronicMailAddress>
+            <onlineUrl>http://www.jsg.utexas.edu/npl/</onlineUrl>
+        </contact>
+
+            <project >
+                <title>NSF BRC 1057396 Open Access: Conservation, Digitization and interoperability of the Historic Non-vertebrate Collections of the Texas Natural Science Center</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Ann</givenName>
+                    <surName>Molineux</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <designDescription>
+                    <description>
+                        <para>Contuation and expansion of the work accomplished in 2010, under the grant # NSF BRC 0646468, Conservation, Digitization, and Georeferencing of the Non-Vertebrate Paleontology Type and Figured Collection of the Texas Natural Science Center at the University of Texas.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:27Z</dateStamp>
+                <citation>Boucher L, Appleton L (2025). Non-vertebrate Paleontology, Jackson School Museum of Earth History, University of Texas at Austin. Version 1.163. The Non-vertebrate Paleontology Laboratory, Jackson School Museum of Earth History, University of Texas at Austin. Occurrence dataset https://doi.org/10.15468/thhw9c accessed via GBIF.org on 2025-10-11.</citation>
+                <livingTimePeriod>All Time</livingTimePeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

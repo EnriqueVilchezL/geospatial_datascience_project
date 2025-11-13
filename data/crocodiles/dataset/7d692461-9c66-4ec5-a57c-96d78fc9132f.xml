@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="7d692461-9c66-4ec5-a57c-96d78fc9132f"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/nr4cgq</alternateIdentifier>
+        <alternateIdentifier>7d692461-9c66-4ec5-a57c-96d78fc9132f</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=gasoductopaiva_biodiversidad_promigas</alternateIdentifier>
+        <title>Biodiversidad asociada al gasoducto Loop Mamonal-Paiva</title>
+        <creator>
+            <individualName>
+                <givenName>Mario</givenName>
+                <surName>Bermudez Diaz</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional gestión ambiental-forestal</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Mario.Bermudez@promigas.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Tatiana</givenName>
+                <surName>Veloza</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Bióloga</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Corinne.Veloza@promigas.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Silvestre</givenName>
+                <surName>Campo Carey</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional Gerencia Sostenibilidad y Medio Ambiente</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Silvestre.Campo@promigas.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Amarfi</givenName>
+                <surName>Fajardo Gómez</surName>
+            </individualName>
+            <organizationName>INGEFORA E.U.</organizationName>
+            <positionName>Gerente de Proyectos</positionName>
+            <address>
+                <deliveryPoint>Calle 20C No. 93 - 25 IN2 -501</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>8024393-3135650227</phone>
+            <electronicMailAddress>amarfi.fajardo@ingefora.com.co</electronicMailAddress>
+            <onlineUrl>http://www.ingefora.com.co</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Lenel Zaleth</givenName>
+                <surName>Cordero Parada</surName>
+            </individualName>
+            <organizationName>INGEFORA E.U.</organizationName>
+            <positionName>Profesional Epífitas</positionName>
+            <address>
+                <deliveryPoint>Carrera 18A # 43-26</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>zalethcordero@yahoo.com</electronicMailAddress>
+            <onlineUrl>http://www.ingefora.com.co</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Andrea del Pilar</givenName>
+                <surName>Cáceres Franco</surName>
+            </individualName>
+            <organizationName>INGEFORA E.U.</organizationName>
+            <positionName>Profesional Herpetofauna</positionName>
+            <address>
+                <deliveryPoint>Calle 12B No. 39-39</deliveryPoint>
+                <city>Cali</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>andrywam@gmail.com</electronicMailAddress>
+            <onlineUrl>http://www.ingefora.com.co</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Andrea</givenName>
+                <surName>Borrero Álvarez</surName>
+            </individualName>
+            <organizationName>INGEFORA E.U.</organizationName>
+            <positionName>Profesional Mastofauna</positionName>
+            <address>
+                <deliveryPoint>Calle 16 oeste Nº 3ª-60</deliveryPoint>
+                <city>Cali</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>alhadasmariposario@gmail.com</electronicMailAddress>
+            <onlineUrl>http://www.ingefora.com.co</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Alexander</givenName>
+                <surName>Cortes Diago</surName>
+            </individualName>
+            <organizationName>INGEFORA E.U.</organizationName>
+            <positionName>Profesional apoyo Mastofauna</positionName>
+            <address>
+                <deliveryPoint>Cra 85E No 46 – 88</deliveryPoint>
+                <city>Cali</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3162690874</phone>
+            <electronicMailAddress>alexcortes98@hotmail.com</electronicMailAddress>
+            <onlineUrl>http://www.ingefora.com.co</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Diana</givenName>
+                <surName>Montañez</surName>
+            </individualName>
+            <organizationName>Environmental Resources Management Colombia Ltda.</organizationName>
+            <positionName>Gerente del proyecto</positionName>
+            <address>
+                <deliveryPoint>Carrera 16 No. 93A - 36</deliveryPoint>
+                <city>Bogotá, D.C</city>
+                <administrativeArea>Bogotá, D.C</administrativeArea>
+                <postalCode>110311</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>7441222</phone>
+            <electronicMailAddress>diana.montanez@erm.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Sebastián</givenName>
+                <surName>Mejía</surName>
+            </individualName>
+            <organizationName>Environmental Resources Management Colombia Ltda.</organizationName>
+            <positionName>Biólogo consultor</positionName>
+            <address>
+                <deliveryPoint>Carrera 16 No. 93A - 36</deliveryPoint>
+                <city>Bogotá, D.C</city>
+                <administrativeArea>Bogotá, D.C</administrativeArea>
+                <postalCode>110311</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>7441222</phone>
+            <electronicMailAddress>sebastian.mejia@erm.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Luis</givenName>
+                <surName>Barboza Julio</surName>
+            </individualName>
+            <organizationName>K2 Ingeniería</organizationName>
+            <positionName>Biólogo de campo</positionName>
+            <address>
+                <deliveryPoint>Carrera 36 No. 36 - 26/28</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6076352870</phone>
+            <electronicMailAddress>contacto@k2ingenieria.com</electronicMailAddress>
+            <onlineUrl>https://www.k2ingenieria.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>David Fernando</givenName>
+                <surName>Valbuena</surName>
+            </individualName>
+            <organizationName>K2 Ingeniería</organizationName>
+            <positionName>Ingeniero Consultor</positionName>
+            <address>
+                <deliveryPoint>Carrera 36 No. 36 - 26/28</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6076352870</phone>
+            <electronicMailAddress>contacto@k2ingenieria.com</electronicMailAddress>
+            <onlineUrl>https://www.k2ingenieria.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Yessica</givenName>
+                <surName>Gutiérrez</surName>
+            </individualName>
+            <organizationName>K2 Ingeniería</organizationName>
+            <positionName>Coordinador Técnico</positionName>
+            <address>
+                <deliveryPoint>Carrera 36 No. 36 - 26/28</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6076352870</phone>
+            <electronicMailAddress>contacto@k2ingenieria.com</electronicMailAddress>
+            <onlineUrl>https://www.k2ingenieria.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Amarfi</givenName>
+                <surName>Fajardo Gómez</surName>
+            </individualName>
+            <organizationName>INGEFORA E.U.</organizationName>
+            <positionName>Gerente de Proyectos</positionName>
+            <address>
+                <deliveryPoint>Calle 20C No. 93 - 25 IN2 -501</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Cundinamarca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>8024393-3135650227</phone>
+            <electronicMailAddress>amarfi.fajardo@ingefora.com.co</electronicMailAddress>
+            <onlineUrl>http://www.ingefora.com.co</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Mario</givenName>
+                <surName>Bermudez Diaz</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional gestión ambiental-forestal</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Mario.Bermudez@promigas.com</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>INGEFORA E.U.</surName>
+            </individualName>
+            <organizationName>INGEFORA E.U.</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 20C No. 93 – 25 Of 2-501</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(313) 5650227</phone>
+            <electronicMailAddress>amarfi.fajardo@ingefora.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ingefora.com.co/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Environmental Resources Management Colombia Ltda.</surName>
+            </individualName>
+            <organizationName>Environmental Resources Management Colombia Ltda.</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 16, No. 93A-36, Piso 6, Barrio Chico</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 1 744 1222</phone>
+            <onlineUrl>https://www.erm.com/locations/colombia/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>K2 Ingeniería</surName>
+            </individualName>
+            <organizationName>K2 Ingeniería</organizationName>
+            <positionName>Servicios de Consultoría y Asesoría Ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 36 No. 36 - 26/28</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6076352870</phone>
+            <electronicMailAddress>contacto@k2ingenieria.com</electronicMailAddress>
+            <onlineUrl>https://www.k2ingenieria.com/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2022-08-11
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>En el marco de la construcción del gasoducto Loop Mamonal-Paiva, por parte de la empresa Promigas S.A. E.S.P, que tiene una longitud de 26,07 kilometros, un área de 5.181,77 hectáreas y pasa por cuatro municipios del departamento de Bolívar: Santa Rosa, Turbaco, Turbaná y Cartagena de Indias.
+Se han realizadó diferentes estudios de biodiversidad, incluyendo un Estudio de Impacto Ambiental que evaluó fauna, flora y comunidades hidrobiológicas, un inventario forestal del área de influencia directa junto a las especies de plantas epífitas asociadas.
+Estos se realizaron a finales del año 2015 y comienzos del 2016 por diferentes empresas consultoras. La información contenida en este recurso es un compilado de todos estos estudios relacionados al gasoducto.</para>
+<para>Este recurso comprende un total de 17.629 registros de biológicos, con 498 nombres científicos únicos. De estos registros 12.149 corresponden al estudio de impacto ambiental realizado para la construcción del gasoducto, 5.199 al monitoreo de fuana realizado como seguimiento al proyecto y 281 a un monitoreo de registros hidrobiológicos.
+Estan divididos en 665 registros de fauna terrestre, 10.302 registros de plantas vasculares terrestres, 6.381 registros de epífitas y 281 registros hidrobiológicos.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Vasculares</keyword>
+            <keyword>VES</keyword>
+            <keyword>Pitfall</keyword>
+            <keyword>No vasculares</keyword>
+            <keyword>Espécimen</keyword>
+            <keyword>Sherman</keyword>
+            <keyword>No voladores</keyword>
+            <keyword>Voladores</keyword>
+            <keyword>Redes</keyword>
+            <keywordThesaurus>na</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keyword>GBIF CESP</keyword>
+            <keyword>OpenPSD</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Este conjunto de datos fue publicado con el apoyo del proyecto CESP “OpenPSD – Engage and promote the private sector in open biodiversity data publication (ID CESP2019-004)”, y la alianza con la Asociación Nacional de Empresarios de Colombia (ANDI) a través de su iniciativa “Biodiversidad y Desarrollo” (Datos abiertos sobre biodiversidad desde el sector empresarial). Agradecemos la colaboración y el incentivo para compartir datos desde el sector empresarial. 
+This dataset was published with support of the CESP project “OpenPSD – Engage and promote the private sector in open biodiversity data publication (ID CESP2019-004)”, and the alliance with the National Business Association of Colombia (ANDI) through its initiative &quot;Biodiversity and Development&quot; (Biodiversity open data from the private sector). We are grateful with the colaboration and incentive to share data from the private sector.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=gasoductopaiva_biodiversidad_promigas</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los datos pertenecen a los municipios de Santa Rosa, Turbaco, Turbaná y Cartagena de Indias en el Departamento de Bolivar, sobre las coberturas vegetales de bosque denso, bosque de galería, vegetación secundaria, arbustales, pastos arbolados, pastos enmalezados, pastos límpios y humedales.
+El área sobre la cual se realizó el estudio comprende un total de 5.181,77 hectáreas, a lo largo de los 26,07 km que abarca el Gasoducto.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-75.495</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-75.374</eastBoundingCoordinate>
+                    <northBoundingCoordinate>10.485</northBoundingCoordinate>
+                    <southBoundingCoordinate>10.297</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2015-11-28
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2016-01-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2022-01-03
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-01-05
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este recurso contiene un total de 17.629 registros biológicos, pertenecientes a 6 reinos, con un 86% clasificado hasta nivel de especie y 14% hasta género.
+Contiene 10.343 registros de plantas, comprendiendo plantas terrestres y epífifitas. Agrupadas en 9 clases diferentes, 37 ordenes, 62 familias y 135 géneros. Un 92% esta clasificado hasta nivel de especie y el 8% restante a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Ulvophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Chlorophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Trebouxiophyceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Fungi contiene 6.381 registros, pertenecientes a 6 clases, 7 ordenes, 12 familias, 18 géneros y 18 especies. Con un 76% clasificado a nivel de especies y 24% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Ascomycota</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Dothideomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Chaetothyriomycetidae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Animalia contiene 724 registros, pertenecientes a 18 clases, 42 ordenes, 107 familias, 232 géneros y 251 especies. Con un 99% clasificado a nivel de especies y 1% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bivalvia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Branchiopoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotatoria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Gastropoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Hexanauplia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Maxillopoda</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Chromista contiene 113 registros, pertenecientes a 1 clase, 9 ordenes, 13 familias y 16 géneros. Con un 100% clasificado a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bacillariophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Chromista</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Protozoa contiene 51 registros, pertenecientes a 3 clases, 3 ordenes, 6 familias y 8 géneros. Con un 100% clasificado a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Protozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Euglenoidea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Filosia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lobosa</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Bacteria contiene 17 registros, pertenecientes a 1 orden, 6 familias y 6 géneros. Con un 100% clasificado a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Bacteria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Cyanobacteriia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Mario</givenName>
+                <surName>Bermudez Diaz</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional gestión ambiental-forestal</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Mario.Bermudez@promigas.com</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Amarfi</givenName>
+                <surName>Fajardo Gómez</surName>
+            </individualName>
+            <organizationName>INGEFORA E.U.</organizationName>
+            <positionName>Gerente de Proyectos</positionName>
+            <address>
+                <deliveryPoint>Calle 20C No. 93 - 25 IN2 -501</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>8024393-3135650227</phone>
+            <electronicMailAddress>amarfi.fajardo@ingefora.com.co</electronicMailAddress>
+            <onlineUrl>http://www.ingefora.com.co</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>MAMÍFEROS: 
+
+Captura de mamíferos voladores con redes de niebla: Se usaron 10 redes de niebla de 12m x 2m, x 30mm de ojo de malla; las redes se distribuyeron con los siguientes criterios: (1) la presencia de zonas de transición (ecotonos y bordes de bosque); (2) presencia de plantas en periodo de fructificación y floración y; (3) presencia de refugios potenciales.  Se muestreó tres (3) días por cobertura con estrato boscoso en tres (3) estaciones (Vegetación secundaria sector Santa Elena, Bosque denso y bosque de galería en el sector del Jardín Botánico). Las redes permanecieron abiertas en las horas de la noche, desde las 18:00 a las 24:00 horas.  Las murciélagos capturados fueron identificados hasta especie; se tomaron algunas medidas morfológicas (Longitud Total (LT), longitud de cola (LC), longitud de tibia (LTi), longitud de oreja (LO), Trago (Tr), Antebrazo (AB), Hoja nasal (HN), Envergadura (Env), Calcar (Cal), Longitud media del cráneo (LMC) y peso (P); se determinó el sexo y posteriormente se fotografiaron y liberaron. Algunos individuos que no se pudieron identificar en campo se sacrificaron para ser identificados en el laboratorio.
+
+Captura de mamíferos pequeños y medianos en trampas: Se usaron 50 trampas Sherman, las cuales se dispusieron en 10 estaciones de muestreo por cobertura muestreada (3 coberturas) , con 5 trampas por estación ubicadas a una distancia variable, de acuerdo a las características propias de la zona. Adicionalmente se instalaron 10 trampas Tomahawk en cada cobertura muestreada.  La totalidad de las trampas se activaron y dejaron abiertas por tres días y tres noches en cada cobertura, revisándolas y recebándolas cada día en la tarde.  Los cebos que se utilizaron para atraer los pequeños mamíferos fueron: 1) Mezcla de Sardinas en aceite y manteca vegetal y 2) Mezcla de Vainilla, banano maduro y avena en hojuelas. A todos los animales capturados se les tomaron algunas medidas corporales para su identificación (longitud total (LT), longitud de cola (LC), longitud de pata trasera (LP), longitud de la oreja (LO) y peso); se observaron características físicas externas y se determinó el sexo. 
+
+Se colectaron 23 especímenes de mamíferos, los cuales fueron sacrificados empleando la técnica de ahogamiento propuesta por Martin et al., (2011) para pequeños mamíferos. Para su conservación y preservación se utilizó el método de conservación en líquido utilizando alcohol etílico al 96%.  En el laboratorio se procedió a realizar su montaje en seco y la separación de los cráneos. La preparación en laboratorio consistió en desprender la piel y el cráneo, con ayuda de cucarrones llamados Derméstidos, para limpiar los restos de tejidos que se descomponen.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>HERPETOS
+
+Técnica de Relevamiento por encuentros visuales: Para conocer las especies de anfibios y reptiles presentes en el área de estudio se efectuaron recorridos diurnos y nocturnos para observación y colección; dichos recorridos se hicieron en horas de máxima radiación solar y en las noches, sobre corredores preseleccionados.  Los recorridos se efectuaron bajo la técnica de Relevamiento por Encuentros Visuales (Visual Encounter Survey, VES) para anfibios (Crump y Scott, 1994) , que consiste en el conteo de individuos avistados o capturados durante los recorridos. Los horarios de muestreo se hicieron en dos jornadas con una intensidad horaria similar para abarcar la mayor cantidad de especies de anfibios y reptiles en actividad (muestreos diurnos entre las 08:00 horas y la 13:00 horas y 16:00 y 18:00 horas y nocturnos entre las 18:00 horas y las 22:00 horas) alcanzando un máximo de 8 horas por día. 
+
+Trampas de caída: Se instalaron grupos de 12 trampas pitfall por sitio de muestreo (3 sitios), durante tres (3) días consecutivos para ser revisadas todos los días.; esta técnica hace uso de barreras cortas (de 5 m de longitud y 0.8 m de altura) que interceptan los individuos y los conducen a una trampa de caída, usualmente recipientes profundos, enterrados a nivel del suelo, en donde los ejemplares caen y no pueden salir; se emplean como trampas de captura viva. Los arreglos de las barreras siguieron un diseño aleatorio dentro del área de interés, teniendo en cuenta la distancia a las fuentes de agua y la intersección de corredores de dispersión. Los recipientes utilizados fueron perforados en el fondo para evitar inundación por ocasionales lluvias y así evitar el deceso por ahogamiento de los individuos; se excavaron agujeros en el suelo muchos más hondos que la dimensión longitudinal del recipiente para permitir el desagüe de líquido acumulado. También se colocaron en el interior de los recipientes, espumas mojadas para evitar la mortalidad por deshidratación de los anfibios, hasta el momento de la revisión de la trampa y ofrecerle un refugio junto con la hojarasca que se colocó en el fondo (Angulo et al. 2006) .  
+
+Se tomaron datos morfométricos de cada individuo y posteriormente fueron liberados. También se registró el sitio específico de percha y la actividad de cada individuo encontrado. Para evitar la colecta injustificada, se tomaron fotografías de las partes anatómicas relevantes; solo se colectaron los especímenes que necesitaron confirmación posterior; en este caso, se colectaron cuatro (4) especímenes de anfibios.  Los especímenes se sacrificaron por medio de aplicación en el vientre de una solución de Lidocaína al 10% (Angulo et al., 2006). Se anudó sobre una de las extremidades posteriores la etiqueta de identificación de la referencia del colector. Se fijaron colocando al espécimen en la postura estandarizada para anfibios, sobre una toalla de papel de cocina impregnada en solución acuosa de Formol al 10%; los especímenes se mantuvieron por un periodo de 24 horas y luego se colocaron en recipiente hermético con alcohol etílico al 70%</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>EPÍFITAS 
+
+Para caracterizar las especies vegetales epífitas, se efectuaron muestreos procurando representar la heterogeneidad ecosistémica existente en la zona de estudio y la representatividad de cada cobertura en el área de influencia. Los muestreos fueron realizados sobre cuatro (4) tipos de coberturas vegetales con presencia potencial de epífitas dentro del Área de Influencia: Pastos arbolados, Bosque de galería, Vegetación secundaria y Arbustal. El esfuerzo de muestro se concentró teniendo presentes los hallazgos de Gradstein  quien encontró que la evaluación de ocho (8) árboles son suficientes para caracterizar una hectárea de bosque; y considerando también aquellas coberturas con mayor potencial de sostener flora epífita y que por tanto son más sensibles a la intervención realizada en la ejecución del proyecto; este es el caso particular del Bosque de galería, donde se concentró el mayor esfuerzo de muestreo. Se realizaron en total de 21 transectos para la caracterización de la flora epífita (11 en bosque de galería, 5 en vegetación secundaria, 3 en pastos arbolados y 2 en arbustal).  Se evaluó la presencia de epífitas vasculares y no vasculares implementando una modificación del protocolo para un Análisis Rápido y Representativo de la Diversidad de Epífitas (RRED-analysis) propuesto por Gradstein et al. , quienes a partir de la recopilación de información de diferentes estudios desarrollados en países tropicales concluyen que el muestreo de ocho (8) forófitos (árboles que hospedan epífitas) por hectárea es suficiente para caracterizar la flora epífita vascular. Para la caracterización de la comunidad de epífitas se realizaron transectos de 100 x 10m, seleccionando ocho (8) forófitos que se encontraran separados por una distancia de al menos 10 m, para aumentar la probabilidad de encontrar un mayor número de especies, ya que árboles cercanos tienden a tener una flora epífita similar. Se recopiló la información sobre especie y nombre común de cada forófito, realizando colecciones botánicas cuando fue pertinente.
+
+Vasculares: Para la evaluación de las epífitas vasculares se anotaron las especies presentes en el forófito, el número de individuos por especie y la zona del árbol donde se encontraban. Para la identificación y conteo de las epífitas localizadas en las zonas más altas del forófito, se implementó el uso de binoculares y de cámara fotográfica. Se realizó registro fotográfico de cada especie y se registró el número de forófito dentro de cada transecto, anotando la especie del mismo o colectando muestras botánicas cuando fue necesario. En los casos en los que las plantas no pudieron ser identificadas en campo, se colectó una muestra botánica con la ayuda de tijeras podadoras o de cortarramas en los casos en los que las plantas se encontraban en las zonas más altas de los árboles; se procuró incluir en las colectas flores y/o frutos, y se tomaron todos los datos que pudieran facilitar la determinación de las colecciones en herbario. Los ejemplares botánicos fueron procesados según la metodología propuesta la Universidad Distrital Francisco José de Caldas (2014). 
+
+No Vasculares: Para las epífitas no vasculares se evaluaron las zonas 1 y 2 de cada forófito ya que son en estas zonas donde se concentra la mayor diversidad de especies (Gradstein et al., 2003), además que el acceso a las otras zonas del árbol implica trabajo especializado en alturas. En cada una de las zonas se realizó el muestreo haciendo uso de una plantilla de acetato transparente de 400 cm² (20 x 20 cm) subdividida en cuadrantes de 1cm2, que permite evaluar la cobertura de las diferentes especies; esta evaluación se hizo de forma porcentual. Igualmente, se tomó registro fotográfico de cada espécimen y se registró el número del forófito dentro de cada parcela. Los ejemplares botánicos de epífitas no vasculares se extrajeron del forófito mediante el uso de una navaja incluyendo en la muestra una pequeña porción del sustrato (corteza). Seguidamente los ejemplares fueron depositados en bolsas de papel, procurando colocar la cantidad necesaria para su identificación y montaje posterior. Se escribió en el sobre el número de colección y el sustrato donde éste fue hallado, y datos específicos del microhábitat donde se encontró.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para el inventario forestal se realizó un censo completo al área de influencia directa, evaluando las plantas vasculares y las epífitas relacionadas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para el estudio de las comunidades hidrobiológicas se tomaron muestras en 12 puntos a lo largo del gasoducto, para estas se analizó el Fitoplancton, Macrófitas, Macroinvertebrados, Peces, Perifiton y Zooplancton.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área sobre la cual se realizó el estudio comprende un total de 5.181,77 hectareas, a lo largo de los 26,07 km que abarca el Gasoducto. En 4 municipios del departamento de Bolívar.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para el estudio de la biodiversidad en el área de influencia directa e indirecta del tramo del gasoducto Mamonal-Paiva, se han realizado tres estudios de biodiversidad.
+El primero por parte de la empresa Ingefora E.U., que consistió en un Estudio de Impacto ambiental, que evaluó Fauna (Mamíferos y Herpetos) y Flora (Epífitas vasculares y no vasculares)
+El segundo Estudio de Impacto Ambiental fue efectuado por la empresa Environmental Resources Management Colombia Ltda., en este se realizó un inventario forestal.
+El tercero por parte de la empresa K2 Ingeniería, realizó un estudio de las comunidades hidrobiológicas. A lo largo de estos estudios, se han recolectado y depositado un espécimenes en cuatro colecciones biológicas.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="CESP2019-004">
+                <title>Estudio de Impacto Ambiental (EIA) para la construcción y operación del gasoducto tramo Mamonal – Paiva</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Amarfi</givenName>
+                    <surName>Fajardo Gomez</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Proyecto de carácter privado, financiado por PROMIGAS.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El estudio se desarrolló en los municipios de Santa Rosa, Turbaco, Turbana y Cartagena de Indias en el
+Departamento de Bolívar, sobre cobertura vegetal de bosque denso, bosque de galería, vegetación secundaria, arbustales, pastos arbolados, pastos enmalezados, pastos límpios y humedales. El trabajo
+de campo se llevó a cabo entre el 28 de noviembre y el 9 de diciembre de 2015.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>El estudio de impacto ambiental se llevó a cabo sobre un área de 5181.77 Ha aproximadamente, que corresponde al área de influencia indirecta, en la cual la empresa Promigas quiere realizar la construcción de un gasoducto de 26,07 Km denominado tramo Mamonal - Paiva. La colecta de especímenes se hizo como parte de la caracterización de la fauna terrestre y las epifitas presentes en el área de intervención.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:25Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/nr4cgq">Bermudez Diaz M, Veloza T, Campo Carey S, Fajardo Gómez A, Cordero Parada L Z, Cáceres Franco A D P, Borrero Álvarez A, Cortes Diago A, Montañez D, Mejía S, Barboza Julio L, Valbuena D F, Gutiérrez Y (2022). Biodiversidad asociada al gasoducto Loop Mamonal-Paiva. Version 1.2. Promigas S.A E.S.P. Occurrence dataset https://doi.org/10.15472/nr4cgq accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>0962_mamonalpaiva_20160303</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://ipt.sibcolombia.net/cr-sib/resource.do?r=0962_mamonalpaiva_20160303</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>veda_promigas_26k</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=veda_promigas_26k</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>0052_eiagasoductomamonalpaiva_20181122</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=0052_eiagasoductomamonalpaiva_20181122</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-promigas.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>UV</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 9</collectionIdentifier>
+                    <collectionName>Vertebrados Mamíferos</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>JBGP</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 62</collectionIdentifier>
+                    <collectionName>Colección de Herbario María Jiménez de Piñeres, Jardín Botánico &quot;Guillermo Piñeres&quot;</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>IMCN</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 52</collectionIdentifier>
+                    <collectionName>Colecciones Zoológicas de Referencia Cientifíca</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>FAUC</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 28</collectionIdentifier>
+                    <collectionName>Herbario de la Universidad de Caldas</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>COL</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 6</collectionIdentifier>
+                    <collectionName>Herbario Nacional Colombiano</collectionName>
+                </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

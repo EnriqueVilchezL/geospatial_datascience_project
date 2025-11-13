@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="3df1e027-bae7-4ac8-9ce0-24aeb10036ad"  system="http://gbif.org" scope="system"
+xml:lang="fr">
+    <dataset>
+        <alternateIdentifier>10.15468/gtn9k8</alternateIdentifier>
+        <alternateIdentifier>3df1e027-bae7-4ac8-9ce0-24aeb10036ad</alternateIdentifier>
+        <alternateIdentifier>https://ipt-cotedivoire.gbif.fr/resource?r=an_cons</alternateIdentifier>
+        <title>Données d&apos;occurrence de quelques espèces animales de conservation de Côte d&apos;Ivoire</title>
+        <creator>
+            <individualName>
+                <givenName>Keagnon Serge Pacôme</givenName>
+                <surName>SOIRET</surName>
+            </individualName>
+            <organizationName>Centre National de Floristique</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>22 BP 582 Abidjan 22</deliveryPoint>
+                <city>Abidjan</city>
+                <administrativeArea>District Autonome des Lagunes</administrativeArea>
+                <country>CÔTE_DIVOIRE</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Blaise</givenName>
+                <surName>KADJO</surName>
+            </individualName>
+            <organizationName>Université Félix HOUPHOUËT-BOIGNY</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>22 BP 582 Abidjan 22</deliveryPoint>
+                <city>Abidjan</city>
+                <administrativeArea>District Autonome d&apos;Abidjan</administrativeArea>
+                <country>CÔTE_DIVOIRE</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Marie-Solange</givenName>
+                <surName>TIEBRE</surName>
+            </individualName>
+            <organizationName>Université Félix HOUPHOUËT-BOIGNY/Centre National de Floristique</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>22 BP 582 Abidjan 22</deliveryPoint>
+                <city>Abidjan</city>
+                <administrativeArea>District Autonome des lagunes</administrativeArea>
+                <country>CÔTE_DIVOIRE</country>
+            </address>
+            <phone>+225 0707578737</phone>
+            <electronicMailAddress>tiebrems@hotmail.com</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Koua Serge Béranger</givenName>
+                <surName>N&apos;GORAN</surName>
+            </individualName>
+            <organizationName>Centre National de Floristique</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>22 BP 582 Abidjan 22</deliveryPoint>
+                <city>Abidjan</city>
+                <administrativeArea>District Autonome des Lagunes</administrativeArea>
+                <country>CÔTE_DIVOIRE</country>
+            </address>
+            <phone>+225 0758415317</phone>
+            <electronicMailAddress>kouaberanger@yahoo.fr</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Béranger</givenName>
+                <surName>N&apos;Goran</surName>
+            </individualName>
+            <organizationName>Centre National de Floristique</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>22 BP 582 Abidjan 22</deliveryPoint>
+                <city>Abidjan</city>
+                <administrativeArea>District Autonome</administrativeArea>
+                <country>CÔTE_DIVOIRE</country>
+            </address>
+            <phone>+225 0758415317</phone>
+            <electronicMailAddress>kouaberanger@yahoo.fr</electronicMailAddress>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <pubDate>
+                2023-05-29
+        </pubDate>
+        <language>FRENCH</language>
+        <abstract>
+            Ces données concernent les espèces animales de conservation repertoriées par plusieurs chercheurs ivoiriens au cours de leurs travaux. La plupart de ces chercheurs relèvent du laboratoire des Milieux Naturels et conservation de la Biodiversité de l&amp;#39;UFR Biosciences de l&amp;#39;Université Félix HOUPHOUËT-BOIGNY en Côte d&amp;#39;Ivoire.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt-cotedivoire.gbif.fr/archive.do?r=an_cons</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Côte d&apos;Ivoire</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-8.701</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-2.461</eastBoundingCoordinate>
+                    <northBoundingCoordinate>11.092</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.39</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1977-02-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2018-06-01
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Familles de Accipitridae, Alcedinidae, Anatidae, Anhingidae, Anomaluridae, Ardeidae, Bovidae, Bucerotidae, Cercopithecidae, Chamaeleonidae, Charadriidae, Chiroptera, Columbidae, Coraciidae, Crocodylidae, Cuculidae, Elapidae, Elephantidae, Emydidae, Eublepharidae, Felidae, Galagidae, Galagonidae, Gavialidae, Gekkonidae, Gliridae, Herpestidae, Hippopotamidae, Hipposideridae, Hominidae, Hyracoidae, Hystricidae, Laridae, Lorisidae, Manidae, Meropidae, Molossidae, Muridae, Musophagidae, Mustelidae, Nandiniidae, Nesomyidae, Numididae, Nycteridae, Orycteropodidae, Pandionidae, Pelomedusidae,Phalacrocoracidae,Phasianidae,Ploceidae, Podicipedidae,Procaviidae, Psittacidae,Pteropodidae, Pycnonotidae, Pythonidae, Rhinolophidae, Rodentia, Sciuridae, Soricidae, Strigidae, Suidae, Testudinidae, Threskiomithidae, Thryonomyidae, Tragulidae, Trionychidae, Turdidae, Upupidae, Varanidae,Vespertilionidae, Viperidae, Viverridae</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Syncerus caffer</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Koua Serge Beranger</givenName>
+                <surName>N&apos;GORAN</surName>
+            </individualName>
+            <organizationName>Centre National de Floristique</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>22 BP 582 Abidjan 22</deliveryPoint>
+                <city>Abidjan</city>
+                <administrativeArea>District Autonome des Lagunes</administrativeArea>
+                <country>CÔTE_DIVOIRE</country>
+            </address>
+            <phone>+225 0758415317</phone>
+            <electronicMailAddress>kouaberanger@yahoo.fr</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Saisie des données, nettoyage, validation et publication</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Données collectées depuis les années 1977 à 2018.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Les données sont issues des travaux de recherches traitant des espèces animales de conservation  en Côte d&apos;Ivoire et valorisées sous forme d&apos;articles, de mémoires ou rapports.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Logiciels API GBIF, Openrefine</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="BID-AF2020-128-NAC">
+                <title>Mobilisation and strengthening of biodiversity data for conservation to support sustainable development in Côte d&apos;Ivoire</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Koua Serge Beranger</givenName>
+                    <surName>N&apos;GORAN</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Marie-Solange</givenName>
+                    <surName>TIEBRE</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Saraka Didier Martial</givenName>
+                    <surName>YAO</surName>
+                    </individualName>
+                    <role>USER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Yro Hyacinthe</givenName>
+                    <surName>TIE</surName>
+                    </individualName>
+                    <role>USER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Anne-Sophie</givenName>
+                    <surName>ARCHAMBEAU</surName>
+                    </individualName>
+                    <role>USER</role>
+                </personnel>
+                <abstract>
+                    <para>Le Centre National de Floristique (CNF) a pour objectif principal de réaliser l&apos;ensemble des études botaniques en Côte d&apos;Ivoire. Face aux nombreux défis de remobilisation des acteurs et des données, le CNF, en 2016, dans le cadre d&apos;un consortium, a bénéficié d&apos;un financement de la BID (BID-AF2015-0025-NAC) pour mobiliser, numériser et publier plusieurs jeux de données sur le portail GBIF (https://www.gbif.org/search?q=Côte d&apos;Ivoire). 
+Sur la base des résultats obtenus et des enquêtes menées lors du précédent projet, le CNF, à travers ce nouvel appel à projets, propose d&apos;augmenter les données de biodiversité disponibles pour la Côte d&apos;Ivoire. Ainsi, les universités et institutions ivoiriennes telles que l&apos;UFR des Sciences Biologiques des Universités Félix Houphouët-Boigny et Pelefero Gon Coulibaly, le Ministère de l&apos;Environnement à travers ses points focaux Biodiversité et IPBES contribueront aux données à mobiliser. En dehors des plantes, les données couvriront également d&apos;autres groupes d&apos;organismes très peu représentés sur le portail du GBIF Côte d&apos;Ivoire tels que les champignons, les bactéries et virus et la faune. 
+Ainsi, ce projet contribuera à la mobilisation nationale des données sur la biodiversité pour appuyer les décisions en faveur du développement durable en Côte d&apos;Ivoire. Plus précisément, il mobilisera d&apos;abord les données pertinentes sur la biodiversité pour la prise de décision en faveur du développement durable, puis utilisera et étendra les meilleures pratiques pour la mobilisation et la numérisation d&apos;autres données sur la biodiversité. La troisième étape consiste à appliquer les données sur la biodiversité pour soutenir la prise de décision et la recherche. Enfin, la quatrième étape consistera à développer des réseaux nationaux, régionaux ou thématiques durables pour soutenir le partage et la réutilisation des données.</para>
+                </abstract>
+                <funding>
+                    <para>Global Biodiversity Information Facility</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Côte d&apos;Ivoire</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>De nombreux organismes vivants n&apos;ont pas été pris en compte tels que la faune, les insectes, les champignons, les algues, les virus et les bactéries dans les projets précédents. Des données supplémentaires restent donc à mobiliser pour renforcer la base de données biologiques disponible pour la Côte d&apos;Ivoire. Le CNF propose donc de mobiliser les données sur la biodiversité nationale pour appuyer les décisions en faveur du développement durable en Côte d&apos;Ivoire.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:09Z</dateStamp>
+                <citation>SOIRET K S P, KADJO B, TIEBRE M, N&apos;GORAN K S B (2023). Données d&apos;occurrence de quelques espèces animales de conservation de Côte d&apos;Ivoire. Version 1.4. Centre National de Floristique. Occurrence dataset https://doi.org/10.15468/gtn9k8 accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Atta A.C.J., Kadjo B., Soulemane O., Kouadio Y.R., 2020. Abondance et distribution des buffles Syncerus caffer (Sparrman, 1779) dans le Parc National de la Comoé, Nord-Est de la Côte d’Ivoire. Journal of Animal &amp; Plant Sciences, 45 (3): 8024-8037.</citation>
+                <citation>Bitty E.A, Kadjo B., Gonedele Bi S., Okon O.M., Kouassi K.P., 2013. Inventaire de la faune mammalogique d’une forêt urbaine, le Parc National du Banco, Côte d’Ivoire. Int. J. Biol. Chem. Sci., 7(4): 1678-1687.</citation>
+                <citation>Bohoussou K.H., 2014. Action pour la sauvegarde de la biodiversité de la réserve naturelle intégrale du Mont Nimba, Côte d’Ivoire : Evaluation de la diversité faunistique et campagne de sensibilisation. Rapport final MAB 2013, 18 p.</citation>
+                <citation>Bohoussou KH, Akpatou KB, Kouassi YWR, Kpangui KB., 2018.  Diversité des Mammifères et valeur pour la conservation des reliques forestières au sein d’une concession agro-industrielle au sud-ouest de la Côte d’Ivoire. VertigO, 18 (1) : 1-23.</citation>
+                <citation>Bousquet B., 1978. Un parc de forêt dense en Afrique : Le parc National de Tai (Côte d’Ivoire). Bois et forêt des tropiques, 179 : 27-46.</citation>
+                <citation>Kadjo B., Dede A., Tsague L. &amp; Gomse A. 2014. Etat des lieux des populations d’hippopotames et autres grands mammifères du parc national de la Marahoué (Côte d’Ivoire). Agronomie Africaine 26 (2) : 89-101.</citation>
+                <citation>N’Goran N.S.P., Capelle N., Bitty E.A., Normand E., Kablan A.Y. 2017. Détermination par caméra piège des périodes d’activité de quelques mammifères terrestres au Parc National de Taï. Int. J. Biol. Chem. Sci. 14(5): 1673-1688.</citation>
+                <citation>Penner J. et Gonwouo N.L., 2015. Inventaire des communautés de reptiles et d’amphibiens dans la zone du projet aurifère de Yaouré-Côte d’Ivoire. Rapport Amec Foster Wheeler, Amara Mining Côte d’Ivoire SARL, 66 p.</citation>
+                <citation>Vergnes V. et N’Gbesso M.R., 2012. Etat des lieux de quatre parcs nationaux : Azagny, Marahoue, Mont Peko et Mont Sangbe. Rapport d’étude, 42 p</citation>
+                <citation>Wild Chimpanzee Foundation., 2010. Etat des ressources naturelles du parc national de la Comoé et de sa zone périphérique. Rapport de l’inventaire faunique par survol Aérien, 32 p.</citation>
+                </bibliography>
+                <collection>
+                    
+                    <collectionIdentifier>UCJ</collectionIdentifier>
+                    <collectionName>Centre National de Floristique</collectionName>
+                </collection>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

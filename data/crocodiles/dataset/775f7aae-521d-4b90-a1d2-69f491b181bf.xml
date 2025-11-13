@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="775f7aae-521d-4b90-a1d2-69f491b181bf"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/ljeoza</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=monitoreo_fauna_silvestre_vim8_2024</alternateIdentifier>
+        <title>Monitoreo de Fauna Silvestre Época Seca y de pasos de fauna del Área de Producción VIM8 (2024)</title>
+        <creator>
+            <individualName>
+                <surName>HOCOL S.A.</surName>
+            </individualName>
+            <organizationName>HOCOL S.A.</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Carrera 7 # 113-43 - Piso 17 - Torre Samsung</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6014884000</phone>
+            <electronicMailAddress>notificacionesjudiciales@hcl.com.co</electronicMailAddress>
+            <onlineUrl>http://www.hocol.com.co</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>EIATEC S.A.S</surName>
+            </individualName>
+            <organizationName>EIATEC S.A.S</organizationName>
+            <positionName>Empresa de consultoría</positionName>
+            <address>
+                <deliveryPoint>Calle 45 C # 24-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>601 7042362 - 601 2450961</phone>
+            <electronicMailAddress>cgalan@eiatec.com</electronicMailAddress>
+            <onlineUrl>https://www.eiatec.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>EIATEC S.A.S</surName>
+            </individualName>
+            <organizationName>EIATEC S.A.S</organizationName>
+            <positionName>Empresa de consultoría</positionName>
+            <address>
+                <deliveryPoint>Calle 45 C # 24-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>601 7042362 - 601 2450961</phone>
+            <electronicMailAddress>cgalan@eiatec.com</electronicMailAddress>
+            <onlineUrl>https://www.eiatec.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>HOCOL S.A.</surName>
+            </individualName>
+            <organizationName>HOCOL S.A.</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Carrera 7 # 113-43 - Piso 17 - Torre Samsung</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6014884000</phone>
+            <electronicMailAddress>notificacionesjudiciales@hcl.com.co</electronicMailAddress>
+            <onlineUrl>http://www.hocol.com.co</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <surName>EIATEC S.A.S</surName>
+            </individualName>
+            <organizationName>EIATEC S.A.S</organizationName>
+            <positionName>Empresa de consultoría</positionName>
+            <address>
+                <deliveryPoint>Calle 45 C # 24-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 601 7042362</phone>
+            <electronicMailAddress>cgalan@eiatec.com</electronicMailAddress>
+            <onlineUrl>http://www.eiatec.com</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>HOCOL S.A.</surName>
+            </individualName>
+            <organizationName>HOCOL S.A.</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Carrera 7 # 113-43 - Piso 17 - Torre Samsung</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6014884000</phone>
+            <electronicMailAddress>notificacionesjudiciales@hcl.com.co</electronicMailAddress>
+            <onlineUrl>http://www.hocol.com.co</onlineUrl>
+            <role>OWNER</role>
+        </associatedParty>
+        <pubDate>
+                2025-04-10
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Se registraron los principales aspectos ecológicos de las comunidades de fauna silvestre (aves, mamíferos, anfibios y reptiles), en el área de influencia del área de producción del proyecto VIM8, utilizando metodologías específicas para el registro de cada grupo, en el periodo climático temporal seco (atípico por el fenómeno de la niña), entre los días 26 de noviembre y 13 de diciembre de 2024, a fin de dar cumplimiento con lo establecido en la licencia ambiental del proyecto.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=monitoreo_fauna_silvestre_vim8_2024</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La cobertura geográfica del estudio se ubica en los municipios de Planeta Rica y Pueblo Nuevo, en el departamento de Córdoba al interior del área de influencia del Área de Producción VIM8.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2024-11-26
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-12-13
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Para los grupos monitoreados (anfibios, reptiles, aves y mamíferos) se registraron un total de 1097 registros, distribuidos en 4 clases, 27 órdenes y 76 familias.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Carolina</givenName>
+                <surName>Bonilla Vallejo</surName>
+            </individualName>
+            <organizationName>HOCOL S.A.</organizationName>
+            <positionName>Profesional de Aseguramiento de Documentos Ambientales</positionName>
+            <address>
+                <deliveryPoint>Carrera 7 # 113-43 - Piso 17 - Torre Samsung</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6014884000</phone>
+            <electronicMailAddress>carolina.bonilla@hocol.com.co</electronicMailAddress>
+            <onlineUrl>http://www.hocol.com.co</onlineUrl>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Marcela</givenName>
+                <surName>Cabrera Guarín</surName>
+            </individualName>
+            <organizationName>EIATEC S.A.S.</organizationName>
+            <positionName>Gerente Técnica</positionName>
+            <address>
+                <deliveryPoint>Calle 45 C # 24-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6014884000</phone>
+            <electronicMailAddress>gerenciatecnica@eiatec.com</electronicMailAddress>
+            <onlineUrl>http://www.eiatec.com</onlineUrl>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Jenny</givenName>
+                <surName>Trujillo Ortigoza</surName>
+            </individualName>
+            <organizationName>EIATEC S.A.S.</organizationName>
+            <positionName>Directora de proyectos</positionName>
+            <address>
+                <deliveryPoint>Calle 45 C # 24-54</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6014884000</phone>
+            <electronicMailAddress>gerenciatecnica@eiatec.com</electronicMailAddress>
+            <onlineUrl>http://www.eiatec.com</onlineUrl>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Sara Mayerly</givenName>
+                <surName>Amado Ariza</surName>
+            </individualName>
+            <organizationName>EIATEC S.A.S</organizationName>
+            <positionName>Directora de proyectos</positionName>
+            <address>
+                <deliveryPoint>Calle 45 C # 24-54</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6014884000</phone>
+            <electronicMailAddress>samado@eiatec.com</electronicMailAddress>
+            <onlineUrl>http://www.eiatec.com</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: Se emplea el método de transecto lineal, para la búsqueda y reporte de mastofauna. A lo largo del transecto se realizó muestreo at libitum, se enfatizó en la búsqueda de rastros indirectos (Heces, huellas), búsquedas de fuentes de agua, refugios como cuevas, comederos, madrigueras, árboles en fructificación. En horas de la mañana se buscaron rastros indirectos como huellas y heces y se identificaron siguiendo el Manual de huellas de algunos mamíferos terrestres de Colombia (Navarro &amp; Muñoz, 2000) y Manual para el rastreo de mamíferos silvestres en México (Aranda-Sánchez, 2012), esta metodología se enfocó en el monitoreo de mamíferos medianos a grandes.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El monitoreo de mamíferos medianos y grandes, incluyo la captura por medio de trampas Tomahawk, para estas se empleó diez trampas cebadas con banano fresco o sardinas. También se monitorearon mediante 15 cámaras trampa, con ayuda del equipo de profesionales en alturas se instalaron 7camaras en el dosel eligiendo arboles donde las ramas fueran pasos naturales de fauna o tuvieran fructificación en el momento, para aumentar los esfuerzos de registro para primates y mamíferos arborícolas en la zona de estudio, las 8 cámaras restantes fueron instaladas a unos 50 cm de suelo y cebas, las cámaras se direccionaron para el registro de senderos en los cuales podría transitar la fauna, comederos o cuerpos de agua que pudieran ser empleados por mamíferos terrestres medianos a grandes.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se utilizaron métodos directos de captura viva como redes de niebla, trampas Sherman, para el monitoreo de la comunidad de pequeños mamíferos y murciélagos. Se instalaron 20 trampas Sherman cebadas con mantequilla de maní y avena, las dimensiones de las trampas fueron 23 x 5 x 6.5 cm, estuvieron activas durante 10 noches, se cambió el cebo todas las mañanas y se revisó la presencia de animales, las trampas Sherman se ubicaron a cada lado del transecto de forma alternada y separadas entre sí por 2m.  Se emplearon 4 redes de niebla de 9 metros de largo, para el muestreo de murciélagos. Las redes fueron revisadas en intervalos de 15 minutos. Estuvieron abiertas desde las 6:00 pm hasta las 10:30 pm, se instalaron en dos puntos de monitoreo. Además, debido a la metodología de evaluación ecológica rápida, el monitoreo fue de una noche.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: Para la caracterización de la avifauna se tomó como base la metodología planteada por Villarreal et al. (2004) 1, combinando metodologías de registro basadas en censos visuales, identificación de vocalizaciones y captura de aves mediante trampas de interceptación al vuelo (redes de niebla), así como encuestas a los pobladores. Se realizaron 36 transectos que abarcaron distancias entre 513 m a 1400 m, debido a la dificultad de avance y complejidad estructural propias de cada cobertura ubicada en las zonas de influencia del proyecto.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para los puntos de observación se establecieron 38 puntos de observación sobre las coberturas objeto de estudio.  Para el cálculo del esfuerzo de muestreo se tiene como unidad muestral la hora hombre empleada para la detección visual y auditiva, estas detecciones se realizaron entre las 6:00 am y las 10: 00 am en la jornada mañana y entre las 3:00 pm a 6:00 pm concordando con los picos de máxima actividad de las aves. Se establecieron 4 redes de niebla de 12m de ancho por 2.5 metros de alto con ojo de malla de 36 mm por unidad de cobertura, estas estuvieron en funcionamiento entre las 6:00 am hasta las 10 am en la jornada mañana y de 3 pm a 6:00 pm en la jornada tarde, con intervalos de revisión de 20 minutos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Anfibios y reptiles: Para la caracterización de los grupos de anfibios y reptiles se implementó la metodología de registro por encuentro visual mediante búsqueda libre y captura sin restricciones (Visual Encounter Survey) (Heyer W. D., 1994).  Adicionalmente, para la caracterización de reptiles los recorridos de observación se realizaron teniendo presente los requerimientos ecológicos y comportamentales que exhibe el grupo; al igual que para los anfibios. Los recorridos fueron realizados durante el día en dos jornadas: 09:00 – 13:00 y 18:00-22:00 para el grupo de lagartos y serpientes diurnas y en las horas de la noche se buscó activamente la presencia de serpientes nocturnas.  Durante estos recorridos se realizó la remoción de hojarasca, material vegetal en descomposición como troncos, vegetación arbustiva, y otro tipo de elementos del ecosistema en búsqueda de individuos. Por otra parte, se utilizaron equipos como ganchos, pinzas herpetológicas y baldes de transporte con la finalidad de hacer manejo adecuado de reptiles peligrosos.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área de estudio corresponde al área de influencia del Área de Producción VIM 8, la cual se ubica en los municipios de Planeta Rica y Pueblo Nuevo, en el departamento de Córdoba.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la caracterización de los grupos de mamíferos, aves, anfibios y reptiles se emplearon métodos directos e indirectos, con el uso de redes de niebla, trampas Sherman, Trampas Tomahawk, cámaras trampa y encuestas.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Monitoreo de Fauna Silvestre Época Seca y de pasos de fauna del Área de Producción VIM8 (2024)</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Carolina</givenName>
+                    <surName>Bonilla Vallejo</surName>
+                    </individualName>
+                    <role>USER</role>
+                </personnel>
+                <abstract>
+                    <para>HOCOL S.A. es la compañía operadora del Área de Producción VIM 8, ubicada en los municipios de Planeta Rica y Pueblo Nuevo, en el departamento de Córdoba.</para>
+                </abstract>
+                <funding>
+                    <para>HOCOL S.A.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Área de influencia del Área de Producción VIM 8, ubicada en los municipios de Planeta Rica y Pueblo Nuevo, en el departamento de Córdoba.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>La metodología de levantamiento de información se efectuó a través de transectos de observación, instalación de trampas de captura (Tomahawk, Sherman, Cámaras trampa, Redes de niebla) e implementación de encuestas.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:23Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/ljeoza">HOCOL S.A., EIATEC S.A.S (2025). Monitoreo de Fauna Silvestre Época Seca y de pasos de fauna del Área de Producción VIM8 (2024). HOCOL S.A.. Occurrence dataset https://doi.org/10.15472/ljeoza accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Heyer, W. D. (1994). Measuring and monitoring biological diversity - standard methods for amphibians. Smithsonian institute press: Washington D.C 364 pp.</citation>
+                <citation>Navarro &amp; Muñoz, 2000, Manual de huellas de algunos mamíferos de Colombia, Edición de campo, Editorial Multimpresos, 136 pp.</citation>
+                <citation>Aranda-Sánchez, 2012, Manual para el rastreo de Mamíferos Silvestres en México, Comisión Nacional para el conocimiento y uso de la biodiversidad (Conabio), https://www.biodiversidad.gob.mx/publicaciones/versiones_digitales/ManualRastreoMamiferosMexico.pdf</citation>
+                <citation>Villareal et al, 2004, Manual de métodos para el desarrollo de inventarios de biodiversidad, Programa de inventarios de biodiversidad, Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt. Bogotá</citation>
+                </bibliography>
+                <resourceLogoUrl>https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-hocol.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

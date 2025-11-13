@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="93160e89-1501-481b-8d87-983fd8b1d5e5"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/vlwgdj</alternateIdentifier>
+        <alternateIdentifier>93160e89-1501-481b-8d87-983fd8b1d5e5</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=rrbb_tejidos_putumayo_gta_2020</alternateIdentifier>
+        <title>Tejidos de individuos colectados en el plan de monitoreo de biodiversidad en el bloque platanillo de la empresa Amerisur y en los bloques Rumiyaco, Venados y Burdyne de la empresa Gran Tierra, Putumayo</title>
+        <creator>
+            <individualName>
+                <givenName>Kevin G.</givenName>
+                <surName>Borja-Acosta</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Curador de datos colecciones Biológicas</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15-08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>kborja@humboldt.org.co</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>David</givenName>
+                <surName>Ocampo</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Curador de colección de Aves</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15-08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>docampo@humboldt.org.co</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Diego</givenName>
+                <surName>Cueva</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigador Colección de Aves</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15-08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dcueva@humboldt.org.co</electronicMailAddress>
+            <role>CURATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Brayan</givenName>
+                <surName>Coral Jaramillo</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Auxiliar de investigación</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15-08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>brayancj25@hotmail.com</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>David</givenName>
+                <surName>Ocampo</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Curador Colección de Aves</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15-08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>docampo@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Infraestructura Institucional de Datos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Andrés Rymel</givenName>
+                <surName>Acosta-Galvis</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15 -08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>aacosta@humboldt.org.co</electronicMailAddress>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Vladimir</givenName>
+                <surName>Bernal</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15 -08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>vbernal@humboldt.org.co</electronicMailAddress>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Alejandra María</givenName>
+                <surName>Salazar Guzmán</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15 -08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>almasagu89@gmail.com</electronicMailAddress>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2021-12-18
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            En el marco del contrato No. 18-110, suscrito entre el Instituto de Investigaciones Biológicas Alexander von Humboldt y las empresas Gran Tierra Energy y Amerisur, se realizó el muestreo de aves en ocho cuadrillas pertenecientes a cuatro zonas, Platanillo, Churuyaco, Venado y Simón Bolívar en los bosques húmedos tropicales localizados en los municipios de Orito y Puerto Asís, Putumayo. Se colectaron en total 240 muestras de tejidos pertenecientes a 51 especies de aves, 47 especies de anfibios y 24 especies de reptiles los cuales fueron depositados en la colección de tejidos del Instituto Humboldt.
+        </abstract>
+        <keywordSet>
+            <keyword>Putumayo GTAS</keyword>
+            <keyword>piedemonte</keyword>
+            <keyword>reptiles</keyword>
+            <keyword>Boyacá</keyword>
+            <keyword>bosque amazonico</keyword>
+            <keyword>anfibios</keyword>
+            <keyword>tejidos</keyword>
+            <keyword>potrero</keyword>
+            <keyword>aves</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://ipt.biodiversidad.co/iavh/resource?r=rrbb_tejidos_putumayo_gta_2020</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/iavh/archive.do?r=rrbb_tejidos_putumayo_gta_2020</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Las localidades muesteadas se ubican en el departamento de Putumayo, en los municiposo de Puerto Asís (vda, Peneya) y Orito (vda. Islas de Cartagena, vda. Nogales y vda. Simón Bolivar), en elevaciones entre los 225 y 975 m. Los hábitas estudiados fueron bosque amazonico secundario con árboles maderables extraidos; Potrero con pequeños humedales aledaños; Bosque amazonico de tierra firme, secundario con arboles maderables talados; Bosque secundario rodeado de cultivos de coca; Potrero rodeado de rastrojo alto y bosque secundario; Bosque de pie de monte.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-77.122</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-76.273</eastBoundingCoordinate>
+                    <northBoundingCoordinate>0.643</northBoundingCoordinate>
+                    <southBoundingCoordinate>0.425</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2019-07-11
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-10-07
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>e colectaron en total 240 muestras de tejidos pertenecientes a 51 especies de aves, 47 especies de anfibios y 24 especies de reptiles</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Diseñar e implementar un plan de monitoreo de biodiversidad en el área de influencia del bloque Platanillo, operado por AMERISUR y en los bloques Rumiyaco, Venado y Burdyne, operados por GRAN TIERRA.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Adriana</givenName>
+                <surName>Restrepo-Isaza</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <postalCode>1110231</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>arestrepo@humboldt.org.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>La identificación taxonómica del material colectado fue realizada  por el curador e investigadores del equipo de colecciones ornitológicas IAvH-A, con la ayuda de literatura especializada. Una vez realizado este proceso fue elaborado el conjunto de datos en el formato estándar Darwin Core. La lista de especies generada en el proceso de identificación fue comparada con lo reportado para Colombia y el departamento de Putumayo, y fue actualizada según la clasificación sugerida por Remsen et al. 2018, 
+Los ejemplares coleccionados fueron preparados como pieles de estudio usando los protocolos de ala extendida, se tomó muestra de tejido (músculo pectoral y corazón), posteriormente se depositaron en la colección de aves del Instituto Humboldt(IAvH-A) y la Colección de Tejidos del Instituto Alexander von Humboldt (IAvH-CT), respectivamente.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se realizó la búsqueda de anfibios y reptiles durante jornadas diurnas y nocturnas. Todos los registros obtenidos fueron georreferenciados con coordenadas y altitud. Adicionalmente se registraron apuntes de hábitat y comportamiento de los individuos en campo. Los individuos fueron transportados en bolsas de tela y bolsas plásticas hacia el campamento.		
+
+Se obtuvieron muestras de tejidos (preferiblemente hígado o músculo) para la mayoría de los ejemplares colectados. Las muestras de tejidos fueron preservadas en alcohol al 96%.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Bosques húmedos tropicales con diferentes estados sucesionales en cuatro bloques de explotación localizados en los municipios de Orito y Puerto Asís, Putumayo.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El muestreo de aves se realizó en ocho cuadrillas pertenecientes a cuatro zonas, Platanillo, Churuyaco, Venado y Simón Bolívar, que contaban con tres, dos, dos y una cuadrilla respectivamente. Cada cuadrilla de 3 x 3 km fue estudiada siguiendo métodos complementarios que permiten documentar ensamblajes representativos de las diferentes coberturas vegetales.
+
+Se desarrollaron dos sesiones de redes de niebla por cuadrilla. En total se usaron tres redes de 12 m, tres redes de 9 m, que fueron abiertas entre las 6:00 y 11:00 horas, para un total de 191.25 horas/red por sesión. Durante las sesiones se realizó un total de 74 colectas de especímenes, que están depositados en la colección de ornitología del Instituto Alexander von Humboldt, en Villa de Leyva, boyacá.
+
+Para la caracterización de los Reptiles presentes en el Bloque Platanillo, operado por AMERISUR y los bloques Rumiyaco, Venado y Burdyne, operados por GRAN TIERRA, llevamos a cabo muestreos diurnos y nocturnos implementando tres estrategias de colecta: 1) búsqueda libre por registro visual (Heyer et al., 1994), 2) registro acústico (Angulo et al., 2006) con obtención de voucher y 3) método de remoción de rocas y troncos. Para la obtención de los ejemplares se usaron equipos de mallas de mano para los estados larvales y ejemplares adultos de difícil consecución. Para los registros individuales se obtuvieron las coordenadas geográficas y sus elevaciones correspondientes usando un GPS Garmin GPSMAP 60CSx (datum WGS 84). También se registraron datos de historia natural (ej: hábitat, comportamientos) de los individuos colectados. Los individuos fueron sacrificados, fijados y preservados usando el protocolo de Simmons (2002).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Las muestras colectadas fueron taxidermizadas y depositadas en la colección de ornitología del Instituto Humboldt. Las muestras de tejidos fueron depositadas en el banco de tejidos del Instituto Humboldt.
+
+Ajuste de vocabularios controlados en:
+Elementos de registros: basisOfRecord, type y collectionID  de acuerdo a la naturaleza de los datos;
+Elementos geográficos: county;</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Plan de monitoreo de biodiversidad en el bloque platanillo de la empresa Amerisur y en los bloques Rumiyaco, Venados y Burdyne de la empresa Gran Tierra</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Adriana</givenName>
+                    <surName>Restrepo-Isaza</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Contrato No. 18-110, suscrito entre el Instituto de Investigaciones Biológicas Alexander von Humboldt y las empresas Gran Tierra Energy y Amerisur.</para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:21Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/vlwgdj">Borja-Acosta K G, Ocampo D (2021). Tejidos de individuos colectados en el plan de monitoreo de biodiversidad en el bloque platanillo de la empresa Amerisur y en los bloques Rumiyaco, Venados y Burdyne de la empresa Gran Tierra, Putumayo. Version 1.1. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/vlwgdj accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>Tejidos de individuos colectados en el plan de monitoreo de biodiversidad en el bloque platanillo de la empresa Amerisur y en los bloques Rumiyaco, Venados y Burdyne de la empresa Gran Tierra, Putumayo</objectName>
+                    <characterEncoding>utf-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>txt</formatName>
+                            <formatVersion>n/a</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_aves_putumayo_gta_2020</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/iavh.jpg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>IAvH</parentCollectionIdentifier>
+                    <collectionIdentifier>IAvH-CT</collectionIdentifier>
+                    <collectionName>Colección de Tejidos del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+                </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

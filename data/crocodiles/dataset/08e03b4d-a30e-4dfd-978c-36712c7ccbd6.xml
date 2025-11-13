@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="08e03b4d-a30e-4dfd-978c-36712c7ccbd6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/5duujp</alternateIdentifier>
+        <alternateIdentifier>https://bison.usgs.gov/ipt/resource?r=usgs_sesc_biscayne_herpetofauna_2002_2003</alternateIdentifier>
+        <alternateIdentifier>08e03b4d-a30e-4dfd-978c-36712c7ccbd6</alternateIdentifier>
+        <alternateIdentifier>http://bison.ornl.gov/ipt/resource.do?r=usgs_sesc_biscayne_herpetofauna_2002_2003</alternateIdentifier>
+        <title>USGS SESC - Biscayne - Herpetofauna - 2002-2003</title>
+        <creator>
+            <individualName>
+                <givenName>Kenneth</givenName>
+                <surName>Rice</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>SESC Center Director</positionName>
+            <address>
+                <deliveryPoint>7920 NW 71 ST</deliveryPoint>
+                <city>Gainesville</city>
+                <administrativeArea>FL</administrativeArea>
+                <postalCode>32653</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>3522643544</phone>
+            <electronicMailAddress>krice@usgs.gov</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Matt</givenName>
+                <surName>Cannister</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>Biologist</positionName>
+            <address>
+                <deliveryPoint>7920 NW 71 ST</deliveryPoint>
+                <city>Gainesville</city>
+                <administrativeArea>FL</administrativeArea>
+                <postalCode>32653</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>3522643572</phone>
+            <electronicMailAddress>mcannister@usgs.gov</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2016-10-06
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The Comprehensive Everglades Restoration Plan (CERP) requires the use of ecological indicators to measure the success of restoration efforts.  The Everglades amphibian community is ideal because amphibians are present in all habitats and under all hydrologic regimes.  During Everglades restoration, hydrologic patterns will change and the response of ecological indicators will determine success. Fourteen amphibian species were detected through VES, vocalization surveys and trapping methods throughout the study and the occurrence information collected in this project database. USGS Southeast Ecological Science Center (SESC).
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>amphibians
+restoration
+ecological indicators
+reptiles
+ARMI</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>The original dataset contains many fields with information such as environmental variables, observers/collectors, and field notes associated with each record. Use the &apos;Point of Contact&apos; in this document for a complete list of, and to gain access to, fields associated with this subset of the original dataset.  More complete metadata document available at https://www.sciencebase.gov/catalog/item/53bc1211e4b084059e8bff8a</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.us/archive.do?r=usgs_sesc_biscayne_herpetofauna_2002_2003</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Biscayne Bay National Park, Florida, USA</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-80.347</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-80.174</eastBoundingCoordinate>
+                    <northBoundingCoordinate>25.542</northBoundingCoordinate>
+                    <southBoundingCoordinate>25.385</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2002-03-28
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2003-09-24
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Lithobates sphenocephalus sphenocephalus</taxonRankValue>
+                    <commonName>Florida Leopard Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lithobates grylio</taxonRankValue>
+                    <commonName>Pig Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Gastrophryne carolinensis</taxonRankValue>
+                    <commonName>Eastern Narrow-mouthed Toad</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anaxyrus terrestris</taxonRankValue>
+                    <commonName>Southern Toad</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhinella marina</taxonRankValue>
+                    <commonName>Cane Toad</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hyla squirella</taxonRankValue>
+                    <commonName>Squirrel Treefrog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hyla cinerea</taxonRankValue>
+                    <commonName>Green Tree Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Acris gryllus</taxonRankValue>
+                    <commonName>Southern Cricket Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Osteopilus septentrionalis</taxonRankValue>
+                    <commonName>Cuban Treefrog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eleutherodactylus planirostris</taxonRankValue>
+                    <commonName>Greenhouse Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ramphotyphlops braminus</taxonRankValue>
+                    <commonName>Brahminy Blind Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Elaphe guttata guttata</taxonRankValue>
+                    <commonName>Corn Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Elaphe alleghaniensis</taxonRankValue>
+                    <commonName>Eastern Ratsnake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Nerodia fasciata pictiventris</taxonRankValue>
+                    <commonName>Florida Water Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Nerodia clarkii compressicauda</taxonRankValue>
+                    <commonName>Mangrove Salt Marsh Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Diadophis punctatus punctatus</taxonRankValue>
+                    <commonName>Southern Ringneck Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Sphaerodactylus notatus notatus</taxonRankValue>
+                    <commonName>Florida Reef Gecko</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hemidactylus garnotii</taxonRankValue>
+                    <commonName>Fox Gecko</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hemidactylus mabouia</taxonRankValue>
+                    <commonName>Cosmopolitan House Gecko</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis carolinensis</taxonRankValue>
+                    <commonName>Green Anole</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Norops sagrei</taxonRankValue>
+                    <commonName>Brown Anole</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eumeces inexpectatus</taxonRankValue>
+                    <commonName>Southeastern Five-lined Skink</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Alligator mississippiensis</taxonRankValue>
+                    <commonName>American Alligator</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Collect baseline data on the status of amphibian populations in Biscayne National Park to be compiled into the Open-File Report OFR_2007-1057, titled "Herpetofaunal Inventories of the National Parks of South Florida and the Caribbean: Volume IV. Biscayne National Park"</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Kenneth</givenName>
+                <surName>Rice</surName>
+            </individualName>
+            <organizationName>U.S. Geological Survey</organizationName>
+            <positionName>SESC Center Director</positionName>
+            <address>
+                <deliveryPoint>7920 NW 71 ST</deliveryPoint>
+                <city>Gainesville</city>
+                <administrativeArea>FL</administrativeArea>
+                <postalCode>32653</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>3522643544</phone>
+            <electronicMailAddress>krice@usgs.gov</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:04Z</dateStamp>
+                <citation>Rice K, Cannister M (2016). USGS SESC - Biscayne - Herpetofauna - 2002-2003. Version 8.1. United States Geological Survey. Occurrence dataset https://doi.org/10.15468/5duujp accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://bison.usgs.gov/ipt/logo.do?r=usgs_sesc_biscayne_herpetofauna_2002_2003</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

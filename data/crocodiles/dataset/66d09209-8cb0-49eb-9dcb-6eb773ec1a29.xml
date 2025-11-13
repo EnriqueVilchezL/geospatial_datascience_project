@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="66d09209-8cb0-49eb-9dcb-6eb773ec1a29"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/cwku67</alternateIdentifier>
+        <alternateIdentifier>66d09209-8cb0-49eb-9dcb-6eb773ec1a29</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbifbenin.org/resource?r=dare</alternateIdentifier>
+        <title>Identification and inventory of wildlife populations: Case of state-owned plantations of Pahou</title>
+        <creator>
+            <individualName>
+                <givenName>Josué</givenName>
+                <surName>KPETERE</surName>
+            </individualName>
+            <organizationName>CERF</organizationName>
+            <positionName>Reseacher</positionName>
+            <address>
+                <city>Abomey-Calavi</city>
+                <administrativeArea>Atlantic</administrativeArea>
+                <country>BENIN</country>
+            </address>
+            <phone>97007459</phone>
+            <electronicMailAddress>kpeterej@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Gbati O.</givenName>
+                <surName>DARE</surName>
+            </individualName>
+            <organizationName>Laboratory of Forest Sciences</organizationName>
+            <positionName>Reseacher</positionName>
+            <address>
+                <city>Abomey-Calavi</city>
+                <administrativeArea>Atlantic</administrativeArea>
+                <country>BENIN</country>
+            </address>
+            <phone>95747264</phone>
+            <electronicMailAddress>richarddare52@yahoo.fr</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Matilo</givenName>
+                <surName>OROU</surName>
+            </individualName>
+            <organizationName>CERF</organizationName>
+            <positionName>Reseacher</positionName>
+            <address>
+                <city>Abomey-Calavi</city>
+                <administrativeArea>Atlantic</administrativeArea>
+                <country>BENIN</country>
+            </address>
+            <phone>97842182</phone>
+            <electronicMailAddress>matilorou@yahoo.fr</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Josué</givenName>
+                <surName>KPETERE</surName>
+            </individualName>
+            <organizationName>CERF</organizationName>
+            <positionName>Reseacher</positionName>
+            <address>
+                <city>Abomey-Calavi</city>
+                <administrativeArea>Atlantic</administrativeArea>
+                <country>BENIN</country>
+            </address>
+            <phone>97007459</phone>
+            <electronicMailAddress>kpeterej@gmail.com</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Jean Cossi</givenName>
+                <surName>GANGLO</surName>
+            </individualName>
+            <organizationName>Laboratory of Forest Sciences</organizationName>
+            <positionName>Head</positionName>
+            <address>
+                <city>Abomey-Calavi</city>
+                <administrativeArea>Atlantic</administrativeArea>
+                <country>BENIN</country>
+            </address>
+            <electronicMailAddress>ganglocj@gmail.com</electronicMailAddress>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <pubDate>
+                2022-06-30
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Identification and inventory of wildlife populations in Pahou states-owned plantations following a count of the different species encountered and counting by the transects points and the reconnaissance march.
+        </abstract>
+        <keywordSet>
+            <keyword>Impact</keyword>
+            <keyword>Occurrence; Pahou</keyword>
+            <keyword>Benin</keyword>
+            <keyword>Faune sauvage</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://ipt.gbifbenin.org/archive.do?r=dare</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Pahou, BENIN</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>2.128</westBoundingCoordinate>
+                    <eastBoundingCoordinate>2.179</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.384</northBoundingCoordinate>
+                    <southBoundingCoordinate>6.364</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2019-07-18
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-07-30
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Animalia, Chordata, Aves, Columbiformes, Columbidae</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Streptopelis senegalensis</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Animalia, Chordata, Aves, Passeriformes,Pycnonitidae</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pycnonotus barbatus</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Animalia, Chordata, Aves, Galliformes, Phasianidae</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pternistis bicalcaratus</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Josué</givenName>
+                <surName>KPETERE</surName>
+            </individualName>
+            <organizationName>CERF</organizationName>
+            <positionName>Reseacher</positionName>
+            <address>
+                <city>Abomey-Calavi</city>
+                <administrativeArea>Atlantic</administrativeArea>
+                <country>BENIN</country>
+            </address>
+            <phone>97007459</phone>
+            <electronicMailAddress>kpeterej@gmail.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>GPS recording of coordinates of locations where animal species or their signs of presence have been observed. These coordinates have been considered as the points of occurrences of the animals identified or observed.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>BENIN</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Identification and inventory of wildlife populations in Pahou states-owned plantations following a count of the different species encountered and counting by the transects points and the reconnaissance march.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="BID-AF2020-083-USE">
+                <title>Data use to inform decisions on biodiversity conservation and public health in Benin</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Jean Cossi</givenName>
+                    <surName>GANGLO</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>This project is designed to provide data solutions to support expressed decisions making of three government institutions.
+Through workshops, the desired decisions the end-users are willing to make will be examined so as to clearly identify the appropriated needs of information and related key research questions to be answered. Data needs will then be adequately identified and, data mobilization in free access databases like GBIF, data gap analysis on available data, and complementary data mobilization in data holdings will be planned. Data mobilization, data and checklist publications on GBIF site will then be achieved.
+Under the supervision of trainers and project advisor, students in the master program, through their master research topics will achieve, in response to the key research questions, adequate data analysis and address the required needs of information to support decisions making of government institutions.
+Following the evaluation process by end-users, a plan will be set in place through partnership agreements between parties so as to enable the establishment of workflows and refinement of data mobilization and data solutions to fit more conveniently in decisions making during and beyond the project.
+Data solutions will be used in national biodiversity policy and international biodiversity platforms. Indicators towards the achievements of SDG and CBD targets as well as information on biodiversity assessments will be provided to end-users.</para>
+                </abstract>
+                <funding>
+                    <para>The funding of this project is generously provided by European Union in the framework of Biodiversity Information for Development program managed by GBIF Secretariat</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>The data digitized and published in the framework of this project are gathered throughout the whole country with respect to the data needs to inform decisions in the three partner institutions</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>The design is detailed according to the objectives of the project
+The initial planning phase will be achieved in the framework of workshops during which the consortium members and their collaborators, students, and supervisors of theses of the master program will be invited. The end-users from DGEFC, CENAGREF, and Hôpital Menontin will present their needs of information and the decisions they wish to support.
+The needs of information will be reformulated into key questions to be answered with respect to the decisions to be supported so as to identify the possible information resources to be taken into account. They can be databases like GBIF, Vertnet, species links etc. Any other relevant sources of information (data holders, data users, resource persons etc.) will also be considered. This will result in a plan of data mobilization, data publication, and data uses to support decisions. This plan will be consolidated through partnership agreements between parties.
+During data mobilization phase, taking into account the key questions to be answered, research topics will be identified and attributed to the students of the master program and other data users. Data will then be downloaded from GBIF, Vertenet, species links etc. and data gap analysis will be performed so as to find out the gaps of occurrences to be filled either from complementary field surveys, data holders, and literature reviews etc. Data collected to fill data gaps will be formatted, georeferenced, cleaned up, and published on GBIF site.
+The evaluation process will be carried out in two phases: i) during the information development phase, under the umbrella of their supervisors and the advisor of the program, students will process data to provide relevant answers to the key questions in order to guide the intended decision making of the partners; ii) in an evaluation phase, the results obtained (answers to the key questions) will be scrutinized with respect to their adequacy to support the intended decisions of end-users and, whenever necessary, data mobilization and data analysis refinements will be reconsidered to provide more relevant answers to the key questions to support decisions.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:19Z</dateStamp>
+                <citation>KPETERE J, DARE G O, OROU M (2022). Identification and inventory of wildlife populations: Case of state-owned plantations of Pahou. Version 1.1. Centre d&apos;Etudes de Recherches et de Formation Forestières (CERF). Occurrence dataset https://doi.org/10.15468/cwku67 accessed via GBIF.org on 2025-10-11.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="590a3cab-64b0-4648-9293-ada3843153fe"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/sa8m3q</alternateIdentifier>
+        <alternateIdentifier>590a3cab-64b0-4648-9293-ada3843153fe</alternateIdentifier>
+        <alternateIdentifier>https://ipt.pensoft.net/resource?r=herpetofauna_las_piedras_peru</alternateIdentifier>
+        <title>Occurrence dataset of reptiles and amphibians in primary forests of the Las Piedras River, Tambopata province, Peru</title>
+        <creator>
+            <individualName>
+                <givenName>Patrick</givenName>
+                <surName>Champagne</surName>
+            </individualName>
+            <organizationName>The University of Queensland</organizationName>
+            <positionName>PhD Student</positionName>
+            <address>
+                <city>St Lucia</city>
+                <administrativeArea>QLD</administrativeArea>
+                <postalCode>4072</postalCode>
+                <country>AUSTRALIA</country>
+            </address>
+            <electronicMailAddress>p.champagne@uq.edu.au</electronicMailAddress>
+            <onlineUrl>http://patrick-champagne.com</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0001-9125-8493</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Brian</givenName>
+                <surName>Crnobrna</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Ucayali</organizationName>
+            <address>
+                <city>Pucallpa</city>
+                <country>PERU</country>
+            </address>
+            <electronicMailAddress>tripanurgus@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-4776-5767</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Harry</givenName>
+                <surName>Fonseca Williams</surName>
+            </individualName>
+            <organizationName>University of Oxford</organizationName>
+            <address>
+                <city>Oxford</city>
+                <administrativeArea>Oxford</administrativeArea>
+                <country>UNITED_KINGDOM</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Harry</givenName>
+                <surName>Turner</surName>
+            </individualName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Grober</givenName>
+                <surName>Panduro Pisco</surName>
+            </individualName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Patrick</givenName>
+                <surName>Champagne</surName>
+            </individualName>
+            <organizationName>The University of Queensland</organizationName>
+            <positionName>Biologist</positionName>
+            <address>
+                <city>St Lucia</city>
+                <administrativeArea>QLD</administrativeArea>
+                <postalCode>4072</postalCode>
+                <country>AUSTRALIA</country>
+            </address>
+            <electronicMailAddress>p.champagne@uq.edu.au</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-9125-8493</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Patrick</givenName>
+                <surName>Champagne</surName>
+            </individualName>
+            <organizationName>The University of Queensland</organizationName>
+            <positionName>Biologist</positionName>
+            <address>
+                <city>Brisbane</city>
+                <administrativeArea>Queensland</administrativeArea>
+                <country>AUSTRALIA</country>
+            </address>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2025-03-24
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Occurrence dataset of reptiles and amphibians in primary forests of the Las Piedras River, Tambopata province, Peru. Authors: • Brian Crnobrna, Universidad Nacional de Ucayali, Pucallpa, Peru • Patrick Champagne, Acadia University, Wolfville, Nova Scotia, Canada • Harry Fonseca Williams, Department of Zoology, University of Oxford, UK • Harry Turner, Independent Researcher, UK • Grober Panduro Pisco, Negocios Amazonicos Sustentables EIRL, Peru. This dataset comprises 2,327 geo-referenced records of reptiles and amphibians from the Las Piedras Biodiversity Station (LPBS) and the Amazon Research and Conservation Centre (ARCC) in Madre de Dios, Peru. It contains 2,327 distinct geo-referenced records, categorized into Anura (1,788), Crocodilia (10), Gymnophiona (1), Squamata (517), and Testudines (11). These records span 165 identified species, along with one entry recorded at the genus level (Chironius). Records were collected between 2004 and 2023, through pitfall traps, quadrat sampling, transects, and opportunistic encounters from 2004 to 2023. This dataset supports biodiversity conservation, ecological research, and herpetofauna biogeography in a region threatened by deforestation and illegal mining. The data also includes new records near the Huascar River and Las Piedras confluence. Notable Taxa include: Eunectes murinus, Polychrus liogaster, Melanosuchus niger, Alopoglossus avilapiresae, Potamites ecpleopus, Stenocercus prionotus, Urocentron azureum, Rhinobothryum lentiginosum.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Anura</keyword>
+            <keyword>Herpetofauna diversity</keyword>
+            <keyword>Amazon Rainforest</keyword>
+            <keyword>Las Piedras River</keyword>
+            <keyword>Amphibia</keyword>
+            <keyword>Testudines</keyword>
+            <keyword>Squamata</keyword>
+            <keyword>Reptilia</keyword>
+            <keyword>Crocodilia</keyword>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.pensoft.net/archive.do?r=herpetofauna_las_piedras_peru</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Geographic Coverage
+•	Region: Madre de Dios, southeastern Peru
+•	Sites: Las Piedras Biodiversity Station (LPBS) and Amazon Research and Conservation Centre (ARCC)
+•	Coordinates:
+o	LPBS: 12.05672°S, 69.52853°W
+o	ARCC: 12.04619°S, 69.67675°W
+•	Habitat: Lowland Amazon rainforest, including terra firme, floodplain forest, and oxbow lake ecosystems.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-69.698</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-69.514</eastBoundingCoordinate>
+                    <northBoundingCoordinate>-12.002</northBoundingCoordinate>
+                    <southBoundingCoordinate>-12.124</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2004-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-01-01
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chordata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gymnophiona</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leiuperidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bufonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alopoglossidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Caeciliidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Microhylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gymnophthalmidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alligatoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Boidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Aniliidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Polychrotidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Scincidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Amphisbaenidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Aromobatidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Kinosternidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dactyloidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Typhlopidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Testudinidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Chelidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dendrobatidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hoplocercidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Colubridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ceratophrynidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Viperidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Elapidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leptodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pipidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sphaerodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phyllodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Teiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Craugastoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Tropiduridae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <acknowledgements><para>Fauna Forever volunteers and interns performed samplings such as stream surveys and night walks. We thank them for their assistance and contributions: Celia Barlow, Marnie Smith-Bessen, Clare Turrell, Vicki Mercier, Matt Armes, Maria Alejandra Ramirez, Katrin Luder, Keelen Robertson, Bathsheba Gardner, Paddy Summers, Julien Glouton, Louis Guzennac, Sam LaVoie, Tori Jeffers, Vanessa Simons, McKenzie Wardwell, and the Cardiff University crew: Matt De Couto, Freddy Harvey Williams, and Henry Richards. We are grateful to Paul Rosolie and Mohsin Kazmi at Junglekeepers for their continued support, and to Mark Fernley (Untamed Expeditions) for valuable assistance, as well as the research efforts of Irbin Llanqui and Justin Touchon. We also extend our gratitude to the organizations Fauna Forever, ARCAmazon, and Tamandua Expeditions, in particular Dr. Chris Kirkby and David Johnson for their logistical and operational support. Finally, we acknowledge Juan Julio Duran and Pepe Moscoso, managers of the Las Piedras Biodiversity Station and the Amazon Research and Conservation Centre, for their collaboration and support throughout the study. Research scholarships awarded by Acadia University, the Amazon Rainforest Conservancy (through MITACS International), MITACS International, the Environmental Systems Research Institute (Esri), and the Higher Degree Research International Scholarship of the University of Queensland, awarded to Patrick Champagne, supported aspects of the initiatives that produced this dataset.</para></acknowledgements>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Patrick</givenName>
+                <surName>Champagne</surName>
+            </individualName>
+            <organizationName>The University of Queensland</organizationName>
+            <address>
+                <city>St Lucia</city>
+                <administrativeArea>QLD</administrativeArea>
+                <postalCode>4072</postalCode>
+                <country>AUSTRALIA</country>
+            </address>
+            <electronicMailAddress>p.champagne@uq.edu.au</electronicMailAddress>
+            <onlineUrl>http://patrick-champagne.com</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0001-9125-8493</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Brian</givenName>
+                <surName>Crnobrna</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Ucayali</organizationName>
+            <positionName>Biologist</positionName>
+            <address>
+                <city>Pucallpa</city>
+                <country>PERU</country>
+            </address>
+            <electronicMailAddress>tripanurgus@gmail.com</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-4776-5767</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>1. Study Area
+Location: Surveys were conducted at Las Piedras Biodiversity Station (LPBS) and Amazon Research and Conservation Centre (ARCC) in the Madre de Dios region, Peru.
+Geographic Details: The study area spans 65 km of the Las Piedras River, near the confluence with the Huascar River, encompassing diverse habitats like terra firme forest, swamps, and floodplain forest.
+Seasonality: The region experiences distinct wet (October–April) and dry (May–October) seasons.
+2. Sampling Methods
+2.1. Pitfall Traps
+Arrays consisted of 30 m drift fences with four 60 L buckets for captures.
+Buckets had drainage holes and natural cover to accommodate captured animals.
+Checked every 24 hours, recording all amphibians and releasing them 100 m away.
+2.2. Quadrats
+Early methods used 50 quadrats per plot with a systematic &quot;corner-in&quot; technique.
+Newer methods quadrupled the plot size and combined random walks with systematic searches.
+Quadrats were selected from trails and large transect plots.
+2.3. Transects
+100 m long straight-line transects in homogenous forest devoid of water bodies or steep relief.
+Searches were non-invasive visual surveys conducted within 50-minute periods.
+Sampling Schedule:
+Nocturnal transects: Between 17:30 and 00:00 h.
+Diurnal transects: Between 08:30 and 13:00 h.
+Stratified random resampling was employed in later stages.
+2.4. Opportunistic Sampling
+Included night walks (1.5–5 km), swamp searches, and stream runs.
+Records were valued as presence/absence data.
+3. Taxonomic Framework
+Amphibians: Taxonomy followed Frost et al. (2006) with updates from Jungfer et al. (2013) and others.
+Reptiles: Taxonomy adhered to Uetz et al. (2022) with updates from Ribeiro-Junior et al. (2020).
+4. Data Collection and Positional Accuracy
+GPS Used: GarminMap 64s for geographic coordinates.
+Resolution:
+Pitfall Traps: Coordinates represented the centroid of a 30 m x 30 m cell.
+Transects: Coordinates represented a 100 m x 100 m cell.
+Quadrats: Coordinates depicted the quadrat center.
+5. Temporal Coverage
+2004–2024: Includes opportunistic records and structured surveys.
+6. We aggregated results based on site locality and method employed.
+7. We validated species information for opportunistic records against photographic evidence of occurrence. 
+8. We constructed the database following Darwin Core.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Geographic Coverage
+Central area of Las Piedras River, from Lucerna Port to the confluence of the Huascar and Las Piedras River.
+•	Region: Madre de Dios, southeastern Peru
+•	Sites: Las Piedras Biodiversity Station (LPBS) and Amazon Research and Conservation Centre (ARCC)
+•	Coordinates:
+o	LPBS: 12.056724°S, 69.528528°W
+o	ARCC: 12.046190°S, 69.676751°W
+•	Habitat: Lowland Amazon rainforest, including terra firme, floodplain forest, and oxbow lake ecosystems</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>We aggregated results from three common herpetofauna survey methods employed over varied sampling periods from 2004 to 2023. Additionally, we included opportunistic records of other species that were not detected using the three primary methods: pitfall traps, quadrats, and transects. Amphibian taxonomy used follows Frost et al. (2006) with updates from Jungfer et al. (2013), Moravec et al. (2009), Caminer and Ron (2014), Fouqet et al. (2021), Caminer et al. (2017), Melo-Sampaio (2023), Rivadeneira et al. (2018), and Jungfer et al. (2010).  Reptile taxonomy follows Uetz et al. (2022). Crucial updates to reptile taxonomy and biogeography came from Ribeiro-Junior et al. (2020) and Murphy (2016).
+Pitfall Traps 
+Pitfalls trap arrays were designed with straight driftline fences made of plastic sheeting measuring 30 m long, trenched into soil at the bottom edge, and installed with four 60 L buckets.  The buckets had holes drilled in the bottom to allow drainage, and were spaced 10 m apart (second and third buckets excluded opposing sides of the driftline), although traps at ARCC employed a mixture of 20 L, 60 L, and 120 L buckets in an experimental array.  In all cases buckets were left uncovered, but natural cover was provided inside the buckets to accommodate captured animals.  Traps were checked once every 24 hours.  All individuals of all amphibian species were recorded and released at a predetermined release site approximately 100 m away from the trap.
+Quadrats
+Quadrat data originating from 2004 can be considered identical to that detailed by Doan (2003); utilizing a “corner-in” method on 50 quadrats from two plots run systematically.  Newer quadrats quadrupled the plot size and combined random walks with the “corner-in” method.  These quadrats were selected randomly from the trails and large transect plots used at LPS.
+Transects
+Non-invasive visual transect searches followed straight lines 100 m long in homogenous forest devoid of permanent water bodies or drastic shifts in relief (ridges, stream banks, etc.).  Search time was limited to less than 50 minutes measured with a stopwatch to factor out specimen processing or any time spent off transect. Sampling took place during both day and nighttime, and effort was made to perform three diurnal transects for every five nocturnal transects. Nocturnal transects took place between 17:30 and 00:00 h, diurnal between 08:30 and 13:00 h, but both took place on the same plots, numbering six at LPBS and two at ARCC.  In 2004 at LPBS, two plots of 24 transects were run systematically. In 2012 and 2013, two plots at ARCC contained 10 separate transects run via stratified-random post hoc resampling design.  At LPBS in 2014 three more plots were run in random order over a much larger geographic scale.  
+
+Opportunistic Sampling
+
+All opportunistic encounters, valued as presence/absence data, were recorded. Night walks restricted to trails between 1.5 and 5 km in length, swamp searches, and stream runs made up the opportunistic samples.
+
+References:
+
+Doan TM, Arriaga WA (2002) Microgeographic variation in species composition of the herpetofaunal communities of Tambopata Region, Peru. Biotropica 34: 101-117. https://doi.org/10.1646/0006-3606(2002)034[0101:MVISCO]2.0.CO;2
+
+Caminer MA, Ron SR (2014) Systematics of treefrogs of the Hypsiboas calcaratus and Hypsiboas fasciatus species complex (Anura, Hylidae) with the description of four new species. ZooKeys 370: 1-68. https://doi.org/10.3897/zookeys.370.6291
+
+Caminer MA, Milá B, Jansen M, Fouquet A, Venegas PJ, Chávez G, Lougheed SC, Ron SR (2017) Systematics of the Dendropsophus leucophyllatus species complex (Anura: Hylidae): Cryptic diversity and the description of two new species. PLOS One 12: e0176902. https://doi.org/10.1371/journal.pone.0171785
+
+Fouquet A, Marinho P, Réjaud A, Carvalho TR, Caminer MA, Jansen M, Rainha RN, Rodrigues MT, Werneck FP, Lima AP, Hrbek T, Giaretta AA, Venegas PJ, Chávez G, Ron S (2021) Systematics and biogeography of the Boana albopunctata species group (Anura, Hylidae), with the description of two new species from Amazonia. Systematics and Biodiversity 19: 375-399. https://doi.org/10.1080/14772000.2021.1873869
+
+Frost DR, Grant T, Faivovich J, Bain RH, Haas A, Haddad CF, Sa ROD, Channing A, Wilkinson M, Donnellan SC (2006). The amphibian tree of life. Bulletin of the American Museum of Natural History 2006: 1‑291.https://doi.org/10.1206/0003-0090(2006)297[0001:TATOL]2.0.CO;2
+
+Jungfer K, Faivovich J, Padial JM, Castroviejo-Fisher S, Lyra MM, Berneck BV, Iglesias PP, Kok PJ, MacCulloch RD, Rodrigues MT (2013) Systematics of spiny-backed treefrogs (Hylidae: Osteocephalus): an Amazonian puzzle. Zoologica Scripta 42: 351-380. https://doi.org/10.1111/zsc.12015
+
+Jungfer K, Faivovich J, Padial JM, Castroviejo-Fisher S, Lyra MM, Berneck BV, Iglesias PP, Kok PJ, MacCulloch RD, Rodrigues MT (2013) Systematics of spiny-backed treefrogs (Hylidae: Osteocephalus): an Amazonian puzzle. Zoologica Scripta 42: 351-380. https://doi.org/10.1111/zsc.12015
+
+Melo-Sampaio PR (2023) On the taxonomic status of Dendropsophus koechlini (Duellman &amp; Trueb, 1989). Journal of Vertebrate Biology 72 (23022): 1-11. https://doi.org/10.25225/jvb.23022
+
+Moravec J, Aparicio J, Guerrero-Reinhard M, Calderón G, Jungfer K-H, Gvoždík V (2009) A new species of Osteocephalus (Anura: Hylidae) from Amazonian Bolivia: first evidence of tree frog breeding in fruit capsules of the Brazil nut tree. Zootaxa 2215: 37-54. https://doi.org/10.5281/zenodo.189932
+
+Murphy JC, Jowers MJ, Lehtinen RM, Charles SP, Colli GR, Peres AK, Hendry CR, Pyron RA (2016) Cryptic, sympatric diversity in tegu lizards of the Tupinambis teguixin group (Squamata, Sauria, Teiidae) and the description of three new species. PLOS One 11 (8): e0158542. https://doi.org/10.1371/journal.pone.0158542
+
+Ribeiro-Júnior MA, Choueri E, Lobos S, Venegas P, Torres-Carvajal O, Werneck F (2020) Eight in one: morphological and molecular analyses reveal cryptic diversity in Amazonian alopoglossid lizards (Squamata: Gymnophthalmoidea). Zoological Journal of the Linnean Society 190 (1): 227-270. https://doi.org/10.1093/zoolinnean/zlz155
+
+Rivadeneira CD, Venegas PJ, Ron SR (2018) Species limits within the widespread Amazonian treefrog Dendropsophus parviceps with descriptions of two new species (Anura, Hylidae). ZooKeys 726: 25-77. https://doi.org/10.3897/zookeys.726.13864
+
+Uetz P, Hošek J, Hallermann J (2022) The Reptile Database. URL: https://reptile-database.reptarium.cz/</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>For opportunistic samples, an uncertainty value of 2 km (2000 m) was assigned to account for potential errors in specimen localization beyond the immediate project framework. This conservative estimate ensures that all possible positional errors are encompassed. For structured sampling methods, uncertainty values were assigned based on the representative spatial resolution of each method: transects were assigned an error of 100 m, quadrats 50 m, and pitfall traps 30 m. For taxonomic quality control, please refer to the accompanying manuscript published in the Biodiversity Data Journal.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Occurrence dataset of reptiles and amphibians in primary forests of the Las Piedras River, Tambopata province, Peru.</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Brian</givenName>
+                    <surName>Crnbrna</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0003-4776-5767</userId>
+                    <role>OWNER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Patrick</givenName>
+                    <surName>Champagne</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0003-4776-5767</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Harry</givenName>
+                    <surName>Williams</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0001-5095-3131</userId>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <abstract>
+                    <para>The records reported in this dataset were generated during multiple research and conservation initiatives along the Las Piedras River. These data were managed by Brian Crnobrna and Patrick Champagne, with significant contributions from faunal surveying projects led by Fauna Forever, sustainable development and conservation initiatives through Jungle Keepers S.A.C., and two thesis research projects supported by Patrick Champagne in collaboration with Acadia University and The University of Queensland. 
+
+Acknowledgments to volunteers and others involved during the project:
+
+Fauna Forever volunteers and interns performed samplings such as stream surveys and night walks. We thank them for their assistance and contributions: Celia Barlow, Marnie Smith-Bessen, Clare Turrell, Vicki Mercier, Matt Armes, Maria Alejandra Ramirez, Katrin Luder, Keelen Robertson, Bathsheba Gardner, Paddy Summers, Julien Glouton, Louis Guzennac, Sam LaVoie, Tori Jeffers, Vanessa Simons, McKenzie Wardwell, and the Cardiff University crew: Matt De Couto, Freddy Harvey Williams, and Henry Richards. We are grateful to Paul Rosolie and Mohsin Kazmi at Junglekeepers for their continued support, and to Mark Fernley (Untamed Expeditions) for valuable assistance, as well as the research efforts of Irbin Llanqui and Justin Touchon. We also extend our gratitude to the organizations Fauna Forever, ARCAmazon, and Tamandua Expeditions, in particular Dr. Chris Kirkby and David Johnson for their logistical and operational support. Finally, we acknowledge Juan Julio Duran and Pepe Moscoso, managers of the Las Piedras Biodiversity Station and the Amazon Research and Conservation Centre, for their collaboration and support throughout the study.</para>
+                </abstract>
+                <funding>
+                    <para>Research scholarships awarded by Acadia University, the Amazon Rainforest Conservancy (through MITACS International), MITACS International, the Environmental Systems Research Institute (Esri), and the Higher Degree Research International Scholarship of the University of Queensland, awarded to Patrick Champagne, supported aspects of the initiatives that produced this dataset.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>The amazonian department of Madre de Dios in southeastern Peru is named after the largest river present, the Madre de Dios River. The department is situated north of Puno, east of Cusco, and south of Purús Province, and covers roughly 85,300 square kilometers. The capital city of Puerto Maldonado is located at the confluence of the Tambopata and Madre de Dios rivers. The Las Piedras River is the longest tributary of the Madre de Dios River in Peru and the 14th longest river in Peru, with a length of 640 km. The river drains into the Madre de Dios, approximately 10 km northwest of Puerto Maldonado, and derives from highlands in Alto Purús National Park. Our study area covers a stretch of 65 km of the Las Piedras River near the confluence of the Huascar River. The two study sites, the Las Piedras Biodiversity Station (LPBS) and the Amazon Research and Conservation Centre (ARCC), are located in the central area of the Las Piedras River tributary. The two sites are surrounded by several larger and sustainably managed Brazil nut, ecotourism, and conservation concessions (approximately 20,000 hectares). The habitat is consistent with the typical characteristics of the lowland Amazon rainforest under 500 meters in the Madre De Dios region.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>We aggregated results from three common herpetofauna survey methods employed over varied sampling periods from 2004 to 2023. Additionally, we included opportunistic records of other species that were not detected using the three primary methods: pitfall traps, quadrats, and transects.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:18Z</dateStamp>
+                <citation>Champagne P, Crnobrna B, Fonseca Williams H, Turner H, Panduro Pisco G (2025). Occurrence dataset of reptiles and amphibians in primary forests of the Las Piedras River, Tambopata province, Peru. Version 1.9. Biodiversity Data Journal. Occurrence dataset https://doi.org/10.15468/sa8m3q accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation identifier="https://doi.org/10.3897/zookeys.370.6291">Caminer MA, Ron SR (2014) Systematics of treefrogs of the Hypsiboas calcaratus and Hypsiboas fasciatus species complex (Anura, Hylidae) with the description of four new species. ZooKeys 370: 1-68.</citation>
+                <citation identifier="https://doi.org/10.1371/journal.pone.0171785">Caminer MA, Milá B, Jansen M, Fouquet A, Venegas PJ, Chávez G, Lougheed SC, Ron SR (2017) Systematics of the Dendropsophus leucophyllatus species complex (Anura: Hylidae): Cryptic diversity and the description of two new species. PLOS One 12: e0176902.</citation>
+                <citation identifier="https://doi.org/10.1646/0006-3606(2002)034[0101:MVISCO]2.0.CO;2">Doan TM, Arriaga WA (2002) Microgeographic variation in species composition of the herpetofaunal communities of Tambopata Region, Peru. Biotropica 34: 101-117.</citation>
+                <citation identifier="https://doi.org/10.1080/14772000.2021.1873869">Fouquet A, Marinho P, Réjaud A, Carvalho TR, Caminer MA, Jansen M, Rainha RN, Rodrigues MT, Werneck FP, Lima AP, Hrbek T, Giaretta AA, Venegas PJ, Chávez G, Ron S (2021) Systematics and biogeography of the Boana albopunctata species group (Anura, Hylidae), with the description of two new species from Amazonia. Systematics and Biodiversity 19: 375-399.</citation>
+                <citation identifier="https://doi.org/10.1206/0003-0090(2006)297[0001:TATOL]2.0.CO;2">Frost DR, Grant T, Faivovich J, Bain RH, Haas A, Haddad CF, Sa ROD, Channing A, Wilkinson M, Donnellan SC (2006). The amphibian tree of life. Bulletin of the American Museum of Natural History 2006: 1‑291.</citation>
+                <citation identifier="https://doi.org/10.1111/zsc.12015">Jungfer K, Faivovich J, Padial JM, Castroviejo-Fisher S, Lyra MM, Berneck BV, Iglesias PP, Kok PJ, MacCulloch RD, Rodrigues MT (2013) Systematics of spiny-backed treefrogs (Hylidae: Osteocephalus): an Amazonian puzzle. Zoologica Scripta 42: 351-380.</citation>
+                <citation identifier="https://doi.org/10.25225/jvb.23022">Melo-Sampaio PR (2023) On the taxonomic status of Dendropsophus koechlini (Duellman &amp; Trueb, 1989). Journal of Vertebrate Biology 72 (23022): 1-11.</citation>
+                <citation identifier="https://doi.org/10.5281/zenodo.189932">Moravec J, Aparicio J, Guerrero-Reinhard M, Calderón G, Jungfer K-H, Gvoždík V (2009) A new species of Osteocephalus (Anura: Hylidae) from Amazonian Bolivia: first evidence of tree frog breeding in fruit capsules of the Brazil nut tree. Zootaxa 2215: 37-54.</citation>
+                <citation identifier="https://doi.org/10.1371/journal.pone.0158542">Murphy JC, Jowers MJ, Lehtinen RM, Charles SP, Colli GR, Peres AK, Hendry CR, Pyron RA (2016) Cryptic, sympatric diversity in tegu lizards of the Tupinambis teguixin group (Squamata, Sauria, Teiidae) and the description of three new species. PLOS One 11 (8): e0158542.</citation>
+                <citation identifier="https://doi.org/10.1093/zoolinnean/zlz155">Ribeiro-Júnior MA, Choueri E, Lobos S, Venegas P, Torres-Carvajal O, Werneck F (2020) Eight in one: morphological and molecular analyses reveal cryptic diversity in Amazonian alopoglossid lizards (Squamata: Gymnophthalmoidea). Zoological Journal of the Linnean Society 190 (1): 227-270.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.726.13864">Rivadeneira CD, Venegas PJ, Ron SR (2018) Species limits within the widespread Amazonian treefrog Dendropsophus parviceps with descriptions of two new species (Anura, Hylidae). ZooKeys 726: 25-77.</citation>
+                <citation identifier="https://reptile-database.reptarium.cz/">Uetz P, Hošek J, Hallermann J (2022) The Reptile Database.</citation>
+                </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

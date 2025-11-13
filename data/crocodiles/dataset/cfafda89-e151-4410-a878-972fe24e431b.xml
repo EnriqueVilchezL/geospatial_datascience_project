@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="cfafda89-e151-4410-a878-972fe24e431b"  system="http://gbif.org" scope="system"
+xml:lang="pt">
+    <dataset>
+        <alternateIdentifier>10.15468/bt80dm</alternateIdentifier>
+        <alternateIdentifier>https://ipt1.cria.org.br/ipt/resource?r=mbml-repteis</alternateIdentifier>
+        <alternateIdentifier>cfafda89-e151-4410-a878-972fe24e431b</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=mbml-repteis</alternateIdentifier>
+        <title>MBML-Repteis - Coleção de Répteis</title>
+        <creator>
+            <individualName>
+                <givenName>Thiago</givenName>
+                <surName>Silva Soares</surName>
+            </individualName>
+            <organizationName>Museu de Biologia Professor Mello Leitão (MBML)</organizationName>
+            <positionName>Curador</positionName>
+            <address>
+                <deliveryPoint>Av. José Ruschi, 4 - Centro</deliveryPoint>
+                <city>Santa Teresa</city>
+                <administrativeArea>Espírito Santo</administrativeArea>
+                <postalCode>29650-000</postalCode>
+                <country>BRAZIL</country>
+            </address>
+            <electronicMailAddress>thiago.soares@inma.gov.br</electronicMailAddress>
+            <onlineUrl>https://specieslink.net/col/114/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Thiago</givenName>
+                <surName>Silva Soares</surName>
+            </individualName>
+            <organizationName>Museu de Biologia Professor Mello Leitão (MBML)</organizationName>
+            <positionName>Curador</positionName>
+            <address>
+                <deliveryPoint>Av. José Ruschi, 4 - Centro</deliveryPoint>
+                <city>Santa Teresa</city>
+                <administrativeArea>Espírito Santo</administrativeArea>
+                <postalCode>29650-000</postalCode>
+                <country>BRAZIL</country>
+            </address>
+            <electronicMailAddress>thiago.soares@inma.gov.br</electronicMailAddress>
+            <onlineUrl>https://specieslink.net/col/114/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>speciesLink Network</surName>
+            </individualName>
+            <organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName>
+            <positionName>Network</positionName>
+            <address>
+                <deliveryPoint>Rua João Carlos do Amaral, 500, casa 01</deliveryPoint>
+                <city>Campinas</city>
+                <administrativeArea>São Paulo</administrativeArea>
+                <postalCode>13070-111</postalCode>
+                <country>BRAZIL</country>
+            </address>
+            <electronicMailAddress>helpdesk@cria.org.br</electronicMailAddress>
+            <onlineUrl>https://specieslink.net</onlineUrl>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <pubDate>
+                2025-09-29
+        </pubDate>
+        <language>PORTUGUESE</language>
+        <abstract>
+            <para>A coleção de répteis está voltada para a biota da Mata Atlântica, com maior representatividade da Mata Atlântica Central. Disponível para visitação, empréstimos e troca de material. Público alvo - pesquisadores, estudantes que desenvolvem projetos de pesquisa e técnicos em estudos ambientais.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://specieslink.net/col/114</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt1.cria.org.br/ipt/archive.do?r=mbml-repteis</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Predominantemente Brasil</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-74</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                    <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                    <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Thiago</givenName>
+                <surName>Silva Soares</surName>
+            </individualName>
+            <organizationName>Museu de Biologia Professor Mello Leitão (MBML)</organizationName>
+            <positionName>Curador</positionName>
+            <address>
+                <deliveryPoint>Av. José Ruschi, 4 - Centro</deliveryPoint>
+                <city>Santa Teresa</city>
+                <administrativeArea>Espírito Santo</administrativeArea>
+                <postalCode>29650-000</postalCode>
+                <country>BRAZIL</country>
+            </address>
+            <electronicMailAddress>thiago.soares@inma.gov.br</electronicMailAddress>
+            <onlineUrl>https://specieslink.net/col/114/</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:22Z</dateStamp>
+                <citation identifier="https://specieslink.net/col/114">Silva Soares T (2025). MBML-Repteis - Coleção de Répteis. Version 1.107. Instituto Nacional da Mata Atlântica. Occurrence dataset https://doi.org/10.15468/bt80dm accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=mbml-repteis</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

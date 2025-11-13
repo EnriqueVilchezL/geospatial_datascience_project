@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="ee789ae4-ef51-4ff2-931b-bc61b2dbe40e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/whjdir</alternateIdentifier>
+        <alternateIdentifier>ee789ae4-ef51-4ff2-931b-bc61b2dbe40e</alternateIdentifier>
+        <alternateIdentifier>http://168.96.62.13:8080/ipt/resource?r=macnpv</alternateIdentifier>
+        <title>Museo Argentino de Ciencias Naturales &quot;Bernardino Rivadavia&quot; (MACN). Paleovertebrates National Collection (MACNPv)</title>
+        <creator>
+            <individualName>
+                <givenName>Alejandro</givenName>
+                <surName>Kramarz</surName>
+            </individualName>
+            <organizationName>Museo Argentino de Ciencias Naturales &apos;Bernardino Rivadavia&apos;</organizationName>
+            <positionName>Curador</positionName>
+            <address>
+                <deliveryPoint>Av. Angel Gallardo 470</deliveryPoint>
+                <city>Ciudad Autónoma de Buenos Aires</city>
+                <administrativeArea>C.A.B.A.</administrativeArea>
+                <postalCode>C1405DJR</postalCode>
+                <country>ARGENTINA</country>
+            </address>
+            <phone>(5411) 4982-0306 / 1154 / 5243 / 4494</phone>
+            <electronicMailAddress>agkramarz@macn.gov.ar</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Daniel</givenName>
+                <surName>Rodríguez</surName>
+            </individualName>
+            <electronicMailAddress>drodriguez@macn.gov.ar</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2021-12-31
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Database of the collection of Paleovertebrates, contains records of fossil fishes, amphibians, reptiles, mammals, and birds from the Mesozoic and Cenozoic eras, mostly from Argentine territory but also from other South American countries. Additionally, it includes hundreds of casts of fossil vertebrates from other continents.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://168.96.62.13:8080/ipt/archive.do?r=macnpv</url>
+            </online>
+        </distribution>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Alejandro</givenName>
+                <surName>Kramarz</surName>
+            </individualName>
+            <organizationName>Museo Argentino de Ciencias Naturales &apos;Bernardino Rivadavia&apos;</organizationName>
+            <positionName>Curador</positionName>
+            <address>
+                <deliveryPoint>Av. Angel Gallardo 470</deliveryPoint>
+                <city>Ciudad Autónoma de Buenos Aires</city>
+                <administrativeArea>C.A.B.A</administrativeArea>
+                <postalCode>C1405DJR</postalCode>
+                <country>ARGENTINA</country>
+            </address>
+            <phone>(5411) 4982-0306 / 1154 / 5243 / 4494</phone>
+            <electronicMailAddress>agkramarz@macn.gov.ar</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:15Z</dateStamp>
+                <citation>Kramarz A, Rodríguez D (2021). Museo Argentino de Ciencias Naturales &quot;Bernardino Rivadavia&quot; (MACN). Paleovertebrates National Collection (MACNPv). Version 1.59. Museo Argentino de Ciencias Naturales. Occurrence dataset https://doi.org/10.15468/whjdir accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>http://168.96.62.13:8080/ipt/logo.do?r=macnpv</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

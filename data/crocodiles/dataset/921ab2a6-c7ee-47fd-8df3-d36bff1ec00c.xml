@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="921ab2a6-c7ee-47fd-8df3-d36bff1ec00c"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/tmrc1o</alternateIdentifier>
+        <alternateIdentifier>921ab2a6-c7ee-47fd-8df3-d36bff1ec00c</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=plan-conservacion-manejo-palo-aceite</alternateIdentifier>
+        <title>Fauna y flora asociada al Plan de manejo y conservación del palo de aceite (Copaifera pubiflora) en los departamentos de Arauca, Casanare y Vichada</title>
+        <creator>
+            <individualName>
+                <surName>Parex Resources (Colombia) AG Sucursal</surName>
+            </individualName>
+            <organizationName>Parex Resources (Colombia) AG Sucursal</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Cl. 113 #7 21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>laura.lozano@parexresources.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Fundación Orinoquía Biodiversa</surName>
+            </individualName>
+            <organizationName>Fundación Orinoquía Biodiversa</organizationName>
+            <positionName>ONG</positionName>
+            <address>
+                <deliveryPoint>Carrera 22 #14-71</deliveryPoint>
+                <city>Tame</city>
+                <administrativeArea>Arauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>nfarfan@orinoquiabiodiversa.org</electronicMailAddress>
+            <onlineUrl>https://fundacionorinoquiabiodiversa.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Autoridad ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (608) 6358588</phone>
+            <electronicMailAddress>atencionusuarios@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Fundación Orinoquía Biodiversa</surName>
+            </individualName>
+            <organizationName>Fundación Orinoquía Biodiversa</organizationName>
+            <positionName>ONG</positionName>
+            <address>
+                <deliveryPoint>Cl. 113 #7 21</deliveryPoint>
+                <city>Tame</city>
+                <administrativeArea>Arauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>nfarfan@orinoquiabiodiversa.org</electronicMailAddress>
+            <onlineUrl>https://fundacionorinoquiabiodiversa.com/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2025-02-25
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Este plan se focaliza en los departamentos de Arauca, Casanare y Vichada, jurisdicción de Corporinoquia, y se llevó a cabo en tres fases: 1. Determinar el estado actual del palo de aceite y su hábitat. 2. Caracterizar las principales presiones, amenazas y alternativas de manejo; y a partir de los anteriores, 3. Diseñar el plan de manejo y conservación. Puntualmente en esta base de datos se presentan los resultados de la primera fase, correspondiente al diagnóstico del medio biofísico de Copaifera pubiflora y su hábitat en las ventanas de estudio priorizadas.</para><para>Este recurso consta de 4.487 registros biológicos de los reinos Animalia (2.303) y Plantae (2.184), los datos fueron tomados en Cravo Norte, Cumaribo, Orocué y Tame en el segundo semestre de 2023.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Flora</keyword>
+            <keyword>Caracterización</keyword>
+            <keyword>Conservación</keyword>
+            <keyword>Orinoquia</keyword>
+            <keyword>Copaifera pubiflora</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=plan-conservacion-manejo-palo-aceite</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Se seleccionó unas ventanas para cada departamento: De sur a norte, la primera de ellas se ubica en la parte nor-occidental del municipio de Cumaribo, departamento de Vichada, limitando en la esquina nor-occidental con el río tomo, límite con el municipio de Santa Rosalía (Vichada). La ventana del departamento de Casanare se ubicó en la parte oriental del municipio de Orocué, ocupando en la esquina nor-oriental una parte del municipio de San Luis de Palenque (Casanare) y limitando en la esquina sur-oriental con el municipio de Puerto Gaitán (Meta). La tercera ventana de estudio se ubicó en la parte oriental del municipio de Tame, Arauca, limitando al oriente con el municipio de Puerto Rondón (Arauca), en la esquina nor- oriental con Arauquita (Arauca) y al sur con Hato Corozal (Casanare).</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-71.76</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-69.803</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.495</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.004</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-03-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-03-01
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-08-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-10-27
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>2.184 registros biológicos pertenecientes al reino Plantae, distribuidos en 2 clases, 20 órdenes, 52 familias, 130 géneros y 144 especies. Del total, un 92.5% fue identificado a nivel de especie y el 7.5% restante identificado a nivel de género y variedad.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>2.303 registros biológicos pertenecientes al reino Animalia, distribuidos en 7 clases, 33 órdenes, 76 familias, 163 géneros y 186 especies. Del total, un 97% fue identificado a nivel de especie y un 3% identificado a nivel de género y subespecie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Laura</givenName>
+                <surName>Lozano</surName>
+            </individualName>
+            <organizationName>Parex Resources (Colombia) AG Sucursal</organizationName>
+            <positionName>Profesional ambiental</positionName>
+            <address>
+                <deliveryPoint>Cl. 113 #7 21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>laura.lozano@parexresources.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FLORA: El muestreo en campo consistió en el establecimiento de parcelas, en las cuales se registraron variables dasométricas de cada individuo de hábito arbóreo o palma, tales como:
+– DAP (Diámetro a la Altura Del pecho)
+– Altura total
+– Altura comercial
+– Nombre común
+– Diámetro de copa en el eje x, Diámetro de copa en el eje y
+– Nombre científico o muestra botánica
+Estas variables, son el insumo para cuantificar y describir la composición y diversidad de la vegetación, y el cálculo de los indicadores de estructura horizontal y vertical, que se abordan en la fase de procesamiento y análisis de resultados (página 54). Adicionalmente, se tomó información de relevancia como la ubicación del inicio y final de la parcela por medio de GPS, la toma de muestras botánicas, y fotos de las especies representativas.
+
+En cuando a las unidades de muestreo de la vegetación implementadas, estas varían en su dimensión dependiendo de la cobertura, donde para coberturas boscosas se implementaron parcelas rectangulares de 10 m x 100 m (0,1 ha), al igual que para pastos y herbazales arbolados. Por su parte, para vegetación secundaria se implementaron parcelas cuadradas de 10 m x 10 m (0,01 ha), y para pastos y herbazales no arbolados, parcelas de 1 m x 1 m (0,0001 ha).
+
+En cada una de las parcelas, se midieron árboles en cuatro diferentes categorías de tamaño, las cuales se clasificaron dependiendo de su altura y DAP en: Fustales (DAP ≥ 10 cm), Latizales (DAP &lt; 10 cm, altura &gt; 1,5 m), Brinzales (altura &lt; 1,5 m) y Renuevos (Altura total ≤ 0,3 m)</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FAUNA: Los muestreos se llevaron a cabo a finales de la temporada de lluvias, entre los meses de agosto y septiembre del 2023 (Trujillo y Anzola, 2019). Se muestreó herpetofauna, avifauna y mamíferos. Para llevar a cabo el registro de anfibios y reptiles, se aplicó la metodología de Evaluación Ecológica Rápida - EER (Sayre et al., 2000). Esta metodología implica la realización de recorridos exhaustivos en un corto periodo de tiempo en la zona de estudio, abarcando los ecosistemas y coberturas de mayor relevancia para la conservación. Durante estos recorridos, se buscó registrar la mayor cantidad de especies y aspectos relevantes de su ecología mediante el uso de técnicas de encuentro visual (VES o Visual Encounter Surveys) (Heyer et al., 1994). La cual se basa en la observación directa de animales, en su hábitat natural. Donde, se buscan los individuos al interior de sus hábitats y se registra información detallada sobre los especímenes avistados, incluyendo cantidad, tamaño y comportamiento (Angulo et al., 2006). Para la captura y manipulación de los individuos observados, la captura fue manual ya que en su mayoría eran individuos pequeños o medianos. Las ubicaciones de los individuos observados fueron georreferenciadas usando la aplicación Avenza Maps.
+
+Para avifauna se realizaron cinco transectos en el predio Paraguitos y seis en el predio Morrocoy (E1 y E2 en la vereda La Esperanza) buscando abarcar diferentes coberturas vegetales. Estos recorridos se efectuaron entre las 6:00 a.m. a 10:00 a.m. y de 4:00 p.m. a 6:00 p.m., horas de mayor actividad para este grupo. Para la determinación de las especies observadas se utilizó la Guía ilustrada de la Avifauna Colombiana (Ayerbe, 2018) y para la determinación de vocalizaciones se utilizó la base de datos de Xeno-canto (Fundación Xeno-canto, 2023). El listado de especies siguió la nomenclatura sugerida por la South American Classification Committee (Pearman et al., 2023).
+
+Para mamíferos, se instalaron cámaras trampa en las ventanas de Cumaribo en Vichada y de Orocué en el departamento de Casanare. Para la ventana de Tame en el departamento de Arauca, se hicieron recorridos en transectos en busca de evidencias directas e indirectas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la caracterización de las poblaciones de palo de aceite se utilizaron dos metodologías, una que consistió en el montaje de transectos
+lineales para el registro de todas las categorías de tamaño, y otra que consistió en el conteo de regeneración natural alrededor de un árbol parental en transectos apuntando a los 4 puntos cardinales. Para el caso de los transectos, se realizaron un total de 66 levantamientos, de los cuales 17 fueron en Tame, 23 en Orocué y 26 en Cumaribo. Por su parte, para el caso del muestreo de regeneración en árboles parentales, se realizaron 5 levantamientos en Tame, 19 en Orocué y 16 en Cumaribo, para un total de 40.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Herpetofauna: Los recorridos se realizaron en diferentes horas del día y de la noche, debido a que reptiles y anfibios presentan un complejo comportamiento en lo que respecta a su horario de actividad (Oishi et al., 2004). Así mismo, debido a las lluvias frecuentes en la zona, los
+recorridos se hicieron dependiendo de las condiciones climáticas. Aunado a ello, en las zonas muestreadas se presentan una dinámica social compleja por la presencia de grupos al margen de la ley, por lo que los muestreos en la noche se realizaron como máximo hasta las nueve de la noche por motivos de seguridad.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Además de los encuentros visuales, se llevó a cabo la búsqueda activa de especímenes en hábitats donde era probable encontrarlos, como rocas, hojarasca y troncos. Asimismo, muchos anuros machos gastan mucha energía generando llamados y cantos propios de cada
+especie que atraen a las hembras de su misma especie (Christensen-Dalsgaard, 2009), por lo que se incluyeron registros auditivos para identificar anfibios que emiten llamados notorios (Lips et al., 2000). Estos registros fueron grabados con un teléfono celular, y posteriormente los registros fueron comparados con diferentes registros disponibles en diferentes plataformas (Acosta-Galvis, 2023; AmphibiaWeb, 2023). Esta metodología integral permitió obtener un panorama completo de la diversidad y la ecología de los anfibios y reptiles en la zona de estudio.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Avifauna: Se realizaron cinco transectos en el predio Paraguitos y seis en el predio Morrocoy (E1 y E2 en la vereda La Esperanza) buscando abarcar diferentes coberturas vegetales. Estos recorridos se efectuaron entre las 6:00 a.m. a 10:00 a.m. y de 4:00 p.m. a 6:00 p.m., horas de mayor actividad para este grupo. Para la determinación de las especies observadas se utilizó la Guía ilustrada de la Avifauna Colombiana (Ayerbe, 2018) y para la determinación de vocalizaciones se utilizó la base de datos de Xeno-canto (Fundación Xeno-canto, 2023). El listado de especies siguió la nomenclatura sugerida por la South American Classification Committee (Pearman et al., 2023).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: Se instalaron cámaras trampa en las ventanas de Cumaribo en Vichada y de Orocué en el departamento de Casanare. Para la ventana de Tame en el departamento de Arauca, se hicieron recorridos en transectos en busca de evidencias directas e indirectas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para el diseño del muestreo de mamíferos con la instalación de cámaras trampa previamente se diseñó una delimitación del área con 20 celdas, cada una con un área de 4km2 para asegurar la independencia de los datos obtenidos de cada cámara trampa y el registro de individuos en un rango de acción promedio de la especie, lo cual se relaciona con la cantidad de individuos promedio por km2 (Díaz-Pulido y Payán Garrido, 2012). Esta división por celdas favorece reconocer características propias del paisaje de cada celda, amenazas y otras características de la heterogeneidad de los diferentes escenarios. La preferencia de zonas de instalación fueron las zonas cerradas de bosque o vegetación secundaria para asegurar la toma de datos (Díaz-Pulido &amp; Payán Garrido, 2012).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se instalaron un total de 40 cámaras en todas las ventanas de trabajo. Previo a la instalación, las cámaras fueron configuradas cada una con su numeración de cámara, fecha, velocidad de obturación mínima de 0,6 segundos de distancia foto a foto, tamaño de imagen 32 megapíxeles, formato hibrido de (foto video), duración video 30 segundos, formato 24 horas, sensibilidad alta y otras características adicionales. Estas cámaras contaron con 8 baterías AA y una memoria SD para el almacenamiento de la información (32 gb – 64 gb) (Díaz-Pulido &amp; Payán Garrido, 2012).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La instalación de cámaras trampas estuvo acompañado de un formato de instalación que permite añadir información como fecha, temporada climática, cobertura, densidad vegetación, si es una zona de conflicto socio ambiental e información adicional que se considera relevante para caracterizar el hábitat.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Se seleccionó unas ventanas para cada departamento: De sur a norte, la primera de ellas se ubica en la parte nor-occidental del municipio de Cumaribo, departamento de Vichada, limitando en la esquina nor-occidental con el río tomo, límite con el municipio de Santa Rosalía (Vichada).  La ventana del departamento de Casanare se ubicó en la parte oriental del municipio de Orocué, ocupando en la esquina nor-oriental una parte del municipio de San Luis de Palenque (Casanare) y limitando en la esquina sur-oriental con el municipio de Puerto Gaitán (Meta). La tercera ventana de estudio se ubicó en la parte oriental del municipio de Tame, Arauca, limitando al oriente con el municipio de Puerto Rondón (Arauca), en la esquina nor- oriental con Arauquita (Arauca) y al sur con Hato Corozal (Casanare).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la caracterización del hábitat de la especie en las coberturas de las tres ventanas de estudio, se realizaron un total de 82 parcelas de muestreo. Para el caso de la ventana de Cumaribo se realizaron un total de 15 parcelas, en Orocué se realizaron 26 y en Tame 41 parcelas.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:57Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/tmrc1o">Parex Resources (Colombia) AG Sucursal, Fundación Orinoquía Biodiversa, Corporación Autónoma Regional de la Orinoquia - Corporinoquia (2025). Fauna y flora asociada al Plan de manejo y conservación del palo de aceite (Copaifera pubiflora) en los departamentos de Arauca, Casanare y Vichada. Version 1.2. Parex Resources Colombia - AG Sucursal. Occurrence dataset https://doi.org/10.15472/tmrc1o accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-parex.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

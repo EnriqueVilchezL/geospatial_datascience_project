@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="80eaf2ed-c5ec-4c36-a9b7-a0b7023a8edf"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/6mlap5</alternateIdentifier>
+        <alternateIdentifier>80eaf2ed-c5ec-4c36-a9b7-a0b7023a8edf</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=tick_island_zooarchaeological_data</alternateIdentifier>
+        <title>UF Environmental Archaeology Tick Island Zooarchaeological Data</title>
+        <creator>
+            <individualName>
+                <givenName>Kitty</givenName>
+                <surName>Emery</surName>
+            </individualName>
+            <organizationName>Florida Museum of Natural History</organizationName>
+            <positionName>Associate Curator</positionName>
+            <address>
+                <deliveryPoint>1659 Museum Rd.</deliveryPoint>
+                <city>Gainesville</city>
+                <administrativeArea>Florida</administrativeArea>
+                <postalCode>32611</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>352-273-1919</phone>
+            <electronicMailAddress>kemery@flmnh.ufl.edu</electronicMailAddress>
+            <onlineUrl>http://www.flmnh.ufl.edu/envarch/home/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-4031-1968</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Laura</givenName>
+                <surName>Brenskelle</surName>
+            </individualName>
+            <organizationName>Florida Museum of Natural History</organizationName>
+            <positionName>PhD Student</positionName>
+            <address>
+                <deliveryPoint>1659 Museum Rd</deliveryPoint>
+                <city>Gainesville</city>
+                <administrativeArea>Florida</administrativeArea>
+                <postalCode>32611</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>lbrensk@ufl.edu</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Kitty</givenName>
+                <surName>Emery</surName>
+            </individualName>
+            <organizationName>Florida Museum of Natural History</organizationName>
+            <positionName>Associate Curator</positionName>
+            <address>
+                <deliveryPoint>1659 Museum Rd</deliveryPoint>
+                <city>Gainesville</city>
+                <administrativeArea>Florida</administrativeArea>
+                <postalCode>32611</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>352-273-1919</phone>
+            <electronicMailAddress>kemery@flmnh.ufl.edu</electronicMailAddress>
+            <onlineUrl>http://www.flmnh.ufl.edu/envarch/home/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-4031-1968</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Michelle</givenName>
+                <surName>LeFebvre</surName>
+            </individualName>
+            <organizationName>Florida Museum of Natural History</organizationName>
+            <positionName>Postdoctoral Associate</positionName>
+            <address>
+                <deliveryPoint>1659 Museum Rd</deliveryPoint>
+                <city>Gainesville</city>
+                <administrativeArea>Florida</administrativeArea>
+                <postalCode>32611</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>mlefebvre@flmnh.ufl.edu</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Laura</givenName>
+                <surName>Brenskelle</surName>
+            </individualName>
+            <electronicMailAddress>lbrensk@gmail.com</electronicMailAddress>
+            <role>USER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Ripley P.</givenName>
+                <surName>Bullen</surName>
+            </individualName>
+            <organizationName>Florida Museum of Natural History</organizationName>
+            <positionName>Curator Emeritus</positionName>
+            <address>
+                <deliveryPoint>1659 Museum Rd.</deliveryPoint>
+                <city>Gainesville</city>
+                <administrativeArea>FL</administrativeArea>
+                <postalCode>32611</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Kitty</givenName>
+                <surName>Emery</surName>
+            </individualName>
+            <organizationName>Florida Museum of Natural History</organizationName>
+            <positionName>Associate Curator</positionName>
+            <address>
+                <deliveryPoint>1659 Museum Rd.</deliveryPoint>
+                <city>Gainesville</city>
+                <administrativeArea>FL</administrativeArea>
+                <postalCode>32611</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>352-273-1919</phone>
+            <electronicMailAddress>kemery@flmnh.ufl.edu</electronicMailAddress>
+            <onlineUrl>http://www.flmnh.ufl.edu/envarch/home/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-4031-1968</userId>
+            <role>CURATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Elizabeth</givenName>
+                <surName>Wing</surName>
+            </individualName>
+            <organizationName>Florida Museum of Natural History</organizationName>
+            <positionName>Curator Emeritus</positionName>
+            <address>
+                <deliveryPoint>1659 Museum Rd.</deliveryPoint>
+                <city>Gainesville</city>
+                <administrativeArea>FL</administrativeArea>
+                <postalCode>32611</postalCode>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2020-11-20
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Tick Island site 8VO24 zooarchaeological data. The data are curated in the Environmental Archaeology Laboratory, Florida Museum of Natural History.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Zooarchaeological Analysis
+
+1)Information and Excerpts from Jahn and Bullen (1978):
+
+“Food bones were also collected [during the surface surveys] and have been kindly identified by Dr. Elizabeth S. Wing, zooarchaeologist at the Florida State Museum. The result is presented in Table 3 according to collection areas. In the table, the first figure represents the number of bones of a species, the second the minimum number of individuals represented.” (Jahn and Bullen 1978: 15).
+
+Table 3 title: Identified bone from Section I at Tick Island. 
+
+Otto, L. Jahn and Bullen, Ripley P. (1978). The Tick Island Site, St. Johns River, Florida. In Adelaide K. Bullen and Jerald T. Milanich (Eds.), Florida Anthropological Society Publication 31(4), part 2.
+
+2) Information and excerpts from Fullilove (1974):
+
+Bill Fullilove analyzed faunal samples for a UF course (APY 574) under Elizabeth Wing. He analyzed materials from site areas designated G, B 7/15/67, C 7/29/67, F 10/14/67, and F 2/10/68 
+
+“Sometime after this Ripley P. Bullen made several collections of the preceramic areas of the midden. It is from this collection that the sample came.” (page 3).
+“The species, number of fragments, minimum number of individuals (MNI), and bone weight from each area are recorded on the catalogued species list included with this paper. The elements of each species, in each area, are listed on the accompanying species cards.” (page 3-4).
+
+Fullilove, Bill. (1974). Interpretation of a Faunal Sample from Tick Island Midden (VO 24). Zooarchaeology (APY 574) course manuscript. On file, Environmental Archaeology, Accession #0019, Florida Museum of Natural History, Gainesville.
+
+3) Information and excerpts from Malesky (1974)
+
+Karen Malesky analyzed faunal remains for a UF course (APY 574) under Elizabeth Wing. She describes the provenience as follows:
+“Today the midden has mostly been destroyed due to mining for drive-way fill. The top layers of shell and refuse have been removed and therefore the collection is a surface collection with no provenience other than grided off areas that were then given letters and dated.” (page 1)
+Analysis is described as “In the sample eighteen species were identifiable, with some of the birds (Aves) and fish (Osteichthyes) identifiable to only class.” (page 2)
+
+Malesky, Karen J. (1974). Tick Island: Faunal Remains. Zooarchaeology (APY 574) course manuscript. On file, Environmental Archaeology, Accession #0019, Florida Museum of Natural History, Gainesville.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.vertnet.org/archive.do?r=tick_island_zooarchaeological_data</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Site located near the St. Johns River in Volusia County, Florida, USA. 
+&quot;Tick Island can be reached by entering Lake Dexter at its union with the St. Johns River, continuing across it and along Spring Garden Creek until a landing is reached on the southern side of the creek.&quot; (Florida Master Site File)</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-81.54</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-81.38</eastBoundingCoordinate>
+                    <northBoundingCoordinate>29.14</northBoundingCoordinate>
+                    <southBoundingCoordinate>29.06</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Archaeological vertebrate and invertebrate identified taxa.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankValue>Metazoa</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Description of the zooarchaeological analysis of specimen records from the Tick Island site.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Kitty</givenName>
+                <surName>Emery</surName>
+            </individualName>
+            <organizationName>Florida Museum of Natural History</organizationName>
+            <positionName>Associate Curator</positionName>
+            <address>
+                <deliveryPoint>1659 Museum Rd.</deliveryPoint>
+                <city>Gainesville</city>
+                <administrativeArea>Florida</administrativeArea>
+                <postalCode>32611</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>352-273-1919</phone>
+            <electronicMailAddress>kemery@flmnh.ufl.edu</electronicMailAddress>
+            <onlineUrl>http://www.flmnh.ufl.edu/envarch/home/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-4031-1968</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>n/a</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Otto Jahn conducted surface surveys and excavations across the site. Six test pits were excavated (pits 1, 2, 3, 4, 5A, 5B) as well as three smaller unnamed pits (Jahn and Bullen 1978).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Information and Excerpts from Jahn and Bullen (1978):
+
+“Some shell was removed and sold during the 1920’s. As far as we know, no archaeological work was done at Tick Island after Clarence B. Moore’s 1981, 1982, and 1893 visits until Francis Bushnell made a surface survey of the site in 1959. His work was done after Mr. Wester Branton of DeLeon Springs had started to remove the site by dredge and barge for commercial purposes…Lastly, Otto Jahn visited the site 31 times between 1964 and 1968, made surface surveys, and dug a series of test pits.” (page iv). 
+ “Between 1964 and 1968 (when dredging ceased) 31 visits were made to the site [by Otto Jahn]. In addition several collections were made at the shell washer that could be associated with their source on the site. The shell was washed at the shell yard in DeLeon and many collectors secured their specimens there. Most of the material collected was exposed by the dredging operation due to time limitations and to the volume of material that existed in the underwater deposits.  However, several test pits were attempted.” (page 10-11). 
+
+Otto, L. Jahn and Bullen, Ripley P. (1978). The Tick Island Site, St. Johns River, Florida. In Adelaide K. Bullen and Jerald T. Milanich (Eds.), Florida Anthropological Society Publication 31(4), part 2.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Tick Island Site, St. Johns River, Florida</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Ripley</givenName>
+                    <surName>Bullen</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Otto</givenName>
+                    <surName>Jahn</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Excerpts from Otto and Bullen (1978):
+
+&quot;Tick Island is (or was) located in the St. Johns Valley, between Lake Dexter and Lake Woodruff.&quot; (page 7); &quot; Two large shell mounds were located on Tick Island, one on Tick Island on the north side and the other on Harris Creek to the south.&quot; &quot;For convenience the site was divided into four arbitrary sections. In Section I the mound probably reached an elevation of three to four feet above the water table.&quot; &quot;The height of the shell decreased gradually toward the west and was also lower on the north and east sides.&quot; (page 8); &quot;Section II was similar to Section I in general appearance with separation based on the intervening low area along Harris Creek.&quot; &quot;In Section II the mound also had an elevation of as much as two-three feet near the shore-line.&quot; (page 8). &quot;Section III reached a higher level elevation than Sections I and II, possibly as high as eight to ten feet in an elongated central portion.&quot; (page 8); &quot;Section IV consisted of a single large mound, the highest point on the site, reportedly as high as 25 feet.&quot; (page 9).
+“Vegetation on the site differed from the surrounding area. Presence of the shell apparently stabilized the soil, even in the lower areas, as trees up to two and three feet in diameter were present. These were larger and taller than in the surrounding swamp. Differences between the species composition of the vegetation on the site and both the swamp and the central ridge undoubtedly occur but have not been studied.” (page 10). 
+
+Otto, L. Jahn and Bullen, Ripley P. (1978). The Tick Island Site, St. Johns River, Florida. In Adelaide K. Bullen and Jerald T. Milanich (Eds.), Florida Anthropological Society Publication 31(4), part 2.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Information and excerpts from Otto and Bullen (1978: 11-20):
+
+Tables 1, 2, 3, and 4 report pottery types, bone, and additional artifacts (e.g., ceramic, bone, shell, and stone objects) recovered from surface collections and test pits. Various types of pottery in variable densities were recovered from all sections of the site. Pottery types included: St. Johns Plain, St. Johns Check Stamped, St. Johns Incised, St. Johns Pinched, St. Johns Punctated, Deptford, Norwood, fiber-tempered types. 
+
+“The available information from dredged material and test pits indicates that the northwestern (rear) part of the site was occupied during the preceramic Archaic period. The central part of the site was occupied during the Orange and Florida Transitional periods. The southern (front) part of the site was occupied during the Transitional, St. Johns I and II periods. It appears that the site was more or less continuously occupied throughout these periods, in contrast to most other sites in this area. During this time the expansion of the site towards the channel may have been due to a declining water level and then the front part of the site increased in depth as the water level increased. Base on the occurrence of St. Johns Check Stamped sherds as the last major type and the lack of historical items, it is believed that this site was abandoned before historic times.” (page 20).
+
+Otto, L. Jahn and Bullen, Ripley P. (1978). The Tick Island Site, St. Johns River, Florida. In Adelaide K. Bullen and Jerald T. Milanich (Eds.), Florida Anthropological Society Publication 31(4), part 2.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:51Z</dateStamp>
+                <citation>Emery K, Brenskelle L, LeFebvre M (2020). UF Environmental Archaeology Tick Island Zooarchaeological Data. Version 1.12. University of Florida Environmental Archaeology. Occurrence dataset https://doi.org/10.15468/6mlap5 accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Fullilove, Bill. (1974). Interpretation of a Faunal Sample from Tick Island Midden (VO 24). Zooarchaeology (APY 574) course manuscript. On file, Environmental Archaeology, Accession #0019, Florida Museum of Natural History, Gainesville.</citation>
+                <citation>Malesky, Karen J. (1974). Tick Island: Faunal Remains. Zooarchaeology (APY 574) course manuscript. On file, Environmental Archaeology, Accession #0019, Florida Museum of Natural History, Gainesville.</citation>
+                <citation identifier="http://ufdc.ufl.edu/UF00027829/00071/2j">Otto, L. Jahn and Bullen, Ripley P. (1978). The Tick Island Site, St. Johns River, Florida. In Adelaide K. Bullen and Jerald T. Milanich (Eds.), Florida Anthropological Society Publication 31(4), part 2.</citation>
+                <citation>Moore, Clarence B. (1894). Certain Shell Heaps of the St. Johns River, Florida, Hither to Unexplored. The American Naturalist.</citation>
+                <citation identifier="http://ufdc.ufl.edu/UF00027829/00134/28j">Bushnell, Francis F. (1960). The Harris Creek Site, Tick Island, Volusia County. The Florida Anthropologist 13(1):25-31.</citation>
+                <citation>Benson, Carl A. (1976). A Unique Wood Carving from Tick Island. The Florida Anthropologist 20(3-4):178-179.</citation>
+                <citation>vonBurger, D.L. (1972). A Supplemental Note on the Busycon Receptacle. Florida Anthropologist 25(2):73-76.</citation>
+                <citation>Cultural Resource Management, Inc. Tallahassee, Florida. (1978). Cultural Resource Reconnaissance of Lake Woodruff National Wildlife Refuge. Performed under contract with Interagency Archaeological Services--Atlanta. Contact No. PX5880-8-0205. Principal Investigators James J. Miller and John W. Griffin.</citation>
+                </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

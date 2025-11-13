@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="41f8f918-1a6b-4e69-89d3-0f570c38a9cb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/ucqxlm</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=india_uib</alternateIdentifier>
+        <alternateIdentifier>https://data.gbif.no/ipt/resource?r=india_uib</alternateIdentifier>
+        <alternateIdentifier>http://data.gbif.no/ipt/resource?r=india_uib</alternateIdentifier>
+        <alternateIdentifier>http://dev.gbif.no/ipt/resource?r=india_uib</alternateIdentifier>
+        <alternateIdentifier>http://gbif.no/ipt/resource.do?r=india_uib</alternateIdentifier>
+        <alternateIdentifier>41f8f918-1a6b-4e69-89d3-0f570c38a9cb</alternateIdentifier>
+        <title>Specimens from India at the University Museum at the University of Bergen</title>
+        <creator>
+            <individualName>
+                <givenName>Kari Loe</givenName>
+                <surName>Hjelle</surName>
+            </individualName>
+            <organizationName>University of Bergen</organizationName>
+            <address>
+                <deliveryPoint>Harald Hårfagresgt. 6</deliveryPoint>
+                <city>Bergen</city>
+                <postalCode>5020</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <phone>0047 55580000</phone>
+            <electronicMailAddress>post@um.uib.no</electronicMailAddress>
+            <onlineUrl>http://www.uib.no/en/universitymuseum</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Louis</givenName>
+                <surName>Boumans</surName>
+            </individualName>
+            <organizationName>NHM-UiO</organizationName>
+            <address>
+                <deliveryPoint>Sars gate 1</deliveryPoint>
+                <city>Oslo</city>
+                <postalCode>0562</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>louis.boumans@nhm.uio.no</electronicMailAddress>
+            <onlineUrl>http://www.nhm.uio.no/om/organisasjon/forskning-samlinger/personer/louisbou/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Louis</givenName>
+                <surName>Boumans</surName>
+            </individualName>
+            <organizationName>NHM-UiO</organizationName>
+            <address>
+                <deliveryPoint>Sars gate 1</deliveryPoint>
+                <city>Oslo</city>
+                <postalCode>0562</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <electronicMailAddress>louis.boumans@nhm.uio.no</electronicMailAddress>
+            <onlineUrl>http://www.nhm.uio.no/om/organisasjon/forskning-samlinger/personer/louisbou/</onlineUrl>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2024-02-09
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            This dataset includes specimens originating from India in the natural history collections at the University Museum of the the University of Bergen (UiB). &lt;br /&gt;&lt;br /&gt;<emphasis>Animals</emphasis>: The vertebrate collection contains 18 reptile specimens as well as a few bird eggs and fishes from India. There are no bird skins or mammals in this part of the collection. However, the osteology collection contains 8 craniums and skeletons, in some cases of the same individual. The museum in Bergen contains neither insects nor marine invertebrates from India. &lt;br /&gt;&lt;br /&gt;<emphasis>Plants and fungi</emphasis>: The vascular plant collection is likely to hold some specimens from India but these are difficult to find as the material is sorted taxonomically and not yet digitised. While the Fennoscandian herbarium had been digitised, there are as yet no plans for the digitisation of the general herbarium. Some 30% of the bryophyte herbarium has been digitised, including 41 specimens from India (10 of these where previously visible in the GBIF portal). Once the complete bryophyte herbarium is digitised (80 0000 specimens) there may be an estimated number of 150 mosses from India. Lichens and fungi have all been digitised and include 39 lichen specimens from India and no fungi. 34 lichen specimens where previously visible in the GBIF portal.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Much of the Norwegian natural history data has not yet been digitized, and digitization activities tend to prioritise Norwegian or Fennoscandian flora and fauna. The specimens included in this dataset will gradually be included in the museum collection database (MUSIT) and will then be removed from this dataset.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.no/archive.do?r=india_uib</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>India</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>65</westBoundingCoordinate>
+                    <eastBoundingCoordinate>97.35</eastBoundingCoordinate>
+                    <northBoundingCoordinate>35.96</northBoundingCoordinate>
+                    <southBoundingCoordinate>6</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <purpose><para>An international project in India to support capacity building in biodiversity informatics under the UN- program “Intergovernmental Platform for Biodiversity and Ecosystem Services (IPBES)”. The project aims to enhance decision making and improve nature management in India.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Kari Loe</givenName>
+                <surName>Hjelle</surName>
+            </individualName>
+            <organizationName>University of Bergen</organizationName>
+            <address>
+                <deliveryPoint>Harald Hårfagresgt. 6</deliveryPoint>
+                <city>Bergen</city>
+                <postalCode>5020</postalCode>
+                <country>NORWAY</country>
+            </address>
+            <phone>0047 55580000</phone>
+            <electronicMailAddress>post@um.uib.no</electronicMailAddress>
+            <onlineUrl>http://www.uib.no/en/universitymuseum</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:20Z</dateStamp>
+                <citation>Hjelle K L, Boumans L (2024). Specimens from India at the University Museum at the University of Bergen. Version 5.12. University of Bergen. Occurrence dataset https://doi.org/10.15468/ucqxlm accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Hanssen, F. (editor), Mathur, V.B., Athreya, V., Bhardwaj, R., Boumans, L., Cadman, M., Chavan, V., Ghosh, M., Lindgaard, A., Lofthus, Ø., Mehlum, F., Pandav, B., Punjabi, G.A., Talavàn, A.G., Talukdar, G., Valland, N., and Vang, R. 2014. Capacity building for Intergovernmental Platform for Biodiversity and Ecosystem Services (IPBES). Final report 2014: Indo- Norwegian pilot project on capacity building in biodiversity informatics for enhanced decision making, improved nature conservation and sustainable development. NINA Report.</citation>
+                <citation>Hanssen, F., Mathur, V., Athreya, V., Bakkestuen, V., Chavan, V., Lindgaard, A., Mehlum, F., González-Talaván, A., Vang, R. &amp; Valland, N. 2012. Capacity building for Intergovernmental Platform for Biodiversity and Ecosystem Services (IPBES). Progress report 2011: Indo-Norwegian pilot project on capacity building in biodiversity informatics for enhanced decision making, improved nature conservation and sustainable development. - NINA Report 801. 24 pp. ISSN: 1504-3312. ISBN: 978-82-426-2396-6.</citation>
+                </bibliography>
+                <resourceLogoUrl>http://kapd.h.uib.no/profilmanual/images/img01_elementer/UiBmerke_200_200_svhv.gif</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

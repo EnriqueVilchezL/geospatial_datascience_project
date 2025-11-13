@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="14222b05-ba75-4b41-abc6-fdc29d73c2bc"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/ueiniu</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=unipaz_campus-2022</alternateIdentifier>
+        <title>Monitoreo de la fauna asociada a un relicto de Bosque húmedo tropical en el año 2022</title>
+        <creator>
+            <individualName>
+                <givenName>Kelly Cristina</givenName>
+                <surName>Torres Angulo</surName>
+            </individualName>
+            <organizationName>Instituto Universitario de la Paz - UNIPAZ</organizationName>
+            <positionName>Vicerrectora</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <userId directory="http://orcid.org/">0000-0002-9973-1385</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Oscar Orlando</givenName>
+                <surName>Porras Atencia</surName>
+            </individualName>
+            <organizationName>Instituto Universitario de la Paz - UNIPAZ</organizationName>
+            <positionName>Rector</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <userId directory="http://orcid.org/">0000-0003-2493-2278</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Kevin</givenName>
+                <surName>González Gutiérrez</surName>
+            </individualName>
+            <organizationName>Instituto Universitario de la Paz - UNIPAZ</organizationName>
+            <positionName>Profesional de investigación</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <userId directory="http://orcid.org/">0000-0001-9978-0278</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Diana Marcela</givenName>
+                <surName>Sanchez Lobo</surName>
+            </individualName>
+            <organizationName>Instituto Universitario de la Paz - UNIPAZ</organizationName>
+            <positionName>Profesional de investigación</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>sanchezlobo1@hotmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-5432-8058</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Olga</givenName>
+                <surName>Fierro</surName>
+            </individualName>
+            <organizationName>Instituto Universitario de la Paz - UNIPAZ</organizationName>
+            <positionName>Profesional de investigación</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <userId directory="http://orcid.org/">0009-0005-1027-9388</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Fernando</givenName>
+                <surName>Corredor</surName>
+            </individualName>
+            <organizationName>Instituto Universitario de la Paz - UNIPAZ</organizationName>
+            <positionName>Profesional de investigación</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <userId directory="http://orcid.org/">0000-0002-4171-0477</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Diana Marcela</givenName>
+                <surName>Sanchez Lobo</surName>
+            </individualName>
+            <organizationName>Instituto Universitario de la Paz - UNIPAZ</organizationName>
+            <positionName>Profesional de investigación</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>sanchezlobo1@hotmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-5432-8058</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Kelly Cristina</givenName>
+                <surName>Torres Angulo</surName>
+            </individualName>
+            <organizationName>Instituto Universitario de la Paz - UNIPAZ</organizationName>
+            <positionName>Vicerrectora</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <userId directory="http://orcid.org/">0000-0002-9973-1385</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Oscar Orlando</givenName>
+                <surName>Porras Atencia</surName>
+            </individualName>
+            <organizationName>Instituto Universitario de la Paz - UNIPAZ</organizationName>
+            <positionName>Rector</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <userId directory="http://orcid.org/">0000-0003-2493-2278</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Kevin</givenName>
+                <surName>González Gutiérrez</surName>
+            </individualName>
+            <organizationName>Instituto Universitario de la Paz - UNIPAZ</organizationName>
+            <positionName>Profesional de investigación</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <userId directory="http://orcid.org/">0000-0001-9978-0278</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Diana Marcela</givenName>
+                <surName>Sanchez Lobo</surName>
+            </individualName>
+            <organizationName>Instituto Universitario de la Paz - UNIPAZ</organizationName>
+            <positionName>Profesional de investigación</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>sanchezlobo1@hotmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">000-0002-5432-8058</userId>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2023-09-18
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Se realizaron monitoreos de fauna (mamíferos, anfibios, reptiles y aves) en un relicto de Bosque húmedo tropical, dentro del municipio de Barrancabermeja (Santander) entre marzo y mayo del 2022. En los monitoreos se realizaron recorridos libres e instalación de redes de niebla, cámaras trampa, entre otros equipos, y todos los organismos encontrados u observados fueron fotografías e identificados hasta el nivel más bajo posible. En total se encontraron 532 registros y 114 especies.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Bosque húmedo tropical</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>mamíferos</keyword>
+            <keyword>reptiles</keyword>
+            <keyword>anfibios</keyword>
+            <keyword>aves</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=unipaz_campus-2022</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Municipio de Barrancabermeja, departamento de Santander - Colombia.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.987</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.647</eastBoundingCoordinate>
+                    <northBoundingCoordinate>7.188</northBoundingCoordinate>
+                    <southBoundingCoordinate>6.948</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2022-03-22
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-05-12
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Se registraron e identificaron 532 organismos asociados a los grupos de anfibios, reptiles, mamíferos y aves, de estos se logro identificar hasta especie el 99.8%. En el grupo de anfibios se encontró un total de 85 registros que representan 11 especies, de las cuales Leptodactylus fuscus y Pleurodema brachyops tienen la mayor cantidad de registros (14 registros), seguidas por Pristimantis gaigei (13 registros), Rhinella humboldti (11 registros) y Rhinella margaritifera (10 registros). En los reptiles, se encontraron 42 registros para 15 especies, de estas Loxopholis rugiceps tiene la mayor representación con 6 registros, seguida por Basiliscus basiliscus (5 registros), Gonatodes albogularis y Leptodeira ornata con 4 registros. Para mamíferos se tienen 169 registros de 21 especies, siendo Dicotyles tajacu la que presenta mayor número de registros (54), seguida de Dasyprocta punctata (34 registros), Cebus versicolor (12 registros), Carollia perspicillata (10 registros) y Cuniculus paca (8 registros). Por último, las aves presentaron la mayor cantidad de observaciones: 236 registros de 67 especies, donde Tinamus major presento el mayor número de registros (14 registros) seguido de Forpus conspicillatus y Manacus manacus (9 registros).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chordata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Kelly Cristina</givenName>
+                <surName>Torres Angulo</surName>
+            </individualName>
+            <organizationName>Instituto Universitario de la Paz - UNIPAZ</organizationName>
+            <positionName>Vicerrectora</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <userId directory="http://orcid.org/">0000-0002-9973-1385</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Oscar Orlando</givenName>
+                <surName>Porras Atencia</surName>
+            </individualName>
+            <organizationName>Instituto Universitario de la Paz - UNIPAZ</organizationName>
+            <positionName>Rector</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <userId directory="http://orcid.org/">0000-0003-2493-2278</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Kevin</givenName>
+                <surName>González Gutiérrez</surName>
+            </individualName>
+            <organizationName>Instituto Universitario de la Paz - UNIPAZ</organizationName>
+            <positionName>Profesional de investigación</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+            </address>
+            <userId directory="http://orcid.org/">0000-0001-9978-0278</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Diana Marcela</givenName>
+                <surName>Sanchez Lobo</surName>
+            </individualName>
+            <organizationName>Instituto Universitario de la Paz - UNIPAZ</organizationName>
+            <positionName>Profesional de investigación</positionName>
+            <address>
+                <city>Barrancabermeja</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>sanchezlobo1@hotmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-5432-8058</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Todos los días de monitoreo se realizaron recorridos libres, en donde se registraron todos los organismos avistados y se reportaron todos los indicios de fauna silvestre (huellas, heces y madrigueras).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se instalaron redes de niebla y cámaras trampa a lo largo del área de estudio y posteriormente las fotografías capturadas fueron descargadas y revisadas para hacer la identificación de los todos los organismos captados en campo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los organismos atrapados en las redes fueron fotografiados e identificados.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Relicto de bosque húmedo tropical, ubicado en el Instituto Universitario de la Paz (Barrancabermeja - Santander)</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Con el fin de identificar la fauna asociada al relicto de bosque, se realizaron recorridos libres por los diferentes tipos de coberturas, tomando fotografías de todos los organismos encontrados y realizando su identificación, para algunos puntos se instalaron redes de niebla y cámaras trampa.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Fauna asociada a un bosque húmedo tropical de Barrancabermeja, Santander</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Kelly Cristina</givenName>
+                    <surName>Torres Angulo</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0002-9973-1385</userId>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Oscar Orlando</givenName>
+                    <surName>Porras Atencia</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0003-2493-2278</userId>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Kevin</givenName>
+                    <surName>González Gutiérrez</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0001-9978-0278</userId>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Diana Marcela</givenName>
+                    <surName>Sanchez Lobo</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0002-5432-8058</userId>
+                    <role>EDITOR</role>
+                </personnel>
+                <abstract>
+                    <para>En el marco del proyecto &quot;CONEXIÓN VIAL DEL PUENTE VEHICULAR GUILLERMO GAVIRIA SOBRE EL RIO MAGDALENA CON LA TRONCAL DEL MAGDALENA MEDIO (RUTA 45)” se realiza el monitoreo de la fauna asociada a un relicto de bosque húmedo tropical, en el Instituto Universitario de la Paz (UNIPAZ).</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:03Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/ueiniu">Torres Angulo K C, Porras Atencia O O, González Gutiérrez K, Sanchez Lobo D M, Fierro O, Corredor F (2023). Monitoreo de la fauna asociada a un relicto de Bosque húmedo tropical en el año 2022. Instituto Universitario de la Paz. Occurrence dataset https://doi.org/10.15472/ueiniu accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/ipt/unipaz.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

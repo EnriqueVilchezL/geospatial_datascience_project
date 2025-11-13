@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="b9afe2d0-b264-4422-bf8c-096b2a53c18f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.14284/620</alternateIdentifier>
+        <alternateIdentifier>https://ipt.vliz.be/eurobis/resource?r=arms_coi_2018-20</alternateIdentifier>
+        <alternateIdentifier>b9afe2d0-b264-4422-bf8c-096b2a53c18f</alternateIdentifier>
+        <title>ARMS-MBON data on long-term monitoring of hard-bottom communities: COI results from 2018-2020</title>
+        <creator>
+            <individualName>
+                <givenName>Matthias</givenName>
+                <surName>Obst</surName>
+            </individualName>
+            <organizationName>University of Gothenburg; Faculty of Science; Department of Marine Sciences</organizationName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Katrina</givenName>
+                <surName>Exter</surName>
+            </individualName>
+            <organizationName>Vlaams Instituut voor de Zee</organizationName>
+            <address>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>katrina.exter@vliz.be</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-5911-1536</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Christina</givenName>
+                <surName>Pavloudi</surName>
+            </individualName>
+            <organizationName>Hellenic Centre for Marine Research; Institute of Marine Biology, Biotechnology and Aquaculture</organizationName>
+            <userId directory="https://orcid.org/">0000-0001-5106-6067</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Justine</givenName>
+                <surName>Pagnier</surName>
+            </individualName>
+            <organizationName>University of Gothenburg; Faculty of Science; Department of Marine Sciences</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-6531-1374</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Amatzia</givenName>
+                <surName>Genin</surName>
+            </individualName>
+            <organizationName>The Interuniversity Institute for Marine Sciences Of Eilat</organizationName>
+            <userId directory="https://orcid.org/">0000-0001-8239-8902</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Piotr</givenName>
+                <surName>Balazy</surName>
+            </individualName>
+            <organizationName>Polish Academy of Sciences; Institute of Oceanology</organizationName>
+            <address>
+                <country>POLAND</country>
+            </address>
+            <electronicMailAddress>balazy@iopan.pl</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-1126-3151</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Caroline</givenName>
+                <surName>Broudin</surName>
+            </individualName>
+            <organizationName>Sorbonne Université; Sorbonne Université/CNRS, Station Biologique de Roscoff</organizationName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ibon</givenName>
+                <surName>Cancio</surName>
+            </individualName>
+            <organizationName>University of the Basque country; Plentzia Marine Station</organizationName>
+            <userId directory="https://orcid.org/">0000-0003-4841-0079</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Maciej</givenName>
+                <surName>Chełchowski</surName>
+            </individualName>
+            <organizationName>Polish Academy of Sciences; Institute of Oceanology</organizationName>
+            <address>
+                <country>POLAND</country>
+            </address>
+            <electronicMailAddress>chelchowski@iopan.pl</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-5742-1960</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Nathan</givenName>
+                <surName>Chrismas</surName>
+            </individualName>
+            <organizationName>Marine Biological Association of the UK</organizationName>
+            <address>
+                <country>UNITED_KINGDOM</country>
+            </address>
+            <electronicMailAddress>natchr@mba.ac.uk</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-2165-3102</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Thierry</givenName>
+                <surName>Comtet</surName>
+            </individualName>
+            <organizationName>Sorbonne Université; Sorbonne Université/CNRS, Station Biologique de Roscoff</organizationName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Thanos</givenName>
+                <surName>Dailianis</surName>
+            </individualName>
+            <organizationName>Hellenic Centre for Marine Research; Institute of Marine Biology, Biotechnology and Aquaculture</organizationName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Nauras</givenName>
+                <surName>Daraghmeh</surName>
+            </individualName>
+            <organizationName>University of Gothenburg; Faculty of Science; Department of Marine Sciences</organizationName>
+            <userId directory="https://orcid.org/">0000-0001-8261-824X</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Klaas</givenName>
+                <surName>Deneudt</surName>
+            </individualName>
+            <organizationName>Vlaams Instituut voor de Zee</organizationName>
+            <address>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>klaas.deneudt@vliz.be</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-8559-3508</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Oihane</givenName>
+                <surName>Diaz de Cerio</surName>
+            </individualName>
+            <organizationName>University of the Basque country; Plentzia Marine Station</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-5605-8434</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jose</givenName>
+                <surName>González</surName>
+            </individualName>
+            <organizationName>University of Vigo; Departamento de Ecología y Biología Animal; Station of marine Science of Toralla</organizationName>
+            <userId directory="https://orcid.org/">0000-0003-1576-9819</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Laura</givenName>
+                <surName>Kauppi</surName>
+            </individualName>
+            <organizationName>University of Helsinki; Tvärminne Zoological Station</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-3620-8095</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jon Bent</givenName>
+                <surName>Kristoffersen</surName>
+            </individualName>
+            <organizationName>Hellenic Centre for Marine Research; Institute of Marine Biology, Biotechnology and Aquaculture</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-8804-1864</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Piotr</givenName>
+                <surName>Kuklinski</surName>
+            </individualName>
+            <organizationName>Polish Academy of Sciences; Institute of Oceanology</organizationName>
+            <address>
+                <country>POLAND</country>
+            </address>
+            <electronicMailAddress>kuki@iopan.pl</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-1507-215X</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Rafal</givenName>
+                <surName>Lasota</surName>
+            </individualName>
+            <organizationName>University of Gdansk; Faculty of Biology, Geography and Oceanology; Institute of Oceanography</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-2745-3515</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Laurent</givenName>
+                <surName>Lévêque</surName>
+            </individualName>
+            <organizationName>Sorbonne Université; Sorbonne Université/CNRS, Station Biologique de Roscoff</organizationName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Levy</givenName>
+                <surName>Liraz</surName>
+            </individualName>
+            <organizationName>The Interuniversity Institute for Marine Sciences Of Eilat</organizationName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Stéphane</givenName>
+                <surName>Loisel</surName>
+            </individualName>
+            <organizationName>Sorbonne Université; Sorbonne Université/CNRS, Station Biologique de Roscoff</organizationName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Magdalena</givenName>
+                <surName>Małachowicz</surName>
+            </individualName>
+            <organizationName>Polish Academy of Sciences; Institute of Oceanology</organizationName>
+            <address>
+                <country>POLAND</country>
+            </address>
+            <electronicMailAddress>mwarzecha@iopan.pl</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-3088-9619</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Borut</givenName>
+                <surName>Mavric</surName>
+            </individualName>
+            <organizationName>National Institute of Biology; Marine Biological Station Piran</organizationName>
+            <address>
+                <country>SLOVENIA</country>
+            </address>
+            <electronicMailAddress>borut.mavric@nib.si</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jonas</givenName>
+                <surName>Mortelmans</surName>
+            </individualName>
+            <organizationName>Vlaams Instituut voor de Zee</organizationName>
+            <address>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>jonas.mortelmans@vliz.be</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-8781-7915</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Estefanía</givenName>
+                <surName>Paredes Rosendo</surName>
+            </individualName>
+            <organizationName>University of Vigo; Departamento de Ecología y Biología Animal; Station of marine Science of Toralla</organizationName>
+            <userId directory="https://orcid.org/">0000-0001-8829-360X</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Anita</givenName>
+                <surName>Poćwierz-Kotus</surName>
+            </individualName>
+            <organizationName>Polish Academy of Sciences; Institute of Oceanology</organizationName>
+            <address>
+                <country>POLAND</country>
+            </address>
+            <electronicMailAddress>anita@iopan.pl</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-6667-6175</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Henning</givenName>
+                <surName>Reiss</surName>
+            </individualName>
+            <organizationName>Nord University; Faculty of Biosciences and Aquaculture</organizationName>
+            <userId directory="https://orcid.org/">0000-0003-1393-0269</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ioulia</givenName>
+                <surName>Santi</surName>
+            </individualName>
+            <organizationName>European Marine Biological Research Centre</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-0202-8256</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jostein</givenName>
+                <surName>Solbakken</surName>
+            </individualName>
+            <organizationName>University of Helsinki; Tvärminne Zoological Station</organizationName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jesús</givenName>
+                <surName>Souza Troncoso</surName>
+            </individualName>
+            <organizationName>University of Vigo; Ecology and Animal Biology Department; Facultad de Ciencias do Mar</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-7305-6879</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Peter Anton</givenName>
+                <surName>Staehr</surName>
+            </individualName>
+            <organizationName>University of Aarhus; Faculty of Technical Sciences; Department of Ecoscience</organizationName>
+            <userId directory="http://orcid.org/">0000-0002-1580-4875</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Francisco Javier</givenName>
+                <surName>Tajadura</surName>
+            </individualName>
+            <organizationName>University of the Basque country; Plentzia Marine Station</organizationName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jakob</givenName>
+                <surName>Thyrring</surName>
+            </individualName>
+            <organizationName>University of Aarhus; Faculty of Technical Sciences; Department of Ecoscience</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-1029-3105</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Frédérique</givenName>
+                <surName>Viard</surName>
+            </individualName>
+            <organizationName>Sorbonne Université; Sorbonne Université/CNRS, Station Biologique de Roscoff</organizationName>
+            <userId directory="https://orcid.org/">0000-0001-5603-9527</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Haris</givenName>
+                <surName>Zafeiropoulos</surName>
+            </individualName>
+            <organizationName>Hellenic Centre for Marine Research; Institute of Marine Biology, Biotechnology and Aquaculture</organizationName>
+            <userId directory="https://orcid.org/">0000-0002-4405-6802</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Malgorzata</givenName>
+                <surName>Zbawicka</surName>
+            </individualName>
+            <organizationName>Polish Academy of Sciences; Institute of Oceanology</organizationName>
+            <address>
+                <country>POLAND</country>
+            </address>
+            <electronicMailAddress>mzbawicka@iopan.pl</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-5156-6184</userId>
+        </creator>
+        <creator>
+            <organizationName>University of Gothenburg; Faculty of Science; Department of Marine Sciences</organizationName>
+        </creator>
+        <creator>
+            <organizationName>Vlaams Instituut voor de Zee</organizationName>
+            <address>
+                <country>BELGIUM</country>
+            </address>
+        </creator>
+        <creator>
+            <organizationName>Hellenic Centre for Marine Research; Institute of Marine Biology, Biotechnology and Aquaculture</organizationName>
+        </creator>
+        <creator>
+            <organizationName>The Interuniversity Institute for Marine Sciences Of Eilat</organizationName>
+        </creator>
+        <creator>
+            <organizationName>Polish Academy of Sciences; Institute of Oceanology</organizationName>
+            <address>
+                <country>POLAND</country>
+            </address>
+        </creator>
+        <creator>
+            <organizationName>Sorbonne Université; Sorbonne Université/CNRS, Station Biologique de Roscoff</organizationName>
+        </creator>
+        <creator>
+            <organizationName>University of the Basque country; Plentzia Marine Station</organizationName>
+        </creator>
+        <creator>
+            <organizationName>Marine Biological Association of the UK</organizationName>
+            <address>
+                <country>UNITED_KINGDOM</country>
+            </address>
+        </creator>
+        <creator>
+            <organizationName>University of Vigo; Departamento de Ecología y Biología Animal; Station of marine Science of Toralla</organizationName>
+        </creator>
+        <creator>
+            <organizationName>University of Helsinki; Tvärminne Zoological Station</organizationName>
+        </creator>
+        <creator>
+            <organizationName>University of Gdansk; Faculty of Biology, Geography and Oceanology; Institute of Oceanography</organizationName>
+        </creator>
+        <creator>
+            <organizationName>National Institute of Biology; Marine Biological Station Piran</organizationName>
+            <address>
+                <country>SLOVENIA</country>
+            </address>
+        </creator>
+        <creator>
+            <organizationName>Nord University; Faculty of Biosciences and Aquaculture</organizationName>
+        </creator>
+        <creator>
+            <organizationName>European Marine Biological Research Centre</organizationName>
+        </creator>
+        <creator>
+            <organizationName>University of Vigo; Ecology and Animal Biology Department; Facultad de Ciencias do Mar</organizationName>
+        </creator>
+        <creator>
+            <organizationName>University of Aarhus; Faculty of Technical Sciences; Department of Ecoscience</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>Flanders Marine Institute (VLIZ)</organizationName>
+            <address>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>info@vliz.be</electronicMailAddress>
+            <onlineUrl>https://www.vliz.be</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Katrina</givenName>
+                <surName>Exter</surName>
+            </individualName>
+            <organizationName>Vlaams Instituut voor de Zee</organizationName>
+            <address>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>katrina.exter@vliz.be</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-5911-1536</userId>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Katrina</givenName>
+                <surName>Exter</surName>
+            </individualName>
+            <organizationName>Vlaams Instituut voor de Zee</organizationName>
+            <address>
+                <country>BELGIUM</country>
+            </address>
+            <electronicMailAddress>katrina.exter@vliz.be</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-5911-1536</userId>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <pubDate>
+                2025-09-17
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>&lt;p&gt;ARMS-MBON is a network of more than 25 partners who deploy Autonomous Reef Monitoring Structures (ARMS) settlement units in the vicinity of marine stations and Long-term Ecological Research sites in European coastal waters and Ant/arctica. After a few months the units are brought up, and visual, photographic, and genetic assessments are made of the lifeforms that settled on them. The collected data are published (see the related datasets and GitHub links listed in this record) and the omics data analysed.&amp;nbsp;&lt;/p&gt;&lt;p&gt;In this record we include the outputs of our analysis of the COI data from 2018-2020. The analysis used the PEMA bioinformatics software, and the resulting taxonomics inventory has been submitted as DwCA to (Eur)OBIS. In addition, all the PEMA inputs and outputs can be found on the ARMS-MBON GitHub site (see links in this record), and the subset of the sampling data to which these COI results are linked can also be found on the ARMS-MBON GitHub site.&lt;/p&gt;</para>
+        </abstract>
+        <keywordSet>
+            <keyword>ANE, Norway, Vestfjorden</keyword>
+            <keyword>ANE, France, Brittany, Morlaix Bay</keyword>
+            <keywordThesaurus>ASFA Geoterms</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>ASSEMBLEPlus Joint Research Activity 1</keyword>
+            <keywordThesaurus>Assemble KO Types</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Species diversity</keyword>
+            <keyword>Benthic communities</keyword>
+            <keyword>Long-term records</keyword>
+            <keyword>Biodiversity</keyword>
+            <keywordThesaurus>ASFA Thesaurus List</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Sea regions</keyword>
+            <keyword>Bio-geographical regions</keyword>
+            <keyword>Habitats and biotopes</keyword>
+            <keywordThesaurus>INSPIRE themes</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Geoscientific Information</keyword>
+            <keyword>Oceans</keyword>
+            <keyword>Biota</keyword>
+            <keyword>Environment</keyword>
+            <keywordThesaurus>INSPIRE Topics</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>EurOBIS calculated BBOX</keyword>
+            <keywordThesaurus>Geoterms no link Marine Regions</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Invasive species</keyword>
+            <keyword>Genome analysis</keyword>
+            <keywordThesaurus>CAB Thesaurus</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Metadata not evaluated</keyword>
+            <keyword>Metadata non conformant</keyword>
+            <keywordThesaurus>INSPIRE Conformity</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>No limitations to public access</keyword>
+            <keywordThesaurus>INSPIRE Limitations on public access</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>WGS84 (EPSG:4326)</keyword>
+            <keywordThesaurus>Coordinate Reference System</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>XYZ ASCII</keyword>
+            <keywordThesaurus>Spatial data formats</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://emodnet.ec.europa.eu/geonetwork/srv/eng/catalog.search#/metadata/6d617269-6e65-696e-666f-000000008357</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.vliz.be/eurobis/archive.do?r=arms_coi_2018-20</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>13E1</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>85G5</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>Abra de Bilbao</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>ANE, France, Brittany, Bay of Morlaix</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>ANE, Norway, Vestfjorden</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>Belgian part of the North Sea</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>Crete Island</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>EurOBIS calculated BBOX &gt; station Bounding Box</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-8.7787</westBoundingCoordinate>
+                    <eastBoundingCoordinate>34.934444</eastBoundingCoordinate>
+                    <northBoundingCoordinate>78.213028</northBoundingCoordinate>
+                    <southBoundingCoordinate>29.50555</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>Greenlandic part of the Greenland Sea</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>Gulf of Piran</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>Israeli part of the Gulf of Aqaba</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>Kosterfjorden-Väderöfjorden</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>Læsø, Sydlige del</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>Penzé Estuary</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>Plymouth Sound</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>Tammisaaren Ja Hangon Saariston Ja Pohjanpitäjänlahden Merensuojelualue</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <geographicCoverage>
+                <geographicDescription>Zatoka Pucka</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2018-04-18
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2020-11-11
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2018-04-18
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2020-12-11
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:1360</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Actiniaria</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:1839</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Ascidiacea</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:148899</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bacillariophyceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:111802</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Barentsia gracilis (M. Sars)</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:104906</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Branchiostoma lanceolatum (Pallas1774)</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:801</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chlorophyta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:111032</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Crisia Lamouroux, 1812</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:1066</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Subphylum</taxonRankName>
+                    <taxonRankValue>Crustacea</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:164811</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Demospongiae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:19542</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Dinophyceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:1806</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Echinodermata</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:115104</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Emiliania huxleyi (Lohmann) Hay &amp; Mohler, 1967</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:1828</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Infraphylum</taxonRankName>
+                    <taxonRankValue>Gnathostomata</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:1795</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Gymnolaemata</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:1337</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Hydrozoa</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:101060</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Kinorhyncha</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:106401</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Mnemiopsis leidyi (Agassiz, 1865)</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:51</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Mollusca</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:345465</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Ochrophyta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:2036</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Subclass</taxonRankName>
+                    <taxonRankValue>Oligochaeta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:22154</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Oomycota</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:131979</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Oscarella</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:122307</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Palaeonemertea</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:883</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polychaeta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:101160</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Priapulus caudatus Lamarck, 1816</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:479175</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Subphylum</taxonRankName>
+                    <taxonRankValue>Rhabditophora</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:1268</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sipuncula</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:2304</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Spiliphera</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:132251</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sycon ciliatum (Fabricius)</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:134974</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Testudinella clypeata (Müller, 1786)</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>urn:lsid:marinespecies.org:taxname:162961</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thraustochytrium aureum Goldstein, 1963b</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Matthias</givenName>
+                <surName>Obst</surName>
+            </individualName>
+            <organizationName>University of Gothenburg; Faculty of Science; Department of Marine Sciences</organizationName>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:12Z</dateStamp>
+                <citation identifier="https://dx.doi.org/10.14284/620">Obst, M.; Exter, K.M.; Pavloudi, C.; Pagnier, J.; Genin, A.; Balazy, P.; Broudin, C.; Cancio, I.; Chełchowski, M.; Chrismas, N.; Comtet, T.; Dailianis, T.; Daraghmeh, N.; Deneudt, K.; Diaz de Cerio, O.; González, J.; Kauppi, L.; Kristoffersen, J.B.; Kukliński, P.; Lasota, R.; Lévêque, L.; Liraz, L.; Loisel, S.; Małachowicz, M.; Mavric, B.; Mortelmans, J.; Paredes Rosendo, E.; Poćwierz-Kotus, A.; Reiss, H.; Santi, I.; Solbakken, J.; Souza Troncoso, J.; Staehr, P.; Tajadura, J.; Thyrring, J.; Viard, F.; Zafeiropoulos, H.; Zbawicka, M.; University of Gothenburg, Faculty of Science, Department of Marine Sciences: Sweden; Flanders Marine Institute: Belgium; Hellenic Centre for Marine Research, Institute of Marine Biology, Biotechnology and Aquaculture: Greece; The Interuniversity Institute for Marine Sciences Of Eilat: Israel; Polish Academy of Sciences, Institute of Oceanology: Poland; Sorbonne Université, Station Biologique de Roscoff: France; University of the Basque country, Plentzia Marine Station: Spain; Marine Biological Association of the UK: United Kingdom; University of Vigo, Ecology and Animal Biology Department, Station of marine Science of Toralla: Spain; University of Helsinki, Tvärminne Zoological Station: Finland; University of Gdansk, Faculty of Biology, Geography and Oceanology, Institute of Oceanography: Poland; National Institute of Biology, Marine Biological Station Piran: Slovenia; Nord University, Faculty of Bioscience and Aquaculture: Norway; &amp;nbsp;European Marine Biological Research Centre: France; University of Vigo, Ecology and Animal Biology Department, Faculty of Marine Sciences: Spain; University of Aarhus, Faculty of Technical Sciences, Department of Ecoscience: Denmark; (2020): ARMS-MBON data on long-term monitoring of hard-bottom communities: COI results from 2018-2020 https://dx.doi.org/10.14284/620 accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>Dataset dedicated website</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>HTML</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://data.arms-mbon.org/</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>Online dataset</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>HTML</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://emodnet.ec.europa.eu/geoviewer/?layers=6d617269-6e65-696e-666f-000000001510:1:1&amp;basemap=ebwbl&amp;active=12639&amp;bounds=-12530604,-7655416,12530604,7655416&amp;filters=12639:datasetid__datasetid=8357--&amp;projection=EPSG:3857</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>Online dataset</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>HTML</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://www.eurobis.org/toolbox/en/download/occurrence/dataset/8357</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>GBIF dataset</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>HTML</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://www.gbif.org/dataset/b9afe2d0-b264-4422-bf8c-096b2a53c18f</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>INSPIRE Download Service (WFS)</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>HTML</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://geo.vliz.be/geoserver/Dataportal/wfs?service=wfs&amp;version=1.1.0&amp;typeName=eurobis-obisenv_full&amp;request=GetFeature&amp;outputFormat=text%2Fcsv&amp;viewParams=datasetid%3A8357</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>INSPIRE WMS</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>HTML</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://geo.vliz.be/geoserver/wms?service=WMS&amp;request=getCapabilities&amp;layer=Dataportal:eurobis_rasters-obisenv</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>Online dataset</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>HTML</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://github.com/arms-mbon/analysis_release_001</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>Online dataset</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>HTML</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://github.com/arms-mbon/data_release_001</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>IPT</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>HTML</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.vliz.be/eurobis/resource?r=arms_coi_2018-20</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>Online dataset</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>HTML</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://obis.org/dataset/066f002f-58d5-4687-bdb8-b39cdaef0c2b</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>Programme</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>HTML</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://www.arms-mbon.eu</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>Metadata</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>HTML</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://www.eurobis.org/imis?dasid=8357</url>
+                        </online>
+                    </distribution>
+                </physical>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

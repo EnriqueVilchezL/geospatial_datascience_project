@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="82ced78b-486e-41d2-b61f-32ed19964c65"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/mpsjrc</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=parex_fauna-flora_boranda</alternateIdentifier>
+        <title>Biodiversidad asociada al Estudio de Impacto Ambiental (EIA) área de desarrollo Boranda</title>
+        <creator>
+            <individualName>
+                <surName>Parex Resources (Colombia) AG Sucursal</surName>
+            </individualName>
+            <organizationName>Parex Resources (Colombia) AG Sucursal</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Cl. 113 #7 21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Atención Social Integral ASI S.A.S.</surName>
+            </individualName>
+            <organizationName>Atención Social Integral ASI S.A.S.</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 113 # 7 – 45 Torre B Oficina 1009 Teleport Business Park</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 5082610</phone>
+            <electronicMailAddress>comercial@asiltda.co</electronicMailAddress>
+            <onlineUrl>https://www.asiltda.co/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">atencion-social-integral-asi-ltda</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Parex Resources (Colombia) AG Sucursal</surName>
+            </individualName>
+            <organizationName>Parex Resources (Colombia) AG Sucursal</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Cl. 113 #7 21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </metadataProvider>
+        <pubDate>
+                2024-04-22
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El presente conjunto de datos está relacionado con las actividades de licenciamiento ambiental para la explotación de hidrocarburos convencionales en cumplimiento de los lineamientos establecidos en el Capítulo 3 Licencias Ambientales, del Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible 1076 del 2015. El EIA se elaboró según los Términos de Referencia para proyectos de explotación de hidrocarburos identificados con el código HI-TER-1-03 y adoptados por el Ministerio de Ambiente, Vivienda y Desarrollo Territorial – MAVDT (Actualmente Ministerio de Ambiente y Desarrollo Sostenible - MADS) mediante la Resolución 1544 del 06 de agosto de 2010. Además de los lineamientos establecidos en la Metodología para presentación de Estudios Ambientales adoptada por la Resolución 1503 del 04 de agosto del 2010 del Ministerio de Ambiente Vivienda y Desarrollo Territorial - MAVDT.</para>
+<para>El Área de Desarrollo Boranda cuenta con una extensión de 16.336,18 ha (hectáreas), la cual está ubicada en jurisdicción de los municipios de San Alberto (Cesar), La Esperanza (Norte de Santander) y Rionegro (Santander). Los 2.741 registros biológicos de este recurso fueron tomados en noviembre del 2019 mediante la implementación de transectos de observación, muestreos de fustales, cámaras trampa, encuestas, encuentros ocasionales, entre otros. Taxonómicamente se encuentra dividido en los reinos: Animalia (1.214), Plantae (1.123) y Fungi (410).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Cámara trampa</keyword>
+            <keyword>Transecto de ancho variable</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Fauna silvestre</keyword>
+            <keyword>Red de niebla</keyword>
+            <keyword>EIA</keyword>
+            <keyword>Flora fustal</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=parex_fauna-flora_boranda</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El Área de Desarrollo Boranda cuenta con una extensión de 16.336,18 ha (hectáreas), la cual está ubicada en jurisdicción de los municipios de San Alberto (Cesar), La Esperanza (Norte de Santander) y Rionegro (Santander).</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.653</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.492</eastBoundingCoordinate>
+                    <northBoundingCoordinate>7.782</northBoundingCoordinate>
+                    <southBoundingCoordinate>7.583</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2019-11-13
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-11-27
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>1.214 registros biológicos pertenecientes al reino Animalia, distribuidos en 4 clases, 33 órdenes, 85 familias, 183 géneros y 212 especies. Del total, un 99.5% fue identificado a nivel de especie y el 0.5% restante identificado a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>1.123 registros biológicos pertenecientes al reino Plantae, distribuidos en 4 clases, 27 órdenes, 45 familias, 100 géneros y 62 especies. Del total, un 40% fue identificado a nivel de especie y un 60% identificado a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Equisetopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>410 registros biológicos pertenecientes al reino Fungi, distribuidos en 5 clases, 9 órdenes, 15 familias, 27 géneros y 34 especies. Del total, un 73.1% fue identificado a nivel de especie y un 26.9% identificado a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Agaricomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Dothideomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Laura</givenName>
+                <surName>Lozano</surName>
+            </individualName>
+            <organizationName>Parex Resources (Colombia) AG Sucursal</organizationName>
+            <positionName>Profesional ambiental</positionName>
+            <address>
+                <deliveryPoint>Cl. 113 #7 21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>colaborador.ambientalv4@parexresources.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FAUNA - HERPETOFAUNA: Para el registro de las especies de anfibios y reptiles presentes en el área de estudio del proyecto, se implementó el método de búsqueda VES (por sus siglas en inglés, Visual Encounter Surveys) y remoción. Este método, consiste en recorrer durante un tiempo establecido un área o hábitat determinado procurando abarcar los picos de mayor actividad conocidos para las especies de interés, por lo tanto, dichos recorridos fueron realizados en las horas de la mañana de 8:00 a 12:00 y durante la noche 18:00 hasta las 22:00 horas (Crump &amp; Scott 1994), en todas y cada una de las coberturas de la tierra en cada uno de los ecosistemas identificado en el área de influencia. De ser necesario, algunos animales fueron capturados para su identificación, manipulandolos por medio de un gancho herpetológico de ser necesario, los que no fueron identificados fácilmente, se llevaron a un sitio adecuado en bolsa de tela o bolsa Ziploc con vegetación y agua, se hizo la identificación del ejemplar con el registro fotográfico y se liberó a la hora y en el lugar donde se encontró. Los transectos de observación, registro y captura de individuos fueron georreferenciados por medio de un GPS, estos se realizaron dentro de las zonas que se seleccionaran dentro del área de influencia.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los individuos capturados fueron comparados con guías de campo y la información fue reportada en los formatos de muestreo de fauna oficiales de Atención Social Integral SAS, se tomaron datos de la especie, número de individuos, tipo de registro (visual, captura rastro), así como el microhábitat en el que fueron encontrados incluyendo la posición vertical, sustrato y tipo de actividad (vocalizaciones, en estado de reposo, saltando, nidando o en amplexus). Adicionalmente, se obtuvo un registro fotográfico de cada individuo capturado y observado, haciendo énfasis en caracteres importantes para su determinación, se establecieron las coordenadas geográficas en donde sean encontrados, la altitud y la cobertura vegetal teniendo en cuenta la clasificación de “Corine Land Cover” 1990, y finalmente fueron liberados en el mismo sitio de captura. Toda esta información fue registrada en la libreta de campo para su posterior análisis.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Encuestas: Se realizaron encuestas en centro poblados dentro del área de influencia, en las que se buscó obtener información sobre las especies que no fueron detectadas por las metodologías descritas anteriormente, para ello, se utilizaron guías de herpetofauna con fotografías de especies de la zona, con las cuales se mostró a los encuestados imágenes de especies de Anfibios y Reptiles para identificar cuales reconocían y que usos tienen sobre estas en la región.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>AVIFAUNA: La avifauna se detectó en campo mediante tres métodos: observación directa, captura con redes de niebla y encuestas a pobladores locales. 
+(1) Observación directa: Para el primer método se realizaron recorridos de observación en los cuales se registraron visualmente todos los individuos presentes en los ecosistemas encontrados en el área de influencia del proyecto. Estos recorridos se efectuaron en las primeras horas de la mañana (desde las 07:00 hasta las 10:00) y en la tarde (desde las 16:00 hasta las 18:00). Para la observación se utilizan binoculares 8x42 y para cada registro se consignó la información como la fecha, hora, localidad, ecosistema, número de individuos, especie y nombre local proporcionado por los auxiliares de campo. Adicionalmente, cuando las condiciones fueron óptimas se tomaron fotografías de los ejemplares.
+(2) Captura con redes de niebla: Este método consistió en ubicar diez (10) redes de niebla de 12 m de largo por 3 m de alto en cada uno de los ecosistemas. Estas se abrieron entre las 07:00 y las 10:00 y entre las 16:00 y las 18:00, durante un día (1) por cada cobertura natural y su ubicación geográfica fue determinada por medio de un GPS para su posterior mapeo. Cada individuo capturado se transportó en bolsas de tela hasta un sitio adecuado, en donde con ayuda de guías de campo ilustradas se realizó su identificación taxonómica, se tomó registro fotográfico y se consignó en formatos especiales la información correspondiente a la hora de captura, el sexo, la edad, algunas medidas morfológicas e información adicional como presencia de ectoparásitos, estado del plumaje y de reproducción. Finalmente, cada individuo se liberó cerca a la red donde fue encontrado.
+(3) Encuestas a la comunidad: Se realizaron encuestas a pobladores de la zona, en las que se buscó obtener información sobre las especies que no fueron detectadas por las metodologías descritas anteriormente, para ello, se utilizaron la guías de Restall et al. (2001) y Morales et al. (2007), con las cuales se mostró a las encuestadas imágenes de especies de aves para identificar cuales reconocían y que usos tienen sobre estas en la región. La identificación de los individuos se realizó mediante los libros: Guía de las Aves de Colombia (Hilty &amp; Brown, 2001), Birds of northern south america: an identification guide, Vol 2 (Restall et al., 2006) y Field Guide to the Songbirds of South America, The Passerines (Ridgely &amp; Tudor, 2009). Por su parte se siguió la clasificación y taxonomía propuesta por Remsen et al., (2015) para las aves de Suramérica.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>MASTOFAUNA: Mamíferos voladores: Se instalaron 10 redes de niebla de 12 m de largo por 3 m de alto, en cada una de las coberturas de acuerdo con lo descrito en los métodos para aves. La ubicación geográfica de las redes se registró con un GPS para su posterior mapeo. Las redes fueron activas dos (2) noches por ecosistema como unidad muestral desde las 17:00 hasta las 22:00 horas para abarcar los horarios de mayor actividad de la mayoría de las especies de murciélagos y fueron revisadas en intervalos de 15 a 30 minutos para capturar los individuos atrapados. Una vez liberados de la red, los ejemplares fueron dispuestos en bolsas de manejo individuales para facilitar su transporte además de la disminución de estrés para el individuo capturado. Posterior a esto, se desplazaron a un lugar adecuado en donde se realizaron su identificación taxonómica por medio de guías y claves especializadas, teniendo en cuenta medidas corporales estándar (formula dental, longitud cabeza-cuerpo, cola, antebrazo, hoja nasal, oreja, pie y tibia) con un calibrador metálico de 6”. Se determinó el sexo (macho/hembra) y su condición reproductiva (hembra embarazada y hembra lactante). Posteriormente se realizó un registro fotográfico de caracteres taxonómicos relevantes y fueron liberados en el mismo sitio de captura.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos terrestres: Se instalaron 30 trampas Sherman dispuestas en los ecosistemas identificados donde se dispusieron en forma lineal con distancias de separación de 10 metros entre sí dependiendo de la detección de zonas que puedan estar siendo usadas como zonas de paso o refugio dentro del bosque y/o coberturas que ofrezcan recursos para fauna potencial. Estas se instalaron en horas del día y permanecieron activas durante dos noches usando cebos que contenían Sardinas, avena, esencia de vainilla, mantequilla de maní, comida húmeda para gatos y trozos de maní. Adicionalmente, se colocaron 5 trampas Tomahawk intercaladas con las trampas Sherman, por ecosistema muestreado dejando 10 m de distancia entre cada trampa, teniendo en cuenta lugares como senderos, madrigueras, comederos, entre otros, para ubicar cada una marcando con cintas la ubicación, a fin de poder identificar los lugares de instalación con facilidad. Serán recebadas en los mismos momentos en que fueron recebadas las trampas Sherman.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>De otra parte, para la detección de especies de mamíferos en el área de estudio, se realizaron transectos de observación en los que se buscaron rastros como madrigueras, huellas, heces fecales y comederos de acuerdo con los ecosistemas identificados para su posterior ubicación cartográfica. De los rastros encontrados se tomó un registro fotográfico teniendo en cuenta las medidas y características de cada uno para establecer su identidad taxonómica con ayuda de la información aportada por los auxiliares de campo, soportada en fuentes bibliográficas especializadas. Cuando fue posible, de los avistamientos también se obtuvo a un registro fotográfico estableciendo la especie a la que corresponda el avistamiento siguiendo la metodología expuesta anteriormente (Cuartas &amp; Muñoz 2003, Emmons 1997, Morales-Jiménez et al. 2004). Como complemento se instalan cámaras trampa en cada una de las coberturas naturales, aquellas, que ofrezcan cobertura, es decir vegetaciones secundarias y bosques, con el fin de aumentar la probabilidad de registro de mamíferos de talla grande, ya sean carnívoros y sus presas; se instalaron 6 cámaras trampa, teniendo en cuenta, las condiciones anteriormente citadas, además de que se instalan en sitios en donde se encuentren seguras durante el muestreo. Estas cámaras duraron activadas 15 días. Finalmente, durante la instalación de equipos de fototrampeo, e instalación de trampas vivas, se realizaron transectos de ancho variable sin restricciones de recorrido dentro del Área de Desarrollo Boranda.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Encuestas a la comunidad: Se colectó información de algunos habitantes del área de influencia mediante encuestas semiestructuradas a las comunidades del área de influencia del Proyecto, teniendo como principal referente para los encuestados guías con láminas a color que permitirán una fácil determinación de las especies presentes en la región y que por efecto del muestreo no puedan ser registradas de manera directa. Durante esta actividad se realizaron preguntas cuyas respuestas permitan esclarecer los posibles usos que la comunidad realice sobre la fauna, así como las presiones que se están dando sobre las mismas por temor o práctica cultural.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Registros ocasionales: Todos los miembros del equipo, incluyendo a todas aquellas personas que no hacían parte específica del grupo de fauna, colaboraron en la identificación de especies de fauna en la región por medio de la obtención del registro fotográfico de las especies observadas, cuando fue posible, y la coordenada geográfica correspondiente al punto en donde se encontraba el observador en el momento del registro. Esta información fue reunida al finalizar la fase de campo e incluida en los informes que se realizaron para cada uno de los grupos faunísticos evaluados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FLORA: El muestreo de la flora vascular y no vascular de hábito epífito, rupícola, cortícola y terrestre se realizó a partir de parcelas de 100x10m según la metodología descrita en el protocolo RRED (Grasdtein et.al, 2003) así como los lineamientos establecidos en la Circular 8201-2-808 del 9 de diciembre de 2019. De acuerdo a lo anterior, se tuvo en cuenta una relación de cinco (5) a ocho (8) forófitos por parcela en cada cobertura vegetal de tipo natural susceptible de intervención para las plantas vasculares y no vasculares de hábito epífito; respecto a las especies de hábito cortícola, rupícola y terrestre se realizaron subparcelas en los sustratos donde reportaran presencia conforme.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para las coberturas antropizadas correspondientes a pastos arbolados y pastos limpios, la intensidad del muestreo se realizó con base a la modificación del protocolo para el Análisis Rápido y Representativo de la Diversidad de Epífitas (RRED-Analysis) según las características de las unidades de cobertura de la tierra descritas en la Metodología Corine land Cover adaptada para Colombia. Esta adaptación se plantea conforme al porcentaje potencial de área que tiene presencia de vegetación arbórea en cada cobertura de la tierra a caracterizar donde este porcentaje corresponderá al área en la que potencialmente se hallarán forófitos a evaluar.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>PLANTAS VASCULARES de hábito epífito: Cada muestreo fue llevado a cabo sobre un forófito en pie, el cual fue posible observar desde la base del tronco hasta las ramas más externas del forófito. La distancia de observación es un método descrito por Went (1940), que permite el registro de la flora epifita desde la base. Con la ayuda de unos binoculares o un teleobjetivo en trípode con un zoom mayor a 40x es posible identificar la mayoría de epifitas. Una ventaja que permite conocer y registras la disposición a lo largo del forófito63.. En el muestreo se realizó el registro fotográfico de cada uno de los morfotipos de flora epifita presente en cada forófito evaluado, se utilizó el registro fotográfico como elemento prueba de la existencia de especies con hábitos epifitos. Para el presente estudio se tomó registro fotográfico de los diferentes organismos presentes en todos los estratos de los forófitos evaluados, para aquellas especies donde existan dudas de su taxonomía fueron colectadas y preservadas para su posterior determinación en herbario. Para la toma de muestras presentes en el dosel se realizó ascenso y/o uso de desjarretadera, seguidamente se procedió a tomar registro fotográfico del organismo en su hábitat natural.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Plantas vasculares terrestres: Se registraron todos los individuos de las familias Orquidiaceae y Bromeliaceae de habito terrestre o rupícola que se reporten en las parcelas de 0.1 ha a evaluar en cada cobertura vegetal susceptible de intervención. Para la colecta de muestras botánicas se tuvieron en cuenta las Técnicas de campo propuestas por el Jardín Botánico de Missouri69. Solamente se recolectaron muestras que se encuentren en estado de floración y /o fructificación (fértiles), tomando una sola muestra de cada morfo-especie, con la finalidad de poder identificar, de manera adecuada, hasta el menor nivel taxonómico posible. Las muestras fueron colectadas, alcoholizadas y prensadas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Con relación al grupo de las Orquídeas se tuvo en cuenta que el espécimen se encontrara en estado fértil el cual es base de identificación taxonómica. El tamaño y la forma de crecimiento determinaron la forma de recolección las plantas son de menor tamaño que la hoja de herbario se recolectan completas. Las plantas grandes se seleccionan piezas fértiles y vegetativas contiguas; se incluyeron detalles del rizoma, de la emergencia de las inflorescencias, de segmentos representativos de las raíces y de su longitud original como lo describe Aguirre (1986). Los ejemplares de herbario estuvieron acompañados de fotografías a color de la planta completa y de la flor (Chater, 2000). Para el caso de los representantes de la familia Bromeliaceae, las plantas de porte pequeño se recolectaron completas y las grandes se anotaron sus características (hojas: longitud, equitantes o en roseta, bordes; inflorescencias: longitud, tipo, ramificaciones; brácteas: tipo, cubierta de escamas o pilosidades, coloraciones). Luego se tomó una o dos hojas basales completas y se doblaron según su tamaño en forma de L, N, Z o M, o bien se seccionaron, pero se anotan las partes que la conforman para tener una idea exacta de su morfología. Las inflorescencias grandes deben recolectarse en tres secciones: un eje basal, uno medio y uno apical. Si son ramificadas se elimina uno de los dos lados y si son carnosas se seccionan por la mitad según las propuestas de Aguirre, (1986) y Rodríguez &amp; Rojas, (2002).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>PLANTAS NO VASCULARES de hábito epífito y cortícola: La cobertura de Hepáticas, líquenes y Musgos de hábito epífito y cortícola se cuantifico con la utilización de plantillas de acetato transparente con áreas de 100 cm2 y/o 400 cm2 (Iwatzuki, 1960)74, que presentaban una cuadriculada cada centímetro cuadrado. Se asume, que las comunidades de briofitos y líquenes constituyen una capa rasante ya que sus alturas varían desde pocos milímetros (en líquenes crustáceos) hasta 4-5 cm (en musgos). Según lo anterior, a partir de la plantilla de acetato se puede aplicar un método efectivo para estimar la cobertura de cada una de las especies. El método consistió en ubicar la plantilla sobre el sustrato y la cobertura se estima registrando la frecuencia con que cada especie ocupa un determinado número de cuadrados de un (1) cm. Se usaron áreas con estas características (400 o 100 cm2), ya que las superficies que se pueden encontrar varían de regulares a irregulares y estos tipos de plantilla, facilitan la medición en los diferentes sustratos. La plantilla de 400 cm2 fue empleada en superficies uniformes; mientras la plantilla de 100 cm2 fue usada en superficies irregulares en las cortezas y ramas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Plantas no vasculares rupícolas y terrestres: Para la estimación de la cobertura de flora no vascular de habito terrestre y rupícola se tuvo en cuenta la metodología propuesta por Fletcher, 1973 en el cual se describe una técnica para la determinación de cobertura sobre roca que incluso también se ajusta para la caracterización de las especies de habito terrestre. La abundancia es establecida a partir de la implementación de un cuadrante de 50x50 como unidad básica de muestreo. Se usará entonces una cuadricula flexible de acetato de 10x10 (subcuadrante) dividido en cuadros de 1 cm (100). Las cuatro esquinas del cuadrante y el centro fueron muestreadas separadamente con la cuadricula de acetato de 10x10 (subcuandrante). La cobertura será calculada por el conteo del número de cuadros de 1cm. La información de los cinco subcuadrantes de 10x10 son combinados para dar un estimado total de cobertura de especies.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los ejemplares fueron colectados en bolsas de papel. Para el secado, los ejemplares se extendieron sobre las envolturas. (Bowles, 2004). En especies con ejemplares grandes, se presionan ligeramente en papel periódico para que no estén muy abultados cuando se empaqueten, y es aconsejable el prensado como en las plantas vasculares; la presión deforma los tallos y puede modificar la posición de las cápsulas según las recomendaciones de Delgadillo (1986). En la preparación de los ejemplares. A diferencia de las plantas vasculares, se requirió colectar menor cantidad de material. Dos muestras de 13.5 x 10 cm o del tamaño de la palma de la mano son suficientes. Se tuvo en cuenta el material fértil (esporofito) pues con frecuencia éste es necesario para la identificación (Sánchez-González A &amp; González Ledesma, 2007).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El Área de Desarrollo Boranda cuenta con una extensión de 16.336,18 ha (hectáreas), la cual está ubicada en jurisdicción de los municipios de San Alberto (Cesar), La Esperanza (Norte de Santander) y Rionegro (Santander).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>En cuanto a la fauna, los muestreos fueron realizados mediante la “Evaluación Ecológica Rápida - EER”, que permite obtener la mayor cantidad de registros en un corto lapso de tiempo mediante el uso de múltiples técnicas de detección y captura de animales con el menor daño posible a los mismos. Entre los días 14 de noviembre y 28 de noviembre de 2019 se realizaron la salida de campo al área de influencia del proyecto, localizada entre los municipios de Rionegro (Santander), La Esperanza (norte de Santander) y San Alberto (Cesar), visitando los ecosistemas identificados por los ingenieros forestales.
+
+Se emplearon diferentes metodologías para la caracterización de la flora vascular y no vascular de hábito epífito y de conformidad a lo establecido en los términos de referencia para Estudios de Impacto Ambiental para Proyecto de Explotación de Hidrocarburos HI-TER-1-03 del 2010, la Metodología General para la Elaboración y Presentación de estudios Ambientales del 2018 expedidos por el Ministerio de Ambiente y Desarrollo Sostenible y la Circular 8201-2-808 del 09 de diciembre de 2019 por medio del cual la Dirección de Bosques, Biodiversidad y Servicios Ecosistémicos establece los lineamientos Técnicos para la conservación de especies de flora en veda. Aunado a lo anterior, se evaluaron otros hábitos de crecimiento (rupícolas y terrícolas) considerando su condición de especies en veda nacional conforme a la Resolución No 0213 de 1977 expedida por el INDERENA.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>ESTUDIO DE IMPACTO AMBIENTAL ÁREA DE DESARROLLO BORANDA</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Laura</givenName>
+                    <surName>Lozano</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>La compañía PAREX RESOURCES COLOMBIA LTD SUCURSAL (PAREX) contrató a la empresa de consultoría ambiental ATENCIÓN SOCIAL INTEGRAL S.A.S. (ASI) para la elaboración del Estudio de Impacto Ambiental (EIA) “Área de Desarrollo Boranda”, el cual se formula como un instrumento básico para que la Autoridad Nacional de Licencias Ambientales – ANLA pueda tomar la decisión sobre el otorgamiento de la licencia ambiental global para la explotación de hidrocarburos convencionales en cumplimiento de los lineamientos establecidos en el Capítulo 3 Licencias Ambientales, del Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible 1076 del 2015.
+De igual forma, el EIA se elaboró según los Términos de Referencia para proyectos de explotación de hidrocarburos identificados con el código HI-TER-1-03 y adoptados por el Ministerio de Ambiente, Vivienda y Desarrollo Territorial – MAVDT (Actualmente Ministerio de Ambiente y Desarrollo Sostenible - MADS) mediante la Resolución 1544 del 06 de agosto de 2010. Además de los lineamientos establecidos en la Metodología para presentación de Estudios Ambientales adoptada por la Resolución 1503 del 04 de agosto del 2010 del Ministerio de Ambiente Vivienda y Desarrollo Territorial - MAVDT (Actualmente Ministerio de Ambiente y Desarrollo Sostenible).
+
+BIOTA CONSULTORÍA Y MEDIO AMBIENTE S.A.S., con NIT. 900.494.354-6 presentó ante la Autoridad Nacional de Licencias Ambientales – ANLA por medio del radicado con número 2019163753-1-000 del 21 de octubre de 2019, solicitud para inicio de actividades correspondiente de flora y fauna a la elaboración del Estudio de Impactos Ambiental Área de Desarrollo Boranda, según las obligaciones establecidas en el artículo tercero de la Resolución No. 01403 del 16 de julio de 2019 por la cual la ANLA otorga a la empresa BIOTA CONSULTORÍA Y MEDIO AMBIENTE S.A.S., el permiso de estudio para la recolección de especímenes de especies silvestres de la diversidad biológica con fines de elaboración de estudios ambientales.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El Área de Desarrollo Boranda cuenta con una extensión de 16.336,18 ha (hectáreas), la cual está ubicada en jurisdicción de los municipios de San Alberto (Cesar), La Esperanza (Norte de Santander) y Rionegro (Santander). Además, el Área de Desarrollo Boranda se traslapa con el APE Cagüi en 8224,20 ha y con el Bloque Playón Norte en 11732,32 ha.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:16Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/mpsjrc">Parex Resources (Colombia) AG Sucursal, Atención Social Integral ASI S.A.S. (2024). Biodiversidad asociada al Estudio de Impacto Ambiental (EIA) área de desarrollo Boranda. Parex Resources Colombia - AG Sucursal. Occurrence dataset https://doi.org/10.15472/mpsjrc accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Aguirre, L. E. 1986. Epífitas, pp. 113-119. En: A. Lot y F. Chiang (comp.). Manual de Herbario. Administración y manejo de colecciones, técnicas de recolección y preparación de ejemplares botánicos. Consejo Nacional de la Flora de México, AC, México.</citation>
+                <citation>Bates, J. (1982). Quantitative Approaches in Bryophyte Ecology. En A. Smith, Bryophytes Ecology (págs. 1-44). London: Chapman &amp; Hall.</citation>
+                <citation>Cardelús, C.L. &amp; R.L. Chazdon (2005). Inner-crown microenviroments of two emergent tree species in a lowland wet forest. Biotropica 37: 238-244.</citation>
+                <citation>Chater, A. O. 1997. Atlas 2000: some notes on pressing specimens. Supplement to Botanical Society of the British Isles News 75.</citation>
+                <citation>Fletcher, A. (1973). The ecology of maritime (supralittoral) lichens on some socky shores of Anglesey. Lichenologist (5), 401-422.</citation>
+                <citation>Gradstein, S.R., N.M. Nadkarni, T. Krömer, I. Holz &amp; N. Nöske. 2003. A protocol for rapid and representative sampling of vascular and non-vascular epiphyte diversity of tropical rain forest. Selbyana 24: 105-111.</citation>
+                <citation>IWATSUKI Z. The Epiphytic Briophyte Communities in Japan. J Hattori BotLab. 1960;22:159-339.</citation>
+                <citation>Johansson, D. (1974). Ecology of vascular eophytes in West African rain forest. (S. V. Sallsskapet, Ed.) Acta Phytogeogr (59), 136.</citation>
+                <citation>Krömer, T., S.R. Gradstein &amp; A. Acebey. 2007b. Diversidad y ecología de epífitas vasculares en bosques montanos primaries y secundarios de Bolivia. Ecol. Bolivia 42: 23-33.</citation>
+                <citation>Rodríguez, E. F. y R. P. Rojas G. 2002. El Herbario: Administración y Manejo de Colecciones Botánicas. Herbarium Truxillense (HUT), Facultad de Ciencias Biológicas, Universidad Nacional de Trujillo, Missouri Botanical Garden. R. Vásquez M., editor, Trujillo.</citation>
+                <citation>Shaw, D.C. 2004. Vertical organization of canopy biota, p. 73-101. In M.D. Lowman &amp; H.B. Rinker (eds.). Forest canopies (second edition). Elselvier Academic, San Diego, California, EEUU</citation>
+                <citation identifier="http://www.mobot.org/MOBOT/molib/spanishfb/intro.shtml">Técnicas de campo utilizadas por el Jardín Botánico de Missouri. Compiladas por Ron LIESNER con sugerencias del personal técnico, científico y colaboradores. Traducido del inglés por Claudio TYGIER, Santa Cruz, Bolivía. Revisión del texto: Carmen Ulloa ULLOA y Rosa ORTIZ, Missouri Botanical Garden, Abril de 1996.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-parex.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

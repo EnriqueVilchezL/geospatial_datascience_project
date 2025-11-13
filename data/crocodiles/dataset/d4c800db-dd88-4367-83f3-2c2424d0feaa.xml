@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="d4c800db-dd88-4367-83f3-2c2424d0feaa"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/zy6p1g</alternateIdentifier>
+        <alternateIdentifier>d4c800db-dd88-4367-83f3-2c2424d0feaa</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sinchi/resource?r=reptiles_rios_diversos</alternateIdentifier>
+        <title>Reptiles del interfluvio de las subzonas hidrográficas del Putumayo y Caquetá en el departamento de Putumayo – Proyecto Ríos Diversos</title>
+        <creator>
+            <individualName>
+                <givenName>José Rances</givenName>
+                <surName>Caicedo Portilla</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas Sinchi</organizationName>
+            <positionName>Investigador asociado, integrante del Grupo de Fauna Amazónica, curador colección de reptiles</positionName>
+            <address>
+                <deliveryPoint>Avenida Vásquez Cobo entre calles 15 y 16</deliveryPoint>
+                <city>Leticia</city>
+                <administrativeArea>Amazonas</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jcaicedo@sinchi.org.co</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-5689-5657</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Mariela</givenName>
+                <surName>Osorno Muñoz</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas Sinchi</organizationName>
+            <positionName>Coordinadora de programa Ecosistemas y Recursos Naturales</positionName>
+            <address>
+                <deliveryPoint>Cll 20 # 5-44</deliveryPoint>
+                <city>Bogotá, D. C.</city>
+                <administrativeArea>Bogotá, D. C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mosorno@sinchi.org.co</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-9333-068X</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Doris Laurinette</givenName>
+                <surName>Gutiérrez Lamus</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas Sinchi</organizationName>
+            <positionName>Investigadora asociada II, integrante del Grupo de Fauna Amazónica</positionName>
+            <address>
+                <deliveryPoint>Cll 20 # 5-44</deliveryPoint>
+                <city>Bogotá, D. C.</city>
+                <administrativeArea>Bogotá, D. C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>lgutierrez@sinchi.org.co</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-9801-4544</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Marvin Alfredo</givenName>
+                <surName>Anganoy Criollo</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas Sinchi</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Cll 20 # 5-44</deliveryPoint>
+                <city>Bogotá, D. C.</city>
+                <administrativeArea>Bogotá, D. C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>manganoy@sinchi.org.co</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-8497-822X</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (601) 7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>https://www.geo-park.com/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">company/geopark/</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Gran Tierra Energy Colombia</surName>
+            </individualName>
+            <organizationName>Gran Tierra Energy Colombia</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (601) 658-5757</phone>
+            <onlineUrl>https://www.grantierra.com/es/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">company/gran-tierra-energy/</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Marvin Alfredo</givenName>
+                <surName>Anganoy Criollo</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas Sinchi</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Cll 20 # 5-44</deliveryPoint>
+                <city>Bogotá, D. C.</city>
+                <administrativeArea>Bogotá, D. C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>manganoy@sinchi.org.co</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-8497-822</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>José Rances</givenName>
+                <surName>Caicedo Portilla</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas Sinchi</organizationName>
+            <positionName>Investigador asociado, integrante del Grupo de Fauna Amazónica, curador colección de reptiles</positionName>
+            <address>
+                <deliveryPoint>Avenida Vásquez Cobo entre calles 15 y 16</deliveryPoint>
+                <city>Leticia</city>
+                <administrativeArea>Amazonas</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jcaicedo@sinchi.org.co</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-5689-5657</userId>
+        </metadataProvider>
+        <pubDate>
+                2025-06-24
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Este proyecto tiene como objetivo presentar los resultados de la caracterización de reptiles en el interfluvio de las subzonas hidrográficas del Putumayo y Caquetá, ubicadas en los departamentos de Putumayo, Caquetá y Cauca generando un conjunto de datos riguroso y confiable para establecer una línea base sobre la biodiversidad acuática en una región poco explorada y altamente vulnerable a procesos acelerados de transformación. La información se basa en el inventario realizado durante dos salidas de campo: la primera en junio y julio de 2023 y la segunda en noviembre de 2023, abarcando cinco localidades.</para><para>Los resultados del proyecto comprenden 110 registros biológicos del reino Animalia, filo Chordata, clase Reptilia, distribuidos en 2 ordenes, 12 familias, 26 géneros y 36 especies. Este conjunto de datos proporcionará una visión integral de la biodiversidad herpetológica en el área estudiada y contribuirá a una mejor comprensión y preservación de estos ecosistemas. </para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Subzonas hidrográficas</keyword>
+            <keyword>Diversidad</keyword>
+            <keyword>ríos diversos</keyword>
+            <keyword>reptiles</keyword>
+            <keyword>Putumayo</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sinchi/archive.do?r=reptiles_rios_diversos</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El muestreo se realizó en el interfluvio de las subzonas hidrográficas del Putumayo y Caquetá en 5 localidades (Puerto Asís, Orito, Mocoa, Piamonte - Curillo y Puerto Caicedo).</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-77.999</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-76</eastBoundingCoordinate>
+                    <northBoundingCoordinate>1.089</northBoundingCoordinate>
+                    <southBoundingCoordinate>0.491</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-06-22
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-07-12
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-11-15
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-12-01
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este conjunto de datos comprende 110 registros biológicos del reino Animalia, filo Chordata, clase Reptilia, distribuidos en 2 ordenes, 12 familias, 26 géneros y 36 especies. El 98% está clasificado a nivel de especie. 
+La familia Alligatoridae se encuentra distribuida en 1 género y 1 especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Paleosuchus</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La familia Alopoglossidae se encuentra distribuida en 1 género y 1 especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Alopoglossus</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La familia Aniliidae se encuentra distribuida en 1 género y 1 especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Anilius</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La familia Anolidae se encuentra distribuida en 1 género y 3 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Anolis</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La familia Colubridae se encuentra distribuida en 14 géneros y 19 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Atractus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Chironius</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Dendrophidion</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Dipsas</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Drepanoides</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Helicops</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Hydrops</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Imantodes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Leptodeira</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Liophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Ninia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Oxyrhopus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Pseudoboa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Xenopholis</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La familia Elapidae se encuentra distribuida en 1 género y 2 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Micrurus</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La familia Gekkonidae se encuentra distribuida en 1 género y 2 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Hemidactylus</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La familia Gymnophthalmidae se encuentra distribuida en 1 género y 1 especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Loxopholis</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La familia Scincidae se encuentra distribuida en 1 género y 1 especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Mabuya</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La familia Sphaerodactylidae se encuentra distribuida en 1 género y 2 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Gonatodes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La familia Teiidae se encuentra distribuida en 2 géneros y 2 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Ameiva</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Kentropyx</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La familia Viperidae se encuentra distribuida en 1 género y 1 especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Bothrops</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Mariela</givenName>
+                <surName>Osorno Muñoz</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas Sinchi</organizationName>
+            <positionName>Coordinadora de programa Ecosistemas y Recursos Naturales</positionName>
+            <address>
+                <deliveryPoint>Cll 20 # 5-44</deliveryPoint>
+                <city>Bogotá, D. C.</city>
+                <administrativeArea>Bogotá, D. C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mosorno@sinchi.org.co</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-9333-068X</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>José Rances</givenName>
+                <surName>Caicedo Portilla</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas Sinchi</organizationName>
+            <positionName>Investigador asociado, integrante del Grupo de Fauna Amazónica, curador colección de reptiles</positionName>
+            <address>
+                <deliveryPoint>Avenida Vásquez Cobo entre calles 15 y 16</deliveryPoint>
+                <city>Leticia</city>
+                <administrativeArea>Amazonas</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jcaicedo@sinchi.org.co</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0001-5689-5657</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>En cada localidad se realizaron recorridos de búsqueda libre por encuentro visual al azar de reptiles (Crump y Scott, 1994; Guyer y Donnelly, 2012). El muestro se realizó con el apoyo de coinvestigadores locales de la comunidad explorando distintos tipos de hábitats, terrestres y acuáticos, y buscando estos organismos desde el estrato rasante (0 m) hasta 10 m de altura en la matriz boscosa.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los recorridos duraron cuatro horas en promedio, desde las 7 pm – 11 pm. En cada localidad se realizaron búsquedas por dos noches y un tercer recorrido que fue en el día, para detectar especies con actividad diurna.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En  los recorridos se emplearon ganchos, bastones y pinzas herpetológicas para la manipulación de serpientes venenosas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mediante el uso de gps (marca Garmin) se registraron las coordenadas específicas de cada sitios de muestreo mediante.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Una vez los animales fueron colectados, esto fueron depositados en bolsas de tela o plásticas para ser transportados hasta el lugar de trabajo en campo. Los individuos más representativos (i.e., adulto de cada sexo, juveniles, o con polimorfismos en coloración dorsal) fueron fotografiados desde diferentes ángulos y posiciones para registrar la coloración en vida y potenciales caracteres taxonómicos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los reptiles fueron eutanizados con xilocaina liquida 2%, e inmediatamente fijados en una cámara de formaldehido 10%, para posteriormente ser suspendidos y transportados en esta misma solución.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Previo a la fijación, se extrajo una alícuota de tejido muscular o hígado de individuos de cada especie encontrada, la cual fue colocada en un tubo eppendorf con alcohol grado molecular 99.5% para posteriores análisis de material genético.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la identificación se empleó un microscopio estereoscopio Leica, comparando con descripciones disponibles y con material de referencia de la colección de anfibios del Instituto Sinchi. La taxonomía de reptiles sigue a Uetz et al. (2023).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El estudio se desarrolló en los municipios Mocoa, Piamonte, Curillo, Puerto Caicedo, Orito y Puerto Asís en las subcuencas de los ríos Caquetá, Cauca y Putumayo en los departamentos de Caquetá, Cauca y Putumayo específicamente en las zonas de influencia de las empresas petroleras Amerisur GeoPack y Gran Tierra Energy. Las estaciones de trabajo se establecieron a lo largo de diferentes ríos y quebradas dentro de estas subcuencas.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El muestreo de reptiles se realizó en el interfluvio de las subzonas hidrográficas del Caquetá, Cauca y Putumayo en 5 localidades 1) Rio Cocayá – Kanakas, Finca Karina, vereda Cocayá, Puerto Asís, Putumayo; 2) Quebrada la Bonita, vereda Achiote, Orito, Putumayo; 3) río El Pepino, vereda Las Mesas, Mocoa, Putumayo; 4) vereda Cedral, Puerto Caicedo, Putumayo; y 5) Desembocadura Río Fragua al Rio Caquetá Bocatoma, río Fragua, Vereda La Novia, Currillo, Caquetá, Vereda el Diamante, Piamonte, Cauca</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>El control de calidad de los datos abarca desde la recolección de datos hasta su integración en plataformas nacionales. Este proceso incluye la aplicación de metodologías estandarizadas para la recolección y análisis de muestras y el uso de equipos calibrados para asegurar la precisión de los datos recolectados en campo. Las muestras recolectadas son preservadas adecuadamente y se utilizan técnicas avanzadas para su identificación y análisis, con revisiones periódicas para verificar la consistencia y validez de los resultados.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="Ríos_Diversos">
+                <title>Diversidad acuática en el interfluvio de las subzonas hidrográficas del Putumayo y Caquetá en el departamento de Putumayo</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Edwin</givenName>
+                    <surName>Agudelo Córdoba</surName>
+                    </individualName>
+            <userId directory="https://orcid.org/">0000-0001-9318-2568</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para>El proyecto se enmarca en el acuerdo regional consolidado por la Asociación Nacional de Empresarios de Colombia - ANDI “Biodiversidad y Desarrollo por el Putumayo”, una estrategia interagencial de colaboración entre instituciones, empresas y comunidades, con el objetivo de contribuir a la gestión integral de la biodiversidad, encaminadas a la protección, restauración, conectividad ecosistémica y desarrollo sostenible en el Putumayo (para el interfluvio Putumayo - Caquetá). En Biodiversidad y Desarrollo por el Putumayo hacen parte Parques Nacionales Naturales (PNN), el Instituto Alexander Von Humboldt (IAvH), CORPOAMAZONIA, Instituto SINCHI, el Sistema de Información sobre Biodiversidad (SiB Colombia), la Andi y sus aliados empresariales en representación del sector hidrocarburos: Ecopetrol y su programa Vida Silvestre, Amerisur y Gran Tierra Energy. Bajo ese contexto, el presente proyecto, ejecutado por el Instituto Amazónico de Investigaciones Científicas SINCHI, tuvo como objetivo la caracterización hidrológica, fisicoquímica y biológica de ecosistemas acuáticos ubicados en las cuencas de los ríos Caquetá y Putumayo, y su relación con las sociedades humanas ribereñas, para la proposición de lineamientos de conservación y manejo. Por tanto, el proyecto contó con el apoyo financiero de organizaciones vinculadas a la alianza Biodiversidad y Desarrollo, entre ellas la ANDI, Gran Tierra Energy, Amerisur Exploración Colombia y el Instituto SINCHI.</para>
+                </abstract>
+                <funding>
+                    <para>Asociación Nacional de Empresarios de Colombia - ANDI, Gran Terra Energy Colombia LLS Sucursal, Amerisur Exploración Colombia Limitada, WCS Colombia e Instituto SINCHI</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Subcuencas de los ríos Caquetá y Putumayo, departamentos de Caquetá, Cauca y Putumayo. Localidades rurales ubicadas en los municipios Mocoa, Piamonte, Curillo, Puerto Guzmán, Puerto Caicedo, Orito, La Hormiga y Puerto Asís.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Se adelantó una fase diagnóstica mediante una caracterización hidrológica, fisicoquímica y biológica de ecosistemas acuáticos y la percepción de valor de la sociedad ribereña aledaña sobre esos ecosistemas y se proponen lineamientos orientados a conservación y manejo. El proyecto es una oportunidad para avanzar en el conocimiento biológico e hidrológico de las aguas superficiales y de la trama socioambiental interesada en la gestión de estos ambientes acuáticos.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:29Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/zy6p1g">Caicedo Portilla J R, Osorno Muñoz M, Gutiérrez Lamus D L, Anganoy Criollo M A, GeoPark Colombia S.A.S., Gran Tierra Energy Colombia (2025). Reptiles del interfluvio de las subzonas hidrográficas del Putumayo y Caquetá en el departamento de Putumayo – Proyecto Ríos Diversos. Version 2.1. Instituto Amazónico de Investigaciones Científicas - SINCHI. Occurrence dataset https://doi.org/10.15472/zy6p1g accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>CRUMP, M. L. &amp; N. J. SCOTT. 1994. Visual encounter surveys. Pp. 84-92. En: HEYER, W. R., DONNELLY, M. A., MCDIARMID, R. W., HAYEK, L. C. &amp; FOSTER, M. S. (eds.). Measuring and monitoring biological diversity, standard methods for amphibians. Smithsonian Institution Press, Washington, DC.</citation>
+                <citation>GUYER, C., &amp; M. A. DONNELLY. 2012. Visual encounter surveys. En: R. W. McDiarmid, M. S. Foster, C. Guyer, J. W. Gibbons, &amp; N. Chernoff (eds.). Reptile Biodiversity Standard Methods for Inventorying and Monitoring, pp. 218 220. University of California Press, USA.</citation>
+                <citation identifier="http://www.reptile-database.org. Acceso: 24 marzo 2024.">Uetz P, Freed P, Aguilar R, Reyes F, Kudera J. y Hošek J. (Eds.). 2023. The reptile database</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-sinchi.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>SINCHI-R</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 215</collectionIdentifier>
+                    <collectionName>Colección Reptiles Instituto Sinchi</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>SINCHI-R</parentCollectionIdentifier>
+                    <collectionIdentifier>https://scientific-collections.gbif.org/collection/dce190b1-b7cf-44b7-b007-e40d4dc8d01e</collectionIdentifier>
+                    <collectionName>Colección Reptiles Instituto Sinchi</collectionName>
+                </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

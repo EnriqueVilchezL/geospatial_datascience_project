@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="79fb09c3-bf78-41cf-ad65-bcdce10e640d"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/l5m2t3</alternateIdentifier>
+        <alternateIdentifier>79fb09c3-bf78-41cf-ad65-bcdce10e640d</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sibm/resource?r=uptc_aves-reptiles_pacifico_2018</alternateIdentifier>
+        <title>Reptiles y aves del Distrito Nacional de Manejo Integrado Cabo Manglares Bajo Mira y Frontera, Pacífico colombiano - Proyecto Colombia BIO</title>
+        <creator>
+            <individualName>
+                <givenName>Juan</givenName>
+                <surName>Carvajal-Cogollo</surName>
+            </individualName>
+            <organizationName>Universidad Pedagógica y Tecnológica de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Avenida Central del Norte 39-115</deliveryPoint>
+                <city>Tunja</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8)7405626</phone>
+            <electronicMailAddress>juan.carvajal03@uptc.edu.co</electronicMailAddress>
+            <onlineUrl>http://www.uptc.edu.co</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Gerson</givenName>
+                <surName>Peñuela-Díaz</surName>
+            </individualName>
+            <organizationName>Universidad Pedagógica y Tecnológica de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Avenida Central del Norte 39-115</deliveryPoint>
+                <city>Tunja</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8)7405626</phone>
+            <electronicMailAddress>gersonp1982@gmail.com</electronicMailAddress>
+            <onlineUrl>http://www.uptc.edu.co</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Diego Felipe</givenName>
+                <surName>Higuera-Rojas</surName>
+            </individualName>
+            <organizationName>Universidad Pedagógica y Tecnológica de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Avenida Central del Norte 39-115</deliveryPoint>
+                <city>Tunja</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8)7405626</phone>
+            <electronicMailAddress>diego.higuera01@uptc.edu.co</electronicMailAddress>
+            <onlineUrl>http://www.uptc.edu.co</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jorge</givenName>
+                <surName>Eguis-Avendaño</surName>
+            </individualName>
+            <organizationName>Universidad Pedagógica y Tecnológica de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Avenida Central del Norte 39-115</deliveryPoint>
+                <city>Tunja</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8)7405626</phone>
+            <electronicMailAddress>j.eguis6@gmail.com</electronicMailAddress>
+            <onlineUrl>http://www.uptc.edu.co</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Juan</givenName>
+                <surName>Carvajal</surName>
+            </individualName>
+            <organizationName>Universidad Pedagógica y Tecnológica de Colombia</organizationName>
+            <positionName>Avenida Central del Norte 39-115</positionName>
+            <address>
+                <deliveryPoint>Avenida Central del Norte 39-115</deliveryPoint>
+                <city>Tunja</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8)7405626</phone>
+            <electronicMailAddress>juan.carvajal03@uptc.edu.co</electronicMailAddress>
+            <onlineUrl>http://www.uptc.edu.co</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Juan</givenName>
+                <surName>Carvajal</surName>
+            </individualName>
+            <organizationName>Universidad Pedagógica y Tecnológica de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Avenida Central del Norte 39-115</deliveryPoint>
+                <city>Tunja</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8)7405626</phone>
+            <electronicMailAddress>juan.carvajal03@uptc.edu.co</electronicMailAddress>
+            <onlineUrl>http://www.uptc.edu.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Gerson</givenName>
+                <surName>Peñuela-Díaz</surName>
+            </individualName>
+            <organizationName>Universidad Pedagógica y Tecnológica de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Avenida Central del Norte 39-115</deliveryPoint>
+                <city>Tunja</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8)7405626</phone>
+            <electronicMailAddress>gersonp1982@gmail.com</electronicMailAddress>
+            <onlineUrl>http://www.uptc.edu.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Diego Felipe</givenName>
+                <surName>Higuera-Rojas</surName>
+            </individualName>
+            <organizationName>Universidad Pedagógica y Tecnológica de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Avenida Central del Norte 39-115</deliveryPoint>
+                <city>Tunja</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8)7405626</phone>
+            <electronicMailAddress>diego.higuera01@uptc.edu.co</electronicMailAddress>
+            <onlineUrl>http://www.uptc.edu.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Jorge</givenName>
+                <surName>Eguis-Avendaño</surName>
+            </individualName>
+            <organizationName>Universidad Pedagógica y Tecnológica de Colombia</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Avenida Central del Norte 39-115</deliveryPoint>
+                <city>Tunja</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8)7405626</phone>
+            <electronicMailAddress>j.eguis6@gmail.com</electronicMailAddress>
+            <onlineUrl>http://www.uptc.edu.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2021-07-15
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Con el fin de evaluar la diversidad (taxonómica y funcional) de reptiles y aves, se realizaron protocolos de muestreo estandarizados para cada grupo taxonómico, para aves se realizaron caminatas libres, puntos de observación y registros auditivos y para reptiles se realizó búsqueda libre delimitada por tiempo, con muestreos principalmente diurnos por la logística de acceso a los puntos de muestreo. 
+
+Los objetivos específicos del proyecto consistió:
+1. Determinar la diversidad taxonómica (alfa y beta) de reptiles y aves en diferentes
+hábitats en manglares y zonas de litoral en Cabo Manglares.
+2. Establecer la proporción de rasgos y grupos funcionales de reptiles y aves en
+diferentes hábitats en manglares y el litoral en Cabo Manglares.
+3. Determinar la relación entre variables ambientales y de los hábitats con la diversidad taxonómica y funcional de reptiles y aves en manglares y zonas de litoral en Cabo Manglares.</para>
+<para>En total se registraron 204 registros de aves y reptiles.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>reptiles.</keyword>
+            <keyword>diversidad taxonómica</keyword>
+            <keyword>Cabo Manglares</keyword>
+            <keyword>Tumaco</keyword>
+            <keyword>aves</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>COLOMBIA_BIO</keyword>
+            <keyword>PACÍFICO</keyword>
+            <keyword>SIB_MARINO</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://ipt.biodiversidad.co/sibm/resource?r=uptc_aves-reptiles_pacifico_2018</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sibm/archive.do?r=uptc_aves-reptiles_pacifico_2018</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El proyecto se llevó a cabo en el Departamento de Nariño en el sector meridional del Pacífico colombiano, entre la bahía de Tumaco y la localidad de Candelilla de la Mar.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-79.004</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-78.861</eastBoundingCoordinate>
+                    <northBoundingCoordinate>1.783</northBoundingCoordinate>
+                    <southBoundingCoordinate>1.504</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2018-11-28
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2018-12-01
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>25 registros de reptiles y 179 de aves correspondientes a 143 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Caiman crocodilus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hemidactylus frenatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lepidodactylus lugubris</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thecadactylus rapicauda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sphaerodactylus scapularis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis parvauritus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis antonii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Holcosus bridgesii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cnemidophorus lemniscatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Diploglossus monotropis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Basiliscus basiliscus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Iguana iguana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Bothrops asper</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lachesis acrochorda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sibon nebulatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tretanorhinus mocquardi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Clelia equatoriana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Boa constrictor</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Trachyboa boulengeri</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhinoclemmys melanosterna</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lepidochelys olivacea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chelonia mydas</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chelydra acutirostris</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Kinosternon leucostomum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Odontophorus erythrops</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Patagioenas cayennensis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Zenaida auriculata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptotila pallida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotophaga ani</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chaetura cinereiventris</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phaethornis striigularis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thalurania colombica</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chalybura urochrysia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Polyerata rosenbergi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Amazilia tzacatl</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chrysuronia humboldti</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Vanellus chilensis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Charadrius semipalmatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Charadrius wilsonia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Charadrius collaris</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Numenius phaeopus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Calidris alba</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Calidris minutilla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Calidris bairdii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Actitis macularius</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tringa melanoleuca</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tringa solitaria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sterna maxima</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Larus atricilla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Oceanodroma tethys</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sula nebouxii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sula leucogaster</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Fregata magnificens</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phalacrocorax brasilianus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pelecanus occidentalis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Bubulcus ibis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ardea cocoi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ardea alba</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Nycticorax nycticorax</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Butorides striata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Egretta thula</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Egretta caerulea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cathartes aura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Coragyps atratus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pandion haliaetus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ictinia plumbea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodon cayanensis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rupornis magnirostris</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Buteogallus anthracinus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leucopternis albicollis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Trogon chionurus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Trogon massena</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Megaceryle torquata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chloroceryle americana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pteroglossus torquatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ramphastos ambiguus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Melanerpes pucherani</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Veniliornis kirkii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Celeus loricatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Campephilus gayaquilensis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Capito squamatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Herpetotheres cachinnans</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Milvago chimachima</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Amazona autumnalis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Amazona farinosa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pionus menstruus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophilus atrinucha</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cercomacra tyrannina</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cercomacra nigricans</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Myrmotherula pacifica</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hafferia zeledoni</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lepidocolaptes souleyetii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Xenops minutus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Xiphorhynchus lachrymosus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Brotogeris sanctithomae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dendrocincla fuliginosa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phyllomyias griseiceps</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tyrannulus elatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Camptostoma obsoletum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Elaenia flavogaster</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Todirostrum cinereum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tolmomyias assimilis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Mionectes oleagineus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tyrannus melancholicus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pitangus sulphuratus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Colonia colonus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Legatus leucophaius</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Myiozetetes cayanensis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Conopias albovittatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Myiarchus tuberculifer</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Carpodectes hopkei</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Manacus manacus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pachyramphus cinnamomeus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pachysylvia decurtata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Neochelidon tibialis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tachycineta bicolor</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Stelgidopteryx ruficollis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Troglodytes aedon</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cantorchilus nigricapillus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Turdus obsoletus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Polioptila plumbea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ramphocelus icteronotus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thraupis episcopus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thraupis palmarum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dacnis cayana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cyanerpes cyaneus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cyanerpes caeruleus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Coereba flaveola</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tangara larvata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sporophila corvina</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sporophila intermedia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Volatinia jacarina</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Saltator maximus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Piranga rubra</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Geothlypis semiflava</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Protonotaria citrea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Setophaga petechia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Parkesia noveboracensis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Myiothlypis fulvicauda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Psarocolius wagleri</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Quiscalus mexicanus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Molothrus bonariensis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Euphonia minuta</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Evaluar la diversidad taxonómica y funcional de reptiles y aves y su relación con la
+estructura vertical y horizontal de los hábitats en Cabo Manglares-Colombia.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Sabrina</givenName>
+                <surName>Monsalve</surName>
+            </individualName>
+            <organizationName>Comisión Colombiana del Océano</organizationName>
+            <positionName>Coordinadora Plan Nacional de Expediciones Científicas Pacífico</positionName>
+            <address>
+                <deliveryPoint>Avenida Ciudad de Cali N° 51-66 Oficina 306, Edificio WBC</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57) (1) 555 6122 Ext. 1003</phone>
+            <electronicMailAddress>expedicionpacifico@cco.gov.co</electronicMailAddress>
+            <onlineUrl>http://www.cco.gov.co</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Reptiles
+El muestreo se realizó mediante el método de búsqueda libre con encuentros visuales y captura manual delimitada por tiempo en las jornadas diurnas.
+
+Durante el muestreo se buscó abarcar las coberturas presentes en cada sitio (manglar y zona de litoral). La búsqueda se realizó en los diferentes estratos
+(arreglo vertical de la cobertura) y sustratos como dentro y cerca de cuerpos de agua, entre la hojarasca y raíces, bajo troncos, piedras y montículos, sobre troncos, ramas y hojas, entre la corteza y oquedades de los árboles, sobre el suelo, cuevas o grietas en el suelo, etc.
+
+Para cada individuo, observado se anotó el sustrato sobre el que se observó, estrato (altura con respecto al suelo), coordenadas, tipo de cobertura. Los
+individuos se identificarán con la ayuda de guías de campo; además se anotaron características morfológicas y de diseño importantes.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves
+Consistió en la realización de recorridos de observación en los sectores Bajo Comilinche, Milagros, Teherán y Colombia grande, para esta técnica se utilizó la
+metodología de búsqueda intensiva, la cual consiste en realizar transectos sobre los senderos o trochas que pasan de forma estratégica por los diferentes sitios definidos para el área de estudio. Esta metodología nos permite obtener un inventario más eficiente debido a que se cubre una mayor área dentro de las coberturas de interés, además nos permite obtener los registros de las actividades ecológicas y comportamentales durante los censos, los muestreos se realizaron en el siguiente horario de 06:30 a las 10:30 horas y en la tarde desde las 15:00- 18:00 horas, con el fin de abarcar los picos más altos de actividad y establecer los recorridos para la observación de las especies. Durante los recorridos las especies de aves detectadas de forma visual o auditiva. Esta metodología se empleó durante 9 días abarcando un total de 8 horas diarias, por 2 hombres, con un esfuerzo total de muestreo de 74 horas/hombre.
+
+La identificación de las especies se realizó tanto visual como auditivamente, para la identificación por canto se utilizaron bases de datos de las vocalizaciones de las
+aves del Chocó, que se obtienen de la página Xeno-canto. Para el registro de lasespecies de aves se utilizaron binoculares marca Busnell 8x 42, además de una
+cámara Nikon D90 para la toma de registro fotográfico y posterior corroboración con material bibliográfico especializado, guía de las Aves de Colombia, guía de las Aves de Colombia de campo, Ilustrated Checklist of the birds of the World y la Guía ilustrada de la Avifauna Colombiana.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El proyecto se llevó a cabo en el Departamento de Nariño en el sector meridional del Pacífico colombiano, entre la ensenada de Tumaco y la localidad de Candelilla de la Mar.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Durante la fase de campo se muestrearon manglares y zonas de litoral de Cabo
+Manglares en el Pacífico colombiano. Los muestreos fueron estandarizados siguiendo protocolos metodológicos
+comúnmente usados para cada grupo taxonómico</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="Colombia_BIO">
+                <title>Caracterización de biodiversidad para el fortalecimiento de colecciones científicas y la generación de información genética de la biodiversidad colombiana, en el marco del programa Colombia BIO</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Sabrina</givenName>
+                    <surName>Monsalve</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Colombia BIO. Convenio especial de cooperación. Aunar esfuerzos para caracterizar la biodiversidad en áreas de interés científico y con baja información biológica, para el fortalecimiento de las colecciones científicas y la generación de información genética de la biodiversidad Colombiana, en el marco del programa Colombia BIO.</para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:29Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/l5m2t3">Universidad Pedagógica y Tecnológica de Colombia (UPTC) (2019). Reptiles y aves del Distrito Nacional de Manejo Integrado Cabo Manglares Bajo Mira y Frontera, Pacífico colombiano - Proyecto Colombia BIO. Versión 1.0. 204 registros, aportados por: Carvaja J E, Peñuela G, Higuera D.F, Eguis J. Conjunto de datos/Registros biológicos. https://doi.org/10.15472/l5m2t3 accessed via GBIF.org on 2024-06-17. accessed via GBIF.org on 2024-06-17. accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uptc.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

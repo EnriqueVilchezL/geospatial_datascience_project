@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="9f11d995-dba1-436b-a96a-89d8617c9c15"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/qreaio</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=ecopetrol_kale_fauna-flora</alternateIdentifier>
+        <title>Fauna y flora asociada al Estudio de Impacto ambiental para el proyecto Piloto de Investigación Integral - Kalé</title>
+        <creator>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Gerencia de Gestión Ambiental y Relacionamiento</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>SGI S.A.S CONSULTORIA E INGENIERIA</surName>
+            </individualName>
+            <organizationName>SGI S.A.S CONSULTORIA E INGENIERIA</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>CRA 28 # 83-28/34</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(1) 742 4101</phone>
+            <onlineUrl>https://sgisas.co/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Gerencia de Gestión Ambiental y Relacionamiento</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2022-10-24
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Dando cumplimiento a los requerimientos por parte del Ministerio de Ambiente y Desarrollo Sostenible – MADS (resolución 0821 de 2020) para los yacimientos no convencionales -YNC de hidrocarburos con la utilización de la técnica fracturamiento hidráulico multietapa con perforación horizontal, se desarrolló el Estudio de Impacto ambiental para el proyecto Piloto de Investigación Integral - EIA Kalé. Este se realizó en un polígono especifico en el departamento de Santander a través de monitoreos de fauna silvestre de invertebrados y vertebrados y caracterización florística de la región, con el fin de determinar la composición, estructura, diversidad y presencia de especies en esta región intervenida.</para>
+<para>Este recurso contiene los datos biológicos provenientes de las actividades de foto-trampeo, recorridos de búsqueda libre, instalación de redes de niebla, cámaras trampa, inventario forestal y ubicación de parcelas, que permitieron identificar la fauna silvestre presente en el área de influencia del proyecto PII Kalé, ubicado específicamente en el municipio de Puerto Wilches, que forma parte de la provincia de Yariguies.</para>
+<para>El presente recurso contiene 11.130 registros de fauna y flora obtenidos durante el año 2021. Dichos registros fueron identificados en el área de influencia del proyecto en cuestión que se encuentra ubicado en el municipio de Puerto Wilches en Santander. Los datos están distribuidos en plantas (6.986) y animales (4.144).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Anfibios</keyword>
+            <keyword>Plantas no Vascualares</keyword>
+            <keyword>Vertebrados</keyword>
+            <keyword>Invertebrados</keyword>
+            <keyword>Mamíferos</keyword>
+            <keyword>Inventario Forestal</keyword>
+            <keyword>Plantas Vaculares</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=ecopetrol_kale_fauna-flora</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los monitoreos se ubicaron en el área de incidencia del proyecto EIA Kalé en Puerto Wilches, municipio del departamento de Santander, que forma parte de la provincia de Yariguies. Está situado a la margen derecha del rio Magdalena y se encuentra a una altura promedio de 75 msn. La zona se caracteriza por presentar temperaturas que oscilan entre 25°C y 40°C. La precipitación media anual es de 3.104,5 mm y la mayor parte de su territorio es plano con algunas ondulaciones, oríllales bajos, terrazas, pantanos y ciénagas.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.899</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.808</eastBoundingCoordinate>
+                    <northBoundingCoordinate>7.41</northBoundingCoordinate>
+                    <southBoundingCoordinate>7.308</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-03-17
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-12-30
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este recurso contiene un total de 11.130 registros biológicos, pertenecientes a los reinos Plantae (6.986) y Animalia (4.144). El reino Plantae está agrupado en 5 clases diferentes, 29 ordenes, 63 familias y 179 géneros. Un 83% esta clasificado a nivel de especie y 17% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Ericales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lycopodiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Animalia está agrupado en 6 clases, 38 ordenes, 112 familias y 273 géneros. Un 72% esta clasificado a nivel de especie, 17% a género y 10% a familia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Collembola</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <surName>Gerencia de Gestión Ambiental y Relacionamiento</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A.</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Invertebrados:
+Colémbolos: La metodología consistió en la implementación de un transecto de 100 metros sobre el cual se tomaron cuatro muestras de suelo, con ayuda de una pala de cavó un área de 95 cm^2 y una profundidad de 15cm, se recolecto en una bolsa plástica todo el material dentro del área escogida, se identificó y georreferencio (Gómez-Anaya et al, 2010). Una vez obtenidas las muestras, estas se procesaron in situ mediante una batería de embudo Bersele durante 72 horas con una bombilla de 25 watts por embudo. Lo anterior se realizó con el fin de extraer la mesofauna activa de las muestras del suelo y en la hojarasca. A continuación, se buscó un lugar aislado con un marco para sostener los embudos de plásticos y se colocó un tamiz de 8 centímetros de diámetro y 5 centímetros de altura con las muestras encima del embudo. El método permitió que los organismos del suelo respondieran al incremento de luz, temperatura o sequedad del suelo migrando hacia las botellas de muestreo, las cuales contenían etanol al 75% (Karyanto, Rahmadi, Franclin, Susilo y Wellington de Morais, 2012). Para la identificación de los colémbolos se revisaron claves taxonómicas y artículos científicos para constatar la información de las determinaciones (Ospina et al., 2003; Díaz-Azpiazu, González-Cairo et al., 2004; Ospina, Rodríguez &amp; Peck D, 2009)</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Himenóptera terrestre (Hormigas): La metodología consistió en la implementación de diferentes técnicas de colecta para lograr la captura de distintos grupos de hormigas según sus hábitos.
+
+Trampas Winkler: El esfuerzo de muestreo consistió en 4 trampas winkler de 1 m^2 de hojarasca cada una, en un transecto de 100 metros para cada punto de muestreo.  La trampa se aplicó para el muestreo de hojarasca y está constituida en dos partes: un cernidor en donde fue tamizada una muestra de hojarasca de 1 m^2. Luego este contenido se incluyó en dos bolsas de malla, que fueron colocados en la segunda parte de la trampa denominado saco winkler. En este se colectaron las muestras con etanol al 70%, que por geotropismo cayeron artrópodos presentes en la muestra (Villarreal et al., 2006). Los sacos se dejaron en campo durante 72 horas. Una vez se obtuvieron las muestras se procedió a llevar las al laboratorio para su identificación. La morfotipación de los especímenes se realizó en base a caracteres externos (Bolton et al., 2003; Delsine et al., 2019)
+
+Trampas de caída: El esfuerzo de muestreo consistió en un transecto de 100 metros, conformado por 10 trampas de caída, una cada de 10 metros y con una duración de 48 horas por trampa. La metodología consistió en un recipiente de 250 ml de abertura de un diámetro de 10 centímetros, que se enterró a ras de suelo con una preparación de agua y jabón para atrapar los insectos que pasaban por esta zona. Una vez se realizó el muestreo, los organismos fueron tamizados y colocados en frascos de vidrios (etanol al 70%) para su identificación. La morfotipación de los especímenes se realizó en base a caracteres externos (Bolton et al., 2003; Delsine et al., 2019)
+
+Trampas de cebo: El esfuerzo de muestreo consistió en un transecto de 100 metros, conformado por un cebo cada 10 metros para completar 10 trampas. La metodología implementada consistió en una trampa con cebo (atún) a nivel del suelo durante 15 o 30 minutos (tiempo de captura). Una vez se realizó el muestreo, los organismos fueron colocados en frascos de vidrios (etanol al 70%) para su identificación. La morfotipación de los especímenes se realizó en base a caracteres externos (Bolton et al., 2003; Delsine et al., 2019)
+
+Captura manual: El esfuerzo de muestreo consistió en búsquedas cada 10 metros en un transecto de 100 metros. La técnica se basó en la búsqueda cuidadosa de troncos en descomposición, hojarascas, depósitos de detritus, frutos caídos, cortezas de árboles y arbustos, epifitas, hojas y nectarios. El método permitió la captura de especies cuya probabilidad de ser capturados con otros métodos es muy baja. Una vez se realizó el muestreo, los organismos fueron colocados en frascos de vidrios (etanol al 70%) para su identificación. La morfotipación de los especímenes se realizó en base a caracteres externos (Bolton et al., 2003; Delsine et al., 2019)</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Lepidópteros diurnos: La metodología consistió en la implementación de dos métodos de colecta:
+
+Trampas Van Someren-Rydon: El esfuerzo de muestreo consistió en cuatro trampas Van Someren-Rydon cada 50 metros en un transecto de 250 metros por cada unidad de cobertura vegetal y una duración de 48 horas. La metodología consistió en una trampa formada con un tubo cilíndrico recubierto por un velo, en la parte inferior se colocó un plato ancho con banano en descomposición para la atracción de las mariposas.
+
+Búsqueda activa con jama: El esfuerzo de muestreo consistió en búsquedas mediante recorridos en un transecto de 100 metros por cada unidad de cobertura y un esfuerzo de muestreo de dos horas de búsqueda activa diaria. La técnica consta de una red o maja entomológica para la captura de insectos, está consta de un aro metálico al que va de adherido un tul en forma cónica, sostenido por una vara de metal que soporta el instrumento. 
+
+Una vez se colecto los ejemplares, se procedió a sacrificar los con acetona en una cámara hermética y dispuestos en papel. Los sobres fueron marcados y almacenados en bolsas herméticas con silica-gel. A continuación, se almacenaron en cajas plásticas herméticas con silica gel. Por último, la determinación taxonómica se llevó a cabo, siguiendo las siguientes laminas y claves: Pieridae (Le Crom, Llorente, Constantino y Salazar; 2004), Mariposas de Colombia; Papilionidae (Le Crom, Constantino y Salazar; 2002), Mariposas de la cordillera central de Colombia (García-Robledo et al.; 2002), Mariposas diurnas de la zona cafetera colombiana (Valencia, et al., 2005). Además, los ejemplares recolectados se compararon con las especies tipo de la base de datos Butterfies of America (Warren et al., 2016).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Coleópteros: La metodología de este grupo de organismos se dividió en dos grupos de coleópteros: escarabajos coprófagos y escarabajos melolóntidos. 
+
+Escarabajos coprófagos: 
+
+Trampas de caída con atrayente: El esfuerzo de muestreo consistió en 6 trampas ubicadas cada 10 metros en un transecto de 60 metros por cada unidad de cobertura vegetal, por un periodo de dos días por cada trampa. La técnica consistió en trampas conformadas por un recipiente de abertura ancha que se enterró a ras de suelo con un atrayente (heces humanas) para que los coprófagos lleguen con mayor rapidez. Una vez se realizó el muestreo, los organismos fueron colocados en frascos de vidrios (etanol al 70%) etiquetados y almacenados en cajas plásticas. A continuación, se procedió a la determinación taxonómica con ayuda de un estereoscopio y por medio de calves especializadas (Vaz-De-Mello et al., 2011; C. A. Medina &amp; Lopera-Toro, 2000). Por otro lado, las determinaciones a nivel de especie se usaron las siguientes claves y revisiones taxonómicas por cada género: Deltochilum (González et al., 2009); Phanaeus (Edmonds &amp; Zídek, 2012); Dichotomius (Montoya-Molina et al., 2020; Nunes &amp; Vaz-De-Mello, 2013) y Coprophanaeus (Edmonds &amp; Zidek, 2010)
+
+Escarabajos melolóntidos: 
+
+Captura manual: El esfuerzo de muestreo consistió en una cuadrícula de 1 m^2, ubicada aleatoriamente en la cobertura vegetal, con una duración de horas de búsqueda. La técnica consistió en una búsqueda activa y captura con pinzas de individuos posados en la vegetación, en depósitos de detritus y al interior de troncos en descomposición. Una vez se realizó el muestreo, los organismos fueron colocados en frascos de vidrios (etanol al 70%) etiquetados y almacenados en cajas plásticas. La determinación se realizó exclusivamente para adultos, con ayuda de las claves taxonómicas y catálogos reportados para Colombia (Delgado, Pérez, &amp; Blackaller, (2000); Gasca &amp; Amat (2010); López García, García Atencia &amp; Amat García (2015); Restrepo et al., 2003; Villalobos-Moreno 2017.
+
+Insectos estridulantes: El objetivo de este monitoreo fue asociar el sonido emitido de estos organismos a través de una búsqueda manual. La técnica consistió en el método de un transecto de longitud indefinida en el área de la plataforma para la identificación de la estridulación de los organismos buscando en los troncos de los árboles, en los pastizales y debajo de las hojas de los arbustos. Una vez se toma la grabación, se procede a la captura del espécimen y se incluyen en frascos de etanol al 70%, debidamente marcados y etiquetados. Al final para cada organismo se obtuvo una grabación de espectro audible y de ultrasonido. También, para algunos ejemplares se obtuvieron fotos y video de la estridulación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Vertebrados:
+Anfibios y reptiles:
+
+Para la caracterización de las comunidades herpetofaunisticas presentes en el área de influencia, se realizó un muestreo estratificado teniendo en cuenta las unidades de cobertura vegetal que representan el gradiente de transformación desde coberturas naturales poco intervenidas (Bosque Ripario); coberturas medianamente intervenidas (vegetación secundaria alta o baja); coberturas intervenidas (zonas pantanosas – transición a la ciénaga); coberturas altamente intervenidas (cultivos de palma). 
+
+El método de captura y muestreo consistió en Visual Encounter Survey, Heyer 1994. Esta es una metodología de monitoreo de anfibios usada para determinar la riqueza de especies en un área, y consiste en contar todos los animales detectados durante una caminata y un tiempo fijo establecido. El objetivo principal de la técnica es poder abarcar la mayor cantidad de microhábitats presentes en el lugar de muestreo. La búsqueda puede realizarse al azar a lo largo de transectos. El tipo de muestreo implementado fue estratificado con localización al azar en unidades de cobertura dentro del área de estudio y la escogencia de las unidades de cobertura fue determinada por las diferencias entre las mismas teniendo en cuenta su grado de transformación en donde la aplicación del método se intensifico en buscar microhábitats (charcos, arroyos, estanques, entre otros). Se realizaron recorridos a cabo por medio de transectos durante tres periodos del día: de 8:00 am a 12:00 pm se buscaron organismos con hábitos matutinos; de 14:00 a 17:00 pm se buscaron reptiles y de las 18:00 a las 22:00 pm se buscaron especies de ranas. El registro de las especies se realizó fotográficamente con una cámara Nikon D5100.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves:
+
+Se definió un gradiente de intervención de coberturas con el fin de contrastar las unidades de muestreo, a partir del gradiente de coberturas y el porcentaje área de influencia. Se consideraron cuatro coberturas: coberturas naturales poco intervenidas (Bosque ripario); coberturas medianamente intervenidas (vegetación secundaria alta o baja); coberturas intervenidas (zonas pantanosas – transición a la ciénaga); coberturas altamente intervenidas (cultivos de palma). La caracterización de la avifauna para cada una de las unidades de monitoreo definidas anteriormente, incluyo 3 metodologías en dos épocas climáticas (menor y mayor precipitación).
+
+Puntos de observación: La metodología consistió en realizar muestreos por detección visual para identificar el ensamblaje de aves y estimar variaciones en presencia y ausencia de especies. (Ralph et al. 1993, Bibby et al. 2000, Villareal et al. 2006). Se establecieron 45 puntos fijos de conteo ubicados en el área de influencia entre las diferentes coberturas, para cada cobertura se delimito una distancia de 200 metros entre cada punto de observación a lo largo de 2 kilómetros de línea recta. Antes del muestreo en cada punto se describió el tipo de hábitat, porcentaje de nubosidad y se registró la hora de inicio, realizando censos de 10 minutos por punto de observación con cuatro repeticiones en diferentes horas entre las 5:00 am y las 10:00 am. Los datos obtenidos se verificaron haciendo uso de la plataforma de registros ornitológicos eBird. 
+
+Recorridos libres: Se realizaron recorridos en las coberturas definidas bajo el gradiente de intervención entre las 15:00 y 18:30 horas para la obtención de registros auditivos y visuales. Esto se realizó a través de la metodología de transectos aleatorios de amplitud variables y tiempo restringido, que consiste en desplazamientos lentos para registrar los individuos. Adicionalmente, las observaciones de aves en los recorridos libres se hicieron a través de binoculares (10 x 50) y se llevó registro fotográfico en una cámara digital (zoom 60X) y GPS para la georreferenciación. 
+
+Métodos de captura: El esfuerzo de muestreo consistió en diez redes de niebla de 12 metros de largo por 3 metros de alto, con ojo de 30 mm y 36 mm (Villareal et al., 2006). Las redes de nieblas se establecieron en dos estaciones de monitoreo por cobertura de muestreo. La apertura de redes se realizó desde las 6:00-10:00 horas y de las 15:00-18:00 horas, durante dos días por estación de monitoreo y se revisaban cada 15 minutos. Adicionalmente, para cada cobertura se tomaron medidas morfométricas (peso, longitud total del pico, cuerpo alar, entre otras) y identificación de presencia/ausencia de parche de incubación (López et al., 2015). Además, se tomó registro fotográfico de cada espécimen como soporte de la presencia en el área y posteriormente fueron liberados en el mismo lugar.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos:
+
+Mamíferos pequeños terrestres:
+
+Trampas Sherman: El esfuerzo de muestreo consistió en la instalación de 50 trampas Sherman en las coberturas de Bosque de Galería y Ripario y Vegetación Secundaria Alta - Baja, manteniendo una distancia entre si de 10 metros. El tiempo efectivo de trampeo fue de 200 trampas-noche para las principales unidades de cobertura y en cada sitio se dejaron 50 trampas durante 4 días de tal forma que las líneas de trampas estuvieran separadas para evaluar la cobertura contrastante adyacentes. Se utilizó un cebo de mantequilla de maní con grasa de cerdo y esencia de vainilla. La ubicación de las trampas se basó en lugares de alta probabilidad de captura por ser sitios de tránsito de estos animales. 
+
+Trampas Tomahawk: El esfuerzo de muestreo consistió en la instalación de 10 trampas Tomahawk en coberturas de Bosque de Galería y Ripario y Vegetación Secundaria Alta - Baja, manteniendo una distancia entre sí de 10 metros. El tiempo efectivo de trampeo fue de 40 trampas-noche para las principales unidades de cobertura, en cada sitio se dejaron 10 trampas durante 4 días de tal forma que las líneas de trampas estuvieran separadas para evaluar la cobertura contrastante adyacentes. Se utilizó un cebo de mantequilla de maní con grasa de cerdo y esencia de vainilla. La ubicación de las trampas se basó en lugares de alta probabilidad de captura por ser sitios de tránsito de estos animales. 
+
+Trampas Pitfall: El esfuerzo de muestreo consistió en la instalación de 8 trampas Pitfall en coberturas de Bosque de Galería y Ripario y Vegetación Secundaria Alta - Baja, manteniendo una distancia entre sí de 10 metros. El tiempo efectivo de trampeo fue de 32 trampas-noche para las principales unidades de cobertura, en cada sitio se dejaron 8 trampas durante 4 días de tal forma que las líneas de trampas estuvieran separadas para evaluar la cobertura contrastante adyacentes. La ubicación de las trampas se basó en lugares de alta probabilidad de captura por ser sitios de tránsito de estos animales.
+
+Mamíferos medianos y grandes: 
+
+
+Cámaras trampas: El esfuerzo de muestreo consistió en 22 cámaras trampas durante un periodo aproximado de 40 días por cada una durante la temporada seca. Se mantuvieron distancias en forma de rejilla de 1 kilómetro para cada una y así asegurar la detección de los mamíferos en la zona (Díaz -Pulido &amp; Payán, 2011). La ubicación de las trampas se basó en lugares de alta probabilidad de captura por ser sitios de tránsito de estos animales y se programó para un monitoreo continuo de 24 horas por día. 
+
+Mamíferos voladores:
+
+Redes de niebla: El esfuerzo de muestreo consistió en la instalación de redes de niebla en las coberturas de Bosque de Galería-Ripario, vegetación secundaria Alta – Baja y en zonas de transición hacia la ciénaga en donde se instalaron diez redes de niebla, cada una de 12 metros de largo por 2,5 metros durante al menos dos noches cada una. Estas se abrieron a partir de las 17:00 horas y se cerraron a las 22:00 horas. Las redes se revisaron regularmente cada 15 minutos y en caso de lluvia fueron cerradas para evitar causar hipotermia al animal. Por otro lado, a cada murciélago se le tomaron las medidas morfométricas (longitud antebrazo, longitud pata, longitud oreja, longitud cola, longitud cabeza-cuerpo) y se determinó el sexo. La determinación taxonómica se ejecutó directamente en campo y se soportó en guías de campo. (Reid, 2009; Aguirre, Vargas &amp; Solari , 2009; Diaz, Aguiire &amp; Barquez, 2011; Tirira, 2007).
+
+Técnica zipline: La técnica consiste en grabaciones ultrasonidos en un tiempo con una programación continua a través de grabadoras de marca Audimoth. Las secuencias fueron grabadas con murciélagos previamente capturados y liberados en una línea de vuelo para que el individuo emita el sonido, al final de la línea se encuentra la grabadora que registra el sonido emitido por el organismo. 
+
+Grabaciones ambientales de monitoreo pasivo: Se instaló la grabadora cerca de las redes de niebla a dos metros de altura del suelo y se programó 1 minuto cada 10 minutos durante el tiempo que se ejecutó las redes de niebla abierta para la captura de los murciélagos (Orozco-Lugo et al., 2013)
+
+Además de las técnicas mencionadas, también se implementó el avistamiento directo e indirecto de mamíferos medianos y grandes. En los recorridos se registraron heces, madrigueras, huellas, marcas en arboles entre otras evidencias, cada una relacionada con un registro fotográfico o dimensión morfométrica. Otro método implementado fue Ad libitum, que consiste en registros por fuera de las metodologías establecidos regularmente, los cuales correspondían a hallazgos de indicios o avistamientos que se obtuvieron durante los desplazamientos al sitio de muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Flora: la caracterización floristica consistió en un inventario forestal para las coberturas de bosques, caracterización de plantas vasculares -no vasculares y de las especies en veda.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El inventario foresta llevó a cabo la proyección del inventario de caracterización florística con información de bases de datos de otros estudios; se definió el tipo de inventario a realizar; el tamaño y la forma de las parcelas y su distribución preliminar en el área de influencia. Para el número de unidades de muestreo preliminar se realizó una prueba t-Student con una significancia α = 0.5 y un error máximo del 15%. Se obtuvo para el bosque denso alto inundable un total de 30 unidades de muestreo, Bosque Ripario 30 unidades de muestreo, pastos arbolados 30 unidades de muestreo, Vegetación secundaria alta 29 unidades de muestreo y Vegetación secundaria baja 30 unidades de muestreo y paras las coberturas no boscosas se establecieron 3 parcelas por polígono identificado en el mapa de coberturas. Por otro lado, se realizó un pre-muestreo en la etapa de campo con la información del DAP (cm), altura total (m) y volumen comercial (m^3) para el cálculo de estadígrafos (media aritmética, desviación estándar, coeficiente de variación, error de muestreo y calculo depre-muestreo) que permitieran obtener el número de unidades muestrales suficientes para la caracterización de las coberturas vegetales.
+
+De acuerdo con las coberturas vegetales proyectadas en el área de influencia, la forma y el tamaño de las parcelas a emplear para la evaluación de las coberturas boscosas y recolección de datos de individuos de tipo fustal (DAP&gt;10 cm) corresponden a unidades muestrales de forma rectangular con un tamaño de 10 x 100 metros, teniendo un área de muestreo de 1.000 m^2. Cada una de estas parcelas se dividen en subparcelas de 10 x 10 metros. La corrección por pendiente se llevó a cabo utilizando el método de resalto horizontal. Por otro lado, para la evaluación de individuos en estado latizal (altura superior a dos metros y DAP &lt; 10 centímetros) se realizaron 10 subparcelas de 5x5 metros dentro de cada parcela fustal, las cuales fueron establecidas por el método de muestreo simple al azar. Los individuos de tamaño brinzal (altura de 0,71 cm y DAP menor o igual a 1 cm) y renuevo (altura menor de 0,70 cm) fueron muestreados en 10 subparcelas de 2x2 metros anidades dentro de las subparcelas de latizales. Las coberturas de bosque Ripario, Vegetación Secundaria Alta, Bosque Denso Alto Inundable y Pastos Arbolados se realizó en un rectángulo de 10 x 100 metros y dividido internamente en 10 subparcelas demarcadas en letras de la A hasta la J, y en cada uno de ellos se localizaron los cuadros correspondientes a los fustales, latizales, brinzales y renuevos. Respecto a la caracterización de coberturas de tipo herbáceo, se establecieron parcelas o cuadrantes de 2x2 metros, las cuales corresponde a la cobertura de Vegetación Secundaria Baja.
+
+En la fase de campo se adelantaron recorridos en el área de influencia, tomando registros fotográficos, los puntos de control de GPS en las coberturas vegetales identificadas y la instalación de parcelas para la caracterización florística. En el inventario forestal se tomaron diferentes variables dasométricas como: Circunferencia a la altura del pecho (CAP), altura total en metros, altura comercial en metros, número de bifurcaciones por debajo del DAP, diámetro de la coba y identificación del individuo. Se establecieron un total de 24 parcelas en el Bosque de Galería y Ripario, 4 parcelas en el Bosque Denso Alto Inundable, 14 parcelas en el Bosque Ripario, 5 parcelas en Herbazal Denso Inundable Arbolado, 6 parcelas en los Pastos Arbolados, 22 parcelas en los Pastos Enmalezados, 11 parcelas en Pastos Limpios, 12 parcelas en Vegetación Secundaria Alta y 16 parcelas en vegetación Secundaria Baja. A cada parcela se les tomo su coordina magna signa y se dejó registro de su punto inicial y final en dos tubos de PVC para posteriores seguimientos. Una vez establecidas las parcelas, se procedió a la identificación taxonómica directamente en campo y de acuerdo con la clave taxonómica de Gentry (1993). Así mismo se utilizó la información de flora contenida en la bibliografía de la región (Idágarra et al., 2016).
+
+La caracterización de las especies vasculares y no vasculares de habito epifito, rupícola y terrestre y de las especies en veda nacional (aráceas, bromelias, orquídeas, helechos, briofitos y líquenes) se realizó mediante la implementación del protocolo de muestreo rápido y representativo de epifitas vasculares, metodología RRED (Gradstein et al., 2003). Este consistió en realizar el registro de 8 forófitos por hectárea, teniendo en cuenta la relación de cinco forófitos para el muestreo de los grupos no vasculares (briofitos y líquenes), y ocho forófitos para los grupos vasculares (orquídeas, bromelias y aráceas) siempre y cuando se cuente con la presencia de arbustos. Esta relación se realizó sobre cada una de las parcelas de caracterización forestal dentro del área de influencia del proyecto.
+
+La selección de los forófitos consistió en árboles que cumplieran con los criterios de porte fustal, alturas que dominen el dosel y diámetros a la altura del pecho superiores a 10 cm. Una vez seleccionados los forófitos, se procede al muestreo de las especies de orquídeas, bromelias, helechos, briofitos y líquenes consistió en el establecimiento de una a tres plantillas de 600 cm^2 (30 cm x 20 cm) dentro de una parcela de 1 m^2 para la estimación de la cobertura de los agregados poblacionales de los briofitos y líquenes, y realizando el conteo de los individuos vasculares. La colecta de ejemplares vasculares se realizó mediante las indicaciones de la guía para la recolección y preservación de muestras botánicas en campo de la Universidad Distrital y colaboradores (2004) y Hadlow (2004). Por otro lado, el método de colecta de las especies no vasculares consistió en la recolecta de agregados poblacionales de altura máxima de 1.80 metros, mediante una sección de área ocupada por cada especie sobre la corteza del fórofito, suelo o roca donde se encontrase. Se tomaron de 2 a3 muestras de máximo 25 cm^2 para cada morfoespecie. Las muestras se guardaron en papel Kraft de libra y fueron rotuladas debidamente con el consecutivo de colecta. Por último, la identificación de las especies se realizó mediante la observación de lupas, acompañados de binoculares de largo alcance y cámaras fotográficas para la determinación de sus estructuras características.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Los monitoreos se ubicaron en el área de incidencia del proyecto EIA Kale en Puerto Wilches, municipio del departamento de Santander, que forma parte de la provincia de Yariguies. Está situado a la margen derecha del rio Magdalena y se encuentra a una altura promedio de 75 msn. La zona se caracteriza por presentar temperaturas que oscilan entre 25°C y 40°C. La precipitación media anual es de 3.104,5 mm y la mayor parte de su territorio es plano con algunas ondulaciones, oríllales bajos, terrazas, pantanos y ciénagas. El área de estudio conto con seis puntos de monitoreo ubicados en diferentes coberturas vegetales de mayor representatividad. Se decidió monitorear dos puntos por cada una de la clasificación de intervención para así obtener una caracterización adecuada y ajustada al objeto de estudio. Además, es importante resaltar que la caracterización de invertebrados se realizó en una distribución micro-geográfica en el área de proyecto, definiendo así un circuito de 3 kilómetros alrededor del área de perforación exploratoria APE Kale.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se realizaron muestreos de la fauna silvestre en el lugar de incidencia para invertebrados (colémbolos, himenóptera terrestre, lepidópteros diurnos y coleópteros) y cada grupo tuvo metodologías diferentes de muestreo. Por otro lado, se realizó muestreos de fauna silvestre para vertebrados (anfibios, reptiles, aves y mamíferos) y cada grupo tuvo metodologías diferentes muestreo. Al grupo de las aves y mamíferos voladores se les realizaron grabaciones durante el muestreo. Por último, la caracterización y muestreo florístico se dividió en un inventario forestal para las coberturas de bosques, caracterización de plantas vasculares - no vasculares y de las especies en veda. El muestreo de cada componente florístico tuvo metodologías diferentes.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>ESTUDIO DE IMPACTO AMBIENTAL PARA EL PROYECTO PILOTO DE INVESTIGACIÓN INTEGRAL - PPII KALÉ</title>
+                <personnel>
+                    <individualName>
+                    <surName>Gerencia de Gestión Ambiental y Relacionamiento</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <abstract>
+                    <para>El PPII Kalé es el primer proyecto contemplado en el país que, a través de un proceso experimental, científico y técnico de carácter temporal, que se desarrollará en un polígono específico y que busca recopilar información social, ambiental técnica, operacional y de dimensionamiento del Yacimiento No Convencional (YNC), que requiere del uso de la técnica de Fracturamiento Hidráulico Multietapa con Perforación horizontal (FH_PH), para la extracción de fluidos de la formación Lidita Inferior, del cual se espera generar conocimiento para el fortalecimiento institucional, promover la participación ciudadana, la transparencia y acceso a la información de las condiciones de diseño, vigilancia, monitoreo y control establecidos.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:15Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/qreaio">Ecopetrol S.A., SGI S.A.S CONSULTORIA E INGENIERIA (2022). Fauna y flora asociada al Estudio de Impacto ambiental para el proyecto Piloto de Investigación Integral - Kalé. Ecopetrol S.A.. Occurrence dataset https://doi.org/10.15472/qreaio accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ecopetrol.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="ce8788c0-cde3-44be-ac1b-9d5798c795e5"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/uyqi7p</alternateIdentifier>
+        <alternateIdentifier>ce8788c0-cde3-44be-ac1b-9d5798c795e5</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=herp_cimitarra_san-bio</alternateIdentifier>
+        <title>Anfibios y reptiles del municipio de Cimitarra, Santander - Proyecto Santander BIO</title>
+        <creator>
+            <individualName>
+                <givenName>Andrés</givenName>
+                <surName>Acosta-Galvis</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Curador - Colección de anfibios y reptiles</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15-08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>aacosta@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Kevin</givenName>
+                <surName>Borja-Acosta</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Curador de datos colecciones Biologicas</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15-08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>kborja@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Infraestructura Institucional de Datos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Andrés</givenName>
+                <surName>Acosta-Galvis</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <positionName>Curador - Colección de anfibios y reptiles</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 # 15-08</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>aacosta@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Maribel</givenName>
+                <surName>Arias</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>marias@humboldt.org.co</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Mauricio</givenName>
+                <surName>Torres-Mejía</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <positionName>Coordinador Proyecto Santander Bio</positionName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>rtorres@humboldt.org.co</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Daniela</givenName>
+                <surName>García</surName>
+            </individualName>
+            <organizationName>Universidad de los Andes</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Alcides</givenName>
+                <surName>Arias</surName>
+            </individualName>
+            <organizationName>Sin afiliación institucional</organizationName>
+            <positionName>Guía local</positionName>
+            <address>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2021-07-15
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Bajo el convenio especial de cooperación No. 17-199 entre el departamento de Santander, la Universidad Industrial de Santander y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt se llevó a cabo una evaluación biológica y ecológica rápida en el municipio de Cimitarra en el departamento de Santander, se realizaron muestreos de biodiversidad de diferentes grupos biológicos, en este recurso se presentan los resultados de anfibios y reptiles. Se obtuvo un total de 177 registros biológicos de 40 especies.
+        </abstract>
+        <keywordSet>
+            <keyword>Santander-Bio</keyword>
+            <keyword>IAvH-R</keyword>
+            <keyword>reptiles</keyword>
+            <keyword>anfibios</keyword>
+            <keyword>Cimitarra</keyword>
+            <keyword>IAvH-Am</keyword>
+            <keywordThesaurus>NA</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>La información de los tejidos colectados se encuentra disponible en http://ipt.biodiversidad.co/iavh/resource?r=tejidos_herp_cimitarra_san-bio</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://ipt.biodiversidad.co/iavh/resource?r=herp_cimitarra_san-bio</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/iavh/archive.do?r=herp_cimitarra_san-bio</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Veredas El Águila y Guineal, municipio de Cimitarra, departamento de Santander.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-74.259</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-74.101</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.449</northBoundingCoordinate>
+                    <southBoundingCoordinate>6.069</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2018-07-07
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2018-07-18
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Se obtuvo un total de 177 registros biológicos de 40 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Aunar esfuerzos, capacidades y competencias entre entre el departamento de Santander, el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y la Universidad Industrial de Santander para la ejecución del proyecto “Investigación de la biodiversidad y los servicios ecosistémicos para la gestión integral del territorio - descubriendo los ecosistemas estratégicos para el fortalecimiento de la gobernanza en el departamento de Santander”</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <surName>Infraestructura Institucional de Datos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Los especímenes fueron sacrificados siguiendo la propuesta metodológica de Chen y Combs (1999) y su posterior fijación se realizó en una solución de formol de calidad analítica al 10 %, preservados en etanol al 70 % y depositados en las colecciones biológicas del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Villa de Leyva, Boyacá, Colombia y Universidad Industrial de Santander, Santander Colombia (UIS).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El muestreo se realizó en las veredas: El Águila y Guineal del municipio de Cimitarra, departamento de Santander.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para el muestreo de anfibios y reptiles, las metodologías se basaron a priori,  en la selección de unidades de paisaje presentes en el área a evaluar vs números de días efectivos de campo. Se realizaron cuatro estrategias de colecta, acordes a las características altitudinales y ecológicas, que abarcan: búsqueda libre por registro visual (Heyer et al. 1994), registro acústico (Angulo et al. 2006) con obtención de voucher, método de remoción que incluye rocas  y troncos.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>La identificación, curaduría y procesamiento de los ejemplares se hace bajo referencia de colecciones registradas junto con claves taxonómicas y consulta de expertos.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="Santander_BIO">
+                <title>Investigación de la biodiversidad y los servicios ecosistémicos para la gestión integral del territorio - descubriendo los ecosistemas estratégicos para el fortalecimiento de la gobernanza en el departamento de Santander</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Hernando</givenName>
+                    <surName>García</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Santander BIO. Convenio interadministrativo No. 17-199 cuyo objeto es aunar esfuerzos, capacidades y competencias entre el departamento de Santander, el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y la Universidad Industrial de Santander para la ejecución del proyecto “Investigación de la biodiversidad y los servicios ecosistémicos para la gestión integral del territorio - descubriendo los ecosistemas estratégicos para el fortalecimiento de la gobernanza en el departamento de Santander”</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Municipios El Carmen de Chucurí, Cimitarra y Santa Bárbara del departamento de Santander.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:09Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/uyqi7p">Acosta-Galvis A, Borja-Acosta K (2021). Anfibios y reptiles del municipio de Cimitarra, Santander - Proyecto Santander BIO. Version 4.4. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/uyqi7p accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Angulo, A., Rueda-Almonacid, J. V., Rodríguez-Mahecha, J. V., &amp; La Marca, E. (2006). Técnicas de inventario y monitoreo para los anfibios de la región tropical andina. Conservación Internacional</citation>
+                <citation>Heyer, W. R. M. A., Donnelly, R. W., &amp; McDiarmid, L. C. Hayek, and MS Foster. (1994). Measuring and monitoring biological diversity: standard methods for amphibians. Smithsonian Institution. Washington DC, USA.</citation>
+                <citation>Chen, H. M. &amp; Combs, C. A. (1999). An alternative anesthesia for amphibians: ventral application of benzocaine. Herpetological Review, 30 (1): 34.</citation>
+                </bibliography>
+                <physical>
+                    <objectName>Anfibios y reptiles del municipio de Cimitarra, Santander - Proyecto Santander BIO</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>.txt</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=herp_cimitarra_san-bio</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/iavh.jpg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>NA</parentCollectionIdentifier>
+                    <collectionIdentifier>IAvH-Am</collectionIdentifier>
+                    <collectionName>Colección de Anfibios del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NA</parentCollectionIdentifier>
+                    <collectionIdentifier>IAvH-R</collectionIdentifier>
+                    <collectionName>Colección de Reptiles del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+                </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

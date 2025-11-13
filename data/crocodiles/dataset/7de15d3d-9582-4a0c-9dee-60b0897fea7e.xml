@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="7de15d3d-9582-4a0c-9dee-60b0897fea7e"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/2ptkfq</alternateIdentifier>
+        <alternateIdentifier>7de15d3d-9582-4a0c-9dee-60b0897fea7e</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sibm/resource?r=pbcu_pa-gdb</alternateIdentifier>
+        <title>Registros de fauna marino-costera y terrestre encontrados en el golfo de Urabá</title>
+        <creator>
+            <individualName>
+                <givenName>Natalia</givenName>
+                <surName>Parada</surName>
+            </individualName>
+            <organizationName>Puerto Bahía Colombia de Urabá S.A</organizationName>
+            <positionName>Coordinadora de Biodiversidad</positionName>
+            <address>
+                <deliveryPoint>Centro Empresarial Santa maría</deliveryPoint>
+                <city>Apartadó</city>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jparada@puerto-antioquia.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Adriana</givenName>
+                <surName>Obando</surName>
+            </individualName>
+            <organizationName>Puerto Bahía Colombia de Urabá S.A</organizationName>
+            <positionName>Directora de Sostenibilidad</positionName>
+            <address>
+                <deliveryPoint>Centro Empresarial Santa maría</deliveryPoint>
+                <city>Apartadó</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Alejandra</givenName>
+                <surName>Maz Courrau</surName>
+            </individualName>
+            <organizationName>Aqua y terra</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>alejandra.maz@aquayterra.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jorge León</givenName>
+                <surName>Sanchez Toloza</surName>
+            </individualName>
+            <organizationName>COTEMA</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>Jorge.Sanchez@cotema.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Arley</givenName>
+                <surName>Pallares</surName>
+            </individualName>
+            <organizationName>Puerto Bahía Colombia de Urabá S.A</organizationName>
+            <positionName>Director ambiental</positionName>
+            <address>
+                <deliveryPoint>Centro Empresarial Santa maría</deliveryPoint>
+                <city>Apartadó</city>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>apallares@puerto-antioquia.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Juan Diego</givenName>
+                <surName>Correa</surName>
+            </individualName>
+            <organizationName>C&amp;C consultores ambientales</organizationName>
+            <positionName>Director</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Natalia</givenName>
+                <surName>Cabezas Alvis</surName>
+            </individualName>
+            <organizationName>Puerto Bahía Colombia de Urabá S.A</organizationName>
+            <positionName>Coordinadora de Biodiversidad</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>ncabezas@puerto-antioquia.com</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Jaime José</givenName>
+                <surName>Parada</surName>
+            </individualName>
+            <organizationName>Puerto Bahía Colombia de Urabá S.A</organizationName>
+            <positionName>Coordinador de Biodiversidad</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jparada@puerto-antioquia.com</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2025-08-04
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Este conjunto de datos se compone de las campañas de monitoreos realizados dentro del programa de manejo de fauna para el proyecto Puerto Bahía Colombia de Urabá PBCU, estas campañas tienen como fecha de inicio septiembre de 2022, y se desarrollan teniendo en cuenta la época climática, que para la región de estudio es época seca en el primer trimestre del año época lluvia en el cuarto trimestre del año. En total se presentan 26.470 que corresponde a fauna terrestre, 108 registros de hidro biota identificada en el trayecto de la obra asociada línea eléctrica y 82 registros de fauna marina, compuesto por 362 taxones diferentes.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PBCU</keyword>
+            <keyword>Golfo de Urabá</keyword>
+            <keyword>Fauna Costera</keyword>
+            <keyword>Fauna Marina</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sibm/archive.do?r=pbcu_pa-gdb</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los registros se localizan en el municipio de Turbo y Apartadó, departamento de Antioquia, específicamente en el golfo de Urabá. El ecosistema presente en esta área es el bioma del bosque húmedo tropical del Magdalena y Caribe. Dentro de la zona de influencia, se encuentra el río León, que abarca una superficie de 4,4 ha, así como cuerpos de agua salada que bordean la zona litoral y se extienden a partir de la línea de costa durante el período de bajamar.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-76.936</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-76.714964</eastBoundingCoordinate>
+                    <northBoundingCoordinate>8.228</northBoundingCoordinate>
+                    <southBoundingCoordinate>7.771274</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2020-08-26
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-03-22
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Los 26.660 registros corresponden a vertebrados, representando 38 órdenes y 107 familias. Las familias que presentaron mayor número de registros son Alligatoridae (681 registros), Tyrannidae (514 registros) y Thraupidae (365 registros).  Del total de registros, 26.660 registros se lograron determinar al nivel de especie, 55 a género, 18 a subespecie, 1 a familia y 3 a clase.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Conocer la presencia y comportamiento de la fauna marina en la zona de influencia del proyecto</para></purpose>
+        <maintenance>
+            <description>
+                <para>La frecuencia de las campañas de monitoreo es trimestral</para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Natalia</givenName>
+                <surName>Cabezas Alvis</surName>
+            </individualName>
+            <organizationName>Puerto Bahía Colombia de Urabá S.A</organizationName>
+            <positionName>Coordinadora de Biodiversidad</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>ncabezas@puerto-antioquia.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Monitoreo terrestre:
+Herpetos: 
+El método aplicado es encuentros visuales (VES: Visual Encounter Survey): Se realizaron búsquedas con recorridos sistemáticos en transectos de 150 y 200 m de largo con ancho no definido, cada uno codificado y georeferenciado con el objetivo de buscar microhábitats. El método consiste en caminar lentamente, buscando activamente anfibios y reptiles en todos los microhábitats presentes hasta 2 m de altura, debajo de troncos, en la hojarasca, alrededor de cuerpos de agua y sobre ramas o vegetación, cubriendo varios tipos de vegetación y hábitats presentes como terrestres, arbóreos y acuáticos. Los censos se realizaron durante el día entre las 8:00 y las 12:00 horas y por la noche entre las 17:00 y las 22:00 horas. Se georreferenciaron los transectos recorridos y realizaron
+levantamientos durante 2 días, por cada sitio asegurando al menos nueve horas de esfuerzo de búsqueda por sitio. Los ejemplares observados se identificaron hasta el mínimo nivel taxonómico posible y se fotografiaron in situ.
+
+Monitoreo acústico pasivo:
+Se instalaron cuatro (4) grabadoras acústicas pasivas marca AudioMoth, distribuidas en el área del monitoreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos voladores
+Para este grupo taxonómico, se establecieron diez (10) estaciones de muestreo, ocho (8) en el área de influencia y dos (2) por fuera de ella, nombradas control. En cada estación, se instalaron cinco (5) redes de niebla de 12 x 2,5 m, estuvieron abiertas entre las 17:30 y las 22:00 horas y cada 30 minutos fueron revisadas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos no voladores
+Para este grupo taxonómico también se aplicó el método encuentros visuales (VES: Visual Encounter Survey): Se realizaron búsquedas con recorridos sistemáticos en transectos de 150 y 200 m de largo con ancho no definido, cada uno se codificado y georeferenciado con el objetivo de buscar registros de registros directos como los avistamientos y vocalizaciones, y los registros indirectos como huellas, restos óseos, pelos, heces, madrigueras, comederos, echaderos o dormidero, pieles, entre otros. Este método se complementó con entrevistas a pobladores locales, playbacks e instalación de cámaras trampa.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Monitoreo de mamíferos y reptiles marinos
+Transectos 
+Recorridos lentos en busca de avistamiento directos o indicios de la presencia de fauna marina.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Espera pasiva y bioacústica
+Se establecieron puntos fijos o de espera pasiva de 30 minutos a lo largo de los transectos con la finalidad de hacer observaciones directas de la fauna marina.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>De acuerdo con la distribución de coberturas de la tierra en el área de intervención del proyecto, los transectos se encuentran ubicados en las coberturas de vegetación secundaria, herbazal húmedo inundable no arbolado, pastos limpios, bosque de galería a orillas del río León, arracachal y manglar.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Teniendo en cuenta que son varios grupos taxonómicos, se aplican diferentes metodologías, entre ellas se encuentra para el grupo terrestre el método encuentros visuales (VES: Visual Encounter Survey), monitoreo acústico pasivo, instalaciones de redes de niebla y espera pasiva.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Calidad de muestreo va relacionada con el apoyo de que los métodos aplicados son los recomendados por expertos de cada grupo taxonómico, además cuenta con equipos en formato digital WAV a una tasa de muestreo de 44.1 KHz con resolución de 16 bits, empleando un sistema de grabación que consta de un hidrófono omnidireccional AS-1 con respuesta de frecuencia de 0.001 a 100 KHz, unido al amplificador PA6 Phantom-Powered Hidrophone, con una ganancia de 26 decibeles (dB), conectado a su vez a una grabadora Zoom H4N-PRO Recorder (Aquarian Hydrophones, 2022); además se usaron unos audífonos on-ear para monitorear al instante los sonidos grabados.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>BMEP marino y terrestre para Puerto Bahía Colombia de Urabá PBCU</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Natalia</givenName>
+                    <surName>Cabezas Alvis</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Este proyecto consiste en la construcción y operación de una terminal portuaria de graneles sólidos de gran calado, que se compone de una plataforma terrestre, un viaducto y una plataforma marina. Teniendo en cuenta las obligaciones ambientales nacionales (ANLA) e internacionales (IFC PS6), se ha venido implementando medidas de manejo ambiental que aseguran la no pérdida de la biodiversidad afectada. En este contexto, los BMEP son los programas de monitoreo y evaluación para la fauna marina y terrestre, lo que permite realizar un seguimiento del comportamiento de la biodiversidad en la zona de influencia del proyecto.</para>
+                </abstract>
+                <funding>
+                    <para>EL BID-INVEST, BANCO DAVIVIENDA, BANCOLDEX, FDN, GLOBAL INFRAESTRUCTURE PARTNERS</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El área de estudio se compone por las siguientes coberturas Arbustal abierto, arracachal, bosque de galería y/o ripario, helechal, herbazal denso de tierra firme arbolado y no arbolado, herbazal denso inundable no arbolado, manglar alto denso, palmares, pastos arbolados y limpios, plantación de latifoliadas, plátano y banano y vegetación secundaria alta y baja. Para definir el área de influencia en la parte acuática costera se mantuvo el principio de las coberturas empalmando estas en ambas orillas del río León, comprendiendo una parte del canal Nueva Colonia hasta la desembocadura del río León.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Teniendo en cuenta la diversidad de especies, se llevó a cabo un análisis de los métodos de monitoreo adecuados para cada grupo taxonómico. Debido a las dinámicas y comportamientos de las especies, como su dieta y horarios de actividad, y considerando que en algunas ocasiones se encuentran en zonas de humedal de difícil acceso, se optó por el uso de varias metodologías que, de forma complementaria, se articulan para la búsqueda y registro de la presencia de estas especies en el área de influencia del proyecto. Entre las metodologías aplicadas se encuentran el uso de transectos, encuentros visuales directos, inspección de puntos de comederos, huellas, rastros y heces, espera pasiva, bioacústica y playbacks.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:58Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/2ptkfq">Parada N, Obando A, Maz Courrau A, Sanchez Toloza J L, Pallares A, Correa J D, Cabezas Alvis N, Parada J J (2025). Registros de fauna marino-costera y terrestre encontrados en el golfo de Urabá. Version 1.4. Puerto Bahía Colombia de Urabá S.A. Occurrence dataset https://doi.org/10.15472/2ptkfq accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-PBCU.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

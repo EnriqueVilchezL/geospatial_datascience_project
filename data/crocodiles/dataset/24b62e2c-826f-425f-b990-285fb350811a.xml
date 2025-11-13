@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="24b62e2c-826f-425f-b990-285fb350811a"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15468/dn2mdd</alternateIdentifier>
+        <alternateIdentifier>https://www.snib.mx/iptconabio/resource?r=SNIB-JE009</alternateIdentifier>
+        <alternateIdentifier>http://ipttest.conabio.gob.mx/iptconabiotest/resource?r=SNIB-JE009</alternateIdentifier>
+        <alternateIdentifier>http://www.snib.mx/iptconabio/resource?r=SNIB-JE009</alternateIdentifier>
+        <alternateIdentifier>http://www.snib.mx/iptconabio/resource?r=SNIB-JE009-Cocodrilos-ND</alternateIdentifier>
+        <alternateIdentifier>24b62e2c-826f-425f-b990-285fb350811a</alternateIdentifier>
+        <title>Implementación del programa de monitoreo del cocodrilo del pantano (Crocodylus moreletti) México-Belice-Guatemala: región de coordinación MXRC2-Golfo Centro, Veracruz centro y norte Oaxaca</title>
+        <creator>
+            <individualName>
+                <givenName>Marco Antonio</givenName>
+                <surName>López Luna</surName>
+            </individualName>
+            <organizationName>Chebal Jalalal S de SS de RI</organizationName>
+            <positionName>Responsable</positionName>
+            <address>
+                <city>Tuxtla Gutiérrez</city>
+                <administrativeArea>Chiapas</administrativeArea>
+                <postalCode>2900</postalCode>
+                <country>MEXICO</country>
+            </address>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>CONABIO</givenName>
+                <surName>Comisión nacional para el conocimiento y uso de la biodiversidad</surName>
+            </individualName>
+            <organizationName>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</organizationName>
+            <positionName>Dirección General de Sistemas</positionName>
+            <address>
+                <deliveryPoint>Liga Periférico-Insurgentes Sur No. 4903, Col. Parques del Pedregal</deliveryPoint>
+                <city>MÉXICO</city>
+                <administrativeArea>Tlalpan</administrativeArea>
+                <postalCode>14010</postalCode>
+                <country>MEXICO</country>
+            </address>
+            <phone>50045000</phone>
+            <electronicMailAddress>patricia.ramos@conabio.gob.mx</electronicMailAddress>
+            <onlineUrl>https://www.gob.mx/conabio</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2025-04-02
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El Programa de Monitoreo de Crocodylus moreletii pretende dar seguimiento al estado y tendencias de las principales poblaciones silvestres de la especie en toda su área de distribución (México, Belice y Guatemala). Como parte de los resultados del Taller Trinacional sobre el Programa (enero 2010) y trabajos posteriores con los participantes, se elaboró un Manual de Procedimientos cuyo fin es la estandarización de los métodos y del tipo de información que se obtendrá a través del Programa de Monitoreo de C. moreletii. Dicho Manual describe en detalle el diseño geográfico del monitoreo, su periodicidad, los métodos que deberán aplicarse y los formatos para la toma de datos en campo. Con el objeto de facilitar la implementación del Programa en México, el país ha sido dividido en cuatro regiones de coordinación, cada una de las cuales será responsabilidad de un Coordinador. 
+
+Para asegurar la aplicación homogénea de los métodos descritos en el Manual, se realizarán talleres de capacitación para los equipos de cada Región antes de comenzar el trabajo en campo del Programa
+
+La presente propuesta describe las particularidades que tendrá la implementación del programa en la Región de Coordinación MXRC2 - Golfo Centro, Veracruz centro y Oaxaca norteen cuanto a las responsabilidades de su Coordinador y los equipos de campo, la calendarización de las actividades y el uso de los recursos que proporcionará CONABIO durante el primer año de muestreo.
+
+</para><para>Reino: 1
+Filo: 1
+Clase: 1
+Orden: 1
+Familia: 1
+Género: 1
+Especie: 1
+</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://www.snib.mx/proyectos/cgi-bin/datos2.cgi?Letras=JE&amp;Numero=9</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://www.snib.mx/iptconabio/archive.do?r=SNIB-JE009</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>País: MEXICO (OAXACA, VERACRUZ DE IGNACIO DE LA LLAVE)</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-97.370555</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-90.156389</eastBoundingCoordinate>
+                    <northBoundingCoordinate>21.071389</northBoundingCoordinate>
+                    <southBoundingCoordinate>18.076667</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2011-09-29
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2012-09-05
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Reino: Animalia
+Filo: Chordata
+Clase: Reptilia
+Orden: Crocodylia
+Familia: Crocodylidae</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chordata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Crocodylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Crocodylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crocodylus moreletii</taxonRankValue>
+                    <commonName>cocodrilo Moreleti, cocodrilo de pantano, lagarto de El Petén, lagarto negro, lagarto pantanero</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Patricia</givenName>
+                <surName>Ramos Rivera</surName>
+            </individualName>
+            <organizationName>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</organizationName>
+            <positionName>Directora General de Sistemas</positionName>
+            <address>
+                <deliveryPoint>Liga Periférico-Insurgentes Sur No. 4903, Col. Parques del Pedregal</deliveryPoint>
+                <city>México</city>
+                <administrativeArea>Tlalpan</administrativeArea>
+                <postalCode>14010</postalCode>
+                <country>MEXICO</country>
+            </address>
+            <phone>50045000</phone>
+            <electronicMailAddress>patricia.ramos@conabio.gob.mx</electronicMailAddress>
+            <onlineUrl>https://www.gob.mx/conabio</onlineUrl>
+        </contact>
+
+            <project id="SNIB-JE009-Cocodrilos-ND">
+                <title>Implementación del programa de monitoreo del cocodrilo del pantano (Crocodylus moreletti) México-Belice-Guatemala: región de coordinación MXRC2-Golfo Centro, Veracruz centro y norte Oaxaca</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Marco Antonio</givenName>
+                    <surName>López Luna</surName>
+                    </individualName>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <abstract>
+                    <para>El Programa de Monitoreo de Crocodylus moreletii pretende dar seguimiento al estado y tendencias de las principales poblaciones silvestres de la especie en toda su área de distribución (México, Belice y Guatemala). Como parte de los resultados del Taller Trinacional sobre el Programa (enero 2010) y trabajos posteriores con los participantes, se elaboró un Manual de Procedimientos cuyo fin es la estandarización de los métodos y del tipo de información que se obtendrá a través del Programa de Monitoreo de C. moreletii. Dicho Manual describe en detalle el diseño geográfico del monitoreo, su periodicidad, los métodos que deberán aplicarse y los formatos para la toma de datos en campo. Con el objeto de facilitar la implementación del Programa en México, el país ha sido dividido en cuatro regiones de coordinación, cada una de las cuales será responsabilidad de un Coordinador. 
+
+Para asegurar la aplicación homogénea de los métodos descritos en el Manual, se realizarán talleres de capacitación para los equipos de cada Región antes de comenzar el trabajo en campo del Programa
+
+La presente propuesta describe las particularidades que tendrá la implementación del programa en la Región de Coordinación MXRC2 - Golfo Centro, Veracruz centro y Oaxaca norteen cuanto a las responsabilidades de su Coordinador y los equipos de campo, la calendarización de las actividades y el uso de los recursos que proporcionará CONABIO durante el primer año de muestreo.</para>
+                </abstract>
+                <funding>
+                    <para>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Reptiles
+caimanes, cocodrilos</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:19Z</dateStamp>
+                <citation>López Luna M A, Comisión nacional para el conocimiento y uso de la biodiversidad C (2025). Implementación del programa de monitoreo del cocodrilo del pantano (Crocodylus moreletti) México-Belice-Guatemala: región de coordinación MXRC2-Golfo Centro, Veracruz centro y norte Oaxaca. Version 1.18. Comisión nacional para el conocimiento y uso de la biodiversidad. Occurrence dataset https://doi.org/10.15468/dn2mdd accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>SNIB-JE009-CSV.zip</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>CSV</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://www.snib.mx/proyectos/JE009/SNIB-JE009-CSV.zip</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>SNIB-JE009-BD.zip</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>MDB</formatName>
+                            <formatVersion>MicrosoftAccess2007</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://www.snib.mx/proyectos/JE009/SNIB-JE009-BD.zip</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-JE009-Cocodrilos-ND</collectionIdentifier>
+                    <collectionName>NO APLICA;NO APLICA;NO DISPONIBLE;NO DISPONIBLE</collectionName>
+                </collection>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Ejemplar</jgtiUnitType>
+                    <jgtiUnitRange>
+                        <beginRange>1</beginRange>
+                        <endRange>298</endRange>
+                    </jgtiUnitRange>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="b2427541-1125-4f66-be5e-e698bf7e6926"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/h3bpjq</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iiap/resource?r=herpetoshumedallahonda</alternateIdentifier>
+        <alternateIdentifier>b2427541-1125-4f66-be5e-e698bf7e6926</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iiap/resource?r=herpetoshumedallahonda</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iiap/resource?r=herpetoshumedallahonda.</alternateIdentifier>
+        <title>Caracterización ecológica de la comunidad de herpetos de la ciénaga La Honda, Tanguí</title>
+        <creator>
+            <individualName>
+                <givenName>Nelsy Sofia</givenName>
+                <surName>Urrutia</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName>
+            <positionName>Investigador contratista</positionName>
+            <address>
+                <deliveryPoint>Carrera sexta numero 37-39</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <postalCode>+57</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+5746709126</phone>
+            <electronicMailAddress>sofibon@gmail.com</electronicMailAddress>
+            <onlineUrl>http://www.iiap.org.co</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Luis Eladio</givenName>
+                <surName>Rentería Moreno</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName>
+            <positionName>Investigador asociado II</positionName>
+            <address>
+                <deliveryPoint>Carrera sexta numero 37-39</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <postalCode>+57</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+5746709126</phone>
+            <electronicMailAddress>erenteria@iiap.org.co</electronicMailAddress>
+            <onlineUrl>http://www.iiap.org.co</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Giovanny</givenName>
+                <surName>Ramírez Moreno</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName>
+            <positionName>Subdirector científico</positionName>
+            <address>
+                <deliveryPoint>Carrera sexta numero 37-39</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <postalCode>+57</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>46709126</phone>
+            <electronicMailAddress>gramirez@iiap.org.co</electronicMailAddress>
+            <role>PUBLISHER</role>
+        </associatedParty>
+        <pubDate>
+                2018-12-26
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Los humedales del Chocó Biogeográfico son considerados ecosistemas estratégicos, por su fragilidad y su valor promisorio, dado de que son poco conocidos y presentan una alta diversidad biológica, que se constituye en la fuente abastecedora de bienes y servicios para un sin numero de personas que dependen de estos ecosistemas, los cuales son aprovechados de manera extrativa y que han sufrido alteraciones en sus diferentes componetes, producto de explotación forestal y minería, por falta de control y vigilancia de los entes encargados de salvaguardarlos, sumado al echo de que se desconoce mucho de sus funcionalidad y de los ecoservicios que prestan, siendo muchas veces inorados por el hombre que convive con ellos, con el afán de obtener un servicio inmediato de estos, que en muchos casos encontra espacios en una sociedad que todo lo cifra en la  rentabilidad económica y en donde todavía, no se valora en términos contables los servicios ambientales, recreativos, culturales y educativos que albergan estos ambientes.
+
+Es aquí donde el Instituto de Investigaciones del Pacífico, mediantes sus diferentes estrategias y linias de acción, a contribuido de manera directa sobre la generación de conocimientos y ha valorado estos ecositemas, que aun que su presion sea alta son un elemento valioso para los aspectos socioeconómicos y culturales de las la region. Por tales razones se caracterizo ecológica y socioabientalmente la Cienaga Honada de Tangui, Medio Atrato, donde se identificaron, priorizaron sus problemáticas y se diasnosticaron sus componentes, todo estos como ruta que garanticen su protección y sean el soporte para la elaboración de planes de manejo de los mismos y de esta manera garantizar la sostenibilidad en estos territorios del Chocó Biogeográfico.
+        </abstract>
+        <keywordSet>
+            <keyword>Peces dulceacuícolas</keyword>
+            <keyword>Ciénaga</keyword>
+            <keyword>Atrato</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>IIAP</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://ipt.biodiversidad.co/iiap/resource?r=herpetoshumedallahonda.</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/iiap/archive.do?r=herpetoshumedallahonda</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Este corregimiento se sitúa a orillas del río Atrato y en la desembocadura del río Tanguí. El área, al igual que toda la cuenca del río Atrato, está cubierta de bosque húmedo tropical y cuenta con varios enclaves mineros. La Comunidad de Tanguí, esta localizada dentro de las coordenadas geográficas (5º57’10”N-76º45’53.4”W) a 37msnm (véase figura 1), ocupa unas 12 170 ha y cuenta con una población de 818 habitantes dedicados principalmente a la explotación de productos forestales maderables y no maderables, la pesca artesanal y la agricultura a baja escala (Municipio del Medio Atrato, 2007, Centro Nacional de Estudios y Documentación de las Culturas Afrocolombianas, 2013).Tanguí, es un corregimiento del municipio del Medio Atrato, se encuentra ubicado a 30 minutos de Quibdó capital del departamento  del Chocó, por vía fluvial.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-76.766</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-76.764</eastBoundingCoordinate>
+                    <northBoundingCoordinate>5.954</northBoundingCoordinate>
+                    <southBoundingCoordinate>5.952</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2013-07-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2013-08-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Con respecto a la anfibiofauna que ocurren en la ciénaga La Honda, se confirmó la ocurrencia de  8 especies y 6 familias todas pertenecientes al orden Anura, dentro de la composición de especie Hylidae fue la familia más representativa con 3 especies.
+Las características presentadas por la ciénaga La Honda favoreció que especies como D. phlebodes, A. minuta, S. sugillata e H. boans, presentaran gran abundancia, mientras que el resto de estuvieron representadas por un solo individuo</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Craugastor longirostris </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Andinobates minuta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Diasporus tinker</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dendropsophus phlebodes </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Scinax sugilata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hypsiboas boans </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Leptodactylus sp</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lithobates vaillanti</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>la fauna reptiliana estuvo representada por 18 especies de las cuales 4 fueron mediante registro indirectos proporcionados por personas claves de la comunidad (Boa constrictor, Chironius sp, Leptophis ahetulla y Bothrops asper). Las 18 especies estuvieron distribuidas en 14 géneros, 12 familias y 3 órdenes. Los Squamata fueron el grupo más representativo de la ciénaga, gracias a la gran especiación y dispersión que ha sufrido este orden en comparación con los otros grupos de reptiles (Lowell, 1994 Hunter, 1996). Entre las familias, Polychrotidae fue la más rica con 3 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Caiman crocodylus </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chelydra acutirostris </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Trachemys venusta </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhinoclemmys melanosterna</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhinoclemmys nasuta </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Kinosternon dunni </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>kinosternon leucostomum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Basiliscus basiliscus </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Iguana iguana </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis granuliceps </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anolis fraseri </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Anolis sp1</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Lepidoblepharis sp</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Boa constrictor </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Corallus hortulanus </taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Chironius sp</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptophis ahaetulla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Bothrops asper </taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Zulmary</givenName>
+                <surName>Valoyes Cardozo</surName>
+            </individualName>
+            <organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName>
+            <positionName>Investigador principal componente ecosistémico</positionName>
+            <address>
+                <deliveryPoint>Carrera sexta numero 37-39</deliveryPoint>
+                <city>Quibdó</city>
+                <administrativeArea>Chocó</administrativeArea>
+                <postalCode>+57</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+5746709126</phone>
+            <electronicMailAddress>zvaloyes@iiap.org.co</electronicMailAddress>
+            <onlineUrl>http://www@iiap.org.co</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>véase en descripción del muestreo</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El sitio de muestreó comprendió el mosaico que contempla el humedal y sus ecosistemas asociados como son la vegetación circundante y sistema hídrico: Caño, quebradas y ríos. 
+Los diferentes sitios de muestreo está inmersa la vegetación circundante que en su composición está dominada por un nivel arbustivo y arbóreo, que va desde el borde de la zona del espejo de agua hasta conectarse con el rio Atrato y el caño que conecta a este con la ciénaga; el cuerpo de agua se caracterizó por presentar una profundidad que oscilo entre los 4 y 5mst., sin embargo hay que resaltar que el momento de los muestreos coincido con el periodo de aguas altas, lo cual de alguna manera pudo afectar dicho valor.
+Se identificó una arquitectura y estructura vegetal representada principalmente por vegetación arbustiva, caracterizadas por evidenciar un antrópico de tala selectiva, lo que conlleva que hallan muchos claros y vegetación herbácea, que puede favorecer la ocurrencia de especies de vertebrados de gran adaptabilidad y oportunistas, y de aquellos que depende de dichos claros para procesos vitales como la termorregulación. Además presenta un dosel de aproximadamente 3 a 10 metros el cual aporta sustrato para aquellas especies de vertebrados de comportamientos arborícolas. Finalmente suelo se caracteriza por presentar una importante alfombra de materia orgánica en descomposición, como hojarasca, raíces y troncos de árboles que proporciona las condiciones ideales para que establezcan algunos grupos de herpetos y mamíferos.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>La metodología se basó en la Inspección por Encuentro Visual (VES), para la cual se desarrollaron muestreos diurnos y nocturnos en los bosque subyacente a los alrededores de la ciénaga La Honda y algunos junto a la vegetación macrofita existente dentro  de la misma para la cual se  utilizaron la ayuda de botes a motor; básicamente en los muestreos se efectuaron recorridos en busca de individuos que se encontraran asociados a la vegetación macrofita, a  la  vegetación ribereña o a zonas altas del bosque en los troncos del suelo y hojarasca (Heyer et al. 1994). Además se aplicó una metodología de trampas con cebo para el registro de especies de hábitos acuáticos como crocodilidos y tortugas. Para el levantamiento de la información ecológica se tuvieron en cuenta la  distribución habitacional (arbóreo, terrestres o acuático).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Estos reportes fueron complementados con registros indirectos, realizados mediante charlas con personas claves de la comunidad, que posteriormente fueron corroborados con la ayuda de la distribución potencial y ecología de las especies identificadas. Finalmente para determinar el estado de conservación se realizó una revisión literaria, Libro Rojo de Reptiles de Colombia y las anotaciones de especies sujetas a las categorías de la UICN y además se examinó la información de las especies que aparecen listadas en la Convención sobre el Comercio Internacional de Especies Amenazadas  “CITES” (2010).</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="http://ipt.biodiversidad.co/iiap/resource?r=pecescienagahonda&amp;amp;v=1.0">
+                <title>Caracterización ecológica del complejo cenagoso la Honda, Tangui - Medio Atrato, Chocó</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Giovanny</givenName>
+                    <surName>Ramirez Moreno</surName>
+                    </individualName>
+                    <role>PUBLISHER</role>
+                </personnel>
+                <abstract>
+                    <para>Los humedales del Chocó Biogeográfico son considerados ecosistemas estratégicos, por su fragilidad y su valor promisorio, dado de que son poco conocidos y presentan una alta diversidad biológica, que se constituye en la fuente abastecedora de bienes y servicios para un sin numero de personas que dependen de estos ecosistemas, los cuales son aprovechados de manera extrativa y que han sufrido alteraciones en sus diferentes componetes, producto de explotación forestal y minería, por falta de control y vigilancia de los entes encargados de salvaguardarlos, sumado al echo de que se desconoce mucho de sus funcionalidad y de los ecoservicios que prestan, siendo muchas veces inorados por el hombre que convive con ellos, con el afán de obtener un servicio inmediato de estos, que en muchos casos encontra espacios en una sociedad que todo lo cifra en la  rentabilidad económica y en donde todavía, no se valora en términos contables los servicios ambientales, recreativos, culturales y educativos que albergan estos ambientes.
+Es aquí donde el Instituto de Investigaciones del Pacífico, mediantes sus diferentes estrategias y linias de acción, a contribuido de manera directa sobre la generación de conocimientos y ha valorado estos ecositemas, que aun que su presion sea alta son un elemento valioso para los aspectos socioeconómicos y culturales de las la region. Por tales razones se caracterizo ecológica y socioabientalmente la Cienaga Honada de Tangui, Medio Atrato, donde se identificaron, priorizaron sus problemáticas y se diasnosticaron sus componentes, todo estos como ruta que garanticen su protección y sean el soporte para la elaboración de planes de manejo de los mismos y de esta manera garantizar la sostenibilidad en estos territorios del Chocó Biogeográfico.</para>
+                </abstract>
+                <funding>
+                    <para>Recursos IIAP</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Este corregimiento se sitúa a orillas del río Atrato y en la desembocadura del río Tanguí. El área, al igual que toda la cuenca del río Atrato, está cubierta de bosque húmedo tropical y cuenta con varios enclaves mineros. La Comunidad de Tanguí, esta localizada dentro de las coordenadas geográficas (5º57’10”N-76º45’53.4”W) a 37msnm (véase figura 1), ocupa unas 12 170 ha y cuenta con una población de 818 habitantes dedicados principalmente a la explotación de productos forestales maderables y no maderables, la pesca artesanal y la agricultura a baja escala (Municipio del Medio Atrato, 2007, Centro Nacional de Estudios y Documentación de las Culturas Afrocolombianas, 2013).Tanguí, es un corregimiento del municipio del Medio Atrato, se encuentra ubicado a 30 minutos de Quibdó capital del departamento  del Chocó, por vía fluvial.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>El proyecto se desarrolló en dos etapas, durante la primera se elaboró la línea base del corregimiento y su ecosistema cenagoso, mediante levantamiento de información secundaria relacionada con estudios de calidad de agua, identificación de macroinvertebrados, composición de la vegetación circundante, estudios faunísticos y características socioculturales y económicas de la población.
+Para el desarrollo de la segunda etapa (Caracterización), se realizaron muestreos y trabajo de campo encaminado a establecer y describir la Ciénega la Honda de Tangui mediante recorridos por el ecosistema. La determinación del estado y la composición actual del agua de la ciénaga se llevó a cabo mediante toma de muestras para análisis en laboratorio de parámetros fisicoquímicos y mediciones in situ de los mismos, para posterior análisis.
+De otro lado se hicieron capturas de macroinvertebrados en diferentes sustratos identificados en el complejo para determinar la calidad ecológica de las aguas y el estado de productividad trófica del ecosistema. Se realizaron transectos y muestreos a la zar de la vegetación presente en el bosque circundante y el espejo de agua, para determinar la estructura y composición de la comunidad vegetal y se analizó su de conservación en el complejo cenagoso mediante la revisión de libros rojos y categorías de amenaza UICN.
+Se realizó un inventario rápido de la fauna presente en la ciénaga la Honda para determinar composición, estructura, y estado de conservación. Para la caracterización socioeconómica y cultural de la población del área de influencia del ecosistema, se realizaron entrevistas y encuestas que permitieron identificar las diferentes etnias y grupos humanos existentes y analizar el papel que juegan los recursos naturales en la economía de la zona.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:46Z</dateStamp>
+                <citation identifier="http://doi.org/10.15472/h3bpjq">Urrutia N S, Rentería Moreno L E (2018). Caracterización ecológica de la comunidad de herpetos de la ciénaga La Honda, Tanguí. Version 2.3. Instituto de Investigaciones Ambientales del Pacífico John Von Neumann - IIAP. Occurrence dataset https://doi.org/10.15472/h3bpjq accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-iiap.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

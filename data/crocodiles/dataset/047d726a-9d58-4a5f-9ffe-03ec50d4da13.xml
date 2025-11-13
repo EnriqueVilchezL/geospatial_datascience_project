@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="047d726a-9d58-4a5f-9ffe-03ec50d4da13"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.60545/lmoul1</alternateIdentifier>
+        <alternateIdentifier>http://patrimonio.ambiente.gob.ec/iptmae/resource?r=mzua-reptiles</alternateIdentifier>
+        <title>Colección biológica Reptiles del MZUA</title>
+        <creator>
+            <individualName>
+                <givenName>Bernarda</givenName>
+                <surName>Vásquez Ávila</surName>
+            </individualName>
+            <organizationName>Museo de Zoología de la Universidad del Azuay</organizationName>
+            <positionName>Curadora</positionName>
+            <address>
+                <city>Cuenca</city>
+                <administrativeArea>Azuay</administrativeArea>
+                <postalCode>010107</postalCode>
+            </address>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Bernarda</givenName>
+                <surName>Vásquez Ávila</surName>
+            </individualName>
+            <organizationName>Museo de Zoología de la Universidad del Azuay</organizationName>
+            <positionName>Curadora</positionName>
+            <address>
+                <city>Cuenca</city>
+                <administrativeArea>Azuay</administrativeArea>
+                <postalCode>010107</postalCode>
+            </address>
+        </metadataProvider>
+        <pubDate>
+                2023-07-31
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Información de la colección científica del Museo de Zoología de la Universidad del Azuay, en específico de especímenes de reptiles.
+        </abstract>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Ecuador</keyword>
+            <keyword>UDA</keyword>
+            <keyword>Azuay</keyword>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://patrimonio.ambiente.gob.ec/iptmae/archive.do?r=mzua-reptiles</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Las muestras de las colecciones científicas provienen de las provincias: Morona Santiago, El Oro, Zamora Chinchipe, Azuay, Guayas y Los Ríos</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-81.123</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-75.234</eastBoundingCoordinate>
+                    <northBoundingCoordinate>1.494</northBoundingCoordinate>
+                    <southBoundingCoordinate>-5.047</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Gissela</givenName>
+                <surName>de la Cadena</surName>
+            </individualName>
+            <organizationName>Museo de Zoología de la Universidad del Azuay</organizationName>
+            <positionName>Directora</positionName>
+            <address>
+                <city>Cuenca</city>
+                <administrativeArea>Azuay</administrativeArea>
+                <postalCode>010107</postalCode>
+            </address>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Bernarda</givenName>
+                <surName>Vásquez Ávila</surName>
+            </individualName>
+            <organizationName>Museo de Zoología de la Universidad del Azuay</organizationName>
+            <positionName>Curadora</positionName>
+            <address>
+                <city>Cuenca</city>
+                <administrativeArea>Azuay</administrativeArea>
+                <postalCode>010107</postalCode>
+            </address>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:05Z</dateStamp>
+                <citation identifier="https://doi.org/10.60545/lmoul1">Vásquez Ávila B (2023). Colección biológica Reptiles del MZUA. Museo de Zoología de la Universidad del Azuay (MZUA). Occurrence dataset https://doi.org/10.60545/lmoul1 accessed via GBIF.org on 2025-10-11.</citation>
+                <collection>
+                    
+                    
+                    <collectionName>Colección biológica de Reptiles del MZUA</collectionName>
+                </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

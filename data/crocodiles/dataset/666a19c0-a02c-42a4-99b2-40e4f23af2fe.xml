@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="666a19c0-a02c-42a4-99b2-40e4f23af2fe"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15468/l2pmfd</alternateIdentifier>
+        <alternateIdentifier>http://ipt.mincyt.gob.ar/resource?r=mfa-zv-c</alternateIdentifier>
+        <title>Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina – Colección Crocodylia (MFA-ZV-C)</title>
+        <creator>
+            <individualName>
+                <givenName>Leonardo</givenName>
+                <surName>Leiva</surName>
+            </individualName>
+            <organizationName>Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina</organizationName>
+            <positionName>Unidad Cultural Zoología</positionName>
+            <address>
+                <deliveryPoint>Primera Junta, 2859</deliveryPoint>
+                <city>Santa Fe</city>
+                <administrativeArea>Santa Fe</administrativeArea>
+                <postalCode>3000</postalCode>
+                <country>ARGENTINA</country>
+            </address>
+            <phone>+54 342 4573730</phone>
+            <electronicMailAddress>leoleiva1811@hotmail.com</electronicMailAddress>
+            <onlineUrl>http://www.museoameghino.gob.ar/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Vanesa</givenName>
+                <surName>Faccioli</surName>
+            </individualName>
+            <organizationName>Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina</organizationName>
+            <positionName>Servicios Educativos</positionName>
+            <address>
+                <deliveryPoint>Primera Junta, 2859</deliveryPoint>
+                <city>Santa Fe</city>
+                <administrativeArea>Santa Fe</administrativeArea>
+                <postalCode>3000</postalCode>
+                <country>ARGENTINA</country>
+            </address>
+            <phone>+54 342 4573730</phone>
+            <electronicMailAddress>vfaccioli@santafe.gov.ar</electronicMailAddress>
+            <onlineUrl>http://www.museoameghino.gob.ar/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2017-06-26
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Contiene 47 registros de la colección del orden Crocodylia del Museo Florentino Ameghino, Santa Fe, Argentina. Actualmente la colección se encuentra compuesta por 44 especímenes, de los cuales 26 poseen localidad precisa de procedencia, que abarca principalmente la provincia de Santa Fe y de otras 3 provincias Argentinas (Chaco, Corrientes y Entre Ríos). En el conjunto de datos se encuentran representadas dos especies de la familia Alligatoridae (Caiman latirostris y C. yacare). Un ejemplar se encuentra determinado sólo a nivel de género.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence
+Crocodilios</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://ipt.mincyt.gob.ar/archive.do?r=mfa-zv-c</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Actualmente la colección se encuentra compuesta por 44 especímenes del orden Crocodylia, de los cuales 26 poseen localidad precisa de procedencia, que abarca principalmente la provincia de Santa Fe y de otras 3 provincias Argentinas (Chaco, Corrientes y Entre Ríos).</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-63.391</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-55.547</eastBoundingCoordinate>
+                    <northBoundingCoordinate>-24.147</northBoundingCoordinate>
+                    <southBoundingCoordinate>-34.362</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1888-08-20
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2013-02-21
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La cobertura taxonómica de este conjunto de datos abarca dos especies de la familia Alligatoridae (Caiman latirostris y C. yacare). Un ejemplar se encuentra determinado sólo a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                    <commonName>Crocodilios</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Andrés</givenName>
+                <surName>Pautasso</surName>
+            </individualName>
+            <organizationName>Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina</organizationName>
+            <positionName>Coordinador</positionName>
+            <address>
+                <deliveryPoint>Primera Junta, 2859</deliveryPoint>
+                <city>Santa Fe</city>
+                <administrativeArea>Santa Fe</administrativeArea>
+                <postalCode>3000</postalCode>
+                <country>ARGENTINA</country>
+            </address>
+            <phone>+54 342 4573730</phone>
+            <electronicMailAddress>andrespautasso@yahoo.com.ar</electronicMailAddress>
+            <onlineUrl>http://www.museoameghino.gob.ar/</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:20Z</dateStamp>
+                <citation>Leiva L, Faccioli V (2017). Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina – Colección Crocodylia (MFA-ZV-C). Museo Provincial de Ciencias Naturales &quot;Florentino Ameghino&quot;. Occurrence dataset https://doi.org/10.15468/l2pmfd accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>http://ipt.mincyt.gob.ar/logo.do?r=mfa-zv-c</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>No aplica</parentCollectionIdentifier>
+                    <collectionIdentifier>urn:catalog.MFA:ZV-C</collectionIdentifier>
+                    <collectionName>Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina – Colección Crocodylia (MFA-ZV-C)</collectionName>
+                </collection>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="9d0ccaf9-66d9-40d2-bf20-21aca6eda68e"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/ltzhrj</alternateIdentifier>
+        <alternateIdentifier>9d0ccaf9-66d9-40d2-bf20-21aca6eda68e</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sibm/resource?r=unal-herpetofauna-sanquianga2021</alternateIdentifier>
+        <title>Código de barras genético y riqueza taxonómica de la herpetofauna del Parque Nacional Natural Sanquianga y el Parque Nacional Natural Gorgona, Colombia</title>
+        <creator>
+            <individualName>
+                <givenName>Esteban</givenName>
+                <surName>Betancourt</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Investigador principal</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>requinonesb@unal.edu.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Augusto</givenName>
+                <surName>Acosta Peña</surName>
+            </individualName>
+            <organizationName>Universidad Javeriana</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>acostaaugusto06@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Rodrigo</givenName>
+                <surName>Lozano Osorio</surName>
+            </individualName>
+            <organizationName>Parque Nacional Natural Sanquianga</organizationName>
+            <positionName>Investigador principal</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>monitoreo.sanquianga@parquesnacionales.gov.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Andrés</givenName>
+                <surName>Cuéllar Chacón</surName>
+            </individualName>
+            <organizationName>Dirección Territorial Pacífico - Parques Nacionales Naturales de Colombia</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>sirap.pacifico@parquesnacionales.gov.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Danilo</givenName>
+                <surName>Hurtado</surName>
+            </individualName>
+            <organizationName>Consejo Counitario de la Comunidad Negra Rio Sanquianga</organizationName>
+            <positionName>Investigador local</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Felix</givenName>
+                <surName>Rodriguez Cuero</surName>
+            </individualName>
+            <organizationName>Consejo Counitario de la Comunidad Negra Rio Sanquianga</organizationName>
+            <positionName>Investigador local</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Luciano</givenName>
+                <surName>Montaño Yesquen</surName>
+            </individualName>
+            <organizationName>Consejo Counitario de la Comunidad Negra Rio Sanquianga</organizationName>
+            <positionName>Investigador local</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Bernardo</givenName>
+                <surName>Reina Salas</surName>
+            </individualName>
+            <organizationName>Consejo Counitario de la Comunidad Negra Punta Mulatos</organizationName>
+            <positionName>Investigador local</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Emilio</givenName>
+                <surName>Estupiñan Estupiñan</surName>
+            </individualName>
+            <organizationName>Consejo Counitario de la Comunidad Negra Punta Mulatos</organizationName>
+            <positionName>Investigador local</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Francisco</givenName>
+                <surName>Reina Midina</surName>
+            </individualName>
+            <organizationName>Consejo Counitario de la Comunidad Negra Punta Mulatos</organizationName>
+            <positionName>Investigador local</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Esteban</givenName>
+                <surName>Betancourt</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Investigador principal</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>requinonesb@unal.edu.co</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Rodrigo</givenName>
+                <surName>Lozano Osorio</surName>
+            </individualName>
+            <organizationName>Parque Nacional Natural Sanquianga</organizationName>
+            <positionName>Investigador principal</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>monitoreo.sanquianga@parquesnacionales.gov.co,</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Universidad Nacional de Colombia</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Institución propietaria</positionName>
+            <address>
+                <deliveryPoint>Carrera 45 # 26-85</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <role>OWNER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Parque Nacional Natural Sanquianga</surName>
+            </individualName>
+            <organizationName>Parque Nacional Natural Sanquianga</organizationName>
+            <positionName>Institución propietaria</positionName>
+            <address>
+                <administrativeArea>Nariño</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <role>OWNER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Álvaro</givenName>
+                <surName>Sandoval Riveros</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Publicador</positionName>
+            <address>
+                <deliveryPoint>Calle 11 a bis # 72b - 15</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>aasandovalr@unal.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0009-0004-5024-4318</userId>
+            <role>PUBLISHER</role>
+        </associatedParty>
+        <pubDate>
+                2023-11-15
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>En este trabajo, se recolectaron muestras de ADN de la herpetofauna de los PNNs Sanquianga y Gorgona para identificarlas y compararlas con las secuencias de especies registradas en bibliotecas de referencia. El Laboratorio de Ecología Molecular de Vertebrados Acuáticos (LMVA) de la Universidad de los Andes extrajo ADN de 61 muestras recolectadas en campo y obtuvo secuencias de tres marcadores moleculares mitocondriales: Citocromo Oxidasa I (COI), Citocromo b (CytB) y 16S. Se obtuvieron 177 pares de secuencias, de las cuales 110 mantuvieron una calidad entre regular y muy buena, y 67 se sugiere repetir porque hubo muy escasa amplificación.</para>
+<para>Los resultados obtenidos en esta expedición demuestran la importancia de la aplicación de herramientas moleculares para la identificación precisa de la biodiversidad y el monitoreo de los ecosistemas. Este trabajo representa un aporte importante al conocimiento de la biodiversidad de anfibios y reptiles de los PNNs Sanquianga y Gorgona, y abre la posibilidad de continuar con investigaciones similares en otras regiones del país. En general, estos resultados pueden tener un impacto significativo en la toma de decisiones para la conservación y protección de la biodiversidad en el país.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sibm/archive.do?r=unal-herpetofauna-sanquianga2021</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El área de estudio corresponde a la subregión Sanquianga-Gorgona. El muestreo se realizó en la Isla Gorgona, Parque Nacional Natural Gorgona y dentro del Parque Nacional Natural Sanquianga, en el sector de Boca de Guaba, Olaya Herrera, Nariño.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-78.183</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-78.171</eastBoundingCoordinate>
+                    <northBoundingCoordinate>2.98</northBoundingCoordinate>
+                    <southBoundingCoordinate>2.963</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-05-11
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-05-18
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>La Isla Gorgona presentó un total de 60 registros de herpetofauna, de los cuales 39 se identificaron a nivel de especie (2 a subespecie), 11 a género y 8 a orden. En total se identificaron un total de 10 especies y todos los registros incluyen 3 clases (Amphibia, Crocodylia y Lepidosauria), 5 órdenes, 16 familias y 19 géneros. La organización de los taxa se presenta a nivel de orden y género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caudata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gymnophiona</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Anolis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Atelopus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Basiliscus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Boa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Caecilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Caiman</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Chironius</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Clelia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Diasporus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Enyalioides</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Epipedobates</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Hemidactylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Holcosus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Imantodes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Leptophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Micrurus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Oedipina</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Pristimantis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Thecadactylus</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El área del Parque Nacional Natural Sanquianga presentó un total de 26 registros de herpetofauna, de los cuales 21 se identificaron a nivel de especie y 5 a nivel de género. En total se identificaron un total de 21 especies y todos los registros incluyen 3 clases (Amphibia, Squamata y Testudines), 3 órdenes, 15 familias y 19 géneros. La organización de los taxa se presenta a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Basiliscus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Boa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Boana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Bothrops</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Caecilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Craugastor</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Diasporus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Epipedobates</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Gonatodes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Holcosus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Iguana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Imantodes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Kinosternon</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Leptodactylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Leptodeira</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Ninia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Rhinoclemmys</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Scinax</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Trachyboa</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Esteban</givenName>
+                <surName>Betancourt</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Investigador principal</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>requinonesb@unal.edu.co</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Rodrigo</givenName>
+                <surName>Lozano Osorio</surName>
+            </individualName>
+            <organizationName>Parque Nacional Natural Sanquianga</organizationName>
+            <positionName>Investigador principal</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>monitoreo.sanquianga@parquesnacionales.gov.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Recolección e identificación de la herpetofauna: La recolección se realizó de forma manual y los individuos de anfibios encontrados se depositaron en bolsas plásticas, mientras que los reptiles se recolectaron en bolsas de tela; posteriormente, la identificación se realizó utilizando claves taxonómicas y consultando los registros previos existentes para la región, además de la revisión de especímenes en Colecciones Biológicas y la comparación de las secuencias disponibles en bibliotecas especializadas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Levantamiento y caracterización de anfibios y reptiles en el Parque Nacional Natural Gorgona: Se llevó a cabo a través de la búsqueda libre sin restricciones, y la búsqueda selectiva en hábitats y microhábitats. El muestreo se llevó a cabo durante el día y la noche de forma intensiva, procurando abarcar la mayor extensión de área posible en cada jornada, prestando especial atención a los sitios en los cuales fuera más probable encontrar anfibios y reptiles. Durante el día la búsqueda se concentró en individuos que se encontraran termorregulando en bordes de camino, árboles o cerca a fuentes de agua, así como de renacuajos en los fondos lodosos de cuerpos de agua lénticos estacionarios.
+Tiempo de muestreo en cada jornada: 4h/observador, y cada observador se tomó como una unidad de muestreo. Por otra parte, para la búsqueda selectiva en hábitats y microhábitats se realizó una estratificación incluyendo: Vegetación a la orilla de los cuerpos de agua, vegetación arbustiva, vegetación arbórea, troncos, rocas, hojarasca y suelo desnudo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Levantamiento y caracterización de anfibios y reptiles en el Parque Nacional Natural Sanquianga: Se realizaron dos campañas de campo: una en el sector del Consejo Comunitario Punta Mulatos y otra en el Consejo Comunitario Río Sanquianga. En estos sectores, se empleó la metodología de trayectos de banda fija de 200 m x 4 m, en los que se registraron todos los hábitats disponibles como troncos, piedras, hojarasca, entre otros, capturando individuos por relevamiento por encuentro visual (REV) (Heyer et al., 1994; Angulo et al., 2006).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Recolección de tejidos: Para la recolección de material genético se disectaron muestras de tejido que fueron preservadas en ET-OH 96%, el protocolo seguido fue adaptado del presentado en Crawford y Paz, 2017.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Consolidación de colección de referencia de los PNNs Gorgona y Sanquianga: Los especímenes fueron depositados en las colecciones del Instituto de Ciencias Naturales (ICN) de la Universidad Nacional de Colombia y de la Universidad del Valle, mientras que las muestras de material genético se depositaron en el Banco de ADN y Tejidos de la Biodiversidad (BTBC) del Instituto de Genética (IGUN) de la Universidad Nacional de Colombia. Para ello se llevaron a cabo los procedimientos de manipulación, sacrificio y preservación aprobados por la Sociedad Americana de Ictiólogos y Herpetólogos (American Society of Ichthyologists and Herpetologists) en 1987. Se recolectaron series de ejemplares por morfotipo que permitan determinar la variación morfológica, con excepción de animales catalogados en alguna categoría de Amenaza, o aquellos cuya recolecta no es necesaria para su identificación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Consolidación lista de especies: Se construyó la primera lista preliminar de especies del Parque Nacional Natural Sanquianga con 14 especies de anfibios y 18 de reptiles registradas; mientras que, en el Parque Nacional Natural Gorgona se registraron 7 especies de anfibios y 15 de reptiles.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Análisis de los datos: Para el análisis de los datos y la confirmación de la identificación de los individuos registrados en la Expedición se realizó la revisión morfológica de los especímenes recolectados comparados con aquellos disponibles en las Colecciones Biológicas, y el uso de marcadores moleculares de Barcoding. A través de este método, las muestras de ADN recolectadas en campo se identificaron y comprobaron con las especies registradas en las bibliotecas de referencia del International Barcode of Life project (iBOL), Ratnasingham y Hebert (2013) y GenBank (NCBI, 2022).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El Parque Nacional Natural Sanquianga y el Parque Nacional Natural Isla Gorgona.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la caracterización de la herpetofauna en los sitios de estudio se llevaron a cabo dos salidas de campo simultáneas, una en el Parque Nacional Natural Sanquianga y la otra en el Parque Nacional Natural Isla Gorgona durante la Expedición Científica Pacífico Bocas de Sanquianga entre el 10 y el 18 de mayo del año 2021.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Ajuste de diferentes elementos del DwC: Realizado por el Equipo Coordinador del SIB Colombia de acuerdo a la naturaleza de los datos. Validación de las plantillas DwC con la herramienta GBIF Validator.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="Expedición Científica Pacífico 2021-I Bocas de Sanquianga">
+                <title>Código de barras genético y riqueza taxonómica de la herpetofauna del Parque Nacional Natural Sanquianga y el Parque Nacional Natural Gorgona, Colombia</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Esteban</givenName>
+                    <surName>Betancourt</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para>La Expedición Científica Pacífico 2021-I Bocas de Sanquianga se llevó a cabo del 28 de abril al 19 de mayo de 2021 en la subregión Gorgona-Sanquianga, departamentos de Nariño y Cauca, a bordo del Buque Oceanográfico ‘ARC Providencia’ de la Dirección General Marítima. A través de la coordinación interinstitucional liderada por la Secretaría Ejecutiva de la Comisión Colombiana del Océano, el Ministerio de Ciencia, Tecnología e Innovación, la Armada de Colombia, la Dirección General Marítima, Parques Nacionales Naturales de Colombia, la Sede de Presencia Nacional Tumaco de la Universidad Nacional de Colombia y el Equipo Mixto del Parque Nacional Natural Sanquianga, diecisiete (17) instituciones del orden nacional e internacional aunaron esfuerzos para el desarrollo de nueve (9) proyectos de investigación, con el fin de fortalecer la generación de conocimiento integral sobre el territorio marino-costero del Pacífico colombiano. De esta manera, los proyectos realizados contribuyeron con el desarrollo de cinco (5) áreas temáticas del Programa Nacional de Ciencias del Mar y los Recursos Hidrobiológicos: biodiversidad y ecosistemas marinos y costeros, componente físico del medio marino, calidad ambiental marino-costera, ingenierías y tecnologías aplicadas y cultura y educación marino-costera.</para>
+                </abstract>
+                <funding>
+                    <para>Programa Colombia Bio del Ministerio de Ciencia, Tecnología e Innovación, Armada Nacional de Colombia (ARC), Dirección General Marítima (DIMAR), Secretaría Ejecutiva de la Comisión Colombiana del Océano (CCO), Parques Nacionales Naturales del Colombia (PNN), Sede de Presencia Nacional Tumaco, Universidad Nacional de Colombia (UNAL), Contrapartida de las entidades, instituciones y fundaciones participantes.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>La subregión Sanquianga comprende un área de aproximadamente 5.800 kilómetros cuadrados en el extremo noroccidental costero del departamento de Nariño, por lo que constituye el 17% del área departamental. Comprende la cuenca de los ríos Iscuandé, La Tola, Sanquianga y Guandipa que desembocan en el Pacífico a través de una amplia red estuarina conformada por nueve bocanas y cerca de 64.000 hectáreas de Bosque de Manglar. Su población supera los 101.713 habitantes organizados en dieciséis consejos comunitarios de la comunidad negra y ocho resguardos indígenas, los cuales basan su economía en las actividades de la agricultura, pesca y ganadería bovina, principalmente. La subregión hace parte de una iniciativa regional para el ordenamiento ambiental que prioriza los recursos hidrobiológicos y pesqueros de la zoma marina entre las áreas protegidas del Parque Nacional Natural Sanquianga y del Parque Nacional Natural Gorgona (Subregión Sanquinga-Gorgona). Dadas las características biogeográficas, este territorio cumple un papel significativo en el sostenimiento de los servicios ecosistémicos del Pacífico colombiano, los cuales aprovechan de forma directa más de 20.000 personas para su seguridad alimentaria.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:18Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/ltzhrj">Betancourt E, Acosta Peña A, Lozano Osorio R, Cuéllar Chacón A, Hurtado D, Rodriguez Cuero F, Montaño Yesquen L, Reina Salas B, Estupiñan Estupiñan E, Reina Midina F (2023). Código de barras genético y riqueza taxonómica de la herpetofauna del Parque Nacional Natural Sanquianga y el Parque Nacional Natural Gorgona, Colombia. Version 1.1. Universidad Nacional de Colombia. Occurrence dataset https://doi.org/10.15472/ltzhrj accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Alonso, D. A., Vides, M. P. y Londoño, M. (2001). Amenaza y Riesgos Ambientales en la Zonas Costeras Colombianas. Informe del Estado de los Ambientes Marinos y Costeros en Colombia: Año 2001. Instituto de Investigaciones Marinas y Costeras-INVEMAR.</citation>
+                <citation>American Society of Ichthyologists and Herpetologists. (1987). Guidelines for Use of Live Amphibians and Reptiles in Field Research. Journal of Herpetology: 1-14</citation>
+                <citation>Angulo A., J. V. Rueda-Almonacid, J. V. Rodriguez-Mahecha y E. La Marca (Eds). (2006). Técnicas de inventario y monitoreo para los anfibios de la región tropical andina. Conservación Internacional. Serie Manuales de Campo Nº 2. Panamericana Formas e Impresos S.A., Bogotá D.C. 298 pp.</citation>
+                <citation>Arias-Le Claire y Gamboa-Badilla, H. 2007. Influencia de la fragmentación del bosque y el manejo forestal en la comunidad de anfibios de mantillo en el Noreste de Costa Rica.</citation>
+                <citation identifier="https://doi.org/10.1515/mammalia-2020-0138">Benítez, Á., Ricardo-Caldera, D., Atencia-Pineda, M., Ballesteros-Correa, J., Chacón-Pacheco, J. &amp; Hoyos-López, R. (2021). DNA barcoding of bats (Chiroptera) from the Colombian northern region. Mammalia, 85(5), 462-470.</citation>
+                <citation>Castro-Herrera, F. Valencia, A. y Villaquirán, D. (2012). Diversidad de anfibios y reptiles del Parque Nacional Natural Isla Gorgona. Cali, Colombia: Feriva Impresores S.A. 112 pp.</citation>
+                <citation identifier="https://doi.org/10.1016/j.actatropica.2018.01.020">Buenaventura, E., Valverde-Castro, C., Wolff, M., Triana-Chavez, O., y Gómez-Palacio, A. (2018). DNA barcoding for identifying synanthropic flesh flies (Diptera, Sarcophagidae) of Colombia. Acta Tropica 182: 291-297.</citation>
+                <citation>Castaño-Mora, O. V., Cárdenas-A., G., Hernández-R, E. J. y Castro-H, F. (2004). Reptiles en el Chocó Biogeográfico-Catalogo. En Rangel-Ch, J. O. (Ed.). Colombia diversidad Biótica IV.El Chocó biogeográfico/Costa Pacífica. Pp: 599-632. Bogotá D. C.: Universidad Nacional de Colombia, Instituto de Ciencias Naturales.</citation>
+                <citation>Crawford, A. J., y Paz, A. (2017). Anfibios. pp. 23-24. En: Gonzalez M. A., Arenas-Castro H. (Eds). Recolección de tejidos biológicos para análisis genéticos. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá, D. C., Colombia. 33 pp.</citation>
+                <citation identifier="https://doi.org/10.1371/journal.pone.0085496 ">Contreras Gutiérrez MA, Vivero RJ, Vélez ID, Porter CH, Uribe S (2014) DNA Barcoding for the Identification of Sand Fly Species (Diptera, Psychodidae, Phlebotominae) in Colombia. PLOS ONE 9(1): e85496.</citation>
+                <citation identifier="https://doi.org/10.11646/zootaxa.1944.1.2">Decaëns, T., y Rougeri, R. (2008). Descriptions of two new species of Hemileucinae (Lepidoptera: Saturniidae) from the region of Muzo in Colombia evidence from morphology and DNA barcodes. Zootaxa 1944(1): 34-52.</citation>
+                <citation>Fahrig, L. (2003). Effects of habitat fragmentation on biodiversity. Annu. Rev. Ecol. Evol. Syst. 34:487–515 doi: 10.1146/annurev.ecolsys.34.011802.132419.</citation>
+                <citation identifier="https://doi.org/10.1371/journal.pone.0127312  ">Guarnizo, C. E., Paz, A., Muñoz-Ortiz, A.., Flechas, S. V., Méndez-Narváez, J., &amp; Crawford, A. J. (2015). DNA Barcoding Survey of Anurans across the Eastern Cordillera of Colombia and the Impact of the Andes on Cryptic Diversity. PLOS ONE 10(5): e0127312.</citation>
+                <citation>Heyer, W. (1994). Measuring and Monitorig Biological Diversity: Standard Methods fot Amphibians. Washington, D.C: Smithsonian Institution Press.</citation>
+                <citation>Lea-Charris, E., Castro, L. R., &amp; Villamizar, N. (2021). DNA barcoding reveals fraud in commercial common snook (Centropomus undecimalis) products in Santa Marta, Colombia. Heliyon, 7(5), e07095.</citation>
+                <citation>Lynch, J. D. y Suárez-Mayorga, A. M. (2004). Anfibios en el Chocó Biogeográfico. En:Rangel-Ch, J. O. (Ed.). Colombia diversidad Biótica IV. El Chocó biogeográfico/Costa Pacífica. Pp: 633-667. Bogotá: Universidad Nacional de Colombia, Instituto de Ciencias Naturales.</citation>
+                <citation>McArthur, R.H. y Wilson, E. O. (1967). The theory of island biogeography. Princeton University Press, Princeton (New Jersey), USA.</citation>
+                <citation>Mendoza, Á. M., Torres, M. F., Paz, A., Trujillo‐Arias, N., López‐Alvarez, D., Sierra, S., ... &amp; Gonzalez, M. A. (2016). Cryptic diversity revealed by DNA barcoding in Colombian illegally traded bird species. Molecular Ecology Resources, 16(4), 862-873.</citation>
+                <citation identifier=" https://doi.org/10.35535/pfsyst-2020-0026 ">Moncada, B., Sipman, H., Lücking, R. (2020). Testing DNA barcoding in Usnea (Parmeliaceae) in Colombia using the internal transcribed spacer (ITS). Plant and Fungal Systematics, 65(2), 358-385.</citation>
+                <citation identifier="https://www.ncbi.nlm.nih.gov/ ">CBI, (2021). National Center for Biotechnology Information (NCBI). 1988 – [cited 2022 Oct]. Available from: https://www.ncbi.nlm.nih.gov/</citation>
+                <citation identifier="https://doi.org/10.21068/c2020.v21n01a04 ">Pinto-Erazo, M. A.,Calderón, M. L., Medina, G. F. y Méndez, M. A. 2019. Herpetofauna from two municipalities of southwestern Colombia. Revista Humboldt.</citation>
+                <citation identifier=" DOI:10.1371/journal.pone.0066213">Ratnasingham, S. y Hebert, PDN. (2013). A DNA-Based Registry for All Animal Species: The Barcode Index Number (BIN) System. PLoS ONE 8(8): e66213.</citation>
+                <citation>Reyes-Puig, C., Wake, D., Kotharambath, R., Streicher, J., Koch, C., Cisneros-Heredia, D., Yánez-Muñoz, M., Ron, S. (2020). Two extremely rare new species of fossorial salamanders of the genus Oedipina (Plethodontidae) from northwestern Ecuador. PeerJ 8:e9934</citation>
+                <citation identifier="https://bioweb.bio/portal/ ">Ron, S. R. (2018). Base de datos de la colección de anfibios del Museo de Zoología (QCAZ). Versión 1.0. Pontificia Universidad Católica del Ecuador.</citation>
+                <citation identifier="https://doi.org/10.3897/zookeys.513.9561  ">Rozo-Lopez, P., &amp; Mengual, X. (2015). Mosquito species (Diptera, Culicidae) in three ecosystems from the Colombian Andes: identification through DNA barcoding and adult morphology. ZooKeys, (513), 39–64.</citation>
+                <citation identifier="http://www.revistaecosistemas.net/articulo.asp?Id=423&amp;Id_Categoria=&amp;tipo=portada">Santos T., Tellería J.L. (2006). Pérdida y fragmentación del hábitat: efecto sobre la conservación de las especies. Ecosistemas. 2006/2 3-12</citation>
+                <citation identifier="https://cifras.biodiversidad.co">SIB, (2020). Biodiversidad en Cifras 2020. Sistema de Información sobre Biodiversidad de Colombia. SIB Colombia. Versión 2020-1. (Oct 2021).</citation>
+                <citation>Suriya, J., Krishnan, M., Bharathiraja, S., Sekar, V., &amp; Sachitanandam, V. (2020). Implications and Utility of DNA Barcoding. In Trivedi, S., Rehman, H., Saggu, S., Pannerselvam, C., Ghosh, S. K. (Eds.), DNA Barcoding and Molecular Phylogeny (pp. 3-22). Springer.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-unal.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>ICN-MHN</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 5</collectionIdentifier>
+                    <collectionName>Zoologia</collectionName>
+                </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Individuo completo</jgtiUnitType>
+                    <jgtiUnitRange>
+                        <beginRange>0</beginRange>
+                        <endRange>1</endRange>
+                    </jgtiUnitRange>
+                </jgtiCuratorialUnit>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Fragmento de tejido</jgtiUnitType>
+                    <jgtiUnitRange>
+                        <beginRange>0</beginRange>
+                        <endRange>1</endRange>
+                    </jgtiUnitRange>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

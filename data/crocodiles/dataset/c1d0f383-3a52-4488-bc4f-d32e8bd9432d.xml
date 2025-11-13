@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="c1d0f383-3a52-4488-bc4f-d32e8bd9432d"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/ukjstf</alternateIdentifier>
+        <alternateIdentifier>c1d0f383-3a52-4488-bc4f-d32e8bd9432d</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=fronteraenergy_vim22</alternateIdentifier>
+        <title>Biodiversidad asociada al Estudio de Impacto Ambiental para el Área de perforación exploratoria - VIM22</title>
+        <creator>
+            <individualName>
+                <surName>Frontera Energy Colombia Corp</surName>
+            </individualName>
+            <organizationName>Frontera Energy Colombia Corp</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Calle 110 No. 9 ‑ 25</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>xcastro@fronteraenergy.ca</electronicMailAddress>
+            <onlineUrl>https://www.fronteraenergy.ca/es/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Consultoría y Medio Ambiente S.A.</surName>
+            </individualName>
+            <organizationName>Consultoría y Medio Ambiente S.A.</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 # 37 - 33 Edificio Green Gold. Oficina 717 y 718</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>https://www.cyma.com.co/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Consultoría y Medio Ambiente S.A.</surName>
+            </individualName>
+            <organizationName>Consultoría y Medio Ambiente S.A.</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 # 37 - 33 Edificio Green Gold. Oficina 717 y 718</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>https://www.cyma.com.co/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2025-02-26
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Registros biológicos dentro de los muestreos realizados para Fauna y Flora dentro del Estudio de Impacto Ambiental APE VIM22 Departamento del Magdalena, Municipios Santa Ana, Pijiño del Carmen, San Zenon y San Sebastian de Buenavista.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Animalia</keyword>
+            <keyword>Fungi</keyword>
+            <keyword>Plantae</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=fronteraenergy_vim22</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Municipios de Santa Ana, Pijiño del Carmén, San Zenón y San Sebastián de Buenavista Departamento del Magdalena.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-74.589</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-74.132</eastBoundingCoordinate>
+                    <northBoundingCoordinate>9.603</northBoundingCoordinate>
+                    <southBoundingCoordinate>9.234</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-04-21
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-06-06
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este conjunto de datos contiene 3.189 registros pertenecientes a los reinos Plantae (2.203), Animalia (877) y Fungi (109).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Diego</givenName>
+                <surName>Hernandez</surName>
+            </individualName>
+            <organizationName>Consultoría y Medio Ambiente S.A.</organizationName>
+            <positionName>Profesional Forestal</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 # 37 - 33 Edificio Green Gold. Oficina 717 y 718</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>d.hernandez@cyma.com.co</electronicMailAddress>
+            <onlineUrl>https://www.cyma.com.co/</onlineUrl>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Luz Yaneth</givenName>
+                <surName>Sánchez</surName>
+            </individualName>
+            <organizationName>Consultoría y Medio Ambiente S.A.</organizationName>
+            <positionName>Líder Biótica</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 # 37 - 33 Edificio Green Gold. Oficina 717 y 718</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3144644726</phone>
+            <electronicMailAddress>ly.sanchez@cyma.com.co</electronicMailAddress>
+            <onlineUrl>https://www.cyma.com.co/</onlineUrl>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Carlos Andrés</givenName>
+                <surName>Obando Anaya</surName>
+            </individualName>
+            <organizationName>Consultoría y Medio Ambiente S.A.</organizationName>
+            <positionName>Coordinador</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 # 37 - 33 Edificio Green Gold. Oficina 717 y 718</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3185702764</phone>
+            <electronicMailAddress>c.obando@cyma.com.co</electronicMailAddress>
+            <onlineUrl>https://www.cyma.com.co/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Flora Gentry–Parcelas: Fustales (DAP≥10cm): Parcelas de 50m x 20m o 100m x 10m, con 10 subparcelas de 10 x10 m. Latizales (más de 1,50m de altura y un DAP&lt;10cm): subparcelas de 5m x 5m. Brinzales (alturas inferiores a 1,5 metros): subparcelas de 2m x 2m. Máximo 30 parcelas para fustales, 50 subparcelas para latizales y 50 subparcelas para brinzales/ unidad de cobertura vegetal. Recolección máxima: 2 especímenes por morfo especie no identificada por cobertura vegetal.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Epifitas Vasculares: Un forofito por parcela de 50m x 20m o 100m x 10m Máximo ocho (8) forófitos por parcela. Máximo 20 parcelas por unidad de cobertura vegetal definida. 2 especímenes por morfo especie no identificada por cobertura.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Epífitas No Vasculares: Una cuadricula de 900cm2. Cuatro cuadrículas en cada uno de los (5) cinco forófitos por parcela / máximo 20 parcelas por unidad de cobertura vegetal. 2 especímenes por morfo especie no identificada por cobertura vegetal.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: Redes de Niebla (Dimensiones: 12m largo x 2,5m alto, ojo de malla 36mm.) Máximo 10 redes de niebla por 7 horas al día en dos días por unidad de cobertura vegetal. Las redes serán abiertas entre las 6:00 y 10:00h y las 15:00 y 18:00h. 2 especímenes por morfo especie no identificada por cobertura vegetal.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Herpetos: Búsqueda libre y captura. Máximo tres (3) transectos de 300m cada uno por unidad de cobertura vegetal. Los transectos se realizarán entre 9:00 y las 12:00h y las 16:00 y las 21:00h. Trampas de caída: Máximo (1) arreglo en cruz de 5 trampas por unidad de cobertura vegetal, las cuales serán revisadas dos veces al día, máximo durante 6 días. Trampa de embudo: Máximo cinco (5) trampas por unidad de cobertura vegetal, las cuales serán revisadas dos veces al día, máximo 2 días.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: Trampas Sherman: Máximo 50 trampas por 24 horas al día por dos días por unidad de cobertura vegetal. Trampas Tomahawk. Máximo 10 trampas por 24 horas al día por dos días por unidad de cobertura vegetal. 
+Redes de Niebla: (Dimensiones: 12m largo x 2,5m alto, ojo de malla 36mm). Máximo 10 redes de niebla por 5 horas al día en dos días por unidad de cobertura vegetal. Las redes serán abiertas entre las 18:00 y 23:00h.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Estudio de Impacto Ambiental Área de Perforación Exploratoria VIM 22, en los municipios de Santa Ana, Pijiño del Carmen, San Zenón y San Sebastián de Buenavista pertenecientes al departamento de Magdalena.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la realización de este Estudio de Impacto ambiental se realizó la evaluación de Flora, epífitas y fauna.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="CESP2022-010">
+                <title>Estudio de Impacto Ambiental Área de Perforación Exploratoria VIM 22</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Diego</givenName>
+                    <surName>Hernandez</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Estudio de impacto ambiental en el área de perforación exploratoria APE VIM22, departamento del Magdalena, Municipios Santa Ana, Pijiño del Carmen, San Zenón y San Sebastian de Buena Vista. Muestreos de Flora y Fauna dentro de la caracterización de linea base biótica bajo la Resolución 01715 del 2019 a nombre de CYMA S.A. que ANLA otorgó el Permiso de estudio para la recolección de especímenes de especies silvestre de la diversidad biológica con fines de Elaboración de Estudios Ambientales en toda la extensión del territorio nacional.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Departamento del Magdalena, Municipios Santa Ana, Pijiño del Carmen, San Zenón y San Sebastian de Buena Vista. Ecosistemas vegetales.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Flora: Gentry–Parcelas 0,1 Hectáreas.
+Epifitas Vasculares: Un forofito por parcela de 50m x 20m o 100m x 10m.
+Epífitas No Vasculares: Una cuadricula de 900cm2.
+Aves: Redes de Niebla (Dimensiones: 12m largo x 2,5m alto, ojo de malla 36mm.), Observación.
+Herpetos: Búsqueda libre y captura, Trampas de caída, Trampa de embudo.
+Mamíferos: Trampas Sherman, Trampas Tomahawk, Redes de Niebla (Dimensiones: 12m largo x 2,5m alto, ojo de malla 36mm.)</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:18Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/ukjstf">Frontera Energy Colombia Corp, Consultoría y Medio Ambiente S.A. (2025). Biodiversidad asociada al Estudio de Impacto Ambiental para el Área de perforación exploratoria - VIM22. Version 1.4. Frontera Energy Colombia Corp. Occurrence dataset https://doi.org/10.15472/ukjstf accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-frontera.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>HT</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 245</collectionIdentifier>
+                    <collectionName>Herbario Tropical</collectionName>
+                </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

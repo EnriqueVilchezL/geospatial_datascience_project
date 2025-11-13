@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="cb2f5b68-6505-4b45-9ca7-2e7d0fb69d55"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/bztp0t</alternateIdentifier>
+        <alternateIdentifier>cb2f5b68-6505-4b45-9ca7-2e7d0fb69d55</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=prodeco_mina-calenturitas</alternateIdentifier>
+        <shortName>calenturitas_fauna-flora_2015-2024</shortName>
+        <title>Caracterización de fauna y flora en áreas biosensoras y de rehabilitación de la Mina Calenturitas, 2013-2025</title>
+        <creator>
+            <individualName>
+                <surName>Fundación Hidrobiológica George Dahl</surName>
+            </individualName>
+            <organizationName>Fundación Hidrobiológica George Dahl</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Carrera 43 #47-32 L 1-2, Barrio 20 de Julio</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57(5)3794755</phone>
+            <electronicMailAddress>fungdahl@gmail.com</electronicMailAddress>
+            <onlineUrl>https://fhgdcolombia.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Servicios de Ingeniería y Ambiente S.A.S. - Serambiente</surName>
+            </individualName>
+            <organizationName>Servicios de Ingeniería y Ambiente S.A.S. - Serambiente</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Carrera 41 No. 73B – 72</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(57+3) 385 8220</phone>
+            <electronicMailAddress>comercial@serambiente.com</electronicMailAddress>
+            <onlineUrl>https://www.serambiente.co/v2/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Servicios Ambientales y Geográficos S.A. - SAG</surName>
+            </individualName>
+            <organizationName>Servicios Ambientales y Geográficos S.A. - SAG</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 11B # 40A -130</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57(604)4035570</phone>
+            <electronicMailAddress>sag.sa@sag-sa.com</electronicMailAddress>
+            <onlineUrl>https://sag-sa.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Corporación Autónoma Regional del Cesar - CORPOCESAR</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional del Cesar - CORPOCESAR</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Km 2 vía La Paz. Lote 1</deliveryPoint>
+                <city>Valledupar</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(605)5748960</phone>
+            <electronicMailAddress>atencionalciudadano@corpocesar.gov.co</electronicMailAddress>
+            <onlineUrl>https://www.corpocesar.gov.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Inerco Consultoría Colombia Ltda.</surName>
+            </individualName>
+            <organizationName>Inerco Consultoría Colombia Ltda.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 116 Nro. 19-41 piso 3</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(601) 2362600</phone>
+            <electronicMailAddress>infocolombia@inerco.com</electronicMailAddress>
+            <onlineUrl>https://colombia.inerco.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Grupo Prodeco</surName>
+            </individualName>
+            <organizationName>Grupo Prodeco</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Centro Empresarial Buenavista, Carrera 53 No. 106 – 280, Piso 11</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(605) 3855599</phone>
+            <electronicMailAddress>comunicacionesgrupoprodeco@grupoprodeco.com.co</electronicMailAddress>
+            <onlineUrl>https://www.grupoprodeco.com.co/es</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Fundación Hidrobiológica George Dahl</surName>
+            </individualName>
+            <organizationName>Fundación Hidrobiológica George Dahl</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Carrera 43 #47-32 L 1-2, Barrio 20 de Julio</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57(5)3794755</phone>
+            <electronicMailAddress>fungdahl@gmail.com</electronicMailAddress>
+            <onlineUrl>https://fhgdcolombia.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Servicios de Ingeniería y Ambiente S.A.S. - Serambiente</surName>
+            </individualName>
+            <organizationName>Servicios de Ingeniería y Ambiente S.A.S. - Serambiente</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Carrera 41 No. 73B – 72</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(57+3) 385 8220</phone>
+            <electronicMailAddress>comercial@serambiente.com</electronicMailAddress>
+            <onlineUrl>https://www.serambiente.co/v2/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Servicios Ambientales y Geográficos S.A. - SAG</surName>
+            </individualName>
+            <organizationName>Servicios Ambientales y Geográficos S.A. - SAG</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 11B # 40A -130</deliveryPoint>
+                <city>Medellin</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57(604)4035570</phone>
+            <electronicMailAddress>sag.sa@sag-sa.com</electronicMailAddress>
+            <onlineUrl>https://sag-sa.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Corporación Autónoma Regional del Cesar - CORPOCESAR</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional del Cesar - CORPOCESAR</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Km 2 vía La Paz. Lote 1</deliveryPoint>
+                <city>Valledupar</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(605)5748960</phone>
+            <electronicMailAddress>atencionalciudadano@corpocesar.gov.co</electronicMailAddress>
+            <onlineUrl>https://www.corpocesar.gov.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Inerco Consultoría Colombia Ltda.</surName>
+            </individualName>
+            <organizationName>Inerco Consultoría Colombia Ltda.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 116 Nro. 19-41 piso 3</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(601) 2362600</phone>
+            <electronicMailAddress>infocolombia@inerco.com</electronicMailAddress>
+            <onlineUrl>https://colombia.inerco.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Grupo Prodeco</surName>
+            </individualName>
+            <organizationName>Grupo Prodeco</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Centro Empresarial Buenavista, Carrera 53 No. 106 – 280, Piso 11</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(605)3855599</phone>
+            <onlineUrl>https://www.grupoprodeco.com.co/es</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Grupo Prodeco</surName>
+            </individualName>
+            <organizationName>Grupo Prodeco</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Centro Empresarial Buenavista, Carrera 53 No. 106 – 280, Piso 11</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(605) 3855599</phone>
+            <onlineUrl>https://www.grupoprodeco.com.co/es</onlineUrl>
+            <role>OWNER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Johanna</givenName>
+                <surName>Velásquez Niño</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</organizationName>
+            <positionName>Contratista</positionName>
+            <address>
+                <deliveryPoint>Calle 28a # 16-29</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>jvelasqueznino@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.humboldt.org.co/</onlineUrl>
+            <role>EDITOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-08-12
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Durante los años 2015 y 2024, se realizó los Monitoreos de Flora y Fauna silvestres presentes en las áreas biosensoras de la Mina Calenturitas. Tales monitoreos hace parte de los procedimientos contemplados en el Plan de Manejo Ambiental (PMA) de este proyecto minero, el cual se suma a las diversas acciones y compromisos definidos en la política de sostenibilidad de la Compañía GRUPO PRODECO S.A.
+Los monitoreos, particularmente de largo plazo, en las áreas biosensoras de proyectos mineros son de importante consideración, para la predicción de la supervivencia de las especies y ecosistemas en el espacio y tiempo (Likens &amp; Lindenmayer 2018). Las áreas biosensoras son unidades funcionales para el seguimiento, medición e interpretación de los cambios de la biodiversidad a nivel espacial y temporal, las cuáles son monitoreadas en las diferentes temporadas climáticas (Lluvias - Sequía). Estás áreas presentan coberturas naturales que sustentan gran parte de la biodiversidad al interior de la concesión minera.</para><para>El conjunto de datos consta de 26.336 registros biológicos de fauna (15.029) y flora (11.307), tomados durante el 2015 hasta el 2024 en temporada seca y lluviosa, en los municipios de Becerril, La Jagua de Ibirico y El Paso en el departamento del Cesar. Se realizó principalmente monitoreos aleatorios simples, recorridos activos libres sin restricción y se implementó transectos de ancho variable para la observación y estudio de fauna. La cobertura taxonómica del recurso está constituida por 62 órdenes, 178 familias, 621 géneros y 826 especies.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Insectos</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Anfibios</keyword>
+            <keyword>Flora de regeneración</keyword>
+            <keyword>Áreas biosensoras</keyword>
+            <keyword>Mina Calenturitas</keyword>
+            <keyword>Mamíferos</keyword>
+            <keyword>Aves</keyword>
+            <keyword>Flora fustal</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=prodeco_mina-calenturitas</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El proyecto Mina Calenturitas se encuentra localizado en jurisdicción de los municipios El Paso, La Jagua de Ibirico y Becerril en el departamento del Cesar.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.506928</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.430908</eastBoundingCoordinate>
+                    <northBoundingCoordinate>9.715714</northBoundingCoordinate>
+                    <southBoundingCoordinate>9.633523</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2015-05-06
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2025-02-16
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>11.307 registros biológicos pertenecientes al reino Plantae, distribuidos en 2 clases, 27 órdenes, 59 familias, 181 géneros y 222 especies. Del total, un 96% se identificó a nivel de especie, y el 4% restante se identificó dentro de otros niveles taxonómicos.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>15.029 registros biológicos pertenecientes al reino Animalia, distribuidos en 7 clases, 35 órdenes, 120 familias, 440 géneros , 614 especies 0 subespecies. Del total, un 93% se identificó a nivel de especie o subespecie, y el 7% restante se identificó dentro de otros niveles taxonómicos.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose>Monitorear grupos de fauna y flora en áreas biosensoras y de rehabilitación de la mina Calenturitas, perteneciente a la empresa C.I. PRODECO S.A., del departamento de César, Colombia en cumplimiento de las actividades propuestas en el plan de manejo ambiental de la compañía y exigencias de la autoridad ambiental competente.</purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Sergio</givenName>
+                <surName>Vargas Troncoso</surName>
+            </individualName>
+            <organizationName>Grupo Prodeco</organizationName>
+            <positionName>Coordinador de compensaciones ambientales y biodiversidad</positionName>
+            <address>
+                <deliveryPoint>Centro Empresarial Buenavista, Carrera 53 No. 106 – 280, Piso 11</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(605) 3855599</phone>
+            <electronicMailAddress>Sergio.Vargas@cerrejon.com</electronicMailAddress>
+            <userId directory="https://www.linkedin.com/profile/view?id=">in/sergio-vargas-troncoso-47248135/</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>2015: FAUNA: HERPETOFAUNA: Búsqueda Libre al azar y captura: Consistió en realizar caminatas, buscando anfibios y reptiles, sin que existieran demasiadas reglas para la búsqueda a excepción de revisar minuciosamente todos los microhábitats disponibles como cuerpos de agua (charcos, caños, lagunas y quebradas, bajos inundables), caminos o trochas dentro del bosque; refugios como troncos, piedras, agujeros, hojarasca o material en descomposición. Estos recorridos se llevaron a cabo durante el día y la noche, en un lapso comprendido entre las 8:00 y las 21:00 horas. Para el caso de capturas posibles, se tuvo en cuenta tener todo el cuidado necesario para no afectar el bienestar de los individuos; en especial, para el caso de las serpientes se empleó la ayuda de una pinza herpetológica, evitando riesgos de mordida (sin importar que se tratase o no de especies venenosas). Se realizaron en total 12 transectos, correspondientes a cada una de las estaciones de muestreo (de aproximadamente un día de esfuerzo) y localizados tanto en zonas biosensoras como en áreas en proceso de rehabilitación. Estos recorridos comprendieron distancias entre los 578 y 3.000 metros, con altitudes entre los 55 y 82 m s.n.m.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Muestreo de parcelas de hojarasca: Es un método efectivo para detectar especies poco activas o muy evasivas y reticentes, así como especies arbóreas que descansan en la hojarasca, y otras cuyos estadios juveniles se desarrollan en este hábitat. Debido a los pocos resultados o bajo número de individuos (16) obtenidos en total mediante todas las parcelas, los datos correspondientes fueron integrados a los transectos (para efectos de su tratamiento), ya que las parcelas fueron realizadas al mismo tiempo que la búsqueda libre y al azar. Se establecieron al azar 5 cuadrangulares de 5 x 5 m (25 m2) por estación o transecto sumando 30 en total, removiendo la hojarasca desde los extremos hacia el centro con el propósito de registrar los posibles individuos. Por las características especiales relativas a coberturas adecuadas para esta metodología, solo fue posible realizar las parcelas en las estaciones Maracas Tucuy (1, 2 y 3), Caimancito (1 y 2) y Campamento; quedando la mayoría distribuidas en el Bosque abierto (Ba) por ser la cobertura boscosa más representativa; el resto correspondió a 5 parcelas realizadas en Pasto arbolado y 3 en pequeños parches desarrollados de Vegetación secundaria (Vst).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2015: FAUNA: AVIFAUNA: Metodología de transectos en franjas: El método consiste en que el observador registra las aves detectadas mientras camina a través de un área en línea recta. Las divisiones de dicha línea recta son las unidades de medición. Los transectos fueron realizados tanto en la mañana como en la tarde, de las 06:00 h a las 10:30 h y en la tarde de las 15:30 h a las 17:30 h, con longitudes de ± 900 y 300 metros. Para las observaciones en cada uno de los transectos se utilizó binoculares prismáticos de 10 x 42 y para su posterior identificación de las especies se empleó la Guía de Aves de Colombia.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Metodología de redes de niebla: Para complementar el monitoreo se empleó la técnica de redes de niebla, instalando cuatro redes de 12 x 3 m en las áreas de Maracas-Tucuy y Caimancito. Las redes fueron instaladas desde el nivel del suelo para aumentar la probabilidad de capturar aves con hábitos terrestres. La ubicación geográfica de las redes se registró por medio de un GPS para su posterior mapeo. Las redes estuvieron activas durante un día para cada área abriéndolas entre las 05:30 h a 10:30 h y las 15:30 h a 17:30 h, esto con el fin de aumentar la probabilidad de capturas de las diferentes especies de aves en sus picos de mayor actividad. Con la finalidad de evitar la muerte de los individuos, a causas de estrés, altas temperaturas y depredación, se realizó la revisión de cada una de las redes de niebla con un lapso de tiempo de 20 minutos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2015: FAUNA: MASTOFAUNA: Con el fin de obtener el inventario de mastofauna de la mina Calenturitas se realizó la observación y captura de mamíferos presentes en el área, a través del uso de trampas Sherman, cámaras trampas, redes de niebla, colectas manuales, observaciones directas en recorridos, registros indirectos y búsqueda de rastro; estas técnicas se desarrollaron teniendo en cuenta el tamaño y las características físicas y biológicas de las especies de interés, considerando como pequeños mamíferos aquellos con una masa inferior a 150 gr, los medianos entre 150 gr y 5 kg, y los grandes aquellos con una masa superior a 5 kg.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos voladores: La toma de datos necesarios para el inventario de mamíferos voladores se realizó a partir de redes de niebla, instalando en cada zona de estudio (Áreas Biosensoras: Tucuy – Maracas y Caimancito) a nivel de sotobosque (0.5m – 1m respecto al suelo) cuatro (4) redes cada una de 6 m de largo x 2,6 m de alto. Las redes permanecieron abiertas desde las 18:00 horas hasta las 20:30 horas, este horario se estableció considerando que la mayor frecuencia de captura ocurre en las primeras horas de la noche.  Los individuos capturados fueron liberados de la red para realizar la toma de medidas estándar en milímetros, sexo, estado reproductivo, localidad, geo-referenciación, elevación y la correspondiente identificación taxonómica para la cual se emplearon las claves taxonómicas para murciélagos establecidas por Simmons &amp; Voss</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos pequeños y arborícolas: Para la captura de mamíferos pequeños terrestres y arborícolas se empleó el método de captura por trampas Sherman, en total se instalaron 40 trampas de dos tamaños (7.6 x 8.9 x 22.5 cm; 10.2 x 11.4 x 38 cm) con cebo a base de mantequilla de maní, avena en hojuelas y esencia de vainilla o atún y sardinas, estas fueron ubicadas a nivel del suelo y distribuidas al azar en lugares estratégicos como madrigueras, laderas de rio o cuerpo de agua, troncos caídos con presencia de vegetación herbácea, zonas de tránsito (caminaderos) y refugios, permaneciendo activas 12 horas entre las 18:00 a las 6:00 horas por punto de muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos Medianos y Grandes: Para la obtención de registros directos de mamíferos medianos y grandes se realizó búsqueda libre a través de recorridos libres, tanto diurnos como nocturnos por la zona de estudio. Asi mismo se realizó muestreo con cámaras trampas, empleando 10 cámaras de fototrampeo instaladas al azar en zonas donde se evidenció algún rastro, madriguera o indicio de presencia de mamíferos en la zona; las cámaras fueron instaladas en las áreas biosensoras con un periodo de actividad entre 12 a 24 horas. Se emplearon métodos de detección indirecta y búsqueda de rastros, registrando toda evidencia de alimentación o de actividad que pudiera identificarse de mamíferos, como excretas, pelos y huellas, cada observación fue fotografiada y georreferenciada.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2015: FLORA: Zonas biosensoras: El análisis de la vegetación en las zonas biosensoras se realizó teniendo en cuenta las unidades de coberturas de bosques y áreas seminaturales, así como algunos de los territorios agrícolas (pastos arbolados) presentes en cada una de dichas zonas, a partir del mapa de cobertura vegetal (2014) suministrado por PRODECO. Posteriormente para la caracterización de cada una de las coberturas se realizó un muestreo aleatorio, que permitió obtener información sobre las características cualitativas y cuantitativas de la vegetación de un área determinada, sin la necesidad de estudiarla o recorrerla en su totalidad.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En este caso, se desarrolló un inventario estadístico con una probabilidad del 95% y error de muestreo no mayor del 15% por unidad de cobertura vegetal inventariada. De esta manera, en cada una de las zonas se establecieron un número de parcelas haciendo énfasis en el grado de conservación o intervención, hasta cumplir dicho error de muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cada parcela tuvo un área de 0,1 hectáreas (20 x 50 metros), se dividieron en cinco subparcelas de 200 m2, sobre estas se realizó el inventario de los individuos con un diámetro a la altura del pecho (DAP) mayor o igual a 10 cm (fustales); de estos se registró nombre común, diámetro a la altura del pecho, altura total y comercial o fuste, y se marcaron con un número consecutivo por parcela, en una superficie adecuada y una altura visible, tratando de tener el mismo sentido de orientación, usando pintura de tránsito pesado de color rojo con el fin de garantizar mayor permanencia.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Así mismo, cada una de las subparcelas de 200 m2, se subdividieron en parcelas de 25 m2 donde se registraron los individuos con más de 1,50 m de altura y un DAP menor de 10 cm (Latizales), registrando nombre común, altura total, DAP y se marcaron con una señal visible para no ser repetidos. Para los individuos con alturas menores de 1,50 m (Brinzales), en cada una de las subparcelas de 25 m2, se establecieron subparcelas de 4 m2 registrando nombre común y altura total de los individuos presentes en dicha área. Cabe resaltar, que cada uno de los individuos inventariados (fustal, latizal y brinzal), fueron identificados en campo a nivel de familia, género y especie.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Zonas en proceso de rehabilitación: El análisis de la vegetación se realizó teniendo en cuenta la unidad de cobertura presente en cada una de las áreas en proceso de rehabilitación, a partir del mapa de cobertura vegetal (2014) suministrado por PRODECO. Posteriormente para la caracterización en cada una de las áreas se realizó un muestreo aleatorio, el cual permite obtener información sobre las características cualitativas y cuantitativas de la vegetación de un área determinada, sin la necesidad de estudiarla o recorrerla en su totalidad . En este caso, se desarrolló un inventario representando tan solo el 3% del área total en proceso de rehabilitación por sector o área en proceso de rehabilitación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cada parcela se realizó de 0,1 hectáreas (20 x 50 metros), se dividieron en cinco subparcelas de 200 m2, sobre estas se realizó el inventario de todos los individuos; de estos se registró nombre común, diámetro a la altura del pecho, altura total y comercial o fuste, estado fitosanitario y se marcaron los más gruesos con un número consecutivo por parcela, en una superficie adecuada y una altura visible, tratando de tener el mismo sentido de orientación, usando pintura de tránsito pesado de color rojo con el fin de garantizar mayor permanencia.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2016: FAUNA: ARTROPOFAUNA: El monitoreo para el grupo de artrópodos se realizó teniendo en cuenta el horario de actividad de dichas especies, siendo así de las 7:00 a las 17:00 horas. La captura de cada una de las especies se realizó de acuerdo con la metodología establecida para cada grupo taxonómico.Una vez identificadas las especies, los individuos colectados fueron entregados a la colección del Museo de Ciencias del Programa de Biología de la universidad El Bosque.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Escarabajos Coprófagos: Se realizó un transecto lineal de 300 m, seccionado en cinco unidades muestréales separadas entre sí cada 60 m; en cada unidad se instaló una pitfall activa (trampa de caída cebada con copro de omnívoro), esta trampa consiste en enterrar al nivel del suelo un vaso desechable de 16 onzas de capacidad, lleno un tercio con una solución de alcohol al 50%, posteriormente se ubica por encima un vaso de una (1) onza lleno con 20g de heces de omnívoro sujeto a un alambre de 15 cm de largo en forma de L invertida , estas trampas se instalaron por un período de 24 horas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mariposas Diurnas
+
+La colecta de mariposas se realizó utilizando la red entomológica o jama tipo mariposero, conformada por un aro metálico entre 50 cm a 70 cm al que va unido un tul de forma cónica, sostenida por una vara de metal que da soporte a todo el instrumento. La captura con jama se realiza mediante recorridos en el interior de la parcela desde las 7:00 hasta las 17:00 horas; para obtener un mejor ajuste de los muestreos, se adicionó la utilización de trampas tipo Van Someren Rydon. Estas trampas se revisaron de modo alterno, al tiempo que se hacían recorridos con la red entomológica. Los individuos colectados fueron sacrificados mediante digitalización torácica o “pincin”, luego se depositaron en sobres triangulares de papel pergamino y posteriormente fueron trasladados al laboratorio para su determinación taxonómica.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Hormigas: Se aplicaron métodos de colecta variados dentro de un transecto lineal de 100 m, dividido en 5 secciones separadas 20 m entre sí, en cada una ellas se instaló una pitfall activa  para aquellas especies que colonizan y transitan el suelo. Esta trampa consiste en enterrar al nivel del suelo un vaso de 12 onzas disimulado con hojarasca y lleno un tercio con una solución de alcohol al 50%, posteriormente se ubica por encima un vaso de una (1) onza lleno con 20 g de bocadillo y galleta, sujeto a un alambre de 15 cm de largo en forma de L invertida , estas trampas se instalaron por un período de 24 horas por localidad. Otra técnica utilizada fue la búsqueda activa o captura manual la cual se basa en la inspección de microhábitats donde pueden interactuar especies que no transiten mucho el suelo, como corteza de árboles, huecos en las rocas, ramas, etc., en esta técnica se utiliza la ayuda de pinceles y pinzas entomológicas. Para el caso de la mina Calenturitas, esta búsqueda se realizó durante el día por localidad</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2016: FAUNA: HERPETOFAUNA: La caracterización y análisis de la herpetofauna se realizó tomando datos relacionados con la composición, riqueza y abundancia de anfibios y reptiles en las diferentes estaciones de muestreo, abarcando el mayor número posible de hábitats, representados por las unidades de cobertura. Ningún ejemplar de este grupo fue lesionado, sacrificado, colectado o fijado como muestra durante su manejo en los muestreos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Búsqueda Libre al azar y captura: Consistió en realizar recorridos en búsqueda de individuos pertenecientes a los grupos de reptiles y anfibios, junto con la revisión minuciosa de microhábitats disponibles como cuerpos de agua (charcas, caños, caminos o trochas dentro de áreas boscosas, refugios como troncos, piedras, agujeros, hojarasca o material en descomposición). Estos recorridos se llevaron a cabo durante el día y la noche, en un lapso comprendido entre las 8:00 y las 11:00 horas y entre las 16:00 y las 21:00 horas. Los individuos fueron capturados de forma manual y depositados de forma individual en bolsas de tela humedecida a excepción del grupo Ophidia el cual se manejó con gancho herpetológico; consecutivamente se procedió con el registro fotográfico en las diferentes posiciones para facilitar su determinación en el proceso de identificación, después de la toma de datos los individuos fueron liberados. Se realizaron en total 12 transectos correspondientes a cada una de las estaciones de muestreo (de aproximadamente un día de esfuerzo), localizados tanto en zonas biosensoras como en áreas en proceso de rehabilitación. Estos recorridos comprendieron distancias entre los 578 y 3.000 metros, con altitudes entre los 55 y 82 m.s.n.m.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2016: FAUNA: AVIFAUNA: Metodología de transectos en franjas: El método consiste en que el observador registra las aves detectadas mientras camina a través de un área en línea recta. Las divisiones de dicha línea recta son las unidades de medición . Los transectos fueron realizados tanto en la mañana como en la tarde, de las 06:00 a las 10:30 y de las 15:30 a las 17:30, con longitudes de ± 900 y 300 metros. Para las observaciones en cada uno de los transectos se utilizaron binoculares prismáticos y para la posterior identificación de las especies se empleó la Guía de Aves de Colombia . Simultáneo a los avistamientos, se tuvieron en cuenta las vocalizaciones emitidas por los individuos para su identificación mediante la comparación con cantos previamente almacenados en guías sonoras.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>3.2.3.2 Metodología de redes de niebla
+
+Para complementar el monitoreo se empleó la técnica de redes de niebla, instalando tres (3) redes de 12 x 3 m en las áreas de Maracas-Tucuy y Caimancito. Las redes fueron instaladas desde el nivel del suelo para aumentar la probabilidad de capturar aves con hábitos terrestres. La ubicación geográfica de las redes se registró por medio de un GPS para su posterior mapeo. Las redes estuvieron activas durante un día para cada área abriéndolas entre las 05:30 h a 10:30 h y las 15:30 h a 17:30 h, esto con el fin de aumentar la probabilidad de capturas de las diferentes especies de aves en sus picos de mayor actividad. Con la finalidad de evitar la muerte de los individuos, a causas de estrés, altas temperaturas y depredación, se realizó la revisión de cada una de las redes de niebla con un lapso de 20 minutos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2016: FAUNA: MASTOFAUNA: Con el fin de obtener el inventario de mastofauna de la mina Calenturitas se realizó la observación y captura de mamíferos presentes en el área, a través del uso de trampas Sherman, cámaras trampas, redes de niebla, colectas manuales, observaciones directas en recorridos, registros indirectos y búsqueda de rastros; estas técnicas se desarrollaron teniendo en cuenta el tamaño y las características físicas y biológicas de las especies de interés, considerando como pequeños mamíferos aquellos con una masa inferior a 150 gr, los medianos entre 150 gr y 5 kg, y los grandes aquellos con una masa superior a 5 kg.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos voladores: La toma de datos necesarios para el inventario de mamíferos voladores se realizó a partir de redes de niebla instaladas en cada zona de estudio (Áreas Biosensoras: Tucuy – Maracas y Caimancito) a nivel de sotobosque (0.5m – 1m respecto al suelo), utilizando tres (3) redes cada una de 12 m de largo x 3 m de alto. Las redes permanecieron abiertas desde las 18:00 horas hasta las 20:30 horas, este horario se estableció considerando que la mayor frecuencia de captura ocurre en las primeras horas de la noche. Los individuos capturados fueron liberados de la red para realizar la toma de medidas, identificar sexo, estado reproductivo, localidad, geo-referenciación, elevación de captura y la correspondiente identificación taxonómica para la cual se emplearon las claves taxonómicas para murciélagos establecidas por Simmons &amp; Voss.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos pequeños y arborícolas: Para la captura de mamíferos pequeños terrestres y arborícolas se empleó el método de captura por trampas Sherman, en total se instalaron 40 trampas de dos tamaños (7,6 x 8,9 x 22,5 cm; 10,2 x 11,4 x 38 cm) con cebo a base de mantequilla de maní, avena en hojuelas y esencia de vainilla o atún y sardinas, estas fueron ubicadas a nivel del suelo y distribuidas al azar en lugares estratégicos como madrigueras, laderas de río o cuerpos de agua, troncos caídos con presencia de vegetación herbácea, zonas de tránsito (caminaderos) y refugios, permaneciendo activas 12 horas entre las 18:00 a las 6:00 horas por punto de muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>3.2.4.3 Mamíferos Medianos y Grandes
+
+Para la obtención de registros directos de mamíferos medianos y grandes se realizó búsqueda libre a través de recorridos libres tanto diurnos como nocturnos por la zona de estudio. Asimismo se realizó muestreo con cámaras trampas, empleando 10 cámaras instaladas al azar en zonas donde se evidenció algún rastro, madriguera o indicio de presencia de mamíferos en la zona; las cámaras fueron instaladas en las áreas biosensoras con un periodo de actividad entre 12 a 24 horas. Para garantizar el éxito de captura fotográfica se cebó el área aledaña a la cámara con los mismos cebos descritos para mamíferos pequeños. Se emplearon métodos de detección indirecta y búsqueda de rastros, registrando toda evidencia de alimentación o de actividad que pudiera identificarse de mamíferos, como excretas, pelos y huellas, cada observación fue fotografiada y georreferenciada.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2016: FLORA: Zonas biosensoras: La metodología propuesta en el presente estudio está basada en el monitoreo de parcelas semi-permanentes, debido a que estas permiten detectar los cambios espaciales y temporales de la vegetación, así como describir detalladamente el hábitat dentro de un sitio particular, brindando información útil para predecir los cambios futuros a partir de la distribución actual de las especies; de igual manera, proporciona un patrón de referencia para evaluar el comportamiento de la vegetación a través del tiempo. En primera instancia se retomaron las unidades muestreales (parcelas rectangulares de 20 x 50 metros) establecidas en los estudios del 2015, procediendo a dejar delimitada dicha área: puntos iniciales y finales establecidos con tubería de PVC (11/2”), que indican la dirección de la parcela. Adicionalmente, se procedió a instalar los vértices (cuatro en totales) en tubos PVC (1/2”), todos los tubos fueron de un (1) metro de altura y se instalaron a una profundidad de aproximadamente 30 cm. Una vez establecidos los vértices, se procedió a realizar el encerramiento del área utilizando cinta peligro, principalmente porque es de fácil visualización durante el desarrollo de las actividades posteriores y en los futuros estudios.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Una vez delimitada la unidad muestreal se procedió a la cuantificación de los individuos fustales (DAP mayor o igual a 10 cm) registrando nombre común, alturas totales y comerciales en metros. Todos los individuos fueron numerados consecutivamente por parcela, donde la numeración asignada en el estudio anterior aún estaba vigente de manera que se optó por dejar dicha marcación. Cuando la marcación de los individuos no era tan clara se reforzó, adicionalmente se incluyeron nuevos individuos por aumento diamétrico, redimensionamiento de la parcela con relación a los estudios anteriores o establecimiento de nuevas unidades de muestreo, estos individuos fueron enumerados siguiendo la respectiva secuencia. Todos los individuos se marcaron en una superficie adecuada a una altura visible, utilizando pintura de tránsito pesado de color amarillo con el fin de garantizar mayor permanencia; es decir, que dentro de las parcelas se identifican individuos con marcación de color rojo los cuales corresponden a los estudios anteriores y amarillo para el presente análisis.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2016: FLORA: Zonas en proceso de rehabilitación (botaderos): El análisis de la vegetación se realizó teniendo en cuenta la unidad de cobertura presente en cada una de las áreas en proceso de rehabilitación, a partir del mapa de cobertura vegetal (2014) suministrado por PRODECO. El establecimiento de las parcelas obedece a las características físicas estructurales representativas de cada área en proceso de rehabilitación. Se retomaron las unidades muestreales (parcelas rectangulares de 20 x 50 metros) establecidas en los estudios del 2015, procediendo a dejar delimitada dicha área: puntos iniciales y finales, establecidos con tubería de PVC (11/2”), que indican la dirección de la parcela. Adicionalmente, se procedió a instalar los vértices (cuatro en totales) en tubos PVC (1/2”), todos los tubos fueron de un (1) metro de altura e instalados a una profundidad de aproximadamente 30 cm. Una vez establecidos los vértices se procedió a realizar el encerramiento del área utilizando cinta peligro, principalmente porque es de fácil visualización durante el desarrollo de las actividades posteriores y en los futuros estudios.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cada parcela abarca 0,1 hectáreas (20 x 50 metros) donde se efectuó la caracterización (inventario al 100%) de todos los individuos registrando nombre común, CAP (cm), altura total y estado fitosanitario. La numeración asignada en el estudio anterior (temporada seca, año 2015) aún estaba vigente, de manera que se optó por dejar dicha marcación; en los casos en los que la marcación no era tan clara se reforzó y cuando fue necesario se incluyeron nuevos individuos por el redimensionamiento de las parcelas con relación a los estudios anteriores o el establecimiento de nuevas unidades de muestreo, los nuevos individuos fueron enumerados siguiendo la secuencia inicialmente establecida. La numeración se realizó en los individuos con mayor CAP (cm) con un número consecutivo por parcela una superficie adecuada y a una altura visible, utilizando pintura de tránsito pesado de color amarillo con el fin de garantizar mayor permanencia; los individuos más delgados en lo posible fueron marcados con una línea vertical de pintura amarilla.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2017: FAUNA: HERPETOFAUNA: Barrera de interceptación con trampas de caída: Para el muestreo de la herpetofauna terrestre se utilizó el método de barrera de interceptación con trampas de caída, el fundamento de este método es crear una barrera artificial la cual interrumpa el paso del animal y a su vez lo guíe hacia uno de los extremos donde encontrará una trampa de caída o foso. El foso está conformado por un balde o caneca plástica, para este proyecto se instalaron los sistemas de trampas de caída de acuerdo a la disponibilidad del terreno para la realizar las excavaciones. Las trampas fueron colocadas en áreas elevadas, en cercanías a los cuerpos de agua. En cada zona se colocó una batería de trampas durante tres noches, activadas durante las 24 horas en cada sitio por muestreo. En cada trampa, se instaló cinco fosos de cuatro galones.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Transectos por inspección para conteo visual de longitud variable con tiempo determinado: Los transectos se realizaron en un área donde no se instaló la trampa de barrera. Este método consiste en buscar activamente herpetos a lo largo de un recorrido en un área. Realizando recorridos paralelos al largo de una quebrada, alrededor de un pantano, o siguiendo una trocha dentro del bosque, observando y buscando con mucha atención las diferentes especies de herpetos que se puede ubicar tanto dentro como fuera del agua, en las orillas (hasta 10 metros de distancia a cada lodo del transecto), debajo de piedras, sobre la vegetación, ramas y copa de los árboles, este recorrido se realiza caminando y no a gran velocidad. Los recorridos se realizaron durante tres horas de recorrido por transecto. Para este caso se tuvo que ser muy estricto con el registro del tiempo de muestreo, tomando la hora de inicio y final, esto con el fin de dar resultado en horas/hombre de muestreo. Cuando trabajaron varias personas, cada un tomaba su propio tiempo, esto con la finalidad de hacer un estimativo lo más real posible de la distancia recorrida, la cual fue trazada su trayectoria empleando un GPS Garmin 64 CXs y la herramienta Avenza Maps para IOs.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Capturas: Se realizaron de manera manual o con el empleo de ganchos herpetológicos o pinzas Pilström para su mejor ubicación en una taxa e inmediatamente liberados en campo. Y finalmente la realización de un registro fotográfico con una cámara digital Nikon P900.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2017: FAUNA: AVIFAUNA: Puntos y recorridos de muestreo: Se seleccionaron nueve estaciones de monitoreo, y una localidad extraordinaria, por hallarse una colonia de reproducción en plena actividad en el primer monitoreo (26/06/2017) 9.712806° -73.440056° muy cerca a la estación bajo inundable. En cada una de las estaciones de monitoreo, se realizaron recorrido para la identificación de la avifauna, implementándose el método de búsqueda intensiva, con el hallazgo de registros en todas ellas. Cada transecto realizado se estableció con un mínimo de 2 km y un máximo de 5 km en cada una de las sesiones de monitoreo, la distancia recorrida fue determinada por el tipo de área a cubrir, la presencia de aves y el tiempo de registro de las mismas, la topografía y la cobertura vegetal.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Censos de aves: La metodología seguida para los “censos” es básicamente la de búsqueda intensiva que consiste en buscar las aves o sus evidencias a medida que se avanza en el transecto, en el cual los equipos de conteo una vez localizan un ave o escuchan su canto, realizan un barrido con binoculares y telescopio para determinar la especie (s) y su abundancia observada. Procediendo a identificarlas y a registrar los datos. Dentro de las evidencias del registro, se utilizaron además cámaras fotográficas Nikon P900 y Grabadoras Tascam D40.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En las sesiones de monitoreo no se utilizaron redes de niebla siguiendo la tendencia que propende por la mínima manipulación e intervención de los especímenes a monitorear. Aparte que en varios estudios se ha demostrado que la eficiencia de las redes de niebla es muy poca pues los datos de la captura con redes provienen de pocos puntos por unidad de tiempo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En comparación los transectos con búsqueda intensiva permiten identificar y registrar un mayor número de especies, siempre y cuando se tenga un buen conocimiento de las aves de la zona y sus vocalizaciones. Las redes de niebla deben utilizarse si se considera que es necesario complementar la información o en los casos donde se tengan actividades que lo requieran (anillamientos, toma de medidas constantes muestras, etc). Las evidencias fotográficas en la medida en que se ha avanzado con los equipos a los que se tiene acceso, permiten las fotos necesarias sin necesidad de la captura y manipulación de los especímenes, lo que minimiza el estrés al que puedan ser sometidos durante los monitoreos. Las actividades fueron realizadas por dos profesionales los cuales permanecieron trabajando en conjunto. Los datos fueron consignados en un dispositivo digital, y trasladados a una hoja de Excel en la tarde noche después de cada conteo. Los animales fueron identificados comparándolos con las guías de campo, y la colección de sonidos previamente dispuesta para este fin.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2017: FAUNA: MASTOFAUNA: La riqueza y abundancia de los mamíferos en los ambientes tropicales, requiere de metodologías, que maximicen la eficiencia de los muestreos, con el fin de que, se adapten a su comportamiento evasivo y a los ciclos de actividad de los diferentes taxa, razón que justificó, la utilización de técnicas de muestreo intensivas, en la recopilación de la información primaria en las diferentes estaciones de muestreo de la Mina Calenturitas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La captura de los murciélagos, se realizó con cuatro redes de niebla con un área total de interceptación=120m2/noche. Durante cuatro noches sucesivas, se muestrearon simultáneamente, dos áreas diferentes, extendiendo en cada sector dos redes de niebla, manteniéndolas activas durante toda la noche; se hizo énfasis en las áreas Biosensoras y en los Botaderos con mayor desarrollo de la cobertura vegetal. Las redes se revisaron en las primeras horas de la noche y a las 05:30 horas del día siguiente, que corresponden a los periodos de mayor actividad. A los murciélagos capturados se les anotó: la especie, el sexo, la longitud del antebrazo y la condición reproductiva, así: Macho activo con los testículos descendidos al escroto, inactivo cuando los testículos se encontraron en posición abdominal. Hembras preñadas, se determinó por palpación del abdomen, si se sentía el feto, Lactando cuando había presencia de leche o de orla mamaria e Inactivas si no presentan ninguna de las condiciones descritas; posteriormente, se liberaron, en el sitio de captura.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>También se utilizó como herramienta para el monitoreo de los murciélagos, el Echo Meter Touch 2 Pro (wildlifeacoustics.com/products/echo-meter-touch-2 2017), sistema acústico basado en algoritmos altamente complejos y exclusivos, que detectan los diferentes tipos de llamadas de eco localización, que emiten los murciélagos y con los denominados llamados “clasificadores”, los identifica en fracción de segundos y muestra un listado de las especies probables de encontrar en el sitio muestreo. El listado de especies de murciélagos, obtenido con el Echo Meter Touch, se contrastó, con el listado de murciélagos Neotropicales que provee el programa y con el de Solari et al. (2013), de los mamíferos reportados en Colombia, así como con los listados de las especies que aparecen en los informes de los monitoreos realizados en la Mina Calenturitas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En la captura de los pequeños mamíferos no voladores, que incluye, especies de los órdenes Didelphimorphia y Rodentia, se activó una red de 110 trampas de captura viva (66 grandes de 38 x 12 x 10 cm y 44 pequeñas de 23 x 9 x 7.5 cm), cebadas, con una mezcla de avena en hojuelas, mantequilla de maní y esencia de vainilla concentrada (Voss y Emmons 1996). En los nueve sectores de la mina Calenturitas, para la captura de mamíferos (con peso inferior a 500 gr), se distribuyeron de 10 – 20 trampas, dispuestas en transectos lineales distanciadas entre sí, 20 m o más, manteniéndolas activas de cuatro a cinco noches sucesivas, todas las trampas se revisaron y recebaron diariamente.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La búsqueda de encuentros directos con mamíferos medianos y grandes, e indirectos, revisando huellas, se realizó, efectuando recorridos diurnos y nocturnos, a través de transectos, por los diferentes sectores de la Mina. También se utilizaron 13 cámaras trampa, distribuidas en los diferentes sectores de la mina, utilizando como atrayente, mantequilla de maní, atún, sardinas y piña.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2017: FAUNA: ENTOMOFAUNA: Mariposas Diurnas (Lepidóptera: Papilionoidea): La colecta de mariposas se realizó utilizando la red entomológica o jama tipo mariposeo, conformada por un aro metálico entre 50 cm a 70 cm al que va unido un tul de forma cónica, sostenida por una vara de metal, que da soporte a todo el instrumento. La captura con jama se realiza mediante recorridos en el interior de la parcela desde las 7:00 AM hasta las 5:00 PM para obtener un mejor ajuste de los muestreos, se adicionó la utilización de trampas tipo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Van Someren Rydon: Estas trampas se revisaron de modo alterno, al tiempo que se hacían recorridos con la red entomológica. Los individuos colectados fueron sacrificados mediante Digitalización toraxica, luego se depositaron en sobres triangulares de papel pergamino y posteriormente fueron trasladados al laboratorio para su determinación taxonómica.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Escarabajos Coprófagos: Se realizó un transecto lineal de 300 mm, seccionado en cinco unidades muestréales, separadas entre sí cada 60 m; en cada unidad, se instaló una pitfall activa (trampa de caída cebada con copro de omnívoro), esta trampa consiste en enterrar al nivel del suelo un vaso desechable de 16 onzas de capacidad, lleno un tercio con una solución de alcohol al 50%, posteriormente se ubica por encima, un vaso de una (1) onza, lleno con 20g de heces de omnívoro, sujeto a un alambre de 15cm de largo en forma de L invertida, estas trampas se instalan por un período de 24 horas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Hormigas: Se aplicaron métodos de colecta variados, dentro de un transecto lineal de 100m, dividido en 5 secciones, separadas 20m entre sí, en cada una ellas, se instaló una pitfall activa (House heat et al. 1979), para aquellas que colonizan y transitan el suelo, esta trampa consiste en enterrar al nivel del suelo un vaso de 12 onzas disimulado con hojarasca, lleno un tercio con una solución de alcohol al 50%, posteriormente se ubica por encima, un vaso de una (1) onza, lleno con 20g de bocadillo y galleta, sujeto a un alambre de 15cm de largo en forma de L invertida (Brown, 1982), estas trampas se instalan por un período de 24 horas por localidad. Otra técnica utilizada fue la búsqueda activa o captura manual, que se basa en la inspección de microhábitats, donde pueden interactuar especies que no transiten mucho el suelo, como corteza de árboles, huecos en las rocas, ramas, etc. Con la ayuda de pinceles y pinzas entomológicas; esta búsqueda se realiza durante el día, por localidad.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2017: FLORA: El levantamiento de información sobre la flora en los diferentes sectores de la mina Calenturitas, se realizó mediante el montaje de transectos tipo Gentry en los sectores previamente establecidos por PRODECO, para ello se realizaron salidas de campo a la mina durante cuatro épocas de 2017, con el objetivo de verificar las coberturas vegetales en 45 puntos de muestreos. En estos puntos se realizaron diferentes tipos de observaciones, con el fin principal de caracterizar la vegetación de manera más extensa en el territorio, se realizaron algunas colecciones botánicas del material encontrado en estado reproductivo (flor y/o fruto), con el fin de precisar su identificación y realizar una descripción preliminar del estado poblacional de algunas especies importantes. Se registró en las libretas de campo información referente a la ubicación, fecha y descripción de algunos caracteres diagnóstico de los ejemplares. Los transectos tipo Gentry (50mx2m), permite caracterizar la vegetación (p.e bosque ribereño), censando todas las plantas cuyos tallos presentaran diámetros a la altura del pecho (DAP) mayor o igual a 2.5 cm. Se midió su DAP, altura, hábito de crecimiento y se trató de identificar en campo cuando fue posible. Para delimitar los transectos se utilizó una cuerda que generalmente se amarra a un árbol y divide el área de muestreo para facilitar el inventario vegetal. La determinación de ejemplares se efectuó realizando consultas a herbarios virtuales (COL, MO, NY, F, principalmente), y con la ayuda de TROPICOS.org e IPNI.org, los cuales se basan en el sistema de clasificación APG III (Angiosperm Phylogeny Group II-Grupo para la filogenia de las angiospermas), también se contó con la valiosa ayuda bibliográfica de trabajos previos en el área de estudio. El estudio se realizó en nueve áreas de la mina Calenturitas, cuatro catalogadas por la empresa como áreas rehabilitadas, y cinco áreas catalogadas como biosensoras.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018-2019: FAUNA: HERPETOFAUNA: Búsqueda libre al azar (VES): Este consistió en hacer recorridos en el área aleatoriamente siete días en el mes de mayo y siete días en el mes de septiembre del año 2018, buscando en todos los lugares posibles activamente individuos en la vegetación, hojarasca entre otros lugares. Este método es muy útil porque permite determinar la riqueza de las especies y la composición del ensamblaje, pero esta técnica no es suficientemente rigurosa como para cuantificar de manera adecuada otros indicadores más finos como la densidad (número de individuos por unidad de área). Este método es uno de los más eficientes para obtener el mayor número de especie en el menor tiempo por parte de los colectores, además de permitir el avistamiento de especies de hábitos arborícolas o trepadores. Se realizaron caminatas en las horas del día y en las horas de la noche iniciando desde las 05:00 h hasta las 10:00 h y entre las 15:00 h y 20:00 h en las diferentes localidades de muestreos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Además, se realizó registro e identificación de especies de anuros a través de cantos, así como capturas manuales (anfibios y reptiles), mediante la utilización de ganchos herpetológicos para serpientes, para su posterior identificación y un registro fotográfico del individuo capturado o avistado, ningún ejemplar se sacrificó y se liberaron al momento de ser tomados los datos. Cercas de desvió con trampas de caída. Una de las técnicas alternativas para la captura de anfibios y reptiles vivos es el uso de cercas de desvió. En principio, una cerca de desvió es una tira de lámina, colocada verticalmente y parcialmente hundida en el suelo, de manera que no permita el paso de anfibios y reptiles terrestres, sino que los obligue a seguir la dirección de la cerca misma.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018-2019: FAUNA: AVIFAUNA: La metodología seguida para los “censos” es básicamente la de búsqueda intensiva que consiste en buscar las aves o sus evidencias a medida que se recorren los transectos, en el cual los equipos de conteo una vez localizan un ave o escuchan su canto, realizan un barrido con binoculares y telescopio para determinar las especie y abundancia observada. Procediendo a identificarlas y a registrar los datos. Dentro de las evidencias del registro, se utilizan Binoculares 10 x 42, además cámaras fotográficas Nikon P900 y Grabadoras Tascam D40.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018-2019: FAUNA: MASTOFAUNA: La composición, riqueza y abundancia relativa de las especies, en el ensamble de los Pequeños mamíferos voladores – PMV, que habitan en la mina Calenturitas, se estableció en los muestreos realizados, durante cuatro o cinco noches sucesivas, en las que se extendieron durante toda la noche, de dos a cuatro redes de niebla (con un área total de interceptación de 120m2/noche). Para cubrir, la mayor extensión posible y los ambientes más representativos, se muestrearon simultáneamente, dos áreas diferentes, extendiendo en cada sector, dos redes (2x12mx2.5 = 60m2/noche), distantes entre sí.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las redes se revisaron en las primeras horas de la noche y a las 05:30horas, del día siguiente, que corresponden a los periodos de mayor actividad, cubriendo así, el ciclo de actividad y las posibles rutas de desplazamiento de los murciélagos. A los murciélagos capturados, se les anotó: la especie, el sexo y la condición reproductiva, así: Macho activo, cuando presenta los testículos descendidos al escroto, inactivo cuando los testículos se encontraron en posición abdominal. Hembras preñadas, cuando por palpación del abdomen, se detectó el feto, Lactando, si había presencia de leche o de orla mamaria e Inactivas si no presentaban ninguna de las condiciones descritas; posteriormente, se liberaron, en el sitio de captura. También se utilizó el Echometer Touch 2 PRO, para validar la información que suministra el equipo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La búsqueda de encuentros directos con mamíferos medianos y grandes, e indirectos, revisando huellas, se realizó, efectuando recorridos diurnos y nocturnos, a través de transectos, por los diferentes sectores de la Mina. También se utilizaron 14 cámaras trampa (Perovic et al. 2008, Selem-Salas et al. 2011, Díaz-Pulido y Payán 2012), distribuidas en los diferentes sectores de la mina, utilizando como atrayente, mantequilla de maní, atún, sardinas y piña.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018-2019: FAUNA: ARTROPOFAUNA: Para el monitoreo y valoración de las diferentes comunidades y órdenes de insectos, se establecieron dos transectos lineales de 250 y 500m para cada estación de fauna, donde se aplicaron diferentes técnicas de captura, dos Trampas de caída activas tipo Pitfall cebadas con 20 gr de atrayentes (fruta en descomposición o excremento) y 10 Trampas de caída pasivas sin cebo por transecto, en cuyo interior se depositó previamente una solución de agua, jabón líquido y alcohol etanol al 50%, estas trampas permanecieron en actividad por un periodo de 48 horas en cada área . Para la captura de mariposas se utilizaron cinco trampas tipo Van Someren Rydon por cada área cebadas con banano y frutas en descomposición adicionalmente se utilizaron redes entomológicas, combinándola con la observación visual directa a lo largo de un recorrido de 500m en áreas abiertas y las proximidades</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Igualmente se realizó la captura manual además de la revisión cuidadosa de troncos en descomposición, hojarasca, rocas, frutos caídos, corteza de árboles y arbustos, partes de flores y hojas. Por último, se delimito un transecto lineal de 300m aproximadamente donde se realizó un conteo y registro de insectos rastreros y voladores que son difíciles de caer en las Trampas de caída tipo Pitfall</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2018-2019: FLORA: La metodología que se propone considera los lineamientos para la instalación de Parcelas Permanente de Vegetación propuestas por el Instituto Alexander von Humboldt ; para las metodologías de toma de registros y su procesamiento se consideraron también las expuestas por Melo-Cruz y Vargas-Ríos (2002), en el documento “Evaluación Ecológica y Silvicultural de Ecosistemas Boscosos”.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la caracterización de cada ecosistema, se realiza un muestreo aleatorio, para así tener certeza de la representatividad de los datos; los cuales son empleados para establecer las características cualitativas y cuantitativas de la vegetación en un área determinada, sin necesidad de estudiarla o recorrerla en su totalidad. Per considerando las diferentes unidades que constituyen ecosistemas y que son necesarios estudiar, se plantea que el muestreo sea estratificado, que consiste en diferenciar y delimitar la población en unidades o subunidades con características específicas similares totalidad.   La estratificación es indispensable en los estudios de bosques tropicales, debido a la alta heterogeneidad y variabilidad de los ecosistemas boscosos. El objetivo de la estratificación es el de disminuir el grado de variabilidad de la población total, dividiéndola en subunidades más o menos homogéneas, de tal forma que se reduzca notablemente la variabilidad dentro de las unidades y así conseguir un mínimo de error de muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Diseño de Muestreo: Se realiza un muestreo estratificado al azar, con una confiabilidad del 95% y un error de muestreo inferior al 15% para fustales con diámetro a la altura del pecho (DAP) superior a los 10 cm. Se instalan Parcelas Permanentes de Monitoreo y su distribución se hace al azar en cada uno de los ecosistemas de las áreas de estudio, la parcela debe estar estrictamente al interior de una sola cobertura o ecosistema, hacerla abordando más de una cobertura o ecosistema es un error grave para los análisis; se instala durante el primer monitoreo del año, al menos 1 parcelas por cada ecosistema presente en cada una de las áreas mencionadas en la, a partir de las cuales se recalcula la representatividad estadística, para realizar instalación de nuevas parcelas durante el segundo y tercer monitoreo, con el fin de alcanzar la representatividad estadística.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Forma y tamaño de las parcelas: Se propone el establecimiento de transectos de 0.1 ha (100 m de longitud x 10 m de ancho), las cuales se distribuyen en forma de transectos, con los cuales se pretende abarcar la posible variabilidad a lo largo de toda el área de influencia directa y, en especial, en los casos en los que puede presentarse un gradiente ambiental, como en el caso de la cercanía de cuerpos de agua. Una vez seleccionado el sitio representativo del bosque para el muestreo, se procede a establecer los correspondientes transectos. Cada transecto tiene una longitud de 100 m, divididos en 10 subparcelas de 10 x 10 m para un total de 1000 m2 por transecto,  en estas subparcelas se miden todos los fustales cuyo diámetro a la altura del pecho supere los 10 cm, al interior de las mismas subparcelas de fustales se registra la cantidad de latizales (entre 5 cm y 10 cm de DAP) por especie; en tres subparcelas anidadas de 5 X 5, se toma también el registro de la cantidad de individuos por especie en las categorías U2 y E; para el registro de la regeneración natural con alturas inferiores a 150 cm, se establecen en sub-parelas de 2 X 2 m las cuales se instalan de forma anidada al interior de las de 5 x 5.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2020: FLORA: Determinación de unidades y coberturas de muestreo: Con el fin de enfocar el estudio de la flora sobre las diferentes comunidades vegetales, y dar cumplimiento a las directrices de las autoridades ambientales, se identificaron las unidades o ecosistemas de muestreo. Para ello se consideró la clasificación propuesta en el mapa de ecosistemas continentales, marinos y costeros de Colombia. Se refinó la escala a 1:25.000 en base a información primaria y fotomosaicos recientes a gran escala. Las coberturas se determinaron de acuerdo con el Sistema de clasificación CORINE Land Cover (Coordination of Information on the Environment) (Bossard M, 2000), el cual ha sido adaptado para Colombia y en la actualidad es implementado por institutos de investigación de Colombia, Corporaciones Ambientales Regionales y ANLA.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Instalación de parcelas: Se realizó un muestreo estratificado aleatorio, con una confiabilidad del 95% y un error de muestreo inferior al 15% para fustales con diámetro a la altura del pecho (DAP) superior a los 10 cm. El diseño estuvo basado en el establecimiento de parcelas permanentes de 0,1 ha, con estas se pretendió abarcar la mayor variabilidad presente en las coberturas de muestreo. Cada parcela tuvo una longitud de 100 m, divididos en 10 subparcelas de 10 x 10 m, para un total de 1000 m2 por parcela. En estas subparcelas se midieron todos los fustales cuyo diámetro a la altura del pecho superaba los 10 cm. Al interior de las mismas subparcelas se registró la cantidad de latizales (plantas con DAP entre 5 cm y 10 cm). En tres subparcelas anidadas de 5 X 5 m, se registró la cantidad de individuos por especie en las categorías de plantones superiores (U2) y plantas establecidas (E). También se registró la regeneración natural en plantas con alturas inferiores a 150 cm, para ello se instalaron subparcelas de 2 X 2 m anidadas dentro de las parcelas de 5 x 5 m. La unidad media de muestreo y la unidad menor de muestreo se instalaron al interior de las unidades de muestreo 3, 6 y 9. Sólo en casos extremos donde las condiciones del terreno encontrados no permitieron el establecimiento de parcelas de 10m x 100m, se utilizaron parcelas rectangulares de 20m x 50m cumpliendo con la dimensión de 1000 m2. Las parcelas fueron instaladas estrictamente al interior de una sola cobertura o ecosistema de los identificados en las áreas monitoreadas, esto de acuerdo con los lineamientos, para la instalación de parcelas permanentes de vegetación, propuestos por el Instituto Alexander von Humboldt.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2020: FAUNA: HERPETOFAUNA: El muestreo de anfibios y reptiles estuvo basado en el registro visual, mediante el método de búsqueda libre sin restricción por encuentro visual. Se trata de buscar individuos activamente en la vegetación, removiendo la hojarasca, troncos caídos, rocas, árboles, ramas y otros elementos del suelo. Los recorridos de búsqueda libre fueron realizados en horas del día coincidentes con los picos de actividad de las especies de anfibios y reptiles, esto es, entre las 6:30 y 9:30 horas, y entre las 17:30 y 20:30 horas. Adicional a la búsqueda libre, se instalaron trampas de caída, consideradas como puntos fijos de captura. Las trampas funcionaron como barreras físicas, impidiendo el paso de anfibios y reptiles rastreros. Cada trampa de caída constó de siete tanques plásticos enterrados a nivel del suelo. Estos fueron ubicados en sectores, dentro de las áreas de estudio, que presentaron condiciones para funcionar como potenciales corredores de paso para las especies de interés en el área de estudio. Tales sectores fueron identificados durante los recorridos diurnos. La identificación de los individuos capturados se centró en la revisión de caracteres diagnósticos que permitieran su determinación al nivel más fino posible, utilizando claves taxonómicas. La determinación de los individuos que sólo fueron avistados estuvo basada en caracteres que fuesen evidentes a simple vista o en registro fotográfico. Los individuos capturados fueron liberados en la misma zona de captura. Finalmente, el esfuerzo de muestreo fue calculado teniendo en cuenta las horas-hombre entre unidad de longitud (Km).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2020: FAUNA: AVIFAUNA: Usando el método de búsqueda intensiva, se recorrieron transectos aleatorios en las coberturas vegetales identificadas en cada una de las nueve estaciones de monitoreo. Los transectos realizados se establecieron con un mínimo de 2 km y un máximo de 5 km. La distancia recorrida en cada transecto fue determinada por la extensión del área a cubrir, su topografía y tipo de cobertura vegetal. Para el registro de las evidencias, se utilizaron cámaras fotográficas Olympus Mark III y Grabadoras Tascam D40. El método de búsqueda intensiva implementado, consistió en buscar las aves o sus evidencias a medida que se avanza en el transecto. Una vez se avistó un ave o escuchó su canto, se realizó un barrido con binoculares y telescopio para determinar la especie y abundancia observada. Los individuos fueron identificados usando claves taxonómicas y guías de campo, y la colección de sonidos previamente dispuesta para este fin. Además, como herramienta de autoridad taxonómica en aves se utilizó el listado de las aves de Suramérica del AOU.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2020: FAUNA: MASTOFAUNA:. Para el monitoreo de la mastozoofauna, se utilizaron técnicas de muestreo intensivas ampliamente usadas por su adecuación al comportamiento evasivo y ciclo de actividad de los diferentes taxa. Las especies de mamíferos registradas en las áreas biosensoras y en las áreas en proceso de rehabilitación, fueron detectadas por medio de observaciones directas, capturas con redes de niebla, trampas de captura viva y cámaras trampa.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Pequeños mamíferos voladores – PMV: fueron capturados con cuatro redes de niebla (con un área total de interceptación de 150m2/noche), extendidas, toda la noche, muestreando simultáneamente en dos áreas diferentes.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Pequeños Mamíferos no Voladores – PMNV: para la captura de PMNV fueron instaladas 80 trampas grandes de captura viva (trampas Sherman), cebadas con una mezcla de mantequilla de maní, avena en hojuela y esencia de vainilla. Las trampas se mantuvieron activas durante cinco noches sucesivas y fueron distribuidas en diferentes sitios, considerados como lugares de paso o de uso potencial por las especies de interés.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos medianos y grandes: para su captura también se usaron trampas grandes de captura viva. Estas fueron cebadas con mantequilla de maní, atún, sardinas y piña. Además, fueron buscados utilizando 16 cámaras trampa instaladas siguiendo transectos en las áreas de estudio.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2020: FAUNA: ENTOMOFAUNA: Entomofauna. Para el monitoreo de las diferentes comunidades de insectos, se establecieron dos transectos lineales de 250 y 500m en las áreas de estudio. Fueron instaladas dos trampas de caída activa tipo Pitfall cebadas con 20 gr de atrayentes (fruta en descomposición o excremento). También fueron instaladas diez trampas de caída pasivas por transecto. En su interior se depositó una solución de agua, jabón líquido y alcohol al 50%. Estas trampas permanecieron activas por 48 horas en cada estación de monitoreo. Para la captura de mariposas se utilizaron cinco trampas tipo Van Someren Rydon por cada área de estudio. Estás fueron cebadas con frutas en descomposición. Adicionalmente, se utilizaron redes entomológicas, combinándolas con la observación visual directa a lo largo de un recorrido de 500m en áreas abiertas. También se realizó búsqueda intensiva de individuos en troncos en descomposición, hojarasca, rocas, frutos caídos, corteza de árboles, arbustos, partes de flores y hojas. Finalmente, se delimitó un transecto lineal de 300m aproximadamente en las áreas de monitoreo. A lo largo de este se buscaron y contabilizaron insectos rastreros y voladores, los cuales son poco frecuentes en las trampas de caída de tipo Pitfall. Los organismos colectados se conservaron siguiendo las debidas labores curatoriales y para su determinación se aplicaron claves taxonómicas para cada familia de insectos. Con los registros colectados fueron estimados el índice de diversidad de Shannon – Weaver, el coeficiente de similitud de Jaccard y el índice de Bray Curtís. También fueron aplicados modelos de distribución de las abundancias y se determinaron los siguientes componentes: Abundancia absoluta y relativa, Frecuencia absoluta y relativa, Índices de diversidad, Índice de dominancia, Índice de riqueza específica, Análisis de similaridad e identificación de categorías de amenaza.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2022-2023: FAUNA: HERPETOFAUNA: Para la caracterización herpetológica se implementó la metodología de encuentros visuales durante el perdido de actividad de los anfibios y reptiles abarcado una jornada diurna y una nocturna teniendo en cuanta la actividad crepuscular de algunas especies de estos grupos. Para caracterizar los distintos usos del microhábitat para las especies, se aplicó la técnica de censos de Rand, la cual consiste en registrar los diferentes atributos de hábitat estructural y del microhábitat de cada herpeto registrado. Además, se grabaron algunos cantos para reconocimiento auditivos de algunos anuros. Finalmente se realizaron entrevistas a los trabajadores del proyecto y a los guías para que nos mostraran evidencias fotográficas de algunas especies de anfibios y reptiles que ellos habían avistado en la zona.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En cada cobertura vegetal se realizaron recorridos diurnos y nocturnos entre las 8:00 y 12:00 para cubrir el muestreo diurno y las 17: 00 y las 21:00 para la jornada nocturna. El esfuerzo de muestreo por cobertura fue de un promedio de 16 horas/hombre por cobertura vegetal, para un total de 128 horas/hombre para todo el monitoreo (dos observadores, y dieciséis transectos). Durante los recorridos realizados se hizo captura manual o con pinza herpetológica (para serpientes), registro fotográfico y georreferenciación de las especies. No obstante, no se realizó ninguna colecta de especímenes debido a que los monitoreos previos e información secundaria proporcionaron evidencia suficiente para confirmar la identidad taxonómica de las especies,</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2022-2023: FAUNA: AVIFAUNA: Con base en la historia natural de las aves, forman un grupo que puede usarse como indicador biológico de las condiciones del ecosistema. Su importancia radica en que este grupo brinda diversos servicios ecosistémicos al ser humano, entre los que se pueden destacar la dispersión de semillas, el control de plagas y la polinización</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la ejecución de los objetivos propuestos se implementaron dos metodologías con el fin de aumentar la efectividad del muestreo. Se efectuó el método de transecto y el censo de busqueda intensiva. La primera metodología consiste en registrar las aves detectadas a través de todo el recorrido, bien sea en línea recta (caminos) o en el sendero que se dispone la ruta; este trayecto se puede divide según el criterio del observador que básicamente se sujeta a la distancia a recorrer, dividiéndose entre 100 a 250 metros y el tiempo estimado de observación en cada parada puede ser de 10 a 15 minutos según lo requiera. La segunda metodología consiste en efectuar una serie de censos de 20 min cada uno, en las áreas distintas que el observador recorre por completo en busca de aves, a manera de barrido visual. De esta forma los cantos o llamados que no resulten familiares se proceden a realizar una grabación o ser buscada e identificada visualmente si es necesario. Este método permite la probabilidad de detección de aquellas especies inconspícuas o silenciosas. El periodo de observación debe ir desde las 05:00 a las 10:00 de la mañana, cuando las aves están más activas. Si la noche anterior fue particularmente fría, la hora del comienzo puede retrasarse. Durante los periodos de calor intenso, el censo deberá alargarse debido a la reducida actividad de las aves.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El horario efectuado fue de las 7:00 am hasta las 13:00 como máximo, debido a las condiciones mencionadas anteriormente. Se realizaron los registros visuales con los binoculares Bushnell 10x42mm, para los registros fotográficos se usó la cámara Nikon B700 y se usó la App BirdNet para el registro de los cantos y su posterior identificación. El muestreo por cobertura fue de 5 horas/hombre y en total se llevaron a cabo 45 horas/hombre (1 observador/9 áreas)</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2022-2023: FAUNA: MASTOFAUNA: Las técnicas utilizadas para la identificación de la mastofauna dentro de este estudio se agrupan en tres categorías diferentes correspondiente a una clasificación artificial de los mamíferos conforme a su talla y hábitos de vida, con el fin de garantizar que la recolección de información correspondiente a este grupo faunístico sea representativa en cada zona que se encuentra dentro del marco del proyecto. Se desarrolló estableciendo recorridos por transectos de ancho o longitud variable abarcando diferentes microhábitats y coberturas en el área de estudio como método de muestreo directo, y se usaron cámaras trampa, dispositivos electrónicos que incrementan el estudio de grandes mamíferos y la búsqueda intensiva de rastros (huellas, heces, pelos, madrigueras, entre otros) como método de muestreo indirecto.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos pequeños: Se utilizaron 10 trampas Sherman de 23 cm x 7cm x 7 cm durante dos y tres días por zona. Las trampas fueron cebadas con diferentes mezclas según el tipo de especie que se deseara atraer, uno de ellos dulce con avena en hojuelas, esencia de vainilla, frutas maduras y mantequilla de maní, y la otra a base de proteína animal con atún y/o sardina. Todas las trampas fueron recebadas diariamente. La revisión de éstas se hizo en horas de la mañana para verificar posibles capturas. Los individuos capturados fueron identificados, se tomaron datos morfológicos, por último, fueron fotografiados para su posterior identificación taxonómica con ayuda de claves y manuales de campo. El horario en que las trampas estuvieron activas fue entre las 18:00 horas y máximo las 07:00 horas del día siguiente.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para el muestreo de este grupo se realizaron registros por transectos de longitud variable observacional en cada una de las coberturas vegetales, haciendo especial énfasis en la inspección de senderos, madrigueras, troncos caídos, matorrales, entre otros criterios que nos permitieran incrementar las posibilidades de avistamiento de las especies. Por su parte, para realizar el registro fotográfico de los especímenes observados, se utilizó una cámara digital Nikon D3400 y para la identificación a nivel de especie se utilizaron claves y guías taxonómicas. Todos los avistamientos fueron georreferenciados con GPS. Adicionalmente, se realizó búsquedas directas durante el día de rastros como huellas, heces, pelos, nidos, entre otros que permitieran evidenciar la presencia de animales de este grupo; los cuales fueron debidamente registrados para su posterior identificación; esto se llevó a cabo en horarios de las 8:00 a las 11:00 horas y las 17:00 a 22:00 horas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos medianos y grandes: Se utilizó el sistema de fototrampeo, instalando 12 cámaras trampa con sensores de movimiento ver Fotografía 3 en Tabla 8, se ubicaron en sitios estratégicos donde se pudiera evidenciar el tránsito de los especímenes silvestres como senderos, comederos, letrinas, rascaderos, entre otros; presentes dentro del polígono abarcando las zonas en el área de estudio. Éstas se mantuvieron activas por periodos entre cuatro y ocho días las 24 horas teniendo en el potencial observado en los diferentes predios, con el propósito de incrementar significativamente la probabilidad de registro de estos mamíferos. Cada cámara fue instalada en dirección Norte-Sur evitando que la exposición del sol interfiera con el monitoreo, y fijadas a troncos de árboles rectos con el lente a una altura entre 30 - 50 cm del suelo según las condiciones del entorno, y se aseguró que esta fuera ubicada entre dos y tres metros de distancia del punto en el que se prevé que pase el animal. Por último, se realizó una prueba de gateo para asegurarnos de la correcta ubicación de las Cámaras Trampa.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Adicionalmente, se realizaron registros por transectos de longitud variable observacional a nivel del sotobosque y dosel, teniendo en cuenta senderos, entre otros criterios que nos permitieran incrementar las posibilidades de avistamiento del individuo, principalmente especies arborícolas, ya que por su hábito son difícilmente registradas en las Cámaras Trampa.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>De igual manera, se utilizó una cámara digital Nikon D3400 para obtener el registro fotográfico de los especímenes observados y posterior a eso realizar la identificación hasta especie preferiblemente del individuo con claves y guías taxonómicas, los avistamientos fueron georreferenciados con GPS. También se hizo observación de rastros dejados por los animales como huellas, heces, pelos, nidos, marcas en los árboles, rascaderos, entre otros, las cuales fueron georreferenciadas con GPS, esto se llevó a cabo en horarios de las 8:00 a las 11:00 horas y las 17:00 a 22:00 horas,</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos voladores: Para este grupo de mamíferos se utilizaron redes de niebla de 9 m de largo por 2,5 m de ancho y ojo de malla de 16 x 16 mm. Fueron ubicadas teniendo en cuenta sitios de paso como fuentes de agua, sitios de entrada o salida a espacios abiertos y bosques, entre otros, para incrementar el éxito de captura de las diferentes especies. El muestreo se realizó a nivel de sotobosque ubicando dos redes de niebla entre uno y seis metros de altura, por dos o tres noches de muestreo para cada zona en los diferentes sectores de la mina calenturita. El horario de muestreo fue desde las 17:00 horas y las 22:00 horas, con periodos de revisión de 15 a 30 minutos dependiendo de la actividad de los murciélagos. Los individuos capturados fueron almacenados en bolsas de tela para su posterior identificación mediante el uso de claves, se tomaron los datos de las medidas morfológicas, se hizo un registro fotográfico por individuo, y finalmente todos los especímenes fueron liberados en el área de captura.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2022-2023: FAUNA: ENTOMOFAUNA: Para la caracterización de los órdenes de insectos antes mencionados en las áreas Biosensoras y en proceso de rehabilitación, se establecieron transectos lineales de 500m para cada área, donde se aplicaron diferentes técnicas de captura, una que consistió en dos tipos de Trampas tipo Pitfall (activas y pasivas) separadas entre sí por una distancia de 50 m aproximadamente, 3 activas (cebadas) con 20gr de atrayente (excremento) enterradas a ras de suelo para la captura de escarabajos coprófagos y hormigas. 2 trampas de caída pasivas sin cebo por transecto, dentro de las cuales se vertió una solución de agua, jabón líquido y alcohol etanol al 70%, estas trampas permanecieron activas por un periodo de 24 horas en cada área. Adicionalmente, se realizó la técnica de captura manual, la cual consistió en la revisión cuidadosa de troncos en descomposición, hojarasca, rocas, frutos caídos, corteza de árboles y arbustos, partes de flores y hojas con el fin de capturar hormigas que no caigan con gran facilidad en las Trampas tipo Pitfall.Para el caso de la captura de mariposas se utilizaron cinco trampas tipo Van Someren Rydon por cada área cebadas con una mezcla de frutas y melaza en descomposición, además se utilizaron redes entomológicas de mariposas dentro de los 500m de transecto.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2022-2023: FLORA: El muestreo se realizó los días 10 al 21 de noviembre de 2022, implementando la metodología descrita en los procedimientos internos de SERAMBIENTE S.A.S., PO-PSM-01 Planeación y ejecución del servicio, PO-PSM-85 Procedimiento para Monitoreo Flora. Para la evaluación de vegetación arbórea de categoría fustal, se realizó un muestreo tipo RAP, para el rápido acceso al estado actual de la diversidad florística del ecosistema.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las parcelas establecidas (100m x 10m) equivalente a 0,1 ha, en las cuales se dispusieron 10 subparcelas de 10m x 10m, 3 subparcelas de 5m x5m dentro de los de 10 y 3 de 2m x 2m dentro de los de 5m como se evidencia en la Figura 1. En estas se agrupo las plantas en grupos de brinzales, latizal y fustales. Además, se toman medidas de CAP (Circunferencia a la altura del pecho).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Por último, para el estudio de herbáceas se incluyó un levantamiento de 5m x 5m (25m2) mediante el uso de un cuadrante de PVC de 1m2, en los cuales se registraron el número de macollas o individuos y la frecuencia de las especies, definida por presencia o ausencia en el subcuadrante y se estimó la cobertura en m2 de cada macolla. Este tipo de coberturas herbáceas fueron estimadas en porcentaje (%) Marín, C. (2013).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los atributos de campo que se evaluaron en la vegetación fueron: número de identificación de cada individuo, nombre común, circunferencia a la altura del pecho (CAP), altura total (HT), Altura comercial (HC), ancho de copa (X, Y) y cobertura de tierra de la parcela según aplicara. La altura de cada planta se registró con ayuda un decámetro y visualmente para plantas de mayor altura. Para estimar la cobertura de copa, se registró el radio mayor y el menor de la copa de cada planta, mediante estimación visual o con la ayuda de una cinta métrica. Para la definición de las parcelas y los transectos se utilizó cinta de seguridad amarilla y decámetro. Para la medición de los parámetros se utilizaron cinta métrica y decámetro. Para el marcaje por individuo se utilizó aerosol y un GPS Garmin para el registro de la ubicación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2024: FAUNA: HERPETOFAUNA: Para la realización de los muestreos de anfibios y reptiles en el área del proyecto se empleó la metodología de relevamiento por encuentros visuales (REV), la cual consiste en la búsqueda y observación directa de especies de herpetofauna en los diferentes microhábitats que potencialmente utilizan estos grupos faunísticos, tales como hojas, troncos, árboles, arbustos, orillas de cuerpos de agua, charcas temporales, hojarasca, troncos caídos o bajo piedras. En el caso particular de los anuros (ranas y sapos) también se aplicó una búsqueda basada en el componente auditivo, de modo que se buscó la fuente de los cantos, lo que eventualmente permitió optimizar la captura de individuos o identificar algunas especies a partir de su vocalización, realizando grabaciones posteriormente cotejadas con los cantos de especies disponibles en la Fonoteca Zoológica</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El muestreo fue realizado por un profesional herpetólogo y un poblador local, efectuando los recorridos en jornadas diurnas y nocturnas, con el fin de detectar animales con diferentes periodos de actividad. Cuando fue necesaria la captura de ejemplares para su identificación, los anfibios y lagartos se capturaron de forma manual y las serpientes venenosas y no venenosas se capturaron con la ayuda de una pinza o gancho herpetológico. Una vez identificados los especímenes fueron liberados en el sitio de captura.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En el momento de observación o captura de un individuo, se registraron datos como fecha, identificación hasta el menor grado taxonómico, microhábitat, municipio, vereda, localidad, actividad del animal y se tomaron fotografías.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2024: FAUNA: AVIFAUNA: La caracterización de avifauna se realizó por medio de las técnicas de detección visual y auditiva, con el objetivo de registrar la mayor cantidad de especies posibles. Estas metodologías han sido estandarizadas y previamente utilizadas en inventarios y monitoreos de aves, permitiendo la detección de especies, además de obtener datos para realizar análisis de abundancia y la interpretación de las densidades y tendencias de las poblaciones de aves en zonas muestreadas, lo que proporciona un medio rápido, confiable y replicable para la evaluación del estado de conservación de la mayoría de los hábitats terrestres y acuáticos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Detección visual y auditiva: Para llevar a cabo la detección visual y auditiva, se realizaron transectos de ancho variable en cada uno de los sitios a muestrear. Durante los recorridos, a cada una de las especies se les asignó datos de: fecha, localidad, coordenadas geográficas, (lo más específico posible), determinación taxonómica, tipo de registro, número de individuos, cobertura vegetal en la cual se encontraba, forma de detección del individuo (visual, auditiva o ambas), entre otras. Las observaciones fueron realizadas por medio de binoculares, con poder de magnificación de 10 mm X 42 mmy se realizaron grabaciones usando la App BirdNet para el registro de los cantos. Usando los registros auditivos, identificándolos en campo o posteriormente con el uso de bibliotecas de sonidos como http://www.xeno-canto.org/ o guías de cantos, fue posible maximizar la detección de especies en las áreas muestreadas. Adicionalmente, cuando las condiciones fueron óptimas, se realizó un registro fotográfico de los ejemplares , Los muestreos se llevaron a cabo entre las 07:00 y las 15:00 horas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2024: FAUNA: MASTOFAUNA: •	Mamíferos voladores: Para la captura de mamíferos voladores se instalaron 3 redes de niebla de 12 m de largo x 2.6 m de ancho, por cada sitio de muestreo. Las redes se abrieron desde las 17:30 hasta las 22:00 horas aproximadamente. Todas las redes se instalaron a nivel de suelo, en posibles sitios de paso o refugio, cerca de plantas asociadas con la dieta de los murciélagos, senderos, atravesando quebradas, en el interior o en el borde de las coberturas más boscosas y en zonas abiertas. Las redes se revisaron en lapsos de 15 a 30 minutos, según la actividad de los murciélagos. Los especímenes capturados fueron depositados temporalmente en bolsas de tela y llevados hasta una estación de procesamiento donde cada individuo fue procesado el cual permitió la identificación de las especies con claves especializadas. Por último, se tomaron fotografías para cada especie para luego proseguir con su liberación cerca al área de captura.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos no voladores: Para la captura de pequeños mamíferos no voladores, se emplearon 20 trampas Sherman de diferentes de tamaño, pequeñas de (7,6 x 8,9 x 22, 5 cm), trampas Sherman grandes de (10.2 x 11.4 x 38 cm), instaladas en diferentes puntos dentro de las unidades de coberturas en sitios estratégicos buscando la mayor probabilidad de captura de especies de mamíferos pequeños no voladores que pueden ser principalmente de los órdenes Rodentia (ratones) y Didelphimorphia (zarigüeyas), aunque ocasionalmente pueden ser capturas musarañas y ratones runchos. Las trampas fueron marcadas con cinta reflectiva para evitar extravíos y cebadas con una mezcla de avena, en hojuelas, mantequilla de maní y esencia de vainilla.).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las trampas se dejaron activas en los diferentes sitios de estudio, por un periodo de un día y una noche por punto; las trampas fueron cebadas al momento de ser instaladas luego al cambio de lugar se volvió a cebar con un nuevo cebo para optimizar el éxito de captura. Para la revisión y toma de datos se revisaron al inicio de la jornada (07:00-10:00 horas). En caso de tener capturas, se manipulaba el individuo con ayuda de guantes de carnaza y bolsas de tela para posibilitar la toma de fotografías, identificación y liberación posterior.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos Medianos y Grandes: Para el monitoreo de los mamíferos medianos y grandes se realizaron recorridos libres dentro del área de estudio. Durante estos recorridos se buscaron encuentros directos con especies o indicios indirectos como huellas, restos óseos, madrigueras, excretas, caminadores, rastros, entre otros. Los recorridos se realizaron en horas de la mañana desde las 07:00 hasta las 11:00 horas aproximadamente y en horas de la noche durante las labores de muestreo de mamíferos voladores cuando la actividad de estos lo permitió. Adicional a los métodos anteriores, se utilizaron cámaras trampa (ver Fotografía 2 5) para la detección de mamíferos de tamaño mediano y grande que pueden ser identificados por este método, ya que son un método no invasivo y que permite registrar animales que son de difícil detección o cuyas abundancias son bajas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las cámaras trampas, fueron ubicadas en lugares en donde se evidencio la actividad de paso de mamíferos (cuerpos de agua, zonas con disponibilidad de alimento, refugios, entre otros). Estas se activaron en cada por sitio de muestreo, y al final de la fase de campo se revisó los videos para constatar posibles registros de mamíferos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2024: FAUNA: ENTOMOFAUNA: Escarabajos coprófagos: Para el muestreo de escarabajos coprófagos se emplearon trampas de caída con atrayente (pitfall traps). Estas trampas consisten en un recipiente de abertura circular que se entierra a ras del suelo. Su principio de funcionamiento se basa en capturar a los insectos que transitan sobre ellas y caen en su interior, mientras que el atrayente añadido acelera la llegada de los especímenes. Se utilizaron vasos desechables o plásticos con una capacidad de 500 ml y un diámetro de 10 cm. Los recipientes fueron enterrados hasta que su borde superior quedó al nivel del suelo y se llenaron hasta la mitad de su capacidad con etanol al 70% para preservar los especímenes. Posteriormente, se colocó el atrayente, siendo el excremento humano el más efectivo para la captura de escarabajos coprófagos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En cada sitio de muestreo por localidad (áreas en proceso de rehabilitación y biosensoras / áreas naturales), se estableció un transecto lineal de 500 metros, en el cual se instalaron trampas de caída con atrayente, separadas a intervalos de 50 metros. Las trampas permanecieron activas durante un periodo de 36 horas. Esta técnica se considera una de las más eficaces para obtener muestras representativas de la riqueza de especies de escarabajos coprófagos, así como para estimar la abundancia relativa de cada especie.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El diseño del muestreo, junto con la selección adecuada del atrayente y el tiempo de exposición, contribuyó significativamente a la representatividad y calidad de los datos obtenidos. Transcurrido el tiempo de muestreo, se recolectaron los especímenes vaciando el contenido de cada trampa en bolsas herméticas tipo Ziploc, las cuales fueron almacenadas temporalmente hasta su posterior limpieza y separación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cada muestra fue transferida a viales plásticos de distintas capacidades y rotulada de manera individual, incluyendo toda la información necesaria para las etiquetas de los ejemplares, garantizando un registro completo y adecuado para su análisis posterior.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Hormigas: Trampas de caída: Para la captura de hormigas, se utilizaron trampas de caída, las cuales consisten en un recipiente de abertura circular que se entierra al nivel del suelo. Estas trampas funcionan atrapando a los insectos que transitan sobre ellas y caen en su interior. En este caso, se emplearon vasos desechables o plásticos con una capacidad de 250 ml y un diámetro de 10 cm. Los recipientes fueron enterrados cuidadosamente de manera que el borde superior quedara a ras del suelo, asegurando una instalación uniforme. Posteriormente, se llenaron hasta la mitad de su capacidad con etanol al 70% para preservar los especímenes capturados. Este método es ampliamente utilizado debido a su eficacia en la recolección de hormigas que se desplazan sobre el sustrato, permitiendo obtener muestras representativas de la comunidad local.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cebo: El muestreo con cebos se realizó colocando aproximadamente 100 gramos de atún en el centro de una hoja de papel, dispuesto en un punto específico del transecto. Cada cebo permaneció activo durante un mínimo de tres horas. Transcurrido este tiempo, las hormigas atraídas al cebo fueron recolectadas utilizando pinzas entomológicas y transferidas a viales plásticos con alcohol, asegurando su preservación para la identificación y análisis posterior. Este método es eficiente para atraer y capturar especies de hormigas con hábitos carroñeros o generalistas, permitiendo evaluar la composición y diversidad de la comunidad en el área de estudio.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Trampa Winkler: El muestreo con trampas Winkler se llevó a cabo en un punto del transecto mediante la recolección de aproximadamente 1 m² de hojarasca y detritos del suelo. El material recolectado fue procesado utilizando un cernidor Winkler para separar las partículas finas y retener a los invertebrados. Posteriormente, el material filtrado fue colocado en un saco Winkler, donde permaneció durante un periodo de 24 horas, permitiendo que los especímenes se desprendieran de la hojarasca y fueran recolectados en el recipiente de captura. Este método es especialmente eficiente para capturar hormigas asociadas al sustrato del suelo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Captura Manual: La captura manual se realizó en un punto específico del transecto, utilizando pinzas entomológicas para recolectar directamente las hormigas observadas en el sustrato, vegetación o estructuras cercanas. Los especímenes capturados fueron depositados en viales plásticos con alcohol para su preservación. Este método permitió obtener individuos pertenecientes a diferentes microhábitats, complementando las muestras obtenidas con otras técnicas</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mariposas: Captura mediante trampas con cebos y jama: Se emplearon trampas Van Someren-Rydon (VSR), cebadas con una mezcla de banano fermentado y miel de caña (panela) (la cantidad de cebo colocada fue equivalente a 250 ml por trampa), complementadas con la captura manual mediante jama o red entomológica. Las trampas VSR, consisten en un tubo cilíndrico cubierto por un velo blanco, con un plato ancho en la base donde se coloca el atrayente, generalmente fruta en fermentación. La jama o red entomológica, por su parte, es un instrumento esencial para la captura de insectos voladores, compuesto por un aro metálico con una malla cónica adherida y un tubo metálico que sirve como soporte. En cada localidad de muestreo, las trampas Van Someren-Rydon (VSR) cebadas fueron instaladas sujetándolas a árboles con alturas entre 1 y 3 metros.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2024: FLORA: El muestreo se llevó a cabo siguiendo los lineamientos establecidos por la organización según la ficha PMA-CAL-B-01 Suelos. Plan de manejo para rehabilitación de suelos y adecuación de tierras intervenidas por la actividad minera y la ficha PSM–CAL–B–01. Programa de seguimiento y monitoreo de flora: determinación de la evolución de revegetalización y reforestación. De igual forma, se siguieron las metodologías implementadas en monitoreos anteriores, los cuales consistían en determinar la flora (vegetación terrestre) en 23 parcelas ubicadas en áreas biosensoras (15) y en áreas en proceso de rehabilitación (8) de la mina Calenturitas, operada por C.I. PRODECO S.A., en el municipio de La Jagua de Ibirico, departamento del Cesar.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la evaluación de vegetación arbórea de categoría fustal, se realizó un muestreo tipo RAP, para el rápido acceso al estado actual de la diversidad florística del ecosistema, cada uno de 100 m x 10 m. Cada RAP fue dividido en 10 parcelas de 10m x 10m, en la cual a su vez se colocaron tres (3) subparcelas de 5m x 5m y tres (3) de 2m x 2m.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Adicionalmente, para el estudio de herbáceas se incluyó un levantamiento de parcelas de 5m x 5m (25m2), en los cuales se registraron el número de macollas o individuos y la frecuencia de las especies, definida por presencia o ausencia en el subcuadrante y se estimó la cobertura en m2 de cada macolla. Este tipo de coberturas herbáceas fueron estimadas en porcentaje (%).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los atributos de campo que se recolectaron fueron: número de identificación de cada individuo, nombre común, circunferencia a la altura del pecho (CAP), altura total (HT), Altura comercial (HC), ancho de copa (X, Y) y cobertura de tierra de la parcela según aplicara.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El proyecto Mina Calenturitas se encuentra localizado en jurisdicción de los municipios El Paso, La Jagua de Ibirico y Becerril en el departamento del Cesar. Cuenta con un área de 6.677 ha, las cuales no sólo contemplan las zonas de explotación, sino también las llamadas Áreas biosensoras y Áreas en proceso de rehabilitación. Las primeras se caracterizan por presentar coberturas vegetales naturales en diferentes estadios de sucesión. En mina Calenturitas están compuestas por los sectores de Caimancito, Loma de Los Perros, Campamento, Maracas – Tucuy y Bajo inundable. Por su parte, las Áreas en proceso de rehabilitación están constituidas por zonas dedicadas a la acumulación de material rocoso, edáfico y estéril. Luego de un tiempo son sometidas a procesos de rehabilitación de la capa vegetal. 
+En Mina Calenturitas, las Áreas en proceso de rehabilitación están constituidas por los botaderos Norte, Sur, Oriental y Occidental. Estos nueve sectores (Caimancito, Loma de Los Perros, Campamento, Maracas – Tucuy, Bajo inundable, Botadero Norte, Botadero Sur, Botadero Oriental, Botadero Occidental) constituyeron las estaciones de estudio durante los monitoreos de las temporadas de lluvia y sequía.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los muestreos se realizaron según los requerimientos de la organización, los cuales fueron realizar la determinación de Flora (Vegetación terrestre) y Fauna silvestre en áreas biosensoras y en proceso de rehabilitación, ubicadas en C.I. PRODECO S.A., específicamente en la Mina Calenturitas, en el departamento de César para su caracterización biótica con el fin de dar cumplimiento a las exigencias establecidas por la autoridad ambiental.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="GrupoProdeco_Calenturitas">
+                <title>MONITOREO DE BIODIVERSIDAD EN ÁREAS BIOSENSORAS Y EN PROCESO DE REHABILITACIÓN EN MINA CALENTURITAS</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Sergio</givenName>
+                    <surName>Vargas Troncoso</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Durante los años 2015 y 2024, se realizó los Monitoreos de Flora y Fauna silvestres presentes en las áreas biosensoras de la Mina Calenturitas. Tales monitoreos hace parte de los procedimientos contemplados en el Plan de Manejo Ambiental (PMA) de este proyecto minero, el cual se suma a las diversas acciones y compromisos definidos en la política de sostenibilidad de la Compañía GRUPO PRODECO S.A. Los monitoreos, particularmente de largo plazo, en las áreas biosensoras de proyectos mineros son de importante consideración, para la predicción de la supervivencia de las especies y ecosistemas en el espacio y tiempo (Likens &amp; Lindenmayer 2018). Las áreas biosensoras son unidades funcionales para el seguimiento, medición e interpretación de los cambios de la biodiversidad a nivel espacial y temporal, las cuáles son monitoreadas en las diferentes temporadas climáticas (Lluvias - Sequía). Estás áreas presentan coberturas naturales que sustentan gran parte de la biodiversidad al interior de la concesión minera.</para>
+                </abstract>
+                <funding>
+                    <para>Grupo Peodeco</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El proyecto Mina Calenturitas se encuentra localizado en jurisdicción de los municipios El Paso, La Jagua de Ibirico y Becerril en el departamento del Cesar. Cuenta con un área de 6.677 ha, las cuales no sólo contemplan las zonas de explotación, sino también las llamadas Áreas biosensoras y Áreas en proceso de rehabilitación.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Se realizó trabajo de campo y registro de datos de los grupos biológicos estudiados durante los monitoreos espacio-temporales en la Mina Calenturitas.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:31Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/bztp0t">Fundación Hidrobiológica George Dahl, Servicios de Ingeniería y Ambiente S.A.S. - Serambiente, Servicios Ambientales y Geográficos S.A. - SAG, Corporación Autónoma Regional del Cesar - CORPOCESAR, Inerco Consultoría Colombia Ltda., Grupo Prodeco (2025). Caracterización de fauna y flora en áreas biosensoras y de rehabilitación de la Mina Calenturitas, 2013-2025. Version 1.2. Grupo Prodeco. Occurrence dataset https://doi.org/10.15472/bztp0t accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Aguirre-Ceballos J. (ed.). 2011. Guía de campo de los mamíferos, anfibios y reptiles de Santa María (Boyacá, Colombia). Serie de guías de campo del Instituto de Ciencias Naturales No. 7. Instituto de Ciencias Naturales, de la Universidad Nacional de Colombia. Bogotá. D.C.</citation>
+                <citation>Angiosperm Phylogeny Group (APG IV)</citation>
+                <citation>Esbérard, C.E. y H.G. Bergallo.2008. Riqueza de murciélagos usando diferentes metodologías de muestreo en el sureste de Brasil. Rev. Bras. Zool. (En línea). Vol. 25:67-73</citation>
+                <citation>Freitas, A. &amp; R. Ramos. 2001. Population biology of Parides Anchises nephalion (Papilionidae) in a coastal site in southeast Brazil. Braz J Biol. 61(4): 623-630.</citation>
+                <citation>Kunz, T.H., A. Kurta 1998. Capture methods and holding devices. Pp. 1-29 in: T.H. Kunz (eds.), Ecological and Behavioral Methods for the Study of Bats. Smithsonian Institute Press, Baltimore, Maryland</citation>
+                <citation>Lira-Torres, I. &amp; Briones-Salas, M. 2012. Abundancia relativa y patrones de actividad de los mamíferos de los Chimalapas, Oaxaca, México. Acta Zoológica Mexicana (n. s.), 28(3): 566-585.</citation>
+                <citation>Manual de Métodos Básicos de muestreo y análisis en Ecología Vegetal. BOLFOR. Editora El País, Santa Cruz, Bolivia (2000)</citation>
+                <citation>MAVDT. 2010. Metodología general para la presentación de estudios ambientales / Zapata, D., Londoño, C. et ál. (Eds.) González, C. V.; Idárraga, J.; Poveda, A.; et ál. (Textos). Bogotá, D.C.: Colombia. Ministerio de Ambiente, Vivienda y Desarrollo Territorial. 72 pg.</citation>
+                <citation>Medina, C. A., &amp; González, F. A. (2014). Escarabajos coprófagos de la subfamilia Scarabaeinae. In C. Pizano &amp; H. García (Eds.), El bosque seco tropical en Colombia (pp. 194–213).</citation>
+                <citation>Muestreo, Determinación Taxonómica y Colecta de Especímenes. Manual de métodos para el desarrollo de inventarios de biodiversidad. Programa de Inventarios de Biodiversidad. Instituto de investigación de Recursos Biológicos Alexander Von Humboldt. Segunda edición. Bogotá, Colombia. 2004</citation>
+                <citation identifier="http://doi.org/10.3145/epi.2006.jan.15">Ralph, C. J., Geupel, G. R., Pyle, P., Martin, T. E., Desante, D. F., Milá, B., … David, F. (1996). Manual de métodos de campo para el monitoreo de aves terrestres Agradecimientos. Director, 46</citation>
+                <citation>Scott, N. J., Crump, M. L., Zimmerman, B. L., Jaeger, R. G., Inger, R. F., Corn, P. S., &amp; Altig, R. (1994). Standard techniques for inventory and monitoring. Measuring and monitoring biological diversity. Standard methods for amphibians/Heyer, W. Ronald.</citation>
+                <citation>Simmons NB &amp; RS Voss 1998. The mammals of Paracou, French Guiana: A Neotropical lowland rainforest fauna. Part1. Bats. Bulletin of the American Museum of Natural History. Number 237. 219pp</citation>
+                <citation>Tirira D. 2007.Guía de campo de los mamíferos del Ecuador. Ediciones Murciélago Blanco. Publicación Especial sobre los mamíferos del Ecuador. Quito, Ecuador.576p.</citation>
+                <citation>Villarreal, H., Álvarez, M., Córdoba, S., Escobar, F., Fagua, G. y Gast, F. (2004). Manual de métodos para el desarrollo de inventarios de biodiversidad. Programa de inventarios de biodiversidad. Bogotá: Instituto Alexander von Humboldt.</citation>
+                <citation>Voss R.S., L.H. Emmons. 1996. Mammalian diversity in Neotropical lowland rainforest: A preliminary assessment. Boulletin of the American Museum of Natural History (230): 13-35p.</citation>
+                <citation>Voss, R.S., D.P. Lunde, N.B. Simons. 2001. The Mammals of Paracou, French Guiana: a Neotropical lowland rainforest fauna. Part.2, Nonvolant species. Boulletin of the American Museum of Natural History (263): 236p.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-prodeco.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

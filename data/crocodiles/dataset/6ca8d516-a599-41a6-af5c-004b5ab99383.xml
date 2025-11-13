@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="6ca8d516-a599-41a6-af5c-004b5ab99383"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/9tmrkh</alternateIdentifier>
+        <alternateIdentifier>6ca8d516-a599-41a6-af5c-004b5ab99383</alternateIdentifier>
+        <alternateIdentifier>https://cloud.gbif.org/asia/resource?r=bnhs_herpetofauna</alternateIdentifier>
+        <title>Amphibian and reptile specimens at the Bombay Natural History Society museum</title>
+        <creator>
+            <individualName>
+                <givenName>Saunak</givenName>
+                <surName>Pal</surName>
+            </individualName>
+            <organizationName>BNHS</organizationName>
+            <positionName>Scientist C</positionName>
+            <address>
+                <deliveryPoint>Shahid Bhagat Singh Rd</deliveryPoint>
+                <city>Mumbai</city>
+                <administrativeArea>Maharashtra</administrativeArea>
+                <postalCode>400001</postalCode>
+                <country>INDIA</country>
+            </address>
+            <electronicMailAddress>s.pal@bnhs.org</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-8267-4708</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Prathamesh</givenName>
+                <surName>Joshi</surName>
+            </individualName>
+            <organizationName>BNHS</organizationName>
+            <positionName>Research Fellow</positionName>
+            <address>
+                <deliveryPoint>Shahid Bhagat Singh Rd</deliveryPoint>
+                <city>Mumbai</city>
+                <administrativeArea>Maharashtra</administrativeArea>
+                <country>INDIA</country>
+            </address>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Saunak</givenName>
+                <surName>Pal</surName>
+            </individualName>
+            <organizationName>BNHS</organizationName>
+            <positionName>Scientist C</positionName>
+            <address>
+                <deliveryPoint>Shahid Bhagat Singh Rd</deliveryPoint>
+                <city>Mumbai</city>
+                <administrativeArea>Maharashtra</administrativeArea>
+                <postalCode>400001</postalCode>
+                <country>INDIA</country>
+            </address>
+            <electronicMailAddress>s.pal@bnhs.org</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-8267-4708</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Prathamesh</givenName>
+                <surName>Joshi</surName>
+            </individualName>
+            <organizationName>BNHS</organizationName>
+            <positionName>Research Fellow</positionName>
+            <address>
+                <deliveryPoint>Shahid Bhagat Singh Rd</deliveryPoint>
+                <city>Mumbai</city>
+                <administrativeArea>Maharashtra</administrativeArea>
+                <country>INDIA</country>
+            </address>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Saunak</givenName>
+                <surName>Pal</surName>
+            </individualName>
+            <organizationName>BNHS</organizationName>
+            <positionName>Scientist C</positionName>
+            <address>
+                <deliveryPoint>Shahid Bhagat Singh Rd</deliveryPoint>
+                <city>Mumbai</city>
+                <administrativeArea>Maharashtra</administrativeArea>
+                <postalCode>400001</postalCode>
+                <country>INDIA</country>
+            </address>
+            <electronicMailAddress>s.pal@bnhs.org</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-8267-4708</userId>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Prathamesh</givenName>
+                <surName>Joshi</surName>
+            </individualName>
+            <organizationName>BNHS</organizationName>
+            <positionName>JRF</positionName>
+            <address>
+                <deliveryPoint>Shahid Bhagat Singh Rd</deliveryPoint>
+                <city>Mumbai</city>
+                <administrativeArea>Maharashtra</administrativeArea>
+                <postalCode>400001</postalCode>
+                <country>INDIA</country>
+            </address>
+            <electronicMailAddress>p.joshi@bnhs.org</electronicMailAddress>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-04-04
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The BNHS museum houses a vast collection of specimens collected from across the Indian subcontinent over the past hundred years. The dataset provides the occurrence of amphibians and reptiles based on preserved specimens collected across 23 countries viz. India, Sri Lanka, Afghanistan, Pakistan, Thailand, Myanmar, Indonesia, Bangladesh, China, Nepal, Bhutan, Kuwait, Malaysia, Yemen, Turkey, Syria, South Africa, Singapore, Saudi Arabia, Japan, Oman, Iraq, and Iran. The museum collection holds a total of 9766 amphibian and reptile specimens collected between 1880 to 2019. A total of 9486 occurrence records in the dataset are supported with detailed verbatim localities of which 2310 localities are supported with geo coordinates.
+Of the 9766 records, 4282 are of amphibian specimens collected from Bhutan, India, Iraq, Japan, Myanmar, Nepal, Pakistan, Sri Lanka, and Thailand. Of the total amphibian specimens, 3880 belong to anurans (frogs and toads), 390 are caecilians, and 120 are salamanders. 5484 specimens belong to reptiles collected from all the 23 countries listed above. Of these, 1728 are lizards, 3606 snakes, 143 turtles and tortoises, and 7 crocodiles.
+The collection includes a number of species that are listed under the threatened category or data deficient while some are only known based on a few museum specimens. An updated occurrence record including verbatim and georeferenced locations and date of collection will help researchers in understanding the historical and current distribution of these species.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Amphibian</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Reptile</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://cloud.gbif.org/asia/archive.do?r=bnhs_herpetofauna</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The occurrence dataset is based on specimens collected from India, Sri Lanka, Afghanistan, Pakistan, Thailand, Myanmar, Indonesia, Bangladesh, China, Nepal, Bhutan, Kuwait, Malaysia, Yemen, Turkey, Syria, South Africa, Singapore, Saudi Arabia, Japan, Oman, Iraq, and Iran.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1880-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Saunak</givenName>
+                <surName>Pal</surName>
+            </individualName>
+            <organizationName>BNHS</organizationName>
+            <positionName>Scientist C</positionName>
+            <address>
+                <deliveryPoint>Shahid Bhagat Singh Rd</deliveryPoint>
+                <city>Mumbai</city>
+                <administrativeArea>Maharashtra</administrativeArea>
+                <postalCode>400001</postalCode>
+                <country>INDIA</country>
+            </address>
+            <electronicMailAddress>s.pal@bnhs.org</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-8267-4708</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Rahul</givenName>
+                <surName>Khot</surName>
+            </individualName>
+            <organizationName>BNHS</organizationName>
+            <positionName>Deputy Director</positionName>
+            <address>
+                <deliveryPoint>Shahid Bhagat Singh Rd</deliveryPoint>
+                <city>Mumbai</city>
+                <administrativeArea>Maharashtra</administrativeArea>
+                <postalCode>400001</postalCode>
+                <country>INDIA</country>
+            </address>
+            <electronicMailAddress>r.khot@bnhs.org</electronicMailAddress>
+        </contact>
+
+            <project id="BIFA4_052">
+                <title>Digitizing reptile and amphibian specimens at the Bombay Natural History Society</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Saunak</givenName>
+                    <surName>Pal</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0002-8267-4708</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Rahul</givenName>
+                    <surName>Khot</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>BIFA</para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:16Z</dateStamp>
+                <citation>Pal S, Joshi P (2023). Amphibian and reptile specimens at the Bombay Natural History Society museum. Version 1.1. Bombay Natural History Society. Occurrence dataset https://doi.org/10.15468/9tmrkh accessed via GBIF.org on 2025-10-11.</citation>
+                <collection>
+                    
+                    
+                    <collectionName>BNHS</collectionName>
+                </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

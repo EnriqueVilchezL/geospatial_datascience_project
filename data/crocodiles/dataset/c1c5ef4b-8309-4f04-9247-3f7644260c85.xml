@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="c1c5ef4b-8309-4f04-9247-3f7644260c85"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/kjbp3w</alternateIdentifier>
+        <alternateIdentifier>c1c5ef4b-8309-4f04-9247-3f7644260c85</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biota.org.br/resource?r=sinbiota_occ</alternateIdentifier>
+        <title>Occurrences in SinBiota</title>
+        <creator>
+            <individualName>
+                <givenName>José Augusto</givenName>
+                <surName>Salim</surName>
+            </individualName>
+            <organizationName>Unicamp</organizationName>
+            <positionName>Administrator</positionName>
+            <address>
+                <city>Campinas</city>
+                <administrativeArea>SP</administrativeArea>
+                <country>BRAZIL</country>
+            </address>
+            <electronicMailAddress>jasalim@unicamp.br</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-8675-7068</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>José Augusto</givenName>
+                <surName>Salim</surName>
+            </individualName>
+            <organizationName>Unicamp</organizationName>
+            <positionName>Administrator</positionName>
+            <address>
+                <city>Campinas</city>
+                <administrativeArea>SP</administrativeArea>
+                <country>BRAZIL</country>
+            </address>
+            <electronicMailAddress>jasalim@unicamp.br</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-8675-7068</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>José Augusto</givenName>
+                <surName>Salim</surName>
+            </individualName>
+            <organizationName>Unicamp</organizationName>
+            <positionName>Administrator</positionName>
+            <address>
+                <city>Campinas</city>
+                <administrativeArea>SP</administrativeArea>
+                <country>BRAZIL</country>
+            </address>
+            <electronicMailAddress>jasalim@unicamp.br</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-8675-7068</userId>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2022-12-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Occurrences in the Environmental Information System of Biota/Fapesp Program - SinBiota
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://sinbiota.biota.org.br</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biota.org.br/archive.do?r=sinbiota_occ</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>São Paulo state</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-92.529</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>73.987</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1900-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-10-21
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Magnoliophyta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ericales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Arthropoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pyralidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Araneae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sapotaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Nymphalidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pyraloidea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Acrididae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lepidoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Papilionoidea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Desidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Arthropoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Acridoidea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Euphorbiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Orthoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arachnida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>weekly</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>José Augusto</givenName>
+                <surName>Salim</surName>
+            </individualName>
+            <organizationName>Unicamp</organizationName>
+            <positionName>Administrator</positionName>
+            <address>
+                <city>Campinas</city>
+                <administrativeArea>SP</administrativeArea>
+                <country>BRAZIL</country>
+            </address>
+            <electronicMailAddress>jasalim@unicamp.br</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-8675-7068</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Carlos Alfredo</givenName>
+                <surName>Joly</surName>
+            </individualName>
+            <organizationName>Unicamp</organizationName>
+            <positionName>Program Chairman</positionName>
+            <address>
+                <city>Campinas</city>
+                <administrativeArea>SP</administrativeArea>
+                <country>BRAZIL</country>
+            </address>
+            <electronicMailAddress>cjoly@unicamp.br</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0002-7945-2805</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Not applicable</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>São Paulo, Brazil</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Multiple techniques</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:52Z</dateStamp>
+                <citation>Salim J A (2022). Occurrences in SinBiota. Version 1.1. Programa BIOTA/FAPESP - The Virtual Institute of Biodiversity. Occurrence dataset https://doi.org/10.15468/kjbp3w accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://ipt.biota.org.br/logo.do?r=sinbiota_occ</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

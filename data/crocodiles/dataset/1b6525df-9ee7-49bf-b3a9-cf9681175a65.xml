@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="1b6525df-9ee7-49bf-b3a9-cf9681175a65"  system="http://gbif.org" scope="system"
+xml:lang="pt">
+    <dataset>
+        <alternateIdentifier>10.15468/dd58ty</alternateIdentifier>
+        <alternateIdentifier>1b6525df-9ee7-49bf-b3a9-cf9681175a65</alternateIdentifier>
+        <alternateIdentifier>https://ipt.sibbr.gov.br/sibbr/resource?r=pabps</alternateIdentifier>
+        <title>CAJ | Plano de Ação para a Biodiversidade - Estação de Tratamento de Água (ETA) Piraí Sul</title>
+        <creator>
+            <individualName>
+                <givenName>Claudia</givenName>
+                <surName>Rocha</surName>
+            </individualName>
+            <organizationName>Companhia Águas de Joinville</organizationName>
+            <positionName>Gerente</positionName>
+            <address>
+                <deliveryPoint>Rua XV de Novembro</deliveryPoint>
+                <city>Joinville</city>
+                <administrativeArea>Santa Catarina</administrativeArea>
+                <country>BRAZIL</country>
+            </address>
+            <phone>+554721051727</phone>
+            <electronicMailAddress>claudia.rocha@aguasdejoinville.com.br</electronicMailAddress>
+        </creator>
+        <associatedParty>
+            <individualName>
+                <givenName>Companhia Aguas</givenName>
+                <surName>Joinville</surName>
+            </individualName>
+            <organizationName>Companhia Águas de Joinville</organizationName>
+            <address>
+                <city>Joinville</city>
+                <country>BRAZIL</country>
+            </address>
+            <electronicMailAddress>cga@aguasdejoinville.com.br</electronicMailAddress>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2024-12-16
+        </pubDate>
+        <language>PORTUGUESE</language>
+        <abstract>
+            <para>O presente estudo trata-se da elaboração de um Plano de Ação para a Biodiversidade (PAB) para a instalação da Estação de Tratamento de Água (ETA) Piraí Sul, localizada na zona rural de Joinville. Fazem parte dos componentes do projeto, além da ETA, a captação no rio Piraí, adutora de água bruta, alargamento de um acesso existente e adutora de água tratada. O projeto será implantado em hábitats naturais e modificados.</para><para>O presente relatório consiste na etapa 1 da elaboração do PAB, e contempla uma análise dos valores de biodiversidade e serviços ecossistêmicos na área de análise do projeto, avaliação de hábitat crítico, análise de alternativas e impactos do projeto. O projeto está localizado no bioma Mata Atlântica em região de floresta ombrófila densa das terras baixas, os fragmentos diretamente afetados estão em estágios inicial e médio de regeneração secundária. Os ecossistemas não são exclusivos da área de estudo e ocorrem em outras regiões dentro do domínio do bioma. O projeto não interfere em áreas protegidas ou relevantes internacionalmente para a biodiversidade. Foram identificados 24 valores de biodiversidade prioritários, sendo dois deles com potencial para acionar o hábitat crítico. Entretanto, os liminares de acionamento de hábitat crítico não foram alcançados.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence/PAB/PIRAI/SUL</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://collectory.sibbr.gov.br/collectory/public/show/dr1126</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.sibbr.gov.br/sibbr/archive.do?r=pabps</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>A ETA Piraí Sul localiza-se em zona rural, na Estrada Fernão André Gomes, s/nº, região sul do município de Joinville, Santa Catarina, a cerca de 9 km do centro de Joinville (Figura 1). A adutora atravessa ruas municipais nos bairros de Santa Catarina, Profipo, Boehmerwald, Parque Guarani e Paranaguamirim.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-49.068</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-48.713</eastBoundingCoordinate>
+                    <northBoundingCoordinate>-26.118</northBoundingCoordinate>
+                    <southBoundingCoordinate>-26.409</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-09-11
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-09-11
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Calophyllaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Clusiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Commelinaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Begoniaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lamiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Malvaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Araliaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Cannabaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Myrtaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lomariopsidaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Aquifoliaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Peraceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Blechnaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Myrsinaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Meliaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sapindaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Rosaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Rutaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Cyperaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dennstaedtiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Polypodiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bignoniaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Asparagaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Marantaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Piperaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Myristicaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Solanaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sterculiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gesneriaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pinaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Arecacea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Araceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phyllanthaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pteridaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Melastomataceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Costaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Onagraceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Poaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Heliconiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Rubiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dryopteridaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Fabaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Orchidaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Urticaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Clethraceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Araucariaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Boraginaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lauraceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Moraceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Verbenaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Cactaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Tectariaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lygodiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Selaginellaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Combretaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Convolvulaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Nyctaginaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Primulaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dioscoreaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Chloranthaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Symplocaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Cyatheaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bromeliaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Amaranthaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Celastraceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Cucurbitaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Asteraceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Salicaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Anacardiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Euphorbiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Anemiaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Annonaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Zingiberaceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Passifloraceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alismataceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Claudia</givenName>
+                <surName>Rocha</surName>
+            </individualName>
+            <organizationName>Companhia Águas de Joinville</organizationName>
+            <positionName>Gerente</positionName>
+            <address>
+                <deliveryPoint>Rua XV de Novembro</deliveryPoint>
+                <city>Joinville</city>
+                <administrativeArea>Santa Catarina</administrativeArea>
+                <country>BRAZIL</country>
+            </address>
+            <phone>+554721051727</phone>
+            <electronicMailAddress>claudia.rocha@aguasdejoinville.com.br</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Para a amostragem da fauna terrestre foram realizadas metodologias não invasivas, consideradas eficientes pela comunidade científica. Para o grupo da herpetofauna (anfíbios e répteis) foram aplicadas as metodologias de busca ativa limitada por tempo, encontros ocasionais e foram realizadas entrevistas com a população no entorno. O esforço amostral da busca ativa foi de 28 horas, e foram realizadas 4 entrevistas com a comunidade local. As atividades de campo iniciaram pela manhã das 9:00 horas até as 12:00 horas, e a noite das 18:00 horas até as 22:00 horas, totalizando 7 horas por dia. Ao considerar os quatro dias de levantamentos de fauna, obtém-se o total de 28 horas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para o grupo das aves foram realizadas transecções visuais que consistiam em percorrer munido de binóculos e gravador ornitólogo, com o objetivo de identificar visualmente e por meio de vocalização as aves presentes no trecho escolhido. As transecções foram realizadas das 6:00 até às 8:00 horas, e posteriormente das 16:00 às 18:00 horas, totalizando 4 horas por dia. Ao considerar os dias de campo, o esforço amostral total foi de 15 horas na presente campanha.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para os mamíferos de médio e grande porte foram realizadas buscas ativas, censo visual, entrevistas e instalação de armadilhas fotográficas. O esforço amostral para a busca ativa dos mamíferos foi de 28 horas e para as armadilhas fotográficas, o esforço foi de 4 armadilhas que permaneceram ativas por 4 noites (24 horas), totalizando 16 armadilhas fotográficas (384 horas) nessa campanha.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>A caracterização das espécies da flora da AdA também foi realizada com base em dados primários, obtidos em campo tanto pelos estudos realizados pela CAJ como pela equipe da JGP, e dados secundários, obtidos através de bibliografia e bases de dados científicas sobre a distribuição de espécies da flora.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>O levantamento foi realizado por meio do método de caminhamento proposto por Filgueiras et al. (1994) para levantamentos florísticos expeditos, de modo a abranger a maior área possível das fitofisionomias nativas e da vegetação associada às áreas antropizadas presentes na AdA do Projeto.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Considerando as fontes de dados primários e secundários, foram listadas um total de 281 espécies da flora, distribuídas em 76 famílias . Desse total, 221 espécies têm ocorrência comprovada na região do projeto (obtidas por meio de dados primários) e 60 espécies são de ocorrência provável/potencial na região do empreendimento (obtidas através de dados secundários)..</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>A identificação dos SE disponíveis foi feita com base na associação com os diferentes usos e ocupações do solo na paisagem. Essa abordagem tem sido realizada em diversas publicações sobre o tema (Haines-Young &amp; Potschin, 2010; Longo &amp; Rodrigues, 2017; Cices, 2018). Muitos SE são fornecidos no nível de habitats e estão associados diretamente com uma classe particular de uso e ocupação do solo (Peh et al., 2013). Neste sentido, diferentes tipos de cobertura do solo e suas condições caracterizam uma região, suas funções ecológicas e sua capacidade para fornecer um conjunto de bens e serviços ecossistêmicos (Folke et al., 2004 apud Longo &amp; Rodrigues, 2017).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Identificados os SE disponíveis na área de análise, a segunda etapa do processo é a identificação dos SE relevantes para a população local, considerando sua dependência do mesmo (Landsberg et al., 2013).
+
+Diferentemente da Etapa 1, que se baseia em informações disponíveis na literatura, a Etapa 2 necessita do envolvimento das partes interessadas, para identificação dos SE que são mais relevantes aos beneficiários (Landsberg et al., 2013). Assim, ss informações sobre o uso dos serviços do ecossistema pelas comunidades foram obtidas de duas fontes:
+
+•	Diagnóstico Sócioeconômico realizado para o Estudo Ambiental Simplificado (EAS) do projeto (CAJ/PRONATUR, 2023). 
+•	Entrevistas não estruturadas feita com a população residente na AdA, com foco na utlização dos recursos do ecossistema disponíveis na região, realizada em abril de 2023.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Informações adicionais sobre o uso dos serviços do ecossistema pela população da região foram adquiridas durante a visita de campo realizada entre os dias 28 e 30 de março de 2023 para o presente estudo. Nessa visita foram feitas entrevistas não estruturadas com os moradores locais, a fim de identificar a utilização dos recursos naturais da região.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>A bibliografia relevante sobre tema evidenciada para Joinville concentra-se na Baía da Babitonga (Gerhardinger et al., 2021) e trabalhos realizados em unidades de conservação próximas da linha de praia, como o estudo realizado por Oliveira (2015) na RDS Ilha do Morro do Amaral. Os resultados publicados nos referidos estudos revelam que os principais SE para a população dessas áreas fora aqueles relacionados a alimentos (serviço de provisionamento), obtidos por meio das atividades de pesca marítima e captura de caranguejos no mangue; e turismo (serviço cultural), relacionados a atividades de passeios de barco, mergulhos e pesca esportiva.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>A verificação da importância do hábitat para as espécies prioritárias foi feita em 2 etapas:
+
+1)	Determinação dos valores de biodiversidade prioritários: os valores de biodiversidade identificados na AdA foram avaliados em relação ao seu potencial em acionar algum dos gatilhos de hábitat crítico, conforme os 6 critérios estabelecidos no parágrafo 16. Essa análise resultou em uma lista de valores de biodiversidade prioritários, ou seja, que por seu grau de ameaça, distribuição e/ou significância ecológica para as populações naturais tem potencial de acionar os gatilhos estabelecidos nas notas de orientação do PDAS6. Esses valores foram avaliados em relação ao seu potencial de acionar o gatilho de HC, com base na sua distribuição da paisagem (hábitats e biomas de ocorrência) e os limiares estabelecidos nas notas de orientação do PDAS6. Essa análise resultou em uma tabela com os valores de biodiversidade com potencial para acionar o gatilho de HC. 
+
+2)	Delimitação das áreas de análise ecologicamente apropriadas: as espécies consideradas como potenciais ativadoras de hábitat críticos foram agrupadas, de acordo com as informações ecológicas e de distribuição e tiveram suas Área de Análise Ecologicamente Apropriadas (AAEA) delimitadas (essa delimitação foi feita por grupo de espécies com características ecológicas semelhantes). Para os ecossistemas considera-se a extensão ocupada na AdA e a extensão diretamente afetada.
+
+3)	Análise de ativação do gatilho: as AAEA foram comparadas às Áreas de Ocupação (Areas of Ocupancy/AOO) das espécies potenciais gatilho e avaliadas em relação aos limiares de ativação estabelecidos nos parágrafos GL67 a GL81.
+
+Para as áreas legalmente protegidas e demais áreas de valor de biodiversidade elevados já reconhecidas como hábitat crítico pelo GL86 são adotados os limites oficiais do sítio disponibilizado.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>A delimitação das AAEA considerou as fitofisionomias de ocorrência de cada espécie prioritária, utilizando as informações levantadas para cada espécie, análise visual de imagens de satélite e mapas oficiais de uso e cobertura do solo, como o mapa de vegetação do IBGE (2021). A delimitação das AAEA foi feita por grupos de espécie, também semelhante às diretrizes constantes na NO59 do PD6 (IFC, 2019), que determina que espécies com hábitos semelhantes podem ser avaliadas em conjunto. O agrupamento das espécies foi feito com o auxílio dos especialistas colaboradores da JGP e dados da bibliografia. A delimitação das AAEA de cada grupo seguiu o conceito de continuidade de hábitat, ou seja, a delimitação do polígono foi feita com base em remanescentes contínuos e conectados de vegetação nativa com as características necessárias para a ocorrência das espécies que compõem o grupo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>A delimitação de hábitat críticos foi feita por meio da comparação direta das AAEA com a Área de Ocupação (AOO) de cada espécie potencial gatilho de hábitat crítico.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>A avaliação dos impactos diretos e indiretos foi baseada na literatura técnica internacional e nacional, principalmente nos trabalhos de Sánchez (2006); Morgan (1998); Porter &amp; Fittipaldi (1998); Canter (1996); Wood (1995); Morris &amp; Therivel (1995); Turnbull (1992); World Bank (1991) e Leopold et al. (1971). 
+
+A partir das informações do processo construtivo, e informações da base de referência de biodiversidade, análise de hábitat crítico e serviços ecossistêmicos, procedeu-se à identificação e avaliação dos impactos do projeto na biodiversidade e serviços ecossistêmicos. Os impactos identificados no EAS do projeto também foram considerados na presente análise.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Primeiramente, foram identificadas todas as ações impactantes das fases de planejamento, implantação e operação, que poderão causar alterações na biodiversidade ou serviços ecossistêmicos. Os elementos do projeto considerados na análise de impactos foram:
+
+•	Construção da ETA Piraí Sul
+•	Captação no rio Piraí
+•	Adutora de água bruta
+•	Adutora de água tratada
+•	Alargamento de acesso existente em função da implantação de adutora de água tratada.
+
+Em seguida, identificaram-se os componentes ambientais que poderão ser afetados direta ou indiretamente pelas ações do empreendimento em suas diferentes fases. A partir da análise e interpretação das relações entre as ações impactantes e os componentes ambientais, foram estabelecidos os impactos potenciais associados ao empreendimento, ou seja, aqueles que podem ser razoavelmente previstos e que têm probabilidade de ocorrência</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>O saldo líquido da biodiversidade para o projeto foi estimado com base na abordagem usualmente feita para cálculos da biodiversidade, considerando os ganhos e as perdas da biodiversidade tanto nas áreas impactadas como nas áreas propostas para compensação (BBOP, 2012), com base na metodologia de “quality hectares” (ou habitat “area x quality”) (PARKES et al. 2012; TEMPLE et al., 2012).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para o cálculo dos ganhos foram consideradas as dificuldades de restauração de um hábitat, assumindo que os plantios de mudas serão realizados em área total, degradada. Também foi aplicada uma escala semiquantitativa, com níveis que correspondem a diferentes fatores de multiplicação com base nas dificuldades de restauração. Para os indivíduos isolados também foi considerada a mesma área de 6 m2 (0,0006 ha) por muda.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>A ETA Piraí Sul localiza-se em zona rural, na Estrada Fernão André Gomes, s/nº, região sul do município de Joinville, Santa Catarina, a cerca de 9 km do centro de Joinville. A adutora atravessa ruas municipais nos bairros de Santa Catarina, Profipo, Boehmerwald, Parque Guarani e Paranaguamirim.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>A caracterização das espécies de vertebrados terrestres de provável ocorrência na AdA foi realizada utilizando dados primários, obtidos em campo (avistamentos, vocalizações e outros tipos de vestígios) e dados secundários. Os dados primários também consideraram os seguintes estudos anteriormente realizados: Inventário Florístico Florestal (CAJ/Ecolibra, 2023), Levantamento de Fauna Piraí Sul (CAJ/Pronatur, 2022), Estudo Ambiental Simplificado para a ETA Piraí Sul (CAJ/Pronatur, 2023), além dos resultados obtidos por Roos Ambiental (2020 apud CAJ/Pronatur, 2022) e OAP Consultores Associados (2020 apud CAJ/Pronatur, 2022). Como dados secundários foram considerados os registros apontados como de provável ocorrência apresentados no EAS da ETA (CAJ/Pronatur, 2023), além de busca realizada em bancos de dados internacionais de registros de espécies (GBIF e Specieslink).</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="Contratada">
+                <title>Plano de Ação para a Biodiversidade – Relatório 2 - PAB Final</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Claudia</givenName>
+                    <surName>Rocha</surName>
+                    </individualName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>O presente estudo trata-se da elaboração de um Plano de Ação para a Biodiversidade (PAB) para a instalação da Estação de Tratamento de Água (ETA) Piraí Sul, localizada na zona rural de Joinville. Fazem parte dos componentes do projeto, além da ETA, a captação no rio Piraí, adutora de água bruta, alargamento de um acesso existente e adutora de água tratada. O projeto será implantado em hábitats naturais e modificados. Um Plano de Ação para Biodiversidade (PAB) tem como principal objetivo estabelecer os objetivos de biodiversidade do projeto, avaliar os impactos residuais e apresentar um racional sobre as ações necessárias a serem implementadas para alcançar metas de zero perda e/ou ganhos de biodiversidade.</para>
+                </abstract>
+                <funding>
+                    <para>AFD</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>A ETA Piraí Sul localiza-se em zona rural, na Estrada Fernão André Gomes, s/nº, região sul do município de Joinville, Santa Catarina, a cerca de 9 km do centro de Joinville. A adutora atravessa ruas municipais nos bairros de Santa Catarina, Profipo, Boehmerwald, Parque Guarani e Paranaguamirim. O projeto está inserido na Bacia Hidrográfica do Atlântico Sul, na Sub-bacia Hidrográfica Bacias Conjugadas do Rio Itajaí, na Microbacia Hidrográfica do Rio Piraí.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:03Z</dateStamp>
+                <citation>Rocha C (2024). CAJ | Plano de Ação para a Biodiversidade - Estação de Tratamento de Água (ETA) Piraí Sul. Version 1.4. Companhia Águas de Joinville. Occurrence dataset https://doi.org/10.15468/dd58ty accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>BBOP - BUSINESS AND BIODIVERSITY OFFSETS PROGRAMME. Biodiversity Offset Design Handbook. Washington, D.C., 2009. Disponível em: www.foresttrends.org/biodiversityoffsetprogram/guidelines/odh.pdf
+
+BBOP - BUSINESS AND BIODIVERSITY OFFSETS PROGRAMME. Guidance Notes to the Standard on Biodiversity Offsets. Washington, D.C., 2012a. Disponível em: http://bbop.forest-trends.org/guidelines/Standard_Guidance_Notes.pdf
+
+BBOP - BUSINESS AND BIODIVERSITY OFFSETS PROGRAMME. Resource Paper: No Net Loss and Loss‐Gain Calculations in Biodiversity Offsets. Washington, D.C., 2012b. Disponível em: http://bbop.forest‐trends.org/guidelines/Resource_Paper_NNL.pdf
+
+BIGARELLA, J. J. 2001. Contribuição ao estudo da planície litorânea do estado do Paraná. Braz. Arch. of Biol. Technol., 1946-2001: 65- 110.
+
+BRUNIERA, C.P., ZAPPI, D. 2015. Rudgea in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil2015.jbrj.gov.br/FB14247).
+
+CABRAL, F.N. Calophyllum in Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro.Disponível em: &lt;https://floradobrasil.jbrj.gov.br/FB6827&gt;. Acesso em: 09 mai. 2022
+
+CONSEMA, 2011. RESOLUÇÃO CONSEMA Nº 002, de 06 de dezembro de 2011. Reconhece a Lista Oficial de Espécies da Fauna Ameaçadas de Extinção no Estado de Santa Catarina e dá outras providências. DIÁRIO OFICIAL – SC – Nº 19.237, DE 20.12.2011. PÁGINAS 2 a 8. 
+
+CSB – Secretaria de Saneamento Básico, 2011. Adequação, Revitalização e Ampliação da Estação de Tratamento de Esgoto – ETE Jarivatuba, no município de Joinville/SC. Estudo Ambiental Simplificado (EAS). Joinville-SC. 
+
+DIAS, A.F.. Diagnóstico e perspectiva de sustentabilidade na reserva de desenvolvimento sustentável da ilha morro do Amaral. Trabalho de Conclusão do Curso de Pós Graduação em Economia e Meio Ambiente para Obtenção do Título de Especialista em Economia e Meio  Ambiente pelo Departamento de Ciências Agrárias da Universidade Federal do Paraná. 2012
+
+DUARTE, L.S.; DILLENBURG, L. Ecophysiological responses of Araucaria angustifolia (Araucariaceae) seedling to different irradiance levels., Aust. J. Bot., v.48, p.531-537, 2000.
+
+DUARTE, L.S.; DILLENBURG, L.R., ROSA, L.M.G. Assessing the role of light availability in the regeneration of Araucaria angustifolia (Araucariaceae), Aust. J. Bot., v.50, p.741-751, 2002.
+
+DUTILH, J.H.A. ; OLIVEIRA, R.S. Amaryllidaceae in Lista de Espécies da Flora do Brasil. Disponivel em: &lt;http://floradobrasil.jbrj.gov.br/2012/FB015454&gt;. 2012
+
+DUTILH, J.H.A. Ornamental bulbos plants of Brazil. Acta Hort, v. 683, 2005.
+
+FERRER-PARIS, J.R., ZAGER, I., KEITH, D.A., OLIVEIRA-MIRANDA, M.A., RODRÍGUEZ, J.P, JOSSE, C., GONZÁLEZ-GIL, M., MILLER, R.M., ZAMBRANA-TORRELIO, C., BARROW, E., 2019. An ecosystem risk assessment of temperate and tropical forests of the Americas with an outlook on future conservation strategies. Conserv. Lett. 12. https://doi.org/10.1111/conl.12623.
+
+FLORA SBS. Virola bicuhyba - Bicuíba. Disponivel em:  https://sites.google.com/site/florasbs/myristicaceae/bicuiba&gt;. Acesso em: 23/07/2012.
+
+Fundema, F. M. do Meio Ambiente de Joinville. Arquivos de dados da Reserva da Ilha Morro do Amaral. Joinville: 2009/2010. Disponível em: &lt; http://www.fundema.sc.gov.br &gt;. Acesso restrito em: 21 maio/2012.
+
+GASPAR, L.C. Predicting bird diversity using acoustic indices within the Atlantic Forest biodiversity hotspot. Dissertação de mestrado em Ecologia e Biodiversiadade, UNESP, Rio Claro, 2021
+
+GEOCONSULTORES, ENGENHARIA E MEIO AMBIENTE LTDA, 2015. 1º Relatório Consolidado de Monitoramento da Fauna Ameaçada ETE Jarivatuba. Joinville – SC. 
+
+GREGORY, R. D., GIBBONS, D. W., &amp; DONALD, P. F. (2004). Bird census and survey techniques. IN W. J. SUTHERLAND, I. NEWTON, &amp; R. GREEN (Eds.). Bird Ecology and Conservation: A Handbook of Techniques (pp. 17–56). Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198520863.003.0002
+
+GROSE, A. 2013. Avifauna em três Unidades de Conservação urbanas no município de Joinville, Santa Catarina, Brasil. Atualidades Ornitológicas On-line 175: 48-57.
+
+IBGE. 2012. Manual técnico da vegetação brasileira. 2. ed. IBGE, São Paulo. 271 p.
+
+ICMBio, 2018. Livro Vermelho da Fauna Brasileira Ameaçada de Extinção. Brasília. 
+IFC, 2012. 
+
+IUCN 2023. IUCN Red List of Threatened Species. Version 2020-2. &lt;http://www.iucnredlist.org&gt;. 
+
+João Carlos Ferreira de Melo Júnior1 , Maiara Matilde Silva2, Maria Regina Torres Boeger2, Thiago Felipe Souza3 &amp; Celso Voos Vieira1 1 Programa de Pesquisa em Ciências Ambientais, Universidade da Região de Joinville – UNIVILLE. Patrimônio natural das restingas da baía Babitonga, Santa Catarina, Brasil. 2018
+
+JANZEN, D.H. The eternal external threat. In Conservation Biology: The Science of Scarcity and Diversity (Soulé, M.E., ed.), pp. 286–303, Sinauer, 1986KNIE, J. L. W. (org.). 2002. Atlas ambiental da região de Joinville: complexo hídrico da Baía da Babitonga. FATMA/GTZ, Florianópolis. 152p.
+
+LORENZI, H.; NOBLICK, L.; KAHN, F.; FERREIRA E. Flora brasileira –Arecaceae (palmeiras). Nova Odessa: Plantarum, 2010. 384 p.
+
+LLOYD, H., CAHILL, A., JONES, M., &amp; MARSDEN, S. (2000) Estimating Bird Densities Using Distance Sampling. In C. LLOYD, M. JONES, &amp; S. MARSDEN (Eds). Bird surveys - Expedition Field Techniques (pp. 34-55)
+
+MELLO, A.S.; GRINGS, M. &amp; SETUBAL, R.B. Flora e vegetação do Bioma Mata Atlântica no município de Itapoá - Santa Catarina. Obtido em: &lt;https://praticasembotanica.files.wordpress.com/2012/09/flora_vegetacao_itapoa_sc1.pdf&gt;. Acessado em Maio de 2022.
+
+OLIVEIRA, G. De parque a reserva: ilha Morro do Amaral, Joinville/SC. Os 15 anos da Lei no
+
+PARKES, D. et al. Assessing the quality of native vegetation: The ‘hábitat hectares’ approach. Ecological Management &amp; Restoration, v. 4, supl, p. 29-39, 2003.
+
+PARODI, L.R. Enciclopédia Argentna de agricultura y jardineria. 1959. 240-248 p.
+
+PARRA-SANCHEZ, E., BANKS-LEITE, C. The magnitude and extent of edge effects on vascular epiphytes across the Brazilian Atlantic Forest. Sci Rep 10, 18847, 2020. https://doi.org/10.1038/s41598-020-75970-1
+
+REITZ, P. R. Flora Ilustrada Catarinense: Palmeiras. Itajaí: Herbário Barbosa Rodrigues, 1974. 189 p.
+
+RIZZINI, C. T. 1997. Tratado de fitogeografia do Brasil. Aspectos ecológicos, sociológicos e florísticos. Âmbito Cultural Edições, Rio de Janeiro, 747 p.
+
+RODRIGUES, W. Myristicaceae In: Stehmann, J.R. et al. Plantas da Floresta Atlântica. 2009.
+
+RODRIGUES, W. IN: FORZZA, R.C. ET AL. Myristicaceae in Lista de Espécies da Flora do Brasil.
+
+SEPUD – Secretaria de Planejamento Urbano e Desenvolvimento Sustentável, 2021. Joinville Cidade em Dados. Joinville-SC. 20pp. 
+
+SICK, H. (1997). Ornitologia Brasileira. Nova Fronteira., Rio de Janeiro, RJ.
+
+SIH, A.; JONSSON, B.G &amp; LUIKART, G. Do edge effects occur over large spatial scales? TREE vol. 15, no. 4 April 2000, pp. 134 e 135.
+
+SKOLE, D. &amp; TUCKER, C. Tropical deforestation and habitat fragmentation in the Amazon: satellite data from 1978 to 1988. Science 260, 1905–1910, 1993
+
+SOARES, K. P.; LONGHI, S. J.; NETO, L. W.; ASSIS, L. C. Palmeiras (Arecaceae) no Rio Grande do Sul, Brasil. Rodriguésia, v. 65, n. 1, p. 113-139, 2014.
+
+SOUZA, V.C. Gimnospermas in Jardim Botânico do Rio de Janeiro. Disponivel em: &lt;(http://floradobrasil.jbrj.gov.br/2012/FB000257).&gt;.2012
+
+TEMPLE, H. et al. Forecasting the path towards a Net Positive Impact on biodiversity for Rio Tinto QMM (No 2). IUCN &amp; Rio Tinto, 2012.
+
+TEN KATE, K.; CROWE, M.L.A. Biodiversity Offsets: Policy options for governments. An input paper for the IUCN Technical Study Group on Biodiversity Offsets. Gland, Switzerland: IUCN. 2014. 91p.
+
+WIKIAVES, 2022. WikiAves, a Enciclopédia das Aves do Brasil. Disponível em: &lt;http://www.wikiaves.com.br/&gt;. Acesso em: maio de 2022. 
+
+WINDISCH, P.G.; OELLGAARD, B.; NERVO, M.H. Phlegmariurus in Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro.Disponível em: &lt;https://floradobrasil.jbrj.gov.br/FB128532&gt;.
+
+REIS, A. et al. Restauração de áreas degradadas: a nucleação como base para incrementar processos sucessionais. Natureza &amp; Conservação, v. 1, n. 1, p. 28-36, 2003</citation>
+                </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

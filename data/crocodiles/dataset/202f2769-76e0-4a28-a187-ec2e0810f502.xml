@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="202f2769-76e0-4a28-a187-ec2e0810f502"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/zgpjty</alternateIdentifier>
+        <alternateIdentifier>202f2769-76e0-4a28-a187-ec2e0810f502</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=pel_monitoreo_fauna</alternateIdentifier>
+        <title>Fauna asociada a la Línea de transmisión 115 kV y subestaciones Jagüey – Tigana - Jacana, departamento de Casanare</title>
+        <creator>
+            <individualName>
+                <givenName>Diana Carolina</givenName>
+                <surName>Rojas Acosta</surName>
+            </individualName>
+            <organizationName>Petroeléctrica de los Llanos</organizationName>
+            <positionName>Profesional Biótico</positionName>
+            <address>
+                <deliveryPoint>calle 80 No 73a-21</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá</administrativeArea>
+                <postalCode>110221</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dcrojas@pel.com.co</electronicMailAddress>
+            <onlineUrl>https://www.pel.com.co/wp/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">dianarojas1981</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Diana Carolina</givenName>
+                <surName>Rojas Acosta</surName>
+            </individualName>
+            <organizationName>Petroeléctrica de los Llanos</organizationName>
+            <positionName>Profesional Biótico</positionName>
+            <address>
+                <deliveryPoint>calle 80 No 73a-21</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá</administrativeArea>
+                <postalCode>110221</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dcrojas@pel.com.co</electronicMailAddress>
+            <onlineUrl>https://www.pel.com.co/wp/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">dianarojas1981</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>e_QUAL Consultoría y servicios ambientales</surName>
+            </individualName>
+            <organizationName>e_QUAL Consultoría y servicios ambientales</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>contacto@equalambiental.com</electronicMailAddress>
+            <onlineUrl>https://equalambiental.com/</onlineUrl>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2025-01-09
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Primer Monitoreo a las comunidades faunística (aves, mamíferos, reptiles y anfibios) en el área aledaña a las zonas de intervención del proyecto &amp;#34;Línea de transmisión 115 kV y subestaciones Jagüey – Tigana - Jacana, en jurisdicción de los municipios de Tauramena y Villanueva, departamento de Casanare. La longitud de la línea entre la subestación Jagüey -Tigana es de 25,745 km, así mismo la longitud entre la subestación Tigana - Jacana es de 11,28 km para un total de 37,025 km. El tramo de la línea de transmisión de 115 kV a doble circuito tiene, 97 estructuras en total y una servidumbre de (20 m), donde 10 metros corresponden al eje izquierdo y 10 metros al eje derecho de la línea.
+El proyecto cuenta con licencia ambiental emitida por la Corporación Regional de Casanare (CORPORINOQUIA) mediante el acto administrativo No. 500.36.21 1443 del 17 de noviembre de 2021 y presenta un Área de Influencia Físico-Biótica de 1720,88 ha. En el área de estudio están presentes 15 coberturas, cuatro (4) de las cuales están asociados a territorios artificializados, cinco (5) a territorios agrícolas, dos (3) a coberturas naturales y tres (3) agrupadas como áreas húmedas.</para><para>En este recurso se presentan 2.258 registros de especímenes de anfibios, reptiles, aves y mamíferos observados en los municipios de Tauramena y Villanueva correspondientes al departamento de Casanare durante los años 2023 y 2024. Los especímenes se encuentran agrupados en 37 ordenes y 100 familias.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Casanare</keyword>
+            <keyword>encuesta</keyword>
+            <keyword>monitoreo</keyword>
+            <keyword>Tauramena</keyword>
+            <keyword>Villanueva</keyword>
+            <keyword>Línea eléctrica</keyword>
+            <keyword>Observación</keyword>
+            <keyword>subestación</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Se pretende actualizar estos metadatos con los tres monitoreos realizados en este proyecto.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=pel_monitoreo_fauna</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Delimitación de las áreas de influencia del proyecto, definidas de acuerdo con los criterios de análisis sobre los medios físico, biótico y socioeconómico. Primer monitoreo a las comunidades faunísticas, Proyecto Línea de Transmisión 115kV y subestaciones Jagüey – Tigana – Jacana. Departamento del Casanare. Escala 1:25.000. Año 2023.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.723</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.553</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.626</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.391</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-05-02
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-10-10
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Los 2.258 registros pertenecen a las clases (Mammalia, Aves, Reptilia y Amphibia). La clase Mammalia, está conformada por 36 especies distribuidas en 8 órdenes y 25 familias. La clase Aves, está conformada por 223 especies distribuidas en 25 órdenes y 57 familias. La clase Amphibia esta compuesta por 21 especies distribuidas en 1 orden y 4 familias. Por último, para los Reptilia está conformada por 30 especies distribuidas en 3 órdenes y 14 familias. El 100% se identificó a nivel de especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Odocoileus virginianus</taxonRankValue>
+                    <commonName>Venado cola blanca</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cerdocyon thous</taxonRankValue>
+                    <commonName>Zorro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leopardus pardalis</taxonRankValue>
+                    <commonName>Ocelote</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Puma concolor</taxonRankValue>
+                    <commonName>Puma</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Saccopteryx bilineata</taxonRankValue>
+                    <commonName>Murcielago de lineas blancas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Desmodus rotundus</taxonRankValue>
+                    <commonName>Vampiro común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Carollia perspicillata</taxonRankValue>
+                    <commonName>Murciélago</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Didelphis marsupialis</taxonRankValue>
+                    <commonName>Chucha</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Myrmecophaga tridactyla</taxonRankValue>
+                    <commonName>Oso palmero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sapajus apella</taxonRankValue>
+                    <commonName>mono maicero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Alouatta seniculus</taxonRankValue>
+                    <commonName>Mono aullador</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Oecomys bicolor</taxonRankValue>
+                    <commonName>Ratón arrozalero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hydrochoerus hydrochaeris</taxonRankValue>
+                    <commonName>Chiguiro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dasyprocta fuliginosa</taxonRankValue>
+                    <commonName>ñeque</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cuniculus paca</taxonRankValue>
+                    <commonName>Lapa</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Syntheosciurus granatensis</taxonRankValue>
+                    <commonName>ardilla de cola roja</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rattus rattus</taxonRankValue>
+                    <commonName>Rata</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhinella beebei</taxonRankValue>
+                    <commonName>Sapo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhinella marina</taxonRankValue>
+                    <commonName>Sapo común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dendropsophus mathiassoni</taxonRankValue>
+                    <commonName>Rana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dendropsophus minutus</taxonRankValue>
+                    <commonName>Rana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Boana platanera</taxonRankValue>
+                    <commonName>Rana platanera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudis paradoxa</taxonRankValue>
+                    <commonName>Rana paradoja</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Scinax rostratus</taxonRankValue>
+                    <commonName>Ranita rostral</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Scinax ruber</taxonRankValue>
+                    <commonName>Ranita listada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Scinax wandae</taxonRankValue>
+                    <commonName>Rana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Physalaemus fischeri</taxonRankValue>
+                    <commonName>Ranita vaquero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudopaludicola boliviana</taxonRankValue>
+                    <commonName>Rana enana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudopaludicola llanera</taxonRankValue>
+                    <commonName>Rana enana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodactylus fragilis</taxonRankValue>
+                    <commonName>Rana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodactylus fuscus</taxonRankValue>
+                    <commonName>Rana silbadora</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lithodytes lineatus</taxonRankValue>
+                    <commonName>Sapito listado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodactylus macrosternum</taxonRankValue>
+                    <commonName>Sapo-rana llanero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodactylus validus</taxonRankValue>
+                    <commonName>Rana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Elachistocleis sikuani</taxonRankValue>
+                    <commonName>Rana lapicero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crypturellus cinereus</taxonRankValue>
+                    <commonName>Tinamú Cenizo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anhima cornuta</taxonRankValue>
+                    <commonName>Aruco</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dendrocygna viduata</taxonRankValue>
+                    <commonName>Pato Careto</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dendrocygna autumnalis</taxonRankValue>
+                    <commonName>Pisingo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ortalis guttata</taxonRankValue>
+                    <commonName>Guacharaca Variable</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Mitu tomentosum</taxonRankValue>
+                    <commonName>Paujil</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Colinus cristatus</taxonRankValue>
+                    <commonName>Perdiz Común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Patagioenas cayennensis</taxonRankValue>
+                    <commonName>Paloma Morada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptotila verreauxi</taxonRankValue>
+                    <commonName>Tórtola Colipinta</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Columbina talpacoti</taxonRankValue>
+                    <commonName>Tortolita Rojiza</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Columbina squammata</taxonRankValue>
+                    <commonName>Tortolita Colilarga</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Columbina minuta</taxonRankValue>
+                    <commonName>Tortolita Diminuta</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Zenaida auriculata</taxonRankValue>
+                    <commonName>Torcaza</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Claravis pretiosa</taxonRankValue>
+                    <commonName>Tortolita Azul</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Saltator coerulescens</taxonRankValue>
+                    <commonName>Saltador Papayero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Emberizoides herbicola</taxonRankValue>
+                    <commonName>Sabanero Coludo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Coereba flaveola</taxonRankValue>
+                    <commonName>Mielero Común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Paroaria nigrogenis</taxonRankValue>
+                    <commonName>Cardenal</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Schistochlamys melanopis</taxonRankValue>
+                    <commonName>Pizarrita Sabanera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Stilpnia cayana</taxonRankValue>
+                    <commonName>TángaraTriguera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thraupis episcopus</taxonRankValue>
+                    <commonName>Azulejo Común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thraupis palmarum</taxonRankValue>
+                    <commonName>Azulejo Palmero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotophaga ani</taxonRankValue>
+                    <commonName>Garrapatero Piquiliso</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tapera naevia</taxonRankValue>
+                    <commonName>Tres Pies</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Piaya cayana</taxonRankValue>
+                    <commonName>Cuco-ardilla Común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Coccycua minuta</taxonRankValue>
+                    <commonName>Cuco Enano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Coccyzus melacoryphus</taxonRankValue>
+                    <commonName>Cuco Piquioscuro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Nyctibius griseus</taxonRankValue>
+                    <commonName>Biemparado Común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Nyctibius grandis</taxonRankValue>
+                    <commonName>Biemparado Grande</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Nyctidromus albicollis</taxonRankValue>
+                    <commonName>Bujío</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chaetura brachyura</taxonRankValue>
+                    <commonName>Vencejo Rabicorto</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Florisuga mellivora</taxonRankValue>
+                    <commonName>Colibrí Nuquiblanco</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phaethornis anthophilus</taxonRankValue>
+                    <commonName>Ermitaño Carinegro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Polytmus guainumb</taxonRankValue>
+                    <commonName>Colibrí Llanero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chrysolampis mosquitus</taxonRankValue>
+                    <commonName>Colibrí Rubí</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anthracothorax nigricollis</taxonRankValue>
+                    <commonName>Mango Pechinegro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chlorostilbon mellisugus</taxonRankValue>
+                    <commonName>Esmeralda Coliazul</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chionomesa fimbriata</taxonRankValue>
+                    <commonName>Amazilia Buchiblanca</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chrysuronia versicolor</taxonRankValue>
+                    <commonName>Amazilia Pechiblanca</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Opisthocomus hoazin</taxonRankValue>
+                    <commonName>Chenchena</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Aramus guarauna</taxonRankValue>
+                    <commonName>Carrao</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Aramides cajaneus</taxonRankValue>
+                    <commonName>Aramides cajaneus</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Vanellus chilensis</taxonRankValue>
+                    <commonName>Pellar Teru-teru</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Jacana jacana</taxonRankValue>
+                    <commonName>Gallito-de-ciénaga</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Jabiru mycteria</taxonRankValue>
+                    <commonName>Cabeza de Hueso</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Mycteria americana</taxonRankValue>
+                    <commonName>Garzón Soldado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Anhinga anhinga</taxonRankValue>
+                    <commonName>Pato-aguja Americano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Butorides striata</taxonRankValue>
+                    <commonName>Garcita Rayada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ardea alba</taxonRankValue>
+                    <commonName>Garza Real</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ardea cocoi</taxonRankValue>
+                    <commonName>Garza Morena</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Egretta caerulea</taxonRankValue>
+                    <commonName>Garza Azul</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Egretta thula</taxonRankValue>
+                    <commonName>Garza Patiamarilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Bubulcus ibis</taxonRankValue>
+                    <commonName>Garcita Bueyera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Syrigma sibilatrix</taxonRankValue>
+                    <commonName>Garza Silbadora</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phimosus infuscatus</taxonRankValue>
+                    <commonName>Coquito</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eudocimus ruber</taxonRankValue>
+                    <commonName>Corocora</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Theristicus caudatus</taxonRankValue>
+                    <commonName>Bandurria</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sarcoramphus papa</taxonRankValue>
+                    <commonName>Rey de los Gallinazos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Coragyps atratus</taxonRankValue>
+                    <commonName>Gallinazo Negro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cathartes burrovianus</taxonRankValue>
+                    <commonName>Guala Sabanera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cathartes aura</taxonRankValue>
+                    <commonName>Guala Cabecirroja</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Spizaetus tyrannus</taxonRankValue>
+                    <commonName>Águila Iguanera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ictinia plumbea</taxonRankValue>
+                    <commonName>Aguililla Plomiza</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Geranospiza caerulescens</taxonRankValue>
+                    <commonName>Águila Sabanera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Buteogallus meridionalis</taxonRankValue>
+                    <commonName>Cangrejero Grande</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Buteogallus urubitinga</taxonRankValue>
+                    <commonName>Caracolero Común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rupornis magnirostris</taxonRankValue>
+                    <commonName>Gavilán Caminero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Geranoaetus albicaudatus</taxonRankValue>
+                    <commonName>Gavilán Coliblanco</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Buteo nitidus</taxonRankValue>
+                    <commonName>Gavilán Saraviado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Megascops choliba</taxonRankValue>
+                    <commonName>Currucutú</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Athene cunicularia</taxonRankValue>
+                    <commonName>Mochuelo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Megaceryle torquata</taxonRankValue>
+                    <commonName>Martín-pescador Grande</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chloroceryle americana</taxonRankValue>
+                    <commonName>Martín-pescador Chico</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chloroceryle amazona</taxonRankValue>
+                    <commonName>Martín-pescador Matraquero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chloroceryle aenea</taxonRankValue>
+                    <commonName>Martín-pescador Enano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hypnelus ruficollis</taxonRankValue>
+                    <commonName>Bobo Punteado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ramphastos tucanus</taxonRankValue>
+                    <commonName>Tucán Silbador</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pteroglossus castanotis</taxonRankValue>
+                    <commonName>Pichí Bandirrojo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Picumnus squamulatus</taxonRankValue>
+                    <commonName>Carpinterito Escamado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dryocopus lineatus</taxonRankValue>
+                    <commonName>Carpintero Real</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Colaptes punctigula</taxonRankValue>
+                    <commonName>Carpintero Pechipunteado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Caracara plancus</taxonRankValue>
+                    <commonName>Caracara Moñudo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Herpetotheres cachinnans</taxonRankValue>
+                    <commonName>Halcón Reidor</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Milvago chimachima</taxonRankValue>
+                    <commonName>Pigua</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Falco sparverius</taxonRankValue>
+                    <commonName>Cernícalo Americano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Falco femoralis</taxonRankValue>
+                    <commonName>Halcón Plomizo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Brotogeris cyanoptera</taxonRankValue>
+                    <commonName>Periquito Aliazul</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Amazona ochrocephala</taxonRankValue>
+                    <commonName>Lora Real</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Amazona amazonica</taxonRankValue>
+                    <commonName>Lora Amazónica</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Forpus conspicillatus</taxonRankValue>
+                    <commonName>Periquito de Anteojos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eupsittula pertinax</taxonRankValue>
+                    <commonName>Carisucio</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ara severus</taxonRankValue>
+                    <commonName>Guacamaya Cariseca</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sakesphorus canadensis</taxonRankValue>
+                    <commonName>Batará Copetón</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophilus doliatus</taxonRankValue>
+                    <commonName>Batará Barrado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophilus nigrocinereus</taxonRankValue>
+                    <commonName>Batará Ceniciento</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cercomacra nigricans</taxonRankValue>
+                    <commonName>Hormiguerp Yeguá</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Myrmoborus leucophrys</taxonRankValue>
+                    <commonName>Hormiguero Cejiblanco</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dendroplex picus</taxonRankValue>
+                    <commonName>Trepatroncos Pico-de-lanza</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phacellodomus rufifrons</taxonRankValue>
+                    <commonName>Castillero Llanero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Synallaxis albescens</taxonRankValue>
+                    <commonName>Chamicero Pálido</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Certhiaxis cinnamomeus</taxonRankValue>
+                    <commonName>Rastrojero Barbiamarillo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pachyramphus polychopterus</taxonRankValue>
+                    <commonName>Cabezón Aliblanco</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pachyramphus rufus</taxonRankValue>
+                    <commonName>Cabezón Cinéreo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Atalotriccus pilaris</taxonRankValue>
+                    <commonName>Tiranuelo Ojiamarillo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Poecilotriccus sylvia</taxonRankValue>
+                    <commonName>Espatulilla Rastrojera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Todirostrum cinereum</taxonRankValue>
+                    <commonName>Espatulilla Común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Camptostoma obsoletum</taxonRankValue>
+                    <commonName>Tiranuelo Silbador</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Elaenia flavogaster</taxonRankValue>
+                    <commonName>Elenia Copetona</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Elaenia chiriquensis</taxonRankValue>
+                    <commonName>Elenia Chica</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Myiopagis gaimardii</taxonRankValue>
+                    <commonName>Elenia Selvática</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phaeomyias murina</taxonRankValue>
+                    <commonName>Tiranuelo Murino</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Legatus leucophaius</taxonRankValue>
+                    <commonName>Atrapamoscas Pirata</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pitangus sulphuratus</taxonRankValue>
+                    <commonName>Bichofué</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pitangus lictor</taxonRankValue>
+                    <commonName>Bichofué Chico</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Machetornis rixosa</taxonRankValue>
+                    <commonName>Sirirí Bueyero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Megarynchus pitangua</taxonRankValue>
+                    <commonName>Bichofué Picudo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Myiozetetes cayanensis</taxonRankValue>
+                    <commonName>Suelda Crestinegra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phelpsia inornata</taxonRankValue>
+                    <commonName>Suelda Simple</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Empidonomus varius</taxonRankValue>
+                    <commonName>Atrapamoscas Veteado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tyrannus melancholicus</taxonRankValue>
+                    <commonName>Sirirí Común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tyrannus savana</taxonRankValue>
+                    <commonName>Sirirí Tijeretón</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Myiarchus ferox</taxonRankValue>
+                    <commonName>Atrapamoscas Garrochero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Fluvicola pica</taxonRankValue>
+                    <commonName>Viudita Común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Arundinicola leucocephala</taxonRankValue>
+                    <commonName>Monjita Pantanera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Attila cinnamomeus</taxonRankValue>
+                    <commonName>Atila Canelo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cyclarhis gujanensis</taxonRankValue>
+                    <commonName>Verderón Cejirrufo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cyanocorax violaceus</taxonRankValue>
+                    <commonName>Carriquí Violáceo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pipra filicauda</taxonRankValue>
+                    <commonName>Saltarín Cola de Alambre</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Progne tapera</taxonRankValue>
+                    <commonName>Golondrina Sabanera</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Campylorhynchus griseus</taxonRankValue>
+                    <commonName>Cucarachero Chupahuevos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Troglodytes aedon</taxonRankValue>
+                    <commonName>Cucarachero Común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thryophilus rufalbus</taxonRankValue>
+                    <commonName>Cucarachero Cantor</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cantorchilus leucotis</taxonRankValue>
+                    <commonName>Cucarachero Anteado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Turdus ignobilis</taxonRankValue>
+                    <commonName>Mayo Embarrador</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Turdus nudigenis</taxonRankValue>
+                    <commonName>Mirla Caripelada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Turdus leucomelas</taxonRankValue>
+                    <commonName>Mirla Buchiblanca</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Mimus gilvus</taxonRankValue>
+                    <commonName>Sinsonte Común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Euphonia chlorotica</taxonRankValue>
+                    <commonName>Eufonia Gorgipúrpura</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Euphonia laniirostris</taxonRankValue>
+                    <commonName>Eufonia Gorgiamarilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ammodramus aurifrons</taxonRankValue>
+                    <commonName>Sabanero Zumbador</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ammodramus humeralis</taxonRankValue>
+                    <commonName>Sabanero Rayado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sturnella magna</taxonRankValue>
+                    <commonName>Chirlobirlo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leistes militaris</taxonRankValue>
+                    <commonName>Soldadito</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Psarocolius decumanus</taxonRankValue>
+                    <commonName>Oropéndola Crestada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cacicus cela</taxonRankValue>
+                    <commonName>Arrendajo Culiamarillo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Icterus nigrogularis</taxonRankValue>
+                    <commonName>Turpial Amarillo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Icterus icterus</taxonRankValue>
+                    <commonName>Turpial Venezolano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Molothrus bonariensis</taxonRankValue>
+                    <commonName>Chamón Común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Molothrus oryzivorus</taxonRankValue>
+                    <commonName>Chamón Gigante</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Quiscalus lugubris</taxonRankValue>
+                    <commonName>Chamón Llanero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Gymnomystax mexicanus</taxonRankValue>
+                    <commonName>Turpial Lagunero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sicalis flaveola</taxonRankValue>
+                    <commonName>Canario Coronado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sicalis luteola</taxonRankValue>
+                    <commonName>Canario Sabanero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sicalis columbiana</taxonRankValue>
+                    <commonName>Canario Ribereño</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Volatinia jacarina</taxonRankValue>
+                    <commonName>Espiguero Saltarín</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tachyphonus rufus</taxonRankValue>
+                    <commonName>Parlotero Malcasado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ramphocelus carbo</taxonRankValue>
+                    <commonName>Toche Negro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sporophila intermedia</taxonRankValue>
+                    <commonName>Semillero Piquinegro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sporophila minuta</taxonRankValue>
+                    <commonName>Espiguero Ladrillo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sporophila plumbea</taxonRankValue>
+                    <commonName>Semillero Plomizo</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Este conjunto de datos es el primero de cuatro monitoreo que se proyectan realizar a las especies faunísticas de los grupos (aves, reptiles, anfibios y mamíferos) presentes en los ecosistemas circundantes al área de influencia del proyecto, Línea de Transmisión 115kV y subestaciones Jagüey, Tigana y Jacana, el cual es operado por Petroeléctrica de los Llanos.
+Lo anterior con el objetivo de evaluar la dinámica poblacional de las especies de fauna silvestre a través de la comparación de los monitoreos realizados en el EIA y los monitoreo de seguimiento.
+
+El propósito de publicar estos datos, es el de compartir y dar acceso de los datos recaudados de la zona de influencia del proyecto.</para></purpose>
+        <maintenance>
+            <description>
+                <para>La información compilada y documentada será actualizada cuando esta lo requiera.</para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Diana Carolina</givenName>
+                <surName>Rojas Acosta</surName>
+            </individualName>
+            <organizationName>Petroeléctrica de los Llanos</organizationName>
+            <positionName>Profesional Biótico</positionName>
+            <address>
+                <deliveryPoint>calle 80 No 73a-21</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá</administrativeArea>
+                <postalCode>110221</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dcrojas@pel.com.co</electronicMailAddress>
+            <onlineUrl>https://www.pel.com.co/wp/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">dianarojas1981</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>1. Recolección de información secundaria: Se realiza la recopilación de información secundaria disponible con el fin de tener una aproximación de los grupos de fauna mamíferos, aves, reptiles y anfibios, que confluyen en la región y que pueden tener presencia probable en el área de estudio, teniendo como criterios la región, el área geográfica específica, la distribución y el rango altitudinal de las especies.
+2. Recolección de información en campo: Para obtener registros de las especies presentes en el área de estudio se propone la aplicación de las técnicas de campo para los siguientes grupos biológicos: aves, reptiles, anfibios y mamíferos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Anfibios y Reptiles: 
+a. Puntos de Muestreo
+Se realizaron recorridos en siete puntos de monitoreo establecidos previamente los cuales se visitaron durante los días 2 al 10 de mayo del 2023 para realizar el registro por medio de encuentros libres (VES) para la búsqueda de anfibios y reptiles, (Heyer et al. 1994, Angulo et al. 2006) teniendo en cuenta las coberturas vegetales que se identificaron dentro del área en los municipios de Tauramena y Villanueva (Casanare). Los muestreos se hicieron en 19 transectos, buscando lugares de agregación, reproducción y posible refugio.
+
+b. Recorridos de observación y rastreo
+Se realizaron recorridos diurnos (07:00 a 11:00 h) y nocturnos (17:00 a 21:00 h) para abarcar los diferentes horarios de actividad de los grupos taxonómicos, ya que algunos tienen preferencia por moverse aprovechando la luz del día, y otros por el contrario están mejor adaptados para moverse de noche debido a que son horarios con una mayor humedad y menor temperatura ambiente. Los recorridos se hicieron por senderos con longitudes entre 1 a 3km, de acuerdo con la topografía del lugar y los microhábitats identificados en las caminatas, lo cual permitió el registro directo e indirecto de anfibios y reptiles.
+
+c. Tratamiento taxonómico
+Teniendo en cuenta la información recopilada de cada uno de los grupos de interés en la presente evaluación se utilizó el tratamiento taxonómico como se presenta a continuación: Anfibios: Las especies se encuentran organizadas de acuerdo con el sistema de clasificación de Frost et al., (2006) y para los últimos cambios taxonómicos se realizó la revisión en línea de Frost (2017) (Amphibian Species of the World) y Batrachia (Acosta, 2023). Reptiles: Se tuvo en cuenta los documentos de Peters &amp; Orejas-Miranda (1986), Peters &amp; Donoso-Barros (1986) y Uetz, P. &amp; Jirí Hošek (2021) (The Reptile Database). Las revisiones más específicas se hicieron con base en Ayala (1986) para los lagartos y Medem (1980) y Rueda et al. (2007) para cocodrilos y tortugas.
+
+d. Determinación del estado de conservación:
+Para la clasificación del grado de amenaza de las especies de anfibios y reptiles presentes en el área de interés se tuvo en cuenta la Resolución 1912 de 2017 del MADS, IUCN Red List of Threatened Species (2017), la serie Libros Rojos de Especies Amenazadas de Colombia, el Libro Rojo de anfibios de Colombia (Rueda-Almonacid, 2004), y el libro rojo de reptiles de Colombia (Morles-Betancourt et al, 2015, Castaño-Mora 2002). Para establecer las categorías de comercio se utilizó el Boletín de Apéndices CITES (2013). Para las especies registradas se determinaron sus categorías de riesgo de amenaza con base al libro rojo de reptiles de Colombia (Morales-Betancourt et al, 2015), la UICN (UICN, 2022) y la resolución 1912 de 2017 del MADS, también se tuvo en cuenta si se encontraba en algún apéndice CITES (https://checklist.cites.org/). Para el caso de La Unión Internacional para la Conservación de la Naturaleza UICN agrupa las categorías de riesgo del Ministerio de Ambiente y Desarrollo Sostenible y las del Instituto Von Humboldt.
+
+e. Análisis estadístico: 
+La representatividad del muestreo se estimó empleando el estimador no paramétrico para datos de abundancia Chao 2 y Jackknife1, a través del programa EstimateS 9.0 (Colwell 2013); adicionalmente se calcularon los índices de riqueza de Margalef, equidad de Shannon y dominancia de Berger-Parker.
+Los datos observados en campo fueron organizados en una matriz, donde se incluye las especies registradas y los reportes de abundancia por día de muestreo. Los datos se aleatorizaron para realizar los cálculos. Se emplearon los estimadores CHAO 2 y Jacknife 1; de estos estimadores CHAO 2 se considera el menos sesgado para muestras pequeñas (Villareal et al., 2004). Los resultados obtenidos fueron graficados para comparar las tendencias de las curvas de cada estimador de riqueza con respecto a las especies observadas (Sobs). Estos estimadores se consideran potentes para evaluar la representatividad de una muestra, la incidencia de sesgos por sub-muestreo y posible influencia de la agregación espacial en los datos del estudio (Rojas et al., 2003).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves:
+Para el levantamiento de información se desarrolló una salida de campo entre los días 02 al 11 de mayo, fase en la que se implementaron las diferentes metodologías para realizar el levantamiento de información del componente, para ello se tuvieron en cuenta las técnicas propuestas en el manual de métodos para el desarrollo de inventarios de biodiversidad del Instituto Humboldt (Villarreal et al. 2004). Se realizó la caracterización de la avifauna del área de influencia del proyecto, a través de técnicas de captura con redes de niebla, detección visual y auditiva y puntos de observación, siguiendo los procedimientos sugeridos por el Manual de Métodos para el Desarrollo De Inventarios de Biodiversidad (Villarreal et al. 2004). Las capturas con redes de niebla permiten el reporte de aves pequeñas y crípticas es decir de difícil observación; mientras que los transectos de observación y puntos permiten inventariar la mayor parte de las aves medianas y grandes; así como aquellas en los estratos superiores de la vegetación (Stiles &amp; Rosselli, 1998).
+
+a. RECORRIDOS DE OBSERVACIÓN Y PUNTOS DE CONTEO
+Se realizaron 11 transectos de longitud variable y tiempo restringido (Cuadro 2.3), con el fin de obtener registros de manera directa, ya sea por observación o vocalización, y de forma indirecta como rastros, plumas, nidos, heces, entre otros. Estos recorridos se realizaron en todas las coberturas vegetales definidas para el área de influencia y cada uno fue desarrollado exclusivamente en una cobertura a la vez. Los recorridos se realizaron a una velocidad constante, en horarios de alta y media actividad de las especies, esto es, en la mañana de 06:00 am a 10:00 am, y en la tarde de 3:00 pm a 6:00 pm (Villarreal et al. 2004).
+Cada recorrido al igual que cada punto de observación fue georreferenciado a través de GPS, marcando el punto inicial y final (para recorridos, para puntos de observación al tratarse de un punto aplica una coordenada única) consignando la distancia recorrida (km) y la duración (horas) del mismo, su información se recopilo en los diferentes formatos de campo y en la GeoDataBase (GDB) del proyecto. A continuación, en la Figura 2.2 se presentan los recorridos de observación y los puntos de conteo para la búsqueda y registro de aves asociados a las coberturas vegetales en el área de estudio.
+Para la observación de aves en los transectos se utilizaron binoculares (8 a 10 X 42), cámara fotográfica (zoom 60X) y un celular para grabar algunos cantos de las especies, este último con el fin de obtener las vocalizaciones de aquellas especies que no pudieron ser observadas directamente, en campo y que posteriormente fueron identificadas por su canto consultando bases de datos como Xenocanto (Xeno-canto - Bird sounds from around the world. Xeno-canto Foundation for Nature Sounds., 2022). Durante los transectos se registraron fotográficamente todos los procedimientos realizados para la búsqueda, observación e identificación taxonómica de los ejemplares, con el fin de contar con el suficiente material ilustrativo, el cual será presentado en este capítulo.
+
+b. Puntos de conteo
+Los puntos de conteo son conceptual y teóricamente similares a los transectos, solo que de longitud y velocidad es cero. El objetivo en los puntos de conteo es contar a los individuos una sola vez, y constituyen uno de los métodos más populares para estudiar la abundancia, riqueza, densidad, composición y distribución de las aves (Reynolds et al. 1980, Bibby et al. 1992, Ralph et al. 1996). Para este método se efectuaron 11 puntos (Cuadro 2.3) dando como resultado un esfuerzo de muestreo para esta técnica fue de 11 horas/hombre.
+
+c. Captura con redes de niebla
+Con el fin de complementar el inventario de aves, se instalaron cinco redes de niebla de 12 m de largo x 2,5 m de alto; las redes fueron instaladas según el criterio establecido por el manual de métodos para el desarrollo de inventarios de biodiversidad del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (Villarreal et al. 2004), El muestreo con redes de niebla se efectuó en dos estaciones, teniendo como base las coberturas vegetales representativas. Las redes se colocaron en las horas de mayor actividad de las aves (en la mañana de 06:00 am a 12:00 pm, y en la tarde de 4:00 pm a 6:00 pm), para el presente estudio se realizaron dos replicas por cada sitio de muestreo, con el fin de caracterizar el mayor número de especies posible. Los individuos capturados fueron liberados a su hábitat natural, no se sacrificó ningún individuo durante esta fase de campo. Para la determinación taxonómica de las aves capturadas se empleó la “Guía de Aves de Colombia” (Hilty, 2021), “The Field Guide to the Birds of Colombia” (Mcmullan et al. 2018), Guía ilustrada de la avifauna colombiana (Ayerbe-Quiñones, 2018) y All the Birds of the World (del Hoyo, 2020).
+
+c. Fase post campo
+A partir de los datos obtenidos en campo, se construyó una base de datos donde las especies registradas en donde fueron agrupadas de acuerdo con su clasificación taxonómica, además se incluye información de abundancias y datos ecológicos evaluados. La denominación taxonómica empleada en el presente estudio se basará en los criterios establecidos por la nomenclatura de los Listados de especies, para las aves se empleó el listado de Suramérica con su sigla en inglés (SACC), Colombia (Remsen et al. 2023). los análisis realizados fueron: Análisis de la comunidad y diversidad: Se realizaron índices de diversidad para el componente basándose en atributos de composición, riqueza, abundancia y diversidad, los cuales serán evaluados a nivel de las diferentes unidades de cobertura de la tierra identificadas en el estudio de impacto ambiental y actualizadas en esta fase de campo.
+Curvas de acumulación: para cada el componente aves se realizó una curva de acumulación de especies, mediante el programa estadístico EstimateS 9.1, con las cuales se busca evidenciar la riqueza encontrada en función del esfuerzo de muestreo.
+Esfuerzo de muestreo: El esfuerzo de muestreo para la técnica de detección visual y auditiva, así como los recorridos de observación directa fue entendido como la sumatoria del producto de la distancia recorrida en cada transecto y el tiempo de observación, mientras que el éxito de muestreo se obtuvo al dividir el número de observaciones o registros entre el esfuerzo de muestreo. Para las capturas en redes de niebla, el esfuerzo de muestreo fue calculado en términos de horas-red, donde 1 hora-red corresponde a una red de 12 m abierta durante una hora (Ralph et al. 1996). El esfuerzo de muestreo con esta técnica corresponde entonces a la sumatoria del producto del número de redes y las horas de apertura, mientras el éxito de captura es el cociente entre el número de capturas y el esfuerzo de muestreo.
+Por ultimo, se realizo una descripción especies de interés (endémicas, amenazadas, migratorias, CITES, y de importancia económica, ecológica y cultural), Se procedió a la identificación de las especies que acorde con lo dictado en la normatividad nacional a través de la resolución 1912 (MADS, 2017), son consideradas como amenazadas. Adicionalmente, se consultaron la serie de libros rojos de las aves de Colombia, los cuales clasifican aquellas especies con mayor riesgo de extinción en el país.
+Respecto a las categorías internacionales se consultó la lista roja de especies amenazadas de la UICN (Unión Internacional para la Conservación de la Naturaleza) en donde se manejan ocho categorías: EX (extinto), cuando el último individuo ha muerto; EW (extinto en estado silvestre) cuando solo sobreviven en cautiverio en cautiverio o poblaciones o como poblaciones naturalizadas fuera de su hábitat natural; CR (en peligro crítico), cuando un taxón enfrenta un riesgo extremadamente alto de extinción en estado silvestre en el futuro inmediato; EN (en peligro), cuando no estando en peligro crítico enfrenta un alto riesgo de extinción o deterioro poblacional en estado silvestre en el futuro cercano; VU (vulnerable) cuando la menor evidencia disponible indica que enfrenta un moderado riesgo de extinción o deterioro poblacional a mediano plazo; NT (casi amenazado) cuando según los criterios no satisfacen estar dentro de categorías como EN, CR o VU pero está cercano a calificar como vulnerable en un futuro cercano; LC (preocupación menor) cuando la especie no clasifica en algún tipo de peligro; DD (datos insuficientes) cuando la información disponible es insuficiente para hacer la evaluación (Rodríguez-M et al. 2006). De la misma manera, fueron consultados los apéndices de la Convención Internacional de Especies de Fauna y Flora Silvestre (CITES, Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, 2023) donde el Apéndice I incluye especies de animales y plantas sobre la que pesa un mayor peligro de extinción y se prohíbe el comercio internacional de estas especies; Apéndice II en donde se incluyen especies que no necesariamente estén en peligro de extinción, pero que su comercio podría llevarlas a este estado, por lo tanto se genera una reglamentación estricta para evitar la utilización incompatible con la supervivencia; y Apéndice III en donde se reglamenta el comercio pero necesitando la cooperación de otros países cuyo objetivo es evitar la explotación insostenible o ilegal de estas. Esta consulta permite conocer si alguna de las especies reportadas en campo se encuentra dentro de las reglamentaciones establecidas en este Tratado Internacional.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos
+La información de especies potenciales fue revisada en detalle con la finalidad de depurar, corregir y/o descartar inconsistencias relacionadas con nomenclatura taxonómica desactualizada y registros errados; como resultado de la revisión, fueron estructuradas matrices de información para las especies de fauna silvestre en este caso los mamíferos con presencia probable o comprobada a nivel regional, es decir en altillanura fluvial en el departamento de Casanare, en un rango altitudinal entre 0 y 300 msnm.
+La metodología usada en campo contempló los criterios de la guía “Metodología General para la Presentación de Estudios Ambientales” (ANLA, 2018), del Ministerio de Ambiente, Vivienda y Desarrollo Territorial (MAVDT), hoy Ministerio de Ambiente y Desarrollo Sostenible (MADS), y el “Manual de Métodos para el Desarrollo de Inventarios de Biodiversidad” (Villareal,2006) del Instituto de Investigaciones de Recursos Biológicos Alexander von Humboldt, con el fin de obtener información puntual y exacta de cada una de las especies. Durante la fase de campo, se verificaron los sitios potenciales para el asentamiento de fauna y la respectiva instalación de equipos de captura que forman parte de las metodologías propuestas para el censo de fauna silvestre. De esta forma, se realizaron 21 recorridos de observación directa para evidenciar las especies de mamíferos y se ubicaron 44 puntos que correspondieron a trampas, cámaras y redes de niebla. Adicionalmente, se realizaron dos (2) encuestas semiestructuradas las cuales fueron consideradas como método indirecto para levantar información en campo. Para conocer el ensamble de la mastofauna presente en el área de estudio, en época seca, se aplicaron cinco (5) metodologías soportadas por los autores Painter, et al. (1999), Rabinowitz, (2003), Gallina y López-González, (2011), entre otros; las cuales se describen a continuación.
+a. Recorridos de Observación
+Se realizaron 21 recorridos de observación, los cuales fueron de ancho variable y abarcaron la mayor cantidad del área delimitada por cobertura en búsqueda de observación directa de las especies o por rastros, huellas, heces etc; para aportar un tipo de registro a la lista de riqueza de mamíferos, al momento del avistamiento, se tomó el registro fotográfico del individuo cuando fue posible y datos ecológicos, así como de rastros e indicios, impresiones de huellas, madrigueras, frutos consumidos con marcas de dentición, garras, osamentas, restos de pelo, heces fecales, entre otros. Toda la información recolectada, fue diligenciada en formatos de campo específicos para su posterior análisis
+
+b. Captura con redes de niebla
+Se instalaron ocho (8) redes de niebla de 6,0 x 2,5 m y ojo de malla de 12,0 mm de manera ad libitum en las diferentes coberturas del área de estudio para la captura de mamíferos voladores, desde las 18:00 hasta las 22:00 horas, cada una de ellas fueron debidamente georreferenciadas teniendo en cuenta el sistema de coordenadas planas Magna sirgas- Origen Único Nacional.
+Las redes fueron revisadas cada 15 minutos, teniendo en cuenta el éxito de captura. A los individuos capturados se les tomó medidas de longitud de antebrazo, tibia, calcáneo, oreja, trago, pata con y sin uña, longitud total, uropatagio y hoja nasal (cuando presentó) para la determinación taxonómica, para la cual se utilizó la taxonomía propuesta por Solari et al., 2013 y Ramírez - Chávez .2015, adicionalmente, se tuvo en cuenta la edad, el sexo y estado reproductivo, igualmente se tomó registro fotográfico de los caracteres diagnósticos como la dentición, surcos de las orejas, tipo de hoja nasal (si la presenta), coloración del pelaje y verrugas, finalmente todos los individuos fueron devueltos a su medio natural en el mismo punto donde fueron capturados. Toda la información colectada se consignó en formatos de campo específicos.
+
+c. Captura con trampas Sheman
+Para el muestreo de los pequeños mamíferos se instalaron un total de 18 trampas Sherman a nivel del suelo en áreas que presentaron algún tipo de vegetación de bosque o de crecimiento secundario, las cuales fueron dispuestas en secuencia con una separación aproximada de 5 m y cubiertas con hojarasca para su camuflaje con el fin incrementar el éxito de captura. Se implementaron dos tipos de cebos, uno dulce que consistió en una mezcla de avena en hojuelas, banano, mantequilla de maní, etc y uno salado usando sardinas. Las trampas fueron instaladas en los puntos establecidos, durante cinco (5) noches y se revisaron y recebaron (cuando fue necesario) diariamente en las horas de la mañana. Los individuos capturados fueron sexados, fotografiados, pesados, medidos (cuando fue posible) y determinados a través de guías y claves especializadas (Dos reis, 2007), toda la información se consignó en formatos de campo específicos. Finalmente, cada individuo fue liberado en el lugar de captura o cercano a él.
+
+d. Captura con trampas Tomahawk
+Para la captura de mamíferos de tamaño mediano y grande, se instalaron ocho (8) trampas Tomahawk, las cuales fueron cebadas con atrayentes como sardinas y frutas (banano, mango), siendo claves para atraer especies con diferentes hábitos alimenticios. Dichas trampas se ubicaron en cada uno de los puntos de muestreo, en caminos de tránsito de fauna o en lugares donde se camuflaron fácilmente; cada una de estas trampas estuvo activa durante dos (2) noches por punto de muestreo, siendo revisadas y recebadas (cuando fue necesario) diariamente en las horas de la mañana. Los individuos capturados fueron sexados, fotografiados, pesados, medidos (cuando fue posible) y determinados a través de guías y claves especializadas (Emmons, 1997), (Solari,2013), (Ramírez, 2016) y toda la información se consignó en formatos de campo específicos. Finalmente, cada individuo fue liberado en el lugar de captura o cercano a él.
+
+e. Instalación de cámaras trampa Se instalaron un total de 10 cámaras trampa Bushnell Trophy Cam XLT HD, en zonas que presentaban vegetación arbórea o arbustiva asociada con rastros de comederos, senderos, madrigueras, registro de algún individuo de forma visual o por información de habitantes de la zona. Cada cámara fue instalada mínimo a 20 cm del suelo aproximadamente y buscando que el ángulo fuera lo más abierto posible y así tener una mayor área de captura. Finalmente, cada una fue georreferenciada y se describió el lugar donde se instaló.
+
+f. Métodos complementarios
+Se realizaron dos encuestas como método complementario, teniendo en cuenta éstas como técnica indirecta para registrar información valiosa acerca de las especies con hábitos estacionales y que por algún motivo no se pudieron observar directamente durante la fase de campo; cada una de ellas estuvo dirigida a personal local, teniendo como referente nombres comunes, valor económico o cultural, hábitats frecuentados, épocas del año, abundancias que han sido observadas, posibles usos dados por la comunidad e información adicional; para la realización de encuestas, se contó con la ayuda de un catálogo digital de identificación de especies que contiene fotografías de los mamíferos que se encuentran distribuidos potencialmente para el departamento de Casanare. Las especies identificadas por medio de las encuestas se registraron en formatos de campo específicos para tal fin, anotando datos como nombres comunes usados en la zona.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>GDB
+La información cartográfica asociada al monitoreo de fauna fue estructurada en un Modelo de Almacenamiento Geográfico (MAG), que incorpora las Bases de Datos Geográficas -GDB- y demás información alfanumérica, metadatos y mapas, siguiendo los lineamientos definidos por la Autoridad Nacional de Licencias Ambientales (ANLA), según Resolución 2182 de diciembre de 2016 y la Metodología general para la elaboración y presentación de estudios ambientales (MADS, 2018). El sistema de referencia espacial para el procesamiento y manejo de la información cartográfica corresponde a MAGNA_Colombia_CTM12 (EPSG: 9377), proyección cartográfica Origen Nacional: Marco Geocéntrico Nacional de Referencia MAGNA-SIRGAS, asociado al elipsoide GRS80 (Global Reference System 1980) en el sistema de proyección Transverse Mercator y sistema de coordenadas geográficas GCS_MAGNA, referidas al Datum D_MAGNA.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Área de intervención del proyecto &quot;Línea de transmisión 115 kV y subestaciones Jagüey – Tigana - Jacana, en jurisdicción de los municipios de Tauramena y Villanueva, departamento de Casanare.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los monitoreos de las comunidades faunísticas se realizarán en las diferentes coberturas vegetales de las Áreas de intervención del proyecto donde se realizará la remoción de la cobertura vegetal, especialmente en las coberturas boscosas ubicadas bajo el tendido eléctrico en áreas aledañas a las zonas de intervención. Se realizarán dos salidas al año durante dos años abarcando época seca y de lluvia y en el caso de las aves migratorias se realizarán dos salidas anuales, abarcando la época de migración (enero y octubre).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Cumplimiento a términos de referencia y metodología descrita en la ficha de monitoreo y seguimiento SMB-2 Programa de seguimiento y monitoreo del manejo de fauna silvestre.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="Monitoreo1_Fauna_Línea115kV_PEL">
+                <title>LÍNEA DE TRANSMISIÓN 115kV Y SUBESTACIONES JAGÜEY – TIGANA – JACANA</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Diana Carolina</givenName>
+                    <surName>Rojas Acosta</surName>
+                    </individualName>
+            <userId directory="https://www.linkedin.com/profile/view?id=">dianarojas1981</userId>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Primer monitoreo de fauna registrada para la zona de influencia del proyecto Línea de transmisión 115 kV y subestaciones Jagüey – Tigana - Jacana, en jurisdicción de los municipios de Tauramena y Villanueva, departamento de Casanare, cuyo alcance es la interconexión y operación de una línea de transmisión de energía eléctrica a 115 kV desde la Subestación Jagüey, operada por PETROELECTRICA DE LOS LLANOS LTD SUCURSAL COLOMBIA. El tramo de la línea de transmisión de 115 kV a doble circuito tiene, 97 estructuras en total y una servidumbre de (20 m), donde 10 metros corresponden al eje izquierdo y 10 metros al eje derecho de la línea.</para>
+                </abstract>
+                <funding>
+                    <para>Recursos propios.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Presenta un Área de Influencia Físico-Biótica de 1720,88 ha. En el área de estudio están presentes 15 coberturas, cuatro (4) de las cuales están asociados a territorios artificializados, cinco (5) a territorios agrícolas, dos (3) a coberturas naturales y tres (3) agrupadas como áreas húmedas.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Los monitoreos de las comunidades faunísticas se realizaron en las diferentes coberturas vegetales de las Áreas de intervención del proyecto donde se realizará la remoción de la cobertura vegetal, especialmente en las coberturas boscosas ubicadas bajo el tendido eléctrico en áreas aledañas a las zonas de intervención. Se realizarán dos salidas al año durante dos años abarcando época seca y de lluvia y en el caso de las aves migratorias se realizarán dos salidas anuales, abarcando la época de migración (enero y octubre).</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:18Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/zgpjty">Rojas Acosta D C (2025). Fauna asociada a la Línea de transmisión 115 kV y subestaciones Jagüey – Tigana - Jacana, departamento de Casanare. Version 1.1. Petroeléctrica de los Llanos. Occurrence dataset https://doi.org/10.15472/zgpjty accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>Formatos de Campo</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>Excel</formatName>
+                            <formatVersion>2023</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://www.transfernow.net/dl/20241107pknYbGdM</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>GDB</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>GDB</formatName>
+                            <formatVersion>2023</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://www.transfernow.net/dl/20241107qZDs5anS</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-pel.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

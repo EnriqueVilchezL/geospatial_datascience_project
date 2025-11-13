@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="26776d49-2110-4201-b768-53e661fc2135"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/jbgjpk</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=promigas_eia_jobo-sebastopol</alternateIdentifier>
+        <alternateIdentifier>26776d49-2110-4201-b768-53e661fc2135</alternateIdentifier>
+        <title>Biodiversidad asociada a un Estudio de Impacto Ambiental entre Jobo (Sahagún) y Sebastopol (Medellín)</title>
+        <creator>
+            <individualName>
+                <givenName>Mario Alberto</givenName>
+                <surName>Bermudez Diaz</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional Ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Mario.Bermudez@promigas.com</electronicMailAddress>
+            <onlineUrl>http://www.promigas.com</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Silvestre</givenName>
+                <surName>Campo Rey</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional Ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Silvestre.Campo@promigas.com</electronicMailAddress>
+            <onlineUrl>http://www.promigas.com</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>John</givenName>
+                <surName>Caldas</surName>
+            </individualName>
+            <organizationName>Wood PLC</organizationName>
+            <positionName>Environmental Leader</positionName>
+            <address>
+                <deliveryPoint>Carrera 11 A No 96-51 piso 3,4,5</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (1) 3106370125</phone>
+            <electronicMailAddress>john.caldas@woodplc.com</electronicMailAddress>
+            <onlineUrl>http://www.woodplc.com</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Ivan Andrés</givenName>
+                <surName>Ardila Hoyos</surName>
+            </individualName>
+            <organizationName>Wood PLC</organizationName>
+            <positionName>Biologo</positionName>
+            <address>
+                <deliveryPoint>Carrera 11 A No 96-51 piso 3,4,5</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (1) 3106370125</phone>
+            <electronicMailAddress>ivan.ardila@woodplc.com</electronicMailAddress>
+            <onlineUrl>http://www.woodplc.com</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Sandra Milena</givenName>
+                <surName>Vargas</surName>
+            </individualName>
+            <organizationName>Wood PLC</organizationName>
+            <positionName>Ingeniera Forestal</positionName>
+            <address>
+                <deliveryPoint>Carrera 11 A No 96-51 piso 3,4,5</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (1) 3106370125</phone>
+            <electronicMailAddress>milena.vargas2@woodplc.com</electronicMailAddress>
+            <onlineUrl>http://www.woodplc.com</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Mario</givenName>
+                <surName>Bermudez Diaz</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional Ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Mario.Bermudez@promigas.com</electronicMailAddress>
+            <onlineUrl>http://www.promigas.com</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Wood PLC</surName>
+            </individualName>
+            <organizationName>Wood PLC</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Carrera 11 A No 96-51 Floor 3,4,5</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 1593 0593</phone>
+            <onlineUrl>http://www.woodplc.com</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-05-07
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>En el marco de la elaboración de un Estudio de Impacto Ambiental para un potencial proyecto, que atravesaría los departamentos de Córdoba y Antioquia, con una longitud aproximada de 300 kilómetros, se han realizado diferentes estudios de biodiversidad, incluyendo un Estudio de Impacto Ambiental que evaluó fauna, flora y comunidades hidrobiológicas, un inventario forestal del área de influencia directa junto a las especies de plantas epífitas asociadas. Estos se realizaron a finales del año 2022 por diferentes empresas consultoras. La información contenida en este recurso es un compilado de todos estos estudios relacionados al proyecto.
+</para><para>El proyecto objeto del estudio consiste en la construcción y operación del gasoducto Jobo – Guacharacas, por medio del cual TRANSMETANO E.S.P S.A. pretende conectar los campos de explotación de gas natural ubicados en el Valle Inferior del Magdalena, con el gasoducto existente Sebastopol - Medellín; en el punto conocido como Guacharacas. El proyecto comprende el diseño, los estudios, el licenciamiento ambiental, consulta previa y un programa de arqueología preventiva.</para><para>Este recurso comprende un total de 3.675 registros de biológicos, comprende los reinos, Fungi (89), Plantae (109) y Animalia (3.477).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Cordoba</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Hongos</keyword>
+            <keyword>Antioquia</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=promigas_eia_jobo-sebastopol</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El gasoducto tiene una longitud aproximada de 313.23 kilómetros, desde el municipio de Sahagún, pasando por Pueblo Nuevo, Planeta Rica, Buenavista, La Apartada en Cordoba y desde Caucasia, Cáceres, Zaragoza, Segovia, Remedios, Vegachí, Yalí y Yolombó en Antioquia en un total de 13 municipios.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-75.407</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-74.757</eastBoundingCoordinate>
+                    <northBoundingCoordinate>8.645</northBoundingCoordinate>
+                    <southBoundingCoordinate>6.557</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2022-06-24
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-08-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este recurso contiene la información de 3.675 registros de biológicos, que comprende los reinos Animalia (3.477), Plantae (109) y Fungi (89).
+
+El reino Animalia está distribuido en 4 clases, 34 órdenes, 97 familias, 274 géneros y 348 especies. El 100% de los registros está clasificado a nivel de especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Plantae está distribuido en 6 clases, 37 órdenes, 58 familias, 102 géneros y 109 especies. Posee un 99% clasificado a especie y un 1% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Equisetopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Fungi está distribuido en 5 clases, 10 órdenes, 21 familias, 47 géneros y 72 especies, con un 90% clasificado a especie y un 10% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Dothideomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Ostropales</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Mario Alberto</givenName>
+                <surName>Bermudez Diaz</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional Ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Mario.Bermudez@promigas.com</electronicMailAddress>
+            <onlineUrl>http://www.promigas.com</onlineUrl>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Silvestre</givenName>
+                <surName>Campo Rey</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional Ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Silvestre.Campo@promigas.com</electronicMailAddress>
+            <onlineUrl>http://www.promigas.com</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Flora - parcelas: Se realizaron unidades de muestreo para la vegetación terrestre, con la forma y tamaño de parcelas usadas para el muestreo de la vegetación de tipo arbóreo, arbustivo y herbáceo de la siguiente manera:
+Esfuerzo de muestreo: Se realizará lacaracterización dela vegetaciónterrestre con almenos cinco (5)parcelas porecosistema, o elnúmero requeridopor los términos dereferenciaestablecidos por la Autoridad Ambiental.
+Bosque y Vegetación secundaria alta:
+- Fustales: Parcelas de muestreo de 0,1 ha(1000 m2), en rectángulo de 100 x10 m.
+- Latizales: Parcelas de muestreo encuadrantes de 5 x5m.
+- Brinzal: Parcelas de muestreo encuadrantes de 2 x2m.
+
+Arbustal y Vegetación secundaria baja: 
+- Fustal: Parcelas de muestreo encuadrantes de 10 x 50m (0,05ha).
+- Latizal: Parcelas de muestreo de 5m x 5m(0,025 ha).
+- Brinzal: Parcelas de muestreo de 2m X2m (0,0004 ha).
+
+La forma de las parcelas para las unidades florísticas de bosque y vegetación secundaria alta corresponderán a forma rectangular, dado que esta garantiza una menor relación área perímetro, lo que genera un menor efecto borde, adicionalmente, estas parcelas son fáciles de establecer y se pueden subdividir en parcelas de menor tamaño que permiten el muestreo de otros tipos de vegetación (Vallejo-Joyas, A.C, R., E, &amp; W., 2005). El tamaño varía de acuerdo con las características con las coberturas o los ecosistemas.
+
+Con la parcela establecida se procedió a dar inicio al proceso de recolección de información primaria mediante el uso de formatos de campo. Para fustales se realizó el inventario y medición de todos los individuos con diámetro ≥10 cm diámetro a la altura de pecho (DAP a 1,3 m del suelo), teniendo en cuenta que la parcela de 10x100 m se dividió en 10 subparcelas de 10x10 m, la información se levantó de forma ordenada, evaluando una subparcela a la vez. 
+
+Identificación de especies: Se tratará de identificar a un nivel taxonómico detallado (nivel de especie) los individuos inventariados, siempre y cuando se obtuvo material fértil o que permitió la aproximación a especie. En caso de no identificar la especie en campo se colectará una muestra para su posterior identificación.
+
+Colección del Material Botánico: En los casos en que no sea posible la identificación de las especies en campo con el apoyo de claves dendrológicas o por identificación directa, se procederá a colectar el espécimen biológico, con la ayuda de un cortarramas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Epífitas vasculares y no vasculares: Con el fin de realizar la caracterización de la flora para otras categorías de vegetación como son las plantas de hábitos terrestres, rupícolas y epífitos del grupo de las plantas vasculares (Pteridofitas,Pasifloraceae, Orchidaceae, Araceae, Piperaceae y Bromeliaceae) y del grupo de las no vasculares (líquenes, briofitos, hepáticas y antocerales) se siguieron los parámetros establecidos en las metodologías de la circular 8201-2-808 del 09 de diciembre de 2019 (MASDS, 2019), de la circular 0016 del 31 de diciembre de 2019 (ANLA, 2019) y la Metodología general para la elaboración y presentación de estudios ambientales (MADS, 2018).
+
+Fase de campo: Con el fin de obtener un muestreo de especies de plantas vasculares y no vasculares de hábito epífito, rupícola y terrestre donde se represente la heterogeneidad ecosistémica existente en el áreade intervención del proyecto, se empleó la metodología propuesta por (Gradstein S, et al., 2003). La georreferenciación se realiza mediante el GPS, donde adicionalmente se marcarán los transectosrecorridos en campo mediante la georreferenciación del punto inicial y punto final, empleando elequipo de posicionamiento con la sigla que indica el código de la cuadrilla seguida por el número deparcela y al final se indica con la sigla “i” para el punto inicial y “f” para el punto final.En los formularios se registra toda la información correspondiente a: fecha, cuadrilla,georeferenciación, número de forófito, especie de forófito, estrato en el forófito, morfoespecie,abundancia, código de colección (código único de colección verhoeff), registro fotográfico yobservaciones o características adicionales que se utilizan en el proceso de determinación enlaboratorio.
+
+Muestreo de epífitas en otros sustratos: Para la caracterización de especies epífitas en los sustratos como troncos “habito cortícola”, rocas“habito rupícola” y suelo o barrancos “habito terrestre” se realiza la observación directa de losdiferentes sustratos dentro de los transectos realzados en cada uno de los ecosistemas. En caso deencontrar sustratos con organismos objeto de muestreo, los puntos serán nombrados de la siguientemanera incluyendo la sigla “SP” para indicar la Sub-parcela terrestre/rupícola, seguido por el númerode la parcela, luego el código de la cuadrilla “C” y el número de la sub-parcela.Para obtener los datos de abundancia de acuerdo con (Isaza &amp; Betancur, 2009), en el caso deencontrar estas especies vasculares creciendo sobre los sustratos se realizará el conteo respectivodel número de individuos hallados en el sustrato en un cuadrante de 1 m * 1 m y su abundanciacorresponderá al conteo de los individuos de cada especie y se registró en el formulario asociado asu respectiva parcela. Para el caso de las no vasculares, la toma de medida de la abundancia decada especie mediante el uso plantilla de acetato y se registra en el formulario asociado a surespectiva parcela, adicionalmente a la georreferenciación y registro fotográfico de cada parcela.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fauna: En esta etapa se realizó un desplazamiento al lugar de estudio durante los días 29 de julio al 1 deseptiembre, con el fin de obtener la información suficiente para realizar un diagnóstico de lasespecies de fauna terrestre ubicadas en el área de influencia, intentando obtener información sobreComposición, Abundancia, Diversidad Hábitat y Amenazas de estas especies, para esto se aplicaronun diseño experimental y unas metodologías estandarizadas que fueran adecuadas para darrespuesta a la información antes mencionada.
+Herpetos: Con el fin de documentar la composición y riqueza de las especies de anfibios y reptiles en el área de influencia del proyecto, se llevaron a cabo recorridos en transectos de longitud y ancho variable por las coberturas vegetales de cada una de las unidades de muestreo. En estos transectos se implementó la técnica de inspección por encuentro visual de intensidad media (VES, Visual Encounter Survey) (Crump &amp; Scott, 1994) (Angulo, 2006), la cual es una técnica que consiste en realizar recorridos por un área determinada en busca de los individuos, tratando de abarcar el mayor número de microhábitats disponibles para los anfibios y reptiles dentro de estos hábitats identificados. La mayor ventaja del VES con respecto a otras técnicas similares es que tanto  especies como los individuos pertenecientes a estas tienen igual probabilidad de ser detectados durante cada uno de los eventos de muestreo. Por otra parte, la intensidad media en esta técnica hace referencia a que además de documentar los individuos que son detectados a simple vista, el o los observadores tienen la facultad de remover los diversos objetos que se pueden encontrar en el suelo como troncos, hojarasca, rocas, entre otros, para lograr registrar los individuos que allí puedan ocultarse. Como premisa se tiene que estos objetos removidos deben ser ubicados nuevamente en su posición original para así minimizar el impacto al hábitat (Crump &amp; Scott, 1994). Se realizaron transectos diurnos y nocturnos de un (1) kilometro, estos se llevaron a cabo en los horarios donde se conoce que la herpetofauna tiene mayor actividad, estos son desde las 8:00 de la mañana a 12:00 del mediodía y las 4:00 a las 6:00 de la tarde, teniendo como propósito registrar la mayoría de los reptiles que tienen hábitos matutinos, diurnos o crepusculares, y en las horas de la noche entre las 6:00 a 10:00 pm, con el fin de registrar la mayoría de las especies de anfibios y serpientes nocturnas. Posterior a la detección de un individuo o grupo de estos, se procedió al registro en el formato de campo. Así mismo, se tomaron fotografías de los animales y se registraron las coordenadas del lugar de observación. Todos los recorridos fueron debidamente georreferenciados, anotando los puntos de inicio y fin de cada uno de los transectos recorridos, así como la hora de inicio y final de cada uno de ellos.
+
+Aves: Para la caracterización de la avifauna en el área de influencia se emplearon de manera combinada tres métodos de muestreo con el fin de optimizar el inventario de aves de la zona: el método de muestreo más efectivo y con el cual se obtuvo la mayor cantidad de registros en las diferentes unidades de muestreo fueron los transectos de largo y ancho variable con detecciones visuales y auditivas; como complemento a esta metodología se realizaron puntos de observación y escucha sobre todo en aquellos bloques donde no era posible los desplazamientos largos por las condiciones montañosas de las áreas, y las redes de niebla las cuales fueron complemento a las observaciones hechas en coberturas boscosas (Bosques y Vegetación secundaria) aunque también se realizaron en áreas de bordes entre coberturas donde fuera aplicable ese procedimiento. Las aves fueron muestreadas en la mañana de 5:30 - 10:00 y en la tarde de 15:00 - 19:00, considerándose los mayores picos de actividad de este grupo (Ralph, y otros, 1996).  Recorridos o transectos de observación En primer lugar, la caracterización de aves consiste en la observación directa en transectos de ancho variable efectuado a una velocidad constante, este transecto se realizó en las diferentes coberturas vegetales identificadas en el Área de Influencia del proyecto. Consiste en contar las aves que se observan y escuchan dentro de un transecto de largo de un (1) km, durante el recorrido el profesional y su auxiliar de campo registrará cada ave que observe o se escuche en su formato de campo solo contando las aves que presentan un desplazamiento contrario al trayecto del observador para evitar reconteos (Ralph, y otros, 1996) (Villarreal, y otros, 2004) Los recorridos de observación se realizaron entre las 06:00 y las 10:30, o en la tarde entre las 15:00 y las 18:00 horas, que corresponden a las horas de mayor actividad de las aves (Ralph, et al., 1996). Las especies observadas fueron fotografiadas cuando fue posible.
+
+Redes de niebla:  Se instalaron 10 redes de niebla de 12m de largo x 2.5 de alta y 30 mm de ojo de malla en estaciones ubicadas principalmente en las coberturas de vegetación arbórea y zonas de transición entre coberturas naturales (Gráfica 1-23). Las redes se abrieron desde las 5:30 hasta las 10:00 y de las 16:00 hasta las 18:30 por dos (2) días por unidad de muestreo, y fueron supervisadas cada 20 minutos (cuando las condiciones climáticas lo permitieron, cuando hubo muchas lluvias las redes fueron cerradas para evitar la muerte de los ejemplares capturados). Las aves capturadas fueron dispuestas de forma individual en una bolsa de tela e identificadas por medio de guías de campo como la Guía de campo de las Aves de Colombia (Hilty &amp; Brown, 2001), Guía de Campo de Las Aves de Colombia (McMullan &amp; Donegan, 2014 ), Guía ilustrada de la Avifauna Colombiana (AyerbeQuiñones, 2018)mediante su comparación con las ilustraciones, descripciones de hábitat y distribución geográfica. Los individuos capturados una vez determinados y fotografiados fueron liberados in situ.
+
+Mamíferos: Para el monitoreo directo de mamíferos terrestres se utilizaron el método de trampeo sistemático estandarizado (Solari, Rodríguez, Vivar, &amp; Velazco, 2002)). El método consiste en la utilización de múltiples metodologías de captura considerando el patrón de actividad, locomoción, uso de hábitat, tipo de alimentación, dificultad para su localización y visualización, con la finalidad de minimizar variaciones en los resultados, lo que facilita su comparación y valoración con respecto a posibles impactos, así como la variación que podrían experimentar entre épocas de muestreo (Vasquez, Trucco, &amp; Aguerre, 2014)y aumenta la posibilidad de identificación de diversas especies en un relativo corto tiempo. El monitoreo de la mastofauna se llevará a cabo dividiendo el grupo en tres niveles: pequeños mamíferos voladores (Quirópteros), pequeños mamíferos no voladores (algunos roedores y marsupiales) y medianos y grandes mamíferos (Canidos, primates y felinos entre otros), acorde a las metodologías implementadas.  Redes de niebla para Murciélagos Las redes fueron situadas en zonas de transición entre coberturas naturales buscando sitios estratégicos de paso de murciélagos como quebradas, depresiones en el relieve y bordes de bosques (Villarreal, y otros, 2004). Las redes presentaron una altura de alrededor de 2.5 a 3 metros de alto y su largo dependió del lugar de instalación, sin embargo, se prefirió posturas de 3 redes de 6m de largo en forma de L en los dentro de los parches de cobertura y los bordes de esta, en el caso de las quebradas y de caminos o pasos dentro del bosque las redes se pusieron transversales, en total por unidad de muestreo se colocaron siete (7) redes niebla de 6m.  Trampas de captura tipo Sherman (Mamíferos Pequeños) Para la captura de mamíferos terrestres pequeños, se emplearon 50 trampas tipo &quot;Sherman&quot; en las coberturas vegetales definidas las cuales estuvieron activas por tres (3) Noches consecutivas. Para la instalación de las trampas se identificarán sitios de alto tránsito de mamíferos y madrigueras, con el propósito de aumentar el éxito de captura. La activación de las trampas deberá realizarse por la tarde y la revisión de éstas por la mañana, serán revisadas desde las 06:00 a 09:00 h, donde se recogen los animales capturados y son recebadas diariamente. Las trampas serán cebadas con una mezcla de mantequilla de maní, avena, vainilla, (Nagorsen &amp; Peterson, 1980)Todas las trampas serán georreferenciadas con GPS para su posterior ubicación cartográfica.  Cámaras trampa (Mamíferos Medianos y grandes) Para la detección de mamíferos medianos y grandes, se instalaron cinco (5) cámaras trampa o cámaras de rastreo sensibles al movimiento. Estas cámaras permiten el reconocimiento de animales grandes y medianos que son difíciles de observar directamente, por sus hábitos nocturnos o esquivos. En cada Unidad de Muestreo delimitada, se buscó señales del lugar por el que pasan los animales (p. ej. huellas y excrementos) o realizan sus actividades (p. ej. zonas de alimentación, madrigueras, rascaderos, echaderos, cuerpos de agua). Estos indicios ayudaron a decidir dónde colocar la cámara trampa y en qué dirección apuntarla para enriquecer la captura de imágenes (FMCN, CONAFOR, USAID y USFS, 2018). Las cámaras trampa no se cebaron con el fin de no sesgar el muestreo a un grupo con una dieta en particular. La ubicación de las cámaras-trampa se hizo atendiendo las recomendaciones de (Díaz &amp; Payán, 2012)El dispositivo se instaló cuando fue posible en un árbol que se encuentre a una distancia de tres a cinco metros de donde se identificó el paso de fauna, la cámara trampa se situó a 40 centímetros del suelo, antes de encender la cámara se podo toda la vegetación entre el dispositivo y el paso de fauna para evitar que se activara con el movimiento de plantas y ramas.  Transectos de observación Se efectuaron recorridos (transectos) diurnos y nocturnos de duración Variable y de 1Km de largo variable, en compañía de un auxiliar de campo, en las diferentes coberturas con el fin de registrar todo avistamiento directo de mamíferos y todo rastro o evidencia indirecta tales como huellas, senderos, rasguños, heces, letrinas, comederos, madrigueras, hozaderos, restos óseos, entre otros.  Durante el recorrido se estuvo pendiente de cualquier observación de fauna, los transectos se realizaron en el día y en la noche con el fin de detectar y avistar individuos de fauna, debido a que los mamíferos colombianos suelen tener un hábito de vida críptico estos transectos sirvieron para detectar evidencias secundarias principalmente huellas de animal, aunque en los recorridos también se detectaron excretas y partes de esqueletos. Con el fin que estas evidencias fotográficas sirvieran como váucher biológico todas las fotografías se tomaron siguiendo las recomendaciones de (Navarro &amp; Muñoz, 2000)en el sentido que debe existir una forma de medir la huella y las partes de esta, por lo cual todas las fotos se presentan con una regla o pie de rey que de su tamaño o en caso de que la observación se hiciera sin esta herramienta se usó con un objeto de tamaño conocido (GPS o moneda).  Avistamientos Casuales Durante la salida de campo, existieron encuentros casuales con fauna, en su mayoría estos eventos sucedieron en los recorridos dentro del área de influencia antes de llegar a las unidades de muestreo seleccionadas, estos reportes de fauna debidos al azar, no hacen parte de los esfuerzos de muestreo, sin embargo las especies observadas y los lugares se reportan como puntos de observación en la GDB, serán tenidos en cuenta en la composición de la fauna de la zona, sin embargo no se tendrán en cuenta para los análisis estadísticos y comparaciones ya que no hacen parte del Diseño experimental.  Entrevistas Con el fin de intentar comprender cual es la percepción social que se ve en el área de estudio frente a la fauna, tanto como proveedores de servicios ecosistémicos, como compartir conocimiento de la fauna presente en el área de estudio se realizaron encuestas en los predios donde se ubica el trazado del Gasoducto. La entrevista es quizás el método más utilizado en investigación social. Se puede definir la entrevista como una conversación entre dos o más personas y cuando su objetivo es académico, el entrevistador busca obtener información del entrevistado en referencia a su tema de estudio. De acuerdo con (Sierra, 1998)la entrevista debe ser vista como un acto de comunicación que es dinámico y el cual es influenciado por los contextos sociales particulares de aquellos que participan en ella. (Gallina, 2015), para el presente proyecto se manejaron las técnicas entrevistas individuales o familiares, y la de grupos focales. Se genero una encuesta de fauna en la cual inicialmente se buscó que fuera la población la que identificara la fauna que se observa en el área de estudio, la que utiliza o le molesta, la que había y la que le gustaría mantener y en una segunda etapa se aplicó una segunda parte de la encuesta en la cual se le muestra un catálogo con las especies principales o de fácil reconocimiento por los pobladores para que los pobladores señalen cuales se mantienen en el área.  Para que las entrevistas fueran significativas se realizaron 210 entrevistas para toda el área de influencia, el tamaño de muestra se determina cuando la información vertida en las entrevistas se repite.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Ecosistemas Acuáticos: Para el desarrollo del presente estudio se planteó la realización de XX puntos de muestreo para las comunidades hidrobiológicas, estos fueron escogidos después de la fase de campo cuando se determinó cuáles eran los puntos de Calidad de agua a monitorear los cuales son los mismos para los análisis hidrobiológicos en los cuerpos de agua del área de influencia estos muestreos fueron realizados por el laboratorio MCS, acreditado por el IDEAM, Con fines de caracterización del área, se hizo la selección de 280 puntos de muestreo de calidad de agua, que fueron monitoreados en dos fases (en época de aguas altas o lluvias los meses de julio hasta el mes de septiembre de 2022 y en aguas bajas o periodo seco durante los meses de diciembre a enero del 2023). En cada punto se eligieron zonas de muestreo basadas en los siguientes criterios: • Zonas con alta heterogeneidad en el paisaje, donde las plantas asociadas a ambientes anfibios y la morfología del área presentaran numerosos microambientes de alimentación y refugio que permitan el establecimiento de diferentes especies de las comunidades hidrobiológicas presentes. • Zonas con niveles significativos de agua. Los muestreos se realizaron de acuerdo con las técnicas aprobadas en el Permiso de Estudio para Recolección de Especímenes de Wood y según la Metodologías del MADS-ANLA (2018). para la caracterización de estas comunidades se abarcaron tanto sistemas lénticos como lóticos a lo largo del área de influencia del proyecto.  Perifiton: El perifiton está constituido por algas, hongos, bacterias y protozoos, que se desarrollan en los cuerpos de agua sobre superficies sólidas como rocas, hojas, macrófitas y material alóctono (Romaní 2001). La colecta de muestras de perifiton se realizó mediante el método de remoción por cuadrante, raspando sustratos sumergidos como troncos, piedras y hojas. Para este propósito, se empleó un cepillo y un cuadrante con área de 7,5 cm2; el esfuerzo de muestreo fue de tres (3) raspados por cuadrantepor sustrato encontrado por coriotopo/ día por coriotopo. Posteriormente, los organismos removidos fueronre-suspendidos en un frasco con tapa rosca con solución Transeau (agua destilada, alcohol y formol, mezclados en proporción 6:3:1) y unas gotas de Lugol para facilitar la identificación en el laboratorio. Finalmente, las muestras fueronalmacenadas en una nevera limpia para su posterior traslado al laboratorio Las muestras colectadas fueron analizadas en el laboratorio, mediante homogenización, determinación y conteo mediante uso de un microscopio provisto de cámara fotográfica Palmer Maloney. Para la determinación taxonómica se emplearon entre otras, las siguientes claves: Komarek &amp; Anagnostidis (1997), Komárek &amp; Anagnosti- dis (2005), Cox (1996), Krammer &amp; LangeBertalot (1990), Wehr &amp; Sheat (2011). Para el cálculo de la densidad de organismos, se tuvo en cuenta el número total de área raspadas y el volumen de la muestra. La abundancia de organismos se expresa como Ind/cm2.  Macroinvertebrados bentónicos: Bajo este término se agrupan organismos heterótrofos con tamaños superiores a 0,5 mm (Roldan y Ramírez, 2008). La colecta de bentos se realizó mediante una red surber de 90 cm2, la cual fue colocada sobre el sustrato con la abertura en contra de la corriente, para posteriormente remover el material del lecho, quedando los organismos retenidos en el cono de la red. A fin de hacer el muestreo representativo, se colectaron tres (3) muestras por coriotopo encontrado/día por coriotopoy se registraron las áreas totales muestreadas. El material obtenido fue depositado en bolsas plásticas herméticas rotuladas, fijadas con solución Transeau (agua destilada, alcohol y formol, mezclados en proporción 6:3:1) y teñidas con el colorante Rosa de Bengala; se procedió a su almacenamiento en una nevera limpia y enviadas al laboratorio para su análisis. Las muestras colectadas fueron separadas en tamices de diferente micraje (500 µm y 1,18 mm) y analizadas con ayuda de un microscopio de luz (aumentos de 10X y 40X) y/o estereoscopio según la necesidad. Para la identificación se utilizó bibliografía especializada como: Mc Cafferty (1983), Roldán (1988; 1989 y 2003), claves de la APHA (1992) y Cummins &amp; Merrit (1996) e Integrated Taxonomic Information System (ITIS).  Fitoplancton: El fitoplancton es la comunidad de microorganismos fotosintéticos (algas verdes, rojas, diatomeas, dinoflagelados, cianobacterias), que vive suspendida en la columna de agua, principalmente en la zona fótica (Samanez 2014). Las muestras fueron colectadas con una red de fitoplancton de forma cónica, simple de diámetro de ojo de malla de 25μm, con ayuda de un balde aforado; se filtraron 5 muestras de 25L en cada sitio de muestreo (100m lineales). El esfuerzo de muestreo fue de 125 litros filtrados por sitio de muestreo. Esta red en su parte inferior tiene un colector en el cual se concentra la muestra, la cual fue vaciada en frascos oscuros y posteriormente fijada con solución Transeau (6:3:1). Esta metodología se empleó tanto para cuerpos de agua lénticos y lóticos.  Zooplancton: El zooplancton es el componente animal del plancton y está conformado por organismos generalmente microscópicos y con movilidad limitada (protozoarios tecados, ciliados y flagelados, rotíferos, cladóceros y copépodos). Al igual que las muestras de fitoplacton las muestras fueron colectadas con una red de plancton de forma cónica, simple de diámetro de ojo de malla de 25μm, con ayuda de un balde aforado; se filtraron 5 muestras de 25L en cada sitio de muestreo (100m lineales La muestra colectada se pasó a un envase ámbar y se fijó con solución Transeau (6:3:1). Esta metodología se empleó tanto para cuerpos de agua lénticos y lóticos. La identificación y ubicación taxonómica se realizó con base en claves taxonómicas, dibujos y descripciones como la de Needham &amp; Needham (1962), Bicudo &amp; Bicudo (1970), Prescott (1970), Bourrelly (1981), Parra et al., (1982- 1983), Anagnostidis &amp; Komarek (1985, 1988), Roldán (1989), Lopretto &amp; Tell (1995) y el Integrated Taxonomic Information System (ITIS).  Ictiofauna: Se debe considerar el hecho de que los cuerpos de agua dulce presentes en el trópico varían mucho en cuanto a conductividad eléctrica, oxígeno disuelto, pendiente, visibilidad, profundidad, temperatura, corriente, entre otros. Es por esta razón que no existen metodologías estandarizadas de captura de peces en el país, y las artes de pesca a emplear son dejadas al criterio del investigador.   A esto se le suma que no existe ningún arte de pesca que tenga un porcentaje alto de efectividad a la hora de capturar todas las especies de peces dentro de una comunidad, es decir, tienen un grado de selectividad. Para la metodología de colecta de información de ictiofauna de los cuerpos de agua en el Área del proyecto se tuvo en cuenta que las capturas de peces siempre se ven afectadas por dos factores: o Selectividad del arte de pesca (seleccionando las especies a capturar, sus tamaños y su abundancia relativa) o Diferencias en la eficiencia del arte de pesca entre hábitat (hay artes más efectivos para ambientes lénticos y ambientes lóticos) Teniendo en cuenta las condiciones fisionómicas presentes en las estaciones de muestreo y las recomendaciones metodológicas hechas por, la confederación hidrográfica del Ebro (2005); FAO (2015) y Mojica &amp; Galvis (2002), se adaptaron los procedimientos a fin de obtener mayor eficiencia en los muestreos haciendo uso de redes de arrastre.  En cada estación de muestreo se tomaron datos de incidencia de cada una de las especies, algunos pocos individuos cuya identificación taxonómica no fue posible llevar a cabo con exactitud en campo, fueron transportados en recipientes, con suministro constante de oxígeno para verificar su identificación, ser fotografiados y posteriormente ser liberados a los cuerpos de agua correspondientes. La determinación taxonómica de los ejemplares se hizo con base en artículos científicos, claves taxonómicas especializadas y descripciones propuestas por Gery (1977), Galvis G. et al. (2007), Galvis Et al (2006), Lasso, C. A. (1985), Lasso, C. A. (2004), Lowe-McConell, R. H. (1969), MachadoAllison, A. (1987), Maldonado, J. et al. (2005), Román, B. (1992), Albert J.S. (2001), Albert J.S. (2003), Queiroz et al (2013) entre otros.  Macrófitas:  los macrófitos fueron muestreados mediante colecta manual, en cada punto de monitoreo se estableció un cuadrante de un metro cuadrado y se definieron cinco (5) cuadrantes por coriotopo. Posteriormente se registró el porcentaje de cobertura de cada una de las especies encontradas dentro del área del cuadrante.  Dada la plasticidad fenotípica de la mayoría de las plantas acuáticas y la amplitud del área de inundación de muchos cuerpos de agua de nuestro país, es difícil definir de forma estricta la comunidad de macrófitas en un sistema dado. Debido a estas y otras razones no existe en el país una metodología estandarizada para la evaluación de las plantas acuáticas, es por esto por lo que los criterios de delimitación de esta comunidad dependen enteramente del investigador y de los objetivos del estudio, para el muestreo se realizaron recorridos alrededor de los cuerpos de agua identificando los individuos de esta comunidad. La determinación taxonómica fue realizada en campo y se confirmó posteriormente con base en artículos científicos, revisiones de familias y claves taxonómicas especializadas propuestas por Gentry (1993), Velásquez (1994), Judd et al. (2007), Rial (2009), Cumana (2010), Giraldo (2011), Urquiola (2001), Colecciones en Línea del Instituto de Ciencias Naturales, Facultad de Ciencias, Universidad Nacional de Colombia, entre otros. La nomenclatura taxonómica utilizada sigue la propuesta en Tropicos.org. del Missouri Botanical Garden y para confirmar la validez de los nombres de las especies se consultó The Plant List.org.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>En la caracterización del medio biótico se evaluó las condiciones ecológicas actuales del área de estudio a través de diferentes aproximaciones como zonas de vida, biomas, provincias y distritos biogeográficos, ecosistemas, coberturas de la tierra, fragmentación, fauna asociada y ecosistemas acuáticos, así como la generación de información cartográfica a escala 1:25.000. Se realizó la identificación, descripción y espacialización de ecosistemas estratégicos, sensibles y/o áreas protegidas en el área de estudio.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para el estudio se realizó la evaluación de Flora por medio de parcelas, epífitas vasculares y no vasculares, Fuana (mamíferos, aves y herpetos) y comunidades hidrobiológicas (Perifiton, Macroinvertebrados bentónicos, Fitoplancton, Zooplancton, Ictiofauna y Macrófitas).</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:31Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/jbgjpk">Bermudez Diaz M A, Campo Rey S, Caldas J, Ardila Hoyos I A, Vargas S M, Bermudez Diaz M (2025). Biodiversidad asociada a un Estudio de Impacto Ambiental entre Jobo (Sahagún) y Sebastopol (Medellín). Version 1.4. Promigas S.A E.S.P. Occurrence dataset https://doi.org/10.15472/jbgjpk accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-promigas.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>MCUB</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 164</collectionIdentifier>
+                    <collectionName>Museo de Ciencias de la Universidad El Bosque</collectionName>
+                </collection>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="490af1de-acd8-4679-b9aa-0ba724636d0a"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/b5b3if</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=geopark_llanos_2020_fauna</alternateIdentifier>
+        <title>Caracterización de vertebrados en los departamentos Meta, Casanare y Cundinamarca: APE Llano 87, APE Llanos 123 y APE Llanos 124 (2020)</title>
+        <creator>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Boutique Carbon S.A.S</surName>
+            </individualName>
+            <organizationName>Boutique Carbon S.A.S</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 7 Oeste 3A 80</deliveryPoint>
+                <city>Santiago de Cali</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>info@boutiquecarbon.com</electronicMailAddress>
+            <onlineUrl>http://www.boutiquecarbon.com</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Boutique Carbon S.A.S</surName>
+            </individualName>
+            <organizationName>Boutique Carbon S.A.S</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 7 Oeste 3A 80</deliveryPoint>
+                <city>Santiago de Cali</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>info@boutiquecarbon.com</electronicMailAddress>
+            <onlineUrl>http://www.boutiquecarbon.com</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Dairo</givenName>
+                <surName>Escobar</surName>
+            </individualName>
+            <organizationName>ANDI - CNAB</organizationName>
+            <positionName>Profesional ANDI - CNAB</positionName>
+            <address>
+                <deliveryPoint>Calle 73 # 8 – 13 Piso 7 Torre A</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dairoescobar@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-8327-8670</userId>
+            <role>EDITOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Johanna</givenName>
+                <surName>Velásquez Niño</surName>
+            </individualName>
+            <organizationName>ANDI - CNAB</organizationName>
+            <positionName>Consultora</positionName>
+            <address>
+                <deliveryPoint>Calle 73 # 8 – 13 Piso 7 Torre A</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jvelasqueznino@gmail.com</electronicMailAddress>
+            <role>EDITOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+            <role>OWNER</role>
+        </associatedParty>
+        <pubDate>
+                2025-04-29
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El Estudio de Impacto Ambiental (EIA), denominado &amp;#34;Caracterización de vertebrados en los departamentos de Meta, Casanare y Cundinamarca: APE Llano 87, APE Llanos 123 y APE Llanos 124 (2020)&amp;#34;, tiene como objetivo generar información sobre hábitat críticos asociada a la área de operación de Geopark de Meta, Casanare y Cundinamarca.</para><para>En el marco del Estudio de Impacto Ambiental (EIA) del proyecto, se realizó la caracterización del componente biótico asociado al área de influencia del mismo, y por eso se presenta este conjunto de datos compuesto por 8.677 registros biológicos (7.628 presencias y 1.049 ausencias)  que provienen de muestreos de fauna que se desarrollaron en el año 2020.</para><para>Los municipios con representación son Villanueva (Casanare), Monterrey (Casanare), Tauramena (Casanare), Paratebueno (Cundinamarca), Barranca de Upía (Meta) y Cabuyaro (Meta). El recurso se distribuye taxonómicamente en las clases Amphibia (692), Aves (4.839), Crocodylia (225), Mammalia (1.215), Squamata (495), Testudines (162).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Monitoreo; Transectos; Puntos de observación; Fauna;  Estudio de Impacto Ambiental; EIA; Colombia; Meta; Casanare; Cundinamarca</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=geopark_llanos_2020_fauna</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los municipios con representación son Villanueva (Casanare), Monterrey (Casanare), Tauramena (Casanare), Paratebueno (Cundinamarca), Barranca de Upía (Meta) y Cabuyaro (Meta).</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.172</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.539</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.799</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.252</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2020-11-05
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2020-12-21
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El recurso se distribuye taxonómicamente en las clases Amphibia (692), Aves (4.947), Crocodylia (225), Mammalia (1.528), Squamata (495), Testudines (162), que su vez se encuentran divididos en 33 órdenes, 96 familias, 252 géneros y 321 especies. Del total de registros, el 99,7% está identificado a nivel de especie y el restante a nivel de otros niveles taxonómicos.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Generar información sobre hábitat críticos asociada a la área de operación de Geopark.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Andrés Leonardo</givenName>
+                <surName>Rodríguez Galvis</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Especialista Biótico</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>anrodriguez@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>La gestión de la información de los muestreos de fauna vertebrada incluidas en las 10 bases de datos geográficas revisadas generalmente constan de cuatro (4) tablas de interés del modelo de almacenamiento geográfico (MAG) de ANLA: 2 tablas de atributos de las capas de puntos y transectos de muestreo, 1 tabla con cada registro de los individuos en los muestreos, 1 tabla de resultados del muestreo. Para los monitoreos se consolidó la información a partir de los siguientes protocolos: transectos, entrevistas, puntos de observación, redes de niebla, cámaras trampa y trampa Sherman.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los procesos y actividades llevadas a cabo para el tratamiento de esta información consistió en:</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Exportar cada una de las tablas desde las capas de la GDB y las GDBs a Microsoft Excel.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Ajustar los dominios, calcular campos integrando la información y generando tablas dinamicas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Unificar las tablas de los diferentes bloques.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Homogenizar la información sobre los muestreos asociados principalmente a la descripción taxonomía de las especies y a la caracterización de los criterios de amenaza, endemismo y migración. Debido a las inconsistencias y errores, tanto en la forma (uso de mayusculas, tildes, etc), como en la clasificación taxonomia y categorica. Además, se realizó la actualización de la información de especies amenazadas de cuerdo con la Resolución 0126 de 2024 “Por la cual se establece el listado oficial de las especies silvestres amenazadas de la diversidad biológica colombiana continental y marino costera, se actualiza el comité  Coordinador de Categorización de las Especies Silvestres Amenazadas en el territorio nacional y se dictan otras disposiciones”(Ministerio de Ambiente y Desarrollo Sostenible, 2024). Los ajustes finales se realizaron en el editor de bases de datos de Microsoft Power BI, denominado Power Query.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Generar un informe de Fauna Muestreada en Bloques de Geopark diseñada en Microsoft Power BI.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La delimitación de las áreas de interés se realizó con base en la presencia de varios bloques de explotación y exploración asignados a la empresa GEOPARK. Este estudio agrupa los bloques Llanos 87, Llanos 123, Llanos 124. Los municipios con representación son Villanueva (Casanare), Monterrey (Casanare), Tauramena (Casanare), Paratebueno (Cundinamarca), Barranca de Upía (Meta) y Cabuyaro (Meta).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para el proceso de mapear hábitats críticos se mantienen los criterios del Estándar de Rendimiento PS6 del IFC (2006) y se adaptó la metodología para la definición de Áreas Claves para la Biodiversidad (KBA) descritas brevemente en la introducción de este este documento, de tal manera que se pudiese incorporar la información de muestreos de Fauna, presentada por GEOPARK en sus Estudios de Impacto Ambiental EIA o Informes de Cumplimiento Ambiental (ICA), relevante para los primeros tres (3) criterios: Hábitat importante para Especies Amenazadas, Hábitat importante para Especies Endémicas, Raras o Restringidas, Hábitat globalmente importante para especies migratorias.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Caracterización de vertebrados en los departamentos de Meta, Casanare y Cundinamarca: APE Llano 87, APE Llanos 123 y APE Llanos 124 (2020)</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Andrés Leonardo</givenName>
+                    <surName>Rodríguez Galvis</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>El Estudio de Impacto Ambiental (EIA), denominado &quot;Caracterización de vertebrados en los departamentos de Meta, Casanare y Cundinamarca: APE Llano 87, APE Llanos 123 y APE Llanos 124 (2020)&quot;, tiene como objetivo generar información sobre hábitat críticos asociada a la área de operación de Geopark de Meta, Casanare y Cundinamarca.</para>
+                </abstract>
+                <funding>
+                    <para>GeoPark Colombia S.A.S.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Los municipios con representación son Villanueva (Casanare), Monterrey (Casanare), Tauramena (Casanare), Paratebueno (Cundinamarca), Barranca de Upía (Meta) y Cabuyaro (Meta).</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>En el marco del Estudio de Impacto Ambiental (EIA) del proyecto, se realizó la caracterización del componente biótico asociado al área de influencia del mismo, y por eso se presenta este conjunto de datos compuesto por 8.677 registros biológicos (7.628 presencias y 1.049 ausencias)  que provienen de muestreos de fauna que se desarrollaron en el año 2020.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:06Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/b5b3if">GeoPark Colombia S.A.S., Boutique Carbon S.A.S (2025). Caracterización de vertebrados en los departamentos Meta, Casanare y Cundinamarca: APE Llano 87, APE Llanos 123 y APE Llanos 124 (2020). GeoPark Colombia S.A.S. Occurrence dataset https://doi.org/10.15472/b5b3if accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-geopark.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

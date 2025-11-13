@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="111a2d1e-0efb-4751-b502-78fa7420d3ac"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/li671s</alternateIdentifier>
+        <alternateIdentifier>111a2d1e-0efb-4751-b502-78fa7420d3ac</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=geopark_llanos123_fauna_2023</alternateIdentifier>
+        <title>Monitoreo de fauna del APE Llanos 123: plataformas Saltador y Toritos (2023 - 2024)</title>
+        <creator>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57 601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Tellus Ingeniería S.A.S.</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 84 No. 24 – 77</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6013002836</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Tellus Ingeniería S.A.S.</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 84 No. 24 – 77</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6013002836</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57 601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <surName>Tellus Ingeniería S.A.S.</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 84 No. 24 – 77</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6013002836</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Dairo</givenName>
+                <surName>Escobar</surName>
+            </individualName>
+            <organizationName>ANDI - CNAB</organizationName>
+            <positionName>Profesional ANDI - CNAB</positionName>
+            <address>
+                <deliveryPoint>Calle 73 # 8 – 13 Piso 7 Torre A</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dairoescobar@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-8327-8670</userId>
+            <role>EDITOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Johanna</givenName>
+                <surName>Velásquez Niño</surName>
+            </individualName>
+            <organizationName>ANDI - CNAB</organizationName>
+            <positionName>Consultora</positionName>
+            <address>
+                <deliveryPoint>Calle 73 # 8 – 13 Piso 7 Torre A</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jvelasqueznino@gmail.com</electronicMailAddress>
+            <role>EDITOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57 601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>https://www.geo-park.com/es/</onlineUrl>
+            <role>OWNER</role>
+        </associatedParty>
+        <pubDate>
+                2025-02-28
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El proyecto &amp;#34;Monitoreo de Mastofauna Amenazada para el Área de Intervención de la Plataforma Multipozo Saltador y su vía de acceso, en el Área de Perforación Exploratoria Llanos 123&amp;#34; busca efectuar los estudios de fauna silvestre, cuyo objeto comprendía el monitoreo de fauna silvestre (Aves, Mamíferos, Anfibios y Reptiles en el área de intervención de la Plataforma Multipozo Saltador y su vía de acceso en el APE Llanos 123, en cumplimiento a la medida de manejo establecida en la Ficha PSM-BIO-01-03 de la Resolución N° 01804 del 23 de agosto de 2022 “Por la cual se otorga una Licencia Ambiental y se toman otras determinaciones” al APE Llanos 123, se realizaron los muestreos de fauna para los diferentes grupos aplicando los métodos de muestreo definidos en la ficha de seguimiento.</para><para>En el marco de este estudio, se realizó la caracterización del componente biótico asociado al área de influencia del mismo, y por eso se presenta este conjunto de datos compuesto por 7.851 registros biológicos (7667 presencias y 184 ausencias)  que provienen de muestreos de fauna desarrollados durante el año 2023 y 2024.</para><para>Los municipios con representación son Barranca de Upía y Cabuyaro, ubicados en el departamento de Meta. El recurso se distribuye taxonómicamente en 6 clases: Amphibia (1.598), Aves (4.855) y Crocodylia (108), Mammalia (1.041), Squamata (177), Testudines (71).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Monitoreo; Transectos; Puntos de observación; Fauna; Colombia; Meta; Llanos 123</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=geopark_llanos123_fauna_2023</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>1. Coberturas de la tierra de las áreas de intervención de la Plataforma Multipozo Saltador y su vía de acceso y zonas adyacentes. La cual se encuentra ubicada cerca al municipio de Barranca de Upía-Meta, específicamente en la vereda Las Delicias a una elevación aproximada de 180 m.s.n.m.
+2. Coberturas de la tierra de las áreas de intervención de la Plataforma Multipozo Toritos y su vía de acceso y zonas adyacentes. La cual se encuentra ubicada cerca al municipio de Cabuyaro departamento del Meta, específicamente en la vereda Las Delicias a una elevación aproximada de 180 m.s.n.m.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.977</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.903</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.475</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.353</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-10-23
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-11-07
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El recurso taxonómicamente cubre las clases Amphibia (1598), Aves (4855) y Crocodylia (108), Mammalia (1.041), Squamata (177), Testudines (71), que su vez se encuentran divididos en 33 órdenes, 94 familias, 252 géneros y 315 especies. De los registros con presencia, el 99.9% de los animales están identificados a nivel de especie y solo dos registros están a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Efectuar los estudios de fauna silvestre, cuyo objeto comprendía el monitoreo de fauna silvestre (Aves, Mamíferos, Anfibios y Reptiles) en el área de intervención de la Plataforma Multipozo Toritos y su vía de acceso en el APE Llanos 123, en cumplimiento a la medida de manejo establecida en la Ficha PSM-BIO-01-03 en la Resolución N° 01804 del 23 de agosto de 2022 “Por la cual se otorga una Licencia Ambiental y se toman otras determinaciones” al bloque Llanos 123. Se realizaron los muestreos de fauna del 23 de octubre al 01 de noviembre de 2023 para los diferentes grupos aplicando los métodos de muestreo definidos en la ficha de seguimiento</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Andrés Leonardo</givenName>
+                <surName>Rodríguez Galvis</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Especialista Biótico</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>anrodriguez@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FASE DE CAMPO</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: Con el objeto de identificar la estructura y composición de la avifauna presente en el área de estudio se utilizaron metodologías de muestreo específicas para el registro en campo, basada en el Manual de Métodos para el Desarrollo de Inventarios de Biodiversidad (Villarreal et al., 2006) y siguiendo los lineamientos de la Metodología General para la Elaboración y Presentación de Estudios Ambientales (MADS, 2018), las cuales se describen a continuación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Recorridos de observación: Se realizaron recorridos o transectos de observación de forma constante, los cuales abarcaron diferentes coberturas al interior del área de estudio (Bosques de galería y/o riparios, vegetación secundaria o en transición, palmas de aceites, pastos, herbazales densos, red vial y territorios artificializados y zonas de préstamo lateral), con el fin de registrar aves en sitios con topografía irregular y paisajes con hábitats reducidos. Esta metodología permitió registrar individuos vistos o escuchados durante el trayecto realizado por el observador, tomando la información relacionada con la abundancia, ecología y otra información relevante, así como también el registro fotográfico cuando fue posible.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las observaciones se realizaron en las horas de mayor actividad de las aves, entre las 5:00 a 10:00 horas, y las 15:00 – 18:00 horas (Bibby et al, 2000). Los datos referentes al tipo de cobertura vegetal, posición o estrato en la que el ave fue observada también se priorizó como información de campo, la cual fue consignada en formatos de campo específicos. La identificación de las especies estuvo apoyada en la experiencia del observador y las guías de campo mencionadas en la metodología por captura de individuos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Captura con redes de niebla: Para la captura de aves se instalaron cinco (5) redes de niebla de 12 x 2,5 m y 34 mm de ojo de malla en lugares específicos de alto tránsito de individuos, abiertas en horas de mayor actividad comprendiendo las 05:30 hasta las 10:00 horas y las 15:00 y las 18:00 horas y revisión cada 20 o 30 minutos, cuya funcionalidad por unidad vegetal muestreada comprendió los tres (3) días consecutivos por unidad vegetal (Villarreal et al, 2006).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las redes fueron ubicadas en las áreas de coberturas de bosque de galería y/o ripario, vegetación secundaria o en transición y pastos, alguna de ellas instaladas de manera consecutiva o de forma interrumpida en áreas que constituyen ecotonos y zonas de transición entre un ambiente y otro con el fin de atrapar los individuos que pasan volando por los sitios seleccionados (Ralph et al, 1996; Villarreal et al, 2006). Las aves capturadas en las redes se extraen de forma cuidadosa según el procedimiento sugerido por Ralph et al, 1996 con ayuda de bolsas de tela, priorizando aves pequeñas como colibríes.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La identificación de los individuos se realizó mediante la revisión de guías de campo, basados en el reconocimiento de patrones de forma y color en comparación con ilustraciones y descripciones de los libros Field guide to the birds of Colombia (Hilty &amp; Brown, 2001), Birds of Northern South America: An Identification Guide (Restall et al, 2006) y la Guía de Campo de las Aves de Colombia. Posteriormente se procede a tomar registro fotográfico, datos ecológicos para liberación del individuo en el lugar de la captura.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Esfuerzo de muestreo: Para monitorear la avifauna se consideraron las coberturas de la tierra identificadas del área del proyecto correspondiendo a bosques de galería y/o riparios (Bgr), vegetación secundaria o en transición (Vst), palmas de aceites (Pac), pastos (P), herbazales densos (Hd), red vial y territorios asociados (Rv) y zonas de préstamo lateral (Zpl). En estas se implementaron las metodologías de redes de niebla para capturar individuos de aves y los transectos de observación para individuos observados/escuchados. El tiempo de muestreo por unidad vegetal comprendió tres (3) días efectivo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para el esfuerzo de muestreo acumulado para el registro de la avifauna se obtuvo un total de 30,9 km/22,48 horas/hombre acumuladas resultado de la implementación de los recorridos y transectos de observación. Las capturas de individuos, para las cinco (5) redes de niebla instaladas por unidad vegetal (Bgr – P - Vst) arroja un esfuerzo de 360 horas/red.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Puntos de muestreo: Se presenta la georreferenciación de puntos y aplicación de las diferentes técnicas de muestreo para el registro de especies.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: Recorridos de observación: Se realizaron recorridos de observación, tanto diurnos como nocturnos, en cada una de las coberturas vegetales para buscar rastros, huellas, heces, pelos, madrigueras, restos alimenticios, entre otros. Para la identificación de los rastros se consultaron las guías de huellas de algunos mamíferos terrestres de Colombia. Todas las evidencias halladas en campo fueron fotografiadas y georreferenciadas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la identificación de los mamíferos pequeños y medianos, se consultó la clasificación taxonómica. Se revisaron los listados de la Resolución 1912 del 2017 (MADS, 2017), Libro rojo de mamíferos de Colombia (Rodríguez-Mahecha et al., 2006), lista roja de la UICN (IUCN, 2022), los Apéndices de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre (CITES, 2022).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Captura con redes de niebla: Para la implementación de la captura de murciélagos se efectuaron muestreos nocturnos, instalando hasta tres redes de niebla (12 m x 3 m ojo de malla 30 mm). Las redes instaladas se georreferenciaron con un GPS y permanecieron abiertas entre las 17:30 h y las 21:30 h (este horario pudo variar por el clima y actividad de los murciélagos), siendo revisadas en intervalos entre 15 y 20 minutos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los murciélagos capturados fueron manipulados e introducidos en bolsas de tela, a cada individuo capturado se le tomaron medidas morfológicas como longitud del antebrazo (AB), se determina su sexo (macho/hembra) y se describieron aspectos morfológicos como coloración del pelaje, características dentarias. Se les tomó registro fotográfico y posteriormente fueron liberados los individuos en los mismos sitios de captura. Para su identificación se tuvo apoyo en las claves taxonómicas (Tirira, 2007) y (Solari et al., 2013b).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Captura con trampas Sherman: Para la captura de mamíferos pequeños en cada cobertura vegetal, se instalaron 20 trampas Sherman plegables de tamaño mediano (27,5 x 8 x 9,5 cm). Fueron ubicadas con distancia entre tres y siete metros cerca de troncos caídos, raíces, madrigueras, en orillas de fuentes de agua y ramas de árboles (Simmons &amp; Voss, 1998). La selección de los sitios, así como la disposición de las trampas se basa en el criterio del investigador.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Todas las trampas, se revisaron y recebaron cada día en horas de la mañana a fin de evitar muertes de individuos por ahogamiento o inanición. Como cebo se usaron frutas (banano, guayaba) o una mezcla de avena, granola, crema de maní y esencia de banano, vainilla y mantequilla. Todas las trampas fueron señalizadas y mapeadas para su fácil ubicación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cámaras trampa: Se instalaron un total de 10 cámaras trampa de referencia Bushnell. Las cámaras fueron instaladas cerca a fuentes de agua o posibles pasos de fauna (caminos, rastros como comederos y madrigueras), los cuales se seleccionaron a partir de los hábitos y alimentación de las especies como: carnívora, frugívora, omnívora, insectívora, herbívora, entre otros. Las cámaras estuvieron activas las 24 horas del día y fueron ubicadas a 50 cm aproximadamente del nivel del suelo, posterior a esto se despejaron entre 3 y 5 metros delante de la ubicación de las cámaras para obtener imágenes que permitieran una identificación eficiente de estos registros la independencia de registros se garantiza teniendo en cuenta únicamente registros separados por intervalos de más de 60 minutos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Esfuerzo de muestreo: En las coberturas vegetales identificadas en el área de estudio, las especificas del área de intervención para el muestreo de mamíferos silvestres, se realizaron muestreos en: Bgr (Bosque de galería y/o ripario), Vs (Vegetación secundaria alta y baja) P (Pastos arbolados, enmalezados y limpios), Hd (Herbazales Densos Inundables no arbolados), Pac (Palma de aceite), Zpl (Zonas de préstamo lateral) y Rv (Red vial y territorios asociados).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El esfuerzo de muestreo en las coberturas de Bgr (Bosque de galería y/o ripario), Vs (Vegetación secundaria alta y baja) P (Pastos arbolados, enmalezados y limpios) fue de tres (3) días en cada una y por cada metodología aplicada, en cuanto a las coberturas de Pac (Palma de aceite), Zpl (Zonas de préstamo lateral) y Rv (Red vial y territorios asociados) fue de un día aplicando recorridos de observación diurnos y nocturnos. Los recorridos de observación permitieron el registro directo e indirecto de los mamíferos grandes y medianos. Esto se llevó a cabo mediante observación y la búsqueda de rastros, huellas, heces, madrigueras, comederos, marcas en árboles y sendas, se realizaron recorridos en cada cobertura vegetal de interés, comprendidos en los horarios entre las 07:00 a 17:00 h.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Puntos de muestreo: En la fase de campo se realizó la georreferenciación de la instalación de equipos y aplicación de las diferentes técnicas de muestreo para el registro de mamíferos silvestres.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Anfibios y Reptiles: Recorridos de observación
+Para la caracterización del componente de Herpetofauna (anfibios y reptiles) presentes en el área de influencia del proyecto, se realizaron recorridos libres por unidad de tiempo durante nueve días consecutivos (entre el 02 de noviembre y 10 de noviembre del 2023), en dos intervalos de tiempo, el primero en las horas de la mañana entre las 7:00h a 10:00h y el segundo en las en horario crepuscular y nocturno entre las 17:00h y 21:00h. Cada recorrido se realizó de forma unidireccional para evitar reconteo de individuos y sobreestimación poblacional. El trabajo de campo fue realizado por un herpetólogo y un auxiliar, los recorridos por cobertura se separaron según la complejidad de estas mismas, para las coberturas Bosque de galería y/o ripario, Vegetación secundaría y Pastos se emplearon dos días con tres horas efectivas y tres noches con nueve horas efectivas por cada recorrido, para las coberturas Herbazal denso inundable arbolado, Red vial y terrenos asociados y Zona de préstamos lateral se implementó un día por cobertura con tres horas efectivas para cada una, los recorridos se nombraron según la cobertura y tipo de muestreo, se usó la nomenclatura TH1-HEB (Track Herpetos 1 – Herbazal denso inundable arbolado), para la cobertura Palma de aceite se usaron las siglas PAC, para la cobertura Herbazal denso inundable arbolado se usó las siglas HE, para la cobertura Pastos se usaron la sigla PA, para la cobertura Bosque de galería y/o ripario se usaron las siglas BG, para la cobertura Vegetación secundaría se usó las siglas VS, para la cobertura Zona de préstamo lateral se usaron las siglas ZP y para la cobertura Red vial se usaron las siglas Rv.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En cada transecto se implementó el método de Registro por Encuentros Visuales (Heyer et al., 1994), el cual consiste en realizar una búsqueda activa y estandarizada de anfibios y reptiles en los diversos microhábitats presentes en el área como rocas, hojarasca, troncos caídos, arroyos, lagunas. Al mismo tiempo, se implementó el método de Registro por Encuentros Acústicos (conocido comúnmente como Transectos de Banda Auditiva) el cual se basa en la detección de especies de Anuros por medio de las vocalizaciones emitidas por machos adultos para atraer a las hembras durante la época reproductiva (Angulo et al., 2006). Estos métodos son eficientes en el monitoreo de anfibios y reptiles debido a que maximiza el número de ejemplares registrados (avistados y/o escuchados) por unidad de tiempo (Doan, 2003; Veith &amp; Lötters, 2014), por lo que, estas metodologías fueron implementadas durante los recorridos, tal como se observa en las siguientes fotografías.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Esfuerzo de muestreo
+En total se reportaron seis coberturas dentro del área de influencia de la plataforma Multipozo Saltador y su vía de acceso del APE-Llanos-123. Estas coberturas fueron: Bgr (Bosque de galería y/o ripario), P (Pastos), Rv (Red vial y territorios asociados), Pac (Palma de aceite), Vs (Vegetación secundaría), Hd (Herbazal denso inundable arbolado), Zpl (Zonas de préstamo lateral). Para las coberturas con mayor complejidad de paisaje (Bgr, Vs y P) se invirtieron tres días de muestreo, para las coberturas con mayor simplicidad ecosistémica e intervención antrópica (Pac, Hd y Zpl) se invirtió un día de muestreo. El estudio se realizó usando la metodología de búsqueda por encuentro visuales (VES) y registro por encuentro auditivo (REA), estas metodologías permitieron registrar el mayor número de individuos tanto de anfibios como de reptiles en el tiempo empleado por transecto, logrando obtener registros directos por observación y registros indirectos por medios auditivos para el grupo Anuros.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para las coberturas Bgr, Vs y P se implementó un esfuerzo de muestreo de tres a cinco horas efectivas por día, generando un total de 12 horas/hombre por cada cobertura, para las coberturas Pac, Hd, Rv y Zpl se implementó un esfuerzo de muestreo de tres horas efectivas día con un total de 3 horas/hombre por cobertura. El día efectivo de muestreo se repartió en dos franjas horarias, tres horas diurnas entre las 7:00hrs hasta las 10:00hrs, esto con el fin de registrar especies diurnas como reptiles y algunos anfibios, la segunda franja horaria fue desde las 18:00hrs hasta las 21:00hrs con el fin de generar la mayor cantidad de registros para anfibios y especies nocturnas de reptiles.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El éxito del muestreo se midió por individuos registrados en cada hora/hombre empleada, encontramos que la cobertura con el mayor éxito de muestreo fue P (pastos) con 23.33 individuos por hora-hombre muestreada, seguida de Bgr (Bosque de galería y/o ripario) y Vs /Vegetación secundaría) con un éxito de 15.42 y 14.08 individuos por hora-hombre respectivamenta, por último, el resto de coberturas Pac (Palma de aceite), Hd (Herbazal denso inundable arbolado), Rv (Red vial y territorios asociados) y Zpl (Zona de préstamos laterales) obtuvieron un éxito de muestreo menor a 6 individuos por hora-hombre, en total se obtuvo un éxito de muestreo de 16.10 individuos por hora-hombre para toda el área de influencia del proyecto. Este resultado es dado por la complejidad de cada cobertura y los nichos ecológicos disponibles que estas coberturas pueden otorgar para el establecimiento del ensamblaje de anfibios y reptiles presentes en el departamento del Meta, donde la cobertura P presenta una mayor disponibilidad de microhábitats para las especies que presentaron mayores abundancias (especies de las familias Hylidae y Leptodactylidae) (Aponte Gutiérrez et al., 2019; Pedroza-Banda et al., 2014).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Durante la fase de campo se realizó la georreferenciación los recorridos usando la metodología de búsqueda por encuentro visuales (VES) y registro por encuentro auditivo (REA), estas metodologías permitieron registrar el mayor número de individuos tanto de anfibios como de reptiles en el tiempo empleado por transecto, logrando obtener registros directos por observación y registros indirectos por medios auditivos para el grupo Anuros.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FASE POST-CAMPO</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: La identificación de los individuos de aves capturados y observados se realiza con la ayuda de comparaciones de los patrones de forma y color en las ilustraciones y descripciones dadas para cada especie en la Guía de las aves de Colombia (Ayerbe-Quiñones, 2022; McMullan et al, 2023; Hilty &amp; Brown, 2001) y Birds of Northern South America An Identification Guide (Restall et al, 2006). Se utiliza la clasificación sistemática y de nomenclatura actualizada siguiendo al comité Suramericano de las Lista de Aves de Suramérica SACC Classification en su versión más actual (Remsen, 2023). En cuanto a aspectos ecológicos de la comunidad muestreada, las especies identificadas se agruparon en los (8) gremios tróficos, insectívoros (ins), frugívoro (fru), nectarívoro (nec), carroñero (carr), omnívoro (o), piscívoros (Pis), granívoro (g), y carnívoro (c), con el fin de analizar su relación con el ambiente (Restall, et al, 2006; Hilty &amp; Brown, 2001).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: Con los datos obtenidos en campo como: las medidas corporales y registros fotográficos, se realizará la determinación taxonómica de los murciélagos utilizando la clave de murciélagos de Sudamérica de (Díaz et al., 2016). Para generar las listas de especies en general para el grupo de mamíferos, con la taxonomía actualizada como la usada en Ramírez-Chaves et al., 2021. Para identificar las categorías de amenaza de cada especie a nivel nacional se siguió la resolución 1912 de 2017 (Ministerio de Ambiente y Desarrollo Sostenible 2017) y a nivel global la lista roja de la IUCN (www.iucnredlist.org). Para la condición de endemismo se siguieron las referencias (Ramírez-Chaves et al., 2021; Solari et al., 2013a).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Anfibios: Los especímenes observados fueron fotografiados cuando fue posible e identificados in-situ con base en la experiencia del profesional. Algunas especies no se identificaron a primera instancia, por lo que fueron capturadas e inspeccionadas para fotografiar los caracteres diagnósticos necesarios para su debida identificación, la identificación y tratamiento taxonómico se llevaron a cabo por las guías de campo de Angarita et al., (2013) y Ospina-Sarria et al., (2014), el trabajo de revisión de O. de Sá et., (2014) y la revisión en línea de Frost (2023) (Amphibian Species of the World) y Batrachia (Acosta, 2023).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Reptiles: Los especímenes observados fueron fotografiados cuando fue posible e identificados in-situ con base en la experiencia del profesional. Algunas especies no se identificaron a primera instancia, por lo que fueron capturadas e inspeccionadas para fotografiar los caracteres diagnósticos necesarios para su debida identificación, la identificación y tratamiento taxonómico se llevaron a cabo por las guías de campo de Angarita et al., (2013) y Ospina-Sarria et al., (2014), y la revisión en línea de Uetz, P. &amp; Jirí Hošek (2023) (The Reptile Database). Las revisiones más específicas se hicieron con base en Ayala (1986) para los lagartos y Medem (1980) y Rueda et al. (2007) para cocodrilos y tortugas.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Coberturas de la tierra de las áreas de intervención de la Plataforma Multipozo Saltador y Plataforma Multipozo Toritos y sus vías de acceso y zonas adyacentes. Las cuales se encuentra ubicadas cerca al municipio de Barranca de Upía-Meta y Cabuyaro respectivamente, específicamente en la vereda Las Delicias a una elevación aproximada de 180 m.s.n.m.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Las diferentes metodologías empleadas en campo para el levantamiento de información de fauna terrestre, se basó en el Manual de Métodos para el Desarrollo de Inventarios de Biodiversidad (Villarreal et al., 2006), la Metodología General para la Elaboración y Presentación de Estudios Ambientales y los estudios anteriores como el Estudios de Impacto Ambiental para el Área de Perforación Exploratoria Llanos 123 (APE Llanos 123), realizado en noviembre de 2021 (Tellus Ingeniería S.A.S. 2021) y el Plan de Manejo Ambiental para la construcción y operación de la Plataforma Multipozo Saltador y su vía de acceso en el Área de Perforación Exploratoria Llanos 123.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Con el objetivo de obtener una alta representatividad en los registros y lograr una efectividad de muestreo con los métodos planteados y que esta sea comparable con los monitoreos posteriores al actual, el muestreo de fauna terrestre se llevó a cabo en las coberturas vegetales propuestas a evaluar las cuales son las especificas del área de intervención del proyecto.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Monitoreo de Mastofauna Amenazada para el Área de Intervención de la Plataforma Multipozo Saltador y su vía se acceso, en el Área de Perforación Exploratoria Llanos 123</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Andrés Leonardo</givenName>
+                    <surName>Rodríguez Galvis</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>El proyecto &quot;Monitoreo de Mastofauna Amenazada para el Área de Intervención de la Plataforma Multipozo Saltador y su vía se acceso, en el Área de Perforación Exploratoria Llanos 123&quot; busca efectuar los estudios de fauna silvestre, cuyo objeto comprendía el monitoreo de fauna silvestre (Aves, Mamíferos, Anfibios y Reptiles en el área de intervención de la Plataforma Multipozo Saltador y su vía de acceso en el APE Llanos 123, en cumplimiento a la medida de manejo establecida en la Ficha PSM-BIO-01-03 de la Resolución N° 01804 del 23 de agosto de 2022 “Por la cual se otorga una Licencia Ambiental y se toman otras determinaciones” al APE Llanos 123, se realizaron los muestreos de fauna para los diferentes grupos aplicando los métodos de muestreo definidos en la ficha de seguimiento.</para>
+                </abstract>
+                <funding>
+                    <para>Geopark Colombia S.A.S.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Coberturas de la tierra de las áreas de intervención de la Plataforma Multipozo Saltador y Plataforma Multipozo Toritos y sus vías de acceso y zonas adyacentes. Las cuales se encuentra ubicadas cerca al municipio de Barranca de Upía-Meta y Cabuyaro respectivamente, específicamente en la vereda Las Delicias a una elevación aproximada de 180 m.s.n.m.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Para dar cumplimiento a las obligaciones establecidas por la Autoridad Nacional de Licencias Ambientales – ANLA en la resolución N° 01804 del 23 de agosto de 2022 “Por la cual se otorga una Licencia Ambiental y se toman otras determinaciones” al bloque Llanos 123, se realiza el Monitoreo de mastofauna amenazada para el “Área de intervención del proyecto Toritos en el Área de Perforación Exploratoria Llanos 123, localizado en el municipio de Barranca de Upía (departamento de Meta)”, en cumplimiento a la medida de manejo establecida en la Ficha PSM-ECT-08. El muestreo de la presencia/ausencia y la abundancia relativa de las especies tiene el propósito fundamental de establecer la composición general de la comunidad en el sitio muestreado y evaluar las fluctuaciones anuales. Los datos se manejan en forma conjunta (composición conjunta), obteniéndose una matriz que muestra una lista de especies presentes por sitio de muestra y su abundancia relativa. Estas matrices pueden compararse luego entre sitios muestreados, diferentes hábitats o con las zonas seleccionadas. Las especies pueden agruparse y compararse de acuerdo con los grupos de alimentación (e.g. frugívoros, insectívoros)</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:53Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/li671s">GeoPark Colombia S.A.S., Tellus Ingeniería S.A.S. (2025). Monitoreo de fauna del APE Llanos 123: plataformas Saltador y Toritos (2023 - 2024). Version 1.2. GeoPark Colombia S.A.S. Occurrence dataset https://doi.org/10.15472/li671s accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Villarreal, H., Álvarez, M., Córdoba, S., Escobar, F., Fagua, G., Gast, F., Mendoza, H., Ospina, M. &amp; Umaña, A. 2006. Manual de métodos para el desarrollo de inventarios de biodiversidad. Programa de inventario de biodiversidad. Instituto de investigación de recursos biológicos Alexander Von Humboldt. Bogotá, p. 235.</citation>
+                <citation>Bibby, C. J., Burgess, N. D., Hillis, D., Hill, D. &amp; Mustoe, S. 2000. Bird Census Techniques. Academic Press, London</citation>
+                <citation>Ralph, C. J., Geupel, G. R., Pyle, P., Martin, T. E., DeSante, D. F., &amp; Milá, B. 1996. Manual de métodos de campo para el monitoreo de aves terrestres. Gen. Tech. Rep. PSW-GTR159. Albany,CA: Pacific Southwest Research Station, Forest Service, U.S. Department of Agriculture, 46 p.</citation>
+                <citation>Restall, R., Rodner, C. &amp; Lentino, M. Birds of Northern South America an Identification guide. Volume 2. Yale University Press, New Haven. 2006. 656 p.</citation>
+                <citation>Hilty, S. &amp; Brown, W. Guía de las aves de Colombia. New Jersey: Princeton University Press, 2001. 836 p.</citation>
+                <citation>MADS. (2017). Resolución 1912 del 15 de septiembre de 2017. “Por la cual se establece es listado de las especies silvestres amenazadas de la biodiversidad biológica colombiana continental y marino costera que se encuentran en el territorio nacional y se dictan otras det. Bogotá D.C.: Ministerio de Ambiente y Desarrollo Sostenible.</citation>
+                <citation>Navarro P., J. F., Arias-Alzate, A., &amp; Delgado-V, C. (2021). Huellas y rastros de los mamíferos de Colombia. Medellín, Colombia: Universidad CES.</citation>
+                <citation>Rodríguez-Mahecha, J. V., M. Alberico, F. Trujillo y J. P. Jorgenson. 2006. Libro rojo de los Mamíferos de Colombia. Serie de Libros Rojos de especies amenazadas de Colombia. Conservación Internacional Colombia y Ministerio de Ambiente, Vivienda y Desarrollo Territorial. Bogotá, Colombia. 433 pp.</citation>
+                <citation identifier="https://www.iucnredlist.org/">IUCN. 2022. The IUCN Red List of Threatened Species. Version 2022-2. Obtenido de The IUCN Red List of Threatened Species. Version 2022-2.: &lt; https://www.iucnredlist.org/&gt;</citation>
+                <citation>CITES. 2022. Convención sobre el comercio internacional de especies amenazadas de fauna y flora silvestres: Apéndices I, II y III en vigor a partir del 22 de junio de 2022. Ginebra, Suiza.</citation>
+                <citation>Tirira, D. G. 2007. Mamíferos del Ecuador. Guía de campo. Ediciones Murciélago Blanco. Publicación Especial de los Mamíferos del Ecuador 6. Quito.</citation>
+                <citation>Solari, S., Muñoz-Saba, Y., Rodríguez-Mahecha, J. V., Defler, T. R., Ramírez-Chaves, H. E., &amp; Trujillo, F. (2013)a. Riqueza, endemismo y conservación de los mamíferos de Colombia. Mastozoología Neotropical, 20, 301-365.</citation>
+                <citation>Heyer, R. W., Donelly, M. A., Mcdiarmid, R. W., Hayek, L.-A. C., &amp; Foster, M. S. (1994). Measuring and Monitoring Biological Diversity: Standard Methods for Amphibians. Washigton D.C: Smithsonian Institution Press.</citation>
+                <citation identifier="www.omacha.org">Angulo, A., Vicente, J., José, R.-A., Rodríguez-Mahecha, V., La, E., &amp; Bogotá, M. E. (2006). Conservación internacional serie Manuales para la Conservación 2 Técnicas de inventario y Monitoreo para los anfibios de la región Tropical andina. www.omacha.org</citation>
+                <citation>Doan, T. M. (2003). Which Methods Are Most Effective for Surveying Rain Forest Herpetofauna? In Source: Journal of Herpetology (Vol. 37, Issue 1).</citation>
+                <citation identifier="https://www.researchgate.net/publication/238776519">Veith, M., &amp; Lötters, S. (2014). Measuring and monitoring amphibian diversity in tropical forests. II. Estimating species richness from standardized transect censing The invasive Asian common toad (Duttaphrynus melanostictus) in Madagascar View project Linking biodiversity and carbon stocks in the Betampona special reserve to understand REDD+ mechanism in small centres of endemism View project Mark-Oliver Rödel Museum für Naturkunde-Leibniz Institute for Research on Evolution and Biodiver…. https://www.researchgate.net/publication/238776519</citation>
+                <citation>Aponte Gutiérrez, A. F., Niño Cárdenas, L., &amp; Arias Escobar, A. (2019). Diversidad de anfibios y reptiles en la región de la Serranía de Manacacías, municipio de San Martín (Meta), Orinoquía colombiana. Colombia Diversidad Biótica, XVII.</citation>
+                <citation identifier="https://doi.org/10.18257/raccefyn.37">Pedroza-Banda, R., Ospina-Sarria, J. J., Angarita-Sierra, T., Anganoy-Criollo, M., &amp; Lynch, J. D. (2014). Estado del conocimiento de la fauna de anfibios y reptiles del departamento de Casanare, Colombia. Revista de La Academia Colombiana de Ciencias Exactas, Físicas y Naturales, 38(146), 17. https://doi.org/10.18257/raccefyn.37</citation>
+                <citation>Ayerbe-Quiñones, F. 2022. Guía ilustrada d ela avifauna colombiana. Wildlife conservation society.</citation>
+                <citation>McMullan, M; Donegan, T., Pantoja Peña, G; Tuncer, T., Bartels, A: &amp; Ellery, T. 2023. Field guide to the birds of Colombia. Rey Naranjo Editores. Bogotá D.C. PXX.</citation>
+                <citation identifier="https://www.museum.lsu.edu/~Remsen/SACCCountryLists.htm">Remsen, J., Cadena, C., Jaramillo, A., Nores, M., Pacheco, J., Robbins, M., Schulenberg, T., Stiles, G., Stotz, D. &amp; Zimmer, K. 2023. Species lists of birds for South American countries and territories: Colombia. (Consultado 09/10/2023). Disponible en: https://www.museum.lsu.edu/~Remsen/SACCCountryLists.htm</citation>
+                <citation identifier="https://ipt.biodiversidad.co/sib/resource?r=mamiferos_col#anchor-description: https://doi.org/10.15472/kl1whs">Ramírez-Chaves, H. E., Suárez Castro, A. F., Morales-Martínez, D. M., Rodríguez-Posada, M. E., Zurc, D., Concha Osbahr, D. C., Zárrate Charry, D. (2021). Mamíferos de Colombia. v1.12. (S. C. Mastozoología, Editor) Recuperado el 2022, de https://ipt.biodiversidad.co/sib/resource?r=mamiferos_col#anchor-description: https://doi.org/10.15472/kl1whs</citation>
+                <citation identifier="https://doi.org/10.18257/raccefyn.37">Pedroza-Banda, R., Ospina-Sarria, J. J., Angarita-Sierra, T., Anganoy-Criollo, M., &amp; Lynch, J. D. (2014). Estado del conocimiento de la fauna de anfibios y reptiles del departamento de Casanare, Colombia. Revista de La Academia Colombiana de Ciencias Exactas, Físicas y Naturales, 38(146), 17. https://doi.org/10.18257/raccefyn.37</citation>
+                <citation identifier="https://doi.org/10.2994/SAJH-D-13-00022.1">Sá, R. O. D., Grant, T., Camargo, A., Heyer, W. R., Ponssa, M. L., &amp; Stanley, E. (2014). Systematics of the neotropical genus leptodactylus fitzinger, 1826 (Anura: Leptodactylidae): Phylogeny, the relevance of non-molecular evidence, and species accounts. In South American Journal of Herpetology (Vol. 9, pp. S1–S28). Sociedade Brasileira de Herpetologia. https://doi.org/10.2994/SAJH-D-13-00022.1</citation>
+                <citation identifier="Https://Amphibiansoftheworld.Amnh.Org/.">Dos Santos, S. P., Ibáñez, R., &amp; Ron, S. R. (2015). Systematics of the Rhinella margaritifera complex (Anura, Bufonidae) from western Ecuador and Panama with insights in the biogeography of Rhinella alata. ZooKeys, 501, 109–145. https://doi.org/10.3897/zookeys.501.8604
+Frost, D. R. (2023). Amphibian Species of the World: an Online Reference, Version 6.1. Https://Amphibiansoftheworld.Amnh.Org/.</citation>
+                <citation>Rueda-Almonacid, J. V., Carr, J. L., Mittermeier, R. A., Rodriguez-Mahecha, J. V., Mast, R. B., Vogt, R. C., Rhodin, A. G. J., Ossa-Velásquez, J., Rueda, J. N., &amp; Goettsh Mittermeier, C. (2007). Las tortugas y los cocodrilianos de los países andinos del trópico.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-geopark.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="1a017764-ffb6-4880-801f-27e209a1f7e0"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/wzmpjt</alternateIdentifier>
+        <alternateIdentifier>1a017764-ffb6-4880-801f-27e209a1f7e0</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=fronteraenergy_vim46</alternateIdentifier>
+        <title>Biodiversidad asociada al Área de perforación exploratoria - VIM46</title>
+        <creator>
+            <individualName>
+                <surName>Frontera Energy Colombia Corp</surName>
+            </individualName>
+            <organizationName>Frontera Energy Colombia Corp</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Calle 110 No. 9 ‑ 25</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>xcastro@fronteraenergy.ca</electronicMailAddress>
+            <onlineUrl>https://www.fronteraenergy.ca/es/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>GessiG S.A.S.</surName>
+            </individualName>
+            <organizationName>GessiG S.A.S.</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Carrera 13 N° 35-43 Oficina 702</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(601) 245 5093</phone>
+            <electronicMailAddress>gessig@gessig.com</electronicMailAddress>
+            <onlineUrl>https://www.gessig.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>GessiG S.A.S.</surName>
+            </individualName>
+            <organizationName>GessiG S.A.S.</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Carrera 13 N° 35-43 Oficina 702</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(601) 245 5093</phone>
+            <electronicMailAddress>gessig@gessig.com</electronicMailAddress>
+            <onlineUrl>https://www.gessig.com/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Paula A</givenName>
+                <surName>Alba Martínez</surName>
+            </individualName>
+            <organizationName>GessiG S.A.S.</organizationName>
+            <positionName>Ingeniera Forestal</positionName>
+            <address>
+                <deliveryPoint>Carrera 13 N° 35-43 Oficina 702</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(601) 245 5093</phone>
+            <electronicMailAddress>paula.alba@gessig.com</electronicMailAddress>
+            <onlineUrl>https://www.gessig.com/</onlineUrl>
+            <role>PROCESSOR</role>
+        </associatedParty>
+        <pubDate>
+                2024-08-01
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Registros biológicos dentro de los muestreos realizados para fauna, flora e hidrobiología dentro de las Medidas de Manejo Ambiental (MMA) y el Estudio de Impacto Ambiental para el Área de Perforación Exploratoria (APE) VIM46 Departamento del Magdalena, Municipios Santa Ana, Pijiño del Carmen, San Zenon y San Sebastian de Buenavista.
+
+El proyecto se ubica el municipio de Magangué (Bolívar) en jurisdicción de la Corporación Autónoma Regional del Sur de Bolívar – CSB.</para>
+<para>El Programa de Adquisición Sísmica VIM-46 3D, será desarrollado en jurisdicción de la Corporación Autónoma Regional del Sur de Bolívar - CSB, se llevará a cabo en el municipio de Magangué (Bolívar) y tiene como objetivo principal la adquisición de información del subsuelo para ser interpretada con el fin de determinar la posible presencia de trampas geológicas con potencial de contener hidrocarburos, enmarcado en un óptimo manejo ambiental y social. Para su elaboración, se tuvieron en cuenta los lineamientos de la Guía Básica Ambiental para Programas de Exploración Sísmica Terrestre (1997) del Ministerio de Ambiente hoy Ministerio de Ambiente y Desarrollo Sostenible (en adelante MADS), lo anterior, de acuerdo con comunicación SGA-OE-097-2022 del 23 de junio de 2022 emitida por la Corporación Autónoma Regional del Sur de Bolívar CSB.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Hidrobiología</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=fronteraenergy_vim46</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El Bloque VIM-46, está ubicado en la Cuenca del Valle Inferior del Magdalena-VIM, en las Jurisdicciones municipales de Córdoba y Magangué en el departamento de Bolívar y de Buenavista en el departamento de Sucre, corresponde a un área asignada por la Agencia Nacional de Hidrocarburos - ANH en contrato de exploración y Producción. El marco del Estudio de Impacto Ambiental se concentra exclusivamente en el municipio de Magangué.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-74.919</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-74.724</eastBoundingCoordinate>
+                    <northBoundingCoordinate>9.319</northBoundingCoordinate>
+                    <southBoundingCoordinate>9.155</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2022-07-14
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-01-18
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este recurso documenta 6.258 registros, distribuidos en los reinos Fungi (3.426), Plantae (1.375), Animalia (1.156), Chromista (197), Protozoa (70) y Bacteria (34), con un 70% clasificado a nivel de especie, 24% a género, 4% familia y 2% a categorías superiores.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Chromista</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Protozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Bacteria</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Se realizó un ajuste menor en la relación entre los identificadores de los especímenes biológicos recolectados y los certificados de emitidos por las colecciones biológicas a las que fueron donados.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Paula A.</givenName>
+                <surName>Alba Martínez</surName>
+            </individualName>
+            <organizationName>GessiG S.A.S.</organizationName>
+            <positionName>Ingeniera Forestal</positionName>
+            <address>
+                <deliveryPoint>Carrera 13 N° 35-43 Oficina 702</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(601) 245 5093</phone>
+            <electronicMailAddress>pau.alba.m@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.gessig.com/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Caracterización de flora:  Para los estudios de caracterización florística en coberturas boscosas (Bosque de galería y/o ripario, Bosque fragmentado) la metodología adoptada corresponde a aquella propuesta por Gentry1 , la cual consiste en el levantamiento de la vegetación en unidades de 0,1 ha, estableciendo parcelas de 50 m de largo por 20 m de ancho (equivalentes a 1.000 m2 o 0,1 ha) brinzales, dentro de la unidad de muestreo (parcela) se establecieron subparcelas de 10 m x 10 m para medir fustales, de 5 m x 5 m para medir latizales y de 2 m x 2 m para medir brinzales.
+
+De esta manera, los fundamentos para determinar las categorías de tamaño de los individuos se observan a continuación: Fustales: Individuos arbóreos con DAP &gt; a 10 cm o CAP &gt; a 32 cm. Latizales: Individuos arbóreos con DAP.
+
+Por otra parte, para la vegetación secundaria alta y baja (dada su importancia en la oferta de recursos alimenticios y hábitat para la fauna en el área de estudio) la unidad de muestreo corresponde a parcelas cuadradas de 10 m x 10 m ocupando un área de 100 m2, medida sugerida por Van der Hammen (1998) , dentro de la unidad de muestreo (parcela) se establecieron subparcelas de 10 m x 10 m para medir fustales, de 5 m x 5 m para medir latizales y de 2 m x 2 m para medir brinzales. Vale la pena aclarar que los fundamentos para determinar las categorías de tamaño de los individuos corresponden a las expuestas en el apartado anterior. Finalmente, para los Herbazales y áreas con Pastos manejados, se fijó como unidad de muestreo parcelas de 3 m x 3 m (9m2), en las que se evalúa la composición y el porcentaje de cobertura para cada especie registrada. Durante el pre-muestreo, se establecieron 4 parcelas de Bosque de galería (Bg), 3 parcelas de Bosque fragmentado (Bf), 6 parcelas de Herbazal denso inundable (Hdi) y 10 parcelas de Vegetación secundaria (Vs), para un total de 23 unidades de monitoreo.
+
+La recolección de datos (para todas las unidades de cobertura) se realizó a partir de una salida de campo ejecutada entre el 3 y 10 de octubre de 2022, en formatos digitales de campo, diseñados y autorizados para tal fin.
+
+Una vez establecidas las parcelas, se demarcaron con el correspondiente ID los individuos de tipo fustal a 1,30m de altura, para los individuos de tipo latizal se realizó un punto en el tallo a 1,30m de altura, en lo concerniente a los individuos de tipo brinzal y herbáceas no se realizó ninguna marcación a fin de minimizar el impacto sobre esta población; en todos los casos se empleó pintura de aceite de color amarillo.
+
+La toma de datos de cada individuo se efectuó con los instrumentos y técnicas acordes a cada caso, para el CAP se emplearon cintas métricas, la estimación de alturas se realizó con base en la determinación del profesional forestal según el método tradicional, así mismo, la georreferenciación se desarrolló con el navegador GPS 62S marca Garmin, que presenta un margen de error en la horizontal de ± 5 m y en vertical de ±10.
+
+Durante el desarrollo de las actividades de campo se contó con la participación de profesionales forestales con experiencia en botánica responsables de la identificación de las especies encontradas al nivel taxonómico más detallado posible, con el apoyo de material bibliográfico disponible para la zona y la identificación de especies mediante los servicios de un herbario certificado; por otro lado, el nombre común se asignó con la colaboración de los auxiliares de campo, amplios conocedores de la flora en su región.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Caracterización de Fauna:
+Para el desarrollo de la caracterización faunística, se consideraron de acuerdo con los requerimientos establecidos en los Términos de Referencia y la Metodología para Elaboración de Estudios Ambientales, el registro de los cuatro grupos de vertebrados principales, anfibios, reptiles, aves y mamíferos. Adicionalmente y de acuerdo con las sugerencias establecidas en la Metodología de Estudios Ambientales (MADS), fueron evaluadas las diferentes coberturas vegetales identificadas en el área de influencia establecida para el Medio Biótico en el APE VIM-46. En este sentido fueron establecidas tres fases para la recopilación de la información, que se centran en la recopilación y análisis de información secundaria, que permite establecer las especies con presencia probable, y en el mismo sentido el establecimiento de puntos de muestreo, según las coberturas de la tierra que se han determinado en el Área de Influencia del APE VIM 46 Posteriormente se planteo un diseño de muestreo que sugiere las metodologías, intensidades de muestreo y planeación general de la fase de campo, para cada uno de los grupos faunísticos objeto de caracterización Finalmente, con los registros obtenidos en la fase preliminar y la fase de campo se realizó la fase de análisis de la diversidad faunística registrada, las relaciones con las coberturas de la tierra y el análisis de las características biológicas y ecológicas de las especies encontradas. En esta Fase de análisis, para presentar de manera mas adecuada los resultados obtenidos, se estableció como método de análisis más adecuado el agrupamiento de las coberturas de la tierra registradas, en Tipos de Hábitat, condición que permite identificar de manera especifica y directa las relaciones funcionales de las especies faunísticas con la coberturas vegetales.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Herpetofauna - Etapa de Campo: Se realizaron dos salidas de campo para evaluar el Área de Influencia definida para el APE VIM46, en épocas climáticas contrastantes, lo cual permitió tener resultados más robustos. La primera salida se efectuó entre el 5 al 9 de julio de 2022, tiempo que coincidió históricamente con el inicio de la segunda temporada seca en la región, y la segunda salida se realizó entre el 3 al 9 de noviembre de 2022, que coincidió con la finalización de la segunda temporada de lluvias.
+
+Recorridos de observación: La técnica principal para registrar la herpetofauna en los sitios inspeccionados fue la de búsqueda libre y sin restricciones (Heyer et al., 1994 , Rueda et al., 2006), la cual ha demostrado ser muy eficiente al momento de lograr registrar el mayor número de especies en el menor tiempo posible. Este método consiste en realizar recorridos en horarios donde se sabe que la herpetofauna tiene su mayor actividad, en las horas del día entre las 9:00 de la mañana a 12:00 del mediodía y entra las 4:00 a las 6:00 de la tarde, teniendo como propósito registrar la mayoría de los reptiles con hábitos matutinos, diurnos o crepusculares, y en las horas de la noche entre las 6:00 a 10:00 pm, con el fin de registrar la mayoría de las especies de anfibios y serpientes nocturnas.
+
+Registros Auditivos: Dentro de los recorridos también se hicieron registros auditivos de los llamados de advertencia (cantos) de los machos que estaban activamente vocalizando en el momento de las inspecciones, lo que permitió en varios casos registrar la presencia de algunas especies sin necesidad de observar a los individuos, identificándolos por sus cantos. Para aquellas vocalizaciones que no fue posible su identificación al momento del registro, se hicieron grabaciones para posteriormente determinar a qué especie pertenecían para lo cual se utilizó un micrófono unidireccional Sennheiser M66/K6 conectado a una grabadora de audio portátil Zoom H4n, siguiendo las especificaciones técnicas de grabación para anfibios propuestas por Angulo (2006) . Los ajustes de grabación fueron de 96 KHz de frecuencia de muestreo y una resolución de 16 bits. El formato de grabación fue WAV sin comprensión de datos.
+
+Grabadoras de sonido fijas (Song meter) Como método complementario para el registro auditivo de los anfibios principalmente, fueron instalados cinco dispositivos de grabación Song Meter modelo SM2+de Wildlife Acoustics, los cuales fueron programados para realizar grabaciones de audio de 10 minutos de duración cada hora, desde las 6 pm hasta el siguiente día a las 6 am. Estas grabadoras se instalaron con dos micrófonos unidireccionales cada una, y se configuraron para grabar en archivos .wav PCM a dos canales de 16 bits, con ancho de banda de grabación de 20Hz a 48kHz, y frecuencias entre 8000 y 24000 por segundo.
+
+Entrevistas no estructuradas: En los diferentes predios donde se localizaban las coberturas vegetales inspeccionados se llevaron a cabo entrevistas no estructuradas con los propietarios, encargados y trabajadores de estas fincas con el fin de indagar sobre la herpetofauna que estas personas reconocen para la zona, el uso que le dan, los sitios donde es más frecuente hallar una especie determinada, etc.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Avifauna: La caracterización de las aves asociadas al Área de Influencia definida para para el estudio de impacto ambiental del área de perforación exploratoria (APE) VIM-46, se realizó en dos periodos, el primero en el mes de Julio y el segundo en noviembre de 2022, buscando abarcar periodos contrastantes que permitieran obtener información de aves de migración boreal y austral así como en temporada seca y lluvias. Se emplearon tres metodologías complementarias: recorridos libres de observación, puntos fijos de observación y capturas con redes de niebla, que en conjunto son ampliamente usado para recopilar información relevante de las especies en cortos periodos de tiempo (MADS 2018, Villareal et al. 2006, Stiles y Bohórquez 2000 y Stiles y Rosselli 1998).
+
+Recorridos de observación y registro: Este método consiste en la identificación de individuos observados visualmente por medio de binoculares, o escuchados realizando reconocimiento de los cantos por medio de grabaciones. Esta metodología permite recorrer largas distancias y reportar un alto número de especies, siendo uno de los métodos más efectivos en la realización de inventarios (Stiles y Rosselli 1998).
+
+Puntos focales de observación: En el área de estudio, se establecieron 8 puntos de conteo con un radio aproximado de 25m (Howe, 1997), ver. En cada punto se realizaron observaciones por 10 minutos y se registró el número de individuos por especie observados y escuchados. Los muestreos fueron realizados en horas de la mañana y tarde, entre las 6:00- 10:00 am y las 14:00 - 17:00. Se realizaron en total 16 recorridos de observación en las diferentes coberturas vegetales, entre las 6:00- 10:00 am y las 14:00 - 17:00, periodos con el mayor pico de actividad de este grupo (Ralph et al. 1996, Villareal et al. 2006).
+
+Entrevistas no estructuradas: Con el fin de poder conocer los usos y algunos registros de especies en la zona, se realizaron entrevistas no estructuradas a los cuidadores de fincas y auxiliares de campo. En estas entrevistas, se realizan algunas preguntas orientadas a identificar las especies empleando la guía ilustrada de Ayerbe (2018), evidenciando por medio de los mapas de distribución si las comunidades las identifican o pueden confundirlas con especies muy similares. De igual manera por medio de categorías de uso: Consumo, Mascota, Comercialización, Daños, tomadas y adaptadas de De la Ossa-Lacayo &amp; De la Ossa (2012), se buscó indagar los usos más importantes dados as las especies identificadas en la zona.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mastofauna: Recorridos de observación y registro (Diurnos y Nocturnos) Para identificar las especies de mamíferos asociadas al área de influencia de del APE VIM46 se realizaron 12 recorridos de observación entre las 6:00- 10:00 am y las 15:00 – 21:00 horas, los mismos con de manera ad libitum y de ancho variable, realizando observaciones directas, y haciendo el registro de indicios como huellas, heces o pelos que permitieran verificar la presencia de los mamíferos en el Área de Influencia.
+
+Cámaras Trampa Para ampliar el rango de detección de mamíferos medianos y grandes, nocturnos y crípticos, se instalaron 14 Cámaras Trampa, teniendo en cuenta la existencia de coberturas de la tierra naturales, se ubicaron, para lograr el registro de diferentes especies asociadas a estas coberturas en mejor estado de conservación y con mayor oferta de recursos alimenticios y espaciales, las mismas permanecieron activas durante todos los días de desarrollo de las dos fases de campo realizadas, para incrementar la probabilidad de registro, se usaron cebos como sardinas en lata y trozos de plátano y yuca, que funcionaron adecuadamente como atrayentes de diferentes especies de mamíferos, colocados a distancia prudencial frente a la cámara.
+
+Trampas Sherman: El registro de mamíferos pequeños (Roedores y Marsupiales) es un factor importante dentro de la composición de la comunidad de Mastofauna, ya que de las misma hacen parte más de 100 especies de mamíferos. La utilización de trampas Sherman permite una adecuada caracterización de estos grupos de mamíferos terrestres y semiarboricolas. En total fueron colocadas 25 trampas Sherman en Seis estaciones de muestreo, de manera alternada con trampas Tomahawk, las trampas fueron activadas las 24 horas del día usando cebos de mantequilla de maní , avena en hojuelas y esencias de vainilla y coco. Las trampas fueron revisadas y recebadas diariamente, para verificar la captura de animales, realizar su identificación y liberación en el área de captura.
+
+Trampas Tomahawk: En conjunto con la utilización de las Cámaras Trampa, este método favorece el registro de mamíferos medianos de manera adecuada, mediante la activación de estas usando cebos adecuados que atraigan a las diferentes especies de mamíferos. Se colocaron 10 Trampas Tomahawk para el registro de mamíferos medianos, asociados a las coberturas boscosas. Las mismas fueron colocadas cada 25 metros de manera alternada con las trampas Sherman y activadas mediante cebos. Las trampas fueron revisadas y recebadas diariamente, para verificar la captura de animales, realizar su identificación y liberación en el área de captura.
+
+Redes de Niebla: Se establecieron dos estaciones de redes de niebla en cada una de las cuales fueron colocadas seis redes de niebla en línea, en coberturas boscosas con el propósito de registrar a este grupo de mamíferos, las mismas fueron activadas desde las 17:00 horas hasta las 21:00 horas. Los murciélagos capturados, fueron determinados taxonómicamente, y liberados posterior a la obtención del registro fotográfico. Se ilustran los diferentes métodos de muestreo que fueron utilizados para la caracterización de la mastofauna en el AI del APE VIM 46.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El Bloque VIM-46, está ubicado en la Cuenca del Valle Inferior del Magdalena-VIM, en las Jurisdicciones municipales de Córdoba y Magangué en el departamento de Bolívar y de Buenavista en el departamento de Sucre. El área total del bloque VIM-46 es de 30.247 hectáreas.
+
+Para la definición de los vértices se tomó como punto de referencia el vértice geodésico GPSB-T-5 del Instituto Geográfico Agustín Codazzi – IGAC, cuyas coordenadas planas GAUSS con origen central, datum Magna-Sirgas son: E: 919.685,892 metros, N: 1.517.465,280 metros; coordenadas geográficas datum Magna-Sirgas: Longitud 74° 48’ 30,441” al oeste de Greenwich y Latitud 9° 16’ 28,349” al norte del Ecuador y coordenadas Planas Magna Sirgas Origen Nacional E: 4.801.425,55 metros, N: 2.583.349,42 metros.
+
+La determinación preliminar de las unidades de muestreo a inventariar se realizó con base al mapa de coberturas de la tierra del proyecto VIM-46 elaborado a partir de una imagen remota del satélite Spot 6 que cubre el área de estudio. Adicionalmente, se realizó una revisión de la información secundaria disponible para el municipio de Magangué en el departamento de Bolívar.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Este conjunto de datos contiene información de las Medidas de Manejo Ambiental (MMA) realizada en julio del 2022 y del Estudio de Impacto Ambiental (EIA) realizado en noviembre del mismo año. 
+
+Se realizó una evaluación de fauna y flora para ambos proyectos, MMA y EIA. Para el componente de flora se realizó una evaluación por medio de parcelas de regeneración y una evaluación de la flora fustal presente en el área Para fauna se realizó una evolución de los grupos biológicos Herpetos, Aves y Mamíferos.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="CESP2022-010">
+                <title>Medidas de Manejo Ambiental y Estudio de Impacto Ambiental para el Proyecto VIM-46</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Francisco</givenName>
+                    <surName>Garcia</surName>
+                    </individualName>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Paula A.</givenName>
+                    <surName>Alba Martínez</surName>
+                    </individualName>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <abstract>
+                    <para>En el marco del contrato de la ANH con FRONTERA, este último proyecta ejecutar un programa de Adquisición Sísmica VIM-46 3D, cuyo registro de datos geofísicos tiene por objeto, relacionar la información sísmica obtenida previamente en la región en bloques aledaños (tablas anteriores), correlacionando datos y evaluar el potencial hidrocarburífero en el sector sur del Bloque VIM-46 al interior de la cuenca del Valle Inferior del Magdalena.
+
+El proyecto tiene como objetivo principal desarrollar actividades de exploración de hidrocarburos en yacimientos con técnicas convencionales en el APE VIM-46, que se aloja al interior del bloque VIM-46, adjudicado por la Agencia Nacional de Hidrocarburos (en adelante ANH) a FRONTERA ENERGY COLOMBIA CORP, SUCURSAL COLOMBIA (en adelante FRONTERA) el pasado 18 de enero de 2022.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El Bloque VIM-46, está ubicado en la Cuenca del Valle Inferior del Magdalena-VIM, en las Jurisdicciones municipales de Córdoba y Magangué en el departamento de Bolívar y de Buenavista en el departamento de Sucre. El área total del bloque VIM-46 es de 30.247,21 hectáreas (origen único nacional). En el marco del bloque VIM-46 y de acuerdo con el interés de la fase exploratoria, FRONTERA definió un área interna al sur del bloque denominada “Área de Perforación Exploratoria” donde proyecta llevar a cabo la prospección objeto del presente estudio.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Las metodologías para la recolección de especímenes fueron las siguientes:
+Aves: Redes de Niebla (dimensión 12m de largo por 3m de ancho. Ojo de malla 30mm) en un Máximo de 20 redes / 8 horas / día /Máximo 5 días / cobertura vegetal y/o ecosistema. Otros métodos de captura: Máximo 3 transectos / Máximo 5 días / cobertura vegetal y/o ecosistema.
+Herpetos: Búsqueda Libre y captura (Máximo 10 horas/día/Máximo 5 días / cobertura vegetal y/o ecosistema).
+Mamíferos: Trampas Sherman (23cm de largo x 8cm de ancho x 9,5cm de alto)  en un máximo de 50 trampas / 24 horas / Máximo 5 días / cobertura vegetal y/o Ecosistema; Trampas Tomahawk (60cm de largo x 18cm de ancho x 18 de alto) en un Máximo 10 trampas / 24 horas /
+máximo de 5 días / cobertura vegetal y/o Ecosistema; Redes de Niebla (dimensión 12m de largo por 3m de ancho ojo de malla 30mm) en un máximo 20 redes / 6 horas / día / Máximo 5 días / cobertura vegetal y/o ecosistema.
+Peces: Atarraya (5m de largo por 12m) con ojo de malla de 0,5cm. No de lances en Máximo 60 minutos / punto de muestreo (400m/m2) / Máximo 10 puntos / cuerpo de agua.
+Fitoplancton: Red de fitoplancton (red cónica / ojo de malla 20μm) + recipiente volumétrico en Máximo 200L de filtrado / estación de 
+ muestreo(400m/m2) / Máximo 10 estaciones de muestreo / cuerpo de agua. 
+Zooplancton: Red cónica + Elemento Volumétrico: (ojo de malla de 53µm) en máximo 200L de filtrado / estación de muestreo (100m/m2) / Máximo 10 estaciones de muestreo / cuerpo de agua.
+Bentos: Red D (30cm X 30cm con ojo de malla de 500μm) Máximo 30 jamazos / estación de muestreo (400m/m2) / Máximo 10 estaciones de muestreo / cuerpo de agua. 
+Perifiton: Raspado manual en Cuadrante de 5cmX5cm Máximo 40 cuadrantes/estación de muestreo (400m/m2) / Máximo 10 estaciones de muestreo / cuerpo de agua.
+Macrófitas: Cálculo de porcentaje de cobertura y colecta manual. Cuadrante (1mX1m). Máximo 10 cuadrantes / estación de muestreo 400m/m2) /Máximo 10 estaciones de muestreo / cuerpo de agua.
+Vegetación terrestre: Gentry (modificado). -Fustales (DAP&gt; a 10cm) en parcelas de 100m2 . – Latizal 10&gt;DAP&gt;5cm) en parcelas de 25m2 .
+-Brinzal (DAP) &lt;2,5cm) en parcelas de 4m2.
+Vegetación Epífitas vasculares y no vasculares: Inventario al 100%, 8 forófitos por unidad de cobertura o ecosistema.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:59Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/wzmpjt">Frontera Energy Colombia Corp, GessiG S.A.S. (2024). Biodiversidad asociada al Área de perforación exploratoria - VIM46. Version 1.5. Frontera Energy Colombia Corp. Occurrence dataset https://doi.org/10.15472/wzmpjt accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>GENTRY, A. H. -Patterns of neotropical plant diversity. Evolutionary Biology, 15: 1-84. 1982.</citation>
+                <citation>VAN DER HAMMEN, T., 1998. Plan ambiental de la Cuenca Alta del Río Bogotá. Análisis y orientaciones para el ordenamiento ambiental.</citation>
+                <citation>Heyer, W. R., M. A. Donnelly, R. McDiarmid, L. C. Hayek y M. Foster (eds). 2001. Medición y monitoreo de la diversidad biológica. Métodos estandarizados para anfibios. Editorial Universitaria de La Patagonia. Argentina.</citation>
+                <citation>Rueda-Almonacid J. V., Castro F. &amp; Cortez C. (2006). Técnicas para el inventario y muestreo de anfibios: Una compilación. En: Angulo, A., J. V. Rueda-Almonacid, J. V. Rodríguez-Mahecha, E. La Marca. 2006. Técnicas de inventario y monitoreo para los anfibios de la región tropical Andina. Conservación Internacional-Colombia, Series Manuales de Campo, Panamericana Formas e Impresos S. A., Bogotá D.C., No. 2, 298p.</citation>
+                <citation>https://www.wildlifeacoustics.com/uploads/user-guides/SM2plus1.pdf</citation>
+                <citation>Remsen, J. V., Jr., J. I. Areta, E. Bonaccorso, S. Claramunt, A. Jaramillo, D. F. Lane, J. F. Pacheco, M. B. Robbins, F. G. Stiles, and K. J. Zimmer. Version [30 December 2022). A classification of the bird species of South America. American Ornithological Society. http://www.museum.lsu.edu/~Remsen/SACCBaseline.htm</citation>
+                <citation>Ministerio de Ambiente y Desarrollo Sostenible. (2018). Metodología general para la presentación de estudios ambientales. Dirección de Licencias, Permisos y Trámites Ambientales, Ministerio de Ambiente, Vivienda y Desarrollo Territorial. Bogotá, D.C. 228 p.</citation>
+                <citation>Villareal, H., Álvarez, M., Córdoba, S., Escobar, F., Fagua, G., Gast, F., y Umaña, A. (2004). Manual de Métodos para el Desarrollo de Inventarios de Biodiversidad (1 ed.). (C. Villa G., Ed.) Bogotá, Colombia: Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</citation>
+                <citation>Stiles, F. G. y Bohórquez, C. I. (2000). Evaluando el estado de la Biodiversidad: el caso de la avifauna de la Serranía de las Quinchas, Boyacá, Colombia. Caldasia, 22(1), 61-92.</citation>
+                <citation>Stiles, F. G., &amp; Rosselli, L. (1998). Inventario de las aves de un bosque altoandino: comparación de dos métodos. Caldasia, 29-43.</citation>
+                <citation>Howe, R. G. (1997). Management of western Great Lakes forests for theconservation of Neotropical migratory birds. Pages 144-167. En F. T. III, Management of Midwestern landscapes for the conservation of Neotropical migratory birds. (págs. 144 - 167). North Central Forest Experiment Station, St. Paul, Minnesota, USA: U.S. Forest Service General Technical Report.</citation>
+                <citation>Ossa-Lacayo, A. D. L., &amp; Ossa-Lacayo, D. L. O. D. L. (2012). Utilización de fauna silvestre en el área rural de Caimito, Sucre, Colombia. Revista Colombiana de Ciencia Animal. RECIA, 4(1).</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-frontera.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

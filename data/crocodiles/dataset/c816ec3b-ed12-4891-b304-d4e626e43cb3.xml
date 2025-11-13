@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="c816ec3b-ed12-4891-b304-d4e626e43cb3"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/f4mjt8</alternateIdentifier>
+        <alternateIdentifier>c816ec3b-ed12-4891-b304-d4e626e43cb3</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=coleccion-reptiles-uis</alternateIdentifier>
+        <title>Colección Herpetológica (Reptiles) del Museo de Historia Natural de la Universidad Industrial de Santander</title>
+        <creator>
+            <individualName>
+                <givenName>Martha Patricia</givenName>
+                <surName>Ramírez Pinilla</surName>
+            </individualName>
+            <organizationName>Universidad Industrial de Santander</organizationName>
+            <positionName>Profesora, Directora de la Colección Herpetológica</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 calle 9, ciudad universitaria</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>SANTANDER</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3157946969</phone>
+            <electronicMailAddress>mpramir@uis.edu.co</electronicMailAddress>
+            <onlineUrl>https://www.santanderherps.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Elson</givenName>
+                <surName>Meneses Pelayo</surName>
+            </individualName>
+            <organizationName>Universidad Industrial de Santander</organizationName>
+            <positionName>Biólogo, Curador de la Colección Herpetológica</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 calle 9, ciudad universitaria</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>SANTANDER</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3046371124</phone>
+            <electronicMailAddress>bioelsonp@gmail.com</electronicMailAddress>
+            <onlineUrl>http://bio.uis.edu.co/eisi/eisi.jsp?IdServicio=S746</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-5921-6223</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Martha Patricia</givenName>
+                <surName>Ramírez Pinilla</surName>
+            </individualName>
+            <organizationName>Universidad Industrial de Santander</organizationName>
+            <positionName>Profesora, Directora de la Colección Herpetológica</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 calle 9, ciudad universitaria</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>SANTANDER</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3157946969</phone>
+            <electronicMailAddress>mpramir@uis.edu.co</electronicMailAddress>
+            <onlineUrl>http://bio.uis.edu.co/eisi/eisi.jsp?IdServicio=S746</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-5921-6223</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2023-12-27
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Colección de organismos (reptiles) de la colección de herpetología del Museo de Historia Natural de la Universidad Industrial de Santander. 
+
+Los organismos preservados son producto de las actividades de docencia e investigación de la Escuela de Biología de la Universidad Industrial de Santander.
+        </abstract>
+        <keywordSet>
+            <keyword>database</keyword>
+            <keyword>squamata</keyword>
+            <keyword>testunides</keyword>
+            <keyword>serpentes</keyword>
+            <keyword>record</keyword>
+            <keyword>reptilia</keyword>
+            <keyword>catalogue</keyword>
+            <keyword>lizards</keyword>
+            <keyword>herpetological</keyword>
+            <keywordThesaurus>na</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=coleccion-reptiles-uis</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La colección alberga ejemplares recolectados en 24 de los 32 departamentos del país, el departamento mejor representado es Santander con el 78% de los registros, seguido en menor proporción por los departamentos Cundinamarca (4.6%, 220 ejemplares), Bolívar (3.4%, 160 ejemplares), Sucre y Magdalena (3%, 150 ejemplares cada uno). Los departamentos restantes están representados por menos de 100 ejemplares. La región mejor representada es el flanco occidental de la Cordillera Oriental (Santander) entre los municipios de Bucaramanga, Floridablanca, Piedecuesta, Girón, Lebrija, Betulia, San Vicente de Chucurí, Zapatoca, Barrancabermeja y Charalá. Fuera de Colombia, solo existen 8 ejemplares provenientes de Salta, Argentina.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-81.914</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-33.047</eastBoundingCoordinate>
+                    <northBoundingCoordinate>13.923</northBoundingCoordinate>
+                    <southBoundingCoordinate>-55.777</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1979-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-10-01
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En la colección de reptiles se encuentran albergados especímenes distribuidos en 3 órdenes, 32 familias, 96 géneros y aproximadamente 236 especies. Los órdenes están representados así: Squamata (99 % de los especímenes), Testudines (0.9%) y Crocodilia (0.1%). Las familias mejor representadas son Colubridae (21 % de los especímenes), Gekkonidae (13 %), Teiidae (11 %), Dactyloidae (10 %), Scincidae (9%), Gymnophthalmidae (8 %), Alopoglossidae (8 %), Sphaerodactylidae (3 %), Elapidae y Viperidae (2 % cada una). Las restantes familias con menos del 1 % de representatividad.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                    <commonName>Escamados</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                    <commonName>Tortugas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodilia</taxonRankValue>
+                    <commonName>Caimanes y cocodrilos</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Banco de organismos preservados para investigación y docencia, consulta investigadores visitantes.</para></purpose>
+        <maintenance>
+            <description>
+                <para>Mayormente fijados en formalina y preservados en etanol. Hay ejemplares (pieles y esqueletos) preservados en seco y esqueletos de ejemplares montados en glicerina y coloreados para hueso y cartílago. Hay tejidos preservados en etanol y a -20 grados centígrados para los ejemplares desde hace unos 5 años.</para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Martha Patricia</givenName>
+                <surName>Ramírez Pinilla</surName>
+            </individualName>
+            <organizationName>Universidad Industrial de Santander</organizationName>
+            <positionName>Profesora, Directora de la Colección Herpetológica</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 calle 9, ciudad universitaria</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>SANTANDER</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3157946969</phone>
+            <electronicMailAddress>mpramir@uis.edu.co</electronicMailAddress>
+            <onlineUrl>http://bio.uis.edu.co/eisi/eisi.jsp?IdServicio=S746</onlineUrl>
+            <userId directory="https://orcid.org/">0000-0002-5921-6223</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Elson</givenName>
+                <surName>Meneses Pelayo</surName>
+            </individualName>
+            <organizationName>Universidad Industrial de Santander</organizationName>
+            <positionName>Biólogo, Curador de la Colección Herpetológica</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 calle 9, ciudad universitaria</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3046371124</phone>
+            <electronicMailAddress>bioelsonp@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.santanderherps.com/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Salidas de campo programadas dentro de las labores de docencia e investigación</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Departamento de Santander primordialmente</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Colecta manual y excepcionalmente con trampas de caida</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Ajuste de vocabulario controlado en el elemento geográfico: county.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="UIS-R-">
+                <title>Colección Herpetológica (Reptiles) del Museo de Historia Natural de la Universidad Industrial de Santander</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Elson</givenName>
+                    <surName>Meneses Pelayo</surName>
+                    </individualName>
+            <userId directory="https://scholar.google.com/citations?user=">WR7ItGAAAAAJ&amp;hl=es</userId>
+                    <role>CURATOR</role>
+                </personnel>
+                <abstract>
+                    <para>Reptiles recolectados a partir de proyectos de investigación, donaciones y docencia. Escuela de Biología, UIS</para>
+                </abstract>
+                <funding>
+                    <para>UIS y entidades financiadoras de los proyectos de investigación.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Mayormente en el Departamento de Santander</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:17Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/f4mjt8">Ramírez Pinilla M P, Meneses Pelayo E (2023). Colección Herpetológica (Reptiles) del Museo de Historia Natural de la Universidad Industrial de Santander. Version 1.4. Universidad Industrial de Santander. Occurrence dataset https://doi.org/10.15472/f4mjt8 accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/uis.jpg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>MHN-UIS</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 42</collectionIdentifier>
+                    <collectionName>Museo de Historia Natural</collectionName>
+                </collection>
+                <specimenPreservationMethod>GLYCERIN</specimenPreservationMethod>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>espécimen</jgtiUnitType>
+                    <jgtiUnitRange>
+                        <beginRange>1</beginRange>
+                        <endRange>1</endRange>
+                    </jgtiUnitRange>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

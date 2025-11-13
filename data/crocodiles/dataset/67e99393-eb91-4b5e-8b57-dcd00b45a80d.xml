@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="67e99393-eb91-4b5e-8b57-dcd00b45a80d"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/hz3akt</alternateIdentifier>
+        <alternateIdentifier>67e99393-eb91-4b5e-8b57-dcd00b45a80d</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=conambiente_helios-ocana</alternateIdentifier>
+        <title>Biodiversidad asociada al proyecto solar fotovoltaico Helios Cesar Ocaña-220MWAC</title>
+        <creator>
+            <individualName>
+                <givenName>Carlos</givenName>
+                <surName>Galindo</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente S.A.S</organizationName>
+            <positionName>Biologo</positionName>
+            <address>
+                <deliveryPoint>Calle 25D #81a-90</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>carlos.galindo@conambiente.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Yenni</givenName>
+                <surName>Caicedo</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente S.A.S</organizationName>
+            <positionName>Biologa</positionName>
+            <address>
+                <deliveryPoint>Calle 25D #81a-90Calle 25D #81a-90</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3506457556</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Laura</givenName>
+                <surName>Aramendiz-Macías</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente S.A.S</organizationName>
+            <positionName>Biologa</positionName>
+            <address>
+                <deliveryPoint>Calle 25D #81a-90</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>laramendizm@gmail.com</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Carlos</givenName>
+                <surName>Galindo</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente S.A.S.</organizationName>
+            <positionName>Biólogo</positionName>
+            <address>
+                <deliveryPoint>Calle 25D #81a-90</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>carlos.galindo@conambiente.com</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>BAAS LATAM S.A.S</surName>
+            </individualName>
+            <organizationName>BAAS LATAM S.A.S</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Cra 69 #25b-44 OFICINA 1001</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <role>OWNER</role>
+        </associatedParty>
+        <pubDate>
+                2022-05-18
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Datos relacionados con la caracterización de fauna (Aves, herpetos y mamíferos) y flora en veda (epífitas vasculares y no vasculares) presentes en el área de influencia directa del EIA  proyecto solar fotovoltaico &amp;#34;Helios Cesar Ocaña-220MWAC&amp;#34;, el cual cuenta con un área es de 290 HA para la instalación de 429000 paneles solares cada uno de 595 Wp de potencia, para una potencia total de 255 MWp dc.
+Este recurso contiene 142 registros tomados en el municipio de Aguachica, Cesar. Los datos fueron tomados en noviembre de 2017 y abarcan 133 registros de fauna, 3 plantas y 6 hongos.
+        </abstract>
+        <keywordSet>
+            <keyword>Trampas tomahawk</keyword>
+            <keyword>Veda</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Redes de niebla</keyword>
+            <keyword>Epífitas</keyword>
+            <keyword>Trampas sherman</keyword>
+            <keyword>Cámaras trampa</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=conambiente_helios-ocana</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los datos fueron tomados en el predio &quot;El Amor de Dios&quot;, ubicado en el municipio de Aguachica, departamento de Cesar.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.599</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.57</eastBoundingCoordinate>
+                    <northBoundingCoordinate>8.278</northBoundingCoordinate>
+                    <southBoundingCoordinate>8.266</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-11-17
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-11-21
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este recurso contiene 142 registros de los reinos Animalia (133), Plantae (3) y Fungi (6). El reino Animalia está distribuido en 3 clases, 12 ordenes, 31 familias, 44 géneros y 47 especies. Con un 97% clasificado a nivel de especie y 3% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Fungi está distribuido en 3 clases, 6 ordenes, 6 familias, 6 géneros y 4 especies. Con un 66% clasificado a nivel de especie y 34% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Fungi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Plantae está distribuido en 2 clases, 3 ordenes, 3 familias, 3 géneros y 2 especies. Con un 66% clasificado a nivel de especie y 34% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Laura</givenName>
+                <surName>Ramirez</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente S.A.S</organizationName>
+            <positionName>Coordinadora componente biotico</positionName>
+            <address>
+                <deliveryPoint>Calle 25D #81a-90</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Fauna:
+La caracterización faunística se llevó a cabo durante un periodo de cinco (5) días, teniendo en cuenta los métodos propuestos por la Metodología General para la Presentación de Estudios Ambientales expedida por el Ministerio de Ambiente Vivienda y Desarrollo Territorial (MAVDT, 2018) y lo establecido por el Instituto Alexander von Humboldt para inventarios biológicos (Villarreal et al., 2006).
+El inventario de la fauna silvestre y flora en el área de estudio se desarrolló en las coberturas de: Arbustal denso, Bosque de galería y ripario, Maíz, Pastos limpios, Red vial y territorios asociados, Tierras desnudas y degradadas y Vegetación secundaria alta. En cada una de estas coberturas se implementaron métodos de detección directa, a través de transectos con sistemas de trampeo sobre cada una de las cubiertas vegetales evaluadas. Es así como, las coberturas vegetales para el muestreo fueron seleccionadas por representar en primera medida remanentes de ecosistemas naturales (bosques y vegetación secundaria) esto con el fin de registrar especies sensibles y propias de la región, al igual que coberturas de pastos, arbustales y tejido urbano descontinuo para registrar especies generalistas y conocer su estado actual y adaptación a estas zonas transformadas.
+Por su parte, la caracterización de la mastofauna presente en la zona del proyecto, implicó la combinación de distintos métodos directos e indirectos con el fin de maximizar la eficiencia del muestreo. Los cuales se basaron en la instalación  de trampas Sherman, Tomahawk y redes de niebla para la captura y registro de mamíferos no voladores y voladores, correspondientemente; así como la instalación de cámaras trampa para la captura en imágenes estáticas de fauna terrestre. Adicionalmente, todos los registros y ubicación de trampas fueron georreferenciados con un GPS Garmin  etrex10. A continuación, se describen de manera puntual cada uno de los métodos empleados:</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>TRAMPAS SHERMAN (TS). Con el fin de capturar pequeños mamíferos terrestres tales como roedores, fueron instaladas dos trampas Sherman por punto (dependiendo de las condiciones del mismo), con un tamaño de 38 X 12 X 10 cm; estas trampas fueron distribuidas con una distancia no menor a 20 metros entre ellas y buscando maximizar su efectividad fueron ubicadas en zonas estratégicas como raíces pronunciadas, cúmulos de ramas, huecos, madrigueras, árboles caídos, áreas cercanas a cuerpos de agua, entre otras (Rodríguez-Macedo et al., 2014). 
+Adicionalmente, los dispositivos fueron instalados, cebados y activados en el periodo entre las 7 y 11 am, revisados periódicamente y re-cebados de ser necesario en las horas de la tarde, permaneciendo activos durante toda la noche (una noche por punto) y revisados la mañana siguiente. El cebo comprendió una mezcla de mantequilla, avena en hojuelas, esencia de vainilla y banano maduro.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>TRAMPAS TOMAHAWK (TT). Para realizar la captura de mamíferos medianos-pequeños (menores a 2 kg) se instalaron trampas Tomahawk con una distancia no menor a 250m entre ellas (en el caso de la instalación de más de una). La implementación de esta técnica incluyó la utilización de un cebo atrayente de olor fuerte, siendo este alimento húmedo para gato y/o  banano con esencia de vainilla en el interior de las trampas y rocío de la esencia en el exterior y área circundante a las trampas, las cuales fueron ubicadas en sitios estratégicos con presumible paso de mastofauna (Rodríguez-Macedo et al., 2014).
+Estas trampas presentaron condiciones de cebado y activaciones similares a las descritas para las TS anteriormente.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>REDES DE NIEBLA (RED). Con el fin de determinar las especies de mamíferos voladores (murciélagos) presentes en el área del proyecto, se realizó el montaje de 1 o dos redes de niebla por punto (2,5 m x 12 m x 36 mm ojo de malla) según las condiciones de este. Lo anterior abarcando  las coberturas de bosque de galería y ripario y pastos limpios; para maximizar la captura de los individuos se recurrió a las zonas más propicias relacionadas con eventos de floración, fructificación y cuerpos de agua. El muestreo se ejecutó durante una noche por punto con una duración de apertura de tres horas/red por noche (17:00-20:00 h), teniendo presente un intervalo de 20 minutos por revisión de red, finalizando con un esfuerzo total de muestreo de 12 horas para este método. 
+Así mismo, los murciélagos capturados se manipularon bajo las directrices de la Sociedad Americana de Mastozoología con el uso de guantes de carnaza para el manejo de los individuos; los cuales fueron determinados mediante el uso de las claves taxonómicas elaboradas por Gardner (2007) y Díaz et al. (2016), esto posterior a la toma de medidas morfométricas pertinentes tales como largo de antebrazo, pata, cola, tibia, tercer metacarpal, pelaje, entre otras; y registro fotográfico individual.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>CÁMARAS TRAMPA. Fueron instalados entre uno y dos dispositivos de registro de especies (cámaras trampa) por punto (según las condiciones de este) Camera Bushnell 16mp Trophy Cam Hd Essential E3 Trail, Marro; configurados para estar activos las 24 horas del día, así como capturar secuencias de tres disparos fotográficos con una separación de eventos de un minuto (Lozano, 2010). Las cámaras fueron ubicadas en sitios cercanos a senderos o cuerpos de agua, por donde hubiera presumibles pasos de mastofauna. Para aumentar la efectividad de los registros, se utilizó como aroma atrayente esencia de vainilla y de banano rociadas con un atomizador cerca al campo de acción de la cámara, así como un cebo de comida húmeda para gato y una mezcla de manteca, avena en hojuelas, esencia de vainilla y banano.
+El total de la información colectada fue consignada en formatos de registro en campo y posteriormente digitalizada.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Por otra parte, el registro de anfibios y reptiles se realizó a partir de muestreos diurnos (8:00 - 14:00) y nocturnos (18:00 - 20:00), utilizando la técnica de muestreo VES (búsqueda por encuentro casual) complementada con la de búsqueda libre y sin restricciones, apoyada por la búsqueda auditiva e inspección en sitios de apareamiento (Crump &amp; Scott, 1994; Lip, Reaer &amp; Young, 2000; Martínez, Pacheco &amp; Ramírez-Pinilla, 2011; Rueda, Castro &amp; Cortez, 2006) . Así mismo, el registro de reptiles se complementó con la búsqueda de estos individuos en troncos caídos, túmulos de ramas, hojarasca, bajo rocas y suelo en general (Pisani &amp; Villa, 1974). A los individuos encontrados se les realizó un registro fotográfico para su posterior identificación, además de la georreferenciación del punto donde fue encontrado.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Flora :
+En este protocolo se establece una serie de parámetros fundamentados en las variables ambientales y dinámicas ecológicas de las coberturas vegetales a muestrear, en la que existe una serie de características que se tienen en cuenta las características de los forófitos a seleccionar (tamaño, altura, tipo de corteza y distancia entre árboles). 
+Dentro de la selección de los forófitos se siguieron las siguientes características:
+a.	Diámetro a la Altura del Pecho (DAP).
+b.	Estado fitosanitario.
+c.	Coordenadas de la ubicación por individuo con sistema de referencia
+d.	Magna Sirgas (especificando el origen).
+e.	Altura total y comercial.
+f.	Nombre común
+Posteriormente se realizó el conteo e identificación de especies vasculares y no vasculares.
+Así mismo, las muestras colectadas de plantas vasculares y no vasculares fueron determinadas en herbarios registrados y/o profesionales idóneos en la materia con experiencia específica en los grupos objeto de la evaluación, para lo cual se allegan los soportes documentales de ello tanto en hoja de vida como en certificado de determinación.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Area de influencia directa del proyecto solar fotovoltaico &quot;Helios Cesar Ocaña-220MWAC&quot; localizado en el predio &quot;El amor de Dios&quot; Aguachica, Cesar-Colombia.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Muestreo de fauna presente en la zona realizada a través de diferentes métodos acorde al grupo taxonomico de interés. Métodos efectivos: 
+Mamiferos: Redes de niebla / Cámara trampa, Herpetos: Muestreo por encuentro ocasional, Epífitas: Colecta manual.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Proyecto solar fotovoltaico &quot;Helios Cesar Ocaña-220MWAC&quot;</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Laura</givenName>
+                    <surName>Ramirez</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <abstract>
+                    <para>Información asociada al EIA proyecto solar fotovoltaico &quot;Helios Cesar Ocaña-220MWAC&quot;.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:05Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/hz3akt">Galindo C, Caicedo Y, Aramendiz-Macías L (2022). Biodiversidad asociada al proyecto solar fotovoltaico Helios Cesar Ocaña-220MWAC. Version 2.1. Construcciones y Ambiente Conambiente S.A.S. Occurrence dataset https://doi.org/10.15472/hz3akt accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Villareal, H., Álvarez, M., Córdoba, F., Fagua, G., Gast, F., Mendoza, H., Ospina, M. &amp; Umaña. (2006). Manual de métodos para el desarrollo de inventarios de biodiversidad. Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt, Bogotá, Colombia.</citation>
+                <citation>MAVDT-Ministerio  de  ambiente  y  desarrollo  sostenible-Autoridad de licencias ambientales. Metodología general para la elaboración y presentación de estudios ambientales.Bogotá: Minambiente,  2014.</citation>
+                <citation>Rodríguez-Macedo, M., González-Christen, A., &amp; León-Paniagua, L. S. (2014). Diversidad de los mamíferos silvestres de Misantla, Veracruz, México. Revista mexicana de biodiversidad, 85(1), 262-275.</citation>
+                <citation>Martínez, V.; Pacheco, V. &amp; Ramírez-Pinilla, M. (2011). Abundancia relativa y uso de microhábitat de la rana Geobatrachus walkeri (Anura: Strabomantidae) en dos hábitats en Sierra Nevada de Santa Marta, Colombia. Revista biología tropical, 59(2), 907-920.</citation>
+                <citation>Lozano, L.  A.  (2010).  Abundancia  relativa  y  distribución  de  mamíferos  medianos  y  grandes  en dos  coberturas  vegetales  y  en  el  santuario  de  fauna  y  flora  Otùn  Quimbaya  mediante el  uso  de  cámara  trampa.  Pontificia  Universidad  Javeriana.,facultad  de  ciencias carrera de  biología  Bogotá,  D.C.  14-43. Pp</citation>
+                <citation>Rueda, J., Castro, F. &amp; Cortez, C. (2006). Técnicas para el inventario y muestreo de anfibios: una compilación. En A. Angulo, J. Rueda–Almonacid, J. Rodríguez Mahecha &amp; E. La marca. (Ed.), Técnicas de inventario y monitoreo para los anfibios de la región tropical andina (pp. 135-172). Bogotá D.C, Colombia. Conservación internacional. Serie manuales de campo Nº 2 panamericana formas e impresos S.A.</citation>
+                <citation>Lips K. R. J. K. Reaser B. E. Young &amp; R. Ibáñez, (2000). Técnicas de Monitoreo de Anfibios en América Latina: Manual de Protocolos. Society for the Study of Amphibians and Reptiles.</citation>
+                <citation>Crump, M. &amp; Scott, N. (1994). Standard techniques for inventory and monitoring. En Heyer, R., Donnelly, M., Mcdiarmid, R., Hayek, L. &amp; Foster, M. (Eds.). Measuring and monitoring biological diversity: Standard Methods for amphibians (pp. 77-171). Washington, D. C., EEUU. The Smithsonian Institution</citation>
+                <citation>Pisani, G. &amp; Villa, J. (1974). Guía de técnicas de preservación de anfibios y reptiles. Miscellaneos Publications. Museum of Natural History the University of Kansas, E.U.</citation>
+                <citation>Gardner, A. L. (2007). Mammals of South America, Volume 1, Marsupials, Xenarthrans, Shrews, and Bats. Chicago, Estados Unidos: The University of Chicago Press.</citation>
+                <citation>Díaz, M. M., Solari, S., Aguirre, L. F., Aguiar, L., &amp; Barquez, R. M. (2016). Clave de Identificación de los murciélagos de Sudamérica. Publicación especial N°2, PCMA (Programa de Conservación de los Murciélagos de Argentina), pp.160.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-Conambiente.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

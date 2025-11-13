@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="b74615b4-f072-4d03-ba72-5a208bf62c03"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/o9rcxt</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=corporinoquia_pomca_banadia</alternateIdentifier>
+        <title>Fauna y flora asociada al Plan de Ordenación y Manejo de la cuenca del río Banadía, jurisdicción del departamento de Arauca</title>
+        <creator>
+            <individualName>
+                <surName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Autoridad ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (608) 6358588</phone>
+            <electronicMailAddress>atencionusuarios@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Autoridad ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (608) 6358588</phone>
+            <electronicMailAddress>atencionusuarios@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>ENINCO S.A.</surName>
+            </individualName>
+            <organizationName>ENINCO S.A.</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>https://eninco.com.co/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2024-12-19
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>La Corporación Autónoma Regional de la Orinoquía - CORPORINOQUÍA - atendiendo la normatividad ambiental existente en Colombia referida a la ley 99 de1993 y el Decreto Ley 2811 de 1974, incluyó dentro de sus prioridades el ordenamiento de la cuenca del río Banadía teniendo en cuenta la presión existente sobre los recursos naturales en este territorio por la ejecución de actividades antrópicas (tala, quema, deforestación,  etc.), y por ser principalmente fuente abastecedora de acueductos municipales, por ello se requirió generar un instrumento de planificación que permitiera realizar acciones conjuntas coherentes y efectivas entre las instituciones competentes ambientalmente y la comunidad, de tal forma que permitieran la recuperación y prolongación de los recursos naturales de esta área.</para><para>En razón a lo anterior, la Corporación Autónoma Regional de la Orinoquía - CORPORINOQUÍA y la firma consultora Eninco S.A., realizaron el proyecto denominado &amp;#34;Formulación del Plan de Ordenación y Manejo de la Cuenca del Río Banadía en los municipios de Saravena y Fortul&amp;#34;, localizado en jurisdicción de Corporinoquía en el departamento de Arauca.</para><para>Este conjunto de datos cuenta con 672 registros biológicos correspondientes a los reinos Plantae (197) y Animalia (475). Estos fueron tomados en el año 2010 en el municipio de Saravena. Para la captura de información de flora se realizó un levantamiento de parcelas de muestreo de 500m2 para la medición de fustales, larizales y brinzales, para la información de fauna, se realizaron recorridos libres de observación y se empleó redes de niebla.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>POMCA</keyword>
+            <keyword>Ordenamiento territorial</keyword>
+            <keyword>Parcelas de muestreo</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Redes de niebla</keyword>
+            <keyword>Gestión</keyword>
+            <keyword>Observaciones.</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=corporinoquia_pomca_banadia</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La cuenca del río Banadía se encuentra localizada al noroccidente del departamento de Arauca, comprendiendo parte de los municipios de Saravena y Fortul.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-71.95</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-71.764</eastBoundingCoordinate>
+                    <northBoundingCoordinate>7.02</northBoundingCoordinate>
+                    <southBoundingCoordinate>6.85</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2010-11-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2010-11-30
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>672 registros biológicos de fauna y flora silvestre distribuidos así: Plantae (197) y Animalia (475). El recurso está compuesto por 7 clases, 34 órdenes, 97 familias, 144 géneros y 177 especies. Del total, se identificó un 50.6% a nivel de especie, un 38.2% a nivel de familia y un 11.2% a niveles de género y orden. 
+
+En cuanto al reino Animalia, la distribución se da en 6 clases, 20 órdenes, 74 familias, 111 géneros y 140 especies. Del total, se identificó un 54.1% a nivel de familia, un 37.2% a nivel de especie y un 8.7% a niveles de género y familia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En cuanto al reino Plantae, la distribución se da en 14 órdenes, 23 familias, 33 géneros y 37 especies. Del total, se identificó un 82.7% a nivel de especie y un 17.3% a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Boraginales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fabales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gentianales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lamiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Laurales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Magnoliales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malvales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Myrtales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Piperales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rosales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Santanales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sapindales</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Nathalia</givenName>
+                <surName>Meza Fernández</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Profesional Universitaria SPA- Biodiversidad</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>nathaliameza@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FAUNA: Se seleccionaron zonas o puntos de muestreo a lo largo de la cuenca del río Banadía, teniendo en cuenta el gradiente altitudinal y la vegetación presente: 1) Zona  alta: Río Satocá, presencia de bosque primario y se localiza la Reserva Forestal, de donde sale el acueducto para el municipio de Saravena (1.000  – 2.800 msnm) 06°53 ́23,8”N, 071°56 ́58,3”. 2) Zona  media: Pie de monte, Río San Miguel, bosque secundario, arbustos y plantaciones de cacao (500-1.000 msnm) 06°50 ́59,7” N, 071°50 ́51.0”. 3) Zona baja: Río Madre vieja, Puerto Nariño, Sabana, zonas inundables, plantaciones de cacao y plátano, presencia de actividad petrolera (170-500 msnm) 07°00 ́49.9” N, 071°45 ́54.0” O y 07°00 ́54.7” N, 071°45 ́55,8”.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>ANFIBIOS: Los sitios de muestreo para anfibios se seleccionaron de acuerdo a la presencia de cobertura vegetal primaria y por su cercanía a las afluentes hídricas primaria y secundaria. Para la recolección de datos primarios se recolectaron en campo los animales y se les tomó fotografías para su posterior identificación, ningún animal fue sacrificado en este proyecto.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La recolecta consistió en hacer recorridos por los puntos de muestreo de día y de noche registrando el mayor número de microhábitats posibles; dentro de las áreas boscosas se establecieron los hábitats más adecuados para el establecimiento de estos vertebrados, estos fueron: interior de bosque, borde de bosque y borde de quebrada. En  áreas abiertas se muestrearon los siguientes hábitats: cultivo, pastizal, cuerpos de agua, esteros, fragmentos de bosque (rastrojo alto y bajo).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se utilizó la metodología de encuentros visuales sin restricción (VES), la cual consiste en realizar transeptos en el área de estudio y buscar en todos los lugares posibles; complementario a lo anterior, se implemento un muestreo auditivo que se enfoca en los cantos producidos por los machos en época de apareamiento y que se evidencian mayormente en la noche.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>REPTILES: Los lugares de muestreo se seleccionaron teniendo en cuenta el grado de conservación en que se encontraban y la poca presencia de asentamientos humanos. Para la recolección de datos primarios se recolectaron en campo los animales y se les tomo fotografías para su posterior identificación, ningún animal fue sacrificado. Para el registro de las especies se utilizó la técnica de captura por  encuentro visual (Crump &amp; Scott 1.994) en dos jornadas de muestreo (diurnas y nocturnas). Cada día de muestreo tuvo un esfuerzo de búsqueda de ocho horas/hombre. El hábitat muestreado en el día fue remuestreado en la noche con el fin de localizar especies con diferentes periodos de actividad. Durante la búsqueda se abarcaron la mayor cantidad posible de microhábitats, hasta un máximo de cuatro metros de altura, por lo tanto el dosel fue excluido del estudio. Se muestrearon los hábitats de  interior de bosque, borde de bosque, fragmento de bosque, cuerpos de agua, vegetación riparia y sabana.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se utilizó la metodología de encuentros visuales sin restricción (VES), la cual consiste en realizar transeptos en el área de estudio y buscar en todos los lugares posibles. Los lagartos que se encontraban en los recorridos se recolectaban de forma manual y se les tomaba datos autoecológicos en su microhábitat; para las serpientes se utilizaban ganchos herpetológicos para evitar los accidentes ofídicos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>A los pobladores cercanos a las zonas de muestreo, se les realizó entrevistas informales, en donde se les preguntaba sobre la presencia de reptiles en la zona, como los llamaban comúnmente, si los sacrificaban y porque, finalmente se les mostraban algunas fotografías de especies para que las reconocieran.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>AVES: El proceso de levantamiento de información primaria se basa en la Metodología implementada por el Instituto Alexander von Humboldt, expuestos en el Manual de Métodos para el desarrollo de Inventarios de Biodiversidad, implementada por Grupo de Exploración y Monitoreo Ambiental GEMA. Esta metodología permite obtener información básica sobre la composición de las especies de aves en un lapso  de tiempo relativamente corto, mediante el trabajo de campo con una intensidad de muestreo de nueve (9)  días, distribuidos en las tres formaciones ecosistémicas establecidas en el territorio de la cuenca del río Banadía, trabajos llevados a cabo en los puntos previamente  seleccionados de conjunto con los profesionales asignados por CORPORINOQUIA y los profesionales designados por ENINCO S.A.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Dentro de las prácticas de levantamiento de información primaria se contemplo la captura de ejemplares sin llevar acabo colección de especímenes, esta actividad permite la toma de registros morfométricos, estados de desarrollo, estado reproductivo además de realizar un registro fotográfico de las especies contactadas. También se complementa la información con registros de evidencias naturales de la actividad de las aves y de su distribución mediante huellas, nidos, comportamientos grupales que son registrados con el uso de fotografías y localización mediante el seguimiento de cantos o sonidos emitidos por los especímenes de tal forma que su presencia  quede  registrada  en  algún  medio físico como parte de los valores bióticos del área de la cuenca y que son factibles de ser constatadas por los habitantes de la región y validada a lo largo del tiempo según lo expuesto por VILLARREAL H., M. ÁLVAREZ, S. CÓRDOBA, F. ESCOBAR,  G.  FAGUA,  F.  GAST,  H.  MENDOZA,  M.  OSPINA  Y  A.M.  UMAÑA (2006).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>MAMÍFEROS: La metodología que se empleó para realizar el inventario de mamíferos terrestres y voladores de la cuenca del río Banadía (ríos Satocá, San Miguel y Madrevieja -Puerto Nariño) perteneciente al municipio de Saravena, fue la presentada por Morales-Jiménez et  al.  (2004) y los parámetros a seguir sobre inventarios de biodiversidad están sujetos a el Manual de Métodos para el desarrollo Inventarios 
+de Biodiversidad del Instituto Humboldt (Villarreal et al. 2.006).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para censar los mamíferos silvestres presentes en la cuenca del Río Banadía, se realizó trabajo de campo, en el que se emplearon diferentes técnicas teniendo en cuenta el hábito de estos animales: mamíferos terrestres (pequeños, medianos y grandes) y pequeños mamíferos voladores, dada la diversidad de tamaños, formas de vida, y hábitos que tienen los mamíferos (Wilson et al., 1996).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Registro de medianos y grandes mamíferos: Se realizaron observaciones directas (información primaria) de señales en el hábitat (huellas y rastros) guiada  por el guía de la zona y registros indirectos (información secundaria) a través de encuestas previamente elaboradas donde, con  la ayuda de láminas a color, se reunió información de las especies de mamíferos silvestres presentes en la Cuenca del río Banadía.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Registro de pequeños mamíferos terrestres y voladores: Para registrar pequeños mamíferos no voladores (roedores y marsupiales), se emplearon diez trampas Sherman con cebo elaborado a base de maní, grasa de cerdo, avena y esencia de plátano. Las  trampas se ubicaron  a lo largo de los caminos, se colocaron en la tarde y se revisaron al día siguiente. Para  la captura  de pequeños mamíferos  voladores se emplearon tres redes de niebla de 7x3 metros que estuvieron abiertas desde las 18:00 hasta las 22:00 horas en las zonas donde fue posible abrirlas. Las redes se ubicaron a 3 metros del suelo y se localizaron teniendo en cuenta la vegetación presente y las posibles rutas para el desplazamiento nocturno de los murciélagos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FLORA: Se efectuaron parcelas de 50 x 20 metros, divididas en subparcelas de 50 x10 metros cada una, por cada zona escogida, en donde se  efectuó un censo de los individuos con diámetro a la altura de pecho (DAP) igual o superior a 10 centímetros, se registraron los parámetros  de  nombre común, altura total, altura comercial y diámetro a la altura de pecho y diámetros de copas. Dentro de la misma parcela se realizaron subparcelas de 5 x 5 metros en donde se realizó un censo y medición de todos los individuos con alturas mayores a 150 centímetros y DAP &lt;  9.9 centímetros, registrando su nombre común y nombre científico (Latizales). Se realizaron dos subparcelas de 2 x 2 metros en donde se realizó un censo y medición de todos los individuos con alturas entre 31 y 150 centímetros registrando su nombre común y nombre científico (Brinzales).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fustales: se medirán todos los individuos con DAP (Diámetro a la altura del pecho (1.30 metros de altura del tronco)) con un diámetro igual o mayor a 10 centímetros. Latizales: Censo y medición de todos los individuos con alturas mayores a 150 cm y DAP &lt; 9.9 cm, registrando su  nombre común y nombre científico. Brinzales: Censo y medición de todos los individuos con alturas entre 31 a 150 centímetros, registrando su nombre común y nombre científico.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En campo se levantaron ocho (8) parcelas en diferentes zonas de la cuenca del rio Banadía, durante cinco (5)  días y se obtuvieron datos de composición florística, estructura y riqueza de las principales unidades de vegetación presentes en el área. Cada parcela con un área de 500  m2, de las cuales se capturó información de todos fustales presentes en el área. En  cada una de las parcelas realizadas se hizo inventario de  todos los árboles, arbustos, con un diámetro a la altura del pecho (DAP) igual o mayor a 10 centímetros y se registraron los parámetros de nombre común, altura total, comercial y diámetro a la altura de pecho.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cada una de las parcelas fue subdividida en sub parcelas de 5*5 y de 2*2 metros, con el fin de levantar información de vegetación de las diferentes categorías de tamaño de regeneración natural. Durante los recorridos se realizo una identificación de la composición florística de 
+cada  zona  estudiada con el fin de recopilar información sobre las especies vegetales presentes en el área del proyecto, se recolectó información sobre su nombre común, nombre científico y familia con el fin de determinar la riqueza florística de las zonas estudiadas.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La cuenca del río Banadía se encuentra localizada al noroccidente del departamento de Arauca, comprendiendo parte de los municipios de Saravena y Fortul.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la realización de los inventarios de vegetación se utilizó la metodología propuesta por el Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt (Villarreal H. et al. 2006). Respecto al estudio de fauna realizado, se seleccionaron zonas o puntos de muestreo a lo largo de la cuenca del río Banadía, teniendo en cuenta el gradiente altitudinal y la vegetación presente.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Proyecto &quot;Formulación del Plan de Ordenación y Manejo de la Cuenca del río Banadía en los municipios de Saravena y Fortul, departamento de Arauca&quot;</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Nathalia</givenName>
+                    <surName>Meza</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>CORPORINOQUIA, atendiendo la normatividad  ambiental existente en Colombia referida a la ley 99 de 1993 y el Decreto Ley 2811 de 1974, que reglamenta las responsabilidades y funciones de las Corporaciones Autónomas Regionales, comprendidas dentro del ordenamiento, reglamentación del uso y manejo sostenible de los recursos naturales renovables, incluyó dentro de sus prioridades la cuenca del río Banadía debido a la presión existente sobre los recursos naturales en este territorio por la ejecución de actividades antrópicas (tala, quema, deforestación, etc.) y por ser principalmente fuente abastecedora de acueductos municipales. Se presentó mediante la firma consultora Einco S.A. el proyecto “Formulación del plan de ordenación y manejo de la cuenca del Río  Banadía en los municipios  de  Saravena y Fortul, Departamento de Arauca, bajo los parámetros y directrices del Decreto 1729 del 2002, la Guía Técnico Científica del  Ideam y la Caja de Herramientas”.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>La cuenca del río Banadía se encuentra localizada al noroccidente del departamento de Arauca, comprendiendo parte de los municipios de Saravena y Fortul.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Para la realización de los inventarios de vegetación se utilizó la metodología propuesta por el Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt (Villarreal H. et al. 2006). Respecto al estudio de fauna realizado, se seleccionaron zonas o puntos de muestreo a lo largo de la cuenca del río Banadía, teniendo en cuenta el gradiente altitudinal y la vegetación presente.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:20Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/o9rcxt">Corporación Autónoma Regional de la Orinoquia - Corporinoquia (2024). Fauna y flora asociada al Plan de Ordenación y Manejo de la cuenca del río Banadía, jurisdicción del departamento de Arauca. Corporación Autónoma Regional de la Orinoquia - Corporinoquia. Occurrence dataset https://doi.org/10.15472/o9rcxt accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>CRUMP, M.L., &amp;  N.J. SCOTT JR.1994. Visual Encounter Survey. pp  84-92. En: Heyer, W.R., M.A. Donelly, R. Mcdiarmid, &amp; L.A. Hayek. Foster  MS Ed. Measuring and Monitoring Biological Diversity. Standard Methods for Amphibian. Washington DC. Smithsonian Institute Press. USA.</citation>
+                <citation>VILLAREAL, H., M. ÁLVAREZ, S. CÓRDOBA, F. ESCOBAR, G. FAGUA, F. GAST, H. MENDOZA, M. OSPINA y A. M. UMAÑA. Segunda edición. 2006. Manual de métodos para el desarrollo de inventarios de biodiversidad. Programa de Inventarios de Biodiversidad. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá, Colombia. 236 pp</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-corporinoquia.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

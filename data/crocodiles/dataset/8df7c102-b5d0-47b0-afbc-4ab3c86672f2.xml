@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="8df7c102-b5d0-47b0-afbc-4ab3c86672f2"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/jbnhcy</alternateIdentifier>
+        <alternateIdentifier>8df7c102-b5d0-47b0-afbc-4ab3c86672f2</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=gasoducto_zonabananera_promigas</alternateIdentifier>
+        <title>Biodiversidad asociada al gasoducto regional Zona Bananera</title>
+        <creator>
+            <individualName>
+                <givenName>Mario</givenName>
+                <surName>Bermudez Diaz</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional gestión ambiental-forestal</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Mario.Bermudez@promigas.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Tatiana</givenName>
+                <surName>Veloza</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Bióloga</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Corinne.Veloza@promigas.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Silvestre</givenName>
+                <surName>Campo Carey</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional gestión ambiental-forestal</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Silvestre.Campo@promigas.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jose Antonio</givenName>
+                <surName>Hernández Lugo</surName>
+            </individualName>
+            <organizationName>Environmental Resources Management Colombia Ltda.</organizationName>
+            <positionName>Gerente general</positionName>
+            <address>
+                <deliveryPoint>Carrera 16 N 93a-36 Piso 6</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 1 744 1222</phone>
+            <electronicMailAddress>jose.hernandez@erm.com</electronicMailAddress>
+            <onlineUrl>https://www.erm.com/locations/colombia/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Hernán</givenName>
+                <surName>Aristizabal García</surName>
+            </individualName>
+            <organizationName>eQual consultoría y servicios ambientales S.A.S</organizationName>
+            <positionName>Gerente</positionName>
+            <address>
+                <deliveryPoint>Cra 16 a No. 82 – 13 Oficina 202</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>eaespinosa@equalambiental.com</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Mario</givenName>
+                <surName>Bermudez Diaz</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional gestión ambiental-forestal</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Mario.Bermudez@promigas.com</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Environmental Resources Management Colombia Ltda.</surName>
+            </individualName>
+            <organizationName>Environmental Resources Management Colombia Ltda.</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 16, No. 93A-36, Piso 6, Barrio Chico</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 1 744 1222</phone>
+            <onlineUrl>https://www.erm.com/locations/colombia/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>eQual consultoría y servicios ambientales SAS</surName>
+            </individualName>
+            <organizationName>eQual consultoría y servicios ambientales SAS</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Cra 16 a No. 82 – 13 Oficina 202</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>contacto@equalambiental.com</electronicMailAddress>
+            <onlineUrl>https://equalambiental.com/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2022-08-10
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El Gasoducto Regional Zona Bananera, tiene como objetivo la ampliación de la infraestructura existente asociada al transporte de gas natural de la empresa PROMIGAS S.A. E.S.P., ubicado en el tramo conocido como “Puente El Doctor – Tucurinca”. Tiene el alcance de realizar una variante a la infraestructura asociada al transporte de gas natural en esta región del Caribe colombiano, todo ello para asegurar el abastecimiento de gas natural a sus aliados comerciales, quienes tienen la responsabilidad de suplir la creciente demanda de gas natural en esta parte del país.
+
+De acuerdo con esto, el “Gasoducto Regional Zona Bananera” consistirá en un sistema de transporte de gas natural con una tubería de 10’’ de diámetro, una longitud de 50,61 km, el cual inicia en la vereda Jolonura, municipio de Ciénaga, y finaliza en la Vereda El Trébol, también del municipio de Ciénaga (Magdalena).</para>
+<para>En medio de la construcción se realizó un Estudio de Impacto Ambiental que incluyó el área de influencia directa y el área de influencia indirecta. En este estudio se evaluo la flora, donde se realizó un inventario al 100% de las plantas fustales (DAP mayor a 10cm) y una evaluación de flora latizal, brinzal y fustal.Una evaluación de fauna vertebrada terrestre y una caracterización de comunidades hidrobiológicas. Todas estas evaluaciones se realizaron en noviembre del año 2016, abarcando los municipios de Zona Bananera y Ciénaga, del departamento de Magdalena.</para>
+<para>Este recurso contiene un total de 7.234 registros, pertenecientes a 5 reinos, Plantae (4.546), Animalia (1.879), Chromista (686), Protozoa (76) y Bacteria (47). Abarcando registros de 609 nombres científicos, de los cuales 337 corresponden a especies, con un 73% clasificado a nivel de especie, 18% a género, 3% a clase, 2% a familia y 1% a categorias superiores.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Plantas vasculares</keyword>
+            <keyword>Vertebrados</keyword>
+            <keyword>Hidrobiología</keyword>
+            <keywordThesaurus>na</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keyword>Sector empresarial</keyword>
+            <keyword>Alianza SiB Colombia ANDI</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Este conjunto de datos fue publicado con el apoyo del proyecto CESP “OpenPSD – Engage and promote the private sector in open biodiversity data publication (ID CESP2019-004)”, y la alianza con la Asociación Nacional de Empresarios de Colombia (ANDI) a través de su iniciativa “Biodiversidad y Desarrollo” (Datos abiertos sobre biodiversidad desde el sector empresarial). Agradecemos la colaboración y el incentivo para compartir datos desde el sector empresarial. 
+This dataset was published with support of the CESP project “OpenPSD – Engage and promote the private sector in open biodiversity data publication (ID CESP2019-004)”, and the alliance with the National Business Association of Colombia (ANDI) through its initiative &quot;Biodiversity and Development&quot; (Biodiversity open data from the private sector). We are grateful with the colaboration and incentive to share data from the private sector.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=gasoducto_zonabananera_promigas</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El Proyecto se encuentra localizado en los municipios de Ciénaga (3.993) y Zona Bananera (3.241), en el departamento de Magdalena.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-74.211</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-74.102</eastBoundingCoordinate>
+                    <northBoundingCoordinate>11.07</northBoundingCoordinate>
+                    <southBoundingCoordinate>10.686</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2016-11-02
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2016-11-23
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este recurso contiene un total de 7.234 registros, pertenecientes a 5 reinos, Plantae (4.546), Animalia (1.879), Chromista (686), Protozoa (76) y Bacteria (47). Con un 73% clasificado a nivel de especie, 18% a género, 3% a clase, 2% a familia y 1% a categorias superiores.
+
+
+El reino Plantae comprende plantas terrestres y macrófitas. Agrupadas en 7 clases, 29 ordenes, 59 familias, 129 géneros y 109 especies.
+Un 95% esta clasificado hasta nivel de especie, 4% a género y 1% a categorias superiores.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bangiophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Chlorophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Conjugatophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Trebouxiophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Ulvophyceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Animalia contiene 1.879 registros, pertenecientes a 6 clases, 16 ordenes, 25 familias y 28 géneros. Con un 53% clasificado a nivel de especie, 23% a género, 12% a clase, 6% a familia y 5% a categorias superiores.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arachnida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arachnoidea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bivalvia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Branchiopoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Collembola</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Gastropoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Hirudinea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Malacostraca</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Maxillopoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Monogononta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Oligochaeta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Ostracoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Chromista contiene 686 registros, pertenecientes a 4 clases, 11 ordenes, 21 familias y 23 géneros. Con un 92% clasificado a nivel de género y, 8% a familia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Chromista</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bacillariophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Coscinodiscophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Dinophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Fragilariophycceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Protozoa contiene 76 registros, pertenecientes a 2 clases, 2 ordenes, 3 familias y 5 géneros. Con un 97% clasificado a nivel de género y 3% a especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Protozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Euglenoidea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lobosa</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Bacteria contiene 47 registros, pertenecientes a 2 clases, 4 ordenes, 7 familias y 5 géneros. Con un 76% clasificado a nivel de género, 17% a familia y 6% a orden.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Bacteria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Cyanobacteriia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Nostocophycideae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Mario</givenName>
+                <surName>Bermudez Diaz</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional gestión ambiental-forestal</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Mario.Bermudez@promigas.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Flora:
+Para determinar el número de árboles en estado latizal, especies y volumen de madera por especie a aprovechar por el proyecto, se realizó un muestreo estratificado en el área de influencia directa o derecho de vía con cada una de las coberturas inventariables, en donde se realizaron parcelas de 0,01 Ha. Las coberturas vegetales a las cuales se le realizó dicho muestreo son: Bosque ripario, Vegetación secundaria baja, Arbustal denso y Arbustal abierto. Para los individuos en estado fustal (DAP&gt; 10 cm) se realizó un censo al 100%.
+
+La recolección de información de latizales para las coberturas: Bosque ripario, Vegetación secundaria baja, Arbustal denso y Arbustal abierto, se realizó con una confiabilidad del 95% y un error de muestreo inferior al 20.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para las coberturas Bosque Bosque ripario y Vegetación secundaria alta, se realizaron parcelas transitorias de 0,1 Ha, dentro de estas parcelas se incluyeron las siguientes subparcelas de acuerdo a las categorías de tamaño de los individuos encontrados:
+10*10 metros para fustales, 5*5 metros para latizales y 2*2 metros para brinzales.
+
+Para la unidad de cobertura de vegetación secundaria baja, se estableció una unidad de muestreo de 10*50 metros. Estas parcelas incluyeron: 5 subparcelas de 10*10 metros para fustales, 3 subparcelas de  5*5 metros para latizales, y 3 subparcelas de  2*2 metros para brinzales.
+
+Para la cobertura de pastos arbolados se estableció una unidad de muestreo de 10*50 metros, con 5 subparcelas de 10*10 metros para fustales. No se realizaron subparcelas de regeneración natural para Pastos arbolados ya que al tratarse de una cobertura con un alto grado de antropización con actividades de limpieza y deshierbe, la presencia de individuos en estas categorías es mínima.
+
+Para la cobertura de Arbustal abierto y Arbustal denso se estableció una unidad de muestreo de 10*10 metros (0,01 Ha), con 1 subparcela de 10*10 metros para fustales y en el centro 1 subparcela de 5*5 metros para latizales  y 1 subparcela de de  2*2 metros para brinzales.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se determinaron algunos atributos para los fustales, estos fueron DAP, CAP, altura comercial, número de árbol, observaciones y nombre científico. La identificación de especies forestales se realizó directamente en campo y aquellas especies que no fue posible identificar en las parcelas, se realizó la colecta de la respectiva muestra botánica y se envió para determinación al Herbario del Jardín Botánico de Cartagena “Guillermo Piñeres” o se tomó el registro fotográfico correspondiente; para realizar posteriormente la revisión respectiva, los nombres científicos se designaron de acuerdo a las bases actualizadas a nivel mundial siguiendo el sistema de clasificación Angiosperm Phylogeny Group - APG III, de igual manera el nombre científico fue corroborado con la base de datos de la página Web www.theplantlist.org/about/.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fauna: 
+Herpeto fauna (anfibios y reptiles):
+Se realizan recorridos libres, en sitios claves para el encuentro de herpetofauna utilizando la metodología de encuentros visuales o búsqueda libre y capturas, conocida por sus siglas en inglés como VES (Crump &amp; Scott 1994, Páez 2002).
+Teniendo en cuenta que el 90% de los anfibios tienen hábitos nocturnos, el muestreo de este grupo durante la noche se direcciona en lugares potenciales de reproducción y donde son escuchados vocalizando, tratando de tener mayor cantidad de registros. En las noches también se buscan algunos reptiles (principalmente serpientes y tortugas), los cuales presentan estos hábitos nocturnos por excelencia, 
+
+Se realizaron búsquedas en huecos en el suelo y de árboles, en la hojarasca, charcas y troncos, Los recorridos se llevaron a cabo durante el día y la noche y de acuerdo con las condiciones específicas encontradas en campo. Los muestreos abarcaron desde el día 2/11/2016 al 23/11/2016, con un total de 19 días efectivos de muestreo, variando los periodos de muestreo diurnos y nocturnos entre 4 a 8 horas en horarios 7:00 a 11:00 y 5:00 a 21:00. 
+En total se hicieron 60 transectos de una hora de duración cada uno, con dos hombres haciendo muestreo por encuento visual (VES) para un total de 120 horas/hombre de esfuerzo de muestreo, con un recorrido total de 42.991 metros repartidos entre todas las coberturas encontradas en el sitio de estudio. Los transectos fueron georeferenciados con un punto de inicio (TR-HE01INI) y un punto final (TR-HE01FIN) y se marcaron los puntos de encuentro de individuos de forma consecutiva dentro del transecto (TR-HE-01) mediante un equipo GPS.
+
+Todos los individuos observados fueron capturados en la medida de lo posible y se depositaron en bolsas de tela, para hacer la mejor determinación posible de las especies presentes en la zona. Los individuos fueron liberados al final de cada levantamiento o jornada, en los mismos sitios de captura luego de ser identificados, haciendo el registro en los formatos de campo y fotografiados. Se realiza la georreferenciación de cada recorrido de muestreo. No fue necesario hacer colectas debido a que fue posible identificar las especies registradas en campo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves:
+Para el muestreo de aves en campo se utilizaron dos metodologías complementarias con el fin de tener mayor efectividad: transectos de observación de ancho fijo e instalación de redes de niebla (Stiles &amp; Bohórquez, 1999).
+
+Transectos: Los recorridos de observación en el área de influencia, se realizaron con la misma intensidad en las diferentes coberturas vegetales presentes en la zona. El método de muestreo consistió en hacer recorridos extensivos con un ancho efectivo de detección de 20 a 100 metros a una velocidad aproximada de 0.7 - 1.0 Km/hora con el fin de establecer transectos de observación a través de las diferentes coberturas presentes en el área de influencia directa. Estas caminatas se efectuaron en las horas de mayor actividad de las especies entre las 05:30 y 10:30 horas y en la tarde entre las 15:00 y 18:00 horas. Los recorridos nocturnos se realizaron para obtener información de la avifauna presente en estos horarios, en particular especies de los órdenes Strigiformes y Caprimulgiformes. Esta metodología se implementó durante tres (3) días abarcando un total de ocho (8) horas diarias con un esfuerzo total de muestreo de 24 horas/hombre por cobertura.
+
+Redes de niebla: Esta metodología incrementa el registro de especies de aves de tamaño pequeño con hábitos crípticos, que se ocultan dentro de las coberturas vegetales densas y además facilita su determinación taxonómica. Su instalación se realizó en cada una de las coberturas dentro del área de estudio; se utilizaron 120 metros de redes de niebla por cobertura vegetal con dimensiones de 9 a 12 m de longitud cada una por 3 metros de altura.
+
+Se  realizó durante dos días consecutivos en cada cobertura vegetal entre las 06:00 y 10:00 horas y las 15:00 y 18:00 horas. Las redes de niebla son instaladas lo suficientemente concentradas como para no tardarse más de 10 ó 15 minutos en recorrerlas; igualmente cada 20 minutos las redes fueron revisadas con el fin de evitar la muerte de las aves (Ralph 1996, Villareal et al. 2006). Posterior a la captura, el ave es retirada cuidadosamente de la malla en el menor tiempo posible para evitarle daño, se toma registro fotográfico y posteriormente se deja en libertad. Todos los ejemplares capturados fueron registrados en el formato de campo.
+
+Para la obtención de mejores datos en campo, el muestreo se complementó con entrevistas o charlas informales utilizando las guías de campo mencionadas para aves (Hilty &amp; Brown, 2009; McMullan et al., 2010) en las que se encuentran ilustraciones de las especies locales para su identificación. La población entrevistada consistió en pobladores de la zona con oficios como cacería, pesca, cultivadores y jornaleros.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos:
+Para el muestreo de mamíferos se utilizó un conjunto de técnicas, con el fin de acumular una gran cantidad de información y reunir los datos suficientes para tener una idea más real de la composición y estructura de la comunidad de mamíferos.
+Para el levantamiento de información primaria del grupo se realizaron transectos de observación, instalación de trampas Sherman y Tomahawk, y captura de mamíferos voladores a través de redes de niebla.
+
+Se realizaron transectos lineales en la mañana desde las primeras horas de la mañana hasta completar las distancia prevista, una vez por día, durante al menos 20 días efectivos de campo, empleando un esfuerzo de muestreo de 36 horas/hombre (x días*x horas/día*x hombres), para las cobertura en el área de influencia directa. 
+Los recorridos nocturnos se realizan desde las 6:00 am hasta las 9:00 am horas durante 11 días, logrando un esfuerzo de muestreo de 6 horas/hombre (x día * x horas/día * x hombres) por cobertura y 36 horas/hombre en total; estos recorridos se llevan a cabo durante dos (2) noche por cada cobertura.
+
+Se desarrollaron actividades de muestreo con al menos 10 trampas Sherman y 10 trampas Tomahawk distribuidas en los diferentes tipos de hábitat que se identificaron para el trabajo con fauna silvestre (dependiendo del tamaño de los fragmentos a estudiar), para un total de 50 trampas Sherman y 10 tomahaowk. Dichas trampas son ubicadas en las diferentes coberturas, a través de un esquema de muestreo anidado, teniendo en cuenta el tamaño del fragmento a considerar. El muestreo con las trampas tiene una duración de al menos, 20 días, obteniendo un esfuerzo total de 12 horas para trampas Sherman y 12 horas para trampas Tomahawk. 
+
+Las trampas Sherman se cebaron con una mezcla de mantequilla de maní, sardinas, avena en hojuelas y esencia de vainilla. Las trampas se instalaron buscando la mayor probabilidad de captura, ubicándolas en sitios cubiertos o con acumulación de frutos, teniendo en cuenta senderos, madrigueras, cuerpos de agua, así como fuentes de alimentación.
+Para la captura de mamíferos medianos se utilizaron 10 trampas Tomahawk las cuales se instalan en los lugares donde se encuentran senderos o rastros, en algunas de las coberturas encontradas en el área de estudio, para estas trampas se utiliza un cebo de frutas, mantequilla de maní, sardinas, avena y esencia de vainilla. Las trampas se receban en las tardes, para ser revisadas en la mañana siguiente.
+
+Redes de niebla: Para la captura de especies de murciélagos se emplearon de 5 a 10 redes de niebla de 12 metros de longitud y su ubicación es georreferenciada. El horario de muestreo se definió entre las 18:00 horas hasta 23:00 horas. El esfuerzo de muestreo está dado por el número de redes (5), multiplicado por el número de noches (2) y por las horas activas (5), lo cual indica que se tiene un total de 50 horas-red en cada sitio de instalación. Las redes fueron operadas durante diferentes fases lunares en 20 días consecutivos de trabajo.
+
+La información levantada en campo se organiza en tablas, consignando datos taxonómicos, ecológicos y de colecta de todas las especies registradas. Con el fin de establecer la representatividad del muestreo en las coberturas vegetales, se emplean los estimadores no paramétricos para datos de abundancia Chao 1 y 2, Jacknife 1 y ACE.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Ecositemas acuáticos:
+Macroinvertebrados del bentos:
+El muestreo de macroinvertebrados se realiza utilizando una red Surber que cuenta con un marco metálico inoxidable de 30 x 30 cm de área y 250 µm de apertura del ojo de malla. La red es ubicada en diferentes puntos dependiendo de los sustratos del cuerpo de agua; debido a las diferencias en su morfología, este procedimiento tiene una duración aproximada de 30 minutos.
+La red, es ubicada sobre el sustrato en dirección contracorriente, extendiendo la malla en dirección aguas abajo y con el marco hacia arriba extendido, lo que permite que el agua entre sin obstáculos por la apertura. Se limpian suavemente los elementos que hacen parte del fondo del cuerpo de agua que estén delimitados por el marco (hojarasca, piedras, ramas, etc.). El profesional realiza 5 barridos por punto de muestreo, considerando los cinco sustratos o biotopos más comunes en cuerpos de agua: Sustrato duro y corriente fuerte , Sustrato duro y corriente moderada-lenta , Vegetación acuática emergida de los márgenes de los ríos , Macrófitas acuáticas, Arena, grava o limo (Álvarez 2005)
+
+El material colectado como muestra compuesta se almacena en una bolsa plástica de calibre grueso con cierre hermético (resellable), preservado con alcohol etílico al 70% y almacenado para su transporte en neveras de icopor no refrigeradas, después de ser etiquetado con los datos del punto de muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Macroinvertebrados del néuston:
+Para la colección de macroinvertebrados del néuston se realizan recorridos superficiales con una red cónica en la película superficial del agua, en contracorriente, en áreas donde se evidencia la presencia de organismos. Una vez colectada la muestra, se deposita en una bolsa plástica resellable y se fija con alcohol etílico al 70%, para su preservación. La muestra debidamente etiquetada con el número de la estación y la fecha de muestreo, se trasladada en neveras de icopor no refrigeradas para su procesamiento de separación, identificación y conteo en el laboratorio.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Algas del perifiton:
+Para el muestreo de algas del perifiton se ubican elementos del sustrato que sirvan de puntos de fijación y establecimiento de algas, como piedras, hojarasca y detritos. 
+Se retiran los elementos a muestrear, teniendo presente no perder el material de estudio. Se realiza un raspado suave superficial sobre el sustrato utilizando un cuadrante de 9 cm2 y un cepillo. Finalmente, se limpia suavemente el área del cuadrante y se almacena el “pellet” en el frasco correspondiente.
+Se realizan 11 raspados por punto de muestreo, considerando los diferentes sustratos en el cuerpo de agua. La muestra se fija con solución Transeau (6: agua, 3: alcohol 70%, 1: formol 20%). Esta muestra es etiquetada y almacenada para su posterior análisis en laboratorio.
+Los especímenes se depositan en envases herméticos los cuales son introducidos en una nevera de icopor no refrigerada para su transporte hasta el laboratorio y posterior análisis.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Plancton (zooplancton y fitoplancton):
+Para la determinación de la composición y cuantificación del fitoplancton y zooplancton, se filtran 100 litros de agua. El filtrado se realiza, mediante la red de muestreo de plancton tipo cono con una malla fina de 30 µm, para cada comunidad por aparte. Se toma una muestra compuesta con agua de diferentes partes del cuerpo de agua, evitando el sesgo al momento de seleccionar los puntos de donde se colecte el agua. Al terminar de filtrar, la malla se lava con un atomizador con agua del cuerpo de agua muestreado; el material concentrado en el cono se almacena en frascos plásticos y se preserva con solución Transeau. El transporte de las muestras se realiza en envases herméticos los cuales son introducidos en una nevera de icopor no refrigerada para su transporte hacia el laboratorio y su posterior análisis.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Macrófitas acuáticas:
+Para el muestreo de macrófitas se registra la cobertura de especies por medio de un cuadrante de 1m2 (1m x 1m), realizando tres repeticiones por cada biotopo en el cuerpo de agua.
+Para los especímenes no identificados en campo, se colectan ejemplares botánicos, los cuales se conservan en una prensa botánica con alcohol etílico al 70%. Los especímenes depositados en hojas de papel periódico, prensadas por medio de dos rejillas de aluminio. Son introducidos en una nevera de Icopor no refrigerada para su transporte hasta el laboratorio y posterior análisis.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Ictiofauna:
+Se realizan inspecciones visuales del respectivo cuerpo hídrico, con el fin de identificar posibles sitios donde se pudieran encontrar peces (remansos de agua, troncos caídos, zonas profundas, etc.). El muestreo se realiza por medio de una red manual de pesca haciendo recorridos lineales perpendiculares a la orilla, de hasta una hora por biotopo y en cuerpos de agua más profundos se hacen lances con una atarraya, con diez lances por biotopo.
+Para las especies no identificadas, se selecciona un ejemplar por morfoespecie, el cual es anestesiado con esencia de clavos y sacrificado. Para su preservación se inyecta con una solución de formol. Los especímenes se depositan en envases herméticos con formol al 10%, los cuales son introducidos en una nevera de icopor no refrigerada para su transporte hasta el laboratorio y posterior análisis, transcurrido 10 días el formol se remplaza por alcohol al 70%.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El estudio se realizó en el área de influencia directa e indirecta del gasoducto regional Zona bananera, ubicado en el tramo conocido como “Puente El Doctor – Tucurinca”, el cual tiene una longitud de 50,61 km, inicia en la vereda Jolonura, municipio de Ciénaga, y finaliza en la Vereda El Trébol, también del municipio de Ciénaga (Magdalena).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la construcción del gasoducto se realizó un Estudio de Impacto Ambiental que incluyó el área de influencia directa y el área de influencia indirecta. En este estudio se evaluo la flora, donde se realizó un inventario al 100% de las plantas fustales (DAP&gt;10cm) y una evaluación de flora latizal, brinzal y fustal por medio de diferentes parcelas según la cobertura.
+Para la fauna se evaluaron los principales grupo de vertebrados terrestres (Aves, Mamíferos y Herpetos), con métodos como redes de niebla, trampas, recorridos libres y transectos.
+Finalmente se evaluaron las comunidades hidrobiológicas, entre las que se incluyen las macrofitas, macroinvertebrados del bentos y del neuston, ictiofauna y fitoplancton.
+Los datos tomados fueron organizados  y estandarizados para cumplir con el estándar DarwinCore.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Estudio de Impacto Ambiental (EIA) del gasoducto regional Zona Bananera</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Mario</givenName>
+                    <surName>Bermudez Diaz</surName>
+                    </individualName>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Proyecto de carácter privado, financiado por PROMIGAS.</para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:16Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/jbnhcy">Bermudez Diaz M, Veloza T, Campo Carey S, Hernández Lugo J A, Aristizabal García H (2022). Biodiversidad asociada al gasoducto regional Zona Bananera. Version 1.2. Promigas S.A E.S.P. Occurrence dataset https://doi.org/10.15472/jbnhcy accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>0519_zonabananera_20170630</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://ipt.sibcolombia.net/cr-sib/resource.do?r=0519_zonabananera_20170630</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>0052_eiagasoductoregionalzonabananera_20181122</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://ipt.sibcolombia.net/cr-sib/resource.do?r=0052_eiagasoductoregionalzonabananera_20181122</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>veda_gasoducto_regional_zona_bananera_promigas</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://ipt.sibcolombia.net/cr-sib/resource.do?r=veda_gasoducto_regional_zona_bananera_promigas</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>519_zonabananera_20190415</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://ipt.sibcolombia.net/cr-sib/resource.do?r=519_zonabananera_20190415</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/promigas.jpg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="28573c0a-b833-41b1-9999-56c6b9bce519"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/nruxuc</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=gsu_herps</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=gsu_herps</alternateIdentifier>
+        <alternateIdentifier>28573c0a-b833-41b1-9999-56c6b9bce519</alternateIdentifier>
+        <alternateIdentifier>14893</alternateIdentifier>
+        <title>Georgia Southern University - Savannah Science Museum Herpetology Collection</title>
+        <creator>
+            <individualName>
+                <givenName>Lance</givenName>
+                <surName>McBrayer</surName>
+            </individualName>
+            <organizationName>Georgia Southern University</organizationName>
+            <positionName>Associate Professor</positionName>
+            <address>
+                <deliveryPoint>Biology 2214</deliveryPoint>
+                <city>Statesboro</city>
+                <administrativeArea>GA</administrativeArea>
+                <postalCode>30460-8042</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>+01 912 478 0545</phone>
+            <electronicMailAddress>lancemcbrayer@georgiasouthern.edu</electronicMailAddress>
+            <onlineUrl>https://sites.google.com/a/georgiasouthern.edu/lance-mcbrayer/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Lance</givenName>
+                <surName>McBrayer</surName>
+            </individualName>
+            <organizationName>Georgia Southern University</organizationName>
+            <positionName>Associate Professor</positionName>
+            <address>
+                <deliveryPoint>Biology 2214</deliveryPoint>
+                <city>Statesboro</city>
+                <administrativeArea>GA</administrativeArea>
+                <postalCode>30460-8042</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>+01 912 478 0545</phone>
+            <electronicMailAddress>lancemcbrayer@georgiasouthern.edu</electronicMailAddress>
+            <onlineUrl>https://sites.google.com/a/georgiasouthern.edu/lance-mcbrayer/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>David</givenName>
+                <surName>Bloom</surName>
+            </individualName>
+            <organizationName>VertNet</organizationName>
+            <positionName>VertNet Programmer</positionName>
+            <electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>
+            <onlineUrl>http://www.vertnet.org</onlineUrl>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>David</givenName>
+                <surName>Bloom</surName>
+            </individualName>
+            <organizationName>VertNet</organizationName>
+            <positionName>VertNet Coordinator</positionName>
+            <electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>
+            <onlineUrl>http://www.vertnet.org</onlineUrl>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>John</givenName>
+                <surName>Wieczorek</surName>
+            </individualName>
+            <organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName>
+            <positionName>Information Architect</positionName>
+            <electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <pubDate>
+                2017-06-08
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The collection contains approximately 35,000 specimens of reptiles and amphibians. Most of the material is from southern Georgia, although some collections from other areas in the southeast are included. The collection contains representation over 95% of Georgia&amp;#39;s herpetofauna and is the second largest collection in the state. Specimen data is digitized (Specify 6.4), and is available via VertNet and/or upon request.  Contact Lance McBrayer for more information, loans, data requests, and/or a visit.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>http://vertnet.org/resources/norms.html</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://sites.google.com/a/georgiasouthern.edu/lance-mcbrayer/collections</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.vertnet.org/archive.do?r=gsu_herps</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Over 95% coverage of the Georgia&apos;s herpetological diversity is represented in the Collection. More than 90% of all counties in Georgia have records in the Collection. Thus, the coverage is quite extensive for Georgia. The majority of records in the Collection are from southeastern Georgia USA. Numerous records exist from southwestern South Carolina, but relative few holdings exist other regions.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-85.89</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-78.77</eastBoundingCoordinate>
+                    <northBoundingCoordinate>36.78</northBoundingCoordinate>
+                    <southBoundingCoordinate>28.41</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1956
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                1956
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Georgia has the third greatest herpetological diversity in the USA.  The Collection contains all but a few rare or endangered species of this diversity, including Flatwoods Salamanders, Patchnose Salamanders, Gopher Tortoises, and Indigo snakes. The salamander collection is excellent with many long series, large lots, and all life stages represented in many taxa.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Lance</givenName>
+                <surName>McBrayer</surName>
+            </individualName>
+            <organizationName>Georgia Southern University</organizationName>
+            <positionName>Associate Professor &amp; Curator</positionName>
+            <address>
+                <deliveryPoint>Biology 2214</deliveryPoint>
+                <city>Statesboro</city>
+                <administrativeArea>GA</administrativeArea>
+                <postalCode>30460-8042</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>+01 912 478 0545</phone>
+            <electronicMailAddress>lancemcbrayer@georgiasouthern.edu</electronicMailAddress>
+            <onlineUrl>https://sites.google.com/a/georgiasouthern.edu/lance-mcbrayer/</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:13Z</dateStamp>
+                <citation>McBrayer L (2017). Georgia Southern University - Savannah Science Museum Herpetology Collection. Version 6.1. Georgia Southern University. Occurrence dataset https://doi.org/10.15468/nruxuc accessed via GBIF.org on 2025-10-11.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

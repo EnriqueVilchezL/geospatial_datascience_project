@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="9a25dd5f-eb12-47f3-8a7e-51b8e3824600"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/rmoo5t</alternateIdentifier>
+        <alternateIdentifier>9a25dd5f-eb12-47f3-8a7e-51b8e3824600</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=eia_gasoductosanmateo_promigas</alternateIdentifier>
+        <title>Biodiversidad asociada al gasoducto Loop San Mateo-Mamonal</title>
+        <creator>
+            <individualName>
+                <givenName>Mario</givenName>
+                <surName>Bermudez Diaz</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional gestión ambiental-forestal</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Mario.Bermudez@promigas.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Silvestre</givenName>
+                <surName>Campo Carey</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional Gerencia Sostenibilidad y Medio Ambiente</positionName>
+            <address>
+                <deliveryPoint>Calle 66 N 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Silvestre.Campo@promigas.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Tatiana</givenName>
+                <surName>Veloza</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Bióloga</positionName>
+            <address>
+                <deliveryPoint>Calle 66 N 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>Corinne.Veloza@promigas.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Pablo</givenName>
+                <surName>Arango Escobar</surName>
+            </individualName>
+            <organizationName>Arango Escobar Asesorías Empresariales</organizationName>
+            <positionName>Gerente General</positionName>
+            <address>
+                <deliveryPoint>Cra. 11 d No. 123-46</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57) 3153964761</phone>
+            <electronicMailAddress>contacto@aeaeambiental.com</electronicMailAddress>
+            <onlineUrl>http://www.aeaeambiental.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>William</givenName>
+                <surName>Piragua Alarcon</surName>
+            </individualName>
+            <organizationName>Arango Escobar Asesorías Empresariales</organizationName>
+            <positionName>Coordinador componente Biótico</positionName>
+            <address>
+                <deliveryPoint>Cra. 11 d No. 123-46</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>contacto@aeaeambiental.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Liliana</givenName>
+                <surName>Salazar López</surName>
+            </individualName>
+            <organizationName>Arango Escobar Asesorías Empresariales</organizationName>
+            <positionName>Coordinadora componente Acuático</positionName>
+            <address>
+                <deliveryPoint>Cra. 11 d No. 123-46</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>lilianasalazarlopez@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Iván Manuel</givenName>
+                <surName>Sánchez Dueñas</surName>
+            </individualName>
+            <organizationName>Arango Escobar Asesorías Empresariales</organizationName>
+            <positionName>Biólogo Mastofauna</positionName>
+            <address>
+                <deliveryPoint>Cra. 11 d No. 123-46</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>Imsanchez7@yahoo.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Gladys</givenName>
+                <surName>Cardenas Arevalo</surName>
+            </individualName>
+            <organizationName>Arango Escobar Asesorías Empresariales</organizationName>
+            <positionName>Bióloga Herpetologa</positionName>
+            <address>
+                <deliveryPoint>Cra. 11 d No. 123-46</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gladysc4@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Mauricio</givenName>
+                <surName>Aguilar Puentes</surName>
+            </individualName>
+            <organizationName>Arango Escobar Asesorías Empresariales</organizationName>
+            <positionName>Botánico</positionName>
+            <address>
+                <deliveryPoint>Cra. 11 d No. 123-46</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mauricio8489@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Juan Camilo</givenName>
+                <surName>Bonilla</surName>
+            </individualName>
+            <organizationName>Arango Escobar Asesorías Empresariales</organizationName>
+            <positionName>Limnólogo</positionName>
+            <address>
+                <deliveryPoint>Cra. 11 d No. 123-46</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jcbonillagon@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Laura Marcela</givenName>
+                <surName>Méndez Mora</surName>
+            </individualName>
+            <organizationName>Arango Escobar Asesorías Empresariales</organizationName>
+            <positionName>Limnóloga</positionName>
+            <address>
+                <deliveryPoint>Cra. 11 d No. 123-46</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mlaura85@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Iván</givenName>
+                <surName>López González</surName>
+            </individualName>
+            <organizationName>Arango Escobar Asesorías Empresariales</organizationName>
+            <positionName>Biólogo asistente</positionName>
+            <address>
+                <deliveryPoint>Cra. 11 d No. 123-46</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>ivan.lop1@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Juan Felipe</givenName>
+                <surName>Romero</surName>
+            </individualName>
+            <organizationName>Fundación Herencia Ambiental Caribe</organizationName>
+            <positionName>Coordinador biológico</positionName>
+            <address>
+                <deliveryPoint>Calle #102 3 50</deliveryPoint>
+                <city>Santa Marta</city>
+                <administrativeArea>Magdalena</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57-5-4368303</phone>
+            <electronicMailAddress>juanfelipe2r@gmail.com</electronicMailAddress>
+            <onlineUrl>https://herenciaambiental.org/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Mario</givenName>
+                <surName>Bermudez Diaz</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional gestión ambiental-forestal</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Mario.Bermudez@promigas.com</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Juan Felipe</givenName>
+                <surName>Romero</surName>
+            </individualName>
+            <organizationName>Fundación Herencia Ambiental Caribe</organizationName>
+            <positionName>Coordinador biológico</positionName>
+            <address>
+                <deliveryPoint>Calle #102 3 50</deliveryPoint>
+                <city>Santa Marta</city>
+                <administrativeArea>Santa Marta</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57-5-4368303</phone>
+            <electronicMailAddress>juanfelipe2r@gmail.com</electronicMailAddress>
+            <onlineUrl>https://herenciaambiental.org/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Arango Escobar Asesorías Empresariales</surName>
+            </individualName>
+            <organizationName>Arango Escobar Asesorías Empresariales</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Cra. 11 d No. 123-46</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57) 3153964761</phone>
+            <electronicMailAddress>contacto@aeaeambiental.com</electronicMailAddress>
+            <onlineUrl>http://www.aeaeambiental.com/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Fundación Herencia Ambiental Caribe</surName>
+            </individualName>
+            <organizationName>Fundación Herencia Ambiental Caribe</organizationName>
+            <positionName>Fundación</positionName>
+            <address>
+                <deliveryPoint>Calle #102 3 50</deliveryPoint>
+                <city>Santa Marta</city>
+                <administrativeArea>Calle #102 3 50</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(57) 317 3643400</phone>
+            <onlineUrl>https://herenciaambiental.org/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2021-03-15
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>En el marco de la construcción del gasoducto Loop San Mateo-Mamonal, por parte de la empresa Promigas S.A.E.S.P, se realizó el Estudio de Impacto Ambiental que evaluó fauna, flora y comunidades hidrobiológicas. Para fauna se evaluaron los principales vertebrados terrestres (Anfibios, Aves, Mamíferos y Reptiles), para el flora se realizo un inventario forestal del área de influencia directa de todas las especies con un diámetro a la altura de pecho superior a 10 cm, junto a registros de epífitas vasculares y no vasculares presentes. Finalmente el muestreo de comunidades hidrobiológicas comprendió Fitoplancton, zooplancton, perifiton, macroinvertebrados acuáticos, macrófitas acuáticas y peces. El gasoducto pasa por 13 municipios en los departamentos de Sucre y Bolívar recorriendo un total de 197 kilometros aproximadamente.</para>
+<para>Adicionalmente se realizó un monitoreo de fauna en el año 2019, dando cumplimiento al Plan de Manejo Sostenible establecido mediante la licencia ambiental ANLA 805 de 2015, que estipula un monitoreo posterior a la finalización de la construcción inicial. En este monitoreo se caracterizaron en campo especímenes de Aves, Mamíferos y Herpetos, bajo el Permiso de Recolección ANLA 02254 del 2018.</para>
+<para>Este recurso comprende un total de 19.336 registros de biológicos, con 796 nombres científicos únicos. De estos registros 17.468 corresponden al estudio de impacto ambiental realizado para la construcción del gasoducto y 1.868 al monitoreo de fuana realizado como seguimiento al proyecto.
+Estan divididos en 2.573 registros de fauna terrestre, 13.968 registros de plantas vasculares terrestres, 483 registros de epífitas y 2.312 registros de comunidades hidrobiológicas.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Loop</keyword>
+            <keyword>Zooplancton</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Macrófitas acuáticas</keyword>
+            <keyword>Epífitas</keyword>
+            <keyword>Hongos</keyword>
+            <keyword>Gasoducto</keyword>
+            <keyword>Fitoplancton</keyword>
+            <keyword>ictiofauna</keyword>
+            <keyword>Macroinvertebrados acuáticos</keyword>
+            <keyword>Montes de María</keyword>
+            <keyword>Estudio Impacto Ambiental</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Perifiton</keyword>
+            <keywordThesaurus>na</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keyword>GBIF CESP</keyword>
+            <keyword>OpenPSD</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Este conjunto de datos fue publicado con el apoyo del proyecto CESP “OpenPSD – Engage and promote the private sector in open biodiversity data publication (ID CESP2019-004)”, y la alianza con la Asociación Nacional de Empresarios de Colombia (ANDI) a través de su iniciativa “Biodiversidad y Desarrollo” (Datos abiertos sobre biodiversidad desde el sector empresarial). Agradecemos la colaboración y el incentivo para compartir datos desde el sector empresarial. 
+This dataset was published with support of the CESP project “OpenPSD – Engage and promote the private sector in open biodiversity data publication (ID CESP2019-004)”, and the alliance with the National Business Association of Colombia (ANDI) through its initiative &quot;Biodiversity and Development&quot; (Biodiversity open data from the private sector). We are grateful with the colaboration and incentive to share data from the private sector.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=eia_gasoductosanmateo_promigas</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los datos fueron tomados en los departamentos de Sucre y Bolívar, en los municipios de San Pedro, San Luis de Sincé, San Juan de Betulia, Corozal, Sincelejo, Tolú Viejo, Morroa, San Onofre y Ovejas en el departamento de Sucre. Y los municipios de María la Baja, Arjona, Turbana y Cartagena en el departamento de Bolívar. Corresponden al pie de monte de la vertiente occidental de los Montes de María, el canal del Dique hasta Mamonal en Cartagena y comprende un total de  148.4 hectareas. El uso del suelo en el área es primordialmente ganadero y agropecuario, lo cual se ve reflejado en las coberturas determinadas: Ppastos, cultivos,vegetación secundaria,bosque de galería y bosque fragmentado dentro del ecosistema del bosque seco tropical.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-75.723</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-75</eastBoundingCoordinate>
+                    <northBoundingCoordinate>10.35</northBoundingCoordinate>
+                    <southBoundingCoordinate>9.156</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2014-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2019-05-22
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este recurso contiene un total de 19.336 registros biológicos, pertenecientes a 6 reinos, con un 88% clasificado hasta nivel de especie y 11% hasta género.
+Contiene 14.714 registros de plantas, comprendiendo plantas terrestres, epíifitas y acuáticas. Agrupadas en 11 clases diferentes, siendo la más abundante la clase Magnoliopsida con 13.456 registros. 
+Un 96% esta clasificado hasta nivel de especie y el 4% restante a categorias superiores.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Chlorophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Zygnematophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Ulvophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Trebouxiophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankValue>Pinopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Charophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Contiene 3.031 registros de Animales, agrupando vertebrados e invertebrados acuáticos. Repartidos en 11 clases diferentes, siendo la más abundante la clase Aves con 1.783 registros. Un 90% esta clasificado hasta especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Hexanauplia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotatoria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Branchiopoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Ostracoda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Hydrozoa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Gastropoda</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Contiene 576 registros de Chromistas, agrupados en 2 clases. Estos estan clasificados hasta género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bacillariophyceae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Xanthophyceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Contiene 389 registros de hongos, agrupados en 3 clases. Clasificados en 53% hasta especie y el restante a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Contiene 357 registros de protozoarios, agrupados en 2 clases. Clasificados en 91% hasta género y el restante a especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Euglenoidea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lobosa</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Contiene 269 registros de Bacterias, todas pertenecientes a la clase Cianobacterias y clasificadas hasta género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Cyanophyceae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Mario</givenName>
+                <surName>Bermudez Diaz</surName>
+            </individualName>
+            <organizationName>Promigas S.A. E.S.P</organizationName>
+            <positionName>Profesional gestión ambiental-forestal</positionName>
+            <address>
+                <deliveryPoint>Calle 66 No. 67-123</deliveryPoint>
+                <city>Barranquilla</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3713444</phone>
+            <electronicMailAddress>Mario.Bermudez@promigas.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Para el muestreo de flora se realizó un invetario forestal al 100% abarcando los árboles con DAP igual o mayor a 10 centímetros.
+Para el muestreo de epífitas vasculares se hicieron 20 subparcelas de 10*100 cm por unidad de cobertura vegetal.
+Para el muestreo de epífitas no vasculares se hizó 1 cuadricula de 600cm2 en todos los forófitos de las 20 subparcelas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El muestreo de fauna se realizó para todos los grupos de vertebrados.
+-Para las Aves se usaron 10 redes de niebla de 12m, Entre las 06:00 y las 10:00 y entre las 15:00 y las 18:00 horas, 3 día spor cobertura
+-Para los herpetos se realizó busqueda libr ey captura, con 3 transectos de 500 a 1000 m, tres veces al día y tres días por cobertura
+-Para los mamiferos se usaron 50 trampas Sherman, 50 trampas Tomahawk y 5 redes de 12m, cada una tres días por cobertura.
+-Para los peces se usaron redes de mano, por una hora de arrastre. Atarraya con 2 horas de lance y red de arrastre en dos horas, todo por punto de muestreo.
+
+Para el muestreo de fauna se capturaron de manera temporal individuos para hacer procesos de identificación, estos corresponden a: Avifuana individuos de las familias Bucconidae, Troglodytidae, Cardinalidae y Columbidae. Mamíferos voladores de la familia Phyllostomidae. Anfibios de las familias Leptodactylidae, Hylidae y Bufonidae. Reptiles de las familas Dipsadidae, Teiidae, Dactyloidae y Colubridae.
+
+Todos fueron devueltos a su medio natural sin ninguna afectación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los metodos utilizados para el muestreo de comunidades hidrobiológicas son los siguientes:
+-Para la recolecta del fitoplancton y del zooplancton se filtraron un total de 150 Litros, utilizando redes de ojo de malla de 20 y 57 micras, respectivamente.
+-Para el estudio del perifiton, se realizaron raspados con la ayuda de un cuadrante de 2x3cm
+-Para el estudio de las macrófitas se realizó un cuadrante tenía 1m2 de área
+-Para la colecta de ictiofauna se utilizaron nasas y atarrayas
+
+Para el registro de especies en el muestreo hidrobiológico, se identificaron las especies posibles para todos los grupos, independientemente si eran colectadas usando un método u otro.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En total se entregaron 9 especímenes de peces a la colección Ictiológica del instituto de Ciencias Naturales.
+Ademas se entregaron 10 especímenes al Hebarion Nacional Colombiano.
+La información de número de catálogo y los individuos que se entregaron no esta presente en la base de datos debido a que no quedó documentada.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La metodología utilizada para el monitoreo de fauna consistio en el estudio de Herpetofauna, Avifauna y Mamíferos. Los métodos utilizados en este monitore fueron:</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>-Herpetofauna: La metodología de muestreo utilizada fue mediante recorridos libres (VES) con restricción de tiempo de una hora y máximo ocho recorridos por sitio de muestreo.
+Durante los eventos de muestreo se realizan caminatas diurnas (8:00 a 12:00) y nocturnas (18:00 a 22:00); en estos se revisan los diferentes microhábitats que puedan ser potenciales sitios de refugio o percha de anfibios y reptiles. Los recorridos se realizaron por dos personas, un profesional herpetólogo y un auxiliar de campo. Durante el muestreo se utilizaron los siguientes equipos: cámara fotográfica, gps, gancho herpetológico, linternas de 200 lúmenes y guantes.
+ 
+Fuente:Fundherencia 2020.
+Los individuos avistados se fotografiaron y se dejaron en el sitio; aquellos que su identificación no fuera posible se capturaron de forma manual y se examinaron caracteres en campo, posteriormente se liberaron en el mismo sitio de encuentro.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>-Avifauna:Se implementó la metodología de evaluación ecológica rápida, siguiéndose los lineamientos del grupo de exploración del monitoreo ambiental (GEMA), definiéndose las siguientes actividades: 1) recopilación de información secundaria de campo, a través de diálogos informales con personas de las diferentes áreas muestreadas, 2) observación “Ad livitum” con binoculares, 3) redes de niebla.
+Durante los recorridos de observación y registro de aves se utilizó el método de búsqueda intensiva propuesta por (Ralph, y otros, 1996), el cual consiste en realizar transectos sobre los senderos o trochas de las áreas definidas para muestreo, buscando abarcar la mayor cantidad de hábitats a través de recorridos en transectos de longitud y ancho variable, los cuales se recorrieron a una velocidad constante para registrar las especies tanto visual como auditivamente con ayuda de binoculares, de acuerdo con la metodología propuesta por (Bibby, Jones, &amp; Marsden, 1998), (Villarreal H. , y otros, 2004); (Villarreal H. , y otros, 2006); (MAVDT, 2010) para la realización de inventarios de especies de aves. A cada ave detectada se le registró la siguiente información: localidad, fecha, hora, el nombre de la especie (determinación taxonómica), sexo (cuando fue posible identificarlo), número de individuos y el hábitat.
+las 17:30 horas hasta las 00:00 horas. Se revisaron de manera periódica cada media hora aproximadamente (Acevedo y Zamora 2014). Para la identificación taxonómica de cada individuo se utilizaron como claves el libro de Alfred Gardner (2007) y Timm y colaboradores (1999), También se les registró el sexo y el estado reproductivo. Los murciélagos identificados se liberaron en campo.
+la identificación taxonómica.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>-Mamíferos, mamíferos Voladores: Para la captura de murciélagos se trabajó con redes de niebla (12 m de largo x 2,6 m de alto) a un nivel desde los 0.5 m – 1 m del suelo (Figura 9). Se colocaron entre cinco a siete redes por tipo de cobertura, para hacer en ellas mínimo dos noches de trabajo. Estas permanecieron abiertas desde las 17:30 horas hasta las 00:00 horas. Se revisaron de manera periódica cada media hora aproximadamente (Acevedo y Zamora 2014). Para la identificación taxonómica de cada individuo se utilizaron como claves el libro de Alfred Gardner (2007) y Timm y colaboradores (1999), También se les registró el sexo y el estado reproductivo. Los murciélagos identificados se liberaron en campo.
+Mamíferos pequeños no voladores: Para la captura de mamíferos pequeños no voladores se utilizaron trampas Sherman que se Instalaron estratégicamente en senderos y lugares de alta vegetación. Diariamente se activaron al depositar cebo fresco en su interior, el cual estaba hecho de mezclas de grasa animal, avena en hojuelas, esencia de vainilla y coco, sardinas en aceite. Las trampas se revisaron a primera hora de la mañana (Charre-Medellín et al., 2014 &amp; Corredor &amp; Bejarano, 2009), y se dejaron inactiva durante el día para evitar el sofocamiento de los animales en su interior. Se tomaron las medidas para la respectiva identificación de las especies capturadas y se utilizaron claves del libro de James Patton (2015) para</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área de estudio comprende toda el área de influencia directa del proyecto Gasoducto Loop, San Mateo-Mamonal. Que pasa por 13 municipios en los departamentos de Sucre y Bolívar.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se utilizaron imágenes satelitales de rapideye, año 2013 con un pixel de 5 metros, que junto a la información obtenida en campo se utilizó para definir 22 unidades de cobertura para el área de influencia directa (AID) del Estudio de Impacto Ambiental.
+En cada una de estas 22 unidades se realizó un muestreo de fauna, flora y de comunidades acuáticas.
+Ademas se realizó un monitoreo de fauna en seguimiento a la cosntrucción del gasoducto en el año 2019, este se realizó en cinco tipos de coberturas naturales a seminaturales, con un total de 20 sitios de  muestreo.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="CESP2019-004">
+                <title>Registros biológicos de la línea base del gasoducto del sur (Loop San Mateo-Mamonal) Sucre- Bolívar.</title>
+                <personnel>
+                    <individualName>
+                    <givenName>William</givenName>
+                    <surName>Piragua Alarcon</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:14Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/rmoo5t">Bermudez Diaz M, Campo Carey S, Veloza T, Arango Escobar P, Piragua Alarcon W, Salazar López L, Sánchez Dueñas I M, Cardenas Arevalo G, Aguilar Puentes M, Bonilla J C, Méndez Mora L M, López González I, Romero J F (2021). Biodiversidad asociada al gasoducto Loop San Mateo-Mamonal. Version 1.3. Promigas S.A E.S.P. Occurrence dataset https://doi.org/10.15472/rmoo5t accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>919_gasoductodelsur_20141029</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=919_gasoductodelsur_20141029</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>2274_fhacfauna_20200702</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=2274_fhacfauna_20200702</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/promigas.jpg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>ICN-MHN</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 005</collectionIdentifier>
+                    <collectionName>Colección Ictiológica del Instituto de Ciencias Naturales</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>COL</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 006</collectionIdentifier>
+                    <collectionName>Instituto de Ciencias Naturales - Herbario Nacional Colombiano</collectionName>
+                </collection>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Especímenes</jgtiUnitType>
+                    <jgtiUnitRange>
+                        <beginRange>1</beginRange>
+                        <endRange>9</endRange>
+                    </jgtiUnitRange>
+                </jgtiCuratorialUnit>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Especímenes</jgtiUnitType>
+                    <jgtiUnitRange>
+                        <beginRange>1</beginRange>
+                        <endRange>10</endRange>
+                    </jgtiUnitRange>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

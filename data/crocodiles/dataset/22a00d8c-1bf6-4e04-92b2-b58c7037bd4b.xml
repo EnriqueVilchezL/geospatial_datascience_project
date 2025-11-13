@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="22a00d8c-1bf6-4e04-92b2-b58c7037bd4b"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/sgdxk1</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=estudio_impacto_ambiental_cor9</alternateIdentifier>
+        <shortName>Flora y Fauna - EIA APE COR-9</shortName>
+        <title>Caracterización de fauna y flora para el Estudio de Impacto Ambiental para el Área de Perforación Exploratoria (APE) COR-9</title>
+        <creator>
+            <individualName>
+                <surName>HOCOL S.A.</surName>
+            </individualName>
+            <organizationName>HOCOL S.A.</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Carrera 7 # 113-43 - Piso 17 - Torre Samsung</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6014884000</phone>
+            <electronicMailAddress>notificacionesjudiciales@hcl.com.co</electronicMailAddress>
+            <onlineUrl>http://www.hocol.com.co</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>EIATEC S.A.S</surName>
+            </individualName>
+            <organizationName>EIATEC S.A.S</organizationName>
+            <positionName>Empresa de consultoría</positionName>
+            <address>
+                <deliveryPoint>Calle 45cbis # 23-37</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6017042362</phone>
+            <electronicMailAddress>cgalan@eiatec.com</electronicMailAddress>
+            <onlineUrl>http://www.eiatec.com</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>HOCOL S.A.</surName>
+            </individualName>
+            <organizationName>HOCOL S.A.</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Carrera 7 # 113-43 - Piso 17 - Torre Samsung</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6014884000</phone>
+            <electronicMailAddress>notificacionesjudiciales@hcl.com.co</electronicMailAddress>
+            <onlineUrl>http://www.hocol.com.co</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <surName>EIATEC S.A.S</surName>
+            </individualName>
+            <organizationName>EIATEC S.A.S</organizationName>
+            <positionName>Empresa de consultoría</positionName>
+            <address>
+                <deliveryPoint>Calle 45cbis # 23-37</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6017042362</phone>
+            <electronicMailAddress>cgalan@eiatec.com</electronicMailAddress>
+            <onlineUrl>http://www.eiatec.com</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2025-09-05
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            
+            Se efectuó la caracterización de fauna silvestre y vegetación terrestres en el área de influencia del proyecto denominado, Estudio de Impacto Ambiental para el Área de Perforación Exploratoria (APE) COR-9, localizado en los municipios de Purificación, Suarez, Cunday y Saldaña, en el departamento del Tolima, en el marco del Permiso de Colecta de la Resolución 2142 de 2019.
+Se registraron 1.400 registros biológicos de fauna (637) y flora (763) durante noviembre y diciembre del 2021.
+        
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=estudio_impacto_ambiental_cor9</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La caracterización de fauna silvestre y vegetación terrestre se realizó al interior del área de influencia del APE COR-9 en los municipios de Purificación, Suarez y Cunday, en el departamento del Tolima.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-74.9235</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-74.8083</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.021</northBoundingCoordinate>
+                    <southBoundingCoordinate>3.8668</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-11-27
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-12-12
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En cuanto a fauna silvestre se reportaron 637 registros con 1646 individuos en total, de los cuales 284 individuos y 20 especies corresponden al grupo de los anfibios, 944 individuos y 128 especies a aves, 256 individuos y 36 especies a mamíferos y 162 individuos y 28 especies a reptiles. Los 637 registros de fauna pertenecen a 31 órdenes, 87 familias y 180 géneros. El 97% de los registros faunísticos se encuentra identificado hasta especie y el 3% restante hasta género. 
+
+En cuanto a vegetación terrestre se reportaron 763 registros y 79 especies de flora fustal, pertenecientes a los órdenes Apiales, Boraginales, Caryophyllales, Dilleniales, Ericales, Fabales, Gentianales, Lamiales, Laurales, Magnoliales, Malpighiales, Malvales, Myrtales, Picramniales, Piperales, Proteales, Rosales y Sapindales. Los 763 registros de flora pertenecen a 18 órdenes, 39 familias y 75 géneros. El 96,7% de los registros de flora se identificó hasta especie y el 3,3% hasta género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                    <commonName>Anfibios</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                    <commonName>Aves</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                    <commonName>Mamiferos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                    <commonName>Reptiles</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unknown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Carolina</givenName>
+                <surName>Bonilla Vallejo</surName>
+            </individualName>
+            <organizationName>HOCOL S.A.</organizationName>
+            <positionName>Profesional de Aseguramiento de Documentos Ambientales</positionName>
+            <address>
+                <deliveryPoint>Carrera 7 # 113-43 - Piso 17 - Torre Samsung</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6014884000</phone>
+            <electronicMailAddress>carolina.bonilla@hocol.com.co</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Marcela</givenName>
+                <surName>Cabrera Guarín</surName>
+            </individualName>
+            <organizationName>EIATEC S.A.S.</organizationName>
+            <positionName>Gerente Técnica</positionName>
+            <address>
+                <deliveryPoint>Calle 45cbis # 23-37</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciatecnica@eiatec.com</electronicMailAddress>
+            <onlineUrl>http://www.eiatec.com</onlineUrl>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Adriana</givenName>
+                <surName>Palma</surName>
+            </individualName>
+            <organizationName>EIATEC S.A.S.</organizationName>
+            <positionName>Directora de Proyectos</positionName>
+            <address>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>apalma@eiatec.com</electronicMailAddress>
+            <onlineUrl>http://www.eiatec.com</onlineUrl>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Carolina</givenName>
+                <surName>Bedoya</surName>
+            </individualName>
+            <organizationName>EIATEC S.A.S</organizationName>
+            <address>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>carolina.bedoya@eiatec.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Anfibios: Para obtener registros de los anfibios presentes en el área de influencia del proyecto, se realizaron recorridos extensivos de observación diurnos y nocturnos utilizando el método de encuentro visual (Survey Visual Encounter (VES) propuesto por Heyer y colaboradores  y Angulo y colaboradores , de mínimo 1 km de longitud, el cual consiste en buscar individuos en un área delimitada durante un tiempo definido. Este procedimiento se complementó con el reconocimiento auditivo de las vocalizaciones de grupos de especies o individuos a lo largo de cada trayecto.
+
+Los recorridos extensivos se realizaron a pie en tres jornadas: 06:00-8:00, 10:00-15:00 y 18:00-20:00 horas, ya que es posible encontrar individuos con patrones de actividad mayor en ciertos periodos del día y algunos otros mantienen un pico en horas de la noche. Durante estos recorridos se realizó la remoción de hojarasca, material vegetal en descomposición como troncos, vegetación arbustiva, entre otros, en búsqueda de individuos. Los individuos fueron registrados mediante observación directa.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Reptiles: Para la caracterización de reptiles, los recorridos extensivos de observación se realizaron con base en los requerimientos ecológicos y comportamentales que exhibe el grupo; al igual que para los anfibios, se tuvo en cuenta el método de encuentro visual VES ; el cual consistió en buscar individuos de manera activa durante los recorridos, haciendo remoción de material vegetal como troncos, hojarasca, piedras y material en descomposición, que resultan sitios potenciales de refugio para muchos lagartos y serpientes. Los recorridos fueron realizados durante el día en tres jornadas: 06:00-8:00, 10:00-15:00 para el grupo de lagartos y serpientes diurnas y en las horas de la noche 18:00-20:00 horas se buscó activamente la presencia de serpientes nocturnas. Los individuos fueron registrados mediante observación directa.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: La caracterización de aves del área de estudio se realizó por medio de la metodología planteada por Villarreal et al. (2004) , combinó distintas estrategias como censos visuales, auditivos y encuestas. Se realizaron recorridos aleatorios entre las 06:00 y las 10:00 horas y entre las 15:00 y las 18:00 horas en trayectos largos (de mínimo 950 metros de longitud) que abarcaron las diferentes unidades de vegetación destinadas para la caracterización de fauna silvestre, en los cuales se tomó el registro escrito y fotográfico (cuando fue posible) de las especies observadas durante el mismo. No se realizaron capturas de individuos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: Se aplicaron varias metodologías soportadas por los autores Painter y colaboradores , Rabinowitz  y Gallina y López-González , Arias Alzate y colaboradores . Para la captura de mamíferos voladores se instalaron hasta diez (10) redes de niebla de 12 m x 2 m con ojo de malla de 36 mm, desde las 18:00 hasta las 22:00 horas, en las unidades de cobertura vegetal adecuadas para tal fin y definidas anteriormente, que presentaran zonas de transición potencial de murciélagos entre hábitats, ecotonos y bordes de bosque. Los individuos capturados fueron medidos, fotografiados y determinados taxonómicamente por medio de claves especializadas como las claves de identificación de Linares (1998) para Venezuela y de Muñoz para Colombia, y posteriormente liberados. 
+Para la captura y registro de mamíferos pequeños se instalaron hasta 30 trampas Sherman en las unidades de coberturas vegetales con un alto potencial de registros de especies para este grupo como el Bosque de Galería o Ripario por presentar una estructura y composición que le permite brindar zonas de refugio, tránsito y permanencia para las especies de este grupo. Estos dispositivos se instalaron a nivel del suelo de manera consecutiva alternando con partes altas del sotobosque como ramas y bejucos, separados mínimo 10 metros de distancia aproximadamente, durante 2 noches por cobertura. Cada trampa fue cebada utilizando mezclas de avena en hojuelas, esencia de vainilla y banano, en ocasiones al cebo se le adicionó aceite de hígado de bacalao y se camufló con hojarasca entre la vegetación con el fin de incrementar el éxito de captura. Para la captura de mamíferos medianos se instalaron hasta nueve (9) trampas Tomahawk en cada punto de muestreo durante la noche por 2 días consecutivos por cobertura, las cuales fueron cebadas con atrayentes como sardinas, frutas (banano, mango) y concentrado para mascotas, claves para atraer especies con diferentes hábitos alimenticios. Las trampas se ubicaron al interior de las unidades de cobertura vegetal adecuadas para tal fin, en caminos de tránsito de fauna o en lugares donde se camuflaban fácilmente con la vegetación; de igual forma, fueron revisadas en horas de la mañana y recebadas cuando fue necesario. Los individuos capturados fueron medidos, fotografiados e identificados según los conocimientos del investigador y con el apoyo de diferentes guías de campo, para su posterior liberación en su medio natural.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La caracterización de fauna silvestre y vegetación terrestre se realizó en los municipios de Purificación, Suarez y Cunday del departamento del Tolima, en el marco del Estudio de Impacto Ambiental para el Área de Perforación Exploratoria (APE) COR-9, entre el 27 de noviembre y 12 de diciembre de 2021.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la caracterización de la fauna silvestre y vegetación terrestre con distribución en el área de influencia del APE COR-9, se implementaron diferentes técnicas de muestreo específicas por grupo biológico. No se realizó recolección definitiva de especímenes de fauna y vegetación terrestre, por lo cual las actividades se desarrollaron mediante observación y capturas temporales de individuos.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="EIA APE COR-9">
+                <title>Estudio de Impacto Ambiental para el Área de Perforación Exploratoria (APE) COR-9</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Carolina</givenName>
+                    <surName>Bonilla Vallejo</surName>
+                    </individualName>
+                    <role>USER</role>
+                </personnel>
+                <abstract>
+                    <para>HOCOL S.A. es la compañía operadora del bloque en el cual se encuentra el Área de Perforación Exploratoria (APE) COR-9, ubicada en jurisdicción de los municipios de Purificación, Suarez, Cunday y Saldaña, en el departamento del Tolima.</para>
+                </abstract>
+                <funding>
+                    <para>HOCOL S.A.</para>
+                </funding>
+                <designDescription>
+                    <description>
+                        <para>La metodología para la caracterización referida en el AI del proyecto se desarrolló de acuerdo con lo dispuesto en los términos de referencia para la elaboración del Estudio de Impacto Ambiental para proyectos de perforación exploratoria de hidrocarburos M-M-INA-01, expedidos por la Autoridad Nacional de Licencias Ambientales (ANLA) en 2010 y a la Metodología General para la Elaboración y Presentación de Estudios Ambientales, emitida por el Ministerio de Ambiente y Desarrollo Sostenible (MADS) en el año 2018, el manual de métodos para el desarrollo de inventarios de biodiversidad del Instituto de Investigación en recursos biológicos Alexander von Humboldt (Villarreal et al., 2004), y el Permiso de Estudio para la recolección de Especies Silvestres de la Diversidad Biológica con Fines de Elaboración de Estudios Ambientales, otorgado mediante Resolución 2142 de septiembre de 2019, por la ANLA a la empresa EIATEC S.A.S.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:13Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/sgdxk1">HOCOL S.A., EIATEC S.A.S (2025). Caracterización de fauna y flora para el Estudio de Impacto Ambiental para el Área de Perforación Exploratoria (APE) COR-9. HOCOL S.A.. Occurrence dataset https://doi.org/10.15472/sgdxk1 accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-hocol.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

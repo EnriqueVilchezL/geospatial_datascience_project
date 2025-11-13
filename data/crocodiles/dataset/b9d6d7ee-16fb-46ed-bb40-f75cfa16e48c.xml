@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="b9d6d7ee-16fb-46ed-bb40-f75cfa16e48c"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/xinigd</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=frontera_monitoreo_mapache</alternateIdentifier>
+        <title>Monitoreo Participativo Comunitario - Bloque Mapache</title>
+        <creator>
+            <individualName>
+                <surName>Frontera Energy Colombia Corp.</surName>
+            </individualName>
+            <organizationName>Frontera Energy Colombia Corp.</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Calle 110 No. 9 ‑ 25</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>xcastro@fronteraenergy.ca</electronicMailAddress>
+            <onlineUrl>https://www.fronteraenergy.ca/es/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Fundación Cunaguaro</surName>
+            </individualName>
+            <organizationName>Fundación Cunaguaro</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Carrera 25 # 12-51</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>fundacion@cunaguaro.org</electronicMailAddress>
+            <onlineUrl>https://www.cunaguaro.org/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Fundación Cunaguaro</surName>
+            </individualName>
+            <organizationName>Fundación Cunaguaro</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Carrera 25 # 12-51</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>fundacion@cunaguaro.org</electronicMailAddress>
+            <onlineUrl>https://www.cunaguaro.org/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Fundación Cunaguaro</surName>
+            </individualName>
+            <organizationName>Fundación Cunaguaro</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Carrera 25 # 12-51</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>fundacion@cunaguaro.org</electronicMailAddress>
+            <onlineUrl>https://www.cunaguaro.org/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Isabel</givenName>
+                <surName>Puerta Cardona</surName>
+            </individualName>
+            <organizationName>Fundación Cunaguaro</organizationName>
+            <positionName>Auxiliar de campo</positionName>
+            <address>
+                <deliveryPoint>Carrera 25 # 12-51</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>isapuertavet@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.cunaguaro.org/</onlineUrl>
+            <role>PROCESSOR</role>
+        </associatedParty>
+        <pubDate>
+                2024-10-03
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Programa investigación y monitoreo participativo de la biodiversidad con énfasis en especies de fauna y flora de interés ambiental y social, dirigido a las comunidades del municipio Orocué-Casanare, zona de influencia del bloque Mapache.</para>
+<para>En este recurso se presentan 139 registros de especímenes correspondientes a los reinos Plantae y Animalia observados en los municipios Orocué, Cabuyaro y Puerto Gaitán correspondiente al departamento de Casanare y  Meta entre septiembre del 2023 y abril del 2024. Los especímenes se encuentran agrupados en 5 clases, 9 ordenes y 26 familias.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>fauna</keyword>
+            <keyword>flora</keyword>
+            <keyword>Monitoreo participativo</keyword>
+            <keyword>bloque Mapache</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=frontera_monitoreo_mapache</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El monitoreo se realizó en las veredas El Pellizco, La Independencia, La Virgen y Unión Tujua, ubicadas en el municipio de Orocué, Cabuyaro y Puerto Gaitán en el departamento de Casanare y Meta.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.919</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-71.297</eastBoundingCoordinate>
+                    <northBoundingCoordinate>5.128</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.359</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-09-10
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-04-05
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Los 139 registros pertenecen a 5 clases, 9 ordenes, 26 familias y 31 géneros. Un 99.2% está identificado a nivel de especie y un 0.71% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Ximena Andrea</givenName>
+                <surName>Castro Ordóñez</surName>
+            </individualName>
+            <organizationName>Frontera Energy Colombia Corp</organizationName>
+            <positionName>Profesional ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 110 # 9-25</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>xcastro@fronteraenergy.ca</electronicMailAddress>
+            <onlineUrl>https://www.fronteraenergy.ca/es/</onlineUrl>
+            <userId directory="http://scholar.google.com/citations?user=">0000-0001-8806-7506</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Flora: Identificación de parentales, colecta y siembra de semillas en unidades de propagación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fauna: Uso de la plataforma inaturalist para subir fotografías de mamíferos y reptiles encontrados en el territorio.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El programa de investigación y monitoreo participativo de la biodiversidad se realizará en las veredas El Pellizco, La Independencia, Miralindo, La Unión Tujua y La Virgen, ubicadas en el municipio de Orocué – Casanare. Estos municipios hacen parte del área de interés en el bloque de perforación exploratorio Mapache (LAM3739), área de interés de perforación exploratoria Mapache II (LAM 4502).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Monitoreo participativo de la comunidad por medio de observación directa</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>MONITOREO PARTICIPATIVO COMUNITARIO - BLOQUE CORCEL</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Ximena Andrea</givenName>
+                    <surName>Castro Ordóñez</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Fundación Cunaguaro y Frontera energy corp</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El programa de investigación y monitoreo participativo de la biodiversidad se realizará en las veredas El Pellizco, La Independencia, Miralindo, La Unión Tujua y La Virgen, ubicadas en el municipio de Orocué – Casanare. Estos municipios hacen parte del área de interés en el bloque de perforación exploratorio Mapache (LAM3739), área de interés de perforación exploratoria Mapache II (LAM 4502).</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>El monitoreo participativo comunitario se llevó a cabo con cinco (5) familias para el componente de flora y diez (10) para el componente de fauna, con el objetivo de lograr un monitoreo integral de la biodiversidad en el territorio, se propuso un programa de monitoreo por medio de la aplicación inaturalist y la instalación y seguimiento de unidades de propagación como estrategia de monitoreo de fauna y flora. Se encontraban asociadas al proyecto Cinco familias y diez personas presentes en las las veredas El Pellizco, La Independencia, Miralindo, La Unión Tujua y La Virgen, ubicadas en el municipio de Orocué – Casanare</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:21Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/xinigd">Frontera Energy Colombia Corp., Fundación Cunaguaro (2024). Monitoreo Participativo Comunitario - Bloque Mapache. Frontera Energy Colombia Corp. Occurrence dataset https://doi.org/10.15472/xinigd accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>Monitoreo participativo Bloque Mapache.</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>Página web</formatName>
+                            <formatVersion>1.0</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://www.inaturalist.org/projects/monitoreo-participativo-bloque-mapache</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-frontera.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

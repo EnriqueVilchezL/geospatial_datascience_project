@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="3f786eed-1ffb-49ef-9e5a-df550ec4097c"  system="http://gbif.org" scope="system"
+xml:lang="pt">
+    <dataset>
+        <alternateIdentifier>10.15468/jcm725</alternateIdentifier>
+        <alternateIdentifier>3f786eed-1ffb-49ef-9e5a-df550ec4097c</alternateIdentifier>
+        <alternateIdentifier>https://ipt.sibbr.gov.br/sibbr/resource?r=pab-eta-pirai</alternateIdentifier>
+        <title>CAJ | Plano de Ação para a Biodiversidade na Estação de Tratamento de Água (ETA) Piraí</title>
+        <creator>
+            <individualName>
+                <givenName>Claudia</givenName>
+                <surName>Rocha</surName>
+            </individualName>
+            <organizationName>Companhia Águas de Joinville</organizationName>
+            <positionName>Gerente</positionName>
+            <address>
+                <deliveryPoint>Rua XV de Novembro</deliveryPoint>
+                <city>Joinville</city>
+                <administrativeArea>Santa Catarina</administrativeArea>
+                <country>BRAZIL</country>
+            </address>
+            <phone>+554721051727</phone>
+            <electronicMailAddress>claudia.rocha@aguasdejoinville.com.br</electronicMailAddress>
+            <onlineUrl>https://www.aguasdejoinville.com.br/</onlineUrl>
+        </creator>
+        <pubDate>
+                2024-12-16
+        </pubDate>
+        <language>PORTUGUESE</language>
+        <abstract>
+            <para>O presente estudo trata-se da elaboração de um Plano de Ação para a Biodiversidade (PAB) para a instalação da Estação de Tratamento de Água (ETA) Piraí, localizada na zona rural de Joinville, dentro da APA Serra Dona Francisca. Fazem parte dos componentes do projeto, a implantação de obras de ampliação e melhoria, visando melhorar a eficiência do processo de tratamento de água, entre eles a construção de uma nova estação de tratamento de lodo, novo reservatório de água tratada, instalação de novos filtros, nova adutora e recalque de água bruta e melhoria dos acessos existentes. Um Plano de Ação para Biodiversidade (PAB) tem como principal objetivo estabelecer as metas de biodiversidade do projeto, avaliar os impactos residuais e apresentar um racional sobre as ações necessárias a serem implementadas para alcançar metas de zero perda e/ou ganhos de biodiversidade.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence/PAB/PIRAÍ</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://collectory.sibbr.gov.br/collectory/public/show/dr1151</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.sibbr.gov.br/sibbr/archive.do?r=pab-eta-pirai</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>A ETA Piraí localiza-se na Estrada dos Morros, s/nº, no Bairro Vila Nova, no município
+de Joinville no Estado de Santa Catarina, a aproximadamente a 18 km da área central de 
+Joinville. A ETA Piraí apresenta área construída de aproximadamente 4.600 m², estando 
+instalada em uma propriedade com 264.807 m² no interior da APA Serra Dona 
+Francisca</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-49.068</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-48.713</eastBoundingCoordinate>
+                    <northBoundingCoordinate>-26.118</northBoundingCoordinate>
+                    <southBoundingCoordinate>-26.409</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>N/A</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Suliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anseriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Falconiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pelecaniformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Perissodactyla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Peixes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Passeriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rodentia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Primates</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chordata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gruiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Passeriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apodiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Carnivora</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Peixes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Primates</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Carangiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Galbuliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gruiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Didelphimorphia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cichliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Nyctibiiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Carnivora</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Didelphimorphia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Trogoniformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cuculiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Tinamiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Characiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cetartiodactyla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gymnotiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Symbranchiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ciconiiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pilosa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Falconiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cathartiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Galliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Accipitriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cyprinodontiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Siluriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Columbiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Columbiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Chiroptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Charadriiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Podicipediformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Psittaciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cingulata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cetartiodactyla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cingulata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rodentia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Strigiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coraciiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Piciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Accipitriformes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Claudia</givenName>
+                <surName>Rocha</surName>
+            </individualName>
+            <organizationName>Companhia Águas de Joinville</organizationName>
+            <positionName>Gerente</positionName>
+            <address>
+                <deliveryPoint>Rua XV de Novembro</deliveryPoint>
+                <city>Joinville</city>
+                <administrativeArea>Santa Catarina</administrativeArea>
+                <country>BRAZIL</country>
+            </address>
+            <phone>+554721051727</phone>
+            <electronicMailAddress>claudia.rocha@aguasdejoinville.com.br</electronicMailAddress>
+            <onlineUrl>https://www.aguasdejoinville.com.br/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>A caracterização das espécies da flora da AdA foi realizada com base em dados primários, obtidos em campo tanto pelos estudos realizados pela CAJ (em conjunto com a Engevix e a Hidrosan, em 2022) como pela equipe da JGP, e dados secundários, obtidos através de bibliografia e bases de dados científicas sobre a distribuição de espécies da flora.
+A verificação da importância do hábitat para os valores de biodiversidade prioritários foi feita em 2 etapas:
+1) Determinação dos valores de biodiversidade prioritários: os valores de biodiversidade identificados na AdA foram avaliados em relação ao seu potencial em acionar algum dos gatilhos de hábitat crítico, conforme os 6 critérios estabelecidos no parágrafo 16. Essa análise resultou em uma lista de valores de biodiversidade prioritários, ou seja, que por seu grau de ameaça, distribuição e/ou significância ecológica para as populações naturais tem potencial de acionar os gatilhos estabelecidos nas notas de orientação do PDAS6. Esses valores foram avaliados em relação aos limiares estabelecidos nas notas de orientação do PDAS6. 
+2) Delimitação das áreas de análise ecologicamente apropriadas: os valores considerados como potenciais ativadoros de hábitat críticos foram agrupados, de acordo com as informações ecológicas e de distribuição e tiveram suas Área de Análise Ecologicamente Apropriadas (AAEA) delimitadas (essa delimitação foi feita por grupo de espécies com características ecológicas semelhantes). Para os ecossistemas considera-se a extensão ocupada na AdA e a extensão diretamente afetada.
+3) Análise de ativação do gatilho: as AAEA foram comparadas às Áreas de Ocupação (Areas of Ocupancy/AOO) dos valores potenciais gatilho e avaliadas em relação aos limiares de ativação estabelecidos nos parágrafos GL67 a GL81.
+A delimitação de hábitat críticos foi feita por meio da comparação direta das AAEA com a Área de Ocupação (AOO) de cada espécie potencial gatilho de hábitat crítico.A análise de alternativas locacionais contempla as possibilidades de execução do 
+projeto com o menor impacto possível em hábitats naturais. Para tal, dentre as obras de melhoria e ampliação previstas, foram consideradas as seguintes, que podem ocasionar alteração de cobertura do solo e/ou supressão de vegetação nativa:
+a. implantação de nova unidade de tratamento de lodo; 
+b. instalação de 4 novos filtros;
+c. estação de recalque de água bruta e nova adutora de água bruta; 
+d. instalação de um reservatório e água tratada
+e. melhoria no acesso até captação nova com calçamento de paver até a caixa e depois uma passarela de material pultrudado, com fundação de blocos de concreto; 
+f. melhoria no acesso até a captação antiga com calçamento de paver; 
+g. mudança do traçado do acesso até a lagoa de decantação com calçamento asfáltico. 
+Primeiramente, foram identificadas todas as ações impactantes das fases de 
+planejamento, implantação e operação, que poderão causar alterações na biodiversidade 
+ou serviços ecossistêmicos. Os elementos do projeto considerados na análise de 
+impactos foram:
+a. implantação de nova unidade de tratamento de lodo; 
+b. instalação de 4 novos filtros;
+c. estação de recalque de água bruta e nova adutora de água bruta; 
+d. instalação de um reservatório e água tratada
+e. melhoria dos acessos até captação nova e antiga, com calçamento e uma 
+passarela de material pultrudado, com fundação de blocos de concreto; 
+f. mudança do traçado do acesso até a lagoa de decantação com calçamento 
+asfáltico.
+Em seguida, identificaram-se os componentes ambientais que poderão ser afetados direta ou indiretamente pelas ações do empreendimento em suas diferentes fases. A partir da análise e interpretação das relações entre as ações impactantes e os componentes ambientais, foram estabelecidos os impactos potenciais associados ao empreendimento, ou seja, aqueles que podem ser razoavelmente previstos e que têm probabilidade de ocorrência. Ressalta-se que a análise dos impactos teve como foco os potenciais riscos e impactos à biodiversidade e serviços ecossistêmicos, e não uma análise dos impactos do projeto como um todo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para avaliar a diversidade das espécies poderá ser utilizado o índice de diversidade de Shannon (H’). Este índice pesa a distribuição de cada espécie por sua abundância relativa, de forma que as espécies mais raras apresentam um peso menor que as mais comuns. Este índice é usado para medir a diversidade em dados categóricos, tratando as espécies como símbolos e o tamanho da respectiva população como uma probabilidade. A vantagem deste índice é que ele leva em consideração o número das espécies e as espécies dominantes.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>A área de análise (AdA) do estudo considerou a região a ser impactada, direta ou indiretamente, positiva ou negativamente, em função do projeto. Essa definição é um aspecto estratégico na condução de estudos ambientais, pois tal procedimento constitui se na definição das unidades espaciais de análise adotadas, norteando não apenas a elaboração do diagnóstico da biodiversidade, mas também a avaliação dos impactos socioambientais potencialmente decorrentes. A paisagem na região onde se insere o Projeto apresenta aspecto relativamente homogêneo em relação às fitofisionomias de ocorrência. O Projeto está inserido em remanescente de Floresta Ombrófila Densa em bom estado de conservação no geral, o relevo é ondulado, com altitudes variando entre 100 m no vale do rio Piraí a 400-450 m nos topos dos morros que circundam a ETA.A ocupação humana é bastante baixa, e estão concentradas de maneira esparsa nas margens da Estrada dos Morros, basicamente ocupações rurais. Esse cenário é semelhante em todo o entorno do Projeto, variando apenas em relação à altitude dos topos de morros, sendo que altitudes mais elevadas se encontram mais 
+distantes da ETA e seus componentes. Porém, a fitofisionomia em toda a região tem características semelhantes. Assim, a delimitação da Área de Análise do projeto procurou incluir a variação altitudinal no entorno próximo do projeto, incluindo os topos de morro mais próximos à ETA (aproximadamente 400 manm). A vegetação nativa inclui formações florestais em estágios médio e avançado de sucessão, com poucas áreas com sinais mais intensos de antropização nas margens da ETA e estrada dos Morros.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para o levantamento florístico, foi utilizado o método de caminhamento (Filgueiras et al. 1994), que consiste em caminhar sistematicamente pela área realizando o registro das espécies vegetais férteis. O caminhamento foi realizado em toda a área de intervenção e entorno, durante um período de 7 horas, por 3 dias. Em seguida as espécies foram identificadas e incluídas na listagem. Os indivíduos encontrados foram registrados através de câmera fotográfica. Nas fisionomias amostradas foram registradas as espécies de plantas vasculares (Pteridófitas e Fanerógamas) pertencentes a diferentes hábitos, como árvores, arbustos, subarbustos, ervas (terrestres, saprófitas e aquáticas), epífitas, hemiepífitas, parasitas e lianas.
+Para a amostragem da fauna terrestre foram realizadas metodologias não invasivas, consideradas eficientes pela comunidade científica. Para o grupo da herpetofauna (anfíbios e répteis) foram aplicadas as metodologias de busca ativa limitada por tempo, encontros ocasionais e foram realizadas entrevistas com a população no entorno. As atividades de campo iniciaram pela manhã das 9:00 horas até as 12:00 horas, e a noite das 18:00 horas até as 22:00 horas, totalizando 7 horas por dia, durante 3 dias. 
+Para os levantamentos de aves na área da ETA, foi realizado o método de transecções lineares, em que o observador percorreu transectos pré-definidos em velocidade de aproximadamente 1 km/h, registrando todos os indivíduos visualizados ou identificados por meio de sua vocalização (ANJOS et al., 2010). As transecções foram realizadas das 6:00 até às 8:00 horas, e posteriormente das 16:00 às 22:00 horas, durante 3 dias.
+Para os levantamentos de mamíferos na área da ETA, foi realizado o método de busca ativa, em que o observador percorreu transectos pré-definidos em velocidade de aproximadamente 1 km/h, registrando todos os indivíduos visualizados ou identificados por meio de vestígios indiretos e diretos (SILVEIRA et al., 2003). Também foram instaladas 04 armadilhas fotográficas para detectar a presença da mastofauna. As armadilhas foram instaladas em pontos variados nos fragmentos no entorno da ETA e das captações, em locais onde a vegetação apresentava melhor estado de conservação, e permaneceram ativas por 2 dias consecutivos.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="Contratada">
+                <title>Estação de Tratamento de Água (ETA) Piraí Plano de Ação para a Biodiversidade Relatório 2</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Claudia</givenName>
+                    <surName>Rocha</surName>
+                    </individualName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>A ETA Piraí localiza-se na Estrada dos Morros, s/nº, no Bairro Vila Nova, no município de Joinville no Estado de Santa Catarina, a aproximadamente a 18 km da área central de Joinville. A ETA Piraí apresenta área construída de aproximadamente 4.600 m², estando instalada em uma propriedade com 264.807 m² no interior da APA Serra Dona Francisca Esta unidade capta água em dois pontos nomeados como “Captação Antiga” e “Captação Nova”, ambos no Rio Piraí, sendo a Captação Antiga de jusante e a Captação Nova de montante. Esta estação é constituída por unidades de mistura rápida, flocodecantação, filtração, tanque de contato e casa de química. Conta também com áreas de administração, laboratório, casa de força, unidade geradora de energia elétrica, casa de manutenção e uma residência desocupada. O projeto inicial da estação foi concebido em 1983 para uma vazão de 450 L/s inicialmente com a tecnologia de Filtração Direta Descendente em Linha (FDDL) e método de controle de filtração por taxa declinante variável e o ponto de captação implantado no rio Piraí a cerca de 270 m a montante da ETA. Devido à necessidade de aumento de vazão e à ocorrência de picos de turbidez da água bruta em épocas de chuvas intensas na bacia do Rio Piraí, foi construída uma nova captação, à montante da captação existente, e implementado um sistema de pré-tratamento com aplicação de coagulante e uso de floculação hidráulica em chicanas e decantação convencional em lagoa.</para>
+                </abstract>
+                <funding>
+                    <para>BID</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>A área de análise (AdA) do estudo considerou a região a ser impactada, direta ou indiretamente, positiva ou negativamente, em função do projeto. Essa definição é um aspecto estratégico na condução de estudos ambientais, pois tal procedimento constitui se na definição das unidades espaciais de análise adotadas, norteando não apenas a elaboração do diagnóstico da biodiversidade, mas também a avaliação dos impactos socioambientais potencialmente decorrentes. A paisagem na região onde se insere o Projeto apresenta aspecto relativamente homogêneo em relação às fitofisionomias de ocorrência. O Projeto está inserido em remanescente de Floresta Ombrófila Densa em bom estado de conservação no geral, o relevo é ondulado, com altitudes variando entre 100 m no vale do rio Piraí a 400-450 m nos topos dos morros que circundam a ETA.A ocupação humana é bastante baixa, e estão concentradas de maneira esparsa nas margens da Estrada dos Morros, basicamente ocupações rurais. Esse cenário é semelhante em todo o entorno do Projeto, variando apenas em relação à altitude dos topos de morros, sendo que altitudes mais elevadas se encontram mais 
+distantes da ETA e seus componentes. Porém, a fitofisionomia em toda a região tem características semelhantes. Assim, a delimitação da Área de Análise do projeto procurou incluir a variação altitudinal no entorno próximo do projeto, incluindo os topos de morro mais próximos à ETA (aproximadamente 400 manm). A vegetação nativa inclui formações florestais em estágios médio e avançado de sucessão, com poucas áreas com sinais mais intensos de antropização nas margens da ETA e estrada dos Morros.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>A Estação de Tratamento de Água (ETA) Piraí e obras associadas estão localizadas na área de domínio da Mata Atlântica em região com presença de espécies ameaçadas de extinção, valores de biodiversidade que podem atuar como gatilho para designação de criticidade do hábitat. Assim, faz-se necessário realizar um diagnóstico da biodiversidade e avaliar a possível criticidade de hábitats na região do projeto, além de uma avaliação de riscos e impactos das obras. Essa análise subsidiará uma análise de alternativas do projeto e a elaboração de uma estratégia de mitigação, com foco em evitar e minimizar possíveis intervenções em ambientes sensíveis à biodiversidade. Essas análises irão compor o Plano de Ação de Biodiversidade (PAB) da ETA Piraí.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:08Z</dateStamp>
+                <citation>Rocha C (2024). CAJ | Plano de Ação para a Biodiversidade na Estação de Tratamento de Água (ETA) Piraí. Version 1.17. Companhia Águas de Joinville. Occurrence dataset https://doi.org/10.15468/jcm725 accessed via GBIF.org on 2025-10-11.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

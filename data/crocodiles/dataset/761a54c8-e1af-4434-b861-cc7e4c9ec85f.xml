@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="761a54c8-e1af-4434-b861-cc7e4c9ec85f"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/hect89</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=biodiversidad_unal_sede_de_la_paz</alternateIdentifier>
+        <shortName>biodiversidad_unal_sede_de_la_paz</shortName>
+        <title>Monitoreo de fauna y flora en el campus universitario de la Universidad Nacional de Colombia - Sede de La Paz, Cesar 2021(BPUN 547)</title>
+        <creator>
+            <individualName>
+                <givenName>Joan Gaston</givenName>
+                <surName>Zamora-Abrego</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Profesor Asociado</positionName>
+            <address>
+                <deliveryPoint>Km 9 vía Valledupar - La Paz</deliveryPoint>
+                <city>La Paz</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <postalCode>202010</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>13165000</phone>
+            <electronicMailAddress>jogzamoraab@unal.edu.co</electronicMailAddress>
+            <onlineUrl>http://delapaz.unal.edu.co/</onlineUrl>
+            <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Gaston-Zamora</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Joan Gaston</givenName>
+                <surName>Zamora-Abrego</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Profesor Asociado</positionName>
+            <address>
+                <deliveryPoint>Km 9 vía Valledupar - La Paz</deliveryPoint>
+                <city>La Paz</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <postalCode>202010</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>13165000</phone>
+            <electronicMailAddress>jogzamoraab@unal.edu.co</electronicMailAddress>
+            <onlineUrl>http://delapaz.unal.edu.co/</onlineUrl>
+            <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Gaston-Zamora</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Johanna</givenName>
+                <surName>Velásquez Niño</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</organizationName>
+            <positionName>Contratista</positionName>
+            <address>
+                <deliveryPoint>Calle 28a # 16-29</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>jvelasqueznino@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.humboldt.org.co/</onlineUrl>
+            <role>EDITOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Universidad Nacional de Colombia</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Km 9 vía Valledupar - La Paz</deliveryPoint>
+                <city>La Paz</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <postalCode>202010</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>13165000</phone>
+            <electronicMailAddress>unal@unal.edu.co</electronicMailAddress>
+            <onlineUrl>http://delapaz.unal.edu.co/</onlineUrl>
+            <role>OWNER</role>
+        </associatedParty>
+        <pubDate>
+                2025-09-08
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Inventario y monitoreo de la biodiversidad (plantas vasculares leñosas y vertebrados superiores) del campus universitario de la Sede de La Paz, de la Universidad Nacional de Colombia, realizado en el año 2021 en el municipio de La Paz, Cesar.</para><para>El recurso de datos consta de 4.847 registros biológicos. La cobertura taxonómica abarca los reinos Animalia (4.098) y Plantae (749).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Checklist</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Inventoryregional</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Plantas vasculares</keyword>
+            <keyword>mamíferos</keyword>
+            <keyword>reptiles</keyword>
+            <keyword>anfibios</keyword>
+            <keyword>La Paz</keyword>
+            <keyword>Cesar</keyword>
+            <keyword>aves</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=biodiversidad_unal_sede_de_la_paz</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Campus de la Sede de La Paz, Universidad Nacional de Colombia; ubicada en el km 9 vía Valledupar - La Paz, Cesar. Municipio Becerril, departamento del Cesar.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.208</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.192</eastBoundingCoordinate>
+                    <northBoundingCoordinate>10.394</northBoundingCoordinate>
+                    <southBoundingCoordinate>10.385</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-04-05
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-10-24
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El recurso de datos consta de 4.847 registros biológicos. La cobertura taxonómica abarca los reinos Animalia (4.098) y Plantae (749) en donde se identificaron y determinaron las plantas vasculares mayores a 2.5 cm de DAP, anfibios, reptiles, aves y mamíferos presentes en el campus de la Sede de La Paz. El reino Plantae esta conformado por 1 clase, 12 ordenes, 15 familia, 30 géneros y 30 especies. El 98% de los registros fueron identificados hasta especie y el 2% hasta género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    <commonName>Zorro perro</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Animalia esta conformado por 7 clases, 30 ordenes, 73 familia, 148 géneros y 165 especies. El 96% de los registros fueron identificados hasta especie y el 4% restante a otros niveles taxonómicos.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankValue>Arachnida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankValue>Malacostraca</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Joan Gaston</givenName>
+                <surName>Zamora-Abrego</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Profesor Asociado</positionName>
+            <address>
+                <deliveryPoint>Km 9 vía Valledupar - La Paz</deliveryPoint>
+                <city>La Paz</city>
+                <administrativeArea>Cesar</administrativeArea>
+                <postalCode>202010</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>13165000</phone>
+            <electronicMailAddress>jogzamoraab@unal.edu.co</electronicMailAddress>
+            <onlineUrl>http://delapaz.unal.edu.co/</onlineUrl>
+            <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Gaston-Zamora</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Herpetofauna: Para el cumplimiento del objetivo principal se realizó la detección de anfibios y reptiles mediante recorridos libres de búsqueda y observación, integrando los métodos VES (Visual Encounter Surveys – Muestreo por Encuentro Visual), AES (Acoustic Encounter Survey - Muestreo por Encuentro Acústico) y entrevistas semiestructuradas a personas de la comunidad universitaria, los cuales se efectuaron en la primera fase del inventario en el primer y segundo muestreo. Además, se realizó la búsqueda sistemática y constante de anfibios y reptiles, inspeccionando los microhábitats disponibles, presentes a lo largo de los recorridos (epífitas, vegetación herbácea y leñosa, troncos, rocas, hojarasca, material vegetal en descomposición y cuerpos de agua), se instalaron unas trampas de caída y se recopilaron datos ecológicos, coordenadas de cada uno de los ejemplares observados y recolectados. Mientras que para el monitoreo de la herpetofauna se realizó la detección de anfibios y reptiles mediante recorridos fijos por 5 transectos (T1, T2, T3, T4 y T5) fijos de búsqueda y observación  integrando los métodos VES (Visual Encounter Surveys – Muestreo por Encuentro Visual) y AES (Acoustic Encounter Survey - Muestreo por Encuentro Acústico), los cuales se ejecutaron en los muestreos 3 y 4. Adicionalmente, se llevaron a cabo dos (2) recorridos diarios de aproximadamente 2 a 4 km por unidad de cobertura, dependiendo de la dificultad del terreno y las condiciones del estado del tiempo. Los recorridos se realizaron en horario diurno y nocturno, abarcando horas de actividad matutina (7:00-9:00h), crepuscular y nocturna (18:00 a 21:00h). En el laboratorio se procedió a la toma de datos morfológicos como: medidas, peso, descripción de patrón de coloración y coloración; se les tomaron registro fotográfico, muestras de material genético y de parásitos internos y externos. La determinación morfológica de todos los especímenes se realizó con la ayuda de claves taxonómicas de anfibios y reptiles, y consultando los registros previos existentes para la región. Los individuos recolectados se sacrificaron con clorhidrato de lidocaína al 5%, se fijaron con formol al 10% y luego se transfirieron a almacenamiento permanente en etanol al 70%. También se recolectaron muestras de tejido e hisopados cloacales en reptiles, y se almacenaron en etanol al 96% antes de la fijación del individuo en formol. Para anfibios se realizaron hisopados sobre la piel de las extremidades y de la parte ventral, estos se dejaron secar por 1 minuto y se almacenaron en seco. Las muestras de material genético se depositarán en la colección de Tejidos del Instituto de Genética (IGUN) de la Universidad Nacional de Colombia y el en banco de tejidos del Laboratorio de Propiedades Biológicas de la Sede de La Paz; asimismo los ejemplares recolectados se depositaron en el Laboratorio de Propiedades Biológicas de la Sede de La Paz, y un voucher (o copia) fue depositada en la colección de Anfibios y Reptiles del Instituto de Ciencias Naturales (ICN-MHN) de la Universidad Nacional de Colombia.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: Redes de niebla Se instalaron cuatro redes de niebla Shijimesh® (redes ornitológicas) en los sitios de muestreo previamente seleccionados, estas redes presentan una longitud de 12 metros por 2,5 metros de alto, y ojo de malla de 16 milímetros. Éstas se extendieron entre las 5:30 y las 10:00 horas y entre las 15:00 y las 18:00 horas y cuando las condiciones climáticas lo permitieron. Las redes se revisaban periódicamente, en promedio, cada 15 minutos. Puntos de conteo La metodología seleccionada para recolectar información de diversidad y abundancia de las especies de aves consistió en realizar una serie de puntos de conteo de 15 minutos de duración, en los sitios de interés previamente identificados y seleccionados. Los puntos de conteo se realizaron desde las 5:30 hasta las 10:00 horas y desde las 15:00 hasta las 18:00 horas. Recorridos libres Este método consiste en recorrer de manera no sistemática el área de interés, abarcando la mayor cantidad de área posible del Campus universitario y realizando observaciones ad hoc, además permite explorar todos los sitios donde se considere que pueda haber una mayor ocurrencia de avifauna. Estos recorridos se realizaron en las horas de mayor actividad de las aves, entre las 5:30 y 10:00 horas, y entre las 15:00 y 18:00 horas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: Para el registro directo de mamíferos medianos y grandes se utilizó el método del fototrampeo. Para este fin, se instalaron ocho trampas-cámara que permanecieron activas entre los meses de abril a septiembre. La ubicación de las cámaras no siguió un diseño sistemático y se eligieron sitios que maximizan la probabilidad de registro de las especies. De manera complementaria, un diseño sistemático con 12 cámaras fue implementado durante los meses de septiembre y octubre (ver sección uso de hábitat). Las cámaras trampa se activan con el movimiento dejando como fiel registró un video o fotografía del animal, la hora y la fecha del registro. Esta metodología es útil para confirmar la presencia de especies crípticas, que se mueven largas distancias, poseen bajas densidades y son difíciles de reconocer por medio de rastros (Monroy Vilchis et al. 2009). Las trampas - cámara fueron instaladas tratando de cubrir las zonas con vegetación densa que permitan la presencia de este tipo de especies. Este método permite el registro continuo tanto diurno como nocturno desde el momento de su instalación hasta el desmonte. De cada registro obtenido se tomaron datos de la especie registrada, hora, fecha y ubicación. Los videos de la misma especie en la misma cámara fueron tratados como eventos independientes siguiendo los criterios propuestos por Monroy-Vilchis et al. (2011): 1) videos consecutivos de diferentes individuos, 2) videos consecutivos de individuos de la misma especie separados por más de 24h, este criterio fue aplicado cuando no sea claro si una serie de videos corresponden al mismo individuo, de modo que los videos tomados dentro del mismo periodo de 24h se consideraron como un sólo registro, 3) videos no consecutivos de individuos de la misma especie.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las plantas vasculares mayores a 2.5 cm de DAP fueron monitoreadas y se hicieron colectas temporales y colectadas destinadas como exicados de colección.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Campus de la Sede de La Paz de la Universidad Nacional de Colombia y en el municipio de Becerril, Cesar.  El campus cuenta con 52 hectáreas donde se distribuye la infraestructura y terrenos con vegetación en diferentes estados sucesionales.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Monitoreo de la fauna y flora en el campus universitario de la Sede de La Paz de la Universidad Nacional de Colombia.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>El muestreo fue sistemático e implementado por profesionales especialistas en cada grupo taxonómico, utilizando las técnicas tradicionales, bajo los más altos estándares de calidad.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="BPUN547">
+                <title>DISEÑO E IMPLEMENTACION DEL PROYECTO FASE II DE LA SEDE DE LA PAZ - CAMPUS UNIVERSITARIO SUSTENTABLE</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Joan Gaston</givenName>
+                    <surName>Zamora Abrego</surName>
+                    </individualName>
+            <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Gaston-Zamora</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para>Proyecto de inversión BPUN547 (Meta 5: Crear una unidad ecológica que permita establecer programas locales de manejo, conservación y aprovechamiento sostenible de organismos y especies), se realizó la caracterización de la fauna (mamíferos, anfibios y reptiles) y flora de la Sede de La Paz.</para>
+                </abstract>
+                <funding>
+                    <para>Proyecto de inversión BPUN547</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El campus universitario de la Universidad Nacional de Colombia, Sede La Paz, se encuentra ubicado en el municipio de La Paz en el departamento del Cesar, Colombia. El campus cuenta con 52 hectáreas donde se distribuye la infraestructura y terrenos con vegetación en diferentes estados sucesionales. En el municipio de La Paz la humedad relativa promedio anual es de 79% y la temperatura promedio anual es de 24,7°C, siendo julio el mes de mayor temperatura y diciembre el de menor. La precipitación media anual es de 1.366 mm, y su distribución a lo largo del año está asociada a la Zona de Convergencia Intertropical en un régimen bimodal que se extiende entre los meses de abril a junio y agosto a noviembre, siendo octubre el mes más lluvioso.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Durante el año 2021 fueron realizadas cuatro salidas de campo. En el primer semestre del año se realizaron las visitas entre el 7 y el 16 de abril y entre el 14 y el 27 de junio, correspondiendo con la temporada de transición de lluvias a secas y secas. Para el segundo semestre las salidas se ejecutaron entre el 5 y el 19 de septiembre y entre el 12 y el 26 de octubre, dentro de lo que es considerada la temporada de lluvias. Se utilizaron trampas Sherman medianas (23 x 7 x 7 cm) que son eficaces para la captura de mamíferos de tamaño pequeño y mediano (&amp;gt;100g) cuyo peso permite la activación de la trampa (Fig. 2). Se establecieron dos transectos no lineales con 20 trampas cada uno y estuvieron activas durante 9 días consecutivos en cada salida de campo. Las trampas se instalaron separadas entre sí por cinco a 10 metros (Simmons &amp; Voss 1998), y fueron ubicadas en sitios estratégicos para elevar la probabilidad de captura, cubriendo el suelo, principalmente en troncos caídos, junto a la base de los árboles, en cavidades formadas por las raíces de los árboles, ramas de árboles o junto a huecos. El cebo utilizado fue una mezcla de avena en hojuelas, mantequilla de maní y esencia de vainilla, el cual fue renovado diariamente. Las trampas fueron revisadas en horas de la mañana (6:00-8:00h) con el fin de evitar muertes por ahogamiento, inanición, deshidratación o depredación. A cada individuo capturado le fueron tomadas medidas morfométricas básicas y datos asociados al sitio (características del microhábitat). La identificación en campo de los individuos se realizó mediante el uso de las claves especializadas de Emmons &amp; Feer (1999) y (Cuartas-Calle &amp; Muñoz-Arango 2003).</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:58Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/hect89">Zamora-Abrego J G (2025). Monitoreo de fauna y flora en el campus universitario de la Universidad Nacional de Colombia - Sede de La Paz, Cesar 2021(BPUN 547). Universidad Nacional de Colombia. Occurrence dataset https://doi.org/10.15472/hect89 accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation identifier="https://doi.org/10.47603/mano.v7n2.298">Acevedo-Quintero, J. F. y J. G. Zamora-Abrego. 2022. Inventario de mamíferos asociados al campus universitario de la Universidad Nacional de Colombia - Sede de La Paz, Cesar. Mammalogy Notes, 7(2): 298.</citation>
+                </bibliography>
+                <physical>
+                    <objectName>biodiversidad_unal_sede_de_la_paz</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DwC-A</formatName>
+                            <formatVersion>1.4</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/permisos/resource?r=biodiversidad_unal_sede_de_la_paz</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-unal.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

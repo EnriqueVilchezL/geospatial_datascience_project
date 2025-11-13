@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="f3ad97cc-6a18-4676-8867-10e17cd19514"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/aolydj</alternateIdentifier>
+        <alternateIdentifier>f3ad97cc-6a18-4676-8867-10e17cd19514</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=fes_elpalomar-piojo</alternateIdentifier>
+        <title>Caracterización de fauna y flora asociada a bosque seco tropical en la OMEC Las Guacharacas, municipio de Piojó, Atlántico</title>
+        <creator>
+            <individualName>
+                <givenName>Christian Daniel</givenName>
+                <surName>Martinez Rodriguez</surName>
+            </individualName>
+            <organizationName>Fundación Ecosistemas Secos de Colombia</organizationName>
+            <positionName>Biólogo</positionName>
+            <address>
+                <deliveryPoint>Calle 3 # 21-88 barrio Pradomar</deliveryPoint>
+                <city>Puerto Colombia</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>cmartinez@ecosistemassecos.org</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-8749-3316</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Gina Marcela</givenName>
+                <surName>Rodriguez</surName>
+            </individualName>
+            <organizationName>Fundación Ecosistemas Secos de Colombia</organizationName>
+            <positionName>Directora General</positionName>
+            <address>
+                <deliveryPoint>Calle 3 # 21-88 barrio Pradomar</deliveryPoint>
+                <city>Puerto Colombia</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>grodriguez@ecosistemassecos.org</electronicMailAddress>
+            <onlineUrl>https://ecosistemassecos.org/es/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jorge Luis</givenName>
+                <surName>Bagüi</surName>
+            </individualName>
+            <organizationName>Fundación Ecosistemas Secos de Colombia</organizationName>
+            <positionName>Promotor Ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 3 # 21-88 barrio Pradomar</deliveryPoint>
+                <city>Puerto Colombia</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <onlineUrl>https://ecosistemassecos.org/es/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Pedro José</givenName>
+                <surName>Pardo Villanueva</surName>
+            </individualName>
+            <organizationName>Asociación de campesinos del corregimiento de Hibácharo y El Cerrito Las Guacharacas</organizationName>
+            <positionName>Auxiliar de campo</positionName>
+            <address>
+                <city>Piojó</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Robinson Rafael</givenName>
+                <surName>Escobar Villanueva</surName>
+            </individualName>
+            <organizationName>Asociación de campesinos del corregimiento de Hibácharo y El Cerrito Las Guacharacas</organizationName>
+            <positionName>Auxiliar de campo</positionName>
+            <address>
+                <city>Piojó</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Christian Daniel</givenName>
+                <surName>Martinez Rodriguez</surName>
+            </individualName>
+            <organizationName>Fundación Ecosistemas Secos de Colombia</organizationName>
+            <positionName>Biólogo</positionName>
+            <address>
+                <deliveryPoint>Calle 3 # 21-88 barrio Pradomar</deliveryPoint>
+                <city>Puerto Colombia</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>cmartinez@ecosistemassecos.org</electronicMailAddress>
+            <onlineUrl>https://ecosistemassecos.org/es/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-8749-3316</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Asociación de campesinos del corregimiento de Hibácharo y El Cerrito Las Guacharacas</surName>
+            </individualName>
+            <organizationName>Asociación de campesinos del corregimiento de Hibácharo y El Cerrito Las Guacharacas</organizationName>
+            <positionName>Asociación</positionName>
+            <address>
+                <city>Piojó</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2024-07-18
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Se realizó una caracterización ecológica rápida con el fin de conocer la composición de fauna de los principales grupos de cordados (aves, mamíferos, reptiles y anfibios) asociados a los relictos y áreas alteradas de bosque seco tropical en un área de conservación comunitaria tipo OMEC en el corregimiento de Hibácharo, Piojó Atlántico. Esta caracterización se llevo a cabo dentro del proyecto financiado por Fondo Acción en el programa Conserva Aves y tiene como objeto la creación de un área de conservación comunitaria tipo OMEC en la zona de influencia de la Reserva Forestal Protectora El Palomar, en el municipio de Piojó, Atlántico, que aporte a la conservación de las aves en la región. Esta caracterización surge como la necesidad de conocer cuales son las especies de fauna que habitan la zona con especial énfasis en las especies de aves que pueden ser incluidas dentro de procesos de aviturismo impulsados por la comunidad.</para>
+<para>La caracterización contó con 15 días de muestreo en campo en los cuales se registró los encuentros visuales y captura de fotografías de las especies de aves, anfibios y reptiles observados durante recorridos libres a lo largo del área del proyecto. Además de esto, se emplearon cámaras trampa para el registro de especies de mamíferos nocturnos que deambulasen por las distintas coberturas vegetales identificadas en la zona. La caracterización recogió en total 916 registros de los cuatro grupos de vertebrados: 580 observaciones de aves correspondientes a 130 especies; 83 observaciones de mamíferos, tanto encuentros visuales como por cámaras trampa, correspondientes a 19 especies; 64 registros de reptiles correspondientes a 23 especies; y 189 registros de anfibios, en su totalidad de anuros, correspondientes a 17 especies.</para>
+<para>Adicionalmente, se realizó una caracterización florística y estructural de tres coberturas representativas de toda la OMEC Las Guacharacas: estrato alto (bosque denso bajo), medio (vegetación secundaria alta) y bajos (vegetación secundaria baja). Se establecieron en total 15 unidades de muestreo distribuidas en las veredas Macondal (12 transectos) y Guaybaná (3 transectos) siendo ésta ultima el sector con mayor pendiente y por ende donde aún persisten fragmentos de bosque denso bajo y vegetación secundaria alta en buen estado de conservación, hacia el sector colindante a la RFP El Palomar. Esta caracterización recogió en total 755 registros que se distribuyen en en 13 órdenes, 26 familias, 70 géneros y 71 especies.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Biodiversidad</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>OMEC</keyword>
+            <keyword>Bosque seco tropical</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=fes_elpalomar-piojo</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La OMEC Las Guacharacas se encuentra ubicada entre las veredas Guaybana y Macondal del municipio de Piojó, Atlantico. Se compone de 44 predios pertenecientes a 31 familias de campesinos, agricultores y ganaderos que se reunieron en una asociación de campesinos con el fin de proteger los relictos de bosque seco tropical de la región, restaurar áreas de bosque y realizar actividades económicas sostenibles que protejan y ayuden a recuperar las coberturas vegetales.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-75.18</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-75.12</eastBoundingCoordinate>
+                    <northBoundingCoordinate>10.76</northBoundingCoordinate>
+                    <southBoundingCoordinate>10.72</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-09-17
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-12-20
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Animalia consta de 916 registros biológicos que pertenecen a los cuatro grupos de vertebrados: anfibios (189), aves (580), mamíferos (83) y reptiles (64). Además, se distribuye en 31 órdenes, 79 familias, 156 géneros y 183 especies. Del total, un 99% se identificó a nivel de especie y el 1% restante, a nivel de familia y género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                    <commonName>Anfibios</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                    <commonName>Reptiles</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                    <commonName>Mamíferos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                    <commonName>Aves</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El reino Plantae consta de 755 registros biológicos que se distribuyen en 13 órdenes, 26 familias, 70 géneros y 71 especies. Del total, un 83.4% se identificó a nivel de especie, un 10.8% a nivel de familia y el 5.8% restante, se identificó a nivel de clase y género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Boraginales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Brassicales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caryophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ericales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fabales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gentianales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lamiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malvales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Myrtales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Polygonales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rosales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sapindales</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Gina Marcela</givenName>
+                <surName>Rodriguez</surName>
+            </individualName>
+            <organizationName>Fundación Ecosistemas Secos de Colombia</organizationName>
+            <positionName>Directora General</positionName>
+            <address>
+                <deliveryPoint>Calle 3 # 21-88 barrio Pradomar</deliveryPoint>
+                <city>Puerto Colombia</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>grodriguez@ecosistemassecos.org</electronicMailAddress>
+            <onlineUrl>https://ecosistemassecos.org/es/</onlineUrl>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Christian Daniel</givenName>
+                <surName>Martinez Rodriguez</surName>
+            </individualName>
+            <organizationName>Fundación Ecosistemas Secos de Colombia</organizationName>
+            <positionName>Biólogo</positionName>
+            <address>
+                <deliveryPoint>Calle 3 # 21-88 barrio Pradomar</deliveryPoint>
+                <city>Puerto Colombia</city>
+                <administrativeArea>Atlántico</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>cmartinez@ecosistemassecos.org</electronicMailAddress>
+            <onlineUrl>https://ecosistemassecos.org/es/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0002-8749-3316</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FAUNA: Aves - Las metodologías propuestas para el muestreo de aves están estandarizadas y son ampliamente utilizadas y recomendadas en diversos inventarios y monitoreo de aves. Se realizó una búsqueda libre y sin restricciones con el fin de registrar los individuos avistados con una intensidad horaria de entre las 5:00 a 10:00 H empleando binoculares y cámaras fotográficas. Los ejemplares observados se registraron en formatos con la hora de observación y su descripción taxonómica. Los ejemplares cuya identificación no era posible en campo, se registraron en fotografías y se evaluaron en la guía de aves de Colombia para su identificación. 
+En algunos casos en que las aves pudieron ser escuchadas, pero no observadas, principalmente con especies nocturnas, se empleó la grabación de los cantos por medio de la aplicación Merlin© (Cornell University), para el análisis de su identificación taxonómica. Si bien aún no se cuenta con una eficacia suficiente en el uso de la IA para la identificación de especies, en este caso la aplicación se empleó de manera indirecta lo que después permitió el uso de otras plataformas de registro de cantos para su comparación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos - En cuanto a la caracterizar de mamíferos, se implementó un grupo de técnicas basadas en la metodología de Villarreal et al. (Instituto Alexander von Humbolt) teniendo en cuenta la variedad de hábitos, patrones de actividad y usos de hábitat que presenta este grupo.
+Recorridos de observación y búsqueda de rastros - Se realizaron recorridos de forma constante abarcando los diferentes tipos de coberturas vegetales, cuerpos de agua y senderos construidos en horarios diurnos y crepusculares (6:00 a 11:00 y 17:00 a 22:00), a fin de obtener la mayor información referente a la presencia de mamíferos terrestres, arbóreos o fosoriales (armadillos). Durante estos transectos, se tomó registro escrito y fotográfico (cuando fue posible) de los mamíferos y rastros observados (huellas, heces, comederos, rascaderos).
+Cámaras trampa – Adicional a esto, se instalaron seis cámaras trampa marca Buschnell Prime Low Glow© con una distancia mínima ente ellas de 1 Km y una duración de 34 días para un esfuerzo de muestreo de 204 noches/cámara. Las cámaras fueron instaladas a la altura de la rodilla en zondas identificadas como posibles senderos de animales o zonas donde se identificaron rastros que evidenciaban el transito periódico de los animales. Estos equipos se programaron para detectar ejemplares las 24 horas y cada detección constó de un video en formato .avi con 15 segundos de duración.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Herpetos - Respecto a la riqueza de anfibios y reptiles, se realizó la observación por medio de una búsqueda libre y sin restricciones con registros por encuentro visual crepusculares (17:00 a 22:00 H) en zonas con presencia probable de individuos, tales como vegetación y zonas cercanas a quebradas, ríos y pequeños cuerpos de agua formados por escorrentía y filtración, hojarasca y otras zonas húmedas al interior de las coberturas presentes. Los individuos observados fueron identificados mediante el análisis de características morfológicas; fotografiados y los datos se consignaron en formatos de campo para su análisis. Particularmente para los anfibios, debido a su amplio despliegue de vocalizaciones, se usó también el registro e identificación de cantos a partir de grabaciones que posteriormente se revisaron con bases de datos digitales.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FLORA: Se establecieron en total 15 unidades de muestreo en el área denominada OMEC presente en el corregimiento de Hibácharo y El Cerrito del municipio de Piojó, distribuidos en las veredas Macondal (12 transectos) y Guaybaná (3 transectos) siendo ésta ultima el sector con mayor pendiente y por ende donde aún persisten fragmentos de bosque denso bajo y vegetación secundaria alta en buen estado de conservación, hacia el sector colindante a la RFP El Palomar. La selección de la ubicación de cada cobertura se realizó por medio de identificación con imagen satelital y verificación en campo de la extensión del área. Cabe resaltar que los transectos fueron establecidos en predios diferentes a los seleccionados para los polígonos de siembra.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El trabajo de campo se realizó en dos jornadas comprendidas entre el 4 al 13 de octubre y el 19 al 21 de diciembre del 2023, utilizando una adaptación al método de muestreo de Gentry (1982), el cual consiste en censar un área de 1.000 m 2 (0,1 ha) por cobertura. Se establecieron en total 5 transectos en cada una de las tres coberturas evaluadas; Bosque denso bajo, vegetación secundaria alta y vegetación secundaria baja. Cada transecto media 50 m de longitud y 4 m de ancho subdivididos cada 10 m. Se registró el
+diámetro a la altura del pecho (DAP) a 1,30 m desde la superficie del suelo, la altura (m) y la forma de crecimiento de cada individuo en cada transecto.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En la cobertura de vegetación secundaria baja se implementó una parcela anidada de 5x4 m y una de 1x1m al interior de la quinta subparcela de cada transecto con el fin de registrar la regeneración natural dentro de las categorías de renuevos o establecidos
+(CAP &amp;lt; 8 cm y alturas ≤1,5 cm de altura) y plantones inferiores como las rasantes (≤ 50 cm de altura). Se georreferenciaron los puntos al inicio y al final de cada transecto. La identificación taxonómica mayoritariamente se hizo en campo y con ayuda de bases de datos online (trópicos, https://www.tropicos.org/home, WFO Plant List, https://wfoplantlist.org/plant-list , GBIF, https://www.gbif.org/es/ , Catálogo de plantas
+y líquenes de Colombia, http://catalogoplantasdecolombia.unal.edu.co/es/). Se tomaron muestras botánicas y fotografías de los individuos que no se pudieron identificar o de los que se encontraban fértiles.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área protegida propuesta bajo la figura de OMEC “Las Guacharacas”, se encuentra en el municipio de Piojó, ubicado en la parte noroccidental del departamento del Atlántico, sobre la gran planicie costera del Caribe colombiano, dentro de la provincia biogeográfica del Cinturón Árido Pericaribeño, en el distrito biogeográfico de Montes de María y Piojó. Su clima presenta una temperatura promedio de 26°C con picos mínimos entre diciembre y marzo (23°C) y picos altos entre julio y agosto (36°C). Piojó, hace parte de la Subregión Costera – Turística, que se encuentra conformada por los municipios de Juan de Acosta, Tubará, Piojó y Usiacurí. Posee la mayor altura del Departamento, con el Cerro de la Vieja que hace parte de los Montes de María con una altura de 514 m.
+Respecto a la OMEC Las Guacharacas, esta se encuentra ubicada entre las veredas Guaibaná, del corregimiento de El Cerrito y Macondal, en el corregimiento de Hibacharo. Presenta una altitud entre los 35 y 100 msnm en donde se ubican un conjunto de predios privados de campesinos cuya principal actividad económica es la ganadería y actividades agrícolas de autoconsumo o pancoger. Las áreas de bosque dentro de esta zona corresponden a vegetación secundaria producto de procesos de trabajo de la tierra para ganadería y posterior espacio para la recuperación de la vegetación, así como la poda de los estratos herbáceos o socolado, mientras se dejan los estratos arbóreos para otorgar sobra y protección al ganado lo que causa la degradación de los estratos intermedios y un alto impacto por pisoteo de las especies semovientes. Por esta razón, para la caracterización de fauna en la OMEC Las Guacharacas se seleccionaron las coberturas vegetales con mayor presencia en la zona para ser categorizadas como ventanas de muestreo siendo en total seis coberturas consideradas para el estudio. 
+1)	Zonas Acuáticas (Ac) – Hace referencia a las áreas de embalses de construcción artificial para servir de abrevaderos en temporadas de sequía y que comúnmente se denominan en la región como Jagüeyes. Estos cuerpos de agua comprenden una vegetación asociada a humedales en sus orillas que se compone principalmente de juncos y plantas flotantes. En esta área, los jagüeyes se han diversidad en número y tamaño ya que cada predio intenta contar con uno de ellos para suplir sus necesidades de agua de uso domestico y para satisfacer las necesidades del ganado.
+2)	Vegetación Secundaria Baja (Vsb) – Esta cobertura se conforma de áreas cubiertas por vegetación principalmente arbustiva y herbácea, así como abundantes bejucos que componen una comunidad en sucesión vegetal luego de ocurrir un evento de deforestación. Esta cobertura se encuentra en gran medida en las áreas que anteriormente fueron usadas para cultivos y en la actualidad se encuentran en recuperación para ser usadas de nuevo, no poseen un dosel propiamente definido y las especies presentes son arbustos o pequeños árboles que no suelen superar los cinco metros de altura.
+3)	Vegetación Secundaria Alta (VSA) – Corresponde a la etapa posterior a la vegetación secundaria baja en el proceso de sucesión vegetal. En este caso, la capa vegetal presenta una densidad y altura mayor, con arboles que superan los cinco y hasta los 15 metros de altura, la presencia de bejucos y enredaderas se hace mas escasa y comienza a observarse una mayor diversidad en las especies presentes. 
+4)	Fragmento de Bosque Ripario (FBR) – Hace referencia a las capas vegetales que circundan las riberas de las corrientes de agua y arroyos estacionales que bajan desde las zonas mas altas de la serranía de Piojó. Esta vegetación comprende arboles de mayor altura y porte con un dosel definido que puede superar los 15 metros. A diferencia de la vegetación asociada a los jagüeyes, esta cobertura se compone de manera natural y hace parte de los remanentes del bosque seco tropical el cual ha sido conservado por parte de los campesinos para asegurar la presencia de agua en la región.  
+5)	Áreas de cultivos y zonas agrícolas (Agr) – todas las áreas que han sufrido una alteracion de su capa vegetal para el desarrollo de actividades agropecuarias se encuentran en esta cobertura, incluyendo las áreas desnudas por trabajo y arado de la tierra para siembras, como plantaciones ya consolidades de monocultivos y huertas de pancoger, así como los pastos enmalezados que ya han comenzado una etapa de sucesión pero que aún no han consolidado una altura superior a 1.5 m para ser considerado como una vegetación secundaria baja. 
+6)	Pastos Arbolados (PArb) – Junto con las áreas de cultivo, todas las áreas destinadas a la producción bovina en donde se ha socolado los estratos bajos y conservado las especies arbóreas para la generación de sombra, así como las zonas de arbustales dispersos y algunas áreas destinadas a la siembra de especies maderables en donde también se emplean los suelos para la producción de pastos. Esta cobertura se considera significativa al considerar un impacto mayor de la alteración de los suelos y las capas rasantes debido al intenso pisoteo y posterior compactación lo que reduce la presencia de especies fasoriales.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El muestreo diseñado para la caracterización de fauna en la OMEC Las Guacharacas consistió en una salida de campo durante el final de la temporada seca e inicios de temporada lluviosa, durante el mes de octubre. Se realizó una evaluación ecológica rápida (EER) en la que se midió la diversidad de los cuatro principales grupos faunísticos de vertebrados: Anfibios, Reptiles, Mamíferos y Aves, cada uno de ellos con una intensidad de muestreo y una metodología acordes a sus características y probabilidad de detección según lo indicado en el manual de inventarios establecido por el Instituto von Humboldt.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="Fauna de la OMEC Las Guacharacas">
+                <title>Identificación de una OMEC comunitaria en la zona de influencia de la Reserva Forestal Protectora El Palomar, en el municipio de Piojó, Atlántico, que aporte a la conservación de las aves en la región.</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Gina Marcela</givenName>
+                    <surName>Rodriguez</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Christian Daniel</givenName>
+                    <surName>Martinez Rodriguez</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0002-8749-3316</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <abstract>
+                    <para>Se realizó una caracterización ecológica rápida con el fin de conocer la composición de fauna de los principales grupos de cordados (aves, mamíferos, reptiles y anfibios) asociados a los relictos áreas alteradas de bosque seco tropical en un área de conservación comunitaria tipo OMEC en el corregimiento de Hibácharo, Piojó Atlántico. Esta caracterización se llevo a cabo dentro del proyecto financiado por Fondo Acción en el programa Conserva Aves y tiene como objeto la creación de un área de conservación comunitaria tipo OMEC en la zona de influencia de la Reserva Forestal Protectora El Palomar, en el municipio de Piojó, Atlántico, que aporte a la conservación de las aves en la región. Para la caracterización florística y estructural se seleccionaron tres coberturas representativas de toda la OMEC pertenecientes al estrato alto (bosque denso bajo), medio (vegetación secundaria alta) y bajos (vegetación secundaria baja), donde se establecieron unidades de muestreo.</para>
+                </abstract>
+                <funding>
+                    <para>Fundación Ecosistemas Secos de Colombia
+Programa Conserva Aves - Colombia, financiado por diversas instituciones y liderado en el país por el Fondo Acción</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>La OMEC Las Guacharacas se ubica entre las veredas de Guaybana y Macondal del municipio de Piojó, Atlantico entre los 40 y los 110 m.s.n.m. Consta de una agrupación comunitaria compuesta por 33 propietarios y 40 predios que en total comprenden 648 Ha. en donde se encuentran relictos de bosque seco tropical y arroyos estacionales que hacen parte del sistema hidrográfico de la ciénaga del Totumo.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Para conocer la composición de fauna de la OMEC Las guacharacas se realizó una salida de campo de 15 días en donde se muestrearon los principales grupos de fauna vertebrada (Aves, Mamíferos, Reptiles y Anfibios) a partir de eventos de observación directa y uso de cámaras trampa. Por otra parte, para la caracterización florística se establecieron 15 unidades de muestreo distribuidas en las veredas Macondal (12 transectos) y Guaybaná (3 transectos).</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:07Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/aolydj">Martinez Rodriguez C D, Rodriguez G M, Bagüi J L, Pardo Villanueva P J, Escobar Villanueva R R (2024). Caracterización de fauna y flora asociada a bosque seco tropical en la OMEC Las Guacharacas, municipio de Piojó, Atlántico. Version 1.3. Fundación Ecosistemas Secos de Colombia. Occurrence dataset https://doi.org/10.15472/aolydj accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-fes.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

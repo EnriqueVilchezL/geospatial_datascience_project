@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="8d507829-f104-4515-b7a2-098500551e15"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/sjcr8r</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=fauna_y_flora_asociada_al_pof_rio_bita</alternateIdentifier>
+        <title>Fauna y Flora asociada al Plan de Ordenamiento Forestal del Rio Bita</title>
+        <creator>
+            <individualName>
+                <surName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Autoridad ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 No. 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(608) 6358588</phone>
+            <electronicMailAddress>atencionusuarios@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Autoridad ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 No. 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(608) 6358588</phone>
+            <electronicMailAddress>atencionusuarios@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Fundación Orinoquia Biodiversa</surName>
+            </individualName>
+            <organizationName>Fundación Orinoquia Biodiversa</organizationName>
+            <positionName>Consultor</positionName>
+            <address>
+                <deliveryPoint>Cra. 22 #14-72</deliveryPoint>
+                <city>Tame</city>
+                <administrativeArea>Arauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>78887145</phone>
+            <electronicMailAddress>info@orinoquiabiodiversa.org</electronicMailAddress>
+            <onlineUrl>https://fundacionorinoquiabiodiversa.com/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Neochén</surName>
+            </individualName>
+            <organizationName>Neochén</organizationName>
+            <positionName>Consultor</positionName>
+            <address>
+                <deliveryPoint>Carrera 41 15 42 Barrio Villa Maestro</deliveryPoint>
+                <city>Tame</city>
+                <administrativeArea>Arauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-04-09
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>La Corporación Autónoma Regional de la Orinoquía - CORPORINOQUÍA - atendiendo la normatividad ambiental existente en Colombia referida a la ley 99 de1993 y el Decreto Ley 2811 de 1974, incluyó dentro de sus prioridades la formulación del Plan de Ordenamiento forestal del Rio Bita, teniendo en cuenta que este posee el mejor estado de conservación dentro de la cuenca del Orinoco y se encuentra incluido dentro de la lista de humedales de importancia de la convención Ramsar. Esto junto al gran valor ecológico, económico y cultural que representa para las comunidades, se hizo necesario generar un instrumento de planificación que permitiera realizar acciones conjuntas coherentes y efectivas entre las instituciones ambientales y la comunidad, de tal forma que permita la recuperación y conservación de los recursos naturales y ecosistemas presentes en la Subzona Hidrográfica del Rio Bita.</para><para>En razón a lo anterior, la Corporación Autónoma Regional de la Orinoquía - CORPORINOQUÍA junto a Fundación Orinoquía Biodiversa y Neochen realizaron el proyecto denominado &amp;#34;Formulación del Plan de Ordenación Forestal (POF) de la Subzona Hidrográfica del Río Bita departamento del Vichada, jurisdicción CORPORINOQUIA&amp;#34;, localizado en jurisdicción de Corporinoquía en el departamento de Vichada.</para><para>Este conjunto de datos cuenta con 4.700 registros biológicos correspondientes a los reinos Plantae (2.308) y Animalia (2.392). Estos fueron tomados en el año 2023 en diferentes municipios del departamento de Vichada. Para la captura de información de flora se realizó un levantamiento de parcelas de muestreo de 707 m2 para la medición de fustales, latizales y brinzales. Para la recolección de la información correspondiente a la fauna, se realizaron recorridos libres de observación y se emplearon redes de niebla, trampas de caída, trampas de luz y transectos de observación.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Animalia</keyword>
+            <keyword>eventID</keyword>
+            <keyword>Plantae</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=fauna_y_flora_asociada_al_pof_rio_bita</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La Subzona Hidrográfica del Rio Bita en jurisdicción de Corporinoquia se encuentra localizada en el departamento del Vichada en la altillanura de la Orinoquia colombiana, especificamente en los municipios de La Primavera, Puerto Carreño y abarca un área de estudio de aproximadamente 815.038,455 hectáreas.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-69.82</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-68.144</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.067</northBoundingCoordinate>
+                    <southBoundingCoordinate>5.577</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-04-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-06-23
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este conjunto de datos cuenta con 4.700 registros biológicos correspondientes a los reinos Plantae (2.308) y Animalia (2.392). El recurso está compuesto por 7 clases, 64 órdenes, 173 familias. En general, se identificó un total de 78% a nivel de especie, 21% a nivel de género y el 1% restante, en otras catgorías.
+
+En cuanto al reino Animalia la distribución se da en 5 clases, 42 órdenes y 111 familias. Del total de registros biológicos, se identificó a nivel de especie un 82.10%, un 17.2% a nivel de género y el 0.7% restante, en otras categorías.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En cuanto al reino Plantae la distribución se da en 2 clases, 22 órdenes y 60 familias. Del total de registros biológicos se identificaron a nivel de especie el 75%, a nivel de género el 24% y un 1% a nivel de familia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Nathalia</givenName>
+                <surName>Meza Fernandez</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Profesional de planta</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 No. 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(608) 6358588</phone>
+            <electronicMailAddress>nathaliameza@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FAUNA - Avifauna - Redes de niebla: Se establecieron estaciones de muestreo en la cobertura de bosque durante seis (6) días por zona (C1, C2, C3) en la Unidad Ordenación Forestal de la Subzona Hidrográfica del Río Bita. Se instalaron 10 redes de 12 m x 3 m, con un ojo de malla de 30 mm, buscando obtener un mínimo de 120 metros red/hombre por estación de muestreo, los cuales fueron ejecutadas durante un día en los picos de mayor actividad de las especies (Villareal H. M., y otros, 2004). Las redes estuvieron abiertas desde las 05:30 h hasta las 12:00 h, estas fueron monitoreadas constantemente cada 20 minutos dependiendo de la actividad y del clima. Estas estaciones de monitoreo se establecieron en ecotonos, que corresponden a áreas boscosas y/o en transición con otras unidades de cobertura y árboles con alimento para las aves. Las especies capturadas se dispusieron en bolsas de tela individuales de diferentes diámetros de acuerdo con el tamaño de los individuos, esto con el fin de manipularlas e identificarlas en sitios de control, donde se tomaron los registros fotográficos y datos como determinación de sexo, datos morfométricos, que se emplearon para la óptima determinación de los individuos capturados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Transectos de monitoreo: Para esta metodología se utilizó lo propuesto por Ralph y colaboradores (1996), la cual consistió en realizar transectos sobre los senderos o trochas que pasan de forma estratégica por coberturas naturales y antrópicas, los cuales permiten tener una mayor visión de las aves que se encuentran en los diferentes estratos de forrajeo y que, con la utilización de otra metodología, no es posible identificarlos. La selección de los transectos en las coberturas naturales permite observar a las aves en sitios de nidación, áreas de reproducción y zonas de alimentación en niveles altos como dosel y subdosel, y en áreas abiertas permite identificar aquellas especies que son más generalistas y comunes. Esta metodología nos permitió obtener un inventario más eficiente debido a que se cubre una mayor área dentro de las coberturas de interés. Los muestreos se realizaron entre las 06:00 y las 10:30 horas y en la tarde desde las 15:00 a las 18:00 horas, con el fin de abarcar los picos más altos de actividad de las especies. La identificación de especies se realizó tanto visual como auditivamente (Ralph C. J., Geupel, Peter, &amp; Geoffrey, 1996). Para el registro visual de especies se utilizaron binoculares marcas Vortex 10X42, además de una cámara fotográfica Canon Sx70 HS Powershot para la toma de registro fotográfico. Así mismo, se registró información con respecto al tipo de cobertura vegetal y estrato en el que cada individuo fue observado.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Encuestas: se realizaron seis (6) encuestas semiestructuradas a habitantes adultos de los sitios de muestreo con el fin de obtener información de las especies de avifauna con hábitos estacionales o migratorios. Estas especies no son de fácil detección a lo largo del año y es posible que no hayan podido ser registradas durante el muestreo. Así mismo, permiten obtener información relacionada con la riqueza de este grupo e indicios sobre los estados poblacionales, toponimia vernacular y la importancia de estas especies a nivel comercial y/o cultural, basados en guías y catálogos de aves para la zona.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos voladores: Para la captura de murciélagos se instalaron siete redes de niebla durante ocho noches por cada zona de muestreo (C1, C2, C3) a nivel de suelo. Estuvieron activas desde las 17:30 a las 20:30 horas, siendo revisadas en un intervalo de 15 a 30 minutos, tiempo que estuvo determinado por la tasa de captura (Bracamonte, 2018). Las redes fueron distribuidas seis noches en bosque, una en herbazal y una en plantación, dadas las condiciones propias de cada cobertura vegetal y la disposición de refugio o alimento para los organismos. Es de destacar que las redes se movieron por diferentes parches de bosque. Por su parte, cada individuo capturado se depositó en una bolsa de tela y posteriormente fueron tomadas medidas morfométricas estándar. Adicionalmente, se registraron caracteres propios para la identificación de cada especie y observaciones generales como el estado reproductivo y sexo (Díaz, Solari, Aguirre, Aguiar, &amp; Barquez, 2016). Finalmente, fueron fotografiados y liberados. Para su determinación taxonómica se implementó la clave de identificación de murciélagos neotropicales (Díaz, Solari, Gregorin, Aguirre, &amp; Barquez, 2021).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos terrestres: El registro de mamíferos terrestres se realizó a partir de observación directa e indirecta en transectos ejecutados a pie entre las 08:00 y 13:00 horas. Una vez visualizado cada individuo o rastro, se procedió a realizar un registro fotográfico y la recopilación de información asociada para su posterior análisis. Adicionalmente, se hizo instalación de 28 cámaras trampa distribuidas en las tres zonas de muestreo ubicadas a una altura entre 30 a 40 centímetros del suelo. Estas estuvieron activas por un mes aproximadamente, obteniendo un total de 15.408 horas de muestreo; fueron ubicadas principalmente en la cobertura de bosque, cerca de sendas, cuerpos de agua, madrigueras o árboles con frutos. Su programación consistió en estar activas las 24 horas del día, tomar tres fotografías y un video de 25 segundos por cada estímulo activador (Díaz Pulido &amp; Payán Garrido, 2012). Se usó sardinas y cáscara de frutas como cebo para aumentar las probabilidades de detección. Ahora bien, para la captura de pequeños mamíferos se realizó la instalación de 15 trampas Sherman por cada zona de muestreo (C1, C2, C3) en bosque durante 72 horas, usando como cebo una mezcla de avena, mantequilla de maní, esencia de vainilla y crema de chocolate. Se buscaron áreas con suficiente sombra y vegetación, distribuidas en un transecto con una distancia aproximada de 20-30 m entre cada una; estas fueron revisadas cada día. Para la determinación taxonómica general se implementó la guía de huellas de mamíferos (De Angelo, Pavíolo, Blanco, &amp; Bitetti, 2017) y las listas de mamíferos de Colombia (Sergio Solari, Defler, Ramírez-Chaves, &amp; Trujillo, 2013) (Ramírez-Chaves H. E., Morales-Martínez, Rodríguez-Posada, &amp; Suárez-Castro, 2021).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Herpetofauna: Para la detección e identificación de anfibios y reptiles se utilizó la técnica de búsqueda libre y sin restricciones a través de encuentro casual y auditivo (Angulo, Rueda-Almonacid, Rodriguez-Mahecha &amp; La Marca, 2006), evaluando zonas cercanas a cuerpos de agua y microhábitats propicios para el encuentro de la herpetofauna, tales como troncos, rocas, hojarasca, entre otros lugares fitotelmáticos y de refugio (Heyer, Donnelly, McDiarmid &amp; Foster, 1994). El muestreo fue realizado en horas del día entre las 8:00 y 13:00 horas con el fin de detectar aquellos organismos de hábitos diurnos y de tendencia termorreguladora, como algunos lagartos; y en la tarde-noche entre las 16:00 y 21:00 horas para la mayoría de los organismos crepusculares y de hábitos nocturnos. Se estableció así un esfuerzo de muestreo de 10h/día/hombre (Angulo, Rueda-Almonacid, Rodriguez-Mahecha &amp; La Marca, 2006).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los animales detectados fueron fotografiados en su mayoría y georreferenciados al momento del encuentro. Aquellos organismos capturados para su determinación fueron transportados en bolsas plásticas o de tela para su manejo, realizando el respectivo registro fotográfico de sus características morfológicas más puntuales y tomando anotaciones correspondientes a su coloración en vida, así como distinciones físicas y morfométricas. De igual forma, se hizo la anotación de aspectos comportamentales, climáticos y ecológicos al momento del encuentro de los organismos, con la finalidad de contribuir a su determinación y confirmación taxonómica, buscando llegar hasta la mínima categoría posible (Angulo, Rueda-Almonacid, Rodriguez-Mahecha &amp; La Marca, 2006). Aquellos organismos que se encontraron vocalizando fueron grabados, y sus cantos fueron procesados con el programa Raven Pro 1.6 con la finalidad de identificar especies y densidad poblacional (Gerhardt, 1994).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Entomofauna - Coleópteros coprófagos: Para la captura de los escarabajos en cada cobertura se establece un transecto donde se instalan 10 trampas Pitfall (trampa de caída), las cuales consisten en un recipiente de aproximadamente 500 ml de capacidad y 10 cm de diámetro que se entierra a ras de suelo . Estas trampas se llenan hasta el 50 % con alcohol al 70 % para facilitar la conservación de los ejemplares y se distancian un mínimo de 10 m entre sí para abarcar la mayor área posible. Las trampas fueron cebadas con excremento humano, de acuerdo con lo propuesto por Villareal et al. (2004), Martínez et al. (2009) y Barraza et al. (2010). Las trampas permanecen activas 24 horas, luego de las cuales son revisadas y tamizadas con ayuda de un colador para eliminar cualquier residuo. Finalmente, los organismos son almacenados y rotulados en viales con alcohol al 70 % (Villareal et al., 2004).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Hormigas: Las hormigas fueron recolectadas mediante dos técnicas: captura manual activa, trampas de caída cebadas con atún y cernido de hojarasca, tres de las metodologías más usadas y que mejores resultados brindan según (Villareal et al. 2004). En el caso de la captura manual, se realizó una búsqueda intensiva de los individuos en diferentes lugares como arbustos, árboles, nidos de animales y debajo de rocas, entre otros. Tras la captura de cada uno de los individuos, se registraron datos concernientes a su historia natural (e.g., microhábitat).
+Las trampas de caída presentan el mismo fundamento que las utilizadas para la captura de escarabajos coprófagos; sin embargo, difieren en que el cebo utilizado consiste en atún. El cernido de hojarasca, por su parte, consiste en el uso de un tamiz o cernidor, el cual es llenado con hojarasca recogida de un cuadrante de 1 m². Posteriormente, se agita activamente con el fin de que las partículas más finas y los organismos pequeños, como las hormigas, caigan en una bandeja de color blanco dispuesta debajo del tamiz. Luego, estas son recolectadas con la ayuda de pinzas y/o pinceles. Después de la recolección de los especímenes mediante las técnicas mencionadas, estos fueron almacenados en viales con alcohol al 70 %.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mariposas diurnas: Las mariposas diurnas fueron muestreadas mediante dos metodologías: trampas Van Someren Rydon y jameo libre (Villareal et al., 2004).
+Las trampas Van Someren Rydon (DeVries, 1987) fueron usadas para atraer mariposas frugívoras, debido a que se cebaron con una combinación fermentada de diferentes frutas, como banano y papaya, entre otras. En cada zona se proyectó un transecto lineal de 350 metros donde se instalaron 12 trampas, las cuales fueron revisadas a las 24 horas con el fin de extraer los individuos, que posteriormente fueron preservados en sobres de papel mantequilla dentro de un recipiente hermético. En el caso del jameo libre, este consistió en recorridos libres, tratando de abarcar la mayor cantidad de área posible y examinando cuidadosamente cada potencial microhábitat para este grupo de insectos. Luego de la captura, los especímenes fueron georreferenciados y almacenados en sobres de papel mantequilla con su respectivo rótulo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mariposas nocturnas: La metodología aplicada para la recolección de las mariposas nocturnas consistió en su atracción mediante trampas de luz tipo pantalla. Esta metodología ha demostrado ser efectiva, ya que aprovecha la atracción natural que experimentan estos insectos por la luz (Jonason et al., 2014; Truxa &amp; Fiedler, 2012). El montaje de la trampa consiste en un bombillo de vapor de mercurio (250 W) conectado a un generador o una fuente de energía directa. Este bombillo cuelga de manera que refleje su luz sobre una superficie blanca; de esta forma, los individuos llegan a la luz y son capturados manualmente con una cámara letal de acetona y con ayuda de una jama entomológica (Infusino et al., 2017). Esta técnica fue aplicada durante dos horas por cada cobertura en cada una de las cuencas del Río Bita. Finalmente, para asegurar que los especímenes recolectados se mantengan en buen estado, son almacenados cuidadosamente en sobres de papel mantequilla dentro de un recipiente hermético debidamente etiquetado.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Abejas: Para la captura de abejas se aplicaron dos metodologías: platos amarillos con atrayentes y jameo libre. Los platos amarillos planos fueron instalados en el campo con una distancia de separación de aproximadamente 10 m entre sí. Esta metodología ha sido evaluada, evidenciando que el color amarillo actúa como un atrayente para organismos de este grupo de insectos. Además, a estos platos se les adicionó un algodón empapado con esencia de eucalipto (eucaliptol), vainilla o salicilato, lo que potencializa la atracción de las trampas. Los platos fueron instalados y revisados durante una hora, capturando manualmente cada individuo atraído, los cuales posteriormente fueron almacenados en viales con alcohol debidamente rotulados. En el caso del jameo libre, este consistió en recorridos tratando de abarcar la mayor cantidad de área posible, examinando cuidadosamente los microhábitats preferidos por este grupo de insectos y capturando los individuos mediante el uso de una red (jama). Luego de la captura, los especímenes fueron georreferenciados y almacenados en viales con alcohol con su respectivo rótulo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FLORA: Se implementaron conglomerados siguiendo los parámetros del Inventario Forestal Nacional (IFN). Estos conglomerados constan de cinco subparcelas forestales (SPF), distanciadas entre sí a 80 m entre centros. Dentro de cada subparcela, se encuentran anidadas unidades de muestreo para diferentes categorías de tamaño, según la siguiente distribución:
+Fustales grandes (FG): Individuos con diámetro a la altura del pecho (DAP) superior a 30 cm. Se muestrearon en parcelas de 15 m de radio, con un área de 707 m².
+Fustales (F): Árboles con DAP entre 10 cm y 29.9 cm. Se evaluaron en parcelas de 7 m de radio, con un área de 154 m².
+Latizales (L): Individuos con DAP entre 2.5 cm y 9.9 cm. Se analizaron en parcelas de 3 m de radio, con un área de 28.3 m².
+Brinzales (B): Individuos con un DAP inferior a 2.4 cm, incluyendo plántulas de árboles. Se muestrearon en parcelas de 1 m de radio, con un área de 3.14 m², ubicadas a 5 m de distancia y 45° de azimut desde el centro de la SPF.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cabe destacar que esta última parcela (Brinzales) no está incluida en el manual versión 5.2 del IFN; sin embargo, fue implementada en este estudio con el objetivo de monitorear la regeneración natural de la vegetación en el área de estudio. Una vez materializado el centro de la subparcela, se procedió a realizar la medición y registro de los individuos encontrados en el área de muestreo para cada categoría de tamaño. Las variables registradas variaron según lo estipulado en la metodología.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se realizó un proceso de morfo-especiación y homologación del material colectado por los profesionales en campo. Este procedimiento fue llevado a cabo por un botánico con amplia experiencia en la flora de la región. Durante el proceso, se catalogaron las muestras por familia , se homologaron especímenes pertenecientes a la misma especie.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para el procesamiento de la información obtenida en campo, por cada conglomerado implementado en la caracterización de áreas forestales protectoras (AFPt) y productoras (AFPd), se realizaron las siguientes actividades: organización de la información obtenida de campo (formularios, GPX, fotografías) según lo establecido en el manual IFN versión 5.2, digitalización de los formularios F.3 y F.4, procesamiento y revisión de la información obtenida en campo e identificación del material vegetal colectado por el Herbario Tropical ubicado en la ciudad de Bogotá, con registro No. 263 del IAvH. Para el análisis de la información conseguida, se realizó la estratificación de los datos obtenidos, cada subparcela implementada se clasificó según la cobertura predominante y el bioma en el que se ubique para así realizar los análisis de estructura, composición e importancia económica por ecosistemas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los nombres científicos de las especies, así como su clasificación taxonómica, se corroboraron con base en las siguientes referencias electrónicas: The Plant List (www.theplantlist.org), The International Plants Name Index (www.ipni.org) e Integrated Taxonomic Information System. Para la identificación de especies amenazadas o en veda en las áreas de intervención, se realizó la consulta en los Libros Rojos de Plantas de Colombia de Especies Maderables (Sinchi, 2006), la Lista Roja de la Unión Internacional para la Conservación de la Naturaleza (UICN), la Resolución 1912 de 2017 del Ministerio de Ambiente y Desarrollo Sostenible (MADS), así como los Apéndices de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres (CITES).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La Subzona Hidrográfica del Rio Bita en jurisdicción de Corporinoquia se encuentra localizada en el departamento del Vichada en la altillanura de la Orinoquia colombiana, especificamente en los municipios de La Primavera, Puerto Carreño y abarca un área de estudio de aproximadamente 815.038,455 hectáreas.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>La caracterización de los grupos faunísticos se estableció en tres zonas de muestreo:  una en la vereda Matiyure correspondiente a la cuenca alta del río Bita, seguido por la cuenca media ubicada en la vereda La Soledad y finalmente la cuenca baja ubicada sobre la vereda Puerto Murillo cercana a su desembocadura en el río Orinoco. En cada zona (C1, C2 y C3) se evaluaron las coberturas de bosque (zonas con vegetación arbórea en diferentes estratos, con presencia o ausencia de morichales y drenajes de diferentes niveles asociados a la UOF Río Bita), herbazal (áreas con vegetación dispersa o ausente, sabanas naturales y sabanas destinadas a la ganadería) y plantaciones forestales (compuestas principalmente de plantaciones de pino, eucalipto y acacia).</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Formulación del Plan de Ordenación Forestal (POF) de la Subzona Hidrográfica del Río Bita departamento del Vichada, jurisdicción CORPORINOQUIA</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Nathalia</givenName>
+                    <surName>Meza</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>La Corporación Autónoma Regional de la Orinoquía - CORPORINOQUÍA - atendiendo la normatividad ambiental existente en Colombia referida a la ley 99 de1993 y el Decreto Ley 2811 de 1974, incluyó dentro de sus prioridades la formulación del Plan de Ordenamiento forestal del Rio Bita, teniendo en cuenta que el río Bita posee el mejor estado de conservación dentro de la cuenca del Orinoco y se encuentra incluído dentro de la lista de humedales de importancuia de la convención Ramsar. Esto junto al gran valor ecológico, económico y cultural que representa para las comunidades hizo necesario generar un instrumento de planificación que permitiera realizar acciones conjuntas coherentes y efectivas entre las instituciones ambientales y la comunidad, de tal forma que permita la recuperación y conservación de los recursos naturales y ecosistemas presentes en la Subzona Hidrográfica del Rio Bita. 
+En razón a lo anterior, la Corporación Autónoma Regional de la Orinoquía - CORPORINOQUÍA junto a Fundación Orinoquía Biodiversa y Neochen realizaron el proyecto denominado &quot;Formulación del Plan de Ordenación Forestal (POF) de la Subzona Hidrográfica del Río Bita departamento del Vichada, jurisdicción CORPORINOQUIA&quot;, localizado en jurisdicción de Corporinoquía en el departamento de Vichada.
+
+Este conjunto de datos cuenta con 2308 registros biológicos correspondientes a los reinos Plantae y 2392 registros bilógicos correspondientes a Animalia. Estos fueron tomados en el año 2023 en diferentes municipios del departamento de Vichada. Para la captura de información de flora se realizó un levantamiento de parcelas de muestreo de 707 m2 para la medición de fustales, latizales y brinzales. Para la recolección de la información correspondiente a la fauna, se realizaron recorridos libres de observación y se emplearon redes de niebla, trampas de caída, trampas de luz y transectos de observación.</para>
+                </abstract>
+                <funding>
+                    <para>Iniciativa Paisajes Forestales Sostenibles (ISF) del Fondo Biocarbono</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>La Subzona Hidrográfica del Rio Bita en jurisdicción de Corporinoquia se encuentra localizada en el departamento del Vichada en la altillanura de la Orinoquia colombiana, especificamente en los municipios de La Primavera, Puerto Carreño y abarca un área de estudio de aproximadamente 815.038,455 hectáreas.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>La caracterización de los grupos faunísticos se estableció en tres zonas de muestreo:  una en la vereda Matiyure correspondiente a la cuenca alta del río Bita, seguido por la cuenca media ubicada en la vereda La Soledad y finalmente la cuenca baja ubicada sobre la vereda Puerto Murillo cercana a su desembocadura en el río Orinoco.
+En cada zona (C1, C2 Y C3) se evaluaron las coberturas de bosque (zonas con vegetación arbórea en diferentes estratos, con presencia o ausencia de morichales y drenajes de diferentes niveles asociados a la UOF Río Bita), herbazal (áreas con vegetación dispersa o ausente, sabanas naturales y sabanas destinadas a la ganadería) y plantaciones forestales (compuestas principalmente de plantaciones de pino, eucalipto y acacia).</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:16Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/sjcr8r">Corporación Autónoma Regional de la Orinoquia - Corporinoquia (2025). Fauna y Flora asociada al Plan de Ordenamiento Forestal del Rio Bita. Corporación Autónoma Regional de la Orinoquia - Corporinoquia. Occurrence dataset https://doi.org/10.15472/sjcr8r accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Angulo, A., Rueda-Almonacid, J., Rodriguez-Mahecha, J., &amp; La Marca, E. (2006). Técnicas de inventario y monitoreo para los anfibios de la región tropical andina. Bogotá: Conservación Internacional-Colombia, Series Manuales de Campo No. 2.</citation>
+                <citation>Blake, Y., &amp; Loiselli, B. (1991). Variation in resource abundant affects captures in birds of three lowland habitats in Costa Rica. AUK, 108, 114-127.</citation>
+                <citation>De Angelo, C., Pavíolo, A., Blanco, Y. D., &amp; Bitetti, M. D. (2017). Guía de huellas de mamíferos y grandes reptiles de Misiones, Norte Grande y otras áreas del subtrópico de Argentina. Tucumán, Argentina: Tercera edición, Ediciones del Subtrópico.</citation>
+                <citation>DeVries, P. J. (1987). The butterflies of Costa Rica and their natural history: Papilionidae, Pieridae, Nymphalidae.</citation>
+                <citation>Díaz Pulido, A., &amp; Payán Garrido, E. (2012). Manual de fototrampeo: una herramienta de investigación para la conservación de la biodiversidad en Colombia. Bogotá: (No. Doc. 26070) CO-BAC.</citation>
+                <citation>Díaz, M. M., Solari, S., Aguirre, L. F., Aguiar, L., &amp; Barquez, R. M. (2016). Clave de identificación de los murciélagos de Sudamérica/Chave de identificação dos morcegos da América do Sul. Publicación Especial Nro. 2, 160.</citation>
+                <citation>Díaz, M. M., Solari, S., Gregorin, R., Aguirre, L. F., &amp; Barquez, R. M. (2021). Clave de identificación de los murciélagos neotropicales.</citation>
+                <citation>Gerhardt, H. (1994). The evolution of vocalization in frogs and toads. Annual Review of Ecology and Systematics, 25(1), 293-324.</citation>
+                <citation>Heyer, W., Donnelly, M., McDiarmid, R., &amp; Foster, M. (1994). Essentials of standardization and quantification. Measuring and monitoring biological diversity: standard methods for amphibians.</citation>
+                <citation>Infusino, M., Brehm, G., Di Marco, C., &amp; Scalercio, S. (2017). Assessing the efficiency of UV LEDs as light sources for sampling the diversity of macromoths (Lepidoptera). European Journal of Entomology, 114, 25.</citation>
+                <citation>Jonason, D., Franzén, M., &amp; Ranius, T. (2014). Surveying moths using light traps: effects of weather and time of year. PLoS One, 9, e92453.</citation>
+                <citation>Ramírez-Chaves, H., Morales-Martínez, D., Rodríguez-Posada, M., &amp; Suárez-Castro, A. (2021). Checklist of the mammals (Mammalia) of Colombia: Taxonomic changes in a highly diverse country. Mammalogy Notes.</citation>
+                <citation>Solari, S., Mosquera-Suárez, Y. M., Defler, T. R., Ramírez-Chaves, H. E., &amp; Trujillo, F. (2013). Riqueza, endemismo y conservación de los mamíferos de Colombia. Mastozoología Neotropical, 301-365.</citation>
+                <citation>Villareal, H. M., Álvarez, M., Córdoba-Córdoba, S., Escobar, F., Fagua, G., Gast, F., &amp; Umaña, A. M. (2004). Manual de métodos para el desarrollo de inventarios de biodiversidad.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-corporinoquia.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

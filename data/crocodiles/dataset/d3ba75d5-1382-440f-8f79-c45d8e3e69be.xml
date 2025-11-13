@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="d3ba75d5-1382-440f-8f79-c45d8e3e69be"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/z6yhzr</alternateIdentifier>
+        <alternateIdentifier>10.15468/80lnhk</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=coleccion_mhua</alternateIdentifier>
+        <alternateIdentifier>d3ba75d5-1382-440f-8f79-c45d8e3e69be</alternateIdentifier>
+        <title>Colección de Reptiles - Museo de Herpetología de la Universidad de Antioquia</title>
+        <creator>
+            <individualName>
+                <givenName>Juan Manuel</givenName>
+                <surName>Daza Rojas</surName>
+            </individualName>
+            <organizationName>Universidad de Antioquia</organizationName>
+            <positionName>Profesor</positionName>
+            <address>
+                <deliveryPoint>Calle 67 No. 53-108 - Bloque 7-121</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 4219 5629</phone>
+            <electronicMailAddress>museo.mhua@gmail.com</electronicMailAddress>
+            <onlineUrl>http://herpetologicodeantioquia.org/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Juan Manuel</givenName>
+                <surName>Daza Rojas</surName>
+            </individualName>
+            <organizationName>Universidad de Antioquia</organizationName>
+            <positionName>Profesor</positionName>
+            <address>
+                <deliveryPoint>Calle 67 No. 53-108 - Bloque 7-121</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 4219 5629</phone>
+            <electronicMailAddress>museo.mhua@gmail.com</electronicMailAddress>
+            <onlineUrl>http://herpetologicodeantioquia.org/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Juan Manuel</givenName>
+                <surName>Daza Rojas</surName>
+            </individualName>
+            <organizationName>Universidad de Antioquia</organizationName>
+            <positionName>Profesor</positionName>
+            <address>
+                <deliveryPoint>Calle 67 No. 53-108 - Bloque 7-121</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 4219 5629</phone>
+            <electronicMailAddress>museo.mhua@gmail.com</electronicMailAddress>
+            <onlineUrl>http://herpetologicodeantioquia.org/</onlineUrl>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2023-11-29
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            El MHUA fue creado en 1998 como resultado de los diferentes proyectos de investigación llevados a cabo principalmente en el departamento de Antioquia, financiados por la Corporación Autonoma del Centro de Antioquia (Corantioquia), la Universidad de Antioquia, la Universidad Nacional de Colombia (sede Medellín), y Colciencias. Actualmente varios proyectos financiados por la Universidad de Antioquia y diferentes entidades privadas y publicas están incrementando el acervo de la colección. A la fecha, la colección contiene mas de 11.000 ejemplares de los cuales aproximadamente 5000 pertenecen a Reptiles.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>COLECCIONES</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Universidad de Antioquia</keyword>
+            <keyword>MHUA</keyword>
+            <keyword>Grupo Herpetológico de Antioquia</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=coleccion_mhua</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Ejemplares de los departamentos de Amazonas, Antioquia, Atlántico, Bolívar, Boyacá, Caldas, Cesar, Chocó, Córdoba, Cundinamarca, La Guajira, Magdalena, Meta, Nariño, Norte de Santander, Quindío, Risaralda, San Andrés y Providencia, Santander, Sucre, Tolima, Valle del Cauca, Vaupés, Vichada, en Colombia.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-82.25</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-66.46</eastBoundingCoordinate>
+                    <northBoundingCoordinate>15.48</northBoundingCoordinate>
+                    <southBoundingCoordinate>-4.33</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1986-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2014-03-01
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>5148 ejemplares de Reptiles, de los cuales 4968 se encuentran identificados hasta especie y 180 hasta género. Los ejemplares pertenecen a 31 familias y 5 órdenes.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alligatoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Amphisbaenidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Anguidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Anomalepididae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Boidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Chelonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Chelydridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Colubridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Corytophanidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dactyloidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dermochelidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dipsadidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Elapidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Emydidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gekkonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Geoemydidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gymnophthalmidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hoplocercidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Iguanidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Kinosternidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leptotyphlopidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phyllodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Podocnemididae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Polychrotidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Scincidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sphaerodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Teiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Tropidophiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Tropiduridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Typhlopidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Viperidae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Juan Manuel</givenName>
+                <surName>Daza Rojas</surName>
+            </individualName>
+            <organizationName>Universidad de Antioquia</organizationName>
+            <positionName>Profesor</positionName>
+            <address>
+                <deliveryPoint>Calle 67 No. 53-108 - Bloque 7-121</deliveryPoint>
+                <city>Medellín</city>
+                <administrativeArea>Antioquia</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 4219 5629</phone>
+            <electronicMailAddress>museo.mhua@gmail.com</electronicMailAddress>
+            <onlineUrl>http://herpetologicodeantioquia.org/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Los especímenes depositados en el MHUA son resultado de múltiples proyectos de investigación, salidas de campo académicas y donaciones, por esta razón, no hay un protocolo general, único o uniforme utilizado en la colecta de los individuos. Los procedimientos de colecta de las muestras donadas son desconocidos en la vasta mayoría de los casos, muchos de estos son encontrados de manera fortuita. Para los proyectos de investigación y las salidas de campo académicas, la metodología de colecta es usualmente relevamiento por encuentros visuales (REV) e Inventario completo de especies. Con la metodología REV se realiza una búsqueda sistemática de individuos en un área o hábitat particular por un periodo de tiempo definido; mientras que el inventario completo de especies es una búsqueda no limitada por toda la zona de estudio, buscando en todos los microhabitats posibles donde se puedan encontrar especimenes</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El Museo de Herpetología Universidad de Antioquia es un museo regional que cubre principalmente la región del noroeste de los Andes. Los especímenes depositados en la colección de Reptiles representas colectas de más de 762 localidades únicas en toda Colombia, siendo Antioquia el departamento con mayor número de localidades representadas con 516 y más de 2700 especímenes. El esfuerzo de colecta por sitio varía desde 1 hasta 192 especímenes.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los especímenes depositados en el MHUA son resultado de múltiples proyectos de investigación, salidas de campo académicas y donaciones, por esta razón, no hay un protocolo general, único o uniforme utilizado en la colecta de los individuos. Los procedimientos de colecta de las muestras donadas son desconocidos en la vasta mayoría de los casos, muchos de estos son encontrados de manera fortuita. Para los proyectos de investigación y las salidas de campo académicas, la metodología de colecta es usualmente relevamiento por encuentros visuales (REV) e Inventario completo de especies. Con la metodología REV se realiza una búsqueda sistemática de individuos en un área o hábitat particular por un periodo de tiempo definido; mientras que el inventario completo de especies es una búsqueda no limitada por toda la zona de estudio, buscando en todos los microhabitats posibles donde se puedan encontrar especímenes</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Los datos de cada espécimen son almacenados en una base de datos digital y sometida a dos filtros de calidad: 1) identificación y determinación taxonómica y 2) georreferenciación. La identificación taxonómica es realizada inicialmente por los colectores y luego es confirmada por expertos del MHUA o de otras instituciones y ajustada a lo nomenclatura propuesta por Frost (2013)
+
+Ajuste de vocabularios controlados en:
+Elementos de registros: collectionID  de acuerdo a la naturaleza de los datos;
+Elementos geográficos: stateProvince y county;</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:00Z</dateStamp>
+                <citation identifier="http://doi.org/10.15472/z6yhzr">Daza Rojas J M (2023). Colección de Reptiles - Museo de Herpetología de la Universidad de Antioquia. Version 3.3. Universidad de Antioquia. Occurrence dataset https://doi.org/10.15472/z6yhzr accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/udea.jpg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>MHUA</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 80</collectionIdentifier>
+                    <collectionName>Museo de Herpetología de la Universidad de Antioquia</collectionName>
+                </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

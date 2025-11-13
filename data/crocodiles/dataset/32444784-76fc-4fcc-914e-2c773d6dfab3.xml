@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="32444784-76fc-4fcc-914e-2c773d6dfab3"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/9m3s6p</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=icesi_coleccion_reptiles</alternateIdentifier>
+        <title>Colección de Zoología Universidad Icesi: Reptiles</title>
+        <creator>
+            <individualName>
+                <givenName>Gustavo Adolfo</givenName>
+                <surName>Londoño Guerrero</surName>
+            </individualName>
+            <organizationName>Universidad Icesi</organizationName>
+            <positionName>Profesor/Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 18 No. 122-135</deliveryPoint>
+                <city>Cali</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <postalCode>760001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>555 2334</phone>
+            <electronicMailAddress>galondono@icesi.edu.co</electronicMailAddress>
+            <onlineUrl>http://www.icesi.edu.co/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0003-1896-8653</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Maria del Rosario</givenName>
+                <surName>Castañeda</surName>
+            </individualName>
+            <organizationName>Universidad Icesi</organizationName>
+            <positionName>Profesora/Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 18 No. 122-135</deliveryPoint>
+                <city>Cali</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <postalCode>760001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>555 2334</phone>
+            <electronicMailAddress>mdcastaneda@icesi.edu.co</electronicMailAddress>
+            <onlineUrl>http://www.icesi.edu.co/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0003-1874-2953</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>José Alejandro</givenName>
+                <surName>Riascos Ramírez</surName>
+            </individualName>
+            <organizationName>Universidad Icesi</organizationName>
+            <positionName>Analista Colección de zoología</positionName>
+            <address>
+                <deliveryPoint>Calle 18 No. 122-135</deliveryPoint>
+                <city>Cali</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <postalCode>760001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3108718563</phone>
+            <electronicMailAddress>jariascos@icesi.edu.co</electronicMailAddress>
+            <onlineUrl>https://orcid.org/0000-0001-6288-7502</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">/joseriascosbiologia/</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>José Alejandro</givenName>
+                <surName>Riascos Ramírez</surName>
+            </individualName>
+            <organizationName>Universidad Icesi</organizationName>
+            <positionName>Analista Colección de zoología</positionName>
+            <address>
+                <deliveryPoint>Calle 18 No. 122-135</deliveryPoint>
+                <city>Cali</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <postalCode>760001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3108718563</phone>
+            <electronicMailAddress>jariascos@icesi.edu.co</electronicMailAddress>
+            <onlineUrl>https://orcid.org/0000-0001-6288-7502</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">/joseriascosbiologia/</userId>
+        </metadataProvider>
+        <pubDate>
+                2023-02-09
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Base de datos sobre los ejemplares de reptiles que se encuentran almacenados y al cuidado de la colección zoológica de la Universidad Icesi, tomados bajo las modalidades de colecta en salidas de campo y donaciones por entidades ambientales o privadas como el Zoológico de Cali. Los especímenes de la colección de Zoología de la Universidad Icesi ayudan a representar la biodiversidad Colombiana, enfocándose principalmente en el Sur Occidente del país. 
+Este recurso contiene 228 registros biológicos, tomados desde el 2014 hasta el 2022.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Anchicaya</keyword>
+            <keyword>Farallones de Cali</keyword>
+            <keyword>Universidad Icesi</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=icesi_coleccion_reptiles</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Este recurso contiene datos de los departamentos de Cauca (36), Meta (20), Quindio (2), Risaralda (25) y Valle del Cauca (141). Comprendiendo áreas tales como el Choco biogeográfico, Parque Nacional Natural Farallones de Cali, Parque Tatamá, Represa del Alto Anchicaya y Mapiripán. Así como también el casco urbano y la zona rural de municipios como Cali, Dagua, Chicoral, Mapiripán, entre otros.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-77.244</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.055</eastBoundingCoordinate>
+                    <northBoundingCoordinate>5.251</northBoundingCoordinate>
+                    <southBoundingCoordinate>1.27</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2014-07-22
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-08-25
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Individuos de Herpetos que representan parte la biodiversidad del Chocobiogeografico. Los datos abarcan 2 ordenes, 14 familias y 41 géneros. Con un 80.2% clasificado a nivel de especie, 17% a género, 0.43% a nivel de familia y 2.19% a categorías superiores.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alligatoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Boidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Colubridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Corytophanidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dactyloidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Elapidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gekkonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gymnophthalmidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hoplocercidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leptotyphlopidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phyllodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sphaerodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Teiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Viperidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Anolis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Atractus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Basiliscus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Bothriechis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Bothrops</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Chironius</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Clelia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Cnemidophorus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Corallus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Corytophanes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Dendrophidion</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Diaphorolepis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Dipsas</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Echinosaura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Enyalioides</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Erythrolamprus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Eunectes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Gonatodes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Hemidactylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Holcosus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Imantodes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Lachesis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Lampropeltis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Leptodeira</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Loxopholis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Mastigodryas</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Micrurus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Ninia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Oxybelis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Oxyrhopus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Paleosuchus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Phrynonax</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Potamites</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Pseudoboa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Rhinobothryum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Sibon</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Siphlophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Spilotes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Tantilla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Thecadactylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Trilepida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>biannually</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Gustavo Adolfo</givenName>
+                <surName>Londoño Guerrero</surName>
+            </individualName>
+            <organizationName>Universidad Icesi</organizationName>
+            <positionName>Profesor/Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 18 No. 122-135</deliveryPoint>
+                <city>Cali</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <postalCode>760001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>555 2334</phone>
+            <electronicMailAddress>galondono@icesi.edu.co</electronicMailAddress>
+            <onlineUrl>http://www.icesi.edu.co/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0003-1896-8653</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Maria del Rosario</givenName>
+                <surName>Castañeda</surName>
+            </individualName>
+            <organizationName>Universidad Icesi</organizationName>
+            <positionName>Profesora/Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 18 No. 122-135</deliveryPoint>
+                <city>Cali</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <postalCode>760001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>555-23-34 Ext. 8565</phone>
+            <electronicMailAddress>mdcastaneda@icesi.edu.co</electronicMailAddress>
+            <onlineUrl>http://www.icesi.edu.co/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0003-1874-2953</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>José Alejandro</givenName>
+                <surName>Riascos Ramírez</surName>
+            </individualName>
+            <organizationName>Universidad Icesi</organizationName>
+            <positionName>Analista Colección de zoología</positionName>
+            <address>
+                <deliveryPoint>Calle 18 No. 122-135</deliveryPoint>
+                <city>Cali</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <postalCode>760001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3108718563</phone>
+            <electronicMailAddress>jariascos@icesi.edu.co</electronicMailAddress>
+            <onlineUrl>https://orcid.org/0000-0001-6288-7502</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">/joseriascosbiologia/</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Muestreo secuencia con transectos. Cada transecto se recorrió en promedio tres días y tres noches, realizando el recorrido de los 300 metros durante tres horas revisando cuidadosamente el suelo y la vegetación de ambos costados del transecto.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las colectas de estos individuos incluyeron preservación de tejidos (Musculo, hígado y/o corazón) en etanol al 96%, fijación del espécimen con formol al 10% y posterior preservación en etanol al 70%.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Comprendiendo áreas tales como el Choco biogeográfico, Parque Nacional Natural Farallones de Cali, Parque Tatamá, Represa del Alto Anchicaya y Mapiripán. Así como también el casco urbano y la zona rural de municipios como Cali, Dagua, Chicoral, Mapiripán, entre otros.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los especímenes almacenados en la colección de zoología de la universidad Icesi se han colectado de manera manual o se han recibido como donaciones de civiles y/o entidades colombianas. El principal método de muestreo es la captura manual o captura con gancho herpetologico, adicionalmente se han utilizado pitfall y cañas de pescar, en ocasiones se reciben donaciones. Sin embargo, los datos pertenecen a diferentes estudios y situaciones, por lo tanto hay variaciones en las metodología.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Colección de Zoología Universidad Icesi: Reptiles</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Gustavo Adolfo</givenName>
+                    <surName>Londoño Guerrero</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0003-1896-8653</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Maria del Rosario</givenName>
+                    <surName>Castañeda</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0003-1874-2953</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:19Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/9m3s6p">Londoño Guerrero G A, Castañeda M D R, Riascos Ramírez J A (2023). Colección de Zoología Universidad Icesi: Reptiles. Universidad Icesi. Occurrence dataset https://doi.org/10.15472/9m3s6p accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-icesi.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>CZI</parentCollectionIdentifier>
+                    <collectionIdentifier>https://www.gbif.org/grscicoll/collection/d1e649cb-bcfd-4f23-8b45-905856d9baa6</collectionIdentifier>
+                    <collectionName>Colección de Zoología Icesi</collectionName>
+                </collection>
+                <specimenPreservationMethod>DEEP_FROZEN</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

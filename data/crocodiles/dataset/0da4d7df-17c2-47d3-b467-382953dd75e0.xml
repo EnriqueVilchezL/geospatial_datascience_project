@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="0da4d7df-17c2-47d3-b467-382953dd75e0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15472/mbt7jq</alternateIdentifier>
+        <alternateIdentifier>0da4d7df-17c2-47d3-b467-382953dd75e0</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=unal_gerph</alternateIdentifier>
+        <title>Banco de tejidos de la Colección Biológica Grupo de Estudio Relación Parásito Hospedero</title>
+        <creator>
+            <individualName>
+                <givenName>Angie Daniela</givenName>
+                <surName>Gonzalez Galindo</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Profesor auxiliar, Curadora asistente</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 # 45-03 Edificio 421 Ofi. 148</deliveryPoint>
+                <city>Bogotá</city>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3165000 ext 11302</phone>
+            <electronicMailAddress>adgonzalezg@unal.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-1772-2152</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>David Felipe</givenName>
+                <surName>Pinto Osorio</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Curador asistente</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 # 45-03 Edificio 421 Lab. 126</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3165000 ext 11338</phone>
+            <electronicMailAddress>dfpintoo@unal.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-3697-8740</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Karly Alejandra</givenName>
+                <surName>Ojeda Ochoa</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Curador asistente</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 # 45-03 Edificio 421 Lab. 126</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3165000 ext 11338</phone>
+            <electronicMailAddress>kaojedao@unal.edu.co</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Angie Daniela</givenName>
+                <surName>Gonzalez Galindo</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Profesor auxiliar, Curadora asistente</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 # 45-03 Edificio 421 Ofi. 148</deliveryPoint>
+                <city>Bogotá</city>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3165000 ext 11302</phone>
+            <electronicMailAddress>adgonzalezg@unal.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-1772-2152</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Angie Daniela</givenName>
+                <surName>Gonzalez Galindo</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Profesor auxiliar, Curadora asistente</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 # 45-03 Edificio 421 Ofi. 148</deliveryPoint>
+                <city>Bogotá</city>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3165000 ext 11302</phone>
+            <electronicMailAddress>adgonzalezg@unal.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-1772-2152</userId>
+            <role>USER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Nubia Estela</givenName>
+                <surName>Matta Camacho</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Carrera 30 # 45-03 Edificio 421 Ofi. 133</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 # 45-03 Edificio 421 Ofi. 133</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <postalCode>Carrera 30 # 45-03 Edificio 421 Ofi. 133</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3165000 ext 11337</phone>
+            <electronicMailAddress>nemattac@unal.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-1775-0804</userId>
+            <role>CURATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>David Felipe</givenName>
+                <surName>Pinto Osorio</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Curador auxiliar</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 # 45-03 Edificio 421 Lab. 126</deliveryPoint>
+                <city>Bogotá .D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3165000 ext 11338</phone>
+            <electronicMailAddress>dfpintoo@unal.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-3697-8740</userId>
+            <role>PROCESSOR</role>
+        </associatedParty>
+        <pubDate>
+                2024-03-12
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The DNA bank is part of the Global Genome Biodiversity Network (GGBN) which was founded in 2011. The network provides a technically optimized DNA collection service facility for all biological research accessible via one central web portal. The network promotes deposition of well documented reference DNA samples after project completion or data publication from scientists of other universities and institutions.
+
+The Biological collection GERPH (Grupo de Estudio de la Relación Parásito-Hospedero), which is dedicated to the study of wild vertebrates blood parasites. This resource contains records of blood samples refrigerated (-20C°) and preserved in etanol, buffer SET or EDTA. The samples are from a wide range of wild vertebrates, mostly birds, but also reptiles, amphibians and bats from differents regions and ecosystems of Colombia. 
+
+Also records of vertebrates haemoparasites are included. These corresponds the orders Eucoccidiorida, Haemosporida, Piroplasmida, Rickettsiales, Spirurida and Trypanosomatida. Many of its genetic information is published in Bold Systems and Genbank.
+
+These tissue samples are derived from the main resource of GBIF: 4346356a-8773-4205-95ce-57d3541017d4
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=unal_gerph</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>This resource includes samples from different regions / ecosystems of Colombia: flooded savannas, wetlands, tropical savanna, Amazon forest, tropical rainforest, tropical cloud forest, The Chocó Biogeographical Region, urban transformed landscapes, Paramo and the ecotone Orinoco-Amazon.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-75.535</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-70.242</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.242</northBoundingCoordinate>
+                    <southBoundingCoordinate>-0.547</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2010-04-14
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-06-25
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>The resource has a wide diversity of vertebrates samples. The vast majority of records belongs to birds, classified in 44 families from 18 orders. The reptiles and amphibians have fewer records, reptiles samples belongs to the Alligatoridae and Crocodylidae families from the order Crocodylia; also to the Boidae, Colubridae, Dactyloidae, Gekkonidae, Iguanidae, Teiidae, Tropiduridae and Viperidae families from Squamata and the Emydidae, Geoemydidae, Podocnemididae and Testudinidae families from Testudines.
+The amphibians are represented by the Bufonidae, Craugastoridae, Hylidae, Leptodactylidae, Microhylidae and Phyllomedusidae families. The mammals has the least amount of records, belonging to two species of the Phyllostomidae family, and another two species from Vespertilionidae
+Many of these vertebrates host haemoparasites that are included in the resource, belonging to the families: Babesiidae, Dactylosomatidae, Haemogregarinidae, Haemoproteidae, Hepatozoidae, Lankesterellidae, Leucocytozoidae, Plasmodiidae, Rickettsiaceae, Trypanosomatidae and the superfamily Filarioidea.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Accipitriformes</taxonRankValue>
+                    <commonName>hawks, eagles, vultures and kites</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anseriformes</taxonRankValue>
+                    <commonName>ducks, geese and swans</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apodiformes</taxonRankValue>
+                    <commonName>swifts and hummingbirds</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                    <commonName>Nightjars</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Charadriiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Columbiformes</taxonRankValue>
+                    <commonName>doves and pigeons</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coraciiformes</taxonRankValue>
+                    <commonName>kingfishers, momots and others</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cuculiformes</taxonRankValue>
+                    <commonName>cuckoos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Falconiformes</taxonRankValue>
+                    <commonName>falcons and caracaras</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Galbuliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Galliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gruiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Passeriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pelecaniformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Piciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Psittaciformes</taxonRankValue>
+                    <commonName>parrots</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Strigiformes</taxonRankValue>
+                    <commonName>owls</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alligatoridae</taxonRankValue>
+                    <commonName>alligators and caimnas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Crocodylidae</taxonRankValue>
+                    <commonName>crocodiles</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Boidae</taxonRankValue>
+                    <commonName>boids</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Colubridae</taxonRankValue>
+                    <commonName>colubrids</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dactyloidae</taxonRankValue>
+                    <commonName>anoles</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gekkonidae</taxonRankValue>
+                    <commonName>geckos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Iguanidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Teiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Tropiduridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Viperidae</taxonRankValue>
+                    <commonName>vipers</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Emydidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Geoemydidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Podocnemididae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Testudinidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bufonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Craugastoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leptodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Microhylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phyllomedusidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phyllostomidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Vespertilionidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Dactylosoma</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Haemogregarina</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Hepatozoon</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Lankesterella</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Haemoproteus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Leucocytozoon</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Plasmodium</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Haemocystidium</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Babesia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Rickettsia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Trypanosoma</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Superfamily</taxonRankName>
+                    <taxonRankValue>Filarioidea</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>The biological collection Host-Parasite Relationship Study Group, GERPH, was founded to safeguard and study the blood parasite diversity of Colombian wildlife. This collection harbors 19000 microscopic slides of blood smears and organ prints from approximately 6200 specimens. Those samples came from 600 species from Aves, Amphibia, Reptilia, Mammalia, and parasites belonging to Apicomplexa, Kinetoplastea, and Nematoda. Additionally, the GERPH collection also has a biobank of blood/tissue/DNA samples (approximately 2000) that correspond to at least 390 species of host and their parasites. This collection has been a source of information for research on wildlife hemoparasites in the last 20 years, leading to the description of new parasite species and reports of distribution and host range extensions. Specimens deposited in GERPH tissue bank are from 13 out of 32 states of Colombia, they are representatives from diverse conserved and transformed ecosystems as: flooded savannas (Casanare, Putumayo, Meta), wetlands (Magdalena, Valle del Cauca, Vichada), tropical savanna (Arauca, Meta), ecotone Orinoco-Amazon (Guaviare), Amazon forest (Caquetá), tropical rainforest (Antioquia), tropical cloud forest (Cundinamarca, Risaralda), Choco rainforest (Nariño), Páramo (Cundinamarca, Risaralda), and urban landscapes (Cundinamarca). That variety of environments imply genetic diversity within species whose availability can help fill gap information in the region.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Angie Daniela</givenName>
+                <surName>Gonzalez Galindo</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Profesor auxiliar, Curadora asistente</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 # 45-03 Edificio 421 Ofi. 148</deliveryPoint>
+                <city>Bogotá</city>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3165000 ext 11302</phone>
+            <electronicMailAddress>adgonzalezg@unal.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-1772-2152</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Nubia Estela</givenName>
+                <surName>Matta Camacho</surName>
+            </individualName>
+            <organizationName>Universidad Nacional de Colombia</organizationName>
+            <positionName>Profesor titular, Curadora colección</positionName>
+            <address>
+                <deliveryPoint>Carrera 30 # 45-03 Edificio 421 Ofi. 133</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3165000 ext 11337</phone>
+            <electronicMailAddress>nemattac@unal.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-1775-0804</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>The first stage is the field work in which the hosts (vertebrates) are captured, identified, mesured, photographied and samples as mention before.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>The next step is the staining of the blood smears with giemsa pH 7.2 for 45 minutes. Now samples are ready for a microscopic analysis using a light microscope. Positive samples are photographid in a Leica DM570 microscope with camera. Parasites are mesured and identified with the taxonomic key of Valkiunas (2005).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Then molecular diagnosis is made to positive samples. Phenol chloroform DNA extraction is made to the blood stored. Also, many samples were extracted with the extraction kit Quick-DNA MiniPrep ZYMO.  Amplification of different makers is made depending the parasite, for Hepatozoon 18s is used, and the CytB for Apicomplexa parasites. Amplification products are deposited in Genbank and MalAvi.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The samples are from different regions of Colombia: Antioquia, Bogotá D.C., Caquetá, Casanare, Cundinamarca, Guaviare, Magdalena, Meta, Nariño, Risaralda, Santander and Vichada. which includes many habitats as: flooded savannas, wetlands, tropical savanna, Amazon forest, tropical rainforest, tropical cloud forest, Chocó Biogeographical Region, urban transformed landscapes, Paramo, ecotone Orinoco-Amazon.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Sampling methods are according to the vertebrate group, as indicated below.
+
+For birds, mist nets were used to capture and individual were mesured, photographed and identified using the field guides Hilty, Brown W, Brown L (1986) and Ayerbe-Quiñonez, F (2019). Blood samples were taken by brachial vein puncture or toenail clip for hummingbirds.
+
+The amphibians and reptiles were captured manually after an active search, for may snakes an herpetologic hook was used. As mention before, every individual was mesured, photographed and identified. For taking the blood sample different methodologies were used depending on the biological group. The amphibians were sampled by a Maxillary vein puncture, but the smaller ones were colected and dissected. Many reptiles as the lizards, crocodiles alligators, snakes and iguanas were sampled by a ventral coccygeal vein puncture, and the turtles by a Subcarapacial sinus or coccygeal vein puncture. Lastly bats were captured using mist nets and sampled by Antebrachial or interfemoral vein puncture.
+
+After the individual was sampled, the blood were stored in etanol (96%), SET buffer or EDTA, also blood smears were made and fixed in methanol for 5 minutes.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Every field work were accompanied by experts in every taxonomic groups, and the individual photographs were contrasted after the fieldwork to make a correct host idetification.
+
+For the haemoparasites, its identification were made by a microscopic diagnosis using the taxonomic key of Valkiunas (2005). Then a molecular diagnosis were made in many cases, by a nested PCR, after a phenol chloroform DNA extraction. Sequencing were made by Macrogen Korea, and the were contrasted with Genbank and/or MalAvi.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Discovering vertebrate host and their blood parasites in Colombia’s wildlife</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Angie Daniela</givenName>
+                    <surName>Gonzalez Galindo</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0002-1772-2152</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>David Felipe</givenName>
+                    <surName>Pinto Osorio</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0003-3697-8740</userId>
+                    <role>PROCESSOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Nubia Estela</givenName>
+                    <surName>Matta Camacho</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0003-1775-0804</userId>
+                    <role>CURATOR</role>
+                </personnel>
+                <abstract>
+                    <para>The Host-Parasite Relationship Study Group is a biological collection founded to safeguard and study the parasitological diversity of Colombian wildlife. This collection has microscopic slides, blood samples, and DNA of birds, amphibians, reptiles, mammals, and their Apicomplexa, Kinetoplastea, and Nematoda parasites. Samples deposited ascend to more than 6200 specimens from approximately 340 species and 2000 samples of blood or DNA frozen. This project aims to make accessible the information from at least 1200 samples following the GGBN standards to strengthen research in neotropical wildlife parasitism.</para>
+                </abstract>
+                <funding>
+                    <para>GGBN-GGI Awards Program.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>The samples are from different regions of Colombia: Antioquia, Bogotá D.C., Caquetá, Casanare, Cundinamarca, Guaviare, Magdalena, Meta, Nariño, Risaralda, Santander and Vichada. which includes many habitats as: flooded savannas, wetlands, tropical savanna, Amazon forest, tropical rainforest, tropical cloud forest, Chocó Biogeographical Region, urban transformed landscapes, Paramo, ecotone Orinoco-Amazon.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Systematization of information on blood, tissue, and DNA samples deposited in the GERPH tissue bank. Standardization of the information in accordance with the standards of the GGBN.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:26Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/mbt7jq">Gonzalez Galindo A D, Pinto Osorio D F, Ojeda Ochoa K A (2024). Banco de tejidos de la Colección Biológica Grupo de Estudio Relación Parásito Hospedero. Version 1.6. Universidad Nacional de Colombia. Occurrence dataset https://doi.org/10.15472/mbt7jq accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation identifier="10.1101/pdb.prot4455">Sambrook, J., &amp; Russell, D. W. (2006). Purification of nucleic acids by extraction with phenol: chloroform. Cold Spring Harbor Protocols, 2006(1), pdb-prot4455.</citation>
+                <citation identifier="https://files.zymoresearch.com/protocols/_d3024_d3025_quick-dna_miniprep_kit.pdf">Quick-DNA™ Miniprep Kit Rapid and simple isolation of ultra-pure DNA from biological liquids and cells.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-unal.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>GERPH</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 198</collectionIdentifier>
+                    <collectionName>Grupo de investigación relación parásito hospedero: modelo hemoparásitos aviares</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>GERPH</parentCollectionIdentifier>
+                    <collectionIdentifier>https://scientific-collections.gbif.org/collection/7ac0ed7c-4d08-421c-bda3-d6b2c785806b</collectionIdentifier>
+                    <collectionName>Grupo de investigación relación parásito hospedero: Modelo hemoparásitos aviares</collectionName>
+                </collection>
+                <specimenPreservationMethod>MICROSCOPIC_PREPARATION</specimenPreservationMethod>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>alcohol</jgtiUnitType>
+                    <jgtiUnitRange>
+                        <beginRange>1,800</beginRange>
+                        <endRange>2,000</endRange>
+                    </jgtiUnitRange>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

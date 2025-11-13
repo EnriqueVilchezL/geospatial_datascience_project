@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="db98b6db-9646-483b-acbd-f3b419666eaa"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/b51vdg</alternateIdentifier>
+        <alternateIdentifier>db98b6db-9646-483b-acbd-f3b419666eaa</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=parex_expedicion-osopalmero</alternateIdentifier>
+        <title>Fauna registrada mediante cámaras trampa en el marco del proyecto Expedición del Oso Palmero en el departamento del Casanare</title>
+        <creator>
+            <individualName>
+                <surName>Parex Resources (Colombia) AG Sucursal</surName>
+            </individualName>
+            <organizationName>Parex Resources (Colombia) AG Sucursal</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Cl. 113 #7 21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Fundación Cunaguaro</surName>
+            </individualName>
+            <organizationName>Fundación Cunaguaro</organizationName>
+            <positionName>Fundación</positionName>
+            <address>
+                <deliveryPoint>Carrera 22 #08-26</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>fundacioncunaguaro@gmail.com</electronicMailAddress>
+            <onlineUrl>https://www.cunaguaro.org/somos-cunaguaro</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Parex Resources (Colombia) AG Sucursal</surName>
+            </individualName>
+            <organizationName>Parex Resources (Colombia) AG Sucursal</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Cl. 113 #7 21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+        </metadataProvider>
+        <pubDate>
+                2023-12-11
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>En 2021, Parex Resources Colombia Ltd. Sucursal -empresa dedicada a la exploración, desarrollo, producción y comercialización de petróleo y gas- y la Fundación Cunaguaro -organización socioambiental que trabaja en la conservación de la biodiversidad-, articularon esfuerzos y adelantaron acciones para sensibilizar y generar conocimiento científico sobre las poblaciones existentes del oso palmero, su hábitat y las especies con las que convive en paisajes productivos de los municipios de Aguazul, Hato Corozal, Maní, Orocué, San Luis de Palenque, Tauramena, Trinidad y Villanueva (Casanare) y Barranca de Upía (Meta). En el marco de este proyecto, se implementaron estrategias de monitoreo y recuperación de la especie y de los ecosistemas, con el fin de contribuir a la preservación del oso palmero en su hábitat de desarrollo.</para>
+<para>El presente conjunto de datos consta de 130 eventos de muestreo que corresponden a su vez a 128,022 registros biológicos de fauna capturada mediante fotografías a través de cámaras trampa en el departamento del Casanare, lo anterior se llevó a cabo a finales del año 2021 y comienzos del 2022. En cuanto a la categorización taxonómica, el 96.2% de los registros fue identificado a nivel de especie y el 3.8% restante, a otros niveles taxonómicos. La especie con más registros asociados es Bos taurus, con un total de 78,986.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Casanare</keyword>
+            <keyword>Paisajes productivos</keyword>
+            <keyword>Registro fotográfico</keyword>
+            <keyword>Orinoquía</keyword>
+            <keyword>Bosques de galería</keyword>
+            <keyword>Sabanas</keyword>
+            <keyword>Arrozales</keyword>
+            <keyword>Cámaras trampa</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Samplingevent</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=parex_expedicion-osopalmero</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Se desarrolló el registro fotográfico a través de cámaras trampa en el departamento del Casanare, municipios de Aguazul, Hato Corozal, Orocué, Paz de Ariporo, San Luis de Palenque, Tauramena, Trinidad y Yopal.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.663</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-71.029</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.182</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.524</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2021-10-21
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-04-20
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>128,022 registros biológicos de fauna distribuidos en 33 órdenes, 64 familias y 113 géneros. Del total, un 96.2% se clasificó a nivel de especie, un 1.3% a subespecie, un 0.8% a familia y el 1.7% restante, en otros niveles taxonómicos.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>César</givenName>
+                <surName>Rojano Bolaño</surName>
+            </individualName>
+            <organizationName>Fundacion Cunaguaro</organizationName>
+            <positionName>Director Científico</positionName>
+            <address>
+                <deliveryPoint>Carrera 22 #8-43</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <postalCode>00085001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3007625776</phone>
+            <electronicMailAddress>c.rojanob@gmail.com</electronicMailAddress>
+            <userId directory="http://scholar.google.com/citations?user=">Byk0HDMAAAAJ&amp;hl=es</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Laura</givenName>
+                <surName>Lozano</surName>
+            </individualName>
+            <organizationName>Parex Resources (Colombia) AG Sucursal</organizationName>
+            <positionName>Profesional Ambiental</positionName>
+            <address>
+                <deliveryPoint>Cl. 113 #7 21</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>colaborador.ambientalv4@parexresources.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Instalación de cámaras trampa en estaciones diferentes, durante un periodo mínimo de 30 días, teniendo en cuenta sólo cobertura boscosa. Cada estación estuvo diferenciada de la otra por al menos 1 km. Adicional a esto se utilizaron formatos de instalación de equipos donde se tuvieron en cuenta los datos que permitieran describir las áreas de ubicación de los equipos en aspectos técnicos y ecológicos:
+(1) Localización y Georeferenciación: Fecha; hora; Coordenadas geográficas; altitud; nombre del bloque; predio; Vereda/municipio; Código de estación; Código cámara; Código tarjeta
+(2) Datos instalación/ verificación: Altura del lente (cm); Distancia al objetivo; Verificación de programación/ Encendido/ foto acetato/ foto vegetación.
+(3) Hábitat: Cobertura vegetal; cobertura del dosel, uso del suelo; Información de árboles (# árboles, DAP, Alt).
+(4) Observaciones: con el fin de tener en cuenta aspectos relevantes en el área.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>A través de la plataforma Wildlife Insights se realizó la identificación de las especies registradas en cada una de las fotografías obtenidas en el muestreo. Inicialmente se realizó la revisión de las tarjetas con información y posterior a la separación de fotos y videos cuando correspondía, luego cargó la información a la plataforma teniendo en cuenta la información obtenida en campo para cada equipo y estación.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El registro fotográfico de cada cámara instalada se asoció al código de estación establecido, la ubicación geográfica, las fechas de instalación y de funcionamiento final del equipo, así como algunos datos de configuración mencionados anteriormente. Una vez ingresadas las fotos a la plataforma, para la identificación de las especies se aceptó la información taxonómica predeterminada por el programa siempre que coincidiera con la especie; en casos donde esta identificación no coincidiera se verificó la identidad mediante el uso de guías de campo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se identificaron tanto especies silvestres como domésticas, incluidos los pobladores, sin embargo, los datos asociados a especies domésticas u Homo sapiens no fueron tenidos en cuenta en los análisis. Al finalizar la identificación de las fotografías por bloques, se procedió a solicitar la descarga de esta en bases de datos para su posterior análisis.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>-Bloque Llanos 10
+El área de influencia del Área de Perforación Exploratoria Llanos 10 se ubica el municipio de Hato Corozal, en las veredas Altamira, El Cedral, El Sarrapio, La Manga, Pueblo Nuevo y San Nicolás, departamento del Casanare, el cual se encuentra a 250 m.s.n.m. Hato corozal tiene una extensión aproximada de 5.436 km2 y una población aproximada de 11.500 habitantes. Es un municipio con vocación agrícola y ganadera, y cuenta con grandes áreas que albergan diversas especies de fauna y flora, además de la presencia de los ríos Chire, Aricaporo y Casanare. 
+-Llanos 24
+El área de influencia del bloque llanos 24 se ubica en el municipio de Orocué, en las veredas San Rafael de Guirripa y Claveles, las cuales se encuentran entre los 147-266 m.s.n.m. Orocué está ubicado en el departamento del Casanare, región de los llanos orientales a orillas del río Meta, en el suroriente del departamento. Dista de la capital departamental Yopal 190 km. 
+-Bloque Edén
+El área de influencia del Bloque Edén se ubica en las veredas San José del Bubuy y La Arenosa entre los municipios de Aguazul y Yopal respectivamente en el departamento del Casanare, los cuales se encuentran entre los 300 y 350 m.s.n.m., respectivamente. Estos municipios se encuentran ubicados en la zona de transición con las sabanas, denominado piedemonte llanero, y se destaca como zona de importancia para la producción agrícola del país, por la siembra de amplias extensiones de arroz, palma y otros productos de consumo local y nacional. 
+-Bloque Llanos 30
+El área de influencia del Bloque Llanos 30, de Parex Resources se ubica en el municipio de San Luis de Palenque, en las veredas Malino, Riveritas, Mata de Santo, Miramar de Guanapalo y Platanales, departamento del Casanare, las cuales se encuentran entre los 113-146 m.s.n.m.
+-Área de interés de perforación exploratoria Cebucán
+Se encuentra ubicada en el municipio Tauramena en el departamento del Casanare, el cual se encuentran a 450 m.s.n.m respectivamente, ubicado en la zona suroccidental del departamento de Casanare y tiene una extensión de 2.607,2 Km2, limitando al norte con Chámeza, Recetor y Aguazul, al Este con Aguazul y Maní; al Sur con el departamento del Meta y al Oeste con Villanueva, Monterrey y parte de Boyacá. 
+-Bloque de Perforación Exploratoria Llanos 29
+El área de influencia del Bloque de Perforación Exploratoria Llanos 29 se encuentra ubicada en el municipio de Orocué en el departamento del Casanare, el cual se encuentran a 187 m.s.n.m respectivamente, ubicado a orillas del río Meta, en el suroriente del departamento, limitando por el Norte con el municipio de San Luis de Palenque y el municipio de Yopal, por el sur con el Departamento del Meta, por el Oriente con el Departamento del Vichada y por el Occidente con el municipio de Maní. 
+-Bloque Llanos 20
+El área de influencia del Bloque Llanos 20 se ubica los municipios de San Luis de Palenque y Trinidad, veredas Las Cañas y Santa Ana; y el municipio de Trinidad, en las veredas San Pedro, Banco la Cañada, La Cañada y Banco la Palma, departamento del Casanare, las cuales se encuentran entre los 160-170 m.s.n.m.
+-Área de desarrollo Llanos 40
+El área de influencia del Área de desarrollo Llanos 40 se encuentra ubicada en el municipio de Paz de Ariporo en el departamento del Casanare, el cual se encuentran a 340 m.s.n.m respectivamente (Figura 1), ubicado en la parte nororiental del departamento de Casanare, limitando por el norte con el municipio de Hato Corozal, al oriente con los departamentos de Arauca y Vichada, al sur con el municipio de Trinidad y al occidente con los municipios de Pore y Támara.
+
+Aún cuando los bloques y áreas de interés abarcan más municipios, el proyecto se centró en los municipios de Hato Corozal, Paz de Ariporo, Trinidad, San Luis de Palenque, Yopal, Aguazul, Orocué, Tauramena y Villanueva.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>En cada cámara trampa se tuvo en cuenta dos aspectos principales para su ubicación: (1) que cada equipo estuviera ubicado en el centro o la zona más próxima al centro de cada cuadrícula, conforme las condiciones del terreno utilizando las aplicaciones “Avenza Maps” y “MAPS.ME”, las cuales permitieron obtener las coordenadas de su localización. En los casos donde las condiciones del área no permitieron la óptima instalación de los equipos se utilizaron estacas de madera. (2) mantener una distancia mínima entre los equipos de 1 kilómetro. De acuerdo con la disponibilidad se usaron equipos de marca Bushnell con referencias Natureview Essential HD 12MP y/0 Bushnell Trophy HD 16 MP.  Con relación al tiempo, las cámaras permanecieron un mínimo de 30 días en campo, teniendo en cuenta el protocolo establecido por la Fundación Cunaguaro con el fin de estandarizar la información recopilada por los equipos.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="CESP2022-010">
+                <title>Expedición Oso Palmero Orinoquía</title>
+                <personnel>
+                    <individualName>
+                    <givenName>César</givenName>
+                    <surName>Rojano Bolaño</surName>
+                    </individualName>
+            <userId directory="https://scholar.google.com/citations?user=">Byk0HDMAAAAJ&amp;hl=es</userId>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para>En 2021, Parex Resources Colombia Ltd. Sucursal -empresa dedicada a la exploración, desarrollo, producción y comercialización de petróleo y gas- y la Fundación Cunaguaro -organización socioambiental que trabaja en la conservación de la biodiversidad-, articularon esfuerzos para dar cumplimiento obligaciones ambientales establecidas en los planes de Manejo de los Bloques Llanos 10, 20, 24, 26, 29, 30, 40, Edén, Cebucán, Cerrero y Cabrestero en los departamentos del Casanare y Meta, a cargo de Parex.
+Esta alianza buscó integrar compromisos relacionados con la conservación de la biodiversidad y el fortalecimiento de los procesos comunitarios de protección de la vida silvestre. Basados en esto, y teniendo en cuenta que la Fundación Cunaguaro adelanta desde el año 2012 el Proyecto de conservación de osos hormigueros de Colombia, se decidió establecer al oso palmero (Myrmecophaga tridactyla) como la especie priorizada para investigar, la cual permitiera articular procesos de cuidado de la fauna y su hábitat en el área de influencia de Parex Resources en las áreas mencionadas. 
+La Expedición oso palmero Orinoquia busca no solo cumplir las obligaciones ambientales de Parex, sino también desarrollar diferentes acciones que sensibilicen y generen conocimiento científico sobre las poblaciones existentes del oso palmero en paisajes productivos de los municipios de Aguazul, Hato Corozal, Maní, Orocué, Paz de Ariporo, Yopal, San Luis de Palenque, Tauramena, Trinidad y Villanueva -Casanare- y Barranca de Upía -Meta-.
+En el marco de este proyecto se han realizado estrategias de monitoreo de la especie y de los ecosistemas de los cuales depende la fauna en general y los seres humanos El presente documento presenta las actividades realizadas para dar cumplimiento a los programas de compensación, manejo de fauna, y protección y conservación de hábitats establecidos mediante las acciones enmarcadas en la conservación de la fauna silvestre, el oso palmero y su hábitat en el área en que se encuentra.</para>
+                </abstract>
+                <funding>
+                    <para>Parex Resources y Fundación Cunaguaro</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El proyecto se desarrolló en los municipios de Hato Corozal, Paz de Ariporo, Trinidad, San Luis de Palenque, Yopal, Orocué, Tauramena y Villanueva. Se ubicaron tres tipos de coberturas vegetales con distintos usos del suelo. En una mayor proporción se encontraron las coberturas de sabana, las cuales en algunos casos presentaron uso del suelo para ganadería; las áreas de sistemas productivos, dominadas por cultivos de arroz, palmas de aceite (Elaeis guineensis), plátano y maíz. En menor proporción se encontraron áreas de bosque de galería, los cuales bordean quebradas y riachuelos.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Las localidades dónde se ubicaron las estaciones de muestreo (cámaras trampa) se seleccionaron dividiendo el polígono de estudio en cuadrículas de 1 km²; posteriormente se identificaron las coberturas pertenecientes a cada polígono usando imágenes satelitales obtenidas de Google Earth.  El principal criterio para la selección de las estaciones de muestreo fue la disponibilidad de acceder a los lugares, teniendo en cuenta la disposición de los propietarios.  En total, se establecieron 130 estaciones de muestreo. En cada cámara trampa se tuvo en cuenta dos aspectos principales para su ubicación: (1) que cada equipo estuviera ubicado en el centro o la zona más próxima al centro de cada cuadrícula, conforme las condiciones del terreno utilizando las aplicaciones “Avenza Maps” y “MAPS.ME”, las cuales permitieron obtener las coordenadas de su localización. En los casos donde las condiciones del área no permitieron la óptima instalación de los equipos se utilizaron estacas de madera. (2) mantener una distancia mínima entre los equipos de 1 kilómetro. De acuerdo con la disponibilidad se usaron equipos de marca Bushnell con referencias Natureview Essential HD 12MP y/0 Bushnell Trophy HD 16 MP.  Con relación al tiempo, las cámaras permanecieron un mínimo de 30 días en campo, teniendo en cuenta el protocolo establecido por la Fundación Cunaguaro con el fin de estandarizar la información recopilada por los equipos.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:18Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/b51vdg">Parex Resources (Colombia) AG Sucursal, Fundación Cunaguaro (2023). Fauna registrada mediante cámaras trampa en el marco del proyecto Expedición del Oso Palmero en el departamento del Casanare. Version 1.1. Parex Resources Colombia - AG Sucursal. Sampling event dataset https://doi.org/10.15472/b51vdg accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-parex.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="e9c27954-85d1-4a87-bce4-1715bd606268"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/blxvml</alternateIdentifier>
+        <alternateIdentifier>e9c27954-85d1-4a87-bce4-1715bd606268</alternateIdentifier>
+        <alternateIdentifier>http://ipt.nature.ca/resource?r=cmn_fossil_vertebrate</alternateIdentifier>
+        <title>Canadian Museum of Nature Fossil Vertebrate Collection</title>
+        <creator>
+            <individualName>
+                <givenName>Scott</givenName>
+                <surName>Rufolo</surName>
+            </individualName>
+            <organizationName>Canadian Museum of Nature</organizationName>
+            <positionName>Curator, Palaeobiology</positionName>
+            <electronicMailAddress>srufolo@nature.ca</electronicMailAddress>
+            <onlineUrl>https://nature.ca/en/our-science/science-experts/scott-rufolo/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Kieran</givenName>
+                <surName>Shepherd</surName>
+            </individualName>
+            <organizationName>Canadian Museum of Nature</organizationName>
+            <positionName>Curator, Palaeobiology</positionName>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Margaret</givenName>
+                <surName>Currie</surName>
+            </individualName>
+            <organizationName>Canadian Museum of Nature</organizationName>
+            <positionName>Collection Technician</positionName>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Rob</givenName>
+                <surName>Blades</surName>
+            </individualName>
+            <organizationName>Canadian Museum of Nature</organizationName>
+            <positionName>Digital Collections Information Manager</positionName>
+            <address>
+                <city>Ottawa</city>
+                <administrativeArea>Ontario</administrativeArea>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>rblades@nature.ca</electronicMailAddress>
+            <onlineUrl>https://nature.ca/en/our-science/science-experts/rob-blades/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2025-10-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Our Vertebrate Fossil Collection contains more than 61 620 specimens, and includes a broad range of fauna from the Devonian to the Pleistocene. The following are well represented in the collection: Cretaceous dinosaurs; Palaeogene mammals; Cretaceous and Devonian fishes. Of particular note are our dinosaurs from the late Cretaceous from western Canada, especially hadrosaurs and ceratopsians. The museum&amp;#39;s Quaternary mammals, collected in northern Canada, constitute the finest and most comprehensive collection of its type.</para><para>Our collections have good representation from localities from across Canada especially the north and west. Pleistocene mammals, Devonian fish, and Cretaceous dinosaurs are both research and exhibit highlights. This is in line with our traditional research activities and historically the manner in which the collection developed.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://nature.ca/en/our-science/collections/</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://ipt.nature.ca/archive.do?r=cmn_fossil_vertebrate</url>
+            </online>
+        </distribution>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Scott</givenName>
+                <surName>Rufolo</surName>
+            </individualName>
+            <organizationName>Canadian Museum of Nature</organizationName>
+            <positionName>Curator, Palaeobiology</positionName>
+            <electronicMailAddress>srufolo@nature.ca</electronicMailAddress>
+            <onlineUrl>https://nature.ca/en/our-science/science-experts/scott-rufolo/</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:55Z</dateStamp>
+                <citation>Rufolo S, Shepherd K, Currie M, Blades R (2025). Canadian Museum of Nature Fossil Vertebrate Collection. Version 1.51. Canadian Museum of Nature. Occurrence dataset https://doi.org/10.15468/blxvml accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>http://ipt.nature.ca/logo.do?r=cmn_fossil_vertebrate</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

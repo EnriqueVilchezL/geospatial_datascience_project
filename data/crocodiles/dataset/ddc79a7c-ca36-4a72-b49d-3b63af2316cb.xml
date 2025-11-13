@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="ddc79a7c-ca36-4a72-b49d-3b63af2316cb"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/tweb1r</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=ecopetrol_sismica_flamencos3d</alternateIdentifier>
+        <title>Fauna silvestre asociada al programa de adquisición sísmica Flamencos 3D</title>
+        <creator>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Gerencia de Gestión Ambiental y Relacionamiento</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Health Safety &amp; Environment S.A.S.</surName>
+            </individualName>
+            <organizationName>Health Safety &amp; Environment S.A.S.</organizationName>
+            <positionName>Consultora ambiental</positionName>
+            <address>
+                <deliveryPoint>Cl. 52b #74A-32</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>directorecp@hse-colombia.com</electronicMailAddress>
+            <onlineUrl>https://www.hse-colombia.com/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">health-safety-and-environment-sas/?originalSubdomain=co</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Gerencia de Gestión Ambiental y Relacionamiento</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2023-12-28
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Las ciénagas y complejos de humedal del Magdalena medio colombiano, se caracterizan por ser sistemas complejos adaptativos, es decir, formados por elementos interdependientes, que en este caso resultan ser aspectos biológicos, sociales y físicos (Vilardy &amp; Cortés-Duque, 2014). Es así, como las ciénagas pueden ser consideradas como sistemas socioecológicos, en donde confluyen e interactúan gran diversidad de organismos de flora y fauna junto a las comunidades humanas que se encuentran asociadas a ella.</para>
+<para>Durante una jornada de un mes en campo en el complejo cenagoso de los municipios de Puerto Wilches y Sabana de Torres, se tomaron registros de fauna silvestre en las ciénagas de Paredes, Santa Helena, Yarirí, Colorados, Monte Cristo y Parirí, donde se implementaron distintas técnicas de captura, búsqueda e identificación sobre la presencia de especies de mamíferos, aves, reptiles y anfibios. Para el momento del estudio en campo, la estacionalidad de lluvias fue fuerte y acumulada de fechas anteriores al inicio de este estudio, esto importante ya que la mayoría de sitios propuestos se encontraron inundados, teniendo poco margen de cobertura natural, y disminuyendo la efectividad de muestreo (en zonas inundadas no se pudo implementar metodología de captura por trampeo y redes).</para>
+<para>El presente conjunto de datos consta de 1.343 registros biológicos de fauna silvestre distribuidos en 4 clases, 35 órdenes, 86 familias, 195 géneros, 223 especies y 1 subespecie. Las especies que cuentan con mayor representatividad son Pitangus sulphuratus (28 registros), Leptotila verreauxi (25 registros) y Crotophaga major (24 registros).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Temporada lluviosa.</keyword>
+            <keyword>Ciénaga</keyword>
+            <keyword>Fauna silvestre</keyword>
+            <keyword>Programa sísmico</keyword>
+            <keyword>Caracterización biológica</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=ecopetrol_sismica_flamencos3d</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Ciénagas de Paredes, Santa Helena, Yarirí, Colorados, Monte Cristo y Parirí, ubicadas en los municipios de Puerto Wilches y Sabana de Torres en el departamento de Santander.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.906</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.765</eastBoundingCoordinate>
+                    <northBoundingCoordinate>7.509</northBoundingCoordinate>
+                    <southBoundingCoordinate>7.305</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2022-06-03
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-07-07
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este recurso contiene un total de 1.343 registros biológicos de fauna silvestre distribuidos en 4 clases, 35 órdenes, 86 familias, 195 géneros, 223 especies y 1 subespecie. Del total, un 99.5% se identificó a nivel de especie y el 0.5% restante, a nivel de subespecie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <surName>Gerencia de Gestión Ambiental y Relacionamiento</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A.</organizationName>
+            <positionName>Departamento de Cumplimiento Legal y Relacionamiento</positionName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>REPTILES: En el caso de la comunidad de reptiles presente en el área de estudio, se utilizaron las metodologías propuestas por (Casas-Andreu, Valenzuela-López, &amp; Ramírez–Bautista, 1991) y (Pisani &amp; Villa, 1974), las cuales consistieron en la inspección de los microhábitats presentes en la zona, en donde se buscaron en troncos caídos, cortezas flojas, tumultos de ramas, hojarasca, bajo las rocas flojas, grietas de peñascos y el suelo en general, con el fin de aumentar la probabilidad de detección de los mismos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Transectos: se realizaron recorridos diurnos y nocturnos en dos jornadas de trabajo, comprendidas entre las 6:00 hasta las 10:00 y desde las 17:00 hasta las 20:00, durante las cuales se exploraron la mayor cantidad de coberturas naturales posibles, dependiendo de su presencia y probabilidad de acceso. En total se realizaron 40 transectos, distribuidos de la siguiente manera: cinco (5) en la ciénaga de Parirí, seis (6) en la ciénaga de Yariri, siete (7) en cada una de las ciénagas de Paredes, Colorados y Montecristo, finalmente ocho (8) en la ciénaga de Santa Helena. Junto con estos transectos se realizó el levantamiento de información en nueve (9) coberturas vegetales naturales, siendo estas Bosque abierto bajo inundable (BABI), Bosque de galería y/o ripario (BG), Bosque fragmentado (BF), Herbazal denso inundable arbolado (HDIA), Lagunas, lagos y ciénagas naturales (LLCN), Pastos enmalezados (PE), Vegetación secundaria alta (VSA), Vegetación secundaria baja (VSB) y Zonas pantanosas (ZP). Adicionalmente, una vez las especies de anfibios y reptiles fueron registradas, se procedió a realizarles fotografías, utilizando una cámara nilón P900, posterior a esto se tomaron datos básicos de cada uno de las especies e individuos encontrados como el lugar y cobertura donde fueron observadas, además de la abundancia de cada una de ellas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>AVES: Transectos de observación: Se realizó la observación directa de aves a lo largo de 50 transectos de ancho variable (Villarreal, y otros, Manual de métodos para el desarrollo de inventarios de biodiversidad, 2006). Para ello, se emplearon binoculares 10x42mm y las observaciones fueron acompañadas de registro fotográficos, documentando todas las aves que se encontraron haciendo uso de las coberturas evaluadas, así como aquellas que se encontraban en desplazamiento o en vuelo sobre la ellas. Los recorridos de observación se tendieron a realizar en las horas en que las aves son más activas, siendo esto, en la mañana entre 06:30h y 10:30h, y en la tarde entre las 15:30h y las 18:00h. En total se realizaron 50 transectos para la observación de avifauna.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Redes de niebla: se emplearon redes de 12 metros x 2.5 metros sostenidas por medio de parales de 3 m de alto que se colocaron a cada extremo y tienen la función de dar sostén a la red de niebla. Las varillas son fijadas con ayuda de fibra plástica a estacas enterradas al suelo, esto para dar mayor resistencia y estabilidad a la red. Luego de instalados los parales, la red se monta por los ojales que posee en cada extremo y se abre, teniendo cuidado en dejar el especio oportuno entre las líneas principales que atraviesan la red y que son las encargadas de formar un bolsillo en donde quedan enredadas las aves. Las redes fueron operadas en las horas de mayor actividad de las aves, es decir, entre las 06:00 h y las 10:00 h, y en la tarde entre las 16:00 h y las 18:00 h. Las redes se revisaron cada 20 minutos y las aves capturadas fueron extraídas con especial cuidado y velando por la integridad del animal. Luego de ser liberado de la red, cada individuo capturado se introdujo en una bolsa de tela y posteriormente se sacó para ser manipulado y corroborar su identidad taxonómica.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>MAMÍFEROS: Transectos: Para la detección de especies de mamíferos en el área de estudio, se realizaron recorridos de observación (Aranda, 2012) y (Navarro &amp; Muñoz, 2000) en los que se buscaron rastros como madrigueras, huellas, heces fecales y comederos de acuerdo con las coberturas identificadas. Los rastros encontrados fueron registrados fotográficamente, teniendo en cuenta características que permitieran establecer una identidad taxonómica, esto con apoyo de la información local aportada por los auxiliares de campo, cotejada con fuentes bibliográficas especializadas. Se realizaron un total de 57 transectos entre recorridos diurnos y recorridos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Redes de niebla: Se implementó la metodología para el levantamiento de información, según lo propuesto en el documento de “Manual de métodos para el desarrollo de inventarios de la biodiversidad” (Villarreal, y otros, Manual de métodos para el desarrollo de inventarios de biodiversidad., 2006). Para la captura e identificación de mamíferos voladores, se instalaron redes de niebla de 9 y 12 m de largo, 3 m de alto en 25 puntos distribuidos en las ciénagas muestreadas. Las redes fueron abiertas de 18:00 horas hasta las 21:00 horas, con revisiones periódicas cada 15 minutos. Todos los sitios donde se ubicaron las redes de niebla fueron debidamente georreferenciados y registrados en el formato de campo. Los ejemplares capturados fueron puestos en bolsas de tela, para su posterior identificación. Se registró la hora de captura, sexo y se hizo la respectiva identificación y toma de medidas. Al finalizar el proceso de identificación los individuos fueron liberados en el mismo sitio de captura. Se hizo un registro fotográfico de cada individuo capturado. Los murciélagos se identificaron taxonómicamente hasta el nivel de especie.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Trampas Tomahawk: Se realizaron 41 puntos de trampeo con trampas Tomahawk de dimensiones 60 cm de largo, 18 cm de alto y 18 cm de ancho. Se ubicaron en las coberturas identificadas en el área de estudio. Se usó un cebo compuesto por sardinas, avena, esencia de vainilla y mantequilla de maní.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Trampas Sherman: Se realizaron un total de 100 puntos de muestreo con trampas Sherman LFA de dimensiones 23 largo x 9.5 alto x 8.0 ancho, dispuestas en las coberturas identificadas en el área de estudio. Se instalaron en forma lineal con distancias de separación de 10 metros entre sí dependiendo de la detección de zonas que puedan estar siendo usadas como zonas de paso o refugio dentro del bosque. Se usó un cebo compuesto por sardinas, avena, esencia de vainilla y mantequilla de maní.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fototrampeo: Se realizaron un total de 30 puntos de muestreo con cámaras trampa en las coberturas de Bosque de galería y/o ripario y Bosque fragmentado en el área de estudio. Cada cámara trampa se georreferenció y se registró en el respectivo formato de campo. Estas fueron dispuestas en forma espacial izada en las coberturas vegetales del AI.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Complejo cenagoso de los municipios de Puerto Wilches y Sabana de Torres (Santander). Estas ciénagas se encuentran impactadas por actividades relacionadas con el mono cultivo extensivo de palma, extracción de aceite y procesos industriales de palma y por la ganadería que también hace uso de los cuerpos de agua, principalmente ganadería de búfalos. A esto, se le suma los malos hábitos de pesca en los que se usa trasmallo, el cual puede llegar a ser mortal en especies de mamíferos como el manatí y la nutria.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>La metodología utilizada para la recolección de información primaria de la comunidad de anfibios presente en las áreas de muestro de las seis ciénagas (Paredes, Santa Helena, Colorados, Yariri, Montecristo y Parirí), fue la propuesto por (Angulo, Rueda-Almonacid, Rodríguez-Mahecha, &amp; La Marca, 2006) junto con la complementación de aquella expuesta por (Lips, Reaser, &amp; Young, 2000), las cuales consistieron en el inventario completo de especies, mediante la búsqueda libre y sin restricciones, además de la exploración de los lugares de apareamiento (principalmente charcas permanentes y temporales) en donde se pudieran encontrar individuos de anfibios vocalizando.
+
+Para el monitoreo de avifauna en las coberturas vegetales asociadas a las ciénagas monitoreadas, se realizó la combinación de dos (2) metodologías: observación directa en transectos y redes de niebla para captura) (Villarreal, y otros, Manual de métodos para el desarrollo de inventarios de biodiversidad, 2006).
+
+Para la detección de especies de mamíferos en el área de estudio, se realizaron recorridos de observación (Aranda, 2012) y (Navarro &amp; Muñoz, 2000) en los que se buscaron rastros como madrigueras, huellas, heces fecales y comederos de acuerdo con las coberturas identificadas.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>PROGRAMA DE ADQUISICIÓN SÍSMICA FLAMENCOS 3D - CARACTERIZACIÓN DE FAUNA SILVESTRE DE IMPORTANCIA ECOLÓGICA Y MONITOREOS EN CIENAGAS</title>
+                <personnel>
+                    <individualName>
+                    <surName>Gerencia de Gestión Ambiental y Relacionamiento</surName>
+                    </individualName>
+                    <role>CUSTODIAN_STEWARD</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:31Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/tweb1r">Ecopetrol S.A., Health Safety &amp; Environment S.A.S. (2023). Fauna silvestre asociada al programa de adquisición sísmica Flamencos 3D. Ecopetrol S.A.. Occurrence dataset https://doi.org/10.15472/tweb1r accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Angulo, A., Rueda-Almonacid, J. V., Rodríguez-Mahecha, J. V., &amp; La Marca, E. (2006). Tecnicas de inventario y monitoreo para los anfibios de la región tropical andina. Conservacion Internacional. Serie Manuales de Campo N°2. Bogota: Panamericana Formas e Impresos S.A</citation>
+                <citation>Aranda, S. J. (2012). Manual de rastreo de mamíferos silvestres de México. Cuernavaca, México: Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (Conabio)</citation>
+                <citation>Casas-Andreu, G., Valenzuela-López, G., &amp; Ramírez–Bautista, A. (1991). Cómo hacer una colección de anfibios y reptiles. México D. F.: Cuadernos del Instituto de Biología. 10 UNAM</citation>
+                <citation>Lips, K. R., Reaser, J. K., &amp; Young, B. E. (2000). Técnicas de Monitoreo de Anfibios en América Latina: Manual de Protocolos. Society for the Study of Amphibians and Reptiles</citation>
+                <citation>Navarro, P. J., &amp; Muñoz, A. J. (2000). Manual de huellas de algunos mamíferos terrestres de Colombia. Medellín, Colombia: Auto edición.</citation>
+                <citation>Pisani, G., &amp; Villa, J. (1974). Guía de técnicas de preservación de anfibios y reptiles. Kansas, E.U.: Miscellaneos Publications. Museum of Natural History the University of Kansas.</citation>
+                <citation>Vilardy, S., &amp; Cortés-Duque, J. (2014). Los humedales de Cantagallo, San Pablo y Simití: una propuesta para su delimitación desde el enfoque de los sistemas socioecológicos. Bogotá: Instituto de Investigacion de Recusos Biológicos Alexander von Humboltd.</citation>
+                <citation>Villarreal, H., Álvarez, M., Córdoba, S., Escobar, F., Fagua, G., Gast, F., . . . Umaña, A. (2006). Manual de métodos para el desarrollo de inventarios de biodiversidad. Bogotá: Instituto de Investigación de Recursos Biológicos Alexandder von Humboldt.</citation>
+                <citation>Villarreal, H., Álvarez, M., Córdoba, S., Escobar, F., Fagua, G., Gast, F., . . . Umaña, A. M. (2006). Manual de médodos para el desarrollo de inventarios de biodiversidad. Bogotá, D.C., Colombia: Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-ecopetrol.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

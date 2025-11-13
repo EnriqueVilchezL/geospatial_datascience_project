@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="4a63a8ba-dbeb-4c02-878d-96343f948471"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15470/iwd4nz</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=us-vertebrados</alternateIdentifier>
+        <alternateIdentifier>4a63a8ba-dbeb-4c02-878d-96343f948471</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.es/resource?r=us-vertebrados</alternateIdentifier>
+        <title>Colección de Vertebrados (naturalizados y en fluido) del Departamento de Zoología de la Facultad de Biología de la Universidad de Sevilla</title>
+        <creator>
+            <individualName>
+                <givenName>Pilar</givenName>
+                <surName>NIETO RUBIO</surName>
+            </individualName>
+            <organizationName>Departamento de Zoología, Facultad de Biología, Universidad de Sevilla</organizationName>
+            <positionName>Profesora Titular de Vertebrados</positionName>
+            <address>
+                <deliveryPoint>Avd. Reina Mercedes, s/n</deliveryPoint>
+                <city>Sevilla</city>
+                <administrativeArea>Sevilla</administrativeArea>
+                <postalCode>41012</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <phone>954559550</phone>
+            <electronicMailAddress>pilarnr@us.es</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Pilar</givenName>
+                <surName>Nieto Rubio</surName>
+            </individualName>
+            <organizationName>Departamento de Zoología, Facultad de Biología, Universidad de Sevilla</organizationName>
+            <positionName>Profesora Titular de Vertebrados de la Universidad de Sevilla</positionName>
+            <address>
+                <deliveryPoint>Avd. Reina Mercedes, s/n</deliveryPoint>
+                <city>Sevilla</city>
+                <administrativeArea>Sevilla</administrativeArea>
+                <postalCode>41012</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <phone>954559550</phone>
+            <electronicMailAddress>pilarnr@us.es</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Pilar</givenName>
+                <surName>NIETO RUBIO</surName>
+            </individualName>
+            <organizationName>Departamento de Zoología, Facultad de Biología, Universidad de Sevilla</organizationName>
+            <positionName>Profesora Titular de Vertebrados</positionName>
+            <address>
+                <deliveryPoint>Avd. Reina Mercedes, s/n</deliveryPoint>
+                <city>Sevilla</city>
+                <administrativeArea>Sevilla</administrativeArea>
+                <postalCode>41012</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <phone>954559550</phone>
+            <electronicMailAddress>pilarnr@us.es</electronicMailAddress>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2018-11-30
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Este juego de datos incluye los ejemplares de Peces, Anfibios, Reptiles conservados en fluido y las Aves y Mamíferos naturalizados que se encuentran en la Colección de Vertebrados del Departamento de Zoología de la Facultad de Biología de la Universidad de Sevilla. Los datos referidos a Peces, Anfibios y Reptiles conservados en fluido están tratados en lote, especificando en cada caso el nombre de la especie y el número de ejemplares que se conservan de la misma. Los de Aves y Mamíferos, naturalizados o disecados, se tratan como especímenes individuales.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.gbif.es/archive.do?r=us-vertebrados</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>En las colecciones de Vertebrados del Departamento se incluyen en su mayoría especies capturadas en España pero también otras que son de distribución americana o africana.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-129.18</westBoundingCoordinate>
+                    <eastBoundingCoordinate>53.24</eastBoundingCoordinate>
+                    <northBoundingCoordinate>46.22</northBoundingCoordinate>
+                    <southBoundingCoordinate>-57.06</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+        </coverage>
+        <purpose><para>El propósito inicial para la creación de este conjunto de datos fue poner al alcance de cualquier persona los ejemplares de Vertebrados que existen en nuestra colección. Las personas que estén interesadas por motivos de investigación/docente o de divulgación pueden acceder facilmente con este programa a una información que de otro modo sería muy difícil de conseguir.</para></purpose>
+        <maintenance>
+            <description>
+                <para>Los datos de la colección serán revisados cada vez que sea necesario, actualizando el material nuevo que se vaya incorporando o dando de baja ejemplares si fuera necesario</para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Pilar</givenName>
+                <surName>NIETO RUBIO</surName>
+            </individualName>
+            <organizationName>Departamento de Zoología, Facultad de Biología, Universidad de Sevilla</organizationName>
+            <positionName>Profesora Titular de Vertebrados</positionName>
+            <address>
+                <deliveryPoint>Avd. Reina Mercedes, s/n</deliveryPoint>
+                <city>Sevilla</city>
+                <administrativeArea>Sevilla</administrativeArea>
+                <postalCode>41012</postalCode>
+                <country>SPAIN</country>
+            </address>
+            <phone>954559550</phone>
+            <electronicMailAddress>pilarnr@us.es</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:21Z</dateStamp>
+                <citation identifier="https://doi.org/10.15470/iwd4nz">NIETO RUBIO P (2018). Colección de Vertebrados (naturalizados y en fluido) del Departamento de Zoología de la Facultad de Biología de la Universidad de Sevilla. Version 1.2. Departamento de Zoología. Universidad de Sevilla. Occurrence dataset https://doi.org/10.15470/iwd4nz accessed via GBIF.org on 2025-10-11.</citation>
+                <collection>
+                    <parentCollectionIdentifier>us.vertebrados.colecciones</parentCollectionIdentifier>
+                    <collectionIdentifier>us.vertebrados.colecciones.peces</collectionIdentifier>
+                    <collectionName>Colección de Vertebrados. PECES. Departamento de Zoología, Facultad de Biología, Universidad de Sevilla</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>us.vertebrados.colecciones</parentCollectionIdentifier>
+                    <collectionIdentifier>us.vertebrados.colecciones.anfibios</collectionIdentifier>
+                    <collectionName>Colección de Vertebrados. ANFIBIOS. Departamento de Zoología, Facultad de Biología, Universidad de Sevilla</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>us.vertebrados.colecciones</parentCollectionIdentifier>
+                    <collectionIdentifier>us.vertebrados.colecciones.reptiles</collectionIdentifier>
+                    <collectionName>Colección de Vertebrados. REPTILES. Departamento de Zoología, Facultad de Biología, Universidad de Sevilla</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>us.vertebrados.colecciones</parentCollectionIdentifier>
+                    <collectionIdentifier>us.vertebrados.colecciones.aves</collectionIdentifier>
+                    <collectionName>Colección de Vertebrados. AVES. Departamento de Zoología, Facultad de Biología, Universidad de Sevilla</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>us.vertebrados.colecciones</parentCollectionIdentifier>
+                    <collectionIdentifier>us.vertebrados.colecciones.mamíferos</collectionIdentifier>
+                    <collectionName>Colección de Vertebrados. MAMÍFEROS. Departamento de Zoología, Facultad de Biología, Universidad de Sevilla</collectionName>
+                </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>frascos</jgtiUnitType>
+                    <jgtiUnitRange>
+                        <beginRange>1</beginRange>
+                        <endRange>30</endRange>
+                    </jgtiUnitRange>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

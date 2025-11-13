@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="b90cadd7-9ef5-4640-b1fe-94d4803e7129"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/sftwc4</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=rrbb_bicentenario_faunaflora_2015</alternateIdentifier>
+        <alternateIdentifier>b90cadd7-9ef5-4640-b1fe-94d4803e7129</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=rrbb_bicentenario_faunaflora_2015</alternateIdentifier>
+        <title>Caracterización biótica para la conservación de especies amenazadas en el área de influencia del Oleoducto Bicentenario, departamentos de Arauca y Casanare, Colombia</title>
+        <creator>
+            <individualName>
+                <givenName>Carolina</givenName>
+                <surName>Mora</surName>
+            </individualName>
+            <organizationName>La Palmita Centro de Investigación</organizationName>
+            <positionName>Subdirectora de Investigaciones</positionName>
+            <address>
+                <deliveryPoint>Calle 14 No. 25 - 18 Barrio Los Helechos</deliveryPoint>
+                <city>El Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8) 6344557 / 3174425705</phone>
+            <electronicMailAddress>investigacion@lapalmita.com.co</electronicMailAddress>
+            <onlineUrl>http://www.lapalmita.com.co</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <organizationName>La Palmita Centro de Investigación</organizationName>
+            <address>
+                <deliveryPoint>Calle 14 No. 25 - 18 Barrio Los Helechos</deliveryPoint>
+                <city>El Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8) 6344557 / 3174425705</phone>
+            <electronicMailAddress>contacto@lapalmita.com.co</electronicMailAddress>
+            <onlineUrl>http://www.lapalmita.com.co</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Carolina</givenName>
+                <surName>Mora</surName>
+            </individualName>
+            <organizationName>La Palmita Centro de Investigación</organizationName>
+            <positionName>Subdirectora de Investigaciones</positionName>
+            <address>
+                <deliveryPoint>Calle 14 No. 25 - 18 Barrio Los Helechos</deliveryPoint>
+                <city>El Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8) 6344557 / 3174425705</phone>
+            <electronicMailAddress>investigacion@lapalmita.com.co</electronicMailAddress>
+            <onlineUrl>http://www.lapalmita.com.co</onlineUrl>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>Infraestructura Institucional de Datos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Calle 28A No. 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>William</givenName>
+                <surName>Trujillo</surName>
+            </individualName>
+            <organizationName>La Palmita Centro de Investigación</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 14 No. 25 - 18 Barrio Los Helechos</deliveryPoint>
+                <city>El Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8) 6344557 / 3174425705</phone>
+            <electronicMailAddress>contacto@lapalmita.com.co</electronicMailAddress>
+            <onlineUrl>http://www.lapalmita.com.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Maria Monica</givenName>
+                <surName>Henao</surName>
+            </individualName>
+            <organizationName>La Palmita Centro de Investigación</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 14 No. 25 - 18 Barrio Los Helechos</deliveryPoint>
+                <city>El Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8) 6344557 / 3174425705</phone>
+            <electronicMailAddress>contacto@lapalmita.com.co</electronicMailAddress>
+            <onlineUrl>http://www.lapalmita.com.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Jhon</givenName>
+                <surName>Zamudio</surName>
+            </individualName>
+            <organizationName>La Palmita Centro de Investigación</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 14 No. 25 - 18 Barrio Los Helechos</deliveryPoint>
+                <city>El Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8) 6344557 / 3174425705</phone>
+            <electronicMailAddress>contacto@lapalmita.com.co</electronicMailAddress>
+            <onlineUrl>http://www.lapalmita.com.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Vicente</givenName>
+                <surName>Preciado</surName>
+            </individualName>
+            <organizationName>La Palmita Centro de Investigación</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 14 No. 25 - 18 Barrio Los Helechos</deliveryPoint>
+                <city>El Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8) 6344557 / 3174425705</phone>
+            <electronicMailAddress>contacto@lapalmita.com.co</electronicMailAddress>
+            <onlineUrl>http://www.lapalmita.com.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Argelina</givenName>
+                <surName>Blanco</surName>
+            </individualName>
+            <organizationName>La Palmita Centro de Investigación</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 14 No. 25 - 18 Barrio Los Helechos</deliveryPoint>
+                <city>El Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8) 6344557 / 3174425705</phone>
+            <electronicMailAddress>contacto@lapalmita.com.co</electronicMailAddress>
+            <onlineUrl>http://www.lapalmita.com.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Heron</givenName>
+                <surName>Romero</surName>
+            </individualName>
+            <organizationName>La Palmita Centro de Investigación</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 14 No. 25 - 18 Barrio Los Helechos</deliveryPoint>
+                <city>El Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8) 6344557 / 3174425705</phone>
+            <electronicMailAddress>contacto@lapalmita.com.co</electronicMailAddress>
+            <onlineUrl>http://www.lapalmita.com.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Diego</givenName>
+                <surName>Carantón</surName>
+            </individualName>
+            <organizationName>La Palmita Centro de Investigación</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 14 No. 25 - 18 Barrio Los Helechos</deliveryPoint>
+                <city>El Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8) 6344557 / 3174425705</phone>
+            <electronicMailAddress>contacto@lapalmita.com.co</electronicMailAddress>
+            <onlineUrl>http://www.lapalmita.com.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Manuela</givenName>
+                <surName>Restrepo</surName>
+            </individualName>
+            <organizationName>La Palmita Centro de Investigación</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 14 No. 25 - 18 Barrio Los Helechos</deliveryPoint>
+                <city>El Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8) 6344557 / 3174425705</phone>
+            <electronicMailAddress>contacto@lapalmita.com.co</electronicMailAddress>
+            <onlineUrl>http://www.lapalmita.com.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Camilo</givenName>
+                <surName>Fernandez</surName>
+            </individualName>
+            <organizationName>La Palmita Centro de Investigación</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 14 No. 25 - 18 Barrio Los Helechos</deliveryPoint>
+                <city>El Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8) 6344557 / 3174425705</phone>
+            <electronicMailAddress>contacto@lapalmita.com.co</electronicMailAddress>
+            <onlineUrl>http://www.lapalmita.com.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Diego</givenName>
+                <surName>Gutierrez</surName>
+            </individualName>
+            <organizationName>La Palmita Centro de Investigación</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 14 No. 25 - 18 Barrio Los Helechos</deliveryPoint>
+                <city>El Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8) 6344557 / 3174425705</phone>
+            <electronicMailAddress>contacto@lapalmita.com.co</electronicMailAddress>
+            <onlineUrl>http://www.lapalmita.com.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Miguel Eduardo</givenName>
+                <surName>Rodríguez Posada</surName>
+            </individualName>
+            <organizationName>La Palmita Centro de Investigación</organizationName>
+            <positionName>Director Científico</positionName>
+            <address>
+                <deliveryPoint>Calle 14 No. 25 - 18 Barrio Los Helechos</deliveryPoint>
+                <city>El Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(8) 6344557 / 3174425705</phone>
+            <electronicMailAddress>director.cientifico@lapalmita.com.co</electronicMailAddress>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Talia</givenName>
+                <surName>Waldron</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 72 No. 12-65 piso 7</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(57) 1 320 2767 Ext. 1292</phone>
+            <electronicMailAddress>twaldron@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Alexander</givenName>
+                <surName>Urbano</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 72 No. 12-65 piso 7</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(57) 1 320 2767 Ext. 1292</phone>
+            <electronicMailAddress>aurbano@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Maria Isabel</givenName>
+                <surName>Vieira</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 72 No. 12-65 piso 7</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(57) 1 320 2767 Ext. 1292</phone>
+            <electronicMailAddress>mivieira@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <pubDate>
+                2019-06-27
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            El presente metadato hace parte de los resultados obtenidos en el marco del convenio de cooperación No. 15-14-172-010CE entre el Instituto Humboldt y La Palmita cuyo objetivo fue “aunar esfuerzos técnicos y administrativos para desarrollar las caracterizaciones de biodiversidad, así como la caracterización de los aspectos sociales y culturales relacionados con la biodiversidad y los ecosistemas asociados, en las cuatro ventanas de trabajo definidas por el Instituto Humboldt, en la zona de influencia del Oleoducto Bicentenario, en el marco del proyecto: Conservación de especies amenazadas en el área de influencia del Oleoducto Bicentenario”. Dentro del cual de estudiaron los 5 grupos de vertebrados (mamíferos, aves, reptiles, anfibios, peces) y las plantas. Este estudio se llevo a cargo en ecosistemas de piedemonte y sabanas inundables sobre la cuenca del río Casanare en el departamento de Arauca y sobre la cuenca del río Pauto en el departamento del Casanare. Como resultado de obtuvo 3034 registros correspondientes a 313 especies de plantas, 63 especies de mamíferos, 43 de aves, 34 de reptiles, 37 de anfibios y 166 de peces.
+        </abstract>
+        <keywordSet>
+            <keyword>Casanare</keyword>
+            <keyword>río Pauto</keyword>
+            <keyword>piedemonte</keyword>
+            <keyword>plantas de los llanos</keyword>
+            <keyword>rio Casanare</keyword>
+            <keyword>Arauca</keyword>
+            <keyword>sabanas inundables</keyword>
+            <keyword>fauna de los llanos</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Información adicional es el informe final el cual se encuentra en elaboración, así como fotografías de los especímenes.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=rrbb_bicentenario_faunaflora_2015</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/iavh/archive.do?r=rrbb_bicentenario_faunaflora_2015</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Se seleccionaron 4 ventanas de trabajo cada una de 1:25.000. Dos corresponden a la cuenca del río Casanare, una ubicada en el piedemonte en el municipio de Tame - Arauca y otra hacia las sabanas inundables entre el municipio de Tame - Arauca y el en el municipio de Hato Corozal - Casanare. Las otras dos ventanas corresponden a la cuenca del río Pauto, una en el pidemonte en el municipio de Tamara y la otra en sabanas ubicado en los municipio de Pore, San Luis de Palenque y Trinidad todas del departamento de Casanare.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.213</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-71.51</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.506</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.201</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2015-03-17
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2015-11-20
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Dentro del estudio florístico  se tomaron registros biológicos de un total de 313 especies de plantas.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Plantae</taxonRankValue>
+                    <commonName>Plantas</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Dentro del estudio de peces se tomaron registros biológicos de un total 166 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                    <commonName>Peces</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Dentro del estudio de anfibios se tomaron registros biológicos de un total 37 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                    <commonName>Anfibios</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Dentro del estudio de reptiles se tomaron registros biológicos de un total 37 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                    <commonName>Reptiles</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Dentro del estudio de aves se tomaron registros biológicos de un total 43 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                    <commonName>aves</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Dentro del estudio de mamíferos se tomaron registros biológicos de un total 63 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                    <commonName>mamiferos</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Aunar esfuerzos técnicos y administrativos para desarrollar las caracterizaciones de biodiversidad, así como la caracterización de aspectos sociales y culturales relacionados con la biodiversidad y los ecosistemas asociados, en las cuatro ventanas de trabajo definidas por el Instituto Humboldt, en las zona de influencia del Oleoducto Bicentenario, en el marco del Proyecto: Conservación de especies amenazadas en el área de influencia del Oleoducto Bicentenario.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Maria Isabel</givenName>
+                <surName>Vieira</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 28A No. 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(1) 320 2767 Ext. 1292</phone>
+            <electronicMailAddress>mivieira@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>1. Selección de las áreas y coberturas a estudiar, así como las comunidades con las que se iba a trabajar. 
+2. Se socializó con las comunidades el proyecto
+3. Se salió a campo en los componentes social y biótico
+4. Se recolecto la información siguiendo los protocolos de calidad de la fundación y los exigidos por el IAvH
+5. Se proceso la información recolectada
+6. Se procedió a la elaboración de los informes finales
+7. Se deposito el material biológico recolectado a la colección del IAvH</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Se seleccionaron 4 ventanas de trabajo cada una de 1:25.000. Dos corresponden a la cuenca del río Casanare, una ubicada en el piedemonte en el municipio de Tame - Arauca y otra hacia las sabanas inundables entre el municipio de Tame - Arauca y el en el municipio de Hato Corozal - Casanare. Las otras dos ventanas corresponden a la cuenca del río Pauto, una en el pidemonte en el municipio de Tamara y la otra en sabanas ubicado en los municipio de Pore, San Luis de Palenque y Trinidad todas del departamento de Casanare</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>1.2.1. Selección de sitios de muestreo
+Para la definición de los sitios de muestreo y los métodos de levantamiento de información en campo, se realizó un taller metodológico entre el equipo del Instituto Humboldt y la Fundación, en el cual se analizaron y discutieron las coberturas vegetales para muestrear en campo. Así mismo, se definieron los métodos de captura, observación y levantamiento de datos para los grupos de plantas y vertebrados acordados en el marco del convenio. A continuación se presentan los métodos definidos y ajustados una vez se regresó del trabajo de campo de la época seca.
+
+1.2.1. Muestreo de grupos biológicos: Composición, riqueza y diversidad
+
+1.2.1.1. Mamíferos
+
+Sitios de muestreo – Piedemonte
+*A la fecha de redacción de este informe el equipo de trabajo responsable de este núcleo aún no había entregado la información sistematizada sobre la composición, riqueza y diversidad de los mamíferos en las ventanas de Piedemonte.
+
+Sitios de muestreo - Sabana
+En cada una de las localidades se seleccionaron los diferentes tipos de coberturas a evaluar que comprendieron los bosques de vega (BV), los bosques de galería (BG) y la sabana natural (S). La información sobre los muestreos realizados dentro de cada una de estas coberturas y el grupo de mamíferos trabajado se detalla en los métodos de campo.
+
+ 
+-	Ventana 1 – Sabana, Casanare
+Esta ventana, ubicada en el departamento de Casanare, incluyó los municipios de Trinidad y Pore. Dentro del municipio de Trinidad se realizaron muestreos en la vereda Matapalo y en el municipio de Pore, se trabajó dentro de las veredas La Plata y Regalito (Tabla 1). La cobertura de los bosques de vega correspondió los relictos boscosos ubicados a las orillas del río Pauto, o que han quedado aislados en las madreviejas del río debido al cambio de curso por la dinámica del río.
+
+Dentro de esta ventana, uno de los bosques de vega correspondió a una madre vieja del Río Pauto conocida como Río Viejo ubicada en el municipio de Pore, vereda La Plata, finca La Enramada. En el municipio de Trinidad, el bosque de vega se ubicó en la vereda Matapalo en el sitio conocido como el Paso de La Arauca. En los dos casos, la vegetación evaluada correspondió a bosques con altura mayor a los 15 m con árboles de gran talla. Este tipo de cobertura presentó grandes problemas de pérdida de hábitat y fragmentación, uno de los principales factores para su degradación, así como la entresaca de madera y la tala para cultivos o potreros.
+
+La cobertura de bosque de galería correspondió a la vegetación ubicada a las orillas de los caños que nacen en la sabana. Dentro de esta ventana se muestrearon los bosques de galería ubicados en el caño Curimina en la vereda Regalito del municipio de Pore (Casanare), en las fincas Japón y los Aceites; una característica de estos bosques es la dominancia de saladillales. La vegetación de los bosques en estos caños presentó una altura menor a los 15 metros con abundantes enredaderas. Al igual que los bosques de vega, esta cobertura sufre procesos de pérdida y fragmentación de hábitat por tala del bosque para potreros utilizados para la ganadería.
+
+La cobertura de sabana estuvo ubicada en el municipio de Pore, vereda Regalito, finca los Aceites, sobre el caño Curimina. Este tipo de sabana corresponde a una banqueta dentro de la cual se pueden encontrar componentes vegetales tales como arbustos de la familia Melastomataceae, chaparros, bejucos y predominantemente pastos naturales. Estos componentes diferentes a las poáceas forman pequeños matorrales.
+
+-	Ventana 2 – Sabana, Casanare y Arauca
+En esta ventana, dentro del municipio de Hato Corozal, se trabajó en la vereda La Manga. En Arauca, dentro del municipio de Tame se muestreó en las veredas San Joaquín y San Salvador del Puerto (Tabla 1). 
+
+El bosque de vega correspondió a los bosques localizados a las orillas del río Casanare, ubicados en los departamentos de Casanare y Arauca. Las dos localidades utilizadas para el muestreo correspondieron al municipio de Hato Corozal, vereda La Manga, finca La Providencia (Casanare) y al municipio de Tame, vereda San Joaquín en la finca El Santuario y finca El Porvenir (Arauca). Los bosques evaluados dentro de esta cobertura alcanzaban una altura mayor a los 15 m con árboles de gran talla, abundantes palmas y en el cual se observaron dos estratos: el sotobosque, en algunos casos escaso, y el dosel. Estos bosques han sido sometidos a procesos de pérdida de hábitat y fragmentación, y uno de los mayores fenómenos de degradación es la extracción de madera y la tala para potreros, así como la introducción de ganado. Sin embargo, a diferencia de la primera ventana evaluada, la cobertura vegetal presente en esta ventana se puede considerar en un mejor estado de conservación,  además de que pueden alcanzar mayor extensión.
+
+El bosque de galería ubicado dentro de esta ventana se ubicó en el departamento del Casanare, municipio de Hato Corozal, vereda La Manga, finca La Reserva, sobre el caño Yaguarapo. La cobertura boscosa de este caño presentó elementos que se podrían considerar no típicos de un bosque de galería, como palmas y árboles que superan los 20 m. Sin embargo, estas características no dominan la vegetación y puede ser consecuencia de la cercanía del caño al río Casanare. El bosque de galería muestreado en el municipio de Tame, vereda San Joaquín, en las fincas el Santuario, las Gemelas y Los Yopos, sobre el caño la Raya, se caracterizó por una baja altura con poco sotobosque y un ancho aproximado de 30 metros. El caño es afluente del río Casanare y se encuentra cerca de su desembocadura. Este tipo de cobertura sufre los mismos procesos de fragmentación y pérdida de hábitat que las coberturas anteriormente mencionadas, por entresaca de madera y tala para potreros y cultivos. 
+
+La cobertura de sabana estuvo ubicada en el municipio de Tame, vereda San Joaquín, finca Las gemelas. Este tipo de sabana correspondió a un bajo cercano al bosque de galería sobre el caño la Raya. Dentro de esta cobertura predominaron principalmente los pastos altos, conocidos como rabo de zorro, los cuales forman macoyas de alturas que suelen sobrepasar los 50 cm; también se encontró la presencia de algunos arbustos esparcidos sobre esta matriz de pastos.
+
+Métodos de muestreo
+
+-	Mamíferos voladores
+Esta categoría correspondió únicamente a los murciélagos, el único grupo de mamíferos con la capacidad del vuelo. Para el muestreo de este grupo se utilizaron entre nueve y trece redes de niebla de seis y nueve metros de largo por 2,5 m de alto. Dentro de cada una de las ventanas de sabana se eligieron las coberturas de bosque de vega y bosque de galería. La ubicación de las redes dentro de cada cobertura se realizó teniendo en cuenta los sitios de paso, fuentes de agua, zonas con plantas fructificando y que posiblemente puedan ser utilizadas por los murciélagos, entre otras, las cuales se encontraban ubicadas dentro del bosque y/o al borde de este. 
+
+El muestreo con redes se realizó a nivel del sotobosque ubicando las redes entre los cero y tres metros de altura. El horario de muestreo para las redes de niebla fue entre las 17:30 y las 23:00 horas, con períodos de revisión de entre 15 y 30 minutos dependiendo de la actividad de los murciélagos durante el período de muestreo. En la mayoría de los casos las redes fueron cambiadas de sitio cada noche debido al reconocimiento del lugar de puesta de la red por los murciélagos, además de otros factores como el espacio necesario para la ubicación de estas y el tiempo disponible para su instalación. 
+
+En la Ventana 1 se instalaron 92 redes de niebla para un total de 1732.5 metros2-red, por un tiempo de 39,9 horas. De este esfuerzo, 847.5 metros2-red fueron instalados dentro del bosque de vega por un tiempo de 20.75 horas. El muestreo en los bosques de galería contó con un total de 885 metros2-red instalados por un tiempo de 19.15 horas. Dentro de la Ventana 2, se instalaron 72 redes de niebla para un total de 1365 metros2-red, por un tiempo estimado de 35 horas. De este esfuerzo, 802 metros2-red fueron instalados dentro del bosque de vega por un tiempo de 20 horas. El muestreo en el bosque de galería contó con un total de 562.5 metros2-red instalados por un tiempo de 15 horas. 
+
+
+-	Pequeños mamíferos no voladores (PMNV)
+Este grupo correspondió a mamíferos con un peso menor a los 500 gramos. Dentro de este grupo, para los ecosistemas de sabana inundable de la Orinoquia, encontramos principalmente a los mamíferos pertenecientes a los órdenes Rodentia y Didelphimorphia, que hacen referencia a ratones, ratas y chuchas o ratones fara. Para el muestreo de PMNV se utilizaron trampas metálicas tipo caja plegable para captura de animales vivos (Trampas Sherman) y trampas de caída o pitfall. Las coberturas seleccionadas para el muestreo de este grupo fueron el bosque de vega, bosque de galería y sabana natural.
+
+Las trampas Sherman se ubicaron dentro de cada una de las coberturas mencionadas en transectos libres. Cada una de las trampas se ubicó a una distancia de aproximadamente 5 m, una de la otra. La ubicación de la trampa siempre se hizo a ras del suelo teniendo en cuenta senderos, madrigueras, troncos caídos, matorrales, entre otros, para mejorar las probabilidades de captura. Cada una de las trampas era cebada utilizando una mezcla de avena, mantequilla de maní, sardinas y esencias de banano y vainilla, la cual era elaborada previamente en las instalaciones del campamento. El resultado de la mezcla fue una masa consistente con olores que se consideran atractivos para las diferentes especies (no se probaron diferentes mezclas). La instalación de las trampas era realizada en horas de la mañana y estas permanecían por un periodo de entre siete y ocho días dentro de cada cobertura. Las trampas eran recebadas todos los días hasta su desinstalación en horas de la mañana, lo cual nos permitió revisar cada una de estas y verificar posibles capturas.
+
+Dentro de la Ventana 1 se muestrearon los tres tipos de cobertura: el bosque de vega, el bosque de galería y la sabana. En el bosque de vega se instalaron 32 trampas Sherman en dos transectos de 16 trampas cada uno durante un periodo efectivo de ocho noches. En el bosque de galería ubicado en la finca los Aceites, sobre el caño Curimina se instalaron 32 trampas Sherman en dos transectos de 16 trampas cada uno durante un periodo efectivo de ocho noches. Dentro de la cobertura de sabana se instalaron 30 trampas en dos transectos de 15 trampas cada uno, durante un periodo efectivo de ocho noches. Las trampas se ubicaron sobre los pequeños matorrales de herbáceas y en la base de ciertas poáceas que formaban macoyas que alcanzaban alturas de más de 50 cm.
+
+En la Ventana 2 se muestrearon los tres tipos de cobertura propuestos. En el bosque de vega ubicado en el municipio de Tame se instalaron 27 trampas Sherman en dos transectos de 13 y 14 trampas cada uno durante un periodo efectivo de ocho noches. En el bosque de galería ubicado en el municipio de Tame, sobre el caño la Raya, se instalaron 27 trampas Sherman en dos transectos de 14 y 13 trampas cada uno durante un periodo efectivo de ocho noches. El muestreo en la cobertura de sabana ubicada en el municipio de Tame, contó con 28 trampas Sherman en dos transectos de 14 trampas cada uno durante un periodo efectivo de ocho noches. 
+
+Mamíferos Medianos y Grandes (MMG).
+Este grupo correspondió a mamíferos con un peso mayor a los 500 gramos. Dentro de este grupo, para los ecosistemas de sabana inundable de la Orinoquia, se encuentran los mamíferos pertenecientes a los órdenes Carnivora, Artiodactyla, Perisodactyla, Primates, Roedores (familias Caviidae, Cuniculidae y Dasyproctidae). Para el muestreo de MMG se utilizaron principalmente cámaras trampa, en modo video-fotografía. Estas cámaras eran ubicadas dentro del bosque de vega y los bosques de galería. Cada cámara trampa, después de activada, permaneció en el punto durante todo el periodo de muestreo las 24 horas del día. Dentro del bosque, las cámaras trampas eran ubicadas a una altura de 50 cm del piso aproximadamente y entre 100 y 150 m distanciadas una de otra. La ubicación de la trampa se realizó en lugares de paso de animales como senderos, comederos, letrinas, entre otros, los cuales eran detectados por el experto en campo y el profesional; además de esto, cada una de las trampas fue georreferenciada para su posterior recuperación y para su identificación durante el procesamiento en las tablas de análisis. Después de desinstalar las cámaras, la información recopilada se descargó en una computadora portátil.
+
+Dentro de Ventana 1 se instalaron 13 cámaras trampa. En el municipio de Pore, se instalaron seis cámaras trampa en el bosque de vega y siete en el bosque de galería (finca los Aceites, en el caño Curimina). En las dos coberturas muestreadas, las trampas permanecieron activas durante ocho días. 
+
+En la Ventana 2 se instalaron 26 cámaras trampa. La cobertura correspondiente a bosque de vega fue muestreada en el municipio de Tame, vereda San Joaquín, finca El Porvenir, a orillas del río Casanare. Para esta cobertura se instalaron 13 cámaras. El bosque de galería fue muestreado en este mismo municipio y vereda, en las fincas el Santuario, las Gemelas y Los Yopos sobre orillas del caño la Raya. Se instalaron 13 cámaras distribuidas dentro de las fincas ya mencionadas. El tiempo efectivo de muestreo fue de siete días efectivos. 
+
+También se realizaron registros ocasionales dentro del periodo de muestreo, dado que esta técnica permite engrosar la lista de especies de la zona de muestreo. Esta técnica consistió en tomar registro de las especies observadas en campo durante los recorridos por el área cuándo se realizaron diferentes tipos de tareas; esta técnica permitió registrar especies del orden primates las cuales por su hábito arborícola no quedan registradas en las cámaras trampa.
+Análisis de datos
+
+-	Esfuerzo de muestreo
+La efectividad del muestreo se evaluó mediante curvas de acumulación de especies utilizando los estimadores no paramétricos Chao 2, Jack 2 y Bootstrap para el muestreo total, para cada ventana y por cada tipo de cobertura. Los estimadores se calcularon con el programa EstimateS Versión 7.00 (Colwell, 2005). 
+
+-	Composición, riqueza, abundancia y diversidad 
+Se analizó la riqueza y la composición por grupo (murciélagos, PMNV, MGM) para las dos ventanas y por tipo de cobertura dentro de cada ventana; se graficó el orden de las especies de acuerdo a su abundancia. 
+
+-	Especies amenazadas y objetos de conservación
+Los registros de especies dentro del área de estudio fueron clasificados como especies bajo alguna categoría de amenaza, teniendo en cuenta el criterio de la Unión Internacional para la Conservación de la Naturaleza (IUCN), La Resolución 0192 de 2014 del Ministerio del Medio Ambiente y Desarrollo Sostenible y la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres (CITES).
+
+
+1.2.1.2. Aves
+
+Sitios de muestreo - Piedemonte
+Con base en la cartografía de las ventanas ubicadas en Arauca y Casanare correspondientes a los paisajes de piedemonte de la Orinoquía (entre 500 y 950 msnm) y ecosistemas de montaña, se identificaron los siguientes tipos de coberturas de vegetación para realizar los muestreos:
+-	Ventana 1: Municipio Támara, departamento Casanare (Figura 2, Tabla 2).
+-	Ventana 2: Municipio Tame, departamento Arauca (Figura 3, Tabla 2).
+1)	Bosque maduro: Áreas de bosque con un dosel entre 30 y 40 m, con un sotobosque denso, un sustrato arenoso y terreno plano, con  elementos de transición entre morichal y piedemonte. Se destacan porque han sido poco intervenidas por el hombre. Este tipo de vegetación sólo estuvo representada en la Vereda Caribabare en el municipio de Tame. 
+2)	Bosque de vega: Son las zonas boscosas circundantes al río Pauto, con un dosel entre 20 y 30 m, un sotobosque poco denso y un sustrato arenoso debido a las inundaciones frecuentes durante la temporada de lluvias. Este tipo de cobertura sólo estuvo presente en la vereda San Pedro, en Támara.
+3)	Borde de bosque montano: Corresponde a las zonas de ecotono entre potrero, áreas en regeneración y el bosque secundario o maduro.
+4)	Bosque secundario: Corresponde al tipo de cobertura vegetal boscosa predominante en las ventanas de piedemonte, inmerso en una matriz de potrero y cultivos. Son bosques altamente intervenidos por la entresaca de madera, quemas e ingreso del ganado. Presentan un dosel de 15 y 20 m, un sotobosque generalmente abierto, y un sustrato rocoso.
+5)	Potrero con árboles dispersos: Se caracteriza por un mosaico de hábitats que incluyen zonas de potrero con árboles dispersos, con vegetación adyacente en regeneración (rastrojos bajos y altos) así como matas de monte y áreas cultivadas. 
+6)	Río: Corresponde al lecho del río, playas y vegetación rastrera. Hábitats propicios para especies netamente acuáticas. 
+7)	Vegetación ribereña: Incluye el mosaico de vegetación presente en el margen de los ríos, caños y quebradas, caracterizados por matas de monte, bosque secundario y áreas en diferente estado de regeneración. 
+
+Sitios de muestreo - Sabana
+El trabajo de campo se realizó en las ventanas ubicadas en Casanare y Arauca, en las cuales se identificaron los siguientes tipos de coberturas vegetales: 
+-	Ventana 1: Municipio de Pore, Departamento del Casanare (Figura 4, Tabla 4).
+-	Ventana 2: Municipio de Tame, Departamento de Arauca y Municipio de Hato Corozal, Departamento de Casanare (Figura 5, Tabla 4).
+
+1)	Bosque de galería: Áreas de bosque ubicada en los bordes de los caños sabaneros y colindante con la sabana. Generalmente son bosques inundables durante la época de lluvias y presentan un dosel no mayor a 20 metros de altura. La presencia de sotobosque es variada, encontrando presencia de lianas y enredaderas, matorrales, arbustos espinosos y un número de plantas pioneras colonizadoras. Este tipo de cobertura estuvo presente en las tres ventanas estudiadas.
+2)	Bosque de vega: Área de bosque ubicada junto a los ríos de mayor caudal y de origen andino tales como el Pauto, Casanare. Presentan un dosel mayor a 20 metros con sotobosque abierto debido a la alta frecuencia de inundación durante las temporadas de lluvias. Esta cobertura estuvo presente en las tres ventanas de trabajo. 
+3)	Potrero con árboles dispersos: Potrero con árboles dispersos: Se caracteriza por un mosaico de hábitats que incluyen zonas de potrero con árboles dispersos, con vegetación adyacente en regeneración (rastrojos bajos y altos) así como matas de monte y áreas cultivadas.
+4)	Sabana: Matriz principal de la región orinoquense conformada por terrenos planos con vegetación gramínea y herbáceas que son inundables en las épocas de lluvia (bajos) o que permanecen bien drenados durante todo el año (bancos). De igual manera, alberga zonas con arbustos o matas de monte en parches o islas rodeadas por la sabana abierta. Esta cobertura estuvo presente en las tres ventanas de estudio.
+5)	Cuerpos de agua: cobertura conformada por diferentes cuerpos de agua que favorece la agregación de especies de aves asociadas a estas coberturas tales como ríos de alto caudal, humedales, zonas de cultivos de arroz inundadas y lagunas y esteros sobre la sabana abierta. Esta cobertura estuvo presente en las tres ventanas representada por uno o varios de los hábitats descritos. 
+Métodos de muestreo
+El equipo profesional estuvo conformado por dos ornitólogos para el paisaje de piedemonte y dos ornitólogos para el paisaje de sabana, acompañados, en ambos casos, de un experto local. En cada ventana se ubicaron entre cuatro y ocho trayectos de 2 a 4 km de longitud en las diferentes coberturas vegetales. En cada trayecto se tomaron datos de elevación, coordenadas geográficas con GPS y se describió el tipo de hábitat y su grado de intervención con respaldo fotográfico para cada unidad de muestreo.  Los métodos de muestreo de aves en las cuatro ventanas incluyeron detecciones visuales y auditivas en puntos fijos de conteo combinados con listas Mackinnon, grabación de los coros al amanecer, capturas de aves con redes de niebla, colecta de especímenes, conteos de aves acuáticas y observaciones no sistemáticas en diferentes hábitats sin restricciones de método ni tiempo (Ralph et al., 1996; Bibby et al., 2000). Esta combinación de métodos incrementa la probabilidad de detección de especies, además de obtener datos de abundancia, proporciona un medio rápido, relativamente confiable y replicable para la evaluación del estado de conservación, debido a los análisis cuantitativos de la composición y estructura de la avifauna a nivel del paisaje (Villarreal et al., 2006). A continuación se describen cada uno de los métodos. 
+
+-	Detección por puntos de conteo y listas Mackinnon
+Los métodos para realizar inventarios de aves han variado en el tiempo según su ejecución y rigurosidad,  lo que  ha llevado a presentar inconvenientes para estandarizar un método de muestreo para comparar entre diseños y réplicas. Los puntos de conteo de aves son un método estándar para el monitoreo de aves en todo el mundo, debido a su eficacia en diferentes tipos de hábitats (Ralph et al., 1996). La inclusión de los puntos de conteo en evaluaciones rápidas de la diversidad, tienen la ventaja de concentrarse totalmente en las aves y sus hábitats al estar en un punto fijo y tener un mayor tiempo para identificar las especies y detectar aquellas que son crípticas y territoriales, como las aves del sotobosque; además,  permiten una asociación entre la presencia de las aves y su abundancia con las características estructurales y ambientales del hábitat (Bibby et al., 2000). Sin embargo, una de sus limitaciones es que el muestreo de un solo punto puede dar una indicación poco precisa de la riqueza de especies de un área, principalmente de aquellas con alta riqueza, por lo que se requieren de muchas replicas para obtener una estimación relativamente confiable (O’Dea et al., 2004). Por tal razón la combinación de puntos de conteo con las listas Mackinnon permite generar índices comparativos de esfuerzo de muestreo y asegurar una aproximación más precisa de la riqueza de especies (Herzog et al., 2002). 
+
+MacKinnon &amp; Phillipps (1993) sugieren su método como una alternativa para controlar las diferencias en esfuerzo, capacidad del observador y clima. Las observaciones se agrupan en listas consecutivas de 10 o 20 especies diferentes para generar una curva de acumulación agregando aquellas especies que no fueron registradas en la lista previa, lo cual se representa como una función del número total de especies (Herzog et al., 2002). Este método tiene la ventaja de incluir observaciones de las aves que no se puedan identificar desde el principio, se puede usar todo el día para generar datos, recorrer diferentes áreas, y permite la comparación de datos obtenidos por diferentes observadores o bajo diferentes condiciones de campo (Bibby et al., 2000; Herzog et al., 2002; O’Dea et al., 2004). Sin embargo, este método subestima la estimación de abundancia de especies gregarias y no es posible hacer comparaciones entre especies debido a que presentan diferencias en su detección (Bibby et al., 2000). Dado que las listas no estandarizan área o tiempo muestreado, no son útiles para obtener datos de abundancia relativa y tampoco para comparación entre inventarios; por lo tanto se recomienda aplicar detecciones rápidas con listas Mackinnon y estimaciones de abundancias por puntos de conteo (Herzog et al., 2002; O’Dea et al., 2004).
+
+En cada uno de los trayectos de muestreo previamente ubicados para cada ventana se establecieron entre 10 y 12 puntos de conteo separados a una distancia de 150 m en zonas de bosque, y de 300 m en áreas intervenidas con el fin de evitar el reconteo de individuos y garantizar la independencia de las detecciones de aves entre puntos (Ralph et al., 1996; Bibby et al., 2000). En cada punto se registraron todas las aves observadas y escuchadas en un radio fijo de 50 m para zonas de bosque y de 100 m en áreas abiertas durante un periodo de 15 minutos (Ralph et al., 1996). Cada punto de conteo se marcó con cinta flagging y se tomaron datos de elevación, ubicación geográfica con GPS, tipo de cobertura vegetal, grado de intervención, altura del dosel, grado de cobertura del sotobosque y presencia de caños, esteros o ríos. 
+
+Un equipo conformado por los dos ornitólogos acompañados por un experto local iniciaron los conteos a partir de las 06:00 h (Figura 6, Figura 7), en los cuales se registraron todas las aves detectadas en el radio fijo mediante el uso de binoculares 10 x 50 mm y un equipo de grabación (ver sección de grabación de cantos). Para cada especie se anotaron separadamente los individuos detectados dentro y fuera del radio fijo. Si un ave huía al momento de que el observador llegaba al punto de conteo, también se registraba. Las aves de paso que volaban por encima del área sin detenerse se anotaban en el mismo formato al igual que todas las aves que se detectaron durante los desplazamientos entre puntos de conteo; dado que estas no hacían uso del hábitat muestreado se excluyeron del análisis de datos por puntos, pero se incluyeron en el de listas Mackinnon. 
+
+Durante los conteos se registraron los siguientes datos en el formato de campo: Localidad, trayecto, observadores, fecha, condiciones climáticas, hora de inicio, código del punto de conteo, hora de cada detección, especie o código de la evidencia (track de grabación o foto), tipo de registro (observado, escuchado y/o grabado), sexo (macho, hembra, no determinado), número de individuos, distancia aproximada entre el individuo y el punto, la ubicación vertical (en metros), radio de detección (menor a 50 o 100 m, mayor a 50 o 100 m), la actividad observada (vocalizando, forrajeando, posado, bandada mixta, reproducción) y comentarios. Las aves se identificaron con ayuda de las guías de campo ( (Hilty &amp; Brown, 1986; McNish, 2007; Restall et al., 2007).
+
+-	Grabación de vocalizaciones
+El uso de la grabación de las vocalizaciones emitidas por las aves es uno de los métodos más robustos para el levantamiento de inventarios en bosques neotropicales, además de ser mucho más eficaces que las detecciones visuales (Parker III, 1991). El uso de grabaciones es fundamental para detectar especies poco conspicuas o de coloración críptica como las especies de tinamúes (Tinamidae), pájaros bobos (Bucconidae), trepatroncos (Dendrocolaptinae) y atrapamoscas (Tyrannidae), los cuales vocalizan de una a tres veces durante los primeros cinco minutos del amanecer y raramente lo hacen después de este momento, y algunas especies nocturnas como los búhos, que por lo general vocalizan al amanecer y al atardecer (Parker III, 1991). El uso de grabaciones tiene ventajas al proveer evidencia para las detecciones visuales no identificadas en campo, ya que pueden ser determinadas en laboratorio. Su uso no requiere de experiencia avanzada en la determinación de aves en campo pero si en el manejo adecuado del equipo que permita obtener las grabaciones de buena calidad.
+
+La calidad de audio de la grabación depende de la relación señal vs. ruido de fondo, el volumen, el nivel de eco o reverberación, el equipo que se tenga y el formato en que se obtenga la grabación. Según Morton Isler (com. pers), para obtener grabaciones útiles y de buena calidad se recomienda:
+
+1) Acercarse al ave que vocaliza lo más posible sin perturbarla, controlando la entrada de sonido al micrófono para no sobresaturar de volumen la grabación.
+2) Registrar de inmediato en la grabación la información detallada del contexto en la que ésta fue realizada (distancia del micrófono al ave, altura al suelo desde donde vocalizaba, el contexto comportamental, el sexo del individuo -cuando es posible-, el microhábitat, la hora, apariencia del ave cuando sea relevante, las condiciones del clima, e indicar si el ave grabada fue observada vocalizando o si fue capturada o fotografiada).
+3) Usualmente varios individuos de varias especies quedan registrados en una grabación, por lo que se debe registrar en lo posible quién cantó qué cosa, sobre todo si no es tan obvio. En muchos casos, toda esta información sirve para identificar sonidos de aves que no se pudieron confirmar en campo. 
+4) Evitar a toda costa la sobresaturación de la señal, al no dejar que el nivel de grabación esté por encima del punto óptimo de entrada. Esto se logra al acercarse al ave y apuntar con el micrófono directamente al individuo que vocaliza. 
+5) Grabar largo, es decir obtener cortes amplios (de minuto) permite apreciar la variación en la cadencia y repertorio individual de las aves, y también aumenta la probabilidad de obtener cantos naturales desde el comienzo. 
+6) Empezar a grabar desde bien temprano, antes del amanecer. 
+7) Indicar si diferentes grabaciones o cortes son del mismo individuo de ave e indicar si se graba consecutivamente varios cortes de un mismo individuo o pareja, incluyendo cantos naturales y otros estimulados por reproducción de su voz o imitaciones. 
+
+Teniendo en cuenta estas recomendaciones y las sugeridas por Villarreal et al. (2006), el protocolo propuesto de grabación de vocalizaciones de aves en cada una de las ventanas incluyó la grabación de los coros de aves al amanecer (05:45 a 06:15 h) de media hora en un punto fijo en cada uno de los ocho trayectos delimitados para cada ventana. Un ornitólogo y el experto local (Figura 6, Figura 7, Figura 8) emplearon una grabadora TASCAM DR100 MKII con un micrófono Senheisser ME66. Dada la alta direccionalidad de este micrófono, la persona lo dirigió suavemente sin hacer movimientos bruscos hacia los distintos ejes cardinales, con énfasis en los sitios donde se detectó mayor actividad de vocalizaciones, controlando siempre el nivel de grabación. Al inicio de la grabación se registró en la misma pista que se va a grabar: la localidad, el clima, el tipo de cobertura vegetal, la georreferenciación del punto, la elevación y la hora. Durante las grabaciones, el observador registró con su voz la identidad de lo que está registrando en caso de detectar visualmente al ave. Al final de los 30 minutos, el observador volvió a registrar con su voz en la misma pista algunos comentarios que consideró importantes. Para analizar los coros de aves, cada pista de 30 minutos se dividió en cortes de 10 minutos y en cada uno de estos se identificaron las especies que estaban vocalizando y su secuencia. 
+
+Adicional a esto, se realizaron grabaciones durante las observaciones de puntos de conteo, de esta forma se aseguró la obtención de evidencia que no pudo ser detectada directamente en campo. En cada punto de conteo el observador realizó grabaciones de lo que no pudo identificar y registró en el formato de toma de datos el número de pista, y registró con su voz: la fecha, el hábitat, el punto de conteo donde hizo la grabación y los comentarios que consideró pertinentes. También se realizaron grabaciones a lo largo del día sin ninguna restricción de método ni tiempo, procurando obtener pistas de más de un minuto de duración y de la mejor calidad posible, registrando en cada pista los datos mencionados en el apartado anterior.
+
+Las grabaciones se archivaron a 44.1 Kb y 16 bits en formato WAV. Estas grabaciones se analizaron con el programa Audacity versión 2.0.5 (Crook et al., 2014). Los espectrogramas se visualizaron con la siguiente configuración: FFT Window, window size: 4096 Hz, FFT Window, window type Gaussian (a = 4.5), Display: 200 a 12000 Hz, Display Gain: 15 dB, Range: 80 dB, Frequency gain: 15, spectrum: grayscale. Las grabaciones se compararon con material de referencia de las guías sonoras proporcionadas por el IAvH y Xenocanto (http://www.xeno-canto.org/). Cada pista se determinó a nivel de especie, se subieron a Xenocanto y se depositaron en el Banco de Sonidos Animales (BSA) del IAvH. 
+
+Para cada registro se elaboró una base de datos proporcionada por el BSA conforme al “Catálogo de métodos y atributos del Sistema de Información sobre Biodiversidad de Colombia – SIB”, la cual incluyó los siguientes campos: Número de grabación, Formato de la grabación entregada (DAT, medio digital, casete, etc.), Familia, Género, Especie, Subespecie, Otras especies grabadas en el fondo (familia, género y especie), Sexo, Número de individuos, Comportamiento social (display, apareamiento, cortejo, contacto, alimentación, cuidado parental, anidación, contracanto, coro, defensa), Método de identificación (visual, auditivo), Método de atracción (playback, silbido, imitación, ninguno), % certeza en la identidad de la grabación (qué tan seguro estás de la especie que grabaste?, 100%=totalmente seguro), Tipo de vocalización (canto, llamado, dueto, alarma, mecánico), Tiempo atmosférico (dar una indicación de qué características del tiempo atmosférico), Hábitat, Departamento, Municipio, Localidad, Altitud, Coordenadas, Fecha AAAAMMDD, Hora, Nombre del colector, Grabadora (marca y modelo), Micrófono (marca y modelo, o incorporado en la grabadora), Otros accesorios de grabación (parábola, parlante), Identificación del casete, DAT, Minidisc, etc., Tiempo de inicio (minutos y segundos en la grabación, donde comienza a vocalizar el animal), Tiempo final (minutos y segundos en la grabación, donde termina de vocalizar el animal) y Comentarios adicionales.
+-	Captura de aves con redes de niebla
+Las redes de niebla han sido utilizadas como única herramienta para realizar inventarios de aves en varios bosques neotropicales, ya que reducen en gran medida el sesgo del observador, en comparación con los métodos de puntos de conteo y grabación de vocalizaciones, aunque hay varios estudios que han demostrado su baja efectividad en relación con otros métodos (Remsen &amp; Good, 1996; Stiles &amp; Rosselli, 1998). Sin embargo, la captura de aves no solo permite la detección de especies poco conspicuas sino también la obtención de datos morfológicos y fisiológicos como la muda, la reproducción, edad sexo y estado del ave (Villarreal et al., 2006).
+Se utilizaron 10 redes de niebla, de 12 m de largo por 2.6 m de ancho con ojo de malla extendida de 30 a 36 mm. Cada ventana contó con una a tres estaciones de muestreo distribuidas equitativamente en las diferentes coberturas de vegetación, excepto los esteros y zonas inundables. Las sesiones de capturas iniciaron desde las 06:00 h, en las cuales las redes permanecieron abiertas durante seis horas consecutivas y se revisaron cada 20 minutos siguiendo los protocolos de Ralph et al., (1996). Cada sesión tuvo una duración de un día en la cual se registró la localidad, la hora inicial y final, el tipo de hábitat por cada red, la fecha, el clima, los responsables, la elevación, las coordenadas geográficas, y el número de redes.
+
+A cada estación de muestreo se le asignó un código único que tuvo un indicativo del área (nombre de la ventana de estudio), del grupo muestreado, del método de muestreo y el número de red. Las aves capturadas se transportaron en bolsas de tela a una estación de procesamiento en donde se midieron y se marcaron por medio de corte de la rectriz externa y posteriormente liberadas.
+
+Las aves que no se identificaron en campo se colectaron para su determinación en la colección de ornitología del Instituto de Ciencias Naturales, de la Universidad Nacional de Colombia (ICN). A cada ave capturada se le tomaron los siguientes datos: sexo, porcentaje de grasa en el cuerpo, protuberancia cloacal, parche de incubación, muda, estado del plumaje, edad, longitud del ala, longitud del culmen total, alto y ancho del pico, longitud del tarso, longitud de la cola, masa corporal, comentarios y registro fotográfico. Los individuos colectados (no mayor a 4 por especie) se sacrificaron, se prepararon y se les tomó muestras de tejido como músculo e hígado según el protocolo descrito en Villarreal et al., (2006). Cada muestra se rotuló con sus respectivas etiquetas que incluyeron los siguientes datos: localidad (país, departamento, municipio, corregimiento, vereda, sitio donde se realizó la colecta), coordenadas geográficas, elevación (msnm), fecha de colecta, colector, número de colector, peso (g), datos morfométricos de longitud cabeza-cola y envergadura (mm), color de las partes blandas (iris, patas, maxila y mandíbula), hábitat, porcentaje de osificación del cráneo, medidas de gónadas y contenido estomacal. El material colectado se depositó en el ICN con copia de los ejemplares en el IAvH.
+
+-	Censos de aves acuáticas
+Los métodos anteriores tienen un sesgo hacia las aves terrestres por lo que pueden subestimar la riqueza y abundancia de aves congregatorias como las acuáticas. Por lo tanto se requiere la inclusión de censos en las zonas de inundación en la sabana o ribera de los ríos. Los humedales o esteros son algunos de los ecosistemas más variantes en la Orinoquia y en la época seca son un sitio clave de congregación de aves acuáticas. Los censos terrestres de aves acuáticas proporcionan estimaciones confiables del número total de especies e individuos presentes en áreas pequeñas, además de facilitar la identificación al tener mayor tiempo para realizar las observaciones. Sin embargo tienen el inconveniente de cubrir menos área en menor tiempo (Ruiz-Guerra et al., 2011). 
+
+Para cada ventana se realizó un recorrido libre de 5 a 6 horas duración concentrándose en el censo de aves acuáticas en los esteros, ríos y zonas inundables (Figura 6, Figura 7, Figura 8). Dos observadores realizaron los censos desde las 06:30 hasta las 12:00 h movilizándose en camioneta por zonas aledañas a los sitios de congregación para evitar espantar las aves.  En cada ventana se realizó un recorrido para hacer estos censos. En cada punto de muestreo, los observadores registraron todas las aves acuáticas presentes en el área de influencia del punto durante una hora. El evento de observación se registró en el formato de campo los siguientes datos: Localidad, punto de conteo, observadores, fecha, condiciones climáticas, hora de inicio, código del punto de conteo, hora de cada detección, especie o código de la evidencia (track de grabación o foto), tipo de registro (observado, escuchado y/o grabado), sexo (macho, hembra, no determinado), número de individuos, la ubicación horizontal con respecto al espejo de agua, la actividad observada (vocalizando, forrajeando, posado, bandada mixta, reproducción) y comentarios. Durante estas observaciones también se registraron las especies “aéreas” como rapaces, golondrinas, vencejos y loros, anotadas como aves de paso.
+
+Determinación taxonómica y nomenclatura
+La identificación de cada ave capturada o registrada se realizó con guías de campo (Hilty and Brown, 1986; McNish, 2006; Restall et al., 2007; Ridgely &amp; Tudor, 2009).
+
+
+Análisis de datos
+-	Esfuerzo de muestreo 
+La efectividad del muestreo se evaluó mediante curvas de acumulación de especies utilizando los estimadores no paramétricos ACE, Chao 1 y Chao 2 con sus respectivos intervalos de confianza, obtenidos con el programa EstimateS Versión 7.00 (Colwell, 2005) para cada tipo de cobertura vegetal. 
+
+-	Composición, riqueza, abundancia y diversidad 
+El análisis de riqueza específica se realizó por categoría taxonómica desde el nivel de especie hasta orden. Se comparó la riqueza específica por medio de análisis de rarefacción. Para estimar la estructura de las comunidades, entendido como las especies en relación con su abundancia, se calcularon los índices Shannon-Wiener y Simpson para cada ventana y tipo de cobertura vegetal. Para identificar el grado de complementariedad o semejanza que presentan las comunidades de aves entre coberturas vegetales se utilizó el índice de similitud de Morisita-Horn, mediante el método de ligamiento simple. Este algoritmo permite identificar el grado de heterogeneidad en la distribución de la diversidad a escala espacial, integrando la abundancia de cada especie. Los análisis de diversidad se realizaron con el programa PAST (Hammer et al., 2001). 
+
+La abundancia relativa de todas las especies para cada una de las coberturas vegetales y ventanas, se obtuvo a partir de las estimaciones de abundancia relativa en puntos de conteo (ind./ha), tasa de captura en redes de niebla (número de capturas/total de redes) y tasa de detección con las listas Mackinnon (frecuencia relativa). Por otra parte se establecieron rangos basados en frecuencia de ocurrencia en una escala cualitativa que se determinó para cada especie al final de cada muestreo. Esta se obtuvo según los criterios utilizados por Parker III, (1991) y Marín-Gómez, (2005), con algunas modificaciones, en donde: [FO= (número de registros de una especie particular / número de registros totales) X 100], obteniendo las siguientes categorías:
+-	Especie Abundante (A), registrada en todos los recorridos de observaciones y grabaciones dentro de hábitat apropiado, especie con frecuencias de ocurrencia entre el 76 - 100%. 
+-	Especie Común (C), registrada en todos los recorridos dentro de hábitat apropiado, especie con registros entre 51-75%. 
+-	Especie poco Común (PC), registrada no en todos los recorridos y menos de dos individuos por kilómetro de recorrido pero registrado más de tres veces del total de muestreos, especies con registros entre 26 – 50%.
+-	Especies Escasas (E), con un número de registros entre 10 – 20 %.
+-	Especie Rara (R), Registrada muy pocas veces durante todos los recorridos de muestreo  menos del 10%.
+-	Especies amenazadas y objetos de conservación
+Se registraron las especies invasoras e introducidas siguiendo la categoría propuesta por Baptiste et al., (2010). El registro de aves con algún tipo de amenaza se guió por la resolución 0192 del 10 de febrero del 2014 emitida por el Ministerio de Ambiente y Desarrollo Sostenible y por el Libro Rojo de Aves de Colombia (Renjifo et al., 2002, 2014). Para las especies de distribución restringida se consultó la lista aves endémicas y casi endémicas de Colombia (Stiles, 1998; Chaparro-Herrera et al., 2013) y las presentes en el convenio CITES (UNEP-WCMC, 2014). 
+
+
+1.2.1.3. Anfibios y Reptiles
+
+Sitios de muestreo - Sabana
+Se muestrearon tres coberturas dentro de las sabanas inundables de la Orinoquia en los departamentos de Casanare y Arauca, estas coberturas fueron: Sabana natural, Bosques de vega y Bosques de galería. El muestreo se llevó a cabo en la época seca en las ventanas de trabajo: 
+
+-	Ventana 1: Se ubica en jurisdicción de los municipios de Pore, Trinidad y San Luis en el departamento de Casanare, está dentro de la cuenca del río Pauto. Presenta mucha actividad productiva (hidrocarburos, agricultura y ganadería). Los muestreos de esta localidad se efectuaron en predios de las veredas Matapalo y La Plata del municipio de Pore.
+-	Ventana 2:  Se ubica en jurisdicción de los municipios de Tame (Arauca) y Hato Corozal (Casanare), dentro de la cuenca del río Casanare, está dentro de la cuenca del río Casanare. Presenta en mayor medida actividades de agricultura y ganadería, sin embargo también se presenta actividad productiva relacionada a hidrocarburos. Los muestreos de esta localidad fueron realizados en predios de las veredas Los Mangos (Hato Corozal) y San Joaquín (Tame).
+
+Recopilación de información secundaria
+Para obtener el listado de especies con distribución potencial en las áreas de trabajo, se realizó una búsqueda bibliográfica. Inicialmente, se realizó una búsqueda local, con trabajos desarrollados en estos departamentos y en tierras bajas, y posteriormente regional, referidos a trabajos desarrollados en la ecorregión Llanos en tierras bajas. Se encontró un buen número de publicaciones desarrolladas por investigadores y organizaciones. También se revisaron colecciones en línea de museos nacionales y el sistema de información de biodiversidad para Colombia (SIB). Con esta información se pudo elaborar la lista de especies de anfibios y reptiles potenciales para el área de estudio. Se tuvo en cuenta principalmente la información publicada por (Acosta-Galvis et al., 2014; Romero et al., 2010; Acosta-Galvis &amp; Alfaro-Bejarano, 2011).
+
+Métodos de muestreo
+Para realizar la caracterización de la herpetofauna en las ventanas estudiadas, se implementaron metodologías estándares que permitieran capturar la mayor cantidad de información de este grupo en los diferentes hábitats que ofrecen las coberturas identificadas para piedemonte y sabana. El muestreo a campo fue realizado por un equipo de dos biólogos, los cuales utilizaron el VES (Visual Encounter Survey) por microhábitat, en cada una de las coberturas de las diferentes localidades. Además se utilizaron cercas con trampas de caída como método para complementar el inventario de especies.  En cada trayecto se tomaron datos de elevación, coordenadas geográficas con GPS y se describió el tipo de hábitat y su grado de intervención con respaldo fotográfico para cada unidad de muestreo.
+
+-	Transectos por inspección para encuentro visual: VES (Visual Encounter Survey)
+Esta técnica permite abarcar los diferentes hábitat, sin restringir al investigador a un método de búsqueda (recorridos, remoción de hojarasca o troncos) o transecto determinado, logrando un mejor inventario de las diversidad, así como realizar comparaciones a partir del esfuerzo de búsqueda. El fundamento de este método es buscar activamente herpetos a lo largo de un área.  El muestreo consiste en caminar lentamente a lo largo de un hábitat observando y buscando con atención cualquier especie de anfibio o reptil que se pueda encontrar dentro como fuera del agua, en las orillas, hasta 10 metros de distancia a cada lado de las quebradas o arroyos, debajo de piedras y sobre la vegetación.  El tiempo se expresa como el número de horas/hombre de búsqueda en cada una de las áreas a comparar (Heyer et al., 1994; Lips et al., 2001). El registro del tiempo de muestreo debe ser muy estricto, tomando la hora de inicio y final,  para poder establecer el esfuerzo de captura y poder comparar.
+
+En las ventanas de piedemonte, se realizaron recorridos durante el día algunas veces en horas de la mañana y otras en la tarde con un esfuerzo de 2 a 4 horas/día y durante la noche muestreos de 6:30 a 10:30 pm, con un esfuerzo de cuatro horas/noche.
+
+En las ventanas de sabana, los recorridos se efectuaron entre las 9:00 a 11:00h y las 16:00 a 21:00 h  para intentar capturar la mayor riqueza de especies en las horas de mayor actividad (Angulo et al., 2006). Se realizó el mismo esfuerzo de muestreo en las tres coberturas identificadas en el proyecto.
+
+-	Muestreo con barreras de interceptación y trampas de caída.
+Este método es eficiente para herpetofauna terrestre ya que permite obtener información de la riqueza y abundancia y complementa el muestreo de mamíferos terrestres (Blanco-Torres et al., 2013). Las cercas o barreras intersecan a los anfibios y reptiles que se desplazan por la superficie del terreno y los redirigen hacia las trampas de pozo o caída (Heyer et al., 1994). Se propuso este método debido a la eficiencia obtenida en trabajos de campo precedentes, sus bajos costos y las ventajas logísticas (Blanco-Torres et al., 2013).
+
+En las ventanas de piedemonte, se utilizaron cercos de 10 metros de largo asociados a tanques de 80 litros, lo que permitió capturar individuos de gran tamaño. La ubicación se realizó de acuerdo a las condiciones del terreno y criterio del investigador, siempre buscando optimizar e incrementar la efectividad de las mismas en el inventario de especies.
+
+En las ventanas de sabana, se creó una barrera artificial que además de interrumpir el paso del animal lo guiaba hacia uno de los extremos, en donde se encontraba la trampa de caída,  constituida por un balde o caneca plástica enterrada a altura del suelo. Se instalaron recipientes de 30 galones de capacidad, unidos entre sí por una barrera construida  (aprox. 40 cm de alto) con material resistente al agua y la temperatura ambiente que se mantuvo en posición vertical (acetato). El sistema de trampas  se mantuvo activo durante siete días en cada localidad. Para evitar la desecación de los animales, las trampas se revisaron en la mañana y en la tarde, y se les colocó en el fondo un plato con agua para generar un ambiente menos propenso a la deshidratación. Se colocaron seis (6) trampas de caída asociadas a cercos de 10 metros durante 7 días únicamente en el municipio de Tame, debido a que las condiciones del suelo (pedregoso) no lo permitieron en las otras localidades.
+
+Determinación taxonómica y nomenclatura. 
+Se colectaron ejemplares voucher o testigos para la correcta identificación de las especies. Los ejemplares colectados fueron determinados preliminarmente en campo, luego en el laboratorio se verificaron las determinaciones taxonómicas por comparación con los ejemplares depositados en la colección herpetológica del Instituto de Ciencias Naturales de la Universidad Nacional de Colombia (ICN). Este material será depositado en el  Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Para la fijación del material se utilizaron las técnicas estándares de montaje. Para la nomenclatura actualizada de las especies de anfibios se siguió a Frost (2015) y para reptiles a Uetz &amp; Hosek (2014).
+
+Análisis de datos
+
+-	Información secundaria - Especies probables
+A partir de la recopilación de información secundaria, se obtuvo el listado de especies probables para las áreas de interés.
+
+-	Esfuerzo de muestreo
+Para estimar la representatividad del muestreo se utilizaron curvas de acumulación de especies mediante los estimadores Chao 1(sabana), Chao 2 (piedemonte), Jacknife 1 y Bootstrap (piedemonte), debido a que éstos ofrecen mayor confiabilidad cuando los hábitats no son homogéneos. Se realizaron estimaciones de la riqueza de anfibios y reptiles para piedemonte y sabana, y para cada una de las localidades de muestro por separado. Para la sabana, también se calcularon singletons y doubletons basados en el supuesto de que en la naturaleza no existen individuos solos, sino poblaciones; por ende, si hay muchos singletons o doubletons en un muestro, es indicio de que no se ha censado un número suficiente de individuos o realizado suficientes repeticiones (Villarreal et al., 2006). Estos estimadores permiten representar gráficamente la acumulación de especies, conforme se avanza en las unidades de muestreo. Como unidad de muestreo se tomó cada especie, es decir que la abundancia de la misma fue tomada como una muestra; de esta forma se logró corregir algún sesgo que pudiera dar una diferencia en el esfuerzo de colecta y la abundancia de las especies.  Las estimaciones se obtuvieron con el programa EstimateS Version 9.1 (Colwell, 2005)
+
+-	Composición, riqueza, abundancia y diversidad 
+El análisis de riqueza específica se realizó por categoría taxonómica desde el nivel de especie hasta orden. Para estimar la estructura de las comunidades, es decir las especies en relación con su abundancia, se calcularon los índices Shannon-Wiener y Simpson para cada tipo de cobertura vegetal en el piedemonte y sabana, con los intervalos de confianza del 95% para comparar entre coberturas. Para la sabana, se realizaron aplicaron modelos de distribución de abundancia los cuales son modelos matemáticos que describen de forma gráfica la relación entre la abundancia y las especies ordenadas en categorías de la más a la menos abundante.
+
+Para identificar el grado de complementariedad o semejanza que presentan las comunidades de herpetos entre coberturas vegetales en las ventanas de piedemonte, se utilizó el índice de similitud de Jaccard y análisis por conglomerados usando la técnica de ligamiento promedio (sabana). Este índice permite identificar el grado de heterogeneidad en la distribución de la diversidad a escala espacial, integrando la abundancia de cada especie. Los análisis de diversidad se realizaron con el programa PAST (Hammer et al., 2001). Para las ventanas de sabana, se comparó la riqueza mediante el análisis no paramétrico Kruskall-Wallis como prueba de hipótesis y la prueba de comparación por pares de Mann Whitney.
+
+
+-	Especies amenazadas y objetos de conservación
+Se registraron las especies invasoras e introducidas de acuerdo a la literatura. Se realizaron charlas informales con los pobladores de la zona para conocer las principales amenazas de la herpetofauna desde el punto de vista de la población. Para determinar los grados de amenaza de las especies registradas se revisó el libro rojo de anfibios (Rueda-Almonacid et al., 2004) y de reptiles (Castaño-Mora, 2002), la categorización de la IUCN Red List of Threatened Species - Versión 2014.3. (2014) a nivel global y la resolución 192 de 2014 del MADS (Ministerio de medio Ambiente y Desarrollo Sostenible). Se revisaron los apéndices del CITES (Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres) para el año 2015 (Apéndices vigentes a partir de febrero de 2015 en: www.cites.org). 
+
+Esta información es de gran importancia en la planeación de actividades de manejo y conservación, lo que permite el diseño de estrategias para el aprovechamiento sostenible y para evitar impactos negativos de actividades antrópicas en la fauna local. Con base en lo anterior se definieron los objetos de conservación de herpetos que se encuentren en las zonas estudiadas.
+
+
+1.2.1.4. Peces
+
+Sitios de muestreo - Piedemonte
+En cada una de las ventanas de trabajo se seleccionaron entre 15 y 17 puntos de muestreo que abarcaron tanto ríos principales como quebradas y caños de menor tamaño (Tabla 6). Los muestreos se iniciaron en la ventana del municipio de Támara desde el 17 hasta el 25 de marzo de 2015, donde se ubicaron 15 sitios de los cuales 12 estaban dentro del polígono delimitado y 3 por fuera de él; entre el 27 de marzo y el 2 de abril se realizaron los muestreos en 17 estaciones de colecta en la ventana del municipio de Tame (Arauca), de los cuales 11 estaban dentro y 6 por fuera de la ventana. Las estaciones de muestreo que quedaron por fuera del área delimitada, fueron establecidas por facilidad de acceso, intereses investigativos de los profesionales encargados del componente o porque dentro del área no se completaba un mínimo de 15 fuentes superficiales de interés.
+
+En cada uno de estos puntos de muestreo se determinó la ubicación geográfica con un GPS, acompañada de una descripción del hábitat que incluyó el tipo de cobertura vegetal ribereña, sustrato dominante, tipo de agua e información relevante en cuanto a usos o impactos sobre el cuerpo de agua. Dicha información fue consignada en formatos de campo previamente diseñados.
+Sitios de muestreo - Sabana
+Con el fin de conocer la ictiofauna en tres cuencas de los ríos Pauto y Casanare, sobre áreas de sabana inundable en los departamentos de Casanare y Arauca, se realizaron muestreos de peces en época seca, entre el 18 de marzo al 13 de abril (Tabla 6) que se localizan desde 89 a 200 a metros, distribuidos de la siguiente manera: ocho abarcando una longitud total de 27.1 km ubicados en la Ventana 1, la cual incluyó los municipios de Pore, San Luis de Palenque y Trinidad (Dpto. Casanare) y seis en una longitud de 10.3 km en la ventana 2 que comprende los municipios de Hato Corozal (Dpto. Casanare) y Tame (Dpto. Arauca) (Figura 13).
+
+En cada sitio de muestreo, se seleccionó un transecto de 100 m a lo largo del curso de agua y en sitios con un ancho de cauce inferior a cinco metros. Se trabajó en un transecto de 75 m y en ambos casos se subdividió en tramos de 25 m (Figura 14), en donde se llevó a cabo la caracterización de hábitat y la ejecución de los artes de pesca. Para la caracterización de hábitat se tomaron datos específicos como: infraestructura aledaña, posibles afectaciones, uso del agua,  ancho del cauce, porcentaje de vegetación riparia, tipo de agua y tipo de sustrato; en este último, se estimó el porcentaje de cada sustrato (roca, canto rodado, grava, arena, arcilla, lodo, hojarasca etc.).
+
+Métodos de muestreo 
+Dependiendo de las características del cuerpo de agua en cuanto a ancho, profundidad, tipo de sustrato y facilidad de acceso, se realizaron las faenas de pesca tratando de abarcar la mayor heterogeneidad de hábitat y conservando en lo posible el mismo esfuerzo de muestreo en tiempo (2 a 2.5 horas) y en espacio (transecto de 75 y 100 metros). Los métodos de captura empleados siguieron lo sugerido por Maldonado-Ocampo et al. (2005) y se ajustaron a lo establecido en la ley de compensaciones por pérdida de biodiversidad – Instructivo de aplicación  (Zapata &amp; Usma, 2013)
+Los artes de pesca empleados se seleccionaron en campo dependiendo de las condiciones propias de cada cuerpo de agua, de tal manera que no se utilizaron los mismos aparejos en todos los sitios. Sin embargo, se cuidó de aplicar el mismo esfuerzo de muestreo cada vez que se utilizaba un arte de pesca particular como se describe a continuación:
+
+-	Atarraya
+Consiste en una red circular con plomos en sus extremos que permiten que la red llegue al fondo en el menor tiempo posible. En el Piedemonte se empleó una atarraya de nylon de 3 metros de diámetro y un ojo de malla 2 cm, se utilizó en caños y ríos grandes donde el ancho, la profundidad y el tipo de fondo fueron las adecuadas para su uso. En cada punto de muestreo se realizaron entre 15 y 20 lances dependiendo del tamaño de la fuente y la disponibilidad de sitios para el lance de la atarraya (Figura 15.A). En sabana se trabajó con una atarraya de 2.5 cm de ojo de malla, se realizaron cinco lances en cada tramo (T1, T2, T3, T4) para un total de 20 por cada punto. Éste arte de pesca es esencial para capturar las especies de mayor tamaño, que posiblemente no se colectan con la red de arrastre (Figura 16). 
+
+-	Pesca eléctrica
+Este método de pesca se utilizó en 7 puntos de muestreo en la ventana de piedemonte – Támara y 7 en la de Piedemonte - Tame. Para la pesca eléctrica se usó un equipo Samus 725G / 550-600 de corriente directa pulsante, en aquellos cauces con mayor conductividad, donde se definió un transecto de 75 metros que se recorrió en contra de la corriente realizando barridos en las orillas y en el sector central de los cuerpos de agua. El método consiste en aplicar electricidad localizada con una jama electrificada conectada al equipo, la cual atrae los peces que son capturados directamente o son arrastrados por la corriente y quedan atrapados en una red de 5 metros de largo ubicada aguas abajo del electrodo (Figura 15.B).
+
+-	Red de arrastre
+En las ventanas de Piedemonte se utilizó una red de angeo de 5 metros de largo por 2 metros de alto y 1 mm de ojo de malla, en áreas con fondos fangosos, arenosos, gravas o piedras de menor tamaño, realizando barridos mediante el cierre de los extremos de la red hacia las orillas. Se realizaron seis arrastres en cada estación de muestreo (Figura 15.C). En las ventanas de sabana se utilizó una red con una malla de angeo de 7 m de largo por 2 m de alto y ojo de malla de 0,5 cm. Se realizaron dos arrastres en cada tramo (T1, T2, T3, T4), es decir ocho arrastres en todo el transecto y se abarcaron los diferentes microhábitats disponibles como por ejemplo, fondos arenosos, rocosos y fangosos, macrófitas,  etc. (Figura 17).
+-	Redes agalleras
+Se utilizaron dos mallas de 4 cm de entrenudo x 23 m de longitud por 2 m de alto. Antes de empezar con las faena de pesca, estas se instalaban al inicio del transecto de 100 m y al final, en donde permanecían extendidas durante cuatro horas y se revisaban cada 30 minutos. Al momento de recogerlas, dos personas dejaban rodar por la corriente la malla ubicada aguas arriba en dirección de la otra malla y otras dos personas hacían lances con atarrayas contiguo al procedimiento. Éste arte de pesca se realizó solo para los puntos ubicados sobre los ríos Pauto y Casanare (Figura 18).
+
+-	Nasa
+Consistió de un aro metálico de 40 cm de diámetro al cual va adherida una red de 0.1 cm de ojo. Ésta solo se utilizó en los caños de menor tamaño en Piedemonte (Tame-P-07 y Tame-P-08) donde las condiciones  de ancho inferior a 1 metro, exceso de vegetación ribereña, alto contenido de hojarasca y palizada en el fondo no permitieron el uso de los demás artes de pesca. En estos sitios se muestreó al azar con la nasa para capturar las especies observadas a simple vista (Figura 15.D).
+
+-	Inmersiones subacuáticas
+En los caños y ríos con poca corriente y con alta transparencia del agua en las ventanas de Piedemonte, se realizaron inmersiones subacuáticas utilizando careta con el fin de detectar especies que habitan debajo o entre las rocas, y en lo posible, se realizó colecta manual de dichas especies (Figura 15.E).
+-	Anzuelos
+Con líneas de nylon de diferentes calibres y utilizando como carnada peces frescos (capturados con red de arrastre), se hicieron jornadas de pesca durante dos horas únicamente en las ventanas de sabana (Figura 19).
+Determinación taxonómica y nomenclatura
+Los ejemplares capturados fueron fotografiados directamente en campo mediante el uso de un acuario ambientado con recursos del lugar, tales como agua, arena, rocas y vegetación del sitio de muestreo. A un ejemplar de algunas especies de interés, se les extrajo una muestra de tejido muscular o aleta para ser depositados en una colección de tejidos para su uso posterior en estudios moleculares, taxonómicos, genéticos o de otra índole. Una vez registrados, los peces fueron anestesiados in situ en solución de benzocaína y posteriormente fijados en solución de formol al 10% (Figura 15.F) en bolsas plásticas de cierre hermético (Zip-Lock), a las cuales se les adicionó una etiqueta de campo con información puntual acerca del sitio de muestreo para su tratamiento en el laboratorio. Tanto los métodos para la toma de muestras de tejidos como de fijación del material colectado, siguieron lo propuesto por Maldonado-Ocampo et al., (2005). Una vez en laboratorio, el material colectado fue lavado mediante cambios sucesivos de agua, luego se separó por morfoespecies (Figura 15.G) y se depositó en frascos de vidrio con solución de etanol al 70% para la determinación taxonómica e inclusión en una colección biológica registrada. La identificación de las especies se realizó en lo posible hasta el nivel de especie usando claves taxonómicas especializadas, descripciones de especies y revisiones taxonómicas de algunos géneros (Schaefer, 1997; Albert, 2001; Taphorn, 2003; Armbruster, 2004; Machado-Allison, 2005; Covain &amp; Fisch-Muller, 2007; Ballen &amp; Mojica, 2014). Las muestras de las ventanas de sabana fueron transportadas al laboratorio de la Pontificia Universidad Javeriana.
+Para la validación de los nombres científicos, se siguió la clasificación de Eschmeyer (2015) donde los órdenes y familias se encuentran en orden sistemático y las especies dentro de cada familia se ordenan alfabéticamente. Además se tuvieron en cuenta modificaciones recientes propuestas para la familia Characidae por Oliveira et al., (2011) y la sistemática general de los peces óseos propuesta por (Betancur-R et al., 2013).
+
+Análisis de datos
+
+-	Esfuerzo de muestreo
+La representatividad del muestreo se estimó empleando el estimador no paramétrico para datos de abundancia ACE y Chao 1, a través del programa EstimateS 9.1 (Colwell, 2005). 
+
+-	Composición, riqueza, abundancia y diversidad 
+Para efectos de comparación y cálculos de diversidad alfa y beta en las ventanas de Piedemonte, se utilizaron los resultados obtenidos mediante la metodología estandarizada de electropesca, comparando 7 puntos de muestreo de cada ventana, mientras que los resultados obtenidos con los demás artes de pesca solo se tuvieron en cuenta para los análisis de composición de especies.
+
+Para cada punto de muestreo se determinó la riqueza (número de especies) y se calcularon los índices de equidad de Shannon (H) y dominancia de Simpson (D) mediante el programa Past®. Para el análisis de la diversidad beta se calculó el índice de Morisita a partir de los datos de abundancia y se construyó un árbol de clúster con este mismo índice en el programa Past®. Todos los datos se analizaron en hojas de cálculo de Microsoft Excel.
+
+Para el análisis de la abundancia por especie, se siguió lo propuesto por Rodríguez-Olarte et al., (2007), en la cual se establecen 4 categorías según su abundancia relativa de la siguiente manera: menor al 1% se consideran especies ocasionales; entre 1 y 2%, frecuentes; entre 2 y 5%, comunes y mayor a 5% especies consideradas como dominantes.
+
+-	Especies amenazadas y objetos de conservación
+Se realizaron encuestas informales con los expertos locales para identificar especies con ocurrencia en los ambientes estudiados, amenazas y posibles cambios históricos en la composición, distribución y tamaños de las especies. Para definir el estatus de amenaza de las especies presentes en el área, se revisó el “Libro rojo de peces dulceacuícolas de Colombia 2012” (Mojica et al., 2012), la Resolución 192 de 2014 del Ministerio de Ambiente y Desarrollo Sostenible, así como las categorías de la UICN en la Web (http://www.iucnredlist.org/). Además, para cada especie se revisó su estatus en los apéndices CITES (http://www.cites.org/esp/app/appendices.php).
+Para determinar los endemismos y la distribución de las especies por subcuencas de la Orinoquia se siguió lo propuesto por (Machado Allison et al., 2010) y la revisión en el Catálogo de peces” (Eschmeyer, 2015). Así mismo, se categorizaron las especies de acuerdo a su uso como ornamental, de consumo, migratoria y se definió el gremio trófico como se describe a continuación:
+•	Especies Ornamentales: las especies con uso ornamental fueron verificadas en Ajiaco-Martínez et al. (2012), Mancera-Rodríguez &amp; Álvarez-León (2008) y en la Resolución 3532, (2007) del INCODER. 
+•	Especies de consumo: se revisó el “Catálogo de los recursos pesqueros continentales de Colombia” de (Lasso et al., 2011), (Lasso et al., 2011) en el cual se incluyen las especies presentes en la Orinoquia colombiana.
+•	Especies migratorias: se revisó el capítulo de peces dulceacuícolas contenido en el “Plan Nacional de especies Migratorias de Colombia” (Usma et al., 2009) y la guía de especies migratorias de Colombia (Zapata &amp; Usma, 2013).
+•	Gremio trófico: las preferencias alimentarias de las especies y los gremios tróficos a los que pertenecen se determinaron mediante revisión de información secundaria. 
+
+
+1.2.1.5. Vegetación
+
+Sitios de muestreo - Piedemonte
+Se efectuó el muestreo en  bosques de siete veredas y cuatro municipios de los departamentos de Casanare y Arauca.
+
+Sitios de muestreo – Sabana
+El trabajo de campo se realizó en las siguientes localidades:
+•	Ventana 1: Incluyó varias localidades en los municipios de Pore (veredas La Plata y Regalito) y una en San Luis de Palenque (cuenca media de la quebrada Guanapalo).
+•	Ventana 2: Esta zona abarcaba localidades tanto en el departamento de Arauca (municipio de Tame) como en Casanare (Municipio de Hato Corozal).
+
+Métodos de muestreo
+
+-	Parcelas Gentry – Ventanas de Piedemonte.
+Se empleó la metodología propuesta por (Gentry, 1982) que consistió en censar, en un área de 0.1 ha, todos los individuos diámetro del tallo a la altura del pecho (DAP medido a 1.3 m desde la superficie del suelo) mayor o igual a 2.5 cm. En cada tipo de bosque se realizaron 10 transectos de 50x2 m. Para brinzales se empleó una modificación de la metodología, la cual consistió en censar individuos de 1-2.5 cm de diámetro en uno de los diez transectos en cada tipo de bosque en cada ventana. A cada individuo censado se le medió el DAP, se estimó su altura, se registró su hábito de crecimiento y todas las características que permitieron su reconocimiento. Se realizaron descripciones de los diferentes estratos verticales con el fin de hacer una aproximación a las características de la vegetación.
+
+
+-	Parcelas de vegetación – Ventanas de sabana.
+Para la estimación de la estructura de la vegetación, dentro de cada sitio de muestreo se realizaron parcelas en cada tipo de cobertura vegetal. Para la vegetación arbórea se siguió la propuesta del Programa Flora del Instituto Amazónico de Investigaciones Científicas Sinchi (Cárdenas et al., 1997), con algunas modificaciones. Se establecieron parcelas de 100 × 10 m (0.1 ha) donde se colectaron todas las plantas con diámetro a la altura del pecho (DAP) &gt;= 10 cm. De cada individuo se registraron el hábito de crecimiento (árboles, arbustos, palmas o lianas), la altura total, la altura del fuste y el DAP. Para el estudio de herbazales y pajonales se realizaron 10 parcelas de 2 × 2 m en cada unidad fisionómica. Dentro de cada parcela se estimó por simple inspección el porcentaje de área cubierta por cada especie, ajustando los valores relativos para obtener un agregado final de 100% (Kent &amp; Coker, 1992).
+
+
+-	Recorridos libres - colecciones generales
+Se realizaron recorridos a lo largo del área de estudio, intentando cubrir la mayor cantidad de paisajes y coberturas vegetales posibles. Durante dichos recorridos se colectaron todas las especies vegetales en estado reproductivo para completar el registro de la composición florística de la localidad de estudio. Igualmente se colectaron algunas especies en estado vegetativo dado que las mismas no fueron registradas dentro de ninguna de las parcelas para el estudio de estructura. También se registraron los agentes bióticos y abióticos que representen alguna clase de amenaza a las especies nativas. Las colecciones generales se realizaron durante todo el tiempo de la fase de campo.
+
+Determinación taxonómica y nomenclatura
+Se colectaron 1–4 muestras de cada especie observada en las parcelas de estructura o en los recorridos. Las muestras fueron fijadas y preservadas en etanol (70%) hasta el posterior procesamiento de laboratorio. Las muestras fueron secadas, etiquetadas e identificadas en el Herbario Nacional Colombiano COL de la Universidad Nacional de Colombia, Bogotá, donde serán depositados con duplicados en el Herbario Medel del Instituto Humboldt. La nomenclatura siguió la empleada en la base de datos del Missouri Botanical Garden (www.tropicos.org), la cual está de acuerdo con el sistema de clasificación APG III.
+
+Análisis de datos
+
+-	Catálogo de las plantas vasculares presentes en el área de estudio
+Se elaboró una lista de especies de plantas vasculares registradas en el área de estudio, que fue obtenida a partir de dos tipos de muestreo: 1) parcelas Gentry modificadas y 2) colecciones generales.  El catálogo incluyó nombres actualizados de acuerdo con las bases de datos del Jardín Botánico de Misouri (www.tropicos.org) The International Plan Names Index (www.ipni.org) y el World Checklist of Selected Plant Families (WCSPF- www.apps.kew.org/wcsp/).
+
+-	Esfuerzo de muestreo
+Para estimar el número de especies esperadas a partir del muestreo y determinar si éste este fue representativo y al mismo tiempo tener una medida de la diversidad α a partir de valores de riqueza extrapolados se emplearon curvas de acumulación de especies que fueron calculadas usando el software R. Se emplearon los métodos no paramétricos a partir de los estimadores Chao 2, Jacknife 1 y 2 y Bootstrap.
+
+-	Composición florística, riqueza y diversidad 
+Se realizó una comparación de los valores de riqueza, diversidad y densidad entre los puntos de muestro en cada ventana y entre las ventanas de muestreo.  Se emplearon los índices directos de diversidad α (Villarreal et al., 2006), los cuales se calcularon usando el Software R versión 3.2:
+a)	Riqueza de especies: es la forma más simple de cuantificar la diversidad alfa y se determina con el número de especies por unidad de muestreo. 
+b)	Rarefacción. Se utiliza en caso de tener muestras de tamaño desigual.  Si se desea compararlas este método calcula el número esperado de especies de cada muestra al reducirlas a un tamaño igual para todas, es decir, reducir el tamaño de la muestra mayor para equipara las con la muestra menor.
+c)  Coleman.  Estima la riqueza de especies por muestra del total de especies.
+
+La diversidad alfa (α) de la comunidad se calculó mediante los índices de equidad de Shannon- Wiener y el índice de dominancia de Simpson.  Para medir la diversidad beta entre hábitats y el grado de reemplazamiento de especies o cambio biótico entre diferentes tipos de bosque en cada ventana de muestreo y entre las ventanas (diversidad β), se empleó el índice de Whitaker.
+
+-	Estructura florística
+A partir de los datos de altura total y DAP de cada árbol censado en las parcelas se calcularon la abundancia (Ar), la frecuencia (Fr), la dominancia (Dr) en sus valores relativos, y en área basal total (ABt) de acuerdo con las siguientes fórmulas (Lamprecht, 1962; Mori et al., 1983).
+•	Ar = (N/Nt)*100, donde N = número de individuos de una especie y Nt = es el número total de individuos.
+•	Fr = (a/A)*100; donde, a = número de apariciones de una determinada especie en las subunidades de muestreo y A= suma de la frecuencia de todas las especies.
+•	Dr = (AB/Abt) x 100; donde AB = área basal de una especie o familia.
+•	ABt = El Área basal se expresa como AB = Pi (D2/4), donde: Pi =constante 3.1416 y D = diámetro a la altura del pecho (DAP).
+
+Usando los valores relativos de abundancia, frecuencia y dominancia se calculó el Índice de Valor de Importancia (IVI), el cual se expresó como: Ar + Dr + Fr.
+
+-	Revisión de literatura
+Para las ventanas de sabana, la búsqueda de registros secundarios de especies vegetales en el departamento del Casanare se concentró en tres fuentes: el Catálogo de Plantas de Colombia (Bernal et al., 2015), el volumen sobre la región Orinoquía de la serie Colombia Diversidad Biótica (Minorta-Cely &amp; Rangel–Ch, 2014) y los Ecosistemas Estratégicos de Casanare (Córdoba-Sánchez et al., 2011). Aunque el objetivo de estas tres publicaciones era presentar la flora de áreas de mayor extensión que el área de estudio del presente proyecto, las tres obras seleccionadas presentan en su conjunto un catálogo bastante detallado de la flora del departamento del Casanare.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Se Siguieron los protocolos, procesos y formatos de calidad con los que cuenta la fundación, así como los exigidos por el IAvH.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Conservación de Especies amanzadas en el área de influencia del Oleoducto Bicentenario</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Miguel Eduardo</givenName>
+                    <surName>Rodríguez Posada</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Convenio de cooperación 15-14-172-010CE entre Instituto de Investigaciones Alexander von Humboldt y la Fundación Reserva Natural La Palmita Centro de Investigación. Con recursos del Oleducto Bicentenario y recursos propios de la Fundación.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Se seleccionaron 4 ventanas de trabajo cada una de 1:25.000. Dos corresponden a la cuenca del río Casanare, una ubicada en el piedemonte en el municipio de Tame - Arauca y otra hacia las sabanas inundables entre el municipio de Tame - Arauca y el en el municipio de Hato Corozal - Casanare. Las otras dos ventanas corresponden a la cuenca del río Pauto, una en el pidemonte en el municipio de Tamara y la otra en sabanas ubicado en los municipio de Pore, San Luis de Palenque y Trinidad todas del departamento de Casanare.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Este proyecto contemplo realizar unas caracterizaciones de los grupos principales de vertebrados así como de plantas en 4 ventanas seleccionadas por el IAvH, así como una caracterización social e identificación de los usos de los recursos naturales y de los servicios ecosistémicos existentes en el área de estudio. Para esto se contó con 20 profesionales expertos en cada uno de los grupos taxonómicos estudiados y un equipo de 9 sociales.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:49Z</dateStamp>
+                <citation identifier="http://doi.org/10.15472/sftwc4">Mora C (2019). Caracterización biótica para la conservación de especies amenazadas en el área de influencia del Oleoducto Bicentenario, departamentos de Arauca y Casanare, Colombia. Version 1.2. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/sftwc4 accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Abell, R., Thieme, M. L., Revenga, C., Bryer, M., Kottelat, M. &amp; Bogutskaya, N. 2008. Freshwater ecoregions of the world: a new map of biogeographic units for freshwater biodiversity conservation. BioScience. 58(5): 403-414.</citation>
+                <citation>Acevedo-Charry O A. 2012. Caracterización ornitológica de rio Tame, zona de amortiguación del Parque Nacional Natural El Cocuy (Tame, Arauca, Colombia). Resumen de Tesis. Ornitología Colombiana. 12:69.</citation>
+                <citation>Acevedo-Charry O A., Pinto –Gómez A., &amp; J O Rangel –Ch. 2014. Las Aves de la Orinoquia colombiana: una revisión de sus registros. Colombia Diversidad Biótica. XIV: Aves de la Orinoquia. Instituto de Ciencias Naturales, Bogotá D.C., Colombia</citation>
+                <citation>Acevedo-Charry, O. A. 2013. Caracterización ornitológica del Río Tame, zona de amortiguación del Parque Nacional Natural El Cocuy (Tame, Arauca, Colombia). Ornitología Colombiana 12 (Resumen de Tesis): 69.</citation>
+                <citation>Acosta Galvis, A. R. 2015. Lista de los Anfibios de Colombia: Referencia en línea V.05.2015.0 (octubre 10 de 2015). Página web accesible en http://www.batrachia.com; Batrachia, Villa de Leyva, Boyacá, Colombia.</citation>
+                <citation>Acosta-G., A. R. &amp; Alfaro-B. J. P. 2011. Anfibios del Casanare, pp. 139-151. En: J. S. Usma &amp; F. Trujillo (eds). Biodiversidad del Casanare: ecosistemas estratégicos del departamento, Gobernación de Casanare-WWF Colombia, Bogotá D.C</citation>
+                <citation>Acosta-G., A. R., J. C. Señaris, F. Rojas-R. &amp; D. R. Riaño-P. 2010. Anfibios y reptiles, pp. 258-289. En Lasso, C. A., J. S. Usma, F. Trujillo &amp; Rial A. Biodiversidad de la cuenca del Orinoco: bases científicas para la identificación de áreas prioritarias para la conservación y uso sostenible de la biodiversidad, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, WWF Colombia, Fundación Omacha, Fundación La Salle e Instituto de Estudios de la Orinoquia (Universidad Nacional de Colombia), Bogotá D. C.</citation>
+                <citation>Acosta-Galvis, A.R. &amp; J. P. Alfaro-Bejarano. 2011. Anfibios del Casanare. Pp. 82-101.En: Usma, J.S. &amp; F. Trujillo (Eds.). 2011. Biodiversidad del Casanare: Ecosistemas Estratégicos del Departamento. Gobernación de Casanare - WWF Colombia. Bogotá. D.C.</citation>
+                <citation>Acosta-Galvis, A.R. 2000. Ranas, Salamandras y Caecilias (Tetrapoda: Amphibia) de Colombia. Biota Colombiana: 289-319.</citation>
+                <citation>Ajiaco-Martínez, R. E., Ramírez-Gil, H. Sánchez-Duarte, P. Lasso, C.A. &amp; Trujillo, F. (Eds.). 2012. IV. Diagnóstico de la pesca ornamental en Colombia. Serie Editorial Recursos Hidrobiológicos y Pesqueros Continentales de Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá, D.C., Colombia. 152 pp.</citation>
+                <citation>Alberico, M. 1982. La medición de diversidad biológica. Cespedesia 3: 21-30.</citation>
+                <citation>Alberico, M., A. Cadena, J. Hernández-Camacho &amp; Y. Muñoz Saba. 2000. Mamíferos (Synapsida: Therida) de Colombia. Biota Colombiana 1(1):43-75.</citation>
+                <citation>Albert, J. 2000. Species diversity and phylogenetic systematics of American knifefishes (Gymnotiformes, Teleostei). Michigan. Miscellaneous Publications Museum of Zoology University of Michigan. Vol. 190: 1-127.</citation>
+                <citation>Albert, J. S. &amp; Reis, R. E. (Eds.). 2011. Historical Biogeography of Neotropical Freshwater Fishes. Primera edición.; University of California Press: Berkeley, CA. 388 pp.</citation>
+                <citation>Aldana-Domínguez, J., M.I. Vieira-Muñoz &amp; D. C. Ángel-Escobar. 2006. Estudios sobre la ecología del chigüiro (Hydrochoerus hydrochaerys), enfocados a su manejo y uso sostenible en Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá.</citation>
+                <citation>Aldridge, H. D. J. N &amp; I. L. Rautenbach. 1987. Morphology, Echolocation and Resource Partitioning in Insectivorous Bats. Journal of Animal Ecology 56: 763-778.</citation>
+                <citation>Alfaro, J. P., Acosta-Galvis A. R., Vejarano M. 2011. Reptiles del Casanare, pp. 82-101 y 152-167. En Usma, J. S., Trujillo F. Biodiversidad del Casanare: ecosistemas estratégicos del departamento, Gobernación de Casanare-WWF Colombia, Bogotá D.C.</citation>
+                <citation>Alvira, C &amp; A. Viña. 1999. Plantas leñosas del piedemonte de la Cordillera Oriental en el departamento del Casanare (Orinoquia Colombiana). Environmental and Conservation Programs The Field Museum Chicago, IL. USA.</citation>
+                <citation>Alvira, D., J. Cavelier &amp; J. Saldarriaga. 1997. Estructura y composición florística de cuatro estadios sucesionales de bosque húmedo tropical en el piedemonte llanero. Pag.34 en: G. Kattan (ed.), Resúmenes del Primer Congreso de Biología de la Conservación y Tercer Simposio sobre Biodiversidad y Conservación de Ecosistemas de Montaña. Editorial Feriva. Cali.</citation>
+                <citation>Alvizu, P. E., &amp; M. Aguilera. 1998. Uso del espacio de Marmosa robinsoni (Didelphidae : Marsupialia) en una zona xerófila de los andes venezolano. Ecotropicos 11:81–92.</citation>
+                <citation>Amor-Conde, D., F. Colchero, E. Huerta, C. Manterola, E. Pallares, A. Rivera &amp; A. Soler. 2011. El jaguar como elemento estratégico para la conservación. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad. México D. F. 128pp.</citation>
+                <citation identifier="http://amphibiaweb.org/.">Amphibia Web: Information on amphibian biology and conservation. [web application]. 2015. Berkeley, California: AmphibiaWeb. Available: http://amphibiaweb.org/.</citation>
+                <citation>Andrade-C, M. G. 2011. Estado del conocimiento de la biodiversidad en Colombia y sus amenazas. Consideraciones para fortalecer la interacción ciencia-política. Revista - Academia Colombiana de Ciencias Exactas: Medio Ambiente. 35 (137) 491-507.</citation>
+                <citation>Angarita- Sierra T., Ospina-Sarria J., Anganoy-Criollo M., Pedroza-Banda R., Lynch J.D. 2013. Guía de campo de los Anfibios y Reptiles del departamento de Casanare (Colombia). Serie Biodiversidad para la Sociedad No. 2. Universidad Nacional de Colombia, Sede Orinoquia; YOLUKA ONG, Fundación de Investigación en Biodiversidad y Conservación. Bogotá-Arauca.</citation>
+                <citation>Angarita Sierra, T., J. J. Ospina-Sarria, M. Anganoy-Criollo, R. Pedroza-Banda, J. D. Lynch (Eds). 2012. Guía de campo de los Anfibios y Reptiles del departamento de Casanare (Colombia). Arauca: Universidad Nacional de Colombia, Sede Orinoquia; Bogotá: YOLUKA ONG, Fundación de Investigación en Biodiversidad y Conservación.</citation>
+                <citation>Angulo, A., J.V. Rueda-Almonacid, J.V. Rodriguez-Mahecha &amp; E. La Marca (Eds). 2006. Técnicas de inventario y monitoreo para los anfibios de la región tropical andina. Conservación Internacional. Serie manuales de campo No 2. Panamericana Formas e Impresos S. A., Bogotá D.C. 298 pp.</citation>
+                <citation>Arévalo. 2001. manual de campo para el monitoreo de mamíferos terrestres en áreas de conservación. Asociación Conservacionista de Monteverde</citation>
+                <citation>Armas Mendoza, E. 2007. Levantamiento preliminar de medianos y grandes mamíferos no voladores en dos localidades del municipio de Arauca (Colombia). Tesis de pregrado. Universidad Nacional de Colombia, Sede Orinoquia, Arauca, Colombia. pp 27.</citation>
+                <citation>Armenteras, D., Romero, M.  &amp; G. Galindo. 2005. Vegetación fire in the savannas of the llanos orientales of Colombia. World resource Review. 17(4):628-647.</citation>
+                <citation>Arrington, D. A. &amp; Winemiller, K. O. 2006. Habitat affinity, the seasonal flood pulse, and community assembly in the littoral zone of a Neotropical floodplain river. Journal of the North American Benthological Society. 25(1):126-141.</citation>
+                <citation>Asociación para el estudio y conservación de las aves acuáticas en Colombia. Calidris. 2014. Aves Acuáticas de la llanura inundable del Meta y Casanare. Asociación para el estudio y Conservación de las Aves Acuáticas en Colombia, Santiago de Cali, Colombia, 32 p.</citation>
+                <citation>Asociación para el estudio y conservación de las aves acuáticas en Colombia. Calidris. 2015. Designación de las primeras Áreas Importantes para la Conservación de las Aves en Casanare. Mayo 2015. Boletín. 2p.</citation>
+                <citation>Asso, C. &amp; A. Machado-Allison. 2000. Sinopsis de las Especies de Peces de la Familia Cichlidae presentes en la Cuenca del Río Orinoco: claves, ddiagnosis, aspectos bio-ecológicos e ilustraciones. Serie Peces de Venezuela. Universidad Central de Venezuela. Museo de Biología. 150p + ilustraciones. Caracas. ISBN:980-6020-33-2</citation>
+                <citation>Avendaño, J. E. 2012. La avifauna de las tierras bajas del Catatumbo, Colombia: inventario preliminar y ampliaciones de rango. Boletín de la Sociedad Antioqueña de Ornitología 21 (1): evAP3_2012 1-14.</citation>
+                <citation>Ballen, G. A. 2011. A new species of Chaetostoma Tschudi (Siluriformes: Loricariidae) from Colombia with a definition of the C. anale species group. Papéis Avulsos de Zoologia. 51(26):383-398.</citation>
+                <citation>Ballen, G.A. &amp; J.I. Mojica, 2014. A new trans-Andeak stick catfish of the genus Farlowella Eigenmann &amp; Eigenmann, 1889 (Siluriformes: Loricariidae) with the first record of the genus for the río Magdalena basin in Colombia. Zootaxa. 3765(2):134-142.</citation>
+                <citation>Bejarano-Bonilla, D. A., A. Yate-Rivas, &amp; M. H. Bernal-Bautista. 2007. Diversidad y distribución de la fauna quiróptera en un transecto altitudinal en el departamento del Tolima, Colombia. Caldasia 29:297–308.</citation>
+                <citation identifier="http://catalogoplantasdecolombia.unal.edu.co/">Bernal, R., S.R. Gradstein &amp; M. Celis (eds.). 2015. Catálogo de plantas y líquenes de Colombia. Instituto de Ciencias Naturales, Universidad Nacional de Colombia, Bogotá. http://catalogoplantasdecolombia.unal.edu.co/ [Consultado el 2015-06-19 y 2015-10-10].</citation>
+                <citation>Betancur­R, R., Broughton, RE., Wiley, EO., Carpenter, K., López, J.A., Li, C., Holcroft, NI., Arcila, D., Sanciangco, M., Cureton, II JC, Zhang, F., Buser, T., Campbell, M.A., Ballesteros, J.A., Roa­Varon, A., Willis, S., Borden, W.C., Rowley, T., Reneau, P.C., Hough, D.J., Lu, G., Grande, T., Arratia, G. &amp; Ortí, G. 2013. The Tree of Life and a New Classification of Bony Fishes. PLOS Currents Tree of Life. Apr 18. Edition 1. doi: 10.1371/currents.tol.53ba26640df0ccaee75bb165c8c26288.</citation>
+                <citation identifier="http://www.deepfin.org/Classification_v3.htm">Betancur-R, R., Wiley, E., Bailly, N., Miya, M., Lecointre, G. &amp; Ortí, G. 2014. Phylogenetic Classification of Bony Fishes. Version 3 (http://www.deepfin.org/Classification_v3.htm).</citation>
+                <citation identifier="http://www.ecosystemservicesproject.org/">Binning C., S. Cork, R. Parry, y D.S. Shelton. 2001. Natural assets: An inventory of ecosystem goods and services in the Goulburn Broken Catchment. (CSIRO: Canberra). http://www.ecosystemservicesproject.org/.</citation>
+                <citation>Bogotá-Gregory, J.D. &amp; Maldonado-Ocampo, J.A. 2005. La colección de peces del Instituto Alexander von Humboldt. Nuevos registros y representatividad. Parte I: Orinoquia. Dahlia. 8:29-37.</citation>
+                <citation>Bohórquez, C. I. 2002. La avifauna de la vertiente oriental de los Andes de Colombia. Tres evaluaciones en elevación subtropical. Revista de la Academia Colombiana de Ciencias Naturales y Exactas. 26 (100): 419-442.</citation>
+                <citation>Cáceres-Andrade, S.P. &amp; J. N. Urbina-Cardona. 2009. Ensamblajes de anuros de sistemas productivos y bosques en el piedemonte llanero, departamento del Meta, Colombia. Caldasia. 31(1):175-194.</citation>
+                <citation>Cala P. 1977. Los peces de la Orinoquía colombiana: Lista preliminar anotada. Acta Zool Col. 24:1-24.</citation>
+                <citation>Carantón- Ayala, D. 2014. Componente Aves. En: Programa de diagnóstico y monitoreo de vida silvestre del bloque de explotación petrolera llanos 20 para la evaluación de su integridad ecológica. Reserva Natural La Palmita Centro de Investigación. Informe técnico. No publicado.</citation>
+                <citation>Cárdenas, D., Giraldo, D., &amp; Arias, C. (1997). Vegetación. En Zonificación ambiental para el plan modelo Colombo-Brasilero (eje Apaporis-Tabatinga), pp 185-228. Bogotá, Colombia.</citation>
+                <citation>Carvajal-Quintero, J. D., Maldonado-Ocampo, J. A., &amp; Urbano-Bonilla, A. 2015. Climbing behavior of Cordylancistrus sp. in the Colombian Andes. Universitas Scientiarum. 20(2):209-215.</citation>
+                <citation>Casas, L. 2009. Flora. en: Ramírez et al. Informe final: Establecimiento de la composición biológica y estructura ecológica de la laguna que conforma el humedal “Laguna El Tinije”, que permitan conocer su dinámica, estructura y funcionalidad tendiente a su postulación como área Ramsar. Gobernación de Casanare y Asociación de Becarios de Casanare -ABC.</citation>
+                <citation>Chaparro-Herrera, S. Echeverry-Galvis M. A., Cordoba-Cordoba, S. &amp; Sua-Becerra, A. 2014. Listado actualizado de las aves endémicas y casi endémicas de Colombia. Biota Colombiana. 14: 113-150.</citation>
+                <citation>Córdoba, M. 2004. Listado de especies del Humedal artificial de Wisirare y humedales aledaños de Casanare. Documento Inédito realizado dentro del proyecto de caracterización de los humedales del Casanare.</citation>
+                <citation>Córdoba-Sánchez, M. P., Miranda-Cortes, L. M., Ávila Avilán, C., &amp; Pérez-Rojas, C. 2011. Flora del Casanare. En Usma, J. S. &amp; Trujillo, F., editores, Biodiversidad del Casanare: Ecosistemas Estratégicos del Departamento, pp 82-101. Gobernación del Casanare - WWF Colombia, Bogotá, Colombia.</citation>
+                <citation>Cortés-Millán. G., Camargo M., Zamudio J. &amp; Urbano- Bonilla A. 2009. Caracterización trófica de la comunidad íctica asociada a un ecosistema de morichal de Pore (Casanare), Colombia. Actualidades Biológicas. Volumen 31(Supl. especial 1): 96.</citation>
+                <citation>De Santana C. D., J. A. Maldonado-Ocampo &amp; W. G. R. Crampton. (2007). Apteronotus galvisi, a new species of electric ghost knifefish from the Río Meta basin, Colombia (Gymnotiformes: Apteronotidae). Ichthyological Exploration of Freshwaters. 18 (2): 117-124.</citation>
+                <citation>Defler. T. &amp; J.V. Rodríguez. 1998. La fauna de la Orinoquia. En: Fajardo, D.; C. Domínguez, J. Molano, O. Rangel, T. Defler, J.V. Rodríguez, I. Cavelier, A. Gómez, H. Publio, G. Barona, M. Mejía, M.E. Romero, H.L. Díaz, O. Aguilar, C. Galeano y L. Pérez. 1998. Colombia Orinoco. Editorial del Fondo FEN, Bogotá. 324pp</citation>
+                <citation>Diaz-Pulido, A., L. M. Mesa-S, M. F. Gonzáles, J. Barriga &amp; O. L. Hernández-Manrique. 2014. Identificación de áreas de estudio y biodiversidad regional. Pp. 69-161. En. Gonzáles, M. F., A. A. Diaz-Pulido, L. M. Mesa, G. Corzo, M. Portocarrero-Aya, C. Lasso, M. E. Chaves &amp; M. Santamaría (Eds). 2015. Catálogo de biodiversidad de la región orinoquense. Proyecto planeación ambiental para la conservación de la biodiversidad en las áreas operativas de Ecopetrol. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt-Ecopetrol S.A. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá D. C.    408 p.</citation>
+                <citation identifier="http://www.ebird.org">E-Bird. 2012. Una base de datos en línea para la abundancia y distribución de las aves E-Bird, Ithaca, New York. Disponible: http://www.ebird.org. (Accedido: 20 octubre 2015).</citation>
+                <citation>Eisenberg, J. F., &amp; K. H. Redford. 1999. Mammals of the Neotropics: The Central Neotropics. The University of Chicago Press, Chicago.</citation>
+                <citation>Emmons, L.H. &amp; F. Feer. 1997. Neotropical Rainforest Mammals: A Field Guide. Chicago: The University of Chicago Press. 307 pp.</citation>
+                <citation>Estrada, A., &amp; R. Coates-Estrada. 2002. Bats in continuous forest, forest fragments and in an agricultural mosaic habitat-island at Los Tuxtlas, MÈxico. Biological Conservation 103:237–245.</citation>
+                <citation>Estrada-Villegas, S. &amp; B. H. Ramírez. 2013. Bats of Casanare. Chiroptera Neotropical. 19(3): 1-13.</citation>
+                <citation>Fajardo, D., C. Dominguez, J. Molano, O. Rancel, T. Defler, &amp; J. V. Rodríguez-Mahecha. 1998. Colombia Orinoco. Fondo FEN de Colombia editor. Bogota.</citation>
+                <citation>Feinsinger, P. 2004. Diseño de estudios de campo para la conservación de la biodiversidad. FAN (Fundación Amigos de la Naturaleza), Bolivia.</citation>
+                <citation>Ferrer-Pérez, A., M. Beltrán, A. P. Díaz-Pulido, F. Trujillo, H. Mantilla-Meluk, O. Herrera, A. F. Alfonso &amp; E. Payán. 2009. Lista de los mamíferos de la cuenca del Río Orinoco. Biota Colombiana. 10: 179-207.</citation>
+                <citation identifier=" http://research.amnh.org/herpetology/amphibia/index">Frost, Darrel R. 2015. Amphibian Species of the World: an Online Reference. Version 6.0 (Date of access). Electronic Database accessible at  http://research.amnh.org/herpetology/amphibia/index.html. American Museum of Natural History, New York, USA.</citation>
+                <citation>Fundación Orinoquia biodiversa - FOB y Alcaldía de Tame. 2011. Identificación Para El Manejo Y Aprovechamiento Ambiental De Dos Ecosistemas De Morichal La Itibana Y Gualabao En El Municipio De Tame, Arauca.</citation>
+                <citation>Galeano, G. &amp; Bernal, R. 2005. Palmas. En Calderón, E., Galeano, G., &amp; García, N., Editores, Libro Rojo de Plantas de Colombia. Volumen 2: Palmas, Frailejones y Zamias, Libros Rojos de Especies Amenazadas de Colombia, pp 59-224. Instituto Alexander von Humboldt – Instituto de Ciencias Naturales de la Universidad Nacional de Colombia - Ministerio de Ambiente, Vivienda y Desarrollo Territorial, Bogotá, Colombia</citation>
+                <citation>Galvis G., J. I. Mojica, F. Provenzano, C. Lasso, D. Taphorn, R. Royero, C. Castellanos, A. Gutiérrez, M. A. Gutiérrez, López, L. Mesa, P. Sánchez, &amp; C. Cipamocha. 2007. Peces de la Orinoquia colombiana con énfasis en especies de interés ornamental. A. I. Sanabria-Ochoa, P. Victoria- Daza, I. C. Beltrán (eds.). Ministerio de Agricultura y Desarrollo Rural, INCODER, Universidad Nacional de Colombia - Departamento de Biología - Instituto de Ciencias Naturales. Bogotá, Colombia, 425 pp.</citation>
+                <citation>González M.F., Díaz-Pulido A., Mesa L.M., Corzo G., Portocarrero-Aya M., Lazzo C., Chaves M.E., &amp; M. Santamaría (Eds). 2015. Catálogo de biodiversidad de la región orinoquense. Volumen 1. Serie Planeación ambiental para la conservación de la biodiversidad en áreas operativas de Ecopetrol. Proyecto Planeación ambiental para la conservación de la biodiversidad en las áreas operativas de Ecopetrol. Instituto de Investigaciones de Recursos Biológicos Alexander von Humboldt – Ecopetrol S.S. Bogotá. D.C., Colombia. 408p.</citation>
+                <citation>Haines-Young, R., and Potschin. 2009. Methodologies for defining and assessing ecosystem services. Nottingham.</citation>
+                <citation>Hair, J. 1987. Medida de la diversidad ecológica, Pags.283-289 en: R. Rodríguez Tarrés (ed.), Manual de Técnicas de Gestión de la Vida Silvestre. The Wildlife Society, Bethesda.</citation>
+                <citation>Hernández J., A. Cadena, O. Castaño, G. Nates &amp; D. Castro. 1984. Diagnóstico preliminar sobre el estado actual de conocimiento acerca de la Ecología, Fauna y Flora de la Orinoquia colombiana. Pp. 33-43. En: Encuentro nacional de investigadores sobre la Orinoquia. Serie Eventos Científicos Colombianos No. 12. Editorial Guadalupe Ltda. Bogotá - Colombia.</citation>
+                <citation>Hernández-Camacho J. 1994. Sabanas Naturales de Colombia. Banco de Occidente-Credencial. Santiago de Cali. Colombia. 207p.</citation>
+                <citation>Hilty, S. L. &amp; Brown, W. L. 1986. A Guide to the Birds of Colombia. Princeton University Press. New Jersey. 996 p.</citation>
+                <citation>Hoffmann, A., J. Decher, F. Rovero, J. Schaer, C. Voigt &amp; G. Wibbelt. 2010. Field Methods and Techniques for Monitoring Mammals. Pp. 482-529, en: Eymann, J., J. Degreef, Ch. Häuser, J.C. Monje, Y. Samyn &amp; D. VandenSpiegel (eds). Manual on field recording techniques and protocols for All Taxa Biodiversity Inventories and Monitoring (ATBIs). AbtTaxa. 8 (2).</citation>
+                <citation identifier="http://i2d.humboldt.org.co/ceiba/resource.do?r=fauna_tame_arauca_2013. ">Instituto de Investigación de Recursos Biológicos Alexander von Humboldt &amp; Fundación Yoluka. 2013. Fauna del piedemonte araucano, municipio de Tame, Arauca. &lt;http://i2d.humboldt.org.co/ceiba/resource.do?r=fauna_tame_arauca_2013. Versión 7 [actualizado el 03/09/2015]&gt;.</citation>
+                <citation identifier="http://ipt.sibcolombia.net/iavh/resource.do?r=riqueza-lipa">Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y Fundación Orinoquia Biodiversa. 2013. Flora y fauna de la región del Lipa, Arauca. 675 registros, Aportados por Castro F, Díaz-Pulido A, Galvis G, González MF, Mesa L, Mijares F, Ortíz L, Quinche C, Ruíz JM, Villanueva M, En línea: http://ipt.sibcolombia.net/iavh/resource.do?r=riqueza-lipa, publicado el 18/09/2013.</citation>
+                <citation>Karr, J. R., &amp; Chu, E. W. 1997. Biological monitoring: essential foundation for ecological risk assessment.</citation>
+                <citation>Lasso C., J. I. Mojica, J. S. Usma, J. A. Maldonado-Ocampo, C. Donacimiento, D. Taphorn, F. Provenzano, O. Lasso-Alcalá, G. Galvis, L. Vásquez, M. Lugo, A. Machado-Allison, R. Royero, C. Suárez, A. Ortega-Lara. 2004. Peces de la cuenca del río Orinoco. Parte I: Lista de especies y distribución por subcuencas. Biota Colombiana. 5 (2): 95-158.</citation>
+                <citation>Lasso, C. A., M. Morales-Betancourt &amp; P. Sánchez-Duarte. 2011a. Capítulo 5. Pp: 57-67. En: Lasso, C. A., E. Agudelo Córdoba, L. F. Jiménez-Segura, H. Ramírez-Gil, M. A. Morales- Betancourt, R. E. Ajiaco-Martínez, F. De Paula Gutiérrez, J. S. Usma-Oviedo, S. E. Muñoz Torres Y A. I. Sanabria Ochoa (Eds.). Catálogo de los recursos pesqueros continentales de Colombia. I. Serie Editorial Recursos Hidrobiológicos y Pesqueros Continentales de Colombia.Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). Bogotá, D. C., Colombia.</citation>
+                <citation>Lasso, C. A.; Rial, A.; Matallana, C.; Ramírez, W.; Señaris, J.; DíazPulido, A.; Corzo, G. &amp; Machado-Allison, A. (Eds.). 2011b. Biodiversidad de la cuenca del Orinoco. II Áreas prioritarias para la conservación y uso sostenible. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Ministerio del Ambiente, Vivienda y Desarrollo Territorial, WWF Colombia, Fundación Omacha, Fundación La Salle de Ciencias Naturales e Instituto de Estudios de la Orinoquia (Universidad Nacional de Colombia). Bogotá, D.C., Colombia. 304 pp.</citation>
+                <citation>Lasso, C., Mojica, J., Usma, J., Maldonado-Ocampo, J., DoNascimiento, C., Taphorn, D., Provenzano, F., Lasso-Alcalá, O., Galvis, G., Vasquez, L., Lugo, M. Machado-Allison, A., Royero, R., Suárez, C. &amp; Ortega-Lara A. 2004. Peces de la cuenca del río Orinoco. Parte I: lista de especies y distribución por subcuencas. Biota Colombiana, 5 (2): 95–158.</citation>
+                <citation>León-Sicard, T. 2011. Mamíferos, Reptiles y ecosistemas del Bloque Cubiro (Casanare): Educación Ambiental para la Conservación. Universidad Nacional de Colombia y Alange Energy Corp. Bogotá D.C. 426pp.</citation>
+                <citation>Londoño-Burbano, A., C. Román-Valencia &amp; D. C. Taphorn. 2011. Taxonomic review of Colombian Parodon (Characiformes: Parodontidae), with description of three new species. Neotropical Ichthyology. 9: 709-730.</citation>
+                <citation>López-Arévalo, H. F., P. Sánchez-Palomino &amp; O. L. Montenegro. 2014. El chigüiro Hydrochoerus hydrochaeris en la Orinoquía colombiana: Ecología, manejo sostenible y conservación. Biblioteca José Jerónimo Triana No. 25, Instituto de Ciencia Naturales, Facultad de Ciencia, Universidad de Colombia, Bogotá. 438 pp.</citation>
+                <citation>López-Ordóñez J P., Marín O H y C Alfonso. 2013. Aves. 114 – 199p. En: Mora-Fernández C y Peñuela- Recio L. (Eds). 2013. Guía de campo. Fauna y flora de la sabana inundable asociada a la cuenca del río Pauto, Casanare (Colombia). Serie Biodiversidad para la Sociedad No 3. Yoluka ONG, Fundación de investigación en biodiversidad y conservación, Fundación Horizonte Verde y Ecopetrol S. A. 350pp.</citation>
+                <citation>Machado-Allison, A. 2005. Los Peces del Llano de Venezuela: Un Ensayo Sobre Historia Natural. 3ra. Ed. Consejo de Desarrollo Científico y Humanístico (UCV). Editorial Torino. Caracas. 222 p.</citation>
+                <citation>Machado-Allison, A., C. A. Lasso, J. S. Usma, P. Sánchez- Duarte &amp; O. M. Lasso-Alcalá. 2010. Peces. Capítulo 7. Pp: 217-257. En: Lasso, C. A., J. S. Usma, F. Trujillo Y A. Rial (Eds.). Biodiversidad de la cuenca del Orinoco: bases científicas para la identificación de áreas prioritarias para la conservación y uso sostenible de la biodiversidad. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, WWF Colombia, Fundación Omacha, Fundación La Salle e Instituto de Estudios de la Orinoquia (Universidad Nacional de Colombia). Bogotá, D.C., Colombia recursos pesqueros continentales de Colombia. Serie Editorial Recursos Hidrobiológicos y Pesqueros Continentales de Colombia Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). Bogotá: Ediciones Ochoa. 715 p.</citation>
+                <citation>Maldonado-Ocampo J. A. 2004. Peces de la Orinoquia Colombiana: una aproximación a su estado actual de conocimiento. pp. 303-368. En: C. Diazgranados y F. Trujillo (eds). Fauna Acuática en la Orinoquia Colombiana. Instituto de estudios Ambientales para el Desarrollo; Departamento de Ecología y Territorio. Pontificia Universidad Javeriana.</citation>
+                <citation>Maldonado-Ocampo, J. A., A. Urbano-Bonilla, J. V. Preciado y J. D. Bogotá-Gregory. 2013. Peces de la cuenca del río Pauto, Orinoquia colombiana. Biota Colombiana. 14(2): 114-137.</citation>
+                <citation>Mantilla-Meluk, H., A. M. Jiménez-Ortega &amp; R. J. Baker. 2009. Phyllostomid bats of Colombia: annotated chekclist, ditribution, and biogeography. Special Publications, Museum of Texas Tech University. 56: 1-44.</citation>
+                <citation>Mojica, J.I, Usma, J.S. &amp; Lasso, C. (Eds). 2012. Libro Rojo de Peces Dulceacuícolas de Colombia-2012. La serie de Libros Rojos de especies amenazadas de Colombia. Bogotá, D.C. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Instituto de Ciencias Naturales de la Universidad Nacional de Colombia, WWF Colombia y Universidad de Manizales Bogotá, D. C., Colombia, 319 p.</citation>
+                <citation>Mora-Fernández C., &amp; L. Peñuela-Recio.(Eds.). 2013. Guía de campo. Flora y fauna de las sabanas inundables asociadas a la cuenca del río Pauto, Casanare, Colombia. Serie Biodiversidad para la Sociedad No. 3. Yoluka ONG, fundación de investigación en biodiversidad y conservación, Fundación Horizonte Verde y Ecopetrol S.A.</citation>
+                <citation>Mora-Fernández, C. &amp; L. Peñuela-Recio (eds). 2013. Salud Ecosistémica de las Sabanas Inundables asociadas a la cuenca del río Pauto, Casanare, Colombia. Yoluka ONG, fundación de investigación en biodiversidad y conservación, Fundación Horizonte Verde y Ecopetrol S. A. 150 pp.</citation>
+                <citation>Mora-Fernández, C. 2009. Diversidad de pequeños mamíferos terrestres en bosques de tierras bajas en el municipio de Trinidad departamento de Casanare, Colombia. Tesis de pregrado. Universidad Nacional de Colombia.</citation>
+                <citation>Moratelli, R., A. L. Gardner, J. A. D. E. Oliveira, &amp; D. O. N. E. Wilson. 2013. Review of Myotis (Chiroptera, Vespertilionidae) from northern South America, including description of a new species. American museum novitates. 1–36.</citation>
+                <citation>Murillo Pacheco, J. 2006. Pp 18-20. Estado del conocimiento de las aves playeras en los Llanos Orientales de Colombia. En: Johnston-González, R., L. F. Castillo y J. Murillo (Eds). Conocimiento y Conservación de Aves Playeras en Colombia. 2006. Asociación Calidris. Cali. Colombia 29 pp.</citation>
+                <citation>Murillo, J. I. 2005. Evaluación de la distribución y estado actual de los registros ornitológicos de los llanos orientales de Colombia. Bachelor thesis. Universidad de Nariño</citation>
+                <citation>Naranjo Arcila, A. 2011. Conocimiento y uso local asociado a la avifauna de los humedales de Piñalito, Wisirare, Malvinas y Sabanales en Orocué, Casanare (Colombia). Trabajo de grado para optar al título de Ecóloga. Pontificia Universidad Javeriana. Bogotá. 117 pp.</citation>
+                <citation>Olivares, A. 1971. Aves de la ladera oriental de los Andes orientales, alto río Cusiana, Boyacá, Colombia. Caldasia. 11 (51): 203-226</citation>
+                <citation>Olivares, A. 1982. Aves de la Orinoquia colombiana. Instituto de Ciencias Naturales. Ornitología, Imprenta Nacional. Bogotá D.C. 83pp.</citation>
+                <citation>Orinoquia Biodiversa. 2011. Identificación para el manejo y aprovechamiento ambiental de dos ecosistemas de morichal la Itibana y Gualabao en el municipio de Tame, Arauca. Convenio de interés público 028 de 2011. pp 146.</citation>
+                <citation>Ortiz, D. J. 2015. Documento técnico de soporte ambiental para solicitar al ministerio de minas y energía medidas de protección del ambiente, el desarrollo económico, social, cultural y de salud de la población del municipio de Chameza frente a posibles afectaciones derivadas. Chameza.</citation>
+                <citation>Pardo, A., &amp; O. J. Rangel-CH. 2014. Mamíferos de la Orinoquía de Colombia. Page 2014 En A. Pardo &amp; O. J. Rangel-CH, editores. Colombia Diversidad Biótica XIV: La región de la Orinoquia de Colombia. Universidad Nacional de Colombia, Bogotá D.C.</citation>
+                <citation>Pedroza-Banda, R. J. J. Ospina-Sarria, T. Angarita-Sierra, M. Anganoy-Criollo, &amp; J. D. Lynch. 2014. Estado del conocimiento de la fauna de anfibios y reptiles del departamento de Casanare, Colombia. Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales. 38(146): 17-34.</citation>
+                <citation>Peñuela, L., Castro, F &amp; N. Ocampo – Peñuela. 2011. Las Reservas Naturales del Nodo Orinoquia en su rol de conservación de la biodiversidad. Fundación Horizonte Verde y Resntarur. Colombia. 104p.</citation>
+                <citation>Pérez, E. M. &amp; J. Ojasti. 1996. Utilización de fauna silvestre en américa tropical y recomendaciones para su manejo sustentable. Ecotropicos. 9: 71-82.</citation>
+                <citation>Pérez, K. E., F. J. Mijares, L. Upegui, A. Arana, P. Jiménez, and David Vargas. 2011. Identificación para el manejo y aprovechamiento ambiental de dos ecosistemas de morichal la Itibana y Gualabao en el municipio de Tame, Arauca. Tame.</citation>
+                <citation>Pinzón-Pérez L., Castellanos-Castro C., Cardona-Cardozo A., Mora-Fernández C. &amp; Vargas-Ríos O. En: León Sicard, T. (Editor). 2011. Mamíferos, Reptiles y Ecosistemas del Bloque Cubiro (Casanare): Educación Ambiental para la Conservación. Instituto de Estudios Ambientales Universidad Nacional de Colombia, Alange Energy Corp. Bogotá. Pp 99-154.</citation>
+                <citation>Preciado, J. V. 2011. Distribución y diversidad de la ictiofauna presente en el río Charte, Orinoquia colombiana. Trabajo de grado. Fundación Universitaria Internacional del Trópico Americano - UNITROPICO. Programa de Biología. Yopal, Casanare, Colombia.160 pp.</citation>
+                <citation>Ramírez-Chaves, H. E., &amp; A. F. Suárez-Castro. 2014. Adiciones y cambios a la lista de mamíferos de Colombia: 500 especies registradas para el territorio nacional. Mammalogy Notes. 1:31–34.</citation>
+                <citation>Rangel-C., J. O &amp; Minorta-Cely, W. 2015b. Los Tipos de Vegetación de la Orinoquía Colombiana. En Rangel-C., J. O. Editor. Colombia diversidad biótica XIV: La región de la Orinoquía colombiana, pp 237-418. Universidad Nacional de Colombia, Bogotá, Colombia.</citation>
+                <citation>Rangel-Ch. J.O., M. Aguilar, H. Sánchez, P. Lowy-C., M. Aguilar &amp; A. Castillo. 1995. Región de la Orinoquia. Págs.239-254 en: O. Rangel (ed.). Colombia Diversidad Biótica I. Instituto de Ciencias Naturales. Universidad Nacional de Colombia. Bogotá.</citation>
+                <citation>Renjifo J. L., A. M. Franco-Maya, J. D. Amaya-Espinel, G. H. Kattan &amp; B. López-Lanús (eds.). 2002. Libro rojo de aves de Colombia. Serie Libros Rojos de Especies Amenazadas de Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y Ministerio del Medio Ambiente. Bogotá, Colombia.</citation>
+                <citation>Renjifo, L. M., Gómez, M. F., Velásquez-Tibatá, J., Amaya-Villarreal, A. M., Kattan, G. H., Amaya-Espinel, J. D., &amp; Burbano Girón, J., 2014. Libro rojo de Aves de Colombia, Volumen I: bosques húmedos de los Andes y la costa Pacífica. Editorial Pontificia Universidad Javeriana e Instituto Alexander von Humboldt. Bogotá D.C., Colombia.</citation>
+                <citation>Restrepo-Calle, S., M. Lentino, &amp; L. G. Naranjo. 2010. Aves. Capítulo 9. Pp. 290-309 in: Lasso, C.A., J. S. Usma, F. Trujillo &amp; A. Rial (eds). Biodiversidad de la Cuenca del Orinoco: bases científicas para la identificación de áreas prioritarias para la conservación y uso sostenible de la biodiversidad. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, WWF Colombia, Fundación Omacha, Fundación La Salle e Institutos de Estudios de la Orinoquía (Universidad Nacional de Colombia). Bogotá, D.C., Colombia.</citation>
+                <citation>Rodríguez, M. 2009. Mastofauna. En: Establecimiento de la composición biológica y estructura ecológica de la laguna que conforma el humedal “Laguna El Tinije”, que permitan conocer su dinámica, estructura y funcionalidad tendiente a su postulación como área Ramsar Convenio de Cooperación No 0126 de 10 de Diciembre de 2008 Dirección Técnica de Medio Ambiente, Secretaría de Agricultura, Ganadería y Medio Ambiente, Gobernación de Casanare (editado por Ramírez B.), pp. 215-237. Asociación de Becarios de Casanare, Yopal.</citation>
+                <citation>Rodríguez-Posada, M. E., &amp; H. E. Ramírez-Chavez. 2012. Distribución, morfología y reproducción del murciélago rayado de orejas amarillas Vampyriscus nymphaea (Mammalia : Chiroptera). Acta Zoológica Mexicana. 28:341–352.</citation>
+                <citation>Rojano-Bolaño, C., L. Miranda-Cortés &amp; R. Ávila-Avilán. 2015. Densidad poblacional del oso hormiguero gigante (Myrmecophaga tridactyla) en sistemas ganaderos de pore, Casanare. Biodiversidad Neotropical. 5: 64-70.</citation>
+                <citation>Romero M., Galindo G., Otero J., &amp; Armenteras D. 2004. Ecosistemas de la cuenca del Orinoco colombiano. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá. Colombia. Pp 83-85.</citation>
+                <citation>Romero, H. J., J. O. Rangel-Ch &amp; J. E., Calvajal-C. 2014. Anfibios de la Orinoquia de Colombia lista con base en los registros existentes. En: Colombia Diversidad Biótica XIV. J. O. Rangel-Ch (Ed.). Instituto de Ciencias Naturales, Universidad Nacional de Colombia. Bogotá.</citation>
+                <citation>Romero, M. H., J. A. Maldonado-Ocampo, J. D. Gregory, J. S. Usma, A. M. Umaña-Villaveces, J. I. Murillo, S. Restrepo-Calle, M. T. Álvarez, M. Palacios-Lozano, M. S. Valbuena, S. L. Mejía, and J. Aldana-Domínguez. 2009. Informe sobre el estado de la biodiversidad en Colombia 2007- 2008: Piedemonte Orinoquense, sabanas y bosques asociados al norte del río Guaviare. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Bogota D.C.</citation>
+                <citation>Romero, M., G. Galindo, J. Otero &amp; D. Armenteras. 2004. Ecosistemas de la cuenca del Orinoco colombiano. Bogotá, Colombia.</citation>
+                <citation>Solari, S., Y. Muñoz-Saba, J.V. Rodríguez-Mahecha, T.R. Defler, H.E. Ramírez-Chaves &amp; F. Trujillo. 2013. Riqueza, endemismo y conservación de los mamíferos de Colombia. Mastozoología Neotropical. 20: 301-365.</citation>
+                <citation>Suárez, A. F &amp; P. Sánchez Palomino. 2011. Diversidad de mamíferos presentes en el Bloque Cubiro y amenazas para su conservación. En: Mamíferos, reptiles y ecosistemas del Bloque Cubiro (Casanare): Educación ambiental para la conservación. León Sicard T. (Editor). Universidad Nacional de Colombia y Alange Energy Corp. Bogotá D.C. 426 pp.</citation>
+                <citation>Urbano-Bonilla, A., J. Zamudio, J. A. Maldonado-Ocampo Y G. Cortes-Millán. 2009b. Estudio preliminar de la ictiofauna presente en la laguna El Tinije Aguazul (Casanare), Colombia: diversidad y aspectos ecológicos. Actualidades Biológicas 31(Suplemento especial 1): 47.</citation>
+                <citation>Urbano-Bonilla, A., Prada-Pedreros, S., Zapata, A., Barrera-Cataño, J &amp; Moreno-Cárdenas, C. 2014. Composición y riqueza íctica en quebradas y ríos del piedemonte de la cuenca del río Cusiana (Orinoquia colombiana). Biota Colombiana, 15(Sup. 1):52-69.</citation>
+                <citation>Usma, J., M. Valderrama, Escobar, R. Ajiaco-Martínez, F. Villa-Navarro, F. Castro, H. Ramírez-Gil, A. Sanabria, A. Ortega-Lara, J. Maldonado-Ocampo, J. Alonso &amp; C. Cipamocha. 2009. Peces dulceacuícolas migratorios en Colombia. Pp: 103-131. En: J.D Amaya &amp; L.G Naranjo (eds.). Plan nacional de especies migratorias: Diagnostico e identificación de acciones para la conservación y manejo sostenible de las especies migratorias de la biodiversidad en Colombia. Bogotá.</citation>
+                <citation identifier="http://i2d.humboldt.org.co/ceiba/resource.do?r=tame_faunaflora_2014">Yoluka ONG Fundación de Investigación en Biodiversidad y Conservación y Univeridad de Antioquia &amp; Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (2014). Fauna y flora del municipio de Tame, Arauca, 2584 registros, En línea: http://i2d.humboldt.org.co/ceiba/resource.do?r=tame_faunaflora_2014</citation>
+                <citation>Zamudio, J. A., L. F. Ortega &amp;L. F. Castillo. 2011. Aves del Casanare. Pp. 169-179. En: Usma, J.S.&amp; F. Trujillo (Eds.). 2011. Biodiversidad del Casanare: Ecosistemas Estratégicos del Departamento. Gobernación de Casanare - WWF Colombia. Bogotá D.C. 286p.</citation>
+                <citation>Zamudio, J., Urbano-Bonilla, A., Maldonado-Ocampo, J., Bogotá-Grégory, J., &amp; Cortés-Millán, G. 2008. Hábitos alimentarios de diez especies de peces del piedemonte del departamento del Casanare, Colombia. Dahlia. Revista de la asociación colombiana de ictiólogos. 10: 43-55.</citation>
+                </bibliography>
+                <physical>
+                    <objectName>Caracterización biótica para la conservación de especies amenazadas en el área de influencia del Oleoducto Bicentenario, departamentos de Arauca y Casanare, Colombia</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>txt</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_bicentenario_faunaflora_2015</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>No aplica</parentCollectionIdentifier>
+                    <collectionIdentifier>IAvH-A, IAvH-P, IAvH-M, IAvH-Am, IAvH-R, FMB</collectionIdentifier>
+                    <collectionName>Colección de aves, peces, mamíferos,anfibios y reptiles del Instituto Alexander von Humboldt,Herbario Federico Medem</collectionName>
+                </collection>
+                <specimenPreservationMethod>OTHER</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

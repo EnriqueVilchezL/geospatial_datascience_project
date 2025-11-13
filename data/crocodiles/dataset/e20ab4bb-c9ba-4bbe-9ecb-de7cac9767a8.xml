@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="e20ab4bb-c9ba-4bbe-9ecb-de7cac9767a8"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/vwyqn4</alternateIdentifier>
+        <alternateIdentifier>e20ab4bb-c9ba-4bbe-9ecb-de7cac9767a8</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=geopark_llanos-124_flora-fauna</alternateIdentifier>
+        <title>Caracterización de flora y fauna en Área de perforación exploratoria LLANOS 124, departamento de Casanare y Meta, Colombia</title>
+        <creator>
+            <individualName>
+                <surName>Geopark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>Geopark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30. Pisos 8, 9 y 10</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6017432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>https://www.geo-park.com/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Tellus Ingeniería S.A.S.</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 84 No. 24 - 77 Barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6017002808</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Tellus Ingeniería S.A.S.</surName>
+            </individualName>
+            <organizationName>Tellus Ingeniería S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 84 No. 24 - 77 Barrio El Polo</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6017002808</phone>
+            <electronicMailAddress>admin@tellusingenieria.com</electronicMailAddress>
+            <onlineUrl>https://tellusingenieria.com/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Geopark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>Geopark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30. Pisos 8, 9 y 10</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6017432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>https://www.geo-park.com/</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-02-26
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>GEOPARK., como estrategia de expansión en Colombia en la industria de los hidrocarburos, prioriza el APE Llanos 124; ya que representa un área atractiva de alto potencial de exploración en la cuenca de los Llanos Orientales, debido a que el área se encuentra rodeada de varios yacimientos en producción de petróleo, como lo es el Bloque Llanos 34 operado por la misma compañía.</para><para>Por lo anterior, GEOPARK elabora el  “Estudio de Impacto Ambiental del Área de Perforación Exploratoria Llanos 124”, como una herramienta de planeación y de manejo ambiental, el cual permitirá obtener la caracterización de las condiciones abióticas, bióticas y socioeconómicas actuales del APE y su área de influencia; identificar los impactos potenciales que se pueden presentar sobre estos componentes como consecuencia del desarrollo de las actividades asociadas a la exploración de hidrocarburos y formular las medidas y estrategias de manejo ambiental que permitan prevenir, corregir, mitigar y/o compensar los posibles impactos ocasionados por la ejecución del proyecto., para soportar la solicitud de licencia ambiental ante la Autoridad Nacional de Licencias Ambientales- ANLA.</para><para>Este recurso representa la caracterización de flora y fauna y consta de 4244 registros biológicos observados en Casanare y Meta , Colombia en noviembre del 2020 y enero del 2022.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>ecosistemas</keyword>
+            <keyword>red</keyword>
+            <keyword>muestreo</keyword>
+            <keyword>altura</keyword>
+            <keyword>abundancia</keyword>
+            <keyword>bioma</keyword>
+            <keyword>caracterización</keyword>
+            <keyword>coberturas</keyword>
+            <keyword>parcela</keyword>
+            <keyword>trampa</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=geopark_llanos-124_flora-fauna</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El Área de Perforación Exploratoria Llanos 124, departamento de Casanare y Meta, Colombia.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.912</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.717</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.521</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.291</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2020-11-05
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-01-18
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>4244 registros de flora (3054) y fauna (1190) pertenecientes a las clases: Magnoliopsida, Liliopsida, Mammalia, Reptilia, Aves y Amphibia. Corresponden a 51 órdenes, 131 familias y de los cuales 3484 registros fueron identificados hasta especie (329 especies) y 487 hasta género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rosales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Fabales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Laurales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caryophyllales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malpighiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Arecales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Magnoliales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gentianales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Sapindales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Piperales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Malvales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lamiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ericales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Boraginales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apiales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dilleniales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Oxalidales</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Didelphimorphia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cingulata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pilosa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Primates</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Rodentia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Chiroptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Carnivora</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Artiodactyla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Columbiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Psittaciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Charadriiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anseriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Passeriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Strigiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Pelecaniformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Accipitriformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Piciformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cuculiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Falconiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coraciiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Apodiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Galliformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Opisthocomiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Nyctibiiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ciconiiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Tinamiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gruiformes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Suliformes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Caracterizar la flora y fauna en el Área de Perforación Exploratoria LLANOS 124.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <surName>Geopark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>Geopark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30. Pisos 8, 9 y 10</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6017432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>https://www.geo-park.com/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FLORA:
+La distribución de las parcelas tendió a buscar una representatividad y cobertura del área de influencia y del Área de Perforación Exploratoria Llanos 124, así como también de los biomas (y por ende ecosistemas) presentes en el mismo, no obstante, durante la fase de campo se presentaron inconvenientes de tipo logístico como encharcamiento excesivo de zonas por razones climáticas como lo son desbordamientos en temporada de lluvias, presencia de procesos de erosión reticular, en forma de zurales que tienen alturas hasta de 70 cm y presentan procesos de inundación, y falta de permisos de ingreso a algunos predios, a pesar de ello se logró realizar en esta etapa una cantidad y distribución significativa de levantamientos forestales.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cada unidad de muestreo se demarcó temporalmente, para lo cual se realizó una pica central colocando estacas con cinta de color amarillo y azul cada 10 m, en los extremos laterales también se colocaron cintas. Las parcelas fueron georreferenciadas colocando punto inicial y punto final por medio de GPS, utilizando el sistema de coordenadas nacional; así mismo, se les asignó un identificador único de muestreo (ID), este se coloca en el primer individuo de tipo fustal de cada unidad de muestreo, el cual corresponde a las iniciales del nombre de cada profesional y el consecutivo de la parcela.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Adicionalmente, dentro de cada parcela todos los individuos de tipo fustal se marcaron con números arábigos de manera consecutiva, con pintura de color rojo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En la fase de campo, en las unidades de muestreo se tomaron diferentes variables dasométricas, tales como: Circunferencia a la Altura del Pecho (CAP) en centímetros (la cual se convierte en DAP en la etapa de oficina), altura total (Ht) en metros, altura comercial (Hc) en metros, número de bifurcaciones por debajo de la altura de medición del DAP, así como observaciones relevantes de cada individuo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La circunferencia de los individuos se tomó a una altura de 1,30 m sobre el nivel del suelo, utilizando para ello cinta métrica y buscando la mayor precisión. La altura total se estimó desde la base del fuste hasta la punta de la copa, donde llega las últimas hojas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La altura comercial del árbol se estimó desde la sección del fuste aprovechable comercialmente, a partir del tocón (unos 30 cm sobre el suelo) hasta donde pueda ser útil en términos maderables, esto implica que no siempre la altura comercial coincide con el inicio de la copa o con la división de la primera rama, en el presente documento técnico perteneciente al Área de Perforación exploración Exploratoria Llanos 124, se identificaron individuos que poseen estructuras potencialmente aprovechables más allá de la primera ramificación, lo cual se aplicó fundamentado en la idea de no subestimar el volumen comercial.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Respecto a la determinación de especies halladas en el muestreo, en los casos de las plantas más comunes fueron identificadas en campo, por medio del conocimiento del profesional, la información suministrada por el personal de apoyo “auxiliares de campo - baquianos” y el contraste posterior de esta información con bibliografía y bases de datos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para este procedimiento se observó con atención la especie a colectar, para determinar si está en estado fértil, de manera que se pudiese recolectar la muestra donde se encuentren flores o frutos principalmente, en los casos contrarios, se coleccionaba la muestra donde fuese posible observar todos los caracteres taxonómicos o descriptores morfológicos necesarios para la identificación (disposición de las hojas, tipo de hoja, presencia de exudado y/o aguijones o espinas) de las especies.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Plantas vasculares de hábito epífito:
+
+Cada muestreo fue llevado a cabo sobre un forófito en pie, el cual fue posible observar desde la base del tronco hasta las ramas más externas del forófito. La distancia de observación permite el registro de la flora epífita desde la base. Con la ayuda de unos binoculares o un teleobjetivo en trípode, con un zoom mayor a 40x el cual permite registrar la mayoría de epífitas sin necesidad de realizar un ascenso a dosel, una ventaja que permite conocer y registrar la disposición a lo largo del forófito .</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Plantas vasculares de hábito terrestre:
+
+Para la caracterización de las especies de las familias Orquidiaceae y Bromeliaceae de hábito terrestre o rupícola se evaluó mediante el registro de todos los individuos presentes en cada unidad de muestro mediante Censo al 100% de los individuos presentes o registro de todos los individuos presentes en cada parcela de 0,1 ha desarrollada por cobertura natural a evaluar (unidad ecosistémica).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FAUNA:
+Se realizó una revisión bibliográfica de los grupos de aves, mamíferos, anfibios y reptiles a evaluar con el fin de obtener información de las especies reportadas para la región correspondiente a esta zona de la Orinoquía colombiana. La recopilación de información secundaria se llevó a cabo por medio de la revisión de literatura científica indexada en bases de datos como Directory of Open Access Journals (DOAJ), EBSCOhost, ScienceDirect, LATINDEX (Sistema regional de información en línea para revistas científicas de América Latina, el Caribe, España y Portugal), PERIODICA (Índice de Revistas Latinoamericanas en Ciencias - Dirección General de Bibliotecas, UNAM), PROQUEST (Revistas de biología), REDALYC (Sistema de información científica) y SCIELO, entre otras fuentes de información de importancia biológica.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves:
+Durante el monitoreo efectuado mediante redes de niebla, se establecieron seis (6) estaciones de muestreo. Dentro de las cuales se instalaron 10 redes de 12 m de largo y 2,5 m de alto, con un ojo de malla de 30 mm, buscando obtener un mínimo de 120 metros red/hombre por estación de muestreo, los cuales fueron ejecutadas durante un día en los picos de mayor actividad de las especies.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Estas fueron abiertas al amanecer y abiertas de nuevo al atardecer, además se revisaron cada 20 minutos . Estas estaciones de monitoreo se establecieron en ecotonos, que corresponden a áreas boscosas y/o en transición con otras unidades de cobertura y árboles con alimento para las aves, cumpliendo con los términos del permiso de investigación para Tellus Ingeniería S.A.S. Las especies capturadas se dispusieron en bolsas de tela individuales, de diferentes diámetros de acuerdo con la dimensión de estas, esto con el fin de manipularlas e identificarlas en sitios de control, donde se tomaron los registros fotográficos y los datos que se emplearon para la óptima identificación de los individuos capturados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En un punto equidistante de las redes, se estableció una estación en donde se procesaban las aves, se tomaron datos y registro fotográfico. Las aves capturadas fueron determinadas por medio de guías de campo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se realizaron transectos sobre los senderos o trochas que pasan de forma estratégica por los diferentes sitios definidos para el área de estudio. Esta metodología nos permitió obtener un inventario más eficiente debido a que se cubre una mayor área dentro de las coberturas de interés, los muestreos se realizaron en el siguiente horario de 06:00 a las 10:30 horas y en la tarde desde las 15:00- 18:00 horas, con el fin de abarcar los picos más altos de actividad de las especies. La identificación de especies se realizó tanto visual como auditivamente. Para el registro visual de especies se utilizaron binoculares marca Busnell 8X42, además de una cámara fotográfica Nikon P900 para la toma de registro fotográfico. Así mismo se registró información con respecto al tipo de cobertura vegetal y estrato en la que fue observada.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La implementación de esta técnica permitió realizar 26 transectos de observación de avifauna, en la cual se tomó registro de todas las especies en transectos de tramos aleatorios sin estimaciones de distancia entre el observador y la especie.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se realizaron tres (3) puntos de observación de aves en algunos centros poblados, en donde se registró la abundancia con que fueron registradas y se tomaron fotografías de estas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos:
+Durante el monitoreo mediante redes de niebla se establecieron cuatro (4) estaciones de muestreo dentro de las cuales se instalaron 10 redes de 12 m de largo y 2,5 m de alto con un ojo de malla de 30 mm para cada estación, buscando obtener un mínimo de 120 metros red/hombre por estación de muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las redes se distribuyeron de acuerdo con los siguientes criterios: (1) presencia de zonas de transición (ecotonos y bordes de bosque), (2) presencia de plantas en periodo de fructificación y floración (Muñoz-Saba 2009) y, (3) presencia de refugios potenciales. Estas permanecieron abiertas cuatro (4) horas, entre las 18:00 horas a las 22:00 horas; dentro del tiempo de muestreo se revisarán las redes cada 30 minutos. Las especies capturadas fueron dispuestas en bolsas de tela individuales para ser registradas, fotografiadas y analizadas morfometricamente.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Consistió en caminar de forma constante, en transectos de tramo aleatorio que abarcan las diferentes unidades de cobertura vegetal durante los cuales se observó y tomó registro escrito (taxonomía, abundancia, distribución horizontal y vertical, entre otros) y fotográfico (en lo posible) de los mamíferos y demás rastros que se encontraron en el trayecto; así mismo se registró información con respecto al tipo de cobertura vegetal y bioma en la que fue observada.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos Medianos y Grandes (MMG):
+
+Se emplearon los registros visuales y auditivos para los mamíferos medianos y grandes, implementando transectos de monitoreo de longitud variable entre las 6:00 y las 16:00 horas con el objetivo de registrar visualmente o mediante vocalizaciones la presencia de las especies de mamíferos en el área de estudio. Así mismo se realizó la descripción del hábitat y la distribución horizontal y vertical de la especie.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Dentro de los mismos transectos de ancho variable, se tuvo en cuenta la interpretación de rastros que los animales van dejando a su paso. Las zonas monitoreadas fueron examinadas con el objeto de detectar la presencia de algunas especies, mediante la evidencia de madrigueras o sitios de refugio, sitios de alimentación, hozaderos o comederos, heces , rastros de depredación o cacería antrópica, rasguños o huellas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para el registro de los pequeños mamíferos (comprendido por organismos con un peso inferior a 150g  de los órdenes Didelphimorphia (faras y marmosas) y Rodentia (ratones), se implementó la instalación de Trampas Sherman (ETS): se instalaron cuatro (4) estaciones con mínimo 50 trampas Sherman pequeñas (23 x 7,5 x 9cm) cada una, distanciadas entre sí, aproximadamente a cinco (5) metros durante mínimo dos (2) días en las diferentes unidades de cobertura vegetal propias del área de estudio, siempre y cuando estas brinden áreas de refugio o alimentación para dichas especies.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la ubicación de las trampas se tuvo en cuenta que los sitios no se encontraran inundados y en general se mantuvieran resguardados de la lluvia; la disposición de las trampas dependió de la vegetación asociada, instalándolas a nivel del suelo (en bases de árboles y junto a troncos caídos), como en estratos arbóreos (posibilitando la captura de micromamíferos arbóreos). Las trampas se instalaron en transectos lineales, dependiendo de las condiciones del terreno.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El cebo o atrayente fue una mezcla de mantequilla de maní, avena en hojuelas, esencias de vainilla y atún; las trampas permanecieron activas durante mínimo dos (2) noches, como se mencionó anteriormente, siendo revisadas cada mañana entre las 6:00 y 9:00 horas, cambiando el cebo de ser necesario. Los datos obtenidos mediante esta técnica permiten el análisis de información, la estimación de la abundancia para las especies capturadas, su riqueza y diversidad.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las cámaras trampa son usadas para la detección mediante presencia o ausencia de especies de mastofauna para estimar la diversidad, poblaciones en diferentes unidades de cobertura, abundancia y densidad.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la presente metodología se implementaron cuatro (4) estaciones de muestreo con 10 cámaras trampa activas  por estación, buscando abarcar de manera amplia los diferentes ecosistemas, distribuidas principalmente en unidades de cobertura con algún grado de vegetación, instalándolas en la base de árboles por sendas y caminos de fauna previamente identificados con ubicación de cebo en dirección al registro fotográfico.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Anfibios y Reptiles:
+
+Con el fin de identificar la estructura y composición de la herpetofauna presente en el área de estudio, se usó un diseño aleatorio de caminatas, haciendo búsqueda libre de registros por encuentro visual (REV) y auditivo procurando abarcar la mayor distancia posible, cada recorrido tuvo una duración aproximada de dos (2) horas, sin embargo, el tiempo y la distancia de cada transecto se modificó teniendo en cuenta las condiciones logísticas, acceso a los puntos, tamaño de los parches y facilidad de transitar al interior de la cobertura, así como las condiciones de seguridad o clima que interfirieron con los recorridos, cabe aclarar también que debido a las restricciones a la movilidad producto de la actual situación de pandemia, la hora límite de muestreo en las noches fue hasta las 20:00, lo que pudo inferir de alguna manera en el éxito de registro de anfibios y reptiles que comienzan su actividad luego de esa hora. La metodología se realizó basado en propuestas estándar para el neotrópico y usadas en la región</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Teniendo en cuenta las distancias y las condiciones de desplazamiento en campo, se realizaron un total de 35 recorridos de registros por encuentros visuales (REV) tanto diurnos como nocturnos, con una duración aproximada de dos horas en cada jornada, y una distancia no menor a un kilómetro por recorrido, en cada recorrido se procuró muestrear dos días por unidad de cobertura vegetal, sin embargo, algunas de las coberturas presentaron un área muy pequeña haciendo difícil su localización y muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se realizó una búsqueda de anfibios reptiles diurnos que se encuentren descansando en sus refugios de anfibios y reptiles de actividad nocturna entre la hojarasca sobre la vegetación o bajo rocas. Durante la fase de campo se procuró realizar búsquedas en las 25 coberturas existentes para el APE exploratorio llanos 124 y se procuró tener un esfuerzo de muestreo similar cara cada una, con la finalidad de realizar futuras comparaciones; así mismo se procuró realizar muestreos en los 7 biomas identificados para el APE.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Una vez capturado un individuo, este fue fotografiado intentando capturar las estructuras o características que de importancia taxonómica para su correcta identificación, cada individuo se regresó exactamente en el lugar de encuentro sin haber sido maltratado; en caso de tener una fácil identificación y se obtuvo el registro fotográfico sin la necesidad de capturarlo, así se evitó la manipulación que pudiera generar afectación a las especies.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Como método indirecto para la toma de información en campo, están las encuestas, las cuales se realizaron a los pobladores locales sobre el conocimiento y observación de especies presentes en el área de interés y la variación de la presencia de estas especies según la época del año, identificando además el uso o importancia de algunas especias a nivel cultural y/o comercial. Para la identificación fotográfica por parte de los pobladores, se utilizaron material fotográfico de especies potenciales para las zonas las cuales fueron provistas por el profesional a cargo del componente y a partir de guías fotográficas para la zona.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El APE Llanos 124, tiene una extensión de 11.133,93 ha, se localiza en la cuenca de los Llanos Orientales, en la planicie de la Orinoquía inundable, principalmente dentro de las cuencas del río Cabuyarito, río Upía y río Túa; en jurisdicción de la vereda Hijoa del municipio de Barranca de Upía, las veredas Viso de Upía, Cabuyarito/La Embajada, Mararabe y Guayabal en el municipio de Cabuyaro en el departamento del Meta y las veredas El Fical, Buenos Aires Alto, Buenos Aires Bajo, Caimán Bajo, Flor Amarillo y La Libertad del municipio de Villanueva y la vereda Corocito del municipio de Tauramena en el departamento del Casanare.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se realizó un muestreo simple al azar tras constatar en los recorridos de campo la presencia de las coberturas vegetales determinadas en la fase pre-campo, de esta manera fueron realizadas parcelas al interior de corredores de Bosque de galería, Vegetación secundaria alta, Pastos arbolados, Pastos limpios y Herbazal denso inundable no arbolado, asimismo se procedió al establecimiento de cuadrantes en zonas de coberturas con presencia de especies herbáceas (pastos limpios y herbazal denso inundable no arbolado).</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="CESP2022-010">
+                <title>Estudio de Impacto Ambiental, Área de perforación exploratoria LLANOS 124</title>
+                <personnel>
+                    <individualName>
+                    <surName>Geopark Colombia S.A.S.</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>GEOPARK COLOMBIA S.A.S. (en adelante Geopark), suscribió con la Agencia Nacional de Hidrocarburos – ANH, un contrato para realizar actividades de exploración dentro del Área de Perforación Exploratoria Llanos 124 (en adelante APE Llanos 124), el cual se localiza en el departamento del Meta en jurisdicción de los municipios de Barranca de Upía, Cabuyaro y en el departamento de Casanare en jurisdicción de los municipios de Villanueva y Tauramena, y dentro de los compromisos adquiridos en dicho contrato, se establece  el propósito de solicitar Licencia Ambiental del Área para llevar a cabo la fase de exploración de hidrocarburos mediante la construcción y operación de nueva infraestructura requerida.
+
+Este proyecto será la base de planificación ambiental para las actividades a desarrollar por GEOPARK, en el APE Llanos 124,durante la fase de exploración,  en el cual se plantea llevar a cabo las etapas pre operativa, operativa y post operativa, las cuales se incluirán en la solicitud de licenciamiento y en las que se ejecutarán actividades específicas que requieren el uso, aprovechamiento y/o afectación de los recursos naturales, para lo cual, se presentan las respectivas solicitudes de permisos de acuerdo con la oferta ambiental de la zona, estado y disponibilidad de dichos recursos. Igualmente, se presenta la caracterización de los medios abiótico, biótico y socioeconómico del área de influencia del proyecto; se define la sensibilidad ambiental del medio frente a la ejecución de las actividades contempladas por el proyecto, la identificación y evaluación de impactos de manera cualitativa y cuantitativa, así como la formulación de las medidas de manejo ambiental y seguimiento y monitoreo necesarias para prevenir, controlar, mitigar y/o compensar los impactos ambientales que generen riesgos en la construcción y operación de infraestructura del Área de Perforación Exploratoria Llanos 124.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El APE Llanos 124, tiene una extensión de 11.133,93 ha, se localiza en la cuenca de los Llanos Orientales, en la planicie de la Orinoquía inundable, principalmente dentro de las cuencas del río Cabuyarito, río Upía y río Túa; en jurisdicción de la vereda Hijoa del municipio de Barranca de Upía, las veredas Viso de Upía, Cabuyarito/La Embajada, Mararabe y Guayabal en el municipio de Cabuyaro en el departamento del Meta y las veredas El Fical, Buenos Aires Alto, Buenos Aires Bajo, Caimán Bajo, Flor Amarillo y La Libertad del municipio de Villanueva y la vereda Corocito del municipio de Tauramena en el departamento del Casanare.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>El presente estudio se elaboró con base en los lineamientos estipulados por la compañía GEOPARK para el proyecto en particular y en lo establecido en los términos de referencia para proyectos de Exploración de Hidrocarburos M-M-INA-01 expedidos en el año 2014 por el Ministerio de Ambiente, Vivienda y Desarrollo Territorial (MAVDT) hoy Ministerio de Ambiente y Desarrollo Sostenible (MADS) y la Metodología General para la Elaboración y Presentación de Estudios Ambientales (2018). Adicionalmente, se tuvo en cuenta la normatividad ambiental nacional vigente dentro de la cual se destacan el Decreto 1076 del 26 de 2015 con sus modificaciones, por medio del cual se expide el decreto único del sector ambiente y desarrollo sostenible.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:17Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/vwyqn4">Geopark Colombia S.A.S., Tellus Ingeniería S.A.S. (2025). Caracterización de flora y fauna en Área de perforación exploratoria LLANOS 124, departamento de Casanare y Meta, Colombia. Version 1.5. GeoPark Colombia S.A.S. Occurrence dataset https://doi.org/10.15472/vwyqn4 accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-geopark.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

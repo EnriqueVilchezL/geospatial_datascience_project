@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="ab596a6e-1c9f-4975-8092-8cc3380d2fc6"  system="http://gbif.org" scope="system"
+xml:lang="fr">
+    <dataset>
+        <alternateIdentifier>10.15468/swok5h</alternateIdentifier>
+        <title>crocodylus</title>
+        <creator>
+            <individualName>
+                <givenName>Baba ainina</givenName>
+                <surName>Baba ainina</surName>
+            </individualName>
+            <organizationName>Ecole Normale Supérieure de Nouakchott</organizationName>
+            <positionName>Node Manager</positionName>
+            <address>
+                <country>MAURITANIA</country>
+            </address>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Baba ainina</givenName>
+                <surName>Baba ainina</surName>
+            </individualName>
+            <organizationName>Ecole Normale Supérieure de Nouakchott</organizationName>
+            <positionName>Node Manager</positionName>
+            <address>
+                <country>MAURITANIA</country>
+            </address>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Baba ainina</givenName>
+                <surName>Baba ainina</surName>
+            </individualName>
+            <organizationName>Ecole Normale Supérieure de Nouakchott</organizationName>
+            <positionName>Node Manager</positionName>
+            <address>
+                <country>MAURITANIA</country>
+            </address>
+            <role>USER</role>
+        </associatedParty>
+        <pubDate>
+                2014-09-05
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            Occurrences de Crocodylus niloticus en Mauritanie
+        </abstract>
+        <keywordSet>
+            <keyword>Mauritania</keyword>
+            <keyword>Crocodylus</keyword>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://ipt-mrbif.bebif.be/archive.do?r=crocodiles</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Sud-Est de la Mauritanie</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-10.2</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-9.8</eastBoundingCoordinate>
+                    <northBoundingCoordinate>18.5</northBoundingCoordinate>
+                    <southBoundingCoordinate>15.5</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2000
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2011
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crocodylus niloticus</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <contact>
+            <individualName>
+                <givenName>Baba ainina</givenName>
+                <surName>Baba ainina</surName>
+            </individualName>
+            <organizationName>Ecole Normale Supérieure de Nouakchott</organizationName>
+            <positionName>Node Manager</positionName>
+            <address>
+                <country>MAURITANIA</country>
+            </address>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:10Z</dateStamp>
+                <citation>Baba ainina B A (2014). crocodylus. Ecole Normale Supérieure de Nouakchott. Occurrence dataset https://doi.org/10.15468/swok5h accessed via GBIF.org on 2025-10-11.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

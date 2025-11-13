@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="3144bbc8-9ebc-47fe-9f23-c575716eb357"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/lbzs3v</alternateIdentifier>
+        <alternateIdentifier>https://ipt.idigbio.org/resource?r=sdsm-vertpaleo</alternateIdentifier>
+        <alternateIdentifier>3144bbc8-9ebc-47fe-9f23-c575716eb357</alternateIdentifier>
+        <alternateIdentifier>http://ipt.idigbio.org/resource?r=sdsm-vertpaleo</alternateIdentifier>
+        <title>SDSM Vertebrate Paleontology Collection</title>
+        <creator>
+            <individualName>
+                <givenName>Gene</givenName>
+                <surName>Hess</surName>
+            </individualName>
+            <organizationName>South Dakota School of Mines and Technology</organizationName>
+            <address>
+                <city>Rapid City</city>
+                <administrativeArea>SD</administrativeArea>
+                <postalCode>57701</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <electronicMailAddress>Gene.Hess@sdsmt.edu</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Sally</givenName>
+                <surName>Shelton</surName>
+            </individualName>
+            <organizationName>South Dakota School of Mines and Technology, Museum of Geology</organizationName>
+            <positionName>Associate Director</positionName>
+            <address>
+                <deliveryPoint>501 E. St. Joseph</deliveryPoint>
+                <city>Rapid City</city>
+                <administrativeArea>SD</administrativeArea>
+                <postalCode>57701</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>+01 605.394.2487</phone>
+            <electronicMailAddress>Sally.Shelton@sdsmt.edu</electronicMailAddress>
+            <onlineUrl>http://www.sdsmt.edu/Academics/Museum-of-Geology/MPRL/Collections/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Joanna</givenName>
+                <surName>McCaffrey</surName>
+            </individualName>
+            <organizationName>iDigBio</organizationName>
+            <positionName>Biodiversity Informatics Manager</positionName>
+            <electronicMailAddress>jmccaffrey@flmnh.ufl.edu</electronicMailAddress>
+            <onlineUrl>https://www.idigbio.org</onlineUrl>
+            <role>PROGRAMMER</role>
+        </associatedParty>
+        <pubDate>
+                2023-12-01
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The SDSM Vertebrate Paleontology Collection began in the late 19th century with collections of fossil fauna from the nearby White River Badlands and Western Interior Seaway exposures. Major collections include, but are not limited to, marine vertebrates and associated fauna from the Cretaceous Western Interior Seaway, terrestrial vertebrates (including dinosaurs) from Jurassic and Cretaceous sites, extensive holdings from the White River Badlands of South Dakota and Nebraska (late Eocene to mid-Oligocene), and late Tertiary to Quaternary collections from the region, including mammoths and other Pleistocene vertebrates.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.idigbio.org/archive.do?r=sdsm-vertpaleo</url>
+            </online>
+        </distribution>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Sally</givenName>
+                <surName>Shelton</surName>
+            </individualName>
+            <organizationName>South Dakota School of Mines and Technology, Museum of Geology</organizationName>
+            <positionName>Associate Director</positionName>
+            <address>
+                <deliveryPoint>501 E. St. Joseph</deliveryPoint>
+                <city>Rapid City</city>
+                <administrativeArea>SD</administrativeArea>
+                <postalCode>57701</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>+01 605.394.2487</phone>
+            <electronicMailAddress>Sally.Shelton@sdsmt.edu</electronicMailAddress>
+            <onlineUrl>http://www.sdsmt.edu/Academics/Museum-of-Geology/MPRL/Collections/</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:48Z</dateStamp>
+                <citation>Hess G, Shelton S (2023). SDSM Vertebrate Paleontology Collection. Version 1.15. South Dakota School of Mines and Technology, Museum of Geology and Paleontology Research Laboratory. Occurrence dataset https://doi.org/10.15468/lbzs3v accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>http://www.sdsmt.edu//uploadedImages/Content/Academics/Museum_of_Geology/MuseumOfGeologyLogo.jpg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>SDSM</parentCollectionIdentifier>
+                    
+                    <collectionName>Vertebrate Paleontology</collectionName>
+                </collection>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="dfef0b61-aa28-4794-97bc-3f8791fb0ab2"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/klubuj</alternateIdentifier>
+        <alternateIdentifier>dfef0b61-aa28-4794-97bc-3f8791fb0ab2</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=herpetos_macarena_2020</alternateIdentifier>
+        <title>Reptiles y anfibios registrados en las cuencas bajas del Guayabero, Duda y Losada, Meta</title>
+        <creator>
+            <individualName>
+                <givenName>Monica A.</givenName>
+                <surName>Morales-Betancourt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 28a # 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>mmorales@humboldt.org.co</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Monica A.</givenName>
+                <surName>Morales-Betancourt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 28a # 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>mmorales@humboldt.org.co</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Infraestructura Institucional de Datos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Andres Rymel</givenName>
+                <surName>Acosta-Galvis</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 28a # 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Monica A.</givenName>
+                <surName>Morales-Betanourt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 28a # 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>mmorales@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Carlos A.</givenName>
+                <surName>Lasso</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 28a # 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>classo@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Duberney</givenName>
+                <surName>Rayo</surName>
+            </individualName>
+            <organizationName>PNN La Macarena</organizationName>
+            <positionName>Contratista</positionName>
+            <address>
+                <city>La Macarena</city>
+                <administrativeArea>Meta</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>duberneyrayolopez@gmail.com</electronicMailAddress>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Juan Carlos</givenName>
+                <surName>Lomelín</surName>
+            </individualName>
+            <positionName>Coinvestigador local</positionName>
+            <address>
+                <city>La Macarena</city>
+                <administrativeArea>Meta</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2022-05-24
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            En ejercicios previos de planificación ecológica del territorio, definición, nominación y priorización de áreas para la conservación, la sierra de La Macarena ha sido priorizada por su interés biogeográfico y por las presiones de las cuales es objeto. A pesar de este hecho, no existía una línea base sólida sobre el conocimiento de la biodiversidad de la región. Así, la Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena-Cormacarena y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, decidieron aunar esfuerzos para realizar la evaluación biológica de los ríos Guayabero medio, bajo Losada y bajo Duda, lo que permitirá avanzar en el conocimiento de la biodiversidad y de esta forma planificar adecuadamente la conservación y manejo de los recursos biológicos en esta importante región del departamento del Meta (Convenio N° 17-194 Instituto Humboldt y PE GDE 1.4.7.17.030 de 2017 Cormacarena). Entre los grupos estudiados se incluyeron los anfibios y reptiles, los cuales se muestrearon mediante búsquedas libres (VES), y con diferentes métodos de captura como nasas, jamas, trampas, etc, lo que permitió consolidar una lista de 296 registros (observación humana y colecta) de anfibios y reptiles en La Macarena, Meta.  Se registran 44 especies y dos a nivel de género; los cuales se encuentran distribuidos en los cuatro ordenes: Anura (7 familias, 10 géneros y 24 especies), Squamata (7 familias, 10 géneros , 10 especies y otras dos registradas a nivel de género), Testudines  (4 familias, 5 géneros y 6 especies),y Crocodylia (2 familias, 3 géneros y 4 especies).
+        </abstract>
+        <keywordSet>
+            <keyword>Crocodylia</keyword>
+            <keyword>Testudines</keyword>
+            <keyword>Squamata</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Libro: V. Biodiversidad de la sierra de La Macarena, Meta, Colombia. Parte I. Ríos Guayabero medio, bajo Losada y bajo Duda. Serie Editorial Fauna Silvestre Neotropical. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. ://hdl.handle.net/20.500.11761/35222</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://ipt.biodiversidad.co/iavh/resource?r=herpetos_macarena_2020</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/iavh/archive.do?r=herpetos_macarena_2020</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El estudio se realizó en el departamento del Meta en las cuencas de los ríos Guayabero medio, bajo Losada y bajo Duda, Incluye los municipios de La Macarena y Vistahermosa</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.937</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.82</eastBoundingCoordinate>
+                    <northBoundingCoordinate>2.552</northBoundingCoordinate>
+                    <southBoundingCoordinate>2.218</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2018-02-05
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2018-12-26
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Se listan los anfibios y reptiles registrados en 2018 en La Macarena. Se reportan 296 registrospertencientes a 44 especies y dos a nivel de género; los cuales se encuentran distribuidos en los cuatro ordenes: Anura (7 familias, 10 géneros y 24 especies), Squamata (7 familias, 10 géneros , 10 especies y otras dos registradas a nivel de género), Testudines  (4 familias, 5 géneros y 6 especies),y Crocodylia (2 familias, 3 géneros y 4 especies).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Viperidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Colubridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Chelidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gymnophtalmidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Boidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Polychrotidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Elapidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Iguanidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Kinosternidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Craugastoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bufonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leptodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Microhylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ranidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pipidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alligatoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Podocnemididae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Testudinidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Crocodylidae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>En ejercicios previos de planificación ecológica del territorio, definición, nominación y priorización de áreas para la conservación, la sierra de La Macarena ha sido priorizada por su interés biogeográfico y por las presiones de las cuales es objeto. A pesar de este hecho, no existía una línea base sólida sobre el conocimiento de la biodiversidad de la región. Así, la Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena-Cormacarena y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, decidieron aunar esfuerzos para realizar la evaluación biológica de los ríos Guayabero medio, bajo Losada y bajo Duda, lo que permitirá avanzar en el conocimiento de la biodiversidad y de esta forma planificar adecuadamente la conservación y manejo de los recursos biológicos en esta importante región del departamento del Meta (Convenio N° 17-194 Instituto Humboldt y PE GDE 1.4.7.17.030 de 2017 Cormacarena).</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Carlos A.</givenName>
+                <surName>Lasso</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 28a # 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>classo@humboldt.org.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Para el registro de los anfibios y reptiles se emplearon métodos estandarizados, en base a la selección de unidades de paisaje y su proyección de estudio acorde a los días de trabajo efectivos, siguiendo la metodologías estándar de Heyer et al. (1994).  La captura por unidad de esfuerzo consideró las horas/hombre y picos de actividad de los grupos, tanto en unidades de paisaje natural como agrícola. Los métodos de registro y captura fueron de seis tipos.
+1)	Inspección visual “Visual Encounter Surveys” VES. Se realizaron recorridos extensivos en trayectos de tiempo; jornada diurna entre las 8:00-11:00 horas y búsqueda nocturna, entre las 19:00-22:00 horas, empleando el método libre de muestreo (Heyer et al. 1994, Crump y Scott 1994). 
+Se aplicó a todos los grupos. 
+2)	Remoción. Este método permitió obtener muestras de especies de lagartos y serpientes fosoriales o asociadas a rocas y troncos en descomposición, e involucra un proceso de selección de áreas potenciales de hallazgo en los macro-hábitats a estudiar. La remoción se realiza en rocas o troncos que no están fijos al sustrato y generalmente están cubiertos por vegetación circundante.
+3)	Uso de mallas para remoción de estados larvales. Permite obtener los estados larvales de algunos grupos de anfibios que dependen de los cuerpos de agua para su reproducción. La importancia de esta metodología es que permite caracterizar especies que no son observables en los estados adultos.
+4)	Mallas de pesca. Se utilizaron redes (70 m de largo, 4 m de alto, ojo de malla 14 cm) con poco plomo, las cuales se colocaron en remansos del cauce principal del río y la laguna-madrevieja. Esta técnica es dirigida a la captura de tortugas y crocodílidos. Las mallas permanecían en el agua tanto en el día como en la noche. Se revisaban cada 12 horas. 
+5)	Trampas con cebo. Para las especies acuáticas (tortugas y crocodílidos); se utilizaron dos tipos de trampas que difieren en tamaño, con carnada (pescado podrido). Estas se colocaron en los caños, quebradas y laguna, se revisaron cada 12 horas. 
+
+Los ejemplares fueron fijados en campo en formol 10% siguiendo los criterios bioéticos y posteriormente fueron conservados en una solución etanol al 70%, en la colección de anfibios y reptiles del Instituto Alexander von Humboldt. También se tomaron muestras de tejido para análisis moleculares posteriores.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El estudio se realizó en el Área de Manejo Especial La Macarena- AMEM. Se muestrearon los reptiles acuáticos (tortugas y cocodrílidos) en la estación seca de 2018. Se seleccionaron tres ventanas de trabajo: 1) vereda Bajo Raudal en el río Guayabero medio, 2) La Macarena, en medio Losada y en la vereda Bocas del Duda, en el bajo río Duda.  Durante esta estación de lluvias se complementó el inventario incluyendo además anfibios y reptiles terrestres. Se seleccionaron dos áreas de muestreo: la primera en la vereda Bajo Raudal, que incluye diferentes formaciones vegetales asociadas al sistema del Escudo Guayanés del río Guayabero (área evaluada entre los días 25-29 de junio de 2018); y la segunda, en la vereda Los Alpes, margen izquierda del bajo río Losada. Esta última ventana (evaluada entre el 30 de junio y el 5 de julio de 2018), incluye áreas inundables y altiplanicie.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se realizaron muestreos diurnos y nocturnos, tanto en tierra como en agua. Se utilizaron diferentes métodos de colecta de acuerdo al hábitat y habito de las especies, entre estos se incluyen, inspección visual “Visual Encounter Surveys” VES, remoción y trampas.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>La identificación, curaduría y procesamiento de los ejemplares se hace bajo referencia de colecciones registradas junto con claves taxonómicas y consulta de expertos.
+
+Ajuste de vocabularios controlados en:
+Elementos de registros: basisOfRecord, type y collectionID  de acuerdo a la naturaleza de los datos;
+Elementos geográficos: continent</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Evaluación de la biodiversidad del río Guayabero, sierra de La Macarena, Meta</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Carlos</givenName>
+                    <surName>Lasso</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena-Cormacarena e Instituto de Investigación de Recursos Biológicos Alexander von Humboldt  (Convenio N° 17-194 Instituto Humboldt y PE GDE 1.4.7.17.030 de 2017 Cormacarena).</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El estudio se realizó en el Área de Manejo Especial de la Macarena-AMEM, en el área de drenaje y el cauce principal así como los afluentes de los ríos Guayabero medio, bajo Losada y bajo Duda. En las veredas Bajo Raudal, Bocas del Duda y Los Alpes.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Se realizó una evaluación rápida de la biodiversidad en la parte alta de la cuenca Guaviare, que incluye las subcuencas de los ríos Guayabero, Losada y Duda, durante dos estaciones climáticas en 2018: época de aguas bajas o sequía (febrero) y aguas altas o lluvias (junio-julio). Para ello se utilizaron diferentes metodologías adaptadas a cada uno de los macrohábitats acuáticos, ecosistemas terrestres y grupos biológicos considerados (microalgas, macroinvertabrados acuáticos, peces, anfibios, reptiles y aves).</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:04Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/klubuj">Morales-Betancourt M A (2022). Reptiles y anfibios registrados en las cuencas bajas del Guayabero, Duda y Losada, Meta. Version 1.3. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/klubuj accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Crump, M. L. y N. J. Scott, Jr. 1994. Visual encounter surveys. Capítulo 2. En: Heyer, W. R., M. A. Donnelly, R. W. McDiarmid, L. C. Hayek y M. S. Foster (Eds.). Measuring and monitoring biological diversity: standard methods for amphibians. Smithsonian Institution Press, Washington</citation>
+                <citation>Heyer, W. R., M. A. Donnelly, R. W. McDiarmid, L. C. Hayek y M.S. Foster (Eds.). 1994. Measuring and monitoring biological diversity. Standard methods for Amphibians. Smithsonian Institution Press, Washington. 364 pp.</citation>
+                </bibliography>
+                <physical>
+                    <objectName>Reptiles y anfibios registrados en las cuencas bajas del Guayabero, Duda y Losada, Meta</objectName>
+                    <characterEncoding>utf-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>txt</formatName>
+                            <formatVersion>na</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=herpetos_macarena_2020</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/iavh.jpg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>IAvH</parentCollectionIdentifier>
+                    <collectionIdentifier>IAvH-CT</collectionIdentifier>
+                    <collectionName>Colección de Tejidos del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>IAvH</parentCollectionIdentifier>
+                    <collectionIdentifier>IAvH-Am</collectionIdentifier>
+                    <collectionName>Colección de Anfibios del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>IAvH</parentCollectionIdentifier>
+                    <collectionIdentifier>IAvH-R</collectionIdentifier>
+                    <collectionName>Colección de Reptiles del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+                </collection>
+                <specimenPreservationMethod>OTHER</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

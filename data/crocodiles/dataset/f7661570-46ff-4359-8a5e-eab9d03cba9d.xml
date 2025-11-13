@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="f7661570-46ff-4359-8a5e-eab9d03cba9d"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/mhq2sa</alternateIdentifier>
+        <alternateIdentifier>f7661570-46ff-4359-8a5e-eab9d03cba9d</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=coleccion-herpetologia_museodehistorianatural-unillanos</alternateIdentifier>
+        <title>Colección Herpetológica-Museo de Historia Natural Unillanos</title>
+        <creator>
+            <individualName>
+                <givenName>Jorge Anthony</givenName>
+                <surName>Astwood Romero</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Curador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+            <electronicMailAddress>jastwood@unillanos.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-8845-8336</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Erika Alejandra</givenName>
+                <surName>Peralta</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                <deliveryPoint>Km 12 Vía Puerto López, Vereda Barcelon</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+            <electronicMailAddress>erika.peralta@unillanos.edu.co</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Alejandro</givenName>
+                <surName>Rodriguez</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>Km 12 Vía Puerto López, Vereda Barcelon</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Álvaro</givenName>
+                <surName>Velásquez</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                <deliveryPoint>Km 12 Vía Puerto López, Vereda Barcelon</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Andres</givenName>
+                <surName>Alfonso</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>Km 12 Vía Puerto López, Vereda Barcelon</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Andres Felipe</givenName>
+                <surName>Aponte Gutiérrez</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>Km 12 Vía Puerto López, Vereda Barcelon</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Camila</givenName>
+                <surName>Vázquez</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>Km 12 Vía Puerto López, Vereda Barcelon</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>David</givenName>
+                <surName>Morales</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>Km 12 Vía Puerto López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Diana</givenName>
+                <surName>Ramírez</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>Km 12 Vía Puerto López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Diego</givenName>
+                <surName>Cadena</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Diego</givenName>
+                <surName>Izquierdo</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Edisson Ferney</givenName>
+                <surName>Herrera Sabogal</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Fernanda</givenName>
+                <surName>Tique</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Harold</givenName>
+                <surName>Céspedes</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Isabela</givenName>
+                <surName>Duran</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Joan</givenName>
+                <surName>Moreno</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Estudiante</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Julian</givenName>
+                <surName>Sánchez</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Karem</givenName>
+                <surName>Mendoza</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Karen</givenName>
+                <surName>Bernal</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Karen</givenName>
+                <surName>Sandoval</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Laura</givenName>
+                <surName>Lopez</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Laura</givenName>
+                <surName>Muñoz</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Liz</givenName>
+                <surName>Vargas</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Lwiyer</givenName>
+                <surName>Ceballos</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Maira</givenName>
+                <surName>Salazar</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Manuel Felipe</givenName>
+                <surName>Parra Torres</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Mayra Cristina</givenName>
+                <surName>Reyes Diaz</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Nancy Ruth</givenName>
+                <surName>Ramírez Bautista</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Natalia</givenName>
+                <surName>Alvarez Perdomo</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Natalia</givenName>
+                <surName>Sánchez</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Sandra</givenName>
+                <surName>Hernández</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Sandra</givenName>
+                <surName>Hernandez</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Sandra</givenName>
+                <surName>Lozano</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Sergio</givenName>
+                <surName>Trujillo</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Viviana Andrea</givenName>
+                <surName>Candela Ortiz</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Alejandra</givenName>
+                <surName>Correa Lazo</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Yeni Tatiana</givenName>
+                <surName>Molina Moreno</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Ruth Tatiana Alejandra</givenName>
+                <surName>Pedroza Suárez</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Edgar Alexander</givenName>
+                <surName>Camelo Sotelo</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Laura Camila</givenName>
+                <surName>Martínez Chico</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Geraldine</givenName>
+                <surName>Quevedo Morales</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Andrés Steven</givenName>
+                <surName>Sierra Rueda</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Juan Esteban</givenName>
+                <surName>Acosta Montes</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Tatiana Huertas</givenName>
+                <surName>Huertas Rivas</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Diana Marcela</givenName>
+                <surName>Lozano Naranjo</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>María Helena</givenName>
+                <surName>Agudelo González</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Coinvestigador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Elizabeth</givenName>
+                <surName>Aya</surName>
+            </individualName>
+            <organizationName>Museo de Historia Natura-Universidad de los Llanos</organizationName>
+            <positionName>Dirección Museo</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>museo@unillanos.edu.co</electronicMailAddress>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <pubDate>
+                2023-12-27
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            La Colección Herpetológica del Museo de Historia Natural de la Universidad de los Llanos, es la primera colección en la región de la Orinoquia, con registro nacional de colecciones No. 255 de mayo de 2020. Los primeros especímenes fueron depositados en el 2011 y actualmente tiene 518 especímenes, pertenecientes a 5 órdenes, principalmente de los departamentos del Meta, Casanare y Vichada. En el año 2020 se agregaron 11 nuevos registros, en el 2021 se agregaron 394 nuevos registros y en el 2023, 113 nuevos registros.
+En el futuro la Colección Herpetológica-MHNU, permitirá aumentar el conocimiento de la diversidad de invertebrados en la región de la Orinoquia y será vital como soporte para la toma de decisiones de manejo y administración de los recursos naturales.
+        </abstract>
+        <keywordSet>
+            <keyword>Orinoco</keyword>
+            <keyword>Amphibia</keyword>
+            <keyword>Llanos Orientales</keyword>
+            <keyword>Reptilia</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=coleccion-herpetologia_museodehistorianatural-unillanos</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los datos de la colección provienen de los departamentos de Casanare, Meta y Vichada.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.738</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-67.722</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.174</northBoundingCoordinate>
+                    <southBoundingCoordinate>3.084</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2011-03-05
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2022-08-06
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Contiene 518 registros pertenecientes a los ordenes Anura (366), Gymnophiona (1) y Squamata (146), Testudines (4), Crocodylia (1), abarcando 31 familias, 65 géneros y 103 especies. Un 90% está clasificado a nivel de especie y 10% a género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                    <commonName>Ranas y Sapos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                    <commonName>Lagartos, Serpientes y Anfisbaenas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                    <commonName>Caimanes y Cocodrilos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gymnophiona</taxonRankValue>
+                    <commonName>Cecilias, Culebras Ciegas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                    <commonName>Tortugas</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Jorge Anthony</givenName>
+                <surName>Astwood Romero</surName>
+            </individualName>
+            <organizationName>Universidad de los Llanos</organizationName>
+            <positionName>Curador</positionName>
+            <address>
+                <deliveryPoint>km 12 vía Pto. López, Vereda Barcelona</deliveryPoint>
+                <city>Villavicencio</city>
+                <administrativeArea>Meta</administrativeArea>
+                <postalCode>500002</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6616800</phone>
+            <electronicMailAddress>jastwood@unillanos.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-8845-8336</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>El método más utilizado es búsqueda libre sin restricciones, que consiste en caminatas aleatorias buscando anfibios o reptiles.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Las muestras colectadas son depositadas en ETOH y llevadas a la colección.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La colección de herpetología contiene muestras del departamento de Meta, Vichada y Casanare.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los métodos de colecta utilizados varían dependiendo del proyecto o la clase, algunos de los métodos utilizados son: Búsqueda Libre y sin Restricciones, Captura manual, Observación Directa y Banda Auditiva.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="MHNU-H">
+                <title>Colección Herpetológica-Museo de Historia Natural Unillanos</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Jorge Anthony</givenName>
+                    <surName>Astwood Romero</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0002-8845-8336</userId>
+                    <role>CURATOR</role>
+                </personnel>
+                <abstract>
+                    <para>La Colección Herpetológica del Museo de Historia Natural de la Universidad de los Llanos, es la primera colección en la región de la Orinoquia, con registro nacional de colecciones No. 255 de mayo de 2020. Los primeros especímenes fueron depositados en el 2011 y actualmente tiene 518 especímenes, pertenecientes a 2 clases y 5 ordenes, principalmente de los departamentos del Meta, Casanare y Vichada. En el futuro la Colección Herpetológica-MHNU, permitirá aumentar el conocimiento de la diversidad de anfibios y reptiles en la región de la Orinoquia y será una importante herramienta para soportar decisiones de manejo y administración de los recursos naturales.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Ecosistemas naturales representativos de tierras bajas Incluye Bosques de Galería o Riparios, Sabanas de Piedemonte, Esteros, Morichales, Humedales. También algunas zonas agropecuarias.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Búsqueda Libre y sin Restricciones: Inventario Completo de Especies. Captura manual, Observación Directa, Banda Auditiva.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:51Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/mhq2sa">Astwood Romero J A, Peralta E A, Rodriguez A, Velásquez Á, Alfonso A, Aponte Gutiérrez A F, Vázquez C, Morales D, Ramírez D, Cadena D, Izquierdo D, Herrera Sabogal E F, Tique F, Céspedes H, Duran I, Moreno J, Sánchez J, Mendoza K, Bernal K, Sandoval K, Lopez L, Muñoz L, Vargas L, Ceballos L, Salazar M, Parra Torres M F, Reyes Diaz M C, Ramírez Bautista N R, Alvarez Perdomo N, Sánchez N, Hernández S, Hernandez S, Lozano S, Trujillo S, Candela Ortiz V A, Correa Lazo A, Molina Moreno Y T, Pedroza Suárez R T A, Camelo Sotelo E A, Martínez Chico L C, Quevedo Morales G, Sierra Rueda A S, Acosta Montes J E, Huertas Rivas T H, Lozano Naranjo D M, Agudelo González M H (2023). Colección Herpetológica-Museo de Historia Natural Unillanos. Version 2.6. Universidad de los Llanos. Occurrence dataset https://doi.org/10.15472/mhq2sa accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation identifier="https://doi.org/10.15472/mhq2sa">Astwood Romero J A, Peralta E A, Rodriguez A, Velásquez Á, Alfonso A, Aponte Gutiérrez A F, Vázquez C, Morales D, Ramírez D, Cadena D, Izquierdo D, Herrera Sabogal E F, Tique F, Céspedes H, Duran I, Moreno J, Sánchez J, Mendoza K, Bernal K, Sandoval K, Lopez L, Muñoz L, Vargas L, Ceballos L, Salazar M, Parra Torres M F, Reyes Diaz M C, Ramírez Bautista N R, Alvarez Perdomo N, Sánchez N, Hernández S, Hernandez S, Lozano S, Trujillo S, Candela Ortiz V A , Correa Lazo A, Molina Moreno Y T, Pedroza Suárez R T, Camelo Sotelo E A, Martínez-Chico L C, Quevedo Morales G, Sierra Rueda A S, Acosta Montes J E, Huertas Rivas T, Lozano Naranjo D M, Agudelo González M H. (2023): Colección Herpetológica-Museo de Historia Natural Unillanos. v2.5. Universidad de los Llanos. Dataset/Occurrence. https://doi.org/10.15472/mhq2sa</citation>
+                </bibliography>
+                <physical>
+                    <objectName>1313_ullanosherpetos_20201126</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=1313_ullanosherpetos_20201126</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>1313_ullanosherpetos_20210512</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=1313_ullanosherpetos_20210512</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>1313_ullanosherpetos_20210628</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://ipt.biodiversidad.co/cr-sib/resource.do?r=1313_ullanosherpetos_20210628</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>temperaturascriticas</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>DWC-A</formatName>
+                            <formatVersion>1</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://ipt.sibcolombia.net/cr-sib/resource.do?r=temperaturascriticas</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-unillanos.png</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>MHNU</parentCollectionIdentifier>
+                    <collectionIdentifier>https://www.gbif.org/grscicoll/collection/93a161b4-175b-4cdf-a441-b87a6c515648</collectionIdentifier>
+                    <collectionName>Museo de Historia Natural Unillanos</collectionName>
+                </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

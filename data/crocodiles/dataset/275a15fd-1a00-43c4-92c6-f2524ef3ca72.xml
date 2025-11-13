@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="275a15fd-1a00-43c4-92c6-f2524ef3ca72"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/ifumod</alternateIdentifier>
+        <alternateIdentifier>http://196.32.215.240:8081/ipt/resource?r=other-fauna-of-liwondenationalpark-1984</alternateIdentifier>
+        <alternateIdentifier>275a15fd-1a00-43c4-92c6-f2524ef3ca72</alternateIdentifier>
+        <alternateIdentifier>http://41.77.13.208:8081/ipt/resource?r=other-fauna-of-liwondenationalpark-1984</alternateIdentifier>
+        <title>other-fauna-of-liwondenationalpark-1984</title>
+        <creator>
+            <individualName>
+                <givenName>A.M.</givenName>
+                <surName>Morgan-Davies</surName>
+            </individualName>
+            <organizationName>Department of National Park and Wildlife</organizationName>
+            <positionName>Park Officer</positionName>
+            <address>
+                <deliveryPoint>Liwonde National Park, P.O. Box 41</deliveryPoint>
+                <country>MALAWI</country>
+            </address>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>C.O.</givenName>
+                <surName>Dudley</surName>
+            </individualName>
+            <organizationName>University of Malawi</organizationName>
+            <positionName>Researcher</positionName>
+            <address>
+                <deliveryPoint>Chancellor College, P.O. Box 280, Zomba</deliveryPoint>
+                <city>Zomba</city>
+                <country>MALAWI</country>
+            </address>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Blessings</givenName>
+                <surName>Chingagwe</surName>
+            </individualName>
+            <organizationName>Wildlife and Environmental Society of Malawi</organizationName>
+            <positionName>Environmental Education Officer</positionName>
+            <address>
+                <deliveryPoint>Wildlife and Environmental Society of Malawi</deliveryPoint>
+                <city>Lilongwe</city>
+                <administrativeArea>Malawi</administrativeArea>
+                <postalCode>30293</postalCode>
+                <country>MALAWI</country>
+            </address>
+            <phone>+265994024124</phone>
+            <electronicMailAddress>blechingagwe@gmail.com</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Blessings</givenName>
+                <surName>Chingagwe</surName>
+            </individualName>
+            <organizationName>Wildlife and Environmental Society of Malawi</organizationName>
+            <positionName>Environmental Education Officer</positionName>
+            <address>
+                <deliveryPoint>Wildlife and Environmental Society of Malawi</deliveryPoint>
+                <city>Lilongwe</city>
+                <administrativeArea>Malawi</administrativeArea>
+                <postalCode>30293</postalCode>
+                <country>MALAWI</country>
+            </address>
+            <phone>+265994024124</phone>
+            <electronicMailAddress>blechingagwe@gmail.com</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Tiwonge</givenName>
+                <surName>Gawa</surName>
+            </individualName>
+            <organizationName>Wildlife and Environmental Society of Malawi</organizationName>
+            <positionName>Wildlife Research Officer</positionName>
+            <address>
+                <deliveryPoint>Wildlife and Environmental Society of Malawi</deliveryPoint>
+                <city>Blantyre</city>
+                <administrativeArea>Malawi</administrativeArea>
+                <country>MALAWI</country>
+            </address>
+            <electronicMailAddress>birdsmalawi@gmail.com</electronicMailAddress>
+            <role>REVIEWER</role>
+        </associatedParty>
+        <pubDate>
+                2022-05-31
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The resource is just an addition of the existing fauna inventory of Liwonde National Park.
+        </abstract>
+        <keywordSet>
+            <keyword>fauna</keyword>
+            <keyword>Checklist</keyword>
+            <keyword>Liwonnde National Park</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Checklist</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://196.32.215.240:8081/ipt/archive.do?r=other-fauna-of-liwondenationalpark-1984</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Liwonde national Park is found in Machinga district which is in the eastern region of Malawi</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>35.23</westBoundingCoordinate>
+                    <eastBoundingCoordinate>35.54</eastBoundingCoordinate>
+                    <northBoundingCoordinate>-15.068</northBoundingCoordinate>
+                    <southBoundingCoordinate>-15.186</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Part of fauna of Liwonde National Park</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pelusios sinuatus</taxonRankValue>
+                    <commonName>Serrated terrapin</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Cycloderma frenatum Peters</taxonRankValue>
+                    <commonName>Mud Turtle</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Kinixys b. belliana Gray</taxonRankValue>
+                    <commonName>Bell&apos;s Hinged Tortoise</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Crocodylus niloticus Laurenti</taxonRankValue>
+                    <commonName>Nile Crocodile</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hemidactylus  mabouia</taxonRankValue>
+                    <commonName>Common House Gecko</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hemidactylus  platycephalus Peters</taxonRankValue>
+                    <commonName>Baobab Gecko</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lygodactylus chobiensis Fitzsimmons</taxonRankValue>
+                    <commonName>Dwarf Gecko</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Chamealeo d. dilepis Leach</taxonRankValue>
+                    <commonName>Flap-necked Chameleon</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Mabuya quinquentaeniata margaritifer</taxonRankValue>
+                    <commonName>Blue-tailed Skink</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Mabuya s. striata</taxonRankValue>
+                    <commonName>Striped Skink</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Mabuya varia</taxonRankValue>
+                    <commonName>Variable Skink</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Panaspis wahlbergii</taxonRankValue>
+                    <commonName>Wahlberg&apos;s Snake-eyed Skink</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Varanus exanthematicus albigularis</taxonRankValue>
+                    <commonName>Savanna Monitor</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Varanus n. niloticus</taxonRankValue>
+                    <commonName>Nile Monitor</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Typhlops o. obtusus</taxonRankValue>
+                    <commonName>Shire Burrowing Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Python sebae</taxonRankValue>
+                    <commonName>African Python</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Boaedon f. fuliginosus</taxonRankValue>
+                    <commonName>House Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Philothamnus semivariegatus</taxonRankValue>
+                    <commonName>Spotted Bush Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Telescopus s. semiannulatus</taxonRankValue>
+                    <commonName>Tiger Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Psammophylax tritaeniatus</taxonRankValue>
+                    <commonName>White-bellied Grass Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Psammophis s. sibilans</taxonRankValue>
+                    <commonName>Hissing Sand Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Thelotornis capensis</taxonRankValue>
+                    <commonName>Vine Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Aparallactus capensis</taxonRankValue>
+                    <commonName>Cape Centipede-eating Snake</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Naja m. mossambica</taxonRankValue>
+                    <commonName>Black-necked Spitting Cobra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Naja melanoleuca</taxonRankValue>
+                    <commonName>Forest Cobra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bitis a. arietans</taxonRankValue>
+                    <commonName>Puff-adder</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Xenopus muelleri</taxonRankValue>
+                    <commonName>Mueller&apos;s Clawed Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bufo regularis</taxonRankValue>
+                    <commonName>Square-marked Toad</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Breviceps poweri</taxonRankValue>
+                    <commonName>Power&apos;s Rain Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phtynomerus b. bifasciatus</taxonRankValue>
+                    <commonName>Red-banded Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pyxicephalus adspersus</taxonRankValue>
+                    <commonName>Bull Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hylarana galamensis bravana</taxonRankValue>
+                    <commonName>Golden-backed Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ptychadena mascariensis</taxonRankValue>
+                    <commonName>Mascarene Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ptychadena oxyrhynchus</taxonRankValue>
+                    <commonName>Sharp-nosed Ridged frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ptychadena superciliaris</taxonRankValue>
+                    <commonName>Savana Ridged Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phrynobatrachus natalensis</taxonRankValue>
+                    <commonName>Puddle Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phrynobatrachus ukingensis mababiensis</taxonRankValue>
+                    <commonName>Common Cricket Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Arthroleptus stenodactylus</taxonRankValue>
+                    <commonName>Common Squeaker</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hemisus marmoratus</taxonRankValue>
+                    <commonName>Mottled Shovel-nosed Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Chiromantis xerampelina</taxonRankValue>
+                    <commonName>Great Grey Tree Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Kassina senegalensis</taxonRankValue>
+                    <commonName>Running Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Afrixalus f. fornasinii</taxonRankValue>
+                    <commonName>Brown-striped Spiny Reed Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hyperolius parallelus albofasciatus</taxonRankValue>
+                    <commonName>White-banded Sedge Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hyperolius pusillus</taxonRankValue>
+                    <commonName>Water Lily Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hyperolius tuberilinguis</taxonRankValue>
+                    <commonName>Yellow-Green Reed Frog</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lybius melanopterus</taxonRankValue>
+                    <commonName>Brown-breasted Barbet</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Campethera cailliautii</taxonRankValue>
+                    <commonName>Little Spotted Woodpecker</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Trochocerus cyanomelas</taxonRankValue>
+                    <commonName>Blue-mantled Crested Flycatcher</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>This data is so useful despite that it was not collected using systematic methods. However, it can be used to estimate the trend of decline or increase of specific species in areas of concern. This could be the oldest data records of the park.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Blessings</givenName>
+                <surName>Chingagwe</surName>
+            </individualName>
+            <organizationName>Wildlife and Environmental Society of Malawi</organizationName>
+            <positionName>Environmental Education Officer</positionName>
+            <address>
+                <deliveryPoint>Wildlife and Environmental Society of Malawi</deliveryPoint>
+                <city>Lilongwe</city>
+                <administrativeArea>Malawi</administrativeArea>
+                <postalCode>30293</postalCode>
+                <country>MALAWI</country>
+            </address>
+            <phone>+265994024124</phone>
+            <electronicMailAddress>blechingagwe@gmail.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Data was collected based on sighting of species as the officer was carrying other park duties. This resource was not as a result of a separate effort.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Liwonde National Park is in the Eastern Region Malawi just south of Lake Malawi near the Mozambique border. It lies largely within the Machinga District, but also is in  Mangochi District and on the west it borders with Balaka District.  The reserve covers 548 square kilometres of woodlands and dry savannah. A 30km section of the Shire River runs through the park including a section of the shore of Lake Malombe, 20 km south of Lake Malawi . A section was added in 1977 on the northern edge of the park which connects it with Mangochi Mountain Forest Reserve</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Sampling description is not available</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project id="African Biodiversity Challenge 2018">
+                <title>Enhancing accessibility of Biodiversity Data in Malawi</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Blessings</givenName>
+                    <surName>Chingagwe</surName>
+                    </individualName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>To mobilize, curate and publish biodiversity data that is useful for decision making in Malawi</para>
+                </abstract>
+                <funding>
+                    <para>JRS Biodiversity Foundation</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Liwonde National Park is South of Lake Malawi and covers an area of 548 sq km. And it is mainly woodlands and savanna flora but mopane is very prenty.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>The data collection process was informal as it was being done in the coarse of other responsibilities by the park officer. Literature does not have research description.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:10Z</dateStamp>
+                <citation>Morgan-Davies A, Dudley C, Chingagwe B (2022). other-fauna-of-liwondenationalpark-1984. Version 1.1. Wildlife and Environmental Society of Malawi. Occurrence dataset https://doi.org/10.15468/ifumod accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>http://41.77.13.208:8081/ipt/logo.do?r=other-fauna-of-liwondenationalpark-1984</resourceLogoUrl>
+                <formationPeriod>1974 - 1983</formationPeriod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

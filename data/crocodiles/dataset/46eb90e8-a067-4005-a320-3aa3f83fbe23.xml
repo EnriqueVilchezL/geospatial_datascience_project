@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="46eb90e8-a067-4005-a320-3aa3f83fbe23"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/bhzxld</alternateIdentifier>
+        <alternateIdentifier>46eb90e8-a067-4005-a320-3aa3f83fbe23</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=celsia-toluviejo-tramo1-bio</alternateIdentifier>
+        <title>Fauna y Flora del proyecto: Subestación Toluviejo 220 kv y líneas asociadas - Tramo 1</title>
+        <creator>
+            <individualName>
+                <givenName>Leydi Johanna</givenName>
+                <surName>Bernal Rincon</surName>
+            </individualName>
+            <organizationName>Celsia Colombia</organizationName>
+            <positionName>Gestion Ambiental Corporativa</positionName>
+            <address>
+                <deliveryPoint>Calle 15 # 29 B-30</deliveryPoint>
+                <city>Yumbo</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>ljbernal@celsia.com</electronicMailAddress>
+            <onlineUrl>https://www.celsia.com/es/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">leidy-johanna-bernal-rincón-7a5266a</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Maria Elena</givenName>
+                <surName>Camayo Estupiñan</surName>
+            </individualName>
+            <organizationName>Celsia Colombia</organizationName>
+            <positionName>Ambiental T&amp;D</positionName>
+            <address>
+                <deliveryPoint>Calle 15 # 29 B-30</deliveryPoint>
+                <city>Yumbo</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mecamayo@celsia.com</electronicMailAddress>
+            <onlineUrl>https://www.celsia.com/es/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">maría-elena-camayo-estupiñán</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Dairo</givenName>
+                <surName>Escobar</surName>
+            </individualName>
+            <organizationName>ANDI - CNAB</organizationName>
+            <positionName>Profesional ANDI - CNAB</positionName>
+            <address>
+                <deliveryPoint>Calle 73 # 8 – 13 Piso 7 Torre A</deliveryPoint>
+                <city>Bogotá D.C.</city>
+                <administrativeArea>Bogotá D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dairoescobar@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-8327-8670</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Luz Yaneth</givenName>
+                <surName>Sanchez Sarmiento</surName>
+            </individualName>
+            <organizationName>Consultoría y Medio Ambiente S.A.S.</organizationName>
+            <positionName>Lider biótica</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 # 37 - 33 Edificio Green Gold. Oficina 717 y 718</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(7) 6310500-6470500</phone>
+            <electronicMailAddress>servicioalcliente@cyma.com.co</electronicMailAddress>
+            <onlineUrl>https://www.cyma.com.co/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">luz-yaneth-sanchez-sarmiento-9565b044</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Rosemberg Milsiades</givenName>
+                <surName>Ramirez Rivera</surName>
+            </individualName>
+            <organizationName>Consultoría y Medio Ambiente S.A.S.</organizationName>
+            <positionName>Consultor</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 # 37 - 33 Edificio Green Gold. Oficina 717 y 718</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(7) 6310500-6470500</phone>
+            <electronicMailAddress>servicioalcliente@cyma.com.co</electronicMailAddress>
+            <onlineUrl>https://www.cyma.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Angie Tatiana</givenName>
+                <surName>Perez</surName>
+            </individualName>
+            <organizationName>Consultoría y Medio Ambiente S.A.S.</organizationName>
+            <positionName>Consultora</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 # 37 - 33 Edificio Green Gold. Oficina 717 y 718</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(7) 6310500-6470500</phone>
+            <electronicMailAddress>servicioalcliente@cyma.com.co</electronicMailAddress>
+            <onlineUrl>https://www.cyma.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Diego Francisco</givenName>
+                <surName>Becerra</surName>
+            </individualName>
+            <organizationName>Consultoría y Medio Ambiente S.A.S.</organizationName>
+            <positionName>Consultor</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 # 37 - 33 Edificio Green Gold. Oficina 717 y 718</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(7) 6310500-6470500</phone>
+            <electronicMailAddress>servicioalcliente@cyma.com.co</electronicMailAddress>
+            <onlineUrl>https://www.cyma.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Jenny</givenName>
+                <surName>Velasquez Ospina</surName>
+            </individualName>
+            <organizationName>Celsia Colombia</organizationName>
+            <positionName>Ambiental TYD</positionName>
+            <address>
+                <deliveryPoint>Calle 15 # 29 B-30</deliveryPoint>
+                <city>Yumbo</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(602) 3210000</phone>
+            <electronicMailAddress>jvospina@celsia.com</electronicMailAddress>
+            <onlineUrl>https://www.celsia.com/es/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Consultoría y Medio Ambiente S.A.</surName>
+            </individualName>
+            <organizationName>Consultoría y Medio Ambiente S.A.</organizationName>
+            <positionName>Consultora</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 # 37 - 33 Edificio Green Gold. Oficina 717 y 718</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(7) 6310500-6470500</phone>
+            <electronicMailAddress>servicioalcliente@cyma.com.co</electronicMailAddress>
+            <onlineUrl>https://www.cyma.com.co/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Leydi Johanna</givenName>
+                <surName>Bernal Rincon</surName>
+            </individualName>
+            <organizationName>Celsia Colombia</organizationName>
+            <positionName>Gestion Ambiental Corporativa</positionName>
+            <address>
+                <deliveryPoint>Calle 15 # 29 B-30</deliveryPoint>
+                <city>Yumbo</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>ljbernal@celsia.com</electronicMailAddress>
+            <onlineUrl>https://www.celsia.com/es/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">leidy-johanna-bernal-rincón-7a5266a</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Maria Elena</givenName>
+                <surName>Camayo Estupiñan</surName>
+            </individualName>
+            <organizationName>Celsia Colombia</organizationName>
+            <positionName>Ambiental T&amp;D</positionName>
+            <address>
+                <deliveryPoint>Calle 15 # 29 B-30</deliveryPoint>
+                <city>Yumbo</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mecamayo@celsia.com</electronicMailAddress>
+            <onlineUrl>https://www.celsia.com/es/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">maría-elena-camayo-estupiñán</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Luz Yaneth</givenName>
+                <surName>Sanchez Sarmiento</surName>
+            </individualName>
+            <organizationName>Consultoría y Medio Ambiente S.A.S.</organizationName>
+            <positionName>Lider biótica</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 # 37 - 33 Edificio Green Gold. Oficina 717 y 718</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(7) 6310500-6470500</phone>
+            <electronicMailAddress>servicioalcliente@cyma.com.co</electronicMailAddress>
+            <onlineUrl>https://www.cyma.com.co/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">luz-yaneth-sancluz-yaneth-sanchez-sarmiento-9565b044</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Rosemberg Milsiades</givenName>
+                <surName>Ramirez Rivera</surName>
+            </individualName>
+            <organizationName>Consultoría y Medio Ambiente S.A.S.</organizationName>
+            <positionName>Consultor</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 # 37 - 33 Edificio Green Gold. Oficina 717 y 718</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(7) 6310500-6470500</phone>
+            <electronicMailAddress>servicioalcliente@cyma.com.co</electronicMailAddress>
+            <onlineUrl>https://www.cyma.com.co/</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Angie Tatiana</givenName>
+                <surName>Perez</surName>
+            </individualName>
+            <organizationName>Consultoría y Medio Ambiente S.A.S.</organizationName>
+            <positionName>Consultor</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 # 37 - 33 Edificio Green Gold. Oficina 717 y 718</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(7) 6310500-6470500</phone>
+            <electronicMailAddress>servicioalcliente@cyma.com.co</electronicMailAddress>
+            <onlineUrl>https://www.cyma.com.co/</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Diego Francisco</givenName>
+                <surName>Becerra</surName>
+            </individualName>
+            <organizationName>Consultoría y Medio Ambiente S.A.S.</organizationName>
+            <positionName>Consultor</positionName>
+            <address>
+                <deliveryPoint>Carrera 27 # 37 - 33 Edificio Green Gold. Oficina 717 y 718</deliveryPoint>
+                <city>Bucaramanga</city>
+                <administrativeArea>Santander</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(7) 6310500-6470500</phone>
+            <electronicMailAddress>servicioalcliente@cyma.com.co</electronicMailAddress>
+            <onlineUrl>https://www.cyma.com.co/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Celsia Colombia S.A. E.S.P.</surName>
+            </individualName>
+            <organizationName>Celsia Colombia S.A. E.S.P.</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Calle 15 # 29 B-30</deliveryPoint>
+                <city>Yumbo</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>602-3210000</phone>
+            <electronicMailAddress>celsia@celsia.com</electronicMailAddress>
+            <onlineUrl>https://www.celsia.com/es/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">https://www.linkedin.com/company/celsiaenergia/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B4GhZDnnjQQKJhROjyaVBfQ%3D%3D</userId>
+            <role>OWNER</role>
+        </associatedParty>
+        <pubDate>
+                2024-04-26
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El proyecto “Nueva subestación Toluviejo 220kv y líneas de transmisión asociadas – Tramo 1” hace parte del Plan de Expansión de Referencia Generación – Transmisión 2015-2029, adoptado mediante Resolución del Ministerio de Minas y Energía 40095 de febrero 1 de 2016, modificada mediante Resolución MME No 40813 de 3 de agosto de 2018, establecido con el objetivo de garantizar un adecuado abastecimiento de la demanda de energía eléctrica del país. Se encuentra localizado en los departamentos de Córdoba y Sucre; cuenta con 40,846 km de longitud y ha sido planteado teniendo en cuenta criterios de tipo físico, ambiental, social y de dificultad constructiva y operativa que condicionan el desarrollo de este tipo de proyectos.</para>
+<para>En el marco del Estudio de Impacto Ambiental (EIA) del proyecto, se realizó la caracterización del componente biótico asociado al área de influencia del mismo, y por eso se presenta este conjunto de datos compuesto por 15.157 registros biológicos que provienen de las actividades de aprovechamiento forestal, inventario forestal, así como muestreos de fauna y flora que se desarrollaron entre el año 2020 y 2021.</para>
+<para>Los municipios con representación son San José de Tolu Viejo, Sampués, Sincelejo y Chinú. El recurso se distribuye taxonómicamente en los reinos Plantae (8.197), Fungi (5.366) y Animalia (1.594).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Parcelas permanentes</keyword>
+            <keyword>Colombia</keyword>
+            <keyword>Aprovechamiento forestal</keyword>
+            <keyword>Estudio de Impacto Ambiental</keyword>
+            <keyword>Inventario forestal</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>subestación</keyword>
+            <keyword>Epífitas</keyword>
+            <keyword>Hongos</keyword>
+            <keyword>Monitoreo</keyword>
+            <keyword>Córdoba</keyword>
+            <keyword>Puntos de observación</keyword>
+            <keyword>Flora</keyword>
+            <keyword>EIA</keyword>
+            <keyword>Sucre</keyword>
+            <keyword>Toluviejo</keyword>
+            <keyword>Transectos</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=celsia-toluviejo-tramo1-bio</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El proyecto de la nueva Subestación Toluviejo 220 kv y líneas asociadas - Tramo 1, se ubica en los departamentos de Sucre y Córdoba, y los municipios: Chinú, Sampués, Sincelejo y San José de Tolu Viejo.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-75.477</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-75.421</eastBoundingCoordinate>
+                    <northBoundingCoordinate>9.44</northBoundingCoordinate>
+                    <southBoundingCoordinate>9.261</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2020-03-16
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-06-25
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El recurso taxonómicamente cubre los reinos Plantae (8.197), Fungi (5.366) y Animalia (1.594), que su vez se encuentran divididos en 7 filos, 15 clases, 72 órdenes, 139 familias, 304 géneros y 338 especies.
+
+En el reino Plantae, la distribución es de 7 clases, 32 órdenes, 57 familias, 157 géneros y 165 especies. Del total de plantas, un 90% está identificado a nivel de especie y un 10% restante a nivel de género y familia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Equisetopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Filicopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Pteridopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En el reino Fungi, la distribución es de 4 clases, 9 órdenes, 11 familias, 23 géneros y 19 especies. Del total de hongos, el 54% está identificado a nivel de especie y un 46% restante a nivel de género y familia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Dothideomycetes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En el reino Animalia, la distribución es de 4 clases, 31 órdenes, 71 familias, 124 géneros y 153 especies. El 100% de los animales está identificado a nivel de especie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Celsia Colombia S.A. E.S.P.  Desde su estrategia ambiental Planeta más Verde y con su propósito superior de aportar al conocimiento, construcción, uso y democratización de la información de datos sobre la biodiversidad y los servicios ecosistémicos en sus áreas de operación, aporta como parte del sector empresarial esta información, con el objetivo de brindar datos de calidad para la toma de decisiones que redunden en el mejoramiento de la calidad de vida de las personas y la conservación de las especies. 
+En este sentido, esta publicación busca:
+- Incrementar la contribución de Celsia como parte del sector empresarial al conocimiento de la biodiversidad y sus servicios ecosistémicos a través de los datos abiertos.
+- Facilitar la creación de sinergias que permitan evitar la duplicación de esfuerzos y deriven en datos con mejor calidad y alcance.
+- Visibilizar y reconocer al sector privado como una de las fuentes importantes de generación de datos sobre biodiversidad del país.
+- Apoyar la ciencia y los datos abiertos, eliminando las barreras al acceso libre de información y adoptando los principios FAIR por sus siglas en inglés (Encontrables, Accesibles, Interoperables y Reutilizables).
+- Proporcionar información para el conocimiento de la biodiversidad a través de la conservación y el desarrollo.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Leydi Johanna</givenName>
+                <surName>Bernal Rincon</surName>
+            </individualName>
+            <organizationName>Celsia Colombia</organizationName>
+            <positionName>Gestion Ambiental Corporativa</positionName>
+            <address>
+                <deliveryPoint>Calle 15 # 29 B-30</deliveryPoint>
+                <city>Yumbo</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>ljbernal@celsia.com</electronicMailAddress>
+            <onlineUrl>https://www.celsia.com/es/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">leidy-johanna-bernal-rincón-7a5266a</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Maria Elena</givenName>
+                <surName>Camayo Estupiñan</surName>
+            </individualName>
+            <organizationName>Celsia Colombia</organizationName>
+            <positionName>Ambiental T&amp;D</positionName>
+            <address>
+                <deliveryPoint>Calle 15 # 29 B-30</deliveryPoint>
+                <city>Yumbo</city>
+                <administrativeArea>Valle del Cauca</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mecamayo@celsia.com</electronicMailAddress>
+            <onlineUrl>https://www.celsia.com/es/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">maría-elena-camayo-estupiñán</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Consultoría y Medio Ambiente S.A. realizó la consecución de información secundaria disponible en entidades gubernamentales, públicas y privadas del orden municipal, departamental y nacional como alcaldías municipales, Corporación Autónoma Regional de los Valles del Sinú y de San Jorge – CVS y Corporación Autónoma Regional de Sucre - CARSUCRE, Gobernación de Córdoba, Gobernación de Sucre, la Agencia Nacional de Infraestructura (ANI), la Autoridad Nacional de Licencias Ambientales (ANLA), la Agencia Nacional de Tierras (ANT), la Agencia de Renovación del Territorio (ART), Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt, Ministerio de Ambiente y Desarrollo Sostenible, Ministerio de Agricultura y Desarrollo Rural, Parques Nacionales Naturales de Colombia, entre otras entidades, con el fin de obtener información oficial cualitativa y cuantitativa relevante para la realización del estudio y conocer las condiciones físicas existentes el área de influencia del proyecto como un referente del estado inicial antes de la ejecución del proyecto.
+
+A partir de la recopilación de toda esta información se determinó un área de influencia preliminar, sobre las cuales se caracterizó, e identificaron los posibles impactos significativos que se podrían generar por el desarrollo de cada una de las actividades del proyecto a ejecutarse dentro del área del proyecto.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Flora: La ubicación preliminar de las parcelas se realizó teniendo en cuenta el área de las unidades de vegetación identificadas con la imagen satelital, el mapa preliminar de coberturas e inspección visual en campo; se ubicaron de forma aleatoria de manera que cubrieran la mayor cantidad de área. Esto se realizó mediante un muestreo aleatorio simple (BOLFOR, 2000).
+
+Para evaluar la estructura y la composición florística se realizaron parcelas de 0,1 hectáreas en las coberturas con presencia de individuos fustales y transectos de 100m para las coberturas herbáceas, metodología propuesta y aprobada en el Permiso de Estudio para la Recolección de Especímenes de Especies Silvestres de la Diversidad Biológica con Fines de Elaboración de Estudios Ambientales otorgado mediante Resolución No. 01715 del 30 de agosto de 2019, a la empresa Consultoría &amp; Medio Ambiente S.A. – C&amp;MA S.A., quien fue la empresa consultora encargada del levantamiento y procesamiento de información para el componente flora.
+En la fase de campo, las parcelas se levantaron dependiendo del lugar, topografía del terreno, accesibilidad y distribución de la vegetación; en algunos casos no se permitió el acceso a las fincas o a las áreas definidas para el muestreo; entonces como medida de contingencia se eligieron en campo otras zonas con las mismas características de cobertura.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Tamaño de las parcelas: De acuerdo con Rangel &amp; Velásquez (1997), una caracterización de la vegetación con base en las especies dominantes como es el caso de este estudio, se puede abordar según parámetros fisionómicos de composición florística. En el primer caso, los esfuerzos se dirigen a diferenciar las especies que presentan los valores mayores en parámetros ecológicos (abundancia, densidad, presencia), mientras que en el segundo se trata de establecer conjuntos de especies que denotan maneras de asociarse en patrones o comunidades. Para las categorías de tamaño de la regeneración natural (renuevo o plántula, brinzales y latizales) se empleó la metodología descrita por Ministerio del Medio Ambiente &amp; OIMT (2002).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Tamaño de la muestra: Para determinar el tamaño de la muestra, con una intensidad de muestreo de forma tal que el error de muestreo no sea superior al 15% y una probabilidad del 95%, se realizó un premuestreo de baja intensidad (con 3 parcelas por unidad de 0,1 ha), donde se estimó primero la desviación estándar y la media poblacional tomando como referente de análisis el volumen total, con estos datos se calculó el coeficiente de variación para cada unidad de cobertura; para reducir la desviación resultante de aquellas parcelas que se alejaban de la media se optó por no considerar la información de una de las parcelas. Para las coberturas que no presentan especies forestales, se realizaron transectos de 100 m de longitud realizando 10 subparcelas de caracterización de 1 m2 para herbáceas.
+Con respecto al área de la unidad muestral, lo importante es que estás deben satisfacer tres requisitos (Mateucci &amp; Colma, 1982):
+- Deben distinguirse claramente.
+- Las reglas de exclusión e inclusión del material vegetal deben establecerse de antemano y ser respetadas durante la obtención de datos.
+- Una vez seleccionados forma y tamaño, estos deben permanecer uniformes en la medida de lo posible.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Etapa de campo: La visita de campo se desarrolló en dos periodos, el primero comprendido entre el 13 y el 20 de marzo de 2020 y el segundo entre el 9 y el 30 de junio de 2020; en campo se dispuso un grupo conformado por tres (3) ingenieros forestales acompañados de dos auxiliares cada uno, conocedores del área y de las especies vegetales de la zona, que al igual tuvo la función de abrir senderos, de la medición de los individuos inventariados y de la identificación de las especies proporcionando los nombres comunes de los árboles. Se registraron los individuos con diámetros superiores a 10 centímetros, tomándoles el nombre común, diámetro a 1,3 metros de altura (D.A.P), altura a la primera rama, altura total, diámetro de copas, entre otros, y marcados con pintura roja. Las parcelas fueron establecidas con el apoyo de una cuerda plástica, un decámetro, y un GPS. Cada parcela fue subdivida cada 10 metros para facilitar determinar la posición de los individuos dentro de esta. Las subparcelas de regeneración natural, se ubicaron al interior de las parcelas de fustales, estableciendo dos parcelas de regeneración natural en cada parcela de 0,1 ha. Cada parcela fue georreferenciada con la ayuda de GPS. La localización de las parcelas se estableció al azar, pero siguiendo la dirección y el ancho de la unidad de cobertura analizada.
+
+Si la bifurcación se encuentra por debajo de los 1,3 metros de altura se toman CAP separados y se escribe que el árbol se encuentra bifurcado para después hacer los respectivos cálculos de volumen. Si se encuentra el caso de un individuo de hábito arbóreo con muchas ramificaciones que salen de la base y sus fustes superan el diámetro mínimo (10 cm) se toman los diámetros de todas las ramificaciones y se cuenta como un individuo polifurcado.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Identificación del material vegetal: Para la identificación de los individuos brinzales y arbóreos pertenecientes a plantaciones se utilizó el Catálogo de Nombres Comunes de las Plantas, complementando con la revisión de herbarios en línea, como el Herbario de la Universidad Distrital, el Herbario Nacional Colombiano y el Herbario de Missouri. Es de aclarar que la taxonomía empleada en el presente estudio, es la clasificación propuesta por el grupo Angiosperm Phylogy Group (APG iii, 2009), la cual es la más actualizada, consultada en la página web del Herbario de Missouri. Entre la literatura especializada utilizada para la identificación taxonómica de las especies se encuentra Gentry (1993), Keller (2004) y Forero (2009). Las muestras de la flora vascular arbórea, latizal y brinzal fueron identificadas y depositadas en el Herbario Tropical como consta en el certificado.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Otras categorías de vegetación: La caracterización de la flora epífita vascular y no vascular, así como, de la presente en otros sustratos (epilítico, terrestre y y/o maorde), se realizó teniendo en cuenta los términos de referencia para la elaboración del estudio de impacto ambiental - EIA proyectos de sistemas de transmisión de energía eléctrica TdR-17 (MADS-ANLA, 2018) y la metodología general para la elaboración y presentación de estudios ambientales (MADS, 2018). El inventario de la flora epífita vascular y no vascular, así como, de los individuos presentes en otros sustratos (terrestres, epilítico, maorde) se realizó teniendo en cuenta la metodología Análisis Rápido y Representativo de la Diversidad de Epífitas (RRED-analysis) Gradstein, et al. (2003), modificada a las características de cada una de las unidades de cobertura de la tierra identificadas con la metodología Corine Land Cover. Por cada hectárea (1ha) de las unidades de coberturas de interés, se muestrearon ocho (8) forófitos para las especies epífitas vasculares y cinco (5) forófitos para las especies de epífitas no vasculares. Sin embargo, se ajustó al porcentaje potencial de área con ocurrencia de vegetación arbórea en las diferentes coberturas a caracterizar en el área de intervención del presente proyecto, de acuerdo a las áreas de intervención (120ha). La selección de los árboles a muestrear procuro seguir los siguientes criterios: árboles con alturas superiores a 7 m, DAP superior a 10cm, árboles con presencia de epífitas superior al 40% y evitando el solapamiento de las copas, por lo tanto, se respetó una distancia de 25 m.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fauna: La caracterización de la fauna presente en el área de influencia (AI) se desarrolló de acuerdo a los requerimientos de los Términos de referencia para la elaboración del estudio de Impacto Ambiental – EIA proyectos de sistemas de transmisión de energía eléctrica TDR-17 (MADS -ANLA, 2018), la Metodología general para la elaboración y presentación de estudios ambientales (MADS, 2018) y el manual de métodos para el desarrollo de inventarios de biodiversidad del Instituto de Investigación en recursos biológicos Alexander Von Humboldt (Villarreal et al, 2004).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Etapa pre-campo: Se realizó una revisión bibliográfica de todos los grupos de fauna con el fin de recopilar información de las especies reportadas para la región con énfasis en el área de influencia del proyecto, para ello se emplearon fuentes como: artículos científicos, libros especializados que trataran acerca de sitios de colecta u observaciones de las especies que se encontraran en la región, listados regionales, base de datos de colecciones científicas, guías de campo, POT’s, EOT’s y bibliografía en general, teniendo en cuenta principalmente dos criterios: 1) distribución cercana y 2) rango altitudinal similar al del área de influencia.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Etapa de campo: Con el fin de establecer la composición faunística, se aplicaron diferentes metodologías de muestreo específicas para cada uno de los grupos taxonómicos de interés: aves, mamíferos, reptiles y anfibios. Con ayuda de cartografía a escala 1:25.000 y 1:10.000, se determinaron las rutas de observación y puntos de muestreo buscando monitorear las diferentes unidades de cobertura vegetal identificadas en el área del proyecto. Durante los recorridos se utilizó el formato de Caracterización de fauna para el registro de especies, equipo de posicionamiento GPS GARMIN y cámara Canon/Nikon para la toma del registro fotográfico de las especies. Con el fin de obtener una aproximación de las especies presentes en las áreas de interés, se realizaron encuestas (por grupo biológico) empleando el Formato entrevista de fauna silvestre, a los habitantes ubicados en el área de influencia, especialmente aquellas personas con conocimientos de la fauna silvestre local, así como aquellos que practican actividades de caza, mostrando formatos con imágenes, hecho con las especies obtenidas de la información secundaría, lo cual permitió registrar la fauna que no se observa en campo, los nombres comunes, los usos, importancia económica y cultural, hábitos y hábitats más frecuentes de avistamiento de estas especies.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La verificación en campo, se realizó mediante transectos y puntos de observación estacional ubicados en toda el área de influencia en las diferentes unidades de cobertura vegetal, así como se establece en la Metodología general para la elaboración y presentación de estudios ambientales, con el fin de reconocer la fauna asociada a ellas. El monitoreo se desarrolló durante 11 días efectivos de muestreo, desde el día 12 al día 22 de marzo de 2020. Para la selección de los puntos de monitoreo se tuvo en cuenta la información obtenida de la comunidad respecto a los avistamientos de fauna, así mismo se seleccionaron sitios que evidenciaron condiciones ideales para la alimentación, reproducción, descanso o movilización de la fauna silvestre.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Herpetofauna: Los transectos de búsqueda libre sin restricciones se establecieron de acuerdo al manual de Técnicas de Inventario y Monitoreo para los Anfibios de la Región Tropical Andina, documento referenciado por la Metodología general para la elaboración y presentación de estudios ambientales (2018), en el cual se define la técnica Inventario de especies (búsqueda libre y sin restricciones) y determina que es el método más eficiente para obtener el mayor número de especies en el menor tiempo por parte de colectores experimentados. Consiste en realizar caminatas durante el día y la noche, en busca de anfibios, pero sin que existan mayores reglas para la búsqueda (excepto el revisar minuciosamente todos los microhábitats disponibles, sin embargo, se tomó como recorrido mínimo el establecido por Alonso y García (2017), autores que definen 400 m como distancia mínima recomendable para los recorridos de observación de los grupos. Los recorridos libres abarcaron todas las coberturas vegetales presentes en el área, realizando 21 transectos que variaron entre 607 m y 2036 m, está oscilación en la longitud obedeció a las condiciones del terreno y al tamaño de las unidades de cobertura, donde se eligieron las áreas con mayor cobertura de cada unidad con el fin de alcanzar distancias mayores en los transectos y evitar los efectos de borde que pudieran afectar los resultados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los transectos se realizaron en las horas en que suelen tener mayor actividad los organismos, revisando zonas preferenciales que cubren las necesidades ambientales básicas de este tipo de organismos, como cuerpos de agua (charcas, caños, quebradas), caminos o trochas dentro del bosque, pastos bajos, entre otros, así como microhábitats potenciales y refugios como madrigueras abandonadas, hojarasca, piedras, troncos o material en descomposición. La caracterización de la herpetofauna se realizó en horarios diurnos que iniciaron desde las 9:00 hasta las 12:00 horas y nocturnos entre las 16:00 a las 21:00 horas, para los dos grupos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Avifauna: La caracterización de este grupo de fauna, se realizó tomando como base la metodología planteada por Villarreal et al. (2004), Donde se combina distintas estrategias como censos visuales y auditivos, redes de niebla y encuestas, cada una aportan elementos complementarios para elaborar una caracterización completa del grupo, donde los censos permiten cubrir un área extensa registrando numerosas especies, en tanto redes de niebla, aunque generan pocas capturas por unidad de tiempo permiten obtener información relevante sobre características morfológicas o ecológicas de las especies. Por otra parte, las encuestas realizadas a los habitantes, ayudaron a identificar algunas especies y a determinar los usos que la población hace de la avifauna. A continuación, se especifican las técnicas y métodos utilizados:</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Transectos de observación: Las coberturas fueron caracterizadas mediante recorridos de observación donde nuevamente Villareal et al (2006), definen que la observación de aves es uno de los métodos más aplicados para conocer la composición de la avifauna, permitiendo obtener listas más completas y representativas posibles, se realizaron transectos desde 834 m hasta 2000 m, su variación se debió a las características del terreno al momento de iniciar los monitoreos, abarcando los diferentes tipos de cobertura de la zona de influencia del proyecto. En ellos se recolectó información a través del método de observación directa, utilizando binoculares de 10x50 y de 10x40. Adicionalmente se realizó un registro fotográfico de la avifauna observada, para la posterior confrontación con guías de campo (Hilty y Brown, 2001, MCMullan, et al., 2010, entre otras). Las observaciones se realizaron en la mañana desde las 06:00 horas hasta las 10:00 horas y en la tarde desde las 15:00 horas hasta las 18:00 horas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Captura con redes de niebla: Se emplearon 10 redes de niebla de 12 metros de largo por 2,5 metros de alto. Coordenadas de trampas y redes de niebla), con ojo de malla 36 mm, cuyo arreglo se mantuvo por dos (2) días en las coberturas naturales y seminaturales, Villareal et al (2006) establece como esta técnica es muy eficiente en coberturas vegetales con mayor estructura donde la observación por recorridos se dificulta. Las redes se abrieron desde las 06:00 hasta las 10:00 horas y desde las 15:00 hasta las 18:00 horas, y fueron revisadas cada 15 minutos, para un esfuerzo de muestreo total por cobertura vegetal de 70 horas/red. A las aves capturadas, se les realizó un registro fotográfico y se realizaron anotaciones de la ubicación, número cobertura y coordenadas en el formato de registro de trampas y redes fauna silvestre.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: Los registros de mamíferos fueron obtenidos durante la fase de campo para los mamíferos pequeños, medianos, grandes y voladores, a través de transectos, trampas para mamíferos terrestres y redes de niebla para mamíferos voladores, que en conjunto con los datos de trampeo permitieron obtener un esfuerzo de muestreo suficiente para el área de influencia. A continuación, se describe cada una de las técnicas y métodos utilizados:</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Transectos de observación: Se recorrieron transectos de entre 693 m y 1910 m, abarcando diferentes coberturas vegetales con el objeto de observar y anotar todas las especies de mamíferos a cada lado del transecto, de este modo el investigador camina a lo largo del transecto y cuenta sólo a las especies de mamíferos (grandes, medianos, pequeños y voladores) que observe dentro de la franja. El esfuerzo de muestreo fue medido en términos de horas totales de detección por distancia total recorrida, teniendo en cuenta los datos de la distancia de cada trayecto y la hora de inicio y finalización de cada recorrido. Durante los recorridos se realizó la observación, identificación y registro fotográfico de huellas y rastros las cuales incluyen heces, restos óseos, madrigueras, rasguños, pieles, comederos, osamenta, senderos, entre otros, que permitieron establecer la presencia y uso del ecosistema de una determinada especie.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Trampas Sherman: Para la captura de los mamíferos terrestres pequeños se hizo mediante la instalación de trampas Sherman, este método se empleó con el propósito de capturar los individuos mediante cebos a base de avena en hojuelas, frutas, atún y/o sardina, dos (2) días por cobertura vegetal, con distancia de separación mínima de 5 m entre cada trampa, ubicando al menos 25 unidades de ellas por cobertura. Este arreglo se mantuvo durante dos (2) noches en cada cobertura, para alcanzar un esfuerzo de muestreo por cobertura de 25 trampas/2 noches. Las trampas se observaron cada mañana, para revisar los sistemas de activación de la trampa, cambiar cebos, y en los casos en los que se encontró individuos tomar registros fotográficos, medición y liberación de los individuos capturados. Las coberturas donde se realizó la instalación de las trampas fueron seleccionadas por su mayor disponibilidad de recursos, como alimento, refugio, agua, entre otros, que permitieran una mayor probabilidad de captura.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Trampas Tomahawk: Para este grupo de mamíferos se realizó la instalación de trampas Tomahawk. Coordenadas de trampas y redes de niebla), las cuales tienen dimensiones de 18 x 18 x 60 cm). Para las caracterizaciones se ubicaron 5 trampas con cebo en transectos lineales, con una distancia de separación hasta de 40 m entre trampa para áreas boscosas, y hasta 150 m en áreas abiertas. Lo anterior se realizó en las coberturas naturales y seminaturales, donde se mantuvo durante 2 noches (48 horas) en cada unidad de cobertura vegetal.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Redes de niebla: Para la captura de mamíferos voladores, se utilizaron 5 redes de niebla de 12 m de largo por 2 m de alto, empleando los mismos sitios de postura de las redes utilizadas para aves. Las redes se abrieron en horas de la noche de 18:00 – 22:00 horas, durante dos (2) días por cobertura vegetal natural y seminatural identificada, para un total de 40 horas/red por cobertura. Una vez liberado de la red, el ejemplar capturado fue caracterizado morfo-métricamente. Coordenadas de trampas y redes de niebla) y se realizó el respectivo registro fotográfico. Finalmente, se realizó la determinación del ejemplar y su liberación, teniendo precaución de marcar con cortes pequeños de pelo para evitar el reconteo. Las coberturas donde se realizó la apertura de redes, obedeció a las características de disponibilidad de hábitat, recursos y refugio que permitieran el mayor número de capturas posibles, las redes se ubicaron al interior y al borde de bosques o de los lugares que habitualmente emplean los murciélagos para desplazarse y donde hay más oportunidad captura tales como cuerpos de agua, arroyos, sendas, caminos y claros; características que se presentaron en las coberturas seleccionadas y que permitieron obtener en conjunto con los mamíferos no voladores, un esfuerzo de muestreo suficiente para el área de influencia.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cámaras trampa: El método consistió en colocar 5 cámaras trampa por cobertura natural en estaciones de muestreo preseleccionadas (al azar o sistemáticamente), sobre áreas, transectos o senderos que utilizan los animales.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fase de determinación de especies: Durante esta etapa se llevó a cabo la revisión de los datos y fotografías de los individuos cuya determinación no fue posible durante la fase de campo a través de claves taxonómicas o dicotómicas en caracteres morfológicos y guías de fauna silvestre para la identificación de los individuos. La revisión taxonómica de las especies de los diferentes grupos de fauna estuvo basada en las listas de especies proporcionadas por el Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia), así como las colecciones biológicas del Instituto de Investigación en Recursos Biológicos Alexander Von Humboldt, entre otras. Adicionalmente, para la herpetofauna presente en el área de influencia se tuvo en cuenta las bases de datos Amphibian database y The Reptile database. Para la avifauna se revisaron las categorías establecidas en Avibase, y para la mastofauna se revisó la taxonomía establecida en Mammal species of the world, Third edition.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El proyecto de la nueva Subestación Toluviejo 220 kv y líneas asociadas - Tramo 1, se ubica en los departamentos de Sucre y Córdoba, y los municipios: Chinú, Sampués, Sincelejo y San José de Tolu Viejo.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El presente estudio se estructuró según los términos de referencia para el sector eléctrico (TdR-17) y la Metodología General para la presentación de Estudios del Ministerio de Ambiente y Desarrollo Sostenible, en donde se exponen los lineamientos que se deben tener en cuenta para la presentación de estudios ambientales y las normas técnicas para la presentación documental y cartográfica.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>En el proceso de estructuración y validación de los datos, se realizó el control de la calidad de la información. A continuación, se enumeran los procesos asociados a esta actividad:
+1. Revisión de la información documentada asociada a los datos biológicos;
+2. Estructuración de los datos en el estándar Darwin Core (DwC) según elementos, definiciones y vocabularios controlados;
+3. Validación y limpieza de la información consignada en el DwC.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="C&amp;MA-AMB-2102 / UPME 05-2018">
+                <title>Subestación Toluviejo 220 kv y líneas asociadas - Tramo 1</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Leydi Johanna</givenName>
+                    <surName>Bernal Rincón</surName>
+                    </individualName>
+            <userId directory="https://www.linkedin.com/profile/view?id=">leidy-johanna-bernal-rincón-7a5266a</userId>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Maria Elena</givenName>
+                    <surName>Camayo Estupinan</surName>
+                    </individualName>
+            <userId directory="https://www.linkedin.com/profile/view?id=">maría-elena-camayo-estupiñán</userId>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>El proyecto “Nueva subestación Toluviejo 220kv y líneas de transmisión asociadas – Tramo 1” hace parte del Plan de Expansión de Referencia Generación – Transmisión 2015-2029, adoptado mediante Resolución del Ministerio de Minas y Energía 40095 de febrero 1 de 2016, modificada mediante Resolución MME No 40813 de 3 de agosto de 2018, establecido con el objetivo de garantizar un adecuado abastecimiento de la demanda de energía eléctrica del país.
+
+Celsia Colombia S.A E.S.P., presenta el Estudio de Impacto Ambiental (EIA), estructurado y elaborado según los TdR-17 para la elaboración de Estudios de Impacto Ambiental – EIA en Proyectos de Sistemas de Transmisión de Energía Eléctrica, acogidos mediante la Resolución 0075 del 18 de enero de 2018, para la solicitud de la licencia ambiental del Proyecto “UPME 05-2018 Nueva Subestación Toluviejo 220 kV y Líneas de transmisión asociadas – Tramo 1”.</para>
+                </abstract>
+                <funding>
+                    <para>Celsia Colombia S.A. E.S.P.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El proyecto “Nueva Subestación Toluviejo 220 kV y líneas de transmisión asociadas – Tramo 1” , se encuentra localizado en los departamentos de Córdoba y Sucre; cuenta con 40,846km de longitud. La línea de transmisión LT Chinú – Toluviejo discurre por los municipios de Chinú en el Departamento de Córdoba, y Sampués, Sincelejo y Toluviejo en el departamento de Sucre.
+
+El trazado establecido para el presente proyecto se desarrollará en 7 municipios de los departamentos de Sucre y Bolívar, desde el punto de vista ambiental estará bajo la jurisdicción de la Corporación Autónoma Regional de Sucre (CARSUCRE) y la Corporación Autónoma Regional del Canal del Dique (CARDIQUE).</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>De acuerdo con los requerimientos de los términos de referencia para el sector eléctrico (TdR-17), así como la Metodología General para la Presentación de Estudios Ambientales, se presenta el alcance del presente Estudio de Impacto Ambiental – EIA. Así mismo, dicho estudio se elaboró bajo la lógica de optimizar y racionalizar el uso de los recursos naturales y culturales, previniendo, evitando y minimizando los riesgos e impactos negativos que pueda ocasionar el proyecto.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:33Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/bhzxld">Bernal Rincon L J, Camayo Estupiñan M E, Escobar D, Sanchez Sarmiento L Y, Ramirez Rivera R M, Perez A T, Becerra D F, Velasquez Ospina J, Consultoría y Medio Ambiente S.A. (2024). Fauna y Flora del proyecto: Subestación Toluviejo 220 kv y líneas asociadas - Tramo 1. Version 1.1. Celsia Colombia S.A. E.S.P.. Occurrence dataset https://doi.org/10.15472/bhzxld accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Rodríguez N., D. Armenteras, M. Morales y M. Romero M. 2004. Ecosistemas de los Andes Colombianos. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Bogotá.</citation>
+                <citation>IDEAM, IGAC, IAvH, INVEMAR; I. SINCHI e IIAP. (2007). Ecosistemas continentales, costeros y marinos de Colombia. Instituto de Hidrología, Meteorología y Estudios Ambientales, Instituto Geográfico Agustín Codazzi, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Instituto de Investigaciones Ambientales del Pacífico Jhon von Neumann, Instituto de Investigaciones Marinas y Costeras José Benito Vives De Andréis, Instituto Amazónico de Investigaciones Científicas Sinchi. Bogotá: Imprenta Nacional de Colombia. 276 p + 37 hojas cartográficas. ISBN: 978-958-8323-16-9.</citation>
+                <citation>Holdridge, Leslie R. 1987. Ecología basada en zonas de vida. Agroamerica. ISBN 9290391316. 216 pag.</citation>
+                <citation>Walter, H. 1985. Vegetation of the Earth and ecological systems of the geobiosphere. Tercera edición. Springer–Verlag, New York.</citation>
+                <citation>Hernández-C. J. y H. Sánchez P. 1992. Biomas terrestres de Colombia. En: Halffter, G. (comp.). La diversidad biológica de Iberoamérica. Vol. I. Acta Zoológica Mexicana, Nueva Serie, Volumen Especial. Pp. 153-173.</citation>
+                <citation>Walter, H. 1977. Zonas de vegetación y clima. Breve exposición desde el punto de vista causal y global. Ed. Omega, S. A. Barcelona, España. 245 pp.</citation>
+                <citation>Carrizosa, J., &amp; Hernández, J.I. 1990. Selva y futuro. Editorial El Sello. Colombia, p. 213.</citation>
+                <citation identifier="https://www.rds.org.co/aa/img_upload/cd3189bd6b9a1ea1575134c54f92a42c/Diversidad_1.PDF">Hernández, C. J. I., Hurtado, G. A., Ortiz, Q. R., Walschburger, T. 1992.Unidades Biogeograficas de Colombia, en: G. Halffter (editor). 1992. La Diversidad biológica Iberoamericana I. Acta Zoológica Mexicana, CYTED-D, México.</citation>
+                <citation>Latorre, J.P., Jaramillo, O., Corredor, L., Arias, D., 2014. Condición de las Unidades Ecobiogeográficas Continentales y Sistema Nacional de áreas Protegidas en Colombia (Base de datos geográfica a escala 1:100.000). Parques Nacionales Naturales de Colombia.</citation>
+                <citation>Rincón-Romero, M. Jarvis, A. y Mulligan, M. (2012).Cobertura vegetal en Colombia. Renata, 6 (4), 12-26.</citation>
+                <citation>Di Gregorio A, LJM Jansen (2005) Land Cover Classification System Classification concepts and user manual Software version (2). In: 8 EaNRS (ed). Food and Agriculture Organization of the United Nations, Rome.</citation>
+                <citation>IDEAM, 2010. Leyenda Nacional de Coberturas de la tierra. Metodología Corine Land Cover adaptada para Colombia Escala 1:100.000.</citation>
+                <citation>Sánchez S., R. 1986. Vegetación de galería y sus relaciones hidrogeomorfológicas. Ingeniería Hidráulica en México. 70-78.</citation>
+                <citation>Becerra, J.E. 1971. Notas de ecología forestal. Universidad Distrital Francisco José de Caldas. Bogotá.</citation>
+                <citation>Hyatt, L.A., M.S. Rosenberg, T.G. Howard, G. Bole, W. Fang, J. Anastasia, K. Brown, R. Grella, K. Hinman, J.P. Kurdziel and J. Gurevitch. 2003. The distance dependence prediction of the Janzen-Connell hypothesis: a meta-analysis. Oikos 103(3): 590-602</citation>
+                <citation>Finol, U.H. 1976. Métodos de regeneración natural en algunos tipos de bosques venezolanos. Revista Forestal Venezolana, 19(26):17-44.</citation>
+                <citation>Lamprecht, Hans. 1990. Silvicultura en los trópicos/Los ecosistemas forestales en los bosques tropicales y sus especies arbóreas -posibilidades y métodos para un aprovechamiento sostenido. Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ) GmbH. Eschborn</citation>
+                <citation>Acosta, V.H., Araujo, P., &amp;Iturre, M. 2006. Caracteres estructurales de las masas. Facultad de Ciencias Forestales. Universidad Nacional de Santiago del Estero. ISBN 978-987-1676-34-7</citation>
+                <citation>Menhinick, E.F. 1964. A Comparison of some Species-Individuals Diversity Indices Applied to Samples of Field Insects. Ecology, 45 (4): 859-861</citation>
+                <citation>Shannon, C.E. and W. Weaver. 1949. The Mathematical Theory of Communication. University Illinois Press, Urbana, IL.</citation>
+                <citation>Simpson, E.H. 1949. Measurement of Diversity. Nature, 163: 688.</citation>
+                <citation>Yepes, A., Navarrete, D., Duque, A., Phillips, J., Cabrera, K., Alvarez, E., Ordoñez, M. (2011). Protocolo para la estimación nacional y subnacional de biomasa - carbono en Colombia. Bogotá D.C.: Instituto de Hidrología, Metereología y Estudios Ambientales - IDEAM.</citation>
+                <citation>Rangel-Ch, J.O., &amp; A. Velázquez, 1997. Métodos de estudio de la vegetación. 59-87 pp. En: Rangel-Ch, J.O., P. Lowy-C, M. Aguilar-P. (eds.), Diversidad Biótica II. Tipos de Vegetación en Colombia. Universidad Nacional de Colombia-Instituto de Ciencias Naturales, Instituto de hidrología, Meteorología y estudios Ambientales (IDEAM)-Ministerio del Medio Ambiente, Comité de Investigaciones y Desarrollo Científico-CINDEC.U.N, Academia Colombiana de Ciencias Exactas, Físicas y Naturales. Bogotá, D.C. pp. 436.</citation>
+                <citation>Guías Técnicas para la Ordenación y Manejo Sostenible de los Bosques Naturales. Ministerio del Medio Ambiente – Organización Internacional de Maderas Tropicales. Bogotá, 2002.</citation>
+                <citation>Margalef, R. (1951). Diversidad de especies en las comunidades naturales. Publicación del Instituto Biología Aplicada. Barcelona, (9): 5-27</citation>
+                <citation>Ogawa H, Yoda K, Ogino K, Kira T. 1965. Comparative ecological studies on three main types of forest vegetation in Thailand II. Plant biomass. Nature and Life Southeast Asia. 4:49-80.</citation>
+                <citation>Arruda, D. M., D. O. Brandao, F. V. Costa, G. S. Tolentino, R. D. Brasil, S. N. D´ângeloneto &amp; Y. R. Nunes-Ferreira. 2011. Structural aspects and fl oristic similarity amongtropical dry forest fragments with different management histories in Northern Minas Gerais, Brazil. Revista Árvore 35: 131-142.</citation>
+                <citation>LOYN, R.H., AND C. MCALPINE. 2001. Spatial patterns and fragmentation: indicators for conserving biodiversity in forest landscapes. P. 391– 422 in Criteria and indicators for sustainable forest management, Raison, R.J., A.G. Brown, and D.W. Flinn (eds.). IUFRO Research Series 7, CABI Publishing, United Kingdom.</citation>
+                <citation>HAILA, Y. 1999. Islands and fragments. P. 234 –264 in Mantaining biodiversity in forest ecosystems. Hunter, M.L. (ed.). Cambridge University Press, United Kingdom</citation>
+                <citation>Bogaert, J., Bamba, I., Koffi, K. J., Sibomana, S., Djibu, J.-P. K., Champluvier, D. Visser, M. N. (2008). Fragmentation of Forest Landscapes in Central Africa: Causes, Consequences and Management. In R. Lafortezza, G. Sanesi, J. Chen, &amp; T. R. Crow (Eds.), Patterns and Processes in Forest Landscapes: Multiple Use and Sustainable Management (pp. 67–87). https://doi.org/10.1007/978-1-4020-8504-8_5</citation>
+                <citation>Medina Rangel, G. (2008). Programa Nacional para la Conservación de Serpientes en Colombia. Bogotá D.C.: Corantioquia - Instituto de Ciencias Naturales - Universidad Nacional de Colombia.</citation>
+                <citation>González Romero, A., &amp; Lara López, M. (2002). Alimentación de la iguana verde Iguana iguana (Squamata: Iguanidae)en la Mancha, Veracruz, México. Acta de Zoologia Mexicana (n.s.) 85, 139-152.</citation>
+                <citation>Pinzón, M &amp; Vásquez, E. (2012) Tortugas terrestres y de agua dulce de Colombia y manejo de decomisos. Universidad Nacional de Colombia. Bogotá, Colombia.</citation>
+                <citation>Balaguera, S. Barbosa, J. Moná, Y. Farias, N. Caicedo, D. Martínez, R. González, J. (2010). Estado poblacional de Caiman crocodilus en la cuenca baja y media del río Atrato, Departamento de Chocó, Colombia. Revista Latinoamericana de Conservación. 1. 131-135.</citation>
+                <citation>Grisales, F &amp; Rendon, B (2014) Cnemidophorus lemniscatus (Linnaeus 1758) Lagartija, lobito, cuco y abanico. Asociación Colombiana de Herpetología - ACH Catálogo de Anﬁbios y Reptiles de Colombia. Volumen 2 (2): 43-50</citation>
+                <citation>Gutiérrez-Cárdenas, P., Rivas, G., Arredondo, JC &amp; Renjifo, J. 2015. Helicops danieli (versión de la errata publicada en 2017). La Lista Roja de la UICN de Especies Amenazadas 2015: e.T15179004A115353166.</citation>
+                <citation>Álvarez, M., Córdoba, S., Escobar, F., Fagua, G., Gast, F., Mendoza, H., Villareal, H. (2004). Manual de métodos para el desarrollo de inventarios de biodiversidad. Bogotá, Colombia: Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</citation>
+                <citation>SiB Colombia (2016) SiB Colombia, Sistema de Información sobre Biodiversidad de Colombia</citation>
+                <citation>Giner, S. B. (2015). Guía práctica de ornitología. Caracas, Venezuela: Universidad Central de Venezuela.</citation>
+                <citation>ABO, CAR. (2000). Aves de la Sabana de Bogotá. guía de campo. Bogotá D.C: Asociación Bogotana de Ornitología.</citation>
+                <citation>Mahler, Bettina. (2003). Evolución del plumaje y el canto en las palomas americanas (Aves: Columbiformes). Facultad de Ciencias Exactas y Naturales. Universidad de Buenos Aires.</citation>
+                <citation>Angulo A., J. V.-A.-M. (2006). Técnicas de inventario y monitoreo para los anfibios de la región tropical andina. Conservacion Internacional, serie Manuales de Campo N°2. Bogota D.C.: panamericana Formas e Impresos.</citation>
+                <citation>Knutson, M. G., Hines, R. K., Powell, L. K., Friberg, M. A., &amp; Niemi, G. J. (2006). An Assessment of Bird Habitat Quality Using Population Growth Rates. En T. C. Society, The Condor: Ornithological Applications (págs. 301–314,). Ornithological Society.</citation>
+                <citation>Yahner, S. K. (2009). Site Selection and Nest Survival of Early Successional Birds in Central Pennsilvania. Pennsylvania, EE. UU: The Wilson journal of Ornithology.</citation>
+                <citation>Cueto, V, Lopez de Casenave, J, Sagario, M y Damonte, J (S.F). Relación aves-vegetación: Importancia de los algarrobales para la avifauna del Desierto del Monte Grupo de investigación en Ecología de Comunidades de Desierto (ECODES), Universidad de Buenos Aires (UBA).</citation>
+                <citation>Brown, W., &amp; Hilty, S. (2001). Guía de las aves de Colombia. New Jersey: Princeton University Press.</citation>
+                <citation>I.D, O., &amp; Turienzo, P. (2009). Insects found in birds&apos; nests from the Neotropical Region (except Argentina) and immigrant species of Neotropical origin in the Nearctic Region. Vietnam: Zootaxa.</citation>
+                <citation>Miñarro, M. (2009). Nuestras aves. Argentina: Asociación ornitológica del Plata.</citation>
+                <citation>Ibañez &amp; Oliveros (2011) Bioecología y estado de conservación del condor de selva Sarcoramphus papa Linnaeus 1758</citation>
+                <citation>Naranjo, L. G., J. D. Amaya, D. Eusse-González y Y. Cifuentes-Sarmiento (Editores). 2012. Guía de las Especies Migratorias de la Biodiversidad en Colombia. Aves. Vol. 1. Ministerio de Ambiente y Desarrollo Sostenible/ WWF Colombia. Bogotá, D.C. Colombia. 708 p</citation>
+                <citation>Valderrama, C. y G. Kattan (Eds.). 2006. Plan de manejo del mono aullador rojo (Alouatta seniculus) en la región del SirapEje Cafetero y valle del Cauca. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y Fundación EcoAndina/WCS Colombia. Bogotá, D. C. - Colombia. 92 p. errama, C. Kattan, G.</citation>
+                <citation>Garcés-Restrepo, Mario F.; Saavedra-Rodríguez, Carlos A. Densidad de ardilla roja (Sciurus granatensis) en hábitats con diferentes coberturas vegetales en los Andes de Colombia Mastozoología Neotropical, vol. 20, núm. 2, julio-diciembre, 2013, pp. 381-386</citation>
+                <citation>Garcia Rivera, Lainet &amp; Mancina, Carlos. (2011). Murciélagos Insectívoros.</citation>
+                <citation>Rojas, A., Santos, P., River, I., Petriz, E. y Pardo., A (2000) Determinación del consumo diario de alimento en cuatro especies de murciélagos herbívoros (Phyllostomidae) mantenidos en cautiverio. Revista de la Universidad de Bolívar, México. Vol. 51:20-24</citation>
+                <citation>Sanchéz, Francisco (2017) Murciélagos de Villavicencio (Meta, Colombia): Evaluación preliminar de su diversidad trófica y servicios ecosistemicos</citation>
+                <citation>López, Ricardo; Reyna, Teresa; Guevara, Luis (2006) Mamíferos. México, México</citation>
+                <citation>González, J; Fedriani, J; López, J; Quitian, J; Suarez, E (2015) Frugívora y dispersión de semillas por mamíferos</citation>
+                <citation>Sánchez, D; Ruíz, P; Barrera, H (2008) Ecología de la herbivoría</citation>
+                <citation>Gowda, Juan &amp; Garibaldi, Lucas &amp; Pirk, Gabriela &amp; Blackhall, Melisa &amp; Chaneton, Enrique &amp; de Paz, Manuel &amp; Díaz, Soledad &amp; Galende, Gladys &amp; Mazia, Noemi &amp; Paritsis, Juan &amp; Raffaele, Estela &amp; Relva, María &amp; Sasal, Yamila. (2014). Herbívoros: actores clave.</citation>
+                <citation>Hance, Jeremy (2010) La importancia de los grandes depredadores: Un repaso exhaustivo de las investigaciones más recientes</citation>
+                <citation>Rumiz, Damian (2010) Roles ecológicos de los mamíferos medianos y grandes</citation>
+                <citation>Collazos Paz, Gustavo Adolfo. (2007) Los murciélagos hematófagos y su implicación en poblaciones humanas</citation>
+                <citation>Payán, E; Soto, C (2012) Los felinos de Colombia. Ministerio de Ambiente y Desarrollo Sostenible. Bogotá, Colombia</citation>
+                <citation>Roldan G, y Ramirez, J. 2008. Fundamentos de limnología neotropical. Editorial Universidad de Antioquia. Medellín.</citation>
+                <citation>Montoya, Y., &amp; Aguirre, N (2013). Estado del arte del conocimiento sobre perifiton en Colombia. Revista Gestión y Ambiente</citation>
+                <citation>Ramirez, A. y G. Viña. 1998. Santafé de Bogotá. 293 p. Limnología colombiana. Aportes a su conocimiento y estadísticas de análisis.</citation>
+                <citation>Lievano, A. &amp; Ospina, R. 2007. Guía ilustrada de los macroinvertebrados acuáticos del río Bahamón. Primera edición. Universidad El Bosque e Instituto Alexander von Humbolt. Bogotá. 130 p.</citation>
+                <citation>Roldán, G. 1988. Guía para el estudio de los macroinvertebrados acuáticos del departamento de Antioquia. Fondo Para la proteccion del medio ambiente, FEN. Medellin Colombia. 217 p.</citation>
+                <citation>González, Orestes &amp; Spies, Martin &amp; Téllez, Bruno. (2013). Estado del conocimiento de la familia Chironomidae (Insecta: Diptera) en Cuba. Dugesiana. 20. 233-242.</citation>
+                <citation>Vargas Ramos, Diana Carolina. Efemeropteros de la quebrada Yavi (Natagaima- Tolima): Aspectos taxonómicos y ecológicos. Ibagué: Universidad del Tolima, 2017</citation>
+                <citation>Jiménez-Segura, LF, Galvis-Vergara, G., Cala-Cala, P., García-Alzate, CA, López-Casas, S., Ríos-Pulgarín, MI, Arango, GA, Mancera-Rodríguez, NJ, Gutiérrez -Bonilla, F. y Álvarez-León, R. 2016. Faunas de peces de agua dulce, hábitats y desafíos de conservación en las cuencas hidrográficas del Caribe del noroeste de América del Sur. Journal of Fish Biology 89: 65-101.</citation>
+                <citation>Maldonado-Ocampo, JA, Usma, JS, Villa- Navarro, FA, Ortega-Lara, A., Prada-Pedreros, S., Jimenez, LF, Jaramillo- Villa, U., Arango, A., Rivas T. y Sánchéz, GC 2012. Peces Dulceacuícolas del Chocó Biogeográfico de Colombia. WWF Colombia, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH), Universidad del Tolima, Autoridad Nacional de Acuicultura y Pesca (AUNAP), Pontificia Universidad Javeriana, Bogotá DC, Colombia.</citation>
+                <citation>Sánchez, JL, Bracken-Grissom, HD y Trexler, JC 2019. Las transiciones de agua dulce a marina pueden explicar la evolución de la herbivoría en el subgénero Mollienesia (género Poecilia, mollies y guppies). Revista biológica de la Sociedad Linneana 127 (4): 742-761</citation>
+                <citation>Jiménez-Segura, LF, Galvis-Vergara, G., Cala-Cala, P., García-Alzate, CA, López-Casas, S., Ríos-Pulgarín, MI, Arango, GA, Mancera-Rodríguez, NJ, Gutiérrez -Bonilla, F. y Álvarez-León, R. 2016. Faunas de peces de agua dulce, hábitats y desafíos de conservación en las cuencas hidrográficas del Caribe del noroeste de América del Sur. Journal of Fish Biology 89: 65-101</citation>
+                <citation>Roldan G, &amp; Ramírez, J. (2008). Fundamentos de limnología neotropical. Editorial Universidad de Antioquia. Medellín.</citation>
+                <citation>Uscanga-Martínez, A., F.J. Moyano-López, C.A. Álvarez-González &amp; N. Perales-García. (2011) Aplicaciones a la mejora de la utilización nutritiva del alimento en cíclidos cultivados en México.</citation>
+                <citation>Wetzel, R. G. 2001. Limnology: Lake and River Ecosystems. Academic Press. 3rd. p.700.</citation>
+                <citation>Morán-Angulo, Ramón Enrique; Téllez-López, Jorge; Cifuentes-Lemus, Juan Luis La investigación pesquera: Una reflexión epistemológica Theomai, núm. 21, 2010, pp. 97-112 Red Internacional de Estudios sobre Sociedad, Naturaleza y Desarrollo Buenos Aires, Argentina</citation>
+                <citation>Lagos, A. Angulo, A. Daza, A. Toro, D (2014) Zooplancton. Infozoa, Universidad del Magdalena.</citation>
+                <citation>Gallo, L. Aguirre, N. Palacio, J &amp; Ramirez, J (2009). Zooplancton (Rotifera y Microcrustacea) y su relación con los cambios del nivel del agua en la ciénaga de Ayapel, Córdoba, Colombia.</citation>
+                <citation>Iannacone, J &amp; Alvariño, L (2006). Diversidad de la artropofauna terrestre en la Reserva Nacional de Junín, Perú. Ecología Aplicada, 5(1,2), 2006. ISSN 1726-2216, Depósito legal 2002-5474. Departamento Académico de Biología, Universidad Nacional Agraria La Molina, Lima – Perú</citation>
+                <citation>Streble, H. Y Krauter, D. 1987. Atlas de los microorganismos de agua dulce. Ediciones Omega. Barcelona. 372 p.</citation>
+                <citation>Lievano, A. &amp; Ospina, R. 2007. Guía ilustrada de los macroinvertebrados acuáticos del río Bahamón. Primera edición. Universidad El Bosque e Instituto Alexander von Humbolt. Bogotá. 130 p.</citation>
+                <citation>Hernández-Manrique, O.L., Portocarrerro-Aya, M. &amp; G. Corzo. 2014. Mapa de Lineamientos para la conservación de la biodiversidad en Colombia. Proyecto Planeación Ambiental para la Conservacion de la biodiversidad en zonas operativas de Ecopetrol. Instituto de Investigaciones biológicas Alexander von Humboldt y Ecopetrol. Bogotá DC, Colombia</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-celsia.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="9b231df2-86ac-46e7-a707-79d6b964fb7c"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/wrui50</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=ecopetrol_seguimiento_cubarral</alternateIdentifier>
+        <title>Monitoreo al estado de los ecosistemas estratégicos en el bloque Cubarral, campos Castilla y Chíchimene</title>
+        <creator>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Gerencia de Gestión Ambiental y Relacionamiento</organizationName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>Health Safety and Environment S.A.S.</surName>
+            </individualName>
+            <organizationName>Health Safety and Environment S.A.S.</organizationName>
+            <address>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>comercial@hse-colombia.com</electronicMailAddress>
+            <onlineUrl>https://hse-colombia.com/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Gerencia de Gestión Ambiental y Relacionamiento</organizationName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2025-07-23
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            
+            El Bloque Cubarral, que incluye los Campos Castilla y Chichimene, se encuentra ubicado en los municipios de Acacías, Guamal, Castilla la Nueva y Villavicencio, se requirió a la sociedad la implementación de las acciones de monitoreo propuestas en las fichas de manejo, por ello el presente estudio se realiza el cargue de información con los resultados correspondientes del monitoreo de flora y fauna, el cual cuenta con un total de 2213 registros biológicos, pertenecientes a Plantae (1067) y animalia (1146),  Adicionalmente, contiene información de medidas abióticas del número de redes, trampas, Sherman, Tomahawk, técnicas de muestreo y técnicas de muestreo para flora.
+        
+        </abstract>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Sector empresarial</keyword>
+            <keyword>Alianza SiB Colombia ANDI</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Especies en veda</keyword>
+            <keyword>Flora fustal</keyword>
+            <keywordThesaurus>NA</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Samplingevent</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=ecopetrol_seguimiento_cubarral</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El bloque Cubarral se encuentra localizado en el departamento del Meta en los municipios de Guamal, Acacías, Villavicencio y Castilla La Nueva, tiene un área aproximada de 23.423,65 ha y se encuentra en jurisdicción de la Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena (CORMACARENA)</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.747233</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.587202</eastBoundingCoordinate>
+                    <northBoundingCoordinate>3.959966</northBoundingCoordinate>
+                    <southBoundingCoordinate>3.847451</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2023-09-04
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-10-09
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este recurso contiene un total de 2213 de los cuales para los reinos plantae (1067) y animalia (1146), para el reino plantae se presentan 2 clases, 18 ordenes, 46 familias, 86 generos y 140 especies. Para animalia 4 clases, 32 ordenes, 75 familias, 159 generos y 187 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Para Plantae se presentan 2 clases, 18 ordenes, 46 familias, 86 generos y 140 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Para Animalia 4 clases, 32 ordenes, 75 familias, 159 géneros y 187 especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leptodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bufonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Tinamidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Trochilidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Psittacidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Threskiornithidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Caviidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phyllostomidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Mustelidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Didelphidae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>daily</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <surName>Ecopetrol S.A.</surName>
+            </individualName>
+            <organizationName>Ecopetrol S.A. - Gerencia de Gestión Ambiental y Relacionamiento</organizationName>
+            <address>
+                <deliveryPoint>Cr. 13 No. 36 - 24</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gerenciaambientalecopetrol@ecopetrol.com.co</electronicMailAddress>
+            <onlineUrl>https://www.ecopetrol.com.co/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Para herpetos Se tomaron datos relevantes en la identificación tales como la presencia y/o ausencia de características morfológicas, el tipo, forma, tamaño y color de estructuras como glándulas, membranas timpánicas, discos y almohadillas, escudetes, pliegues, tubérculos, rebordes cutáneos, membranas interdigitales manuales y pediales, espolones y espinas humerales, los cuales se consignaron en fichas y libreta de campo, junto con el carácter morfométrico Longitud Rostro-Cloaca (LRC) cuando fue necesario.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Con el fin de identificar el ensamblaje de aves, se realizaron muestreos por detecciones visuales y auditivas siguiendo metodologías estandarizadas para muestreos de aves, para ello se realizaron recorridos sobre los ecosistemas en los picos de actividad de las aves entre las 6:00 – 9:30 horas y 15:00 - 18:30 horas, con el fin de obtener registros auditivos y visuales. Para esto se utilizó la metodología de transectos aleatorios de amplitud variable y tiempo restringido, el cual consiste en desplazarse lentamente y detenerse registrando los individuos visuales o auditivamente (sin considerar un ancho fijo de observación) dando lineamiento al Manual de Métodos para el Desarrollo de Inventarios de Biodiversidad. Adicionalmente, se realizaron puntos aleatorios de observación sobre los mismos recorridos y en la medida de lo posible se tomó el registro fotográfico de los individuos como soporte de la presencia de las especies en el área.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para realizar el trampeo de aves, se instalaron diez (10) redes de niebla de 12 m de largo por 3 m de alto (apróx. 120 mt lineales), con ojo de 30 mm y 36 mm según lo sugerido por Villareal. Las redes de niebla fueron ubicadas en dos estaciones de monitoreo sobre Bosque ripario. Las redes fueron revisadas aproximadamente cada 15 minutos con el fin de garantizar la supervivencia y el estado físico de cada individuo capturado. La apertura de las redes se realizó desde las 6:00-10:30 horas y de las 15:00-18:00 horas, en cada estación de monitoreo. En cada captura se realizó registro fotográfico al espécimen como soporte de la presencia de las especies en el área y posteriormente fueron liberados en el mismo lugar de captura.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para el inventario de mamíferos voladores se instalaron 10 redes de niebla de 12 m de largo por 3 m de alto, creando una pared para realizar el muestreo en cada uno de los ecosistemas y/o coberturas con oferta de alimento para quirópteros. La ubicación geográfica de las redes se registró con un GPS para su posterior mapeo,Las redes fueron activadas tres (3) noches por ecosistema como unidad muestral desde las 17:00 hasta las 23:00 horas, para abarcar los horarios de mayor actividad de la mayoría de las especies de murciélagos. Las redes fueron revisadas en intervalos de 15 a 30 minutos para retirar los individuos atrapados. En la se relaciona el esfuerzo de muestreo obtenido por ecosistema de acuerdo con el número de redes de niebla y tiempo de instalación. Se instalaron 8 trampas sherman Las trampas se dispusieron en forma lineal con distancias de separación de 10 metros aproximadamente entre sí dependiendo de la detección de zonas que pudieran estar siendo usadas de paso o refugio. Como complemento se instalaron ocho (8) cámaras trampa marca Bushnell® Trophy Cam en los diferentes ecosistemas. Para su instalación se tuvo en cuenta la vegetación que ofreciera cobertura o sombra y refugio dentro de la cual se puedan camuflar las especies más cripticas. La selección de los puntos de instalación se realizó en función de las preferencias de hábitat reportadas para mamíferos nocturnos y crepusculares</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para fustales, latizales y brinzales se realizará la caracterización de la vegetación terrestre con parcelas a individuos con 10cm DAP y mayores, con un tamaño de parcela de 0,1 ha, tamaño de 10m x 100m, el tamaño de la muestra (numero de parcelas) se calculó en función del máximo error del muestreo requerido.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El bloque Cubarral se encuentra localizado en el departamento del Meta en los municipios de Guamal, Acacías, Villavicencio y Castilla La Nueva, tiene un área aproximada de 23.423,65 ha y se encuentra en jurisdicción de la Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena (CORMACARENA).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>La técnica de inventario empleada fue la búsqueda libre sin restricciones propuesta por, Rueda, et al., (2006), la cual permite obtener mayor la información sobre la riqueza específica y la abundancia relativa en menos tiempo de muestreo, inspeccionando activamente los micro hábitats presentes en el área. Además, el muestreo por búsqueda libre facilita las comparaciones entre hábitats en un área determinada, en razón de las diferencias ambientales que impactan de alguna manera la composición y abundancia de la herpetofauna, aves y mamiferos.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Monitoreo al estado de los ecosistemas estratégicos en el bloque Cubarral, campos Castilla y Chíchimene</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Sandra Lidia</givenName>
+                    <surName>Zambrano Fajardo</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>El presente estudio contiene la información que corresponde a el seguimiento o monitoreo del bloque Cubarral para fauna y flora.</para>
+                </abstract>
+                <funding>
+                    <para>Ecopetrol S.A.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El bloque Cubarral se encuentra localizado en el departamento del Meta en los municipios de Guamal, Acacías, Villavicencio y Castilla La Nueva, tiene un área aproximada de 23.423,65 ha y se encuentra en jurisdicción de la Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena (CORMACARENA)</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:59Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/wrui50">Ecopetrol S.A., Health Safety and Environment S.A.S. (2025). Monitoreo al estado de los ecosistemas estratégicos en el bloque Cubarral, campos Castilla y Chíchimene. Ecopetrol S.A.. Sampling event dataset https://doi.org/10.15472/wrui50 accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Rueda, J. V., Castro F., Cortéz C. (2006). Técnicas para el inventario y muestreo de anfibios: una Compilación. 135-172, En Angulo, A., J. V. Rueda-Almonacid, J. V. Rodríguez- Maecha, E. La Marca. Técnicas de inventario y monitoreo para los anfibios de la región tropical andina, Conservación Internacional. Serie Manuales de Campo N° 2, Panamericana Formas e Impresos S.A., Bogotá, Colombia.</citation>
+                <citation>Villareal, H. M., Álvarez, M., Córdoba-Córdoba, S., Escobar, F., Fagua, G., Gast, F., ... &amp; Umaña, A. M. (2004). Manual de métodos para el desarrollo de inventarios de biodiversidad.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://gitlab.com/sib-colombia/logos/-/raw/main/socio-SiB-ecopetrol.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

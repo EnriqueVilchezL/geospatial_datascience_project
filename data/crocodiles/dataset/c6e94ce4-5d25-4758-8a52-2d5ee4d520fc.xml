@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="c6e94ce4-5d25-4758-8a52-2d5ee4d520fc"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/zlgszy</alternateIdentifier>
+        <alternateIdentifier>c6e94ce4-5d25-4758-8a52-2d5ee4d520fc</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.pt/ipt/resource?r=guinea_bissau_herpetological_collection_iict</alternateIdentifier>
+        <title>Guinea-Bissau Herpetological Collection - IICT</title>
+        <creator>
+            <individualName>
+                <givenName>Luis</givenName>
+                <surName>Ceriaco</surName>
+            </individualName>
+            <organizationName>Museu de Historia Natural e da Ciencia da Universidade do Porto</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>Praça Gomes Teixeira</deliveryPoint>
+                <city>Porto</city>
+                <administrativeArea>Porto</administrativeArea>
+                <postalCode>4099-002</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>963125545</phone>
+            <electronicMailAddress>luisceriaco@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-0591-9978</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Mariana</givenName>
+                <surName>Marques</surName>
+            </individualName>
+            <organizationName>Museu Nacional de História Natural e da Ciência - Universidade de Lisboa</organizationName>
+            <positionName>Associated Curator</positionName>
+            <address>
+                <deliveryPoint>Rua da Escola Politécnica 58</deliveryPoint>
+                <city>Lisboa</city>
+                <administrativeArea>Lisboa</administrativeArea>
+                <postalCode>1250-102</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>964295925</phone>
+            <electronicMailAddress>mptlmarques@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-1712-2632</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Luis</givenName>
+                <surName>Ceríaco</surName>
+            </individualName>
+            <organizationName>Museu de Historia Natural e da Ciencia da Universidade do Porto</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>Praça Gomes Teixeira</deliveryPoint>
+                <city>Porto</city>
+                <administrativeArea>Porto</administrativeArea>
+                <postalCode>4099-002</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>963125545</phone>
+            <electronicMailAddress>luisceriaco@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-0591-9978</userId>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Mariana</givenName>
+                <surName>Marques</surName>
+            </individualName>
+            <organizationName>Museu Nacional de História Natural e da Ciência - Universidade de Lisboa</organizationName>
+            <positionName>Associated Curator</positionName>
+            <address>
+                <deliveryPoint>Rua da Escola Politécnica 58</deliveryPoint>
+                <city>Lisboa</city>
+                <administrativeArea>Lisboa</administrativeArea>
+                <postalCode>1250-102</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>964295925</phone>
+            <electronicMailAddress>mptlmarques@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-1712-2632</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Luis Miguel</givenName>
+                <surName>Pires Ceríaco</surName>
+            </individualName>
+            <organizationName>Museu de Historia Natural e da Ciencia da Universidade do Porto</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>Praça Gomes Teixeira</deliveryPoint>
+                <city>Porto</city>
+                <administrativeArea>Porto</administrativeArea>
+                <postalCode>4099-002</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>963125545</phone>
+            <electronicMailAddress>luisceriaco@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-0591-9978</userId>
+            <role>CURATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Mariana</givenName>
+                <surName>Marques</surName>
+            </individualName>
+            <organizationName>Museu Nacional de História Natural e da Ciência - Universidade de Lisboa</organizationName>
+            <positionName>Associated Curator</positionName>
+            <address>
+                <deliveryPoint>Rua da Escola Politécnica 58</deliveryPoint>
+                <city>Lisboa</city>
+                <administrativeArea>Lisboa</administrativeArea>
+                <postalCode>1250-102</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>964295925</phone>
+            <electronicMailAddress>mptlmarques@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-1712-2632</userId>
+            <role>CURATOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Leonor</givenName>
+                <surName>Soares</surName>
+            </individualName>
+            <organizationName>Museu Nacional de História Natural e da Ciência - Universidade de Lisboa</organizationName>
+            <positionName>Research fellowship</positionName>
+            <address>
+                <deliveryPoint>Rua da Escola Politécnica 58</deliveryPoint>
+                <city>Lisboa</city>
+                <administrativeArea>Lisboa</administrativeArea>
+                <postalCode>1250-102</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <electronicMailAddress>leonor.b.s@hotmail.com</electronicMailAddress>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <pubDate>
+                2018-12-20
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The Guinea-Bissau herpetological collections of the Instituto de Investigação Científica Tropical (IICT), currently housed in the Museu Nacional de História Natural e da Ciência (MUHNAC) are part of the scientific collections of the Universidade de Lisboa (UL), Portugal. This set comprises a total of 968 records (968 specimens), representing 48 taxa (11 amphibians and 37 reptiles), representing the richest collection of Guinea-Bissau amphibians and reptiles in the world. These were collected between 1939 and 1991, either by targeted surveys promoted by the IICT or by fortuitous collections and donations by private individuals and researchers.
+        </abstract>
+        <keywordSet>
+            <keyword>Portuguese collections</keyword>
+            <keyword>Guinea-Bissau</keyword>
+            <keyword>Amphibia</keyword>
+            <keyword>Specimens</keyword>
+            <keyword>Reptilia</keyword>
+            <keyword>Museums</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">http://ipt.gbif.pt/ipt/archive.do?r=guinea_bissau_herpetological_collection_iict</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The Republic of Guinea-Bissau</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-16.886</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-13.535</eastBoundingCoordinate>
+                    <northBoundingCoordinate>12.79</northBoundingCoordinate>
+                    <southBoundingCoordinate>10.769</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1939
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                1991
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>The dataset comprises representatives of 22 families, 33 genus, 48 species and one subspecies of Amphibians and Reptiles.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Gymnophiona</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bufonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dermophiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dicroglossidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hyperoliidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pipidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ptychadenidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ranidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gekkonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Lamprophiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Agamidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Typhlopidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Viperidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Chamaeleonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Crocodylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Colubridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Amphisbaenidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Scincidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leptotyphlopidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Elapidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pythonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phyllodactilidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Varanidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Sclerophrys</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Geotrypetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Hoplobatrachus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Hyperolius</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Xenopus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Ptychadena</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Amnirana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Hemidactylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Boaedon</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Psammophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Agama</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Afrotyphlops</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Atractaspis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Bitis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Causus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Chamaeleo</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Crocodylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Crotaphopeltis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Cynisca</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Dasypeltis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Dispholidus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Grayia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Limaformosa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Lycophidion</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Mochlus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Myriopholis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Philothamnus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Naja</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Python</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Tarentola</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Toxicodryas</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Trachylepis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Varanus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sclerophrys regularis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sclerophrys sp.</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Geotrypetes seraphini</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hoplobatrachus occipitalis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hyperolius concolor</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hyperolius sp.</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Xenopus tropicalis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ptychadena bibronii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ptychadena mascareniensis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ptychadena ansorgii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Amnirana galamensis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hemidactylus angulatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Boaedon sp.</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Boaedon fuliginosus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Psammophis sp.</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Agama picticauda</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Agama sp.</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Agama boensis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Afrotyphlops punctatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Atractaspis aterrima</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Causus maculatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Bitis arietans</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chamaeleo senegalensis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chamaeleo gracilis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crocodylus suchus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotaphopeltis hotamboeia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Cynisca feae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dasypeltis confusa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dasypeltis gansi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Dispholidus typus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Grayia smithi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Limaformosa crossi</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lycophidion albomaculatum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Lycophidion irroratum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Mochlus guineensis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Myriopholis nasirostris</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Naja haje</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Philothamnus irregularis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Psammophis irregularis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Psammophis elegans</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Psammophis lineatus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Psammophis sibilans</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Python sebae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Toxicodryas blandingii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Trachylepis affinis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Trachylepis perroteti</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Varanus exanthematicus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Varanus niloticus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Subspecies</taxonRankName>
+                    <taxonRankValue>Tarentola ephippiata senegambiae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Luis</givenName>
+                <surName>Ceriaco</surName>
+            </individualName>
+            <organizationName>Museu de Historia Natural e da Ciencia da Universidade do Porto</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>Praça Gomes Teixeira</deliveryPoint>
+                <city>Porto</city>
+                <administrativeArea>Porto</administrativeArea>
+                <postalCode>4099-002</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>963125545</phone>
+            <electronicMailAddress>luisceriaco@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-0591-9978</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Mariana</givenName>
+                <surName>Marques</surName>
+            </individualName>
+            <organizationName>Museu Nacional de História Natural e da Ciência - Universidade de Lisboa</organizationName>
+            <positionName>Associated Curator</positionName>
+            <address>
+                <deliveryPoint>Rua da Escola Politécnica 58</deliveryPoint>
+                <city>Lisboa</city>
+                <administrativeArea>Lisboa</administrativeArea>
+                <postalCode>1250-102</postalCode>
+                <country>PORTUGAL</country>
+            </address>
+            <phone>964295925</phone>
+            <electronicMailAddress>mptlmarques@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-1712-2632</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>The herpetological collections were catalogued using the software Microsoft Excel. 
+
+We conducted extensive shelf surveys to locate all the remaining Guinea-Bissau specimens of amphibians and reptiles. After locating the specimens, basic curatorial procedures were taken. Each jar was cleaned, and ethanol or formalin was changed to 70% ethanol gradually. In certain cases jars were substituted as they were cracked or were otherwise not reliably sealable.
+
+All the information linked to the survinving specimens and/or jars were collected, copied, and linked to the specimen. 
+
+After completion of curatorial activities, each specimen was identified to the species and/or subspecies level. The identification of the specimens was accomplished by consulting the most updated available literature sources and followed the currently accepted nomenclature.
+
+Additionally, the specimens&apos; original information was re-checked at this phase, comparing the label data with surviving original field books and catalgoues, in order to screen for any initial cataloguing errors. 
+
+The collecting locality for each bibliographic reference was georeferenced following the GPS location available in newer publications, and then also converting to decimal degrees.
+
+When no data were available in the recent publications, we used &quot;GEOLocate online application&quot; (http://www.museum.tulane.edu/geolocate/) for georeferencing the locality cited . 
+
+The uncertainty of georeferenced localities was recorded whenever possible. For some records it was not possible to determine the coordinates due to insufficient location information. All coordinates are given in geographic format, decimal degrees, datum WGS 84.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The study covers all 8 regions of Guinea-Bissau (Bafatá, Biombo, Bissau, Bolama, Cacheu, Gabu, Oio, Quinara and Tombali). The temporal distribution is mainly concentrated in the decade of 1940&apos;s (especially in years 1945 and 1946).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The majority of the records of this dataset result from the Missões Científica da Guiné carried out by the former Junta de Investigação do Ultramar, coordinated by Fernando Frade during the period of 1945 and 1946. Some other material correspond to intermittent donations of specimens to the Junta de Investigação Científica do Ultramar from 1939 to 1991. Some of these specimens were previously studied and cited in Manaças (1947, 1949, 1950, 1951, 1955). The majority of the records refered in those publications were used in the most recent checklist of the amphibians and reptiles from the Bijagós archipelago and mainland Guinea-Bissau (Auliya et al.  2012).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Information from each specimen was catalogued in an Excel spreadsheet, involving two steps: i) digitization of specimen records; and ii) taxonomic revision and data checking. Nomemclature was checked through available literature, The Reptile Database [http://reptile-database.reptarium.cz/], and the Amphibia Species of the World v.6.0 [http://research.amnh.org/vz/herpetology/amphibia/]. Georeferencing followed the recommendations by Chapman and Wieczorek (2006), including the determination of uncertainty of coordinates, in particular when insufficient information was available from specimens&apos; records and labels to attribute a specific locality (e.g. Guinea-Bissau).</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:02Z</dateStamp>
+                <citation>Ceriaco L, Marques M, Ceríaco L (2018). Guinea-Bissau Herpetological Collection - IICT. Version 1.3. Instituto de Investigação Científica Tropical. Occurrence dataset https://doi.org/10.15468/zlgszy accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Manaças, S. (1947) Batráquios aglossos da Guiné Portuguesa. Separata dos Anais da Junta de Investigações Coloniais, Lisboa, Vol. II, Tomo III. Trabalhos da Missão Zoológica da Guiné (9): 63–69.</citation>
+                <citation>Manaças, S. (1949) Batráquios faneroglossos da Guiné Portuguesa. Separata dos Anais da Junta de Investigações Coloniais, Lisboa, Vol. IV, Tomo IV. Trabalhos da Missão Zoológica da Guiné (21): 143–164.</citation>
+                <citation>Manaças, S. (1950) As Explorações Zoológicas Africanas e a Batracologia. Batráquios da Guiné. Ministério das Colónias, Junta de Investigações Coloniais, Lisboa, 13 pp. pl. 1-3.</citation>
+                <citation>Manaças, S. (1951) Batráquios Aglossos da Guiné Portuguesa. Separata das Actas da Conferência Internacional dos Africanistas Ocidentais em Bissau 1947, Lisboa, Vol. III, 2ª Parte: 289-290.</citation>
+                <citation>Manaças, S. (1951) Sáurios da Guiné Portuguesa. Separata dos Anais da Junta de Investigações Coloniais, Lisboa, Vol. VI, Tomo IV, fascículo I. Trabalhos da Missão Zoológica da Guiné (28): 53-67.</citation>
+                <citation>Manaças, S. (1955) Sáurios e ofídios da Guiné Portuguesa. Junta das Missões Geográficas e de Investigação Coloniais, Lisboa. Anais, Vol. X, Tomo IV, fasc. I. Trabalhos da Missão Zoológica da Guiné e do Centro de Zoologia (43): 185–213.</citation>
+                <citation>Auliya, M., Wagner, P. and Böhme, W. (2012) The herpetofauna of the Bijagós archipelago, Guinea-Bissau (West Africa) and a first country-wide checklist. Bonn zoological Bulletin, 61 (2): 255-281.</citation>
+                </bibliography>
+                <resourceLogoUrl>http://www2.iict.pt/imagens/simbolo.gif</resourceLogoUrl>
+                <collection>
+                    
+                    
+                    <collectionName>Instituto de Investigação Científica Tropical</collectionName>
+                </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>specimens</jgtiUnitType>
+                    <jgtiUnits>968</jgtiUnits>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

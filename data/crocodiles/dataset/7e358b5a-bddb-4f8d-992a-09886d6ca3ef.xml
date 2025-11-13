@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="7e358b5a-bddb-4f8d-992a-09886d6ca3ef"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/jd2c7e</alternateIdentifier>
+        <alternateIdentifier>7e358b5a-bddb-4f8d-992a-09886d6ca3ef</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr14002</alternateIdentifier>
+        <alternateIdentifier>9293c64f-9f70-376d-9029-67c960aa6353</alternateIdentifier>
+        <title>Northern Territory WildWatch</title>
+        <creator>
+            <organizationName>BioCollect</organizationName>
+        </creator>
+        <metadataProvider>
+            <organizationName>BioCollect</organizationName>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>Atlas of Living Australia</organizationName>
+            <address>
+                <deliveryPoint>CSIRO Ecosystems Services</deliveryPoint>
+                <city>Canberra</city>
+                <administrativeArea>ACT</administrativeArea>
+                <postalCode>2601</postalCode>
+                <country>AUSTRALIA</country>
+            </address>
+            <electronicMailAddress>info@ala.org.au</electronicMailAddress>
+            <role>DISTRIBUTOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-09-12
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            All sighting records will be entered into the NT Fauna Atlas. Fauna Atlas records can be accessed via NR Maps and the Atlas of Living Australia. Personal datasets of fauna observation can also be submitted to the Fauna Atlas by email.
+        </abstract>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://dwca-exports.ala.org.au/dr14002.zip</url>
+            </online>
+        </distribution>
+        <purpose>&lt;para/&gt;</purpose>
+        <contact>
+            <organizationName>Atlas of Living Australia</organizationName>
+            <address>
+                <deliveryPoint>CSIRO Ecosystems Services</deliveryPoint>
+                <city>Canberra</city>
+                <administrativeArea>ACT</administrativeArea>
+                <postalCode>2601</postalCode>
+                <country>AUSTRALIA</country>
+            </address>
+            <electronicMailAddress>info@ala.org.au</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Incidental Fauna Observations method:
+opportunistic
+Opportunistic/ad-hoc observation recording</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Incidental Fauna Observations data quality description:
+Data quality assurance methods: nodqmethodsused</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:31Z</dateStamp>
+                <citation>Northern Territory Government (2023). Northern Territory WildWatch. Occurrence dataset https://doi.org/10.15468/jd2c7e accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://collections.ala.org.au/data/dataProvider/bc-brandmark-final_logo-stackedfc.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

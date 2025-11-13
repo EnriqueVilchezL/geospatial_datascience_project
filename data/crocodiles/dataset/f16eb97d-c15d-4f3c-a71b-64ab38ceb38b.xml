@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="f16eb97d-c15d-4f3c-a71b-64ab38ceb38b"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/yaq5tk</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=rrbb_bita_herpetos_2017</alternateIdentifier>
+        <alternateIdentifier>f16eb97d-c15d-4f3c-a71b-64ab38ceb38b</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=rrbb_bita_herpetos_2017</alternateIdentifier>
+        <title>Anfibios y reptiles de la cuenca alta y media del río Bita, Vichada (Colombia)</title>
+        <creator>
+            <individualName>
+                <givenName>Fernando</givenName>
+                <surName>Trujillo Gonzales</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Director Científico</positionName>
+            <address>
+                <deliveryPoint>Calle 84 N 21-64</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 1 2564682</phone>
+            <electronicMailAddress>fernando@omacha.org</electronicMailAddress>
+            <onlineUrl>http://www.omacha.org</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Fernando</givenName>
+                <surName>Trujillo Gonzales</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Director Científico</positionName>
+            <address>
+                <deliveryPoint>Calle 84 N 21-64</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 1 2564682</phone>
+            <electronicMailAddress>fernando@omacha.org</electronicMailAddress>
+            <onlineUrl>http://www.omacha.org</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Infraestructura Institucional de Datos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Calle 28A No. 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Andrés</givenName>
+                <surName>Acosta</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Carrera 8 No. 15-08  Claustro de San Agustín</deliveryPoint>
+                <city>Villa de Leyva</city>
+                <administrativeArea>Boyacá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Camila</givenName>
+                <surName>Durán</surName>
+            </individualName>
+            <organizationName>Fundación Omacha</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 84 N 21-64</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Cesar</givenName>
+                <surName>Quiroga</surName>
+            </individualName>
+            <organizationName>Serpentario Nacional</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>57 312 338 48 17</phone>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Monica</givenName>
+                <surName>Morales</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <positionName>Investigadora</positionName>
+            <address>
+                <deliveryPoint>Calle 28A No. 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>3202767</phone>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Adrian</givenName>
+                <surName>Vasquez</surName>
+            </individualName>
+            <organizationName>Fundación Omacha|</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 84 N 21-64</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Diego</givenName>
+                <surName>Arroyo</surName>
+            </individualName>
+            <organizationName>WWF</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2019-06-26
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Se realizó una aproximación preliminar de la herpetofauna asociada a la cuenca del río Bita; el inventario involucró muestreos durante la estación seca (13-23 de enero de 2016) y durante la época de lluvias (25 de mayo – 4 de junio de 2016), a partir de los cuales se reportan 19 especies de anfibios y 38 de reptiles. Se evaluaron cuatro ventanas de trabajo, en las cuencas media-baja, media-alta y alta del río Bita. Se resalta el hallazgo de varias especies que reflejan el carácter estacional de la cuenca y la ausencia de muestreos en la región, debido a que algunos de estos elementos de la diversidad se constituyen en los primeros registros para el departamento del Vichada. Se resaltan entre otras especies la presencia de la rana Hypsiboas wavrini, siendo abundante en la cuenca y estando presente tanto en época de lluvias como en época seca, así como la especie de coral Micrurus surinamensis, que fue encontrada durante la época de aguas altas. Algunas especies estuvieron representadas por un solo individuo dado su carácter biológico relacionado con las áreas abiertas de sabana, su comportamiento críptico y eventos de muestreo. Se identificó la importancia de los ecosistemas terrestres y acuáticos asociados al río Bita para la herpetofauna de la región, así como algunas de sus principales amenazas.
+        </abstract>
+        <keywordSet>
+            <keyword>Río Bita</keyword>
+            <keyword>anuros</keyword>
+            <keyword>reptiles</keyword>
+            <keyword>nuevos registros</keyword>
+            <keyword>conservación</keyword>
+            <keyword>amenazas</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>registro biológico</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>Existe un informe final asociado a este recurso.</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=rrbb_bita_herpetos_2017</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/iavh/archive.do?r=rrbb_bita_herpetos_2017</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los registros provienen de la cuenca alta y media del Río Bita, afluente del Río Orinoco, departamento del Vichada, Colombia. Tres localidades ubicadas en el municipio de Puerto Carreño y una localidad en el municipio de la Primavera que cubren una longitud de 82.7 kilómetros del río. Las localidades muestreadas fueron las siguientes:
+
+- Municipio La Primavera, Finca La Florida, 73m (altitud), 05°46&apos;50.7&apos;&apos;N 068°51&apos;50.3&apos;&apos;W
+- Municipio Puerto Carreño, Rampa Vieja, 77m (altitud), 05°44&apos;49.2&apos;&apos;N 068°28&apos;33.9&apos;&apos;W
+- Municipio Puerto Carreño, Finca Anakay, 65m (altitud), 05°49&apos;57.3&apos;&apos;N 068°38&apos;22.6&apos;&apos;W
+- Municipio Puerto Carreño, Finca Mi Familia, 59m (altitud), 05°52&apos;16.7&apos;&apos;N 068°08&apos;05.2&apos;&apos;W</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-69.642</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-67.607</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.202</northBoundingCoordinate>
+                    <southBoundingCoordinate>5.719</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2016-01-13
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2016-06-04
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El conjunto de datos contiene 366 registros. Durante los muestreos realizados en las dos épocas climáticas, se registraron en conjunto para las cuatro ventanas de trabajo 19 especies de anfibios y 38 de reptiles. Para la cuenca alta en la finca La Florida se registraron 10 especies de anfibios y 21 reptiles, para la cuenca media-alta en la finca Anakay se registraron 10 anfibios y 19 reptiles, y en la finca Rampa Vieja se reportaron 11 anfibios y 16 reptiles. Finalmente para la cuenca media-baja en la finca Mi Familia, se encontraron 10 anfibios y 21 reptiles</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Sauropsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Debido al escaso conocimiento de los escarabajos coprófagos en el departamento del Vichada, la ausencia de estudios en el río Bita y su proceso de declaratoria, el presente estudio tuvo como propósito efectuar un diagnóstico del estado de salud de la cuenca alta y media del río Bita y complementar vacíos de información sobre la riqueza de escarabajos coprófagos como insumo para la elaboración de una estrategia de protección de la cuenca. El proyecto fue desarrollado por las instituciones: Gobernación del Vichada, Instituto Alexander von Humboldt, Fundación Omacha Parques Nacionales Naturales de Colombia, Corporinoquia, el Fondo Mundial para la Naturaleza, Fundación Palmarito Casanare, Fundación Orinoquia, la Corporación Ambiental La Pedregoza, la Armada Nacional y Fuerza Naval de Oriente, que buscan declarar al Río Bita como un área protegida bajo la figura del primer río protegido de Colombia, siendo un enfoque novedoso dentro de los esfuerzos de conservación en el territorio nacional.</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Carlos</givenName>
+                <surName>Lasso</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigador</positionName>
+            <address>
+                <deliveryPoint>Calle 28A N° 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 1 320 2767</phone>
+            <electronicMailAddress>classo@humboldt.org.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Para la estimación de los anfibios y reptiles se evaluaron cuatro ventanas enmarcadas en la cuenca del río Bita, correspondientes a la cuenca alta localizada en la Finca La Florida 5º47’N 68º50’O, en el Municipio La Primavera, la cuenca media-alta localizada en las Fincas Anakay 5°50’N 68°39’O y Rampa Vieja 5º44’N 68º28’O, y en la cuenca media-baja en la Finca Mi Familia 5°52’N 68°8’O, en el Municipio de Puerto Carreño, todas en el departamento del Vichada. En estas ventanas se desarrollaron una serie de muestreos sistemáticos abarcando una importante porción de coberturas vegetales. Se obtuvo información de las especies presentes en la vegetación asociada a las áreas protectoras de cauce (vegetación ribereña), caños aferentes, sabanas arboladas, sistemas lagunares, morichales y formaciones rocosas, todos estos asociados de forma directa a la cuenca del río Bita entre los 49-98 m</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El inventario involucró muestreos durante la estación seca en el mes de enero de 2016 y la estación de lluvias entre los meses de mayo y julio de 2016. Los ejemplares de referencia fueron obtenidos mediante tres aproximaciones metodológicas que incluyen métodos de encuentro visual-VES (Heyer et al., 1994), recorridos terrestres y fluviales, registros auditivos de las vocalizaciones (Angulo, 2006) y muestreo por remoción de hojarasca mediante el empleo de rastrillos, pinzas y ganchos herpetológicos (Heyer et al., 1994). 
+
+Los muestreos se desarrollaron principalmente entre las 10:00-16:00 horas y entre las 19:00-23:00 horas, para un total aproximado de ocho horas diarias de muestreo. Los ejemplares de referencia capturados y observados se geo-referenciaron mediante Geoposicionadores Satelitales Garmin (GPS 60CSx, GPS MAP 78S, GPS Etrex 10).  
+
+Se emplearon aproximadamente 504 horas-hombre y se hicieron aproximadamente 420 observaciones, de las cuales se colectaron 180 especímenes depositados en la colecciones de referencia de anfibios (IAvH-Am) y reptiles (IAvH-R) del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). La determinación taxonómica se realizó hasta el nivel de especie con base en la bibliografía científica especializada para cada caso.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La cuenca del río Bita se ubica en la jurisdicción del departamento del Vichada,  fluye en sentido suroeste a noreste desde el municipio de la Primavera hasta desembocar en el río Orinoco, cruzando el municipio de Puerto Carreño. Tiene una longitud de 560 kilómetros y cubre 22 ecosistemas en una superficie aproximada de 8.600 km2. Su origen se relaciona con procesos de sedimentación desde los Andes, durante el Pleistoceno medio y tardío y junto con los ríos Inírida, Guaviare, Vichada, Tuparro, Tomo, Cinaruco y Meta, drenan el 50 % del área de la Orinoquia colombiana (Correa et al., 2005; Jaramillo &amp; Rangel-Ch, 2014).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la estimación de los anfibios y reptiles se evaluaron cuatro ventanas enmarcadas en la cuenca del río Bita, correspondientes a la cuenca alta localizada en la Finca La Florida 5º47’N 68º50’O, en el Municipio La Primavera, la cuenca media-alta localizada en las Fincas Anakay 5°50’N 68°39’O y Rampa Vieja 5º44’N 68º28’O, y en la cuenca media-baja en la Finca Mi Familia 5°52’N 68°8’O, en el Municipio de Puerto Carreño, todas en el departamento del Vichada. En estas ventanas se desarrollaron una serie de muestreos sistemáticos abarcando una importante porción de coberturas vegetales. Se obtuvo información de las especies presentes en la vegetación asociada a las áreas protectoras de cauce (vegetación ribereña), caños aferentes, sabanas arboladas, sistemas lagunares, morichales y formaciones rocosas, todos estos asociados de forma directa a la cuenca del río Bita entre los 49-98 m.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Se emplearon aproximadamente 504 horas-hombre y se hicieron aproximadamente 420 observaciones, de las cuales se colectaron 180 especímenes depositados en la colecciones de referencia de anfibios (IAvH-Am) y reptiles (IAvH-R) del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). La determinación taxonómica se realizó hasta el nivel de especie con base en la bibliografía científica especializada para cada caso.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Desarrollo de un marco conceptual, metodológico y operativo para el establecimiento de una figura innovadora de Río Protegido en el Río Bita (Departamento de Vichada)</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Carlos</givenName>
+                    <surName>Lasso</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Convenio No 15-14-322-304 CE celebrado entre el Instituto de Investigación  de Recursos biológicos Alexander von Humboldt (IAvH) y la Fundación Omacha, el cual se realiza bajo el marco del convenio 14-322  suscrito entre la Gobernación del Vichada y el IAvH.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El río Bita nace en el municipio de La Primavera (Vichada) y desemboca en el Orinoco en el municipio de Puerto Carreño , la cuenca tiene un área de 862.742ha e incluye cuatro biomas con 22 ecosistemas y para 2006 el 92.24% de su área estaba cubierta por ecosistemas naturales y hace parte del corredor Bita-Meta-Orinoco, el cual ha sido incluido como área prioritaria de conservación en el Documento &quot;Biodiversidad de la Cuenca del Orinoco&quot;. El nivel de conocimiento y esfuerzo de muestreo realizado en la región del Bita es de los más bajos de la región, con grandes vacíos de información.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>El proyecto propone construir una visión concertada que genere conexión de la sociedad local con la biodiversidad y sus servicios ecosistémicos y lograr acuerdos, enfatizando en la importancia de mantener la integridad ecológica del sistema fluvial en toda la cuenca y la relación hombre-sociedad-naturaleza. En este sentido, se plantea este proyecto como alternativa de desarrollo regional que reconoce las particularidades de la región.
+
+El objetivo específico del proyecto es generar un sistema de soporte para la toma de decisiones sobre la gestión de la biodiversidad y servicios ecosistémicos asociados al río Bita, como modelo de río protegido. Esto incluye generación y gestión de la información, redes de trabajo y de conocimiento, estrategias de comunicación y movilización social.
+
+Una de las actividades más importantes del proyecto está relacionada con el levantamiento de información que ayude a identificar el estado actual del río Bita, inventario de ecosistemas terrestres y acuáticos, caracterización biológica y establecimiento de indicadores de estado y monitoreo de la biodiversidad, para medir la integridad ecológica de la cuenca.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:19Z</dateStamp>
+                <citation identifier="http://doi.org/10.15472/yaq5tk">Trujillo Gonzales F (2019). Anfibios y reptiles de la cuenca alta y media del río Bita, Vichada (Colombia). Version 1.4. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/yaq5tk accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Heyer, R., Donnelly, M. A., Foster, M. y Mcdiarmid, R.,1994. Measuring and monitoring biological diversity: standard methods for amphibians: Smithsonian Institution.</citation>
+                </bibliography>
+                <physical>
+                    <objectName>Anfibios y reptiles de la cuenca alta y media del río Bita, Vichada (Colombia)</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>.txt</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_bita_herpetos_2017</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>N/A</parentCollectionIdentifier>
+                    <collectionIdentifier>IAvH-Am, IAvH-R</collectionIdentifier>
+                    <collectionName>Colección de anfibios del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colección de reptiles del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+                </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

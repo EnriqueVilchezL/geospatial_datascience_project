@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="e10542f7-6f73-4b8c-9684-52707088887f"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/ln6v6m</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=geopark_bienparado-ae_flora-fauna_2022-2023</alternateIdentifier>
+        <title>Fauna y Flora del proyecto: Plan de Manejo Ambiental para la construcción y operación de las Plataformas Multipozos Bienparado A y E, su vía de acceso y su línea de flujo - Área de Desarrollo Bienparado, Bloque PUT 8</title>
+        <creator>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57 601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>SGS Colombia S.A.S</surName>
+            </individualName>
+            <organizationName>SGS Colombia S.A.S</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Carrera 100 # 25c - 11</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(601) 6069292</phone>
+            <electronicMailAddress>sgs.colombia@sgs.com</electronicMailAddress>
+            <onlineUrl>https://www.sgs.com/es-co</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>SGS Colombia S.A.S</surName>
+            </individualName>
+            <organizationName>SGS Colombia S.A.S</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Carrera 100 # 25c - 11</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(601) 6069292</phone>
+            <electronicMailAddress>sgs.colombia@sgs.com</electronicMailAddress>
+            <onlineUrl>https://www.sgs.com/es-co</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57 601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <surName>SGS Colombia S.A.S</surName>
+            </individualName>
+            <organizationName>SGS Colombia S.A.S</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Carrera 100 # 25c - 11</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(601) 6069292</phone>
+            <electronicMailAddress>sgs.colombia@sgs.com</electronicMailAddress>
+            <onlineUrl>https://www.sgs.com/es-co</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Dairo</givenName>
+                <surName>Escobar</surName>
+            </individualName>
+            <organizationName>ANDI - CNAB</organizationName>
+            <positionName>Profesional ANDI - CNAB</positionName>
+            <address>
+                <deliveryPoint>Calle 73 # 8 – 13 Piso 7 Torre A</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dairoescobar@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-8327-8670</userId>
+            <role>EDITOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Johanna</givenName>
+                <surName>Velásquez Niño</surName>
+            </individualName>
+            <organizationName>ANDI - CNAB</organizationName>
+            <positionName>Consultora</positionName>
+            <address>
+                <deliveryPoint>Calle 73 # 8 – 13 Piso 7 Torre A</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jvelasqueznino@gmail.com</electronicMailAddress>
+            <role>EDITOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <surName>GeoPark Colombia S.A.S.</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>(+57 601)7432337</phone>
+            <electronicMailAddress>co.info@geo-park.com</electronicMailAddress>
+            <onlineUrl>https://www.geo-park.com/es/</onlineUrl>
+            <role>OWNER</role>
+        </associatedParty>
+        <pubDate>
+                2025-01-22
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>El Plan de Manejo Ambiental para la Construcción y Operación de las Plataformas Multipozo Bienparado A y E, su vía de acceso y su línea de flujo -Área de Desarrolllo Bienparado, Bloque PUT 8 forma parte de uno de los programas incluidos dentro de la estrategia de crecimiento y desarrollo de AMERISUR EXPLORACIÓN COLOMBIA LTDA, en adelante “AMERISUR”, que pretende iniciar la producción de hidrocarburos en el Área de Desarrollo – AD- Bienparado.</para><para>En el marco del proyecto, se realizó la caracterización del componente biótico asociado al área de influencia del mismo, y por eso se presenta este conjunto de datos compuesto por 6.897 registros biológicos que provienen de las actividades de aprovechamiento forestal, inventario forestal, así como muestreos de fauna y flora que se desarrollaron entre los años 2022 y 2023.</para><para>El municipio con representación es Puerto Asís, ubicado en el departamento de Putumayo. El recurso se distribuye taxonómicamente en los reinos Plantae (4.401), Fungi (2.222) y Animalia (274).</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Monitoreo; Plan de manejo; Aprovechamiento forestal; Inventario forestal; Transectos; Parcelas permanentes; Puntos de observación; Fauna; Flora; Hongos; Epífitas; Estudio de Impacto Ambiental; Colombia; Meta; Bienparado AyE</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>PERMISO_COLECTA</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=geopark_bienparado-ae_flora-fauna_2022-2023</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Las Plataformas multipozos Bienparado A y Bienparado E están ubicadas en las unidades territoriales Las Camelias y Bajo Mansoyá, respectivamente, en jurisdicción del municipio de Puerto Asís, departamento del Putumayo. El Área de Desarrollo Bienparado, en adelante AD Bienparado, cuenta con un área de 802,86 Ha.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-76.33</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-76.311</eastBoundingCoordinate>
+                    <northBoundingCoordinate>0.493</northBoundingCoordinate>
+                    <southBoundingCoordinate>0.465</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2022-09-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2023-11-15
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>El recurso taxonómicamente cubre los reinos Plantae (4.401), Fungi (2.222) y Animalia (274), que su vez se encuentran divididos en 5 filos, 14 clases, 56 órdenes, 116 familias, 194 géneros y 205 especies. En el reino Plantae, la distribución es de 5 clases, 25 órdenes, 49 familias, 95 géneros, 110 especies. Del total de plantas, un 82% está identificado a nivel de especie, 17% a nivel de género y 1% a nivel de familia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Jungermanniopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Bryopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En el reino Fungi, la distribución es de 4 clases, 9 órdenes, 12 familias, 23 géneros y 19 especies. Del total de hongos, el 41% está identificado a nivel de especie, 58% a nivel de género y 1% a nivel de familia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Dothideomycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En el reino Animalia, la distribución es de 5 clases, 22 órdenes, 54 familias, 76 géneros y 76 especies. El 96% de los animales está identificado a nivel de especie y 4% a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Construcción, operación, mantenimiento y abandono de la Plataformas multipozos Bienparado A y Bienparado E, sus vías de acceso (construcción-V2.1 y adecuación-V2) y construcción de una línea de flujo entre la plataforma multipozo Bienparado A y la plataforma multipozo Bienparado E (LF BP A- BP E).</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Andrés Leonardo</givenName>
+                <surName>Rodríguez Galvis</surName>
+            </individualName>
+            <organizationName>GeoPark Colombia S.A.S.</organizationName>
+            <positionName>Especialista Biótico</positionName>
+            <address>
+                <deliveryPoint>Calle 94 N° 11 - 30</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>anrodriguez@geo-park.com</electronicMailAddress>
+            <onlineUrl>http://www.geo-park.com</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FAUNA: La caracterización de Fauna Silvestre del área de estudio del Plan De Manejo Ambiental Para La Construcción Y Operación De Las Plataformas Multipozos Bienparado A Y E, Su Vía De Acceso Y Su Línea De Flujo - Área De Desarrollo Bienparado, Bloque PUT 8, se llevó a cabo en tres fases: Fase pre campo, Fase de campo, Fase de postcampo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fase Pre-campo: Para contar con un referente de las especies con distribución potencial en el área de estudio, en cada uno de los grupos de fauna objeto de caracterización, se llevó a cabo una revisión de información secundaria procedente de bases de datos especializadas, estudios ambientales, guías de campo, libros y artículos científicos</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La información secundaria fue revisada en detalle con la finalidad de depurar, corregir y/o descartar inconsistencias relacionadas con nomenclatura taxonómica desactualizada y registros errados. Como resultado de la revisión de información secundaria, fueron estructuradas matrices de información para las especies de fauna silvestre (anfibios, reptiles, aves y mamíferos) con presencia probable o comprobada a nivel regional, es decir, en el oeste de la región Amazónica, en un rango altitudinal entre 0 y -300 msnm. En cada matriz de datos por grupo faunístico se presenta información referente a: clasificación taxonómica (orden, familia, especie), nombre común, rango altitudinal de distribución, hábitos de vida, periodo de actividad, grupo de dieta, migración y estado conservación: categoría de amenaza según la UICN a nivel global y nacional, endemismo, ubicación dentro de los apéndices CITES y vedas</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fase campo: La fase de campo se llevó a cabo entre el 09 y 15 de noviembre de 2023, la metodología usada para cada grupo contemplo los criterios de: la “Metodologia HTER 310 para planes de manejo ambiental para la perforación de pozos de desarrollo o produccion y sus lineas de flujo”; la guía “Metodología General para la presentación de Estudios Ambientales”, del Ministerio de Ambiente y Desarrollo Sostenible (Minambiente), y el “Manual de Métodos para el Desarrollo de inventarios de Biodiversidad” del instituto de investigaciones de Recursos Biológicos Alexander Von Humboldt, con el fin de obtener información puntual y exacta de cada una de las especies. Fueron usados métodos estructurados directos e indirectos para el muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Métodos directos - Observación de fauna silvestre: Se realizaron recorridos de ancho variable abarcando la mayor cantidad del área y puntos de observación de fauna, usando el método de encuentro visual y/o auditivo para todos los grupos de fauna evaluados, haciendo recorridos de observación en los que se registra todo tipo de rastros que evidencian la presencia de fauna silvestre en el área, como son las huellas, heces, mudas de piel, sendas, comederos, restos animales, entre otros. Se realizó la búsqueda activa en refugios potenciales donde pernoctan diferentes especies, esto se realizó con ayuda del uso del gancho herpetológico para evitar algún accidente ofídico, o de forma natural cuando fue necesario</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El desarrollo de recorridos fue útil para la verificación de especies en campo, ya que permite una revisión amplia en las diferentes coberturas presentes y comprobar la distribución de las mismas, puesto que algunas especies no presentan especificidad y se pueden observar en diferentes coberturas por los movimientos continuos que mantienen en sus actividades, como búsqueda de alimento, reproducción, sitios de refugio etc (Arryave et al 2006).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para el registro de la fauna se utilizó cámara fotográfica Canon® profesional con lentes de distancia y macro. Se realizaron los recorridos diurnos y nocturnos siguiendo el trazado y respetando el buffer del área. Todos los registros fueron consignados en una libreta de campo para su posterior procesamiento.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Métodos indirectos/complementarios - Encuestas: Como método complementario se utilizaron encuestas, teniendo en cuenta ésta como técnica indirecta para registrar información valiosa acerca de las especies con hábitos estacionales y que por algún motivo no se pudieron observar directamente durante la fase de campo; esta estuvo dirigida a personas locales, teniendo como referente nombres comunes, valor económico o cultural, hábitats frecuentados, épocas del año, posibles usos dados por la comunidad e información adicional; para la realización de encuestas, se contó con la ayuda de un catálogo de identificación de especies que contiene fotografías de los grupos faunísticos de interés (anfibios, reptiles, aves y mamíferos) que se encuentran distribuidos potencialmente para el departamento de Putumayo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Por otro lado, estos datos serán tenidos en cuenta para describir la composición de las especies dentro del área, pero no serán tenidas en cuenta en donde sea necesario el valor de las abundancias específicas de los organismos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fase Postcampo: Con la información obtenida en campo se dio inicio a realizar el análisis de composición, esfuerzo de muestreo, gremios tróficos, especies endémicas, migratorias, amenazadas y un análisis de especies de importancia ecológica, económica y cultural. Para los análisis estadísticos se realizaron curvas de acumulación de especies y análisis de diversidad Alfa y Beta.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FLORA: Muestreo a través de la metodología Granstein 2003, dentro del área de intervención para las especies de los grupos taxonómicos de Bromelias, Orquídeas, Musgos, Hepáticas, Anthocerotales y Líquenes, incluidas en la Resolución No. 0213 de 1977 o las normas que lo modifiques o sustituya, que se desarrollan en diversos hábitos de crecimiento (epífito, terrestre, rupícola).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fase Pre-Campo: Inicialmente, se realizó una revisión bibliográfica de información secundaria para el área de estudio, con el fin de conocer las posibles especies de flora silvestre en veda. Adicionalmente, se obtuvo el mapa preliminar de coberturas vegetales y ecosistemas, estableciendo las unidades muestréales y el cálculo de parcelas aproximadas por coberturas, dentro de los cuales se determinaron y realizaron los muestreos de flora silvestre en veda.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fase Pre-Campo: Inicialmente, se realizó una revisión bibliográfica de información secundaria para el área de estudio, con el fin de conocer las posibles especies de flora silvestre en veda. Adicionalmente, se obtuvo el mapa preliminar de coberturas vegetales y ecosistemas, estableciendo las unidades muestréales y el cálculo de parcelas aproximadas por coberturas, dentro de los cuales se determinaron y realizaron los muestreos de flora silvestre en veda.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Determinación del número de forófitos para caracterización de flora silvestre en veda de hábito epifito:  La caracterización de flora vascular (Bromeliaceae y Orchidaceae) y no vascular (Briofitos y Líquenes), se realizó en el 100% de los individuos arbóreos que son objeto de aprovechamiento forestal para el área a ser intervenida para el desarrollo del proyecto Plan de Manejo Ambiental Específico PMAE para las plataformas multipozo A y E en el área de desarrollo Bienparado – bloque PUT 8, localizado en jurisdicción del municipio de Puerto Asís del departamento de Putumayo. Es importante aclarar que, para la flora silvestre en veda vascular y no vascular de hábito epífito, se
+realizó el monitoreo sobre 464 individuos de categoría fustal existentes en el área a ser intervenida.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Puntos de monitoreo para la caracterización de flora silvestre: Para el monitoreo de flora silvestre en veda vascular y no vascular, se realizó el monitoreo de 464 individuos de categoría fustal presentes en las coberturas de Pastos limpios, Pastos arbolados, Pastos enmalezados, Vegetación secundaria alta, Vegetación secundaria baja, Bosque denso alto de tierra firme y Bosque denso alto inundable, en el área de intervención para el desarrollo del proyecto Plan de Manejo Ambiental Específico PMAE para las plataformas multipozo A y E en el área de Desarrollo Bienparado - Bloque PUT 8, localizado en jurisdicción del municipio de Puerto Asís del departamento de Putumayo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Ajuste metodológico para muestreo de coberturas: Teniendo en cuenta la metodología propuesta por Gradstein et al.20035, y de acuerdo con el cálculo de la representatividad del muestreo de especies en veda nacional bajo Resolución 0213 de 1977 del INIDERENA por cobertura de la tierra, para proyectos con área de intervención definida en el marco del licenciamiento ambiental, se establece el factor de ocupación de forófitos por cobertura y por hectárea, donde se establecen los forófitos a muestrear teóricos, y se definen la cantidad de
+forófitos posibles a caracterizar de acuerdo a la cobertura presente en el área a intervenir y en el que evidencian que para llegar a tener una buena representatividad no se requiere hacer inventario al 100% sino que, por el contrario, con muestreos cortos y pequeños se logra el objetivo de representar bien las especies presentes, sin embargo, es importante precisar que independiente del método establecido por Gradstein y el instrumento facilitado por la autoridad, se realizó la caracterización de flora vascular y no vascular sobre el 100% de los forófitos presentes en el área que será objeto de intervención y aprovechamiento forestal.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para cada una de las coberturas presentes en el área de intervención, la selección de forófitos atendió los criterios de la metodología del protocolo de Gradstein et al., 2003, donde se considera que ocho (8) forófitos constituyen una muestra representativa para una (1) Ha para epifitas vasculares y cinco (5) para no vasculares, sin embargo, se aclara que, para ambos grupos, tanto para las especies vasculares como no vasculares, se realizó la caracterización sobre el 100% de los individuos de categoría fustal presentes en el área que será objeto de intervención y aprovechamiento forestal.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para cada una de las coberturas monitoreadas, se evidencia una representatividad superior al 100% del área con potencial de intervención de epifitas, esto se evidencia en la relación existente entre el total de área de intervención, la vegetación arbórea presente en el terreno de acuerdo con la metodología Corine Land Cover, el área potencial de intervención y los forófitos muestreados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Selección de forófitos para caracterización de flora silvestre en veda de hábito epifito: Se registraron, marcaron y midieron únicamente los individuos arbóreos con DAP mayor o igual a 10 cm . Los árboles seleccionados como hospederos fueron georreferenciados y su identificación se realizó de acuerdo con el inventario forestal previamente realizado.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Caracterización de flora silvestre en veda: La caracterización de las especies de flora silvestre en veda se realizó en los árboles seleccionados para tala de acuerdo con las implicaciones sobre la estructura del proyecto. A continuación, s relaciona la información tomada en campo, para la caracterización de flora silvestre en veda.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para cada una de las especies de flora silvestre en veda encontradas en el área objeto de
+levantamiento se tomaron los siguientes datos: Código de parcela, Cobertura de la Tierra, No. del forófito en inventario forestal, Coordenadas (Forófito), Especie y nombre común del forófito (inventario forestal), DAP del forófito, Altura del forófito, Hábito de la epífita, Morfoespecie epífita, Características (Grupo, abundancia y estratificación), Altitud, Registro fotográfico.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La información se diligenció en el formato de campo con presentación digital, también se relacionó datos de ecología tales como hábito de crecimiento, sustrato, distribución vertical, y datos de localización hasta el nivel de predio cuando fue posible. A cada muestra de las especies de epífitas, se le asignó un número único consecutivo, con su correspondiente identificación, anotando sus características y condición ecológica.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Plantas Vasculares: A continuación, se describe la metodología para la caracterización de flora silvestre vascular en veda
+y del proceso de colecta. Plantas Vasculares de hábito epifito: Cada muestreo se llevó a cabo sobre un forófito en pie, el cual fue posible observar desde la base del tronco hasta las ramas más externas. La distancia de observación fue por medio del método descrito por Went (1940), en áreas del hospedero donde la altura no permitió realizar el conteo de organismos, se hizo uso de binoculares y cámaras de alta resolución, con el fin de facilitar esta labor en los estratos verticales, permitiendo registrar las abundancias y riquezas de estas poblaciones.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Estructura vertical de la flora epifita vascular: Así mismo, se identifican las morfoespecies de epífitas presentes, se registra su abundancia y su distribución vertical en la base del tronco (Zona a), el tronco (Zona b) y la copa (Zona c). La estratificación se determinó subdividiendo las estructuras mediante la metodología de Johansson (1974), y sugerida por Gradstein et al (2003)9, en la que se divide en tres (3) zonas o estratos verticales.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Colecta de muestras de morfotipos vasculares: La toma de muestras del grupo vascular se realiza mediante tijeras de poda para especímenes que se encontraron a la altura del personal y de baja-ramas para estratos superiores, los cuales son rotulados y prensados para su posterior identificación. Es importante mencionar, que durante la caracterización de especies vasculares no se identificaron especies vasculares de hábito epífito, rupícola o terrestre en el área de intervención del proyecto.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Plantas vasculares de hábito terrestre o rupícola: Para la colecta de flora vascular de hábito terrestre y rupícola se siguieron las técnicas de campo propuestas por el Jardín Botánico de Missouri10. Con relación al grupo de las Orquídeas y Bromelias se tiene en cuenta en lo posible que el espécimen presente estado fértil, el cual es base de identificación taxonómica. El tamaño y la forma de crecimiento determinan la forma de recolección, si la planta es de menor tamaño que la hoja de herbario, se recolecta completa, para las plantas grandes se seleccionan en lo posible, piezas fértiles y vegetativas contiguas; incluyendo detalles del rizoma, de la emergencia de las inflorescencias, de segmentos representativos de las raíces y de su longitud original como lo describe Aguirre (1986)11. Los ejemplares de herbario se acompañan de fotografías a color de la planta completa y de la flor cuando así lo presenten (Chater, 2000)12. Se realizó una subparcela de 1m x 1m, efectuándose el conteo al 100% de individuos vasculares que se puedan llegar a encontrar dentro del cuadrante13, es importante mencionar, que se realizó el ejercicio (subparcela de 1m x 1m) en cada una de los forófitos caracterizados, realizando un total de 464 subparcelas, sin embrago, no se hallaron especies vasculares de habito terrestre o rupícola.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Plantas No Vasculares: A continuación, se describe la metodología para para la caracterización de flora silvestre no vascular
+en veda y del proceso de colecta.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Plantas No Vasculares de hábito epifito y/o cortícola: Las especies de epífitas no vasculares presentan una estratificación vertical definida desde el suelo del bosque hasta el dosel superior, y por los requerimientos de luz de algunas familias pueden restringir el crecimiento de sus especies a las zonas de Dosel (Komposch y Hafellner, 2000). Sin embargo, Shaw (2004), indica que las especies de epífitas restringidas al dosel superior en bosques cerrados pueden estar presentes también cerca al nivel del suelo a lo largo de
+bordes muy expuestos o en bosques muy abiertos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la caracterización de musgos, hepáticas y líquenes de hábito cortícola, se realizó la cuantificación de la cobertura (cm2) sobre los forófitos. La cobertura se cuantificó por medio de plantillas de acetato transparente, con un área de 400 cm2 (Iwatzuki, 1960)16, subdividida en áreas de un (1) cm2.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se asume, que las comunidades de briofitos y líquenes constituyen una capa rasante ya que sus alturas varían desde pocos milímetros (en líquenes crustáceos) hasta 4-5 cm (en musgos). Según lo anterior, a partir de la plantilla de acetato se pudo aplicar un método efectivo para estimar la cobertura de cada una de las especies. De acuerdo con lo anterior, a partir de la plantilla de acetato se puede aplicar un método efectivo para estimar la cobertura de cada una de las especies.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El método consiste en ubicar la plantilla en cada uno de los estratos del forófito (Gradstein et al. 2003). La plantilla se superpuso sobre las epifitas no vasculares y se midió de forma directa la cobertura en cm2. Las medidas y las muestras fueron tomadas a un nivel de altura no mayor a 1,80 m, altura que se alcanza con la medida del profesional de campo (1,60cm).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Colecta de muestras cortícolas de flora silvestre en veda (No Vascular): La colecta de ejemplares para muestras cortícolas, se realizó de forma manual, por medio del uso de navajas o machetes, posteriormente se almacenaron en bolsas de papel Kraft, con sílice gel, cada una rotulada con la información correspondiente a la parcela y el sustrato de colecta. Las muestras colectadas en las bolsas de papel se dejaron abiertas a temperatura ambiente para facilitar el proceso de secado.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La identificación taxonómica de las epifitas no vasculares se realizó mediante un análisis al estereoscopio, los taxa fueron comparados con catálogos de la región y el apoyo del Biólogo Diego Francisco Becerra Cruz Curador del Herbario Universidad INCCA de Colombia. Certificado de identificación), los nombres científicos fueron revisados y corroborados en el Plant List y el Catálogo de plantas de líquenes de Colombia de la Universidad Nacional.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>La información se diligenció en el formato de campo y posteriormente se digitalizo la información. A cada muestra se le asignó un código único consecutivo, con su correspondiente identificación, anotando sus características y condición ecológica.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la caracterización de flora silvestre y el levantamiento de veda establecida por la Resolución 0213 de 1977 del INDERENA, se monitorearon las especies de los sustratos, rupícola, terrestre y epífito. La presente caracterización se enmarca en lo establecido mediante la Resolución 00403 del 17 de febrero de 2022, emitida por la ANLA, por medio de la cual se otorga el Permiso de Estudio para la recolección de Especies Silvestres de la Diversidad Biológica con Fines de Elaboración de Estudios Ambientales,
+para ETSA.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Plantas No Vasculares de hábito terrestre o rupícola: Dentro de cada una de las coberturas, se realizó el monitoreo de una (1) subparcela de 1m x 1m, por cada uno de los monitorearos para un total de 464 subparcelas, efectuándose el registro de la abundancia de las especies halladas mediante el uso de la cuadricula de acetato. Adicionalmente, se realizaron recorridos libres recorriendo la mayor área posible sobre los cuales se registra la abundancia de la flora no vascular presente en los diferentes sustratos y en cada una de las coberturas. Los puntos en los que identifiquen otros sustratos se realizaron parcelas de 1m x 1m, aplicando los métodos descritos con anterioridad. Dichos puntos serian registrados en la GDB como “punto de muestreo independientes”19. Es importante mencionar que se realizó el ejercicio de las
+subparcelas dentro de cada una las coberturas, sin embargo, no se hallaron especies no vasculares en otros hábitos de crecimiento adicionales al hábito epifito.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Fase de laboratorio: Durante esta fase se realizó el análisis de las muestras colectadas en campo. El trabajo de laboratorio inició con la limpieza y la preparación de las muestras para su posterior análisis, donde se realizó la identificación de los organismos hasta el menor nivel taxonómico, con el apoyo del Biólogo Diego Francisco Becerra Cruz Curador del Herbario Universidad INCCA de Colombia, finalmente, se realizó el reporte de resultados de los individuos encontrados.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Las Plataformas multipozos Bienparado A y Bienparado E están ubicadas en las unidades territoriales Las Camelias y Bajo Mansoyá, respectivamente, en jurisdicción del municipio de Puerto Asís, departamento del Putumayo. El Área de Desarrollo Bienparado, en adelante AD Bienparado, cuenta con un área de 802,86 Ha.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Caracterización del componente biótico asociado al área de influencia del mismo con registros que provienen de las actividades de aprovechamiento forestal, inventario forestal, así como muestreos de fauna y flora que se desarrollaron entre los años 2022 y 2023.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Plan de Manejo Ambiental para la construcción y operación de las Plataformas Multipozos Bienparado A y E, su vía de acceso y su línea de flujo - Área de Desarrollo Bienparado, Bloque Put 8</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Andrés Leonardo</givenName>
+                    <surName>Rodríguez Galvis</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>El Plan de Manejo Ambiental para la Construcción y Operación de las Plataformas Multipozo Bienparado A y E, su vía de acceso y su línea de flujo -Área de Desarrolllo Bienparado, Bloque PUT 8 forma parte de uno de los programas incluidos dentro de la estrategia de crecimiento y desarrollo de AMERISUR EXPLORACIÓN COLOMBIA LTDA, en adelante “AMERISUR”, que pretende iniciar la producción de hidrocarburos en el Área de Desarrollo – AD- Bienparado.</para>
+                </abstract>
+                <funding>
+                    <para>Geopark Colombia S.A.S.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Las Plataformas multipozos Bienparado A y Bienparado E están ubicadas en las unidades territoriales Las Camelias y Bajo Mansoyá, respectivamente, en jurisdicción del municipio de Puerto Asís, departamento del Putumayo. El Área de Desarrollo Bienparado, en adelante AD Bienparado, cuenta con un área de 802,86 Ha.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>El alcance del proyecto corresponde a la construcción, operación, mantenimiento y abandono de las Plataformas multipozos Bienparado A y Bienparado E, sus vías de acceso (construcción-V2.1 y adecuación-V2) y construcción de una línea de flujo entre la plataforma multipozo Bienparado A y la plataforma multipozo Bienparado E. Las plataformas multipozos Bienparado A y Bienparado E cuentan con área de 2,52 ha y 3,97 ha respectivamente, acorde con lo autorizado en el Numeral 3 del Artículo Segundo de la Resolución 1757 del 11 de agosto de 2023. En la Tabla 1-2 se muestran las coordenadas de los vértices de las plataformas BPA y BPE. En la Plataforma multipozo Bienparado A se proyecta perforar un pozo denominado BPA-1 y en la plataforma multipozo Bienparado E se perforará el pozo BPE-1. Así mismo, se llevará a cabo la adecuación de la vía V2 y la construcción de la vía V2.1 que permitirán el acceso hasta las Plataformas multipozos Bienparado A y Bienparado E, para lo cual se hará uso de un derecho de vía (DDV) de hasta 20 m de ancho máximo (condicionado a 8 m en coberturas de bosque denso alto de tierra firme, bosque denso alto inundable, vegetación secundaria alta y baja, localizadas en tramos de las vías V2, V2.1) acorde con lo establecido en la Resolución 78 del 23 de enero de 2024 la cual, resuelve el recurso de reposición interpuesto contra la Resolución 1757 del 11 de agosto de 2023. Es importante señalar que la vía V2.1 (Vía a construir) contará con una longitud total de 3,229 km,
+no obstante, se aclara que, hasta el límite del área del cerramiento de la Plataforma BPA, la vía
+cuenta con una longitud de 3,223 km. La vía V2.1 compartirá DDV con la línea de flujo a construir tal como se puede observar en la Figura 1-6. Este derecho de vía será de hasta un ancho de 20 m (condicionado a 8 en coberturas de bosque denso alto de tierra firme, bosque denso alto inundable, vegetación secundaria alta y baja, localizadas en tramos de las vías V2, V2.1 y V4) acorde con lo establecido en el artículo Primero de la Resolución 78 del 23 de enero de 2024 la cual resuelve recurso de reposición interpuesto contra la resolución 1757 del 11 de agosto de 2024.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:16Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/ln6v6m">GeoPark Colombia S.A.S., SGS Colombia S.A.S (2025). Fauna y Flora del proyecto: Plan de Manejo Ambiental para la construcción y operación de las Plataformas Multipozos Bienparado A y E, su vía de acceso y su línea de flujo - Área de Desarrollo Bienparado, Bloque PUT 8. GeoPark Colombia S.A.S. Occurrence dataset https://doi.org/10.15472/ln6v6m accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Circular 2801-2-808 del 9 de diciembre de 2019 – Metodología para la caracterización de especies de flora en veda. Numeral 1.3 Tabla 4. Métodos de muestreo por sustrato de desarrollo y tipo de especie de flora en Veda.</citation>
+                <citation>Valois, H., y Murillo, E. (2010). Musgos y hepáticas: aproximación a su conocimiento en un bosque pluvial tropical de la región chocoana, Colombia. Bioetnia, 7(2), 82-87pp.</citation>
+                <citation identifier="http://www.mobot.org/MOBOT/molib/spanishfb/intro.shtml">Técnicas de campo utilizadas por el Jardín Botánico de Missouri. Compiladas por Ron Liesner con sugerencias del personal técnico, científico y colaboradores. Traducido del inglés por Claudio Tygier, Santa Cruz, Bolivia. Revisión del texto: Carmen Ulloa Ulloa y Rosa Ortiz, Missouri Botanical Garden, abril de 1996. Disponible Online: http://www.mobot.org/MOBOT/molib/spanishfb/intro.shtml.</citation>
+                <citation>Aguirre, L. E. 1986. Epífitas, pp. 113-119. En: A. Lot y F. Chiang (comp.). Manual de Herbario. Administración y manejo de colecciones, técnicas de recolección y preparación de ejemplares botánicos. Consejo Nacional de la Flora de México, AC, México.</citation>
+                <citation>Chater, A. O. 1997. Atlas 2000: some notes on pressing specimens. Supplement to Botanical Society of the British Isles News 75.</citation>
+                <citation>Komposch, H. &amp; J. Hafellner. 2000. Diversity and vertical distribution of lichens in a Venezuelan tropical lowland rain forest. Selbyana 21: 11-24.</citation>
+                <citation>Shaw, D.C., 2004. Vertical organization of canopy biota, p. 73-101. In M.D. Lowman &amp; H.B. Rinker (eds.). Forest canopies (second edition). Elselvier Academic, San Diego, California, EEUU.</citation>
+                <citation>Iwatsuki Z. The Epiphytic Briophyte Communities in Japan. J Hattori Bot Lab. 1960; 22:159-339.</citation>
+                <citation>Went, F. W. (1940). Soziologie der Epiphyten eines tropischen Urwaldes. Ann. Jard. Bot. Buitenz (50), 1-98</citation>
+                <citation>Johansson, D.R. 1974. Ecology of vascular epiphytes in West African rai forest. Acta phytogogr. Suecica. 59: 1-136.</citation>
+                <citation>Gradstein, S.R., N.M. Nadkarni, T. Krömer, I. Holz &amp; N. Nöske. 2003. A protocol for rapid and representative sampling of vascular and non-vascular epiphyte diversity in tropical rain forests. Selbyana 24: 105-111.</citation>
+                <citation>Arroyave, María del Pilar, Gómez, Carolina, Gutiérrez, María Elena, Múnera, Diana Paulina, Zapata, Paula Andrea, Vergara, Isabel Cristina, Andrade, Liliana María, &amp; Ramos, Karen Cristina. (2006). IMPACTOS DE LAS CARRETERAS SOBRE LA FAUNA SILVESTRE Y SUS PRINCIPALES MEDIDAS DE MANEJO. Revista EIA, (5), 45-57. Retrieved October 16, 2020, from http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S1794-12372006000100004&amp;lng=en&amp;tlng=es.</citation>
+                <citation>Bakker, J. P., &amp; Berendse, F. (1999). Constraints in the Restoration of Ecological Diversity in Grassland and Heathland Communities. Trends in Ecology &amp; Evolution, 14, 63-68.https://doi.org/10.1016/S0169-5347(98)01544-4</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-geopark.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

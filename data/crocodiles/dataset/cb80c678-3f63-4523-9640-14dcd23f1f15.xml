@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="cb80c678-3f63-4523-9640-14dcd23f1f15"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/w4dae4</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=corporinoquia_pomca_caranal</alternateIdentifier>
+        <title>Fauna y flora asociada al Plan de Ordenación y Manejo Ambiental de la cuenca del caño Caranal</title>
+        <creator>
+            <individualName>
+                <surName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Autoridad ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (608) 6358588</phone>
+            <electronicMailAddress>atencionusuarios@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Autoridad ambiental</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 (608) 6358588</phone>
+            <electronicMailAddress>atencionusuarios@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Consorcio Caranal</surName>
+            </individualName>
+            <organizationName>Consorcio Caranal</organizationName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2024-12-19
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>La información presentada en este conjunto de datos responde a las actuaciones realizadas por el Consorcio Caranal en el año 2015, cuando se realizó la formulación de la Fase de Diagnóstico del POMCA del caño Caranal. Esta fase se elaboró conforme a la Guía para la formulación de Planes de Ordenación y Manejo de Cuencas Hidrográficas del MADS 2013, para poder conocer la situación de ese momento en la cuenca y abordar de manera integral las potencialidades, conflictos, limitantes y posibles restricciones ambientales; además de brindar la posibilidad de identificar las relaciones de causa-efecto que soporten el desarrollo de las diferentes fases del plan.</para><para>Este conjunto de datos cuenta con 823 registros biológicos correspondientes a los reinos Plantae (563) y Animalia (260). Estos fueron tomados a lo largo de la cuenca hidrográfica del caño Caranal, que se encuentra ubicada en el departamento de Arauca, al norte de la cuenca del río Ele; la cuenca cubre una gran parte de los municipios de Arauquita y Fortul. Para la caracterización florística se realizó diferentes parcelas de medición y para la captura de información de fauna se instaló trampas Sherman, redes de niebla, se realizaron recorridos de observación, entre otros.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>POMCA</keyword>
+            <keyword>Ordenamiento territorial</keyword>
+            <keyword>Transectos.</keyword>
+            <keyword>Fauna</keyword>
+            <keyword>Flora</keyword>
+            <keyword>Observaciones</keyword>
+            <keyword>Gestión</keyword>
+            <keyword>Parcelas</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=corporinoquia_pomca_caranal</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La cuenca hidrográfica del caño Caranal se encuentra en el departamento de Arauca y cubre una parte de los municipios de Arauquita y Fortul.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-71.533</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-71.338</eastBoundingCoordinate>
+                    <northBoundingCoordinate>6.973</northBoundingCoordinate>
+                    <southBoundingCoordinate>6.896</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2015-01-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2015-12-31
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>823 registros biológicos de fauna y flora silvestre distribuidos así: Plantae (563) y Animalia (260). El recurso está compuesto por 12 clases, 58 órdenes, 144 familias, 283 géneros, 316 especies y 2 subespecies. Del total, se identificó un 93.8% a nivel de especie, un 6% a nivel de género y un 0.2% a nivel de subespecie.
+
+En cuanto al reino Animalia, la distribución se da en 9 clases, 36 órdenes, 102 familias, 218 géneros, 249 especies y 2 subespecies. Del total, se identificó un 96.5% a nivel de especie y el 3.5% restante se identificó a nivel de género y subespecie.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Elasmobranchii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Sauropsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En cuanto al reino Plantae, la distribución se da en 3 clases, 22 órdenes, 42 familias, 65 géneros y 67 especies. Del total, se identificó un 92.5% a nivel de especie y un 7.5% a nivel de género.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Nathalia</givenName>
+                <surName>Meza Fernández</surName>
+            </individualName>
+            <organizationName>Corporación Autónoma Regional de la Orinoquia - Corporinoquia</organizationName>
+            <positionName>Profesional Universitaria SPA- Biodiversidad</positionName>
+            <address>
+                <deliveryPoint>Carrera 23 # 18-31</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>nathaliameza@corporinoquia.gov.co</electronicMailAddress>
+            <onlineUrl>https://corporinoquia.gov.co/es/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>FLORA: Las parcelas se establecieron con una dimensión de 20m x 20m. Para lo cual se hicieron recorridos por las veredas, se registró la ubicación geográfica, para ubicarlas en la imagen satelital y posteriormente realizar la construcción del mapa de coberturas. Se tomaron en cuenta para la medición de los individuos arbóreos de 10cm o superiores (32cm de circunferencia) de diámetro a la altura del pecho (DAP). Los parámetros dasométricos que se estudiaron fueron el DAP, altura comercial (Hc), altura total (Ht), coordenadas de ubicación de cada uno de los individuos dentro de la retícula y diámetros de copa.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se realizó un conteo de individuos de regeneración de categoría brinzal (altura hasta 1.5m) y latizal (DAO inferior a 10cm y alturas superiores a 1.5m) en parcelas de 2m x 2m y 5m x 5m respectivamente, con cinco repeticiones en cada una de las retículas o parcelas de 0.05 ha, en las cuales se consideraron todos los renuevos de las especies arbóreas o plantas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Durante la fase de reconocimiento y la revisión cartográfica del área de estudio, se seleccionaron los sitios de muestreo de forma aleatoria, para las coberturas boscosas. En estas parcelas se analizaron tres categorías de tamaño: (1) Fustales: Individuos con un DAP mayor a 10cm, se registró información relacionada con la especie, altura total, altura comercial, diámetros y cobertura de copa; con el fin de obtener información que permitiera analizar la estructura de la cobertura y su dinámica. (2) Latizales: Se realizó el inventario en parcelas de 5m x 5m, registrando datos de altura total, especie y diámetro menor a 10cm de DAP. (3) Brinzal: Se realizaron parcelas de muestreo de 2m x 2m, se realizó un conteo de individuos de regeneración de categoría brinzal.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FAUNA - Peces: Se utilizaron diferentes artes de pesca. Los ejemplares capturados fueron fotografiados y devueltos a su respectivo hábitat. Posteriormente se identificaron utilizando las claves de Maldonado-Ocampo et al. (2005), Salinas y Agudelo (2000). Adicionalmente, se realizaron encuestas personalizadas a pobladores del área, especialmente a pescadores, así como visitas a las plazas de mercado donde se comerciara este recurso.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Herpetofauna: Se realizaron recorridos extensivos en transectos en jornada diurna y búsqueda nocturna en cuerpos de agua lóticos y/o lenticos empleando el método de muestreo de observación directa; los avistamientos fueron georreferenciados y se tomó registro fotográfico de los individuos encontrados. También se realizaron encuestas a los habitantes de la zona.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: Se emplearon diferentes métodos: (1) Observaciones y recorridos, se aplicó el método de conteo por puntos y recorridos extensivos propuesto por Ralph et al., (1996) para evaluaciones ambientales rápidas. Estos recorridos se realizaron en dos periodos de tiempo comprendidos entre las 05:00 - 10:00 y 15:00 - 18:00 con la ayuda de binoculares, situando los puntos de registro a intervalos mínimos de 250m entre punto y punto, utilizando carreteras o caminos existentes. (2) Captura en redes de niebla: se utilizaron 3 redes de niebla (12 x 2.2m, con ojo de malla de 32mm), ubicadas en las diferentes coberturas vegetales, con un periodo de trabajo comprendido entre las 05:00 - 10:00 y 15:00 - 18:00, y revisadas en intervalos de 30 minutos. Las estaciones de muestreo fueron georreferenciadas; los individuos capturados se identificaron y fotografiaron antes de ser liberados. Identificación de especímenes: La determinación taxonómica se llevó a nivel de especie, utilizando como referencia la Guía de las aves de Colombia (Hilty &amp; Brown, 2001), Bird of Northern South America (restall et al., 2007) y Field Guide to the birds of Colombia (McMullan et al., 2010). (3) Encuestas: para la realización de encuestas no formales se utilizaron las láminas de las guías de campo de A Guide of the Birds of Colombia (Hilty &amp; Brown, 1986).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: Para la caracterización de mastofauna se emplearon métodos de acuerdo a cada categoría: (1) Mamíferos grandes: recorridos diarios con el fin de observar la presencia o indicios de mamíferos (huellas, excrementos, restos de huesos, pelo, madrigueras, cuevas y vocalizaciones). Todo indicio fue georreferenciado y fotografiado. (2) Pequeños mamíferos: se instalaron 20 trampas Sherman (7.5 x 8.5 x 23 cm), ubicadas a lo largo de transectos en línea, dejando una distancia aproximada de 10 m entre cada trampa; estas fueron cebadas con una mezcla de avena en hojuelas, sardinas y mantequilla de maní; se revisaron en las primeras horas de la mañana y recebaron nuevamente en horas de la tarde. (3) Mamíferos voladores: se utilizaron 3 redes de niebla de 12m x 2.6m, colocadas en horas de la tarde a lo largo de senderos, atravesando quebradas, en vegetación abierta y en bosque con vegetación densa; estas se revisaron cada media hora mientras permanecían abiertas, dependiendo de las condiciones climáticas. Los especímenes capturados fueron identificados y fotografiados, se registró la hora de captura y se liberaron.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La cuenca hidrográfica del caño Caranal se encuentra en el departamento de Arauca y cubre una parte de los municipios de Arauquita y Fortul. Esta área se localiza en la provincia de los Llanos Orientales.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para caracterizar la diversidad biológica y el potencial de la flora silvestre del área de estudio, se realizaron muestreos de campo que consistieron en el inventario de las especies arbóreas de las coberturas boscosas encontradas en las áreas donde se tuvo acceso a partir del reconocimiento en campo y los recorridos realizados.
+
+Para la caracterización de la fauna en la cuenca, se siguieron las indicaciones de los términos de referencia y las técnicas empleadas para cada grupo en particular en a metodología de Evaluaciones Ecológicas Rápidas - ETT, TNC (2002). De acuerdo a esto, se realizó el levantamiento de información a partir de encuestas, avistamientos y capturas durante los recorridos y establecimiento de las parcelas para la caracterización de la flora.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>POMCA DEL CAÑO CARANAL, INFORME FINAL FASE DIAGNÓSTICO</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Nathalia</givenName>
+                    <surName>Meza</surName>
+                    </individualName>
+                    <role>POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>Se detallan los resultados de las actuaciones del Consorcio Caranal 2015, en el marco de la formulación de la Fase Diagnóstico del POMCA del caño Caranal. Se elaboró conforme a la Guía para la formulación de Planes de Ordenación y Manejo de Cuencas Hidrográficas del MADS, 2013. Esto permite conocer la situación actual de la cuenca y abordar de manera integral las potencialidades, conflictos, limitantes y posibles restricciones ambientales; además de brindar la posibilidad de identificar entre ellas las relaciones de causa - efecto, las cuales fueron el soporte para el desarrollo de las fases prospectiva, zonificación ambiental y de formulación.</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>La cuenca hidrográfica del Caño Caranal se encuentra en el departamento de Arauca, tiene una superficie de 102149.769 hectáreas, cubriendo parte de los municipios de Arauquita y Fortul. Esta cuenca se encuentra al norte de la cuenca del río Ele.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:20Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/w4dae4">Corporación Autónoma Regional de la Orinoquia - Corporinoquia (2024). Fauna y flora asociada al Plan de Ordenación y Manejo Ambiental de la cuenca del caño Caranal. Corporación Autónoma Regional de la Orinoquia - Corporinoquia. Occurrence dataset https://doi.org/10.15472/w4dae4 accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>McMullan, M., Donegan, T., &amp; Quevedo, A. (2011). Guia de Campo de las Aves de Colombia. ProAves.</citation>
+                <citation>Ministerio de Ambiente y Desarrollo Sostenible (MADS). 2013. Guía Técnica para la Formulación de los Planes de Ordenación y Manejo de Cuencas Hidrográficas. Anexo A. Diagnóstico. Ministerio de Ambiente y Desarrollo.</citation>
+                <citation>Ministerio de Ambiente y Desarrollo Sostenible (MADS). 2014. Guía Técnica para la Formulación de los  Planes  de  Ordenación  y  Manejo  de  Cuencas  Hidrográficas  POMCAS.  Ministerio  de Ambiente y Desarrollo Sostenible. 104 p.</citation>
+                <citation>Sayre, R., Roca, E.,Sedaghatkish, G.,Young, B., Keel, S., Roca, R., &amp; Sheppard, S. (2000). Un Enfoque en la Naturaleza, Evaluaciones  Ecológicas Rápidas. Virginia, USA: Nature in Focus: Rapid Ecological Assessment.</citation>
+                <citation>The Nature Conservancy (TNC). 2000. Un enfoque en la naturaleza: Evaluaciones ecológicas rápidas. 202p. I.S.B.N.: 1-886765-13-8</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-corporinoquia.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

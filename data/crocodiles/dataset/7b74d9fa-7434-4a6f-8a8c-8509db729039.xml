@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="7b74d9fa-7434-4a6f-8a8c-8509db729039"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/ds8kuy</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=conambiente_proyecto_cienaga</alternateIdentifier>
+        <title>Fauna asociada al Estudio de Impacto Ambiental (EIA) del proyecto &quot;Mejoramiento mediante la construcción y mantenimiento conexión Puente Pumarejo Barranquilla–Ciénaga (viaductos) en los departamentos del Atlántico y Magdalena&quot;</title>
+        <creator>
+            <individualName>
+                <givenName>Liz Anyury</givenName>
+                <surName>Lozano Ortiz</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Gerente General</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>7042515</phone>
+            <electronicMailAddress>liz.lozano@conambiente.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Maria Catalina</givenName>
+                <surName>Cotes Bravo</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Coordinadora de proyecto</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>catalina.cotes@conambiente.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Leidy Alejandra</givenName>
+                <surName>Barragan Contreras</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Bióloga</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>labarraganc@unal.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-1649-9470</userId>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Melissa</givenName>
+                <surName>Alzate Gaviria</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Bióloga</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>daymalzateg@gmail.com</electronicMailAddress>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Luis Fernando</givenName>
+                <surName>Ortega</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Biologo</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>Lfortega@calidris.org.co</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Maria Catalina</givenName>
+                <surName>Cotes Bravo</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Coordinadora de proyecto</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>7042515</phone>
+            <electronicMailAddress>catalina.cotes@conambiente.com</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Leidy Alejandra</givenName>
+                <surName>Barragan Contreras</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Bióloga</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>7042515</phone>
+            <electronicMailAddress>labarraganc@unal.edu.co</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Melissa</givenName>
+                <surName>Alzate Gaviria</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Biologa</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>7042515</phone>
+            <electronicMailAddress>daymalzateg@gmail.com</electronicMailAddress>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Luis Fernando</givenName>
+                <surName>Ortega</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Biólogo</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>7042515</phone>
+            <electronicMailAddress>Lfortega@calidris.org.co</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Liz Anyury</givenName>
+                <surName>Lozano Ortiz</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Gerente General</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>7042515</phone>
+            <electronicMailAddress>liz.lozano@conambiente.com</electronicMailAddress>
+            <role>USER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Maria Catalina</givenName>
+                <surName>Cotes</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Coordinadora de proyecto</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>catalina.cotes@conambiente.com</electronicMailAddress>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Leidy Alejandra</givenName>
+                <surName>Barragan Contreras</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Biologa</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>labarraganc@unal.edu.co</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-1649-9470</userId>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Melissa</givenName>
+                <surName>Alzate Gaviria</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Biologa</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>7042515</phone>
+            <electronicMailAddress>daymalzateg@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0002-0188-0535</userId>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Luis Fernando</givenName>
+                <surName>Ortega</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Biologo</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>7042515</phone>
+            <electronicMailAddress>Lfortega@calidris.org.co</electronicMailAddress>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Luis Carlos</givenName>
+                <surName>Mora</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Gerente General</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>7042515</phone>
+            <electronicMailAddress>lcmora@calidris.org.co</electronicMailAddress>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2025-05-06
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Este recurso contiene información del muestreo de fauna silvestre en el área de influencia del proyecto para anfibios, reptiles, aves y mamíferos en temporadas secas y húmedas en el año 2024 mediante diversos métodos de muestreo.</para><para>El alcance del proyecto consiste en la construcción de dos viaductos, que se localizan en el PR 19 y en el PR 28 dentro del corredor vial del Puente Pumarejo – Ciénaga. El proyecto transcurre sobre la transversal del Caribe, en la ruta 9007, en el tramo Barranquilla – Santa Marta, específicamente en la zona de Palermo – Tasajera, sobre los dos puntos críticos anteriormente mencionados, es decir PR 19 y PR 28</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>CGSM</keyword>
+            <keyword>Anfibios</keyword>
+            <keyword>Trampas</keyword>
+            <keyword>Aves</keyword>
+            <keyword>Mamiferos</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Zero v1.0 Universal</licenseName>
+            <url>https://spdx.org/licenses/CC0-1.0.html</url>
+            <identifier>CC0-1.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=conambiente_proyecto_cienaga</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Los datos se obtuvieron de salidas de campo realizadas en el complejo lagunar de la Cienaga Grande de Santa Marta en inmediaciones de la via 90 donde se realizará el proyecto constructivo</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2024-08-11
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-11-18
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>En los muestreos realizados para la caracterización de fauna silvestre en la temporada seca y húmeda de la Ciénaga grande de Santa Marta, se registraron un total de 10 especies de anfibios agrupados en 3 familias, 31 especies de reptiles agrupados en 17 familias, 25 especies de mamíferos agrupados en 14 familias, y 219 especies de aves agrupadas en 48 familias.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                    <commonName>Aves</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                    <commonName>Reptilia</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                    <commonName>Amphibia</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                    <commonName>Mammalia</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Liz Anyury</givenName>
+                <surName>Lozano Ortiz</surName>
+            </individualName>
+            <organizationName>Construcciones y Ambiente Conambiente SAS</organizationName>
+            <positionName>Gerente General</positionName>
+            <address>
+                <deliveryPoint>Calle 26 # 68C-61 Oficina 223</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>7042515</phone>
+            <electronicMailAddress>liz.lozano@conambiente.com</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Para la caracterización de las especies de anfibios y reptiles presentes en el área de influencia del proyecto, se realizó el muestreo con observación directa (búsqueda libre y sin restricciones) por ser el método más eficiente para obtener el mayor número de especies en el menor tiempo por parte de los profesionales (Angulo Ariadne, et al., 2006). Para anfibios se implementó el método de búsqueda VES (por sus siglas en inglés, Visual Encounter Surveys) (Manzanilla, Jesús; PÉFAUR, Jaime, 2000) y el Método de Reconocimiento Acústico (MEVA) en donde se buscan y detectan vocalizaciones o cantos de anuros para su determinación taxonómica. Para el muestreo de reptiles se empleó la metodología sugerida por (Pisani, George R y Villa, Jaime., 1974). Los muestreos se llevaron a cabo en los meses de agosto y octubre en donde se abarcaron las temporadas climáticas secas y húmedas respectivamente, esto con el fin de tener un alto porcentaje de representatividad de la diversidad de herpetofauna en la zona de estudio para ambas épocas climáticas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los métodos empleados en la caracterización de herpetofauna consisten principalmente en realizar transectos de observación en los picos más altos de actividad a lo largo del día, los cuales, suelen ser para las especies diurnas desde las 7:00 – 11:00, y para las especies nocturnas (principalmente anfibios) desde las 16:00 – 20:00 horas (Scott, 1994). Sin embargo, los horarios nocturnos estuvieron sujetos a modificaciones debido a inconvenientes de seguridad dados los antecedentes de orden público de la zona, razón por la que únicamente fue posible realizar un muestreo nocturno, por lo cual, se implementó como método adicional para la caracterización de la fauna nocturna, la instalación de dispositivos para grabación de vocalizaciones, como método complementario para el inventario de anfibios de la zona.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los recorridos de observación fueron georreferenciados por medio de un GPS teniendo en cuenta las coberturas vegetales presentes en el área de influencia, así como, la presencia de microhábitats en los que potencialmente hubiese presencia de anfibios y reptiles. En los transectos de observación se efectuaron búsquedas intensivas en los microhábitats con potencial presencia de herpetofauna como troncos caídos, hojarasca y huecos, entre otros que constituyen refugios para la realización de actividades ecológicas de anfibios y reptiles  (Whitfield, S. M., &amp; Pierce, M. S., 2005).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los individuos hallados en campo fueron identificados mediante los registros fotográficos que se tomaron en el lugar, evitando al máximo la captura y manipulación de las especies; únicamente se manipularon cuando fue necesario ver alguna característica diagnostica que con fotografías no fue posible realizar. Cada uno de los individuos capturados y fotografiados fue liberado en el menor tiempo posible en el mismo lugar donde fue capturado.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para realizar el inventario de la comunidad de aves, se implementaron 33 puntos de conteo fijos estos se establecieron para todos los meses de muestreo. Este método se usa por su eficacia en todo tipo de ambientes, ya que permite estudiar las composiciones específicas en los hábitats y patrones de abundancia (Ralph, C. J et al. , 1996.), (Guitierrez-Sanabria, 2017), (Hernández-Martinez et al. , 2019) (Ruiz - Gutierres et al. , 2020). Los puntos se establecieron según una evaluación cartográfica de coberturas del área de influencia y considerando cubrir los hábitats claves presentes en el área de estudio como los manglares, las lagunas costeras y las playas, entre otros Los puntos de conteo estuvieron separados por al menos tres kilómetros (3000 m) entre sí, para garantizar la independencia de los registros y evitar sobreestimaciones, también se tuvieron en cuenta otros factores como la accesibilidad y condiciones de seguridad. En las áreas abiertas, tales como playas, pantanos y lagunas costeras, cada punto de conteo tuvo un radio fijo máximo de 250 m, en áreas con coberturas más cerradas tales como manglar denso bajo y manglar abierto bajo, el radio fue de aproximadamente 30 metros. En cada punto (unidad de muestreo) se hicieron observaciones en la mañana entre las 6:00 am a 10:00 am y por un periodo de 15 minutos. Se emplearon binoculares 10 x 42 y un telescopio, haciendo un barrido de 360°.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se registraron las aves observadas y escuchadas, así como el número e identidad de las especies hasta la menor categoría taxonómica posible y los hábitats utilizados por estas (cuerpos de agua, carretera, playa, rocas, manglar, arbustos, vegetación acuática, entre otros), el estrato que corresponde a la altura vertical en la que se encuentra cada ave se discriminó en tres rangos: Alto, mayor a 5 m, medio entre 5 y 3  m y bajo 0 y 3 m, y el sustrato, que corresponde a la superficie en la que se encontraba posada cada ave: árbol, arbusto, hierba, suelo y cuerpo agua (Ruiz-Guerra et al., 2015), Para la clasificación taxonómica de las aves se siguió la nomenclatura propuesta eBird (Clements, J. F. et al., 2024).
+Adicionalmente y con el fin de caracterizar el hábitat en los puntos de muestreo, se registraron algunas variables, tales como profundidad de los cuerpos de agua (lagos, lagunas y pantanos), empleando una vara marcada cada 5 cm, la altura de la vegetación dominante empleando un clinómetro digital, la salinidad mediante un refractómetro y la temperatura superficial del agua usando un termómetro digital.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>En las coberturas vegetales del área de influencia en la que no fue posible realizar la caracterización mediante los puntos de observación debido a las características de la vegetación en zonas boscosas con árboles y arbustos frondosos de alto porte, como el manglar denso; se realizaron transectos de observación en los que se revisaron minuciosamente los diversos microhábitats con potencial presencia de aves como ramas, troncos y dosel. A cada individuo encontrado se le tomó registro reconociendo los caracteres diagnósticos para la identificación del individuo hasta la menor categoría taxonómica posible empleado binoculares y registros fotográficos. En cada observación se tomó nota de la actividad del individuo, estrato de vegetación en el cual fue registrado, número de individuos y en la medida de lo posible el sexo del individuo</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Teniendo en cuenta la información secundaria de las especies de mamíferos con distribución potencial en el área, así como, las coberturas vegetales presentes en el área de influencia del proyecto, se emplearon diversos métodos de muestreo tanto para mamíferos terrestres como para mamíferos voladores, implementando trampas y recorridos de búsqueda activa, en los que se identificaron rastros de los mamíferos presentes en el área de influencia del proyecto.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los métodos de muestreo que se emplearon para la caracterización de mastofauna fueron aprobados por Parques Nacionales Naturales de Colombia bajo el permiso “AUR 012 de 2024 de PNN recibido el 25 de julio de 2024”, en el que en la página 6 se describe la metodología de las trampas que se emplearon en el muestreo del grupo de mamíferos por el profesional con amplia experiencia en estos métodos en campo, asegurando el bienestar de los animales que se capturaren.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la instalación de las trampas se tuvo en cuenta la cercanía con los cuerpos de agua, sitios con gran disponibilidad de recursos y áreas donde se realizará la intervención del proyecto de construcción civil.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>El muestreo se realizó en dos épocas climáticas, tanto en época seca en el mes de agosto (teniendo en cuenta el muestreo realizado en diciembre del 2022), como en la época húmeda que corresponde al mes de octubre, los horarios de muestreo fueron en las horas de mayor actividad de fauna, para las especies diurnas de 7:00–11:00 am y para las especies de hábitos crepusculares y nocturnos de 5:00–8:00 pm, sin embargo, los muestreos en el horario nocturno se modificaron dadas las condiciones de seguridad y orden público de la zona, razón por la cual en la época seca (agosto) únicamente se realizó un muestreo nocturno empleando las redes de niebla y en la época húmeda en el mes de octubre no fue posible realizar muestreo mediante la instalación de redes.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Complejo lagunar de la Cienaga Grande de Santa Marta</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Busqueda libre mediante recorridos de observacion en microhabitats estructurales para la busqueda de fauna silvestre y rastros indirectos como huellas, heces, pelos, madrigueras y diversos tipos de rastros; tambien se realizó la instalacion de trampas Sherman para pequeños roedores, camaras trampa para felinos y canidos. Para las aves se establecieron puntos de observación cada 200 metros aproximadamente y se instalaron grabadoras de canto tipo Audiomoth para el registro de cantos y vocalizaciones de aves nocturnas.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>El personal que fue a campo es especializado en cada area y las identidades taxonomicas fueron verificadas mediante claves y guias de biodiversidad publicadas en la zona.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="LAV0064-00-2023">
+                <title>Estudio de Impacto Ambiental (EIA) del proyecto &quot;Mejoramiento mediante la construcción y mantenimiento conexión Puente Pumarejo Barranquilla–Ciénaga (viaductos) en los departamentos del Atlántico y Magdalena&quot;</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Maria Catalina</givenName>
+                    <surName>Cotes</surName>
+                    </individualName>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Melissa</givenName>
+                    <surName>Alzate Gaviria</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0002-0188-0535</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Leidy Alejandra</givenName>
+                    <surName>Barragan Contreras</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0002-1649-9470</userId>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Luis Fernando</givenName>
+                    <surName>Ortega</surName>
+                    </individualName>
+                    <role>AUTHOR</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                    <givenName>Luis Carlos</givenName>
+                    <surName>Mora</surName>
+                    </individualName>
+                    <role>AUTHOR</role>
+                </personnel>
+                <abstract>
+                    <para>El alcance del proyecto consiste en la construcción de dos viaductos, que se localizan en el PR 19 y en el PR 28 dentro del corredor vial del Puente Pumarejo – Ciénaga. El proyecto transcurre sobre la transversal del Caribe, en la ruta 9007, en el tramo Barranquilla – Santa Marta, específicamente en la zona de Palermo – Tasajera, sobre los dos puntos críticos anteriormente mencionados, es decir PR 19 y PR 28</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Complejo lagunar de la Cienaga Grande de Santa de Marta</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:00Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/ds8kuy">Lozano Ortiz L A, Cotes Bravo M C, Barragan Contreras L A, Alzate Gaviria M, Ortega L F (2025). Fauna asociada al Estudio de Impacto Ambiental (EIA) del proyecto &quot;Mejoramiento mediante la construcción y mantenimiento conexión Puente Pumarejo Barranquilla–Ciénaga (viaductos) en los departamentos del Atlántico y Magdalena&quot;. Construcciones y Ambiente Conambiente S.A.S. Occurrence dataset https://doi.org/10.15472/ds8kuy accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>Zambrano, J. J. C. EVALUACIÓN ECOLÓGICA RÁPIDA DE LA FAUNA EXISTENTE EN EL BOSQUE TROPICAL SIEMPRE VERDE DEL CANTÓN EL CARMEN, MANABÍ. PRIMER ENCUENTRO NACIONAL DE BOSQUES, RECURSOS GENÉTICOS FORESTALES Y AGROFORESTERÍA, 65.</citation>
+                <citation>Vargas, M. R., Castro, L. P., Chacón, R. V., Monge, R. M., &amp; Obando, F. N. (2011). EVALUACIÓN ECOLÓGICA RÁPIDA DE UN ECOSISTEMA URBANO: EL CASO DE LA ICROCUENCA DEL RÍO PIRRO, HEREDIA, COSTA RICA. Revista Geográfica de América Central, 2(47), 41-69.</citation>
+                <citation>Aguirre-León, G. (2011). Métodos de estimación, captura y contención de anfibios y reptiles. Manual de Técnicas para el estudio de la Fauna, 1(1), 48-65.</citation>
+                <citation>Lips, K. R., Reaser, J. K., Young, B. E., &amp; Ibañez, R. (1999). El monitoreo de anfibios en América Latina. Un manual para coordinar esfuerzos. The nature conservancy. United States National Science Foundation. Smithsonian Tropical Research Institute, Ciudad de Panamá, Panamá. Colegio de la Frontera Sur, Chetumal, México. Pontificia Universidad Católica de Ecuador, Quito, Ecuador.</citation>
+                <citation>DE, C. S. M. Y. T. CONSIDERACIONES SOBRE MÉTODOS Y TÉCNICAS DE CAMPO PARA EL ESTUDIO DE ANFIBIOS Y REPTILES.</citation>
+                <citation>Arévalo, J. (2001). Manual de campo para el monitoreo de mamíferos terrestres en áreas de conservación. Asociación de conservacionistas de Monteverde.</citation>
+                <citation>Tirira, D. (1998). Técnicas de campo para el estudio de mamíferos silvestres. Biología, Sistemática y Conservación de los Mamíferos del Ecuador. Museo de Zoología, Centro de Biodiversidad y Ambiente. Pontifica Universidad Católica del Ecuador, 93-126.</citation>
+                <citation>González-Romero, A. (2011). Métodos de captura y contención de mamíferos. Manual de técnicas para el estudio de la fauna, 1, 117-126.</citation>
+                <citation>González, S. (2005). Métodos de muestreo no invasivo para el diagnóstico de la diversidad de mamíferos. Agrociencia-Sitio en Reparación, 9(1-2), 545-550.</citation>
+                <citation>Ralph, C. J. (1997). Manual de métodos de campo para el monitoreo de aves terrestres (Vol. 159). US Department of Agriculture, Forest Service, Pacific Southwest Research Station.</citation>
+                <citation>González-García, F. (2011). Métodos para contar aves terrestres. Manual de técnicas para el estudio de la fauna, 1, 86-123.</citation>
+                <citation>Suárez-García, O., González-García, F., &amp; Celis-Murillo, A. (2017). Entendiendo la complementariedad de dos métodos de muestreo en el estudio de comunidades de aves de un bosque mesófilo de montaña en temporada reproductiva. Revista mexicana de biodiversidad, 88(4), 880-887.</citation>
+                <citation>González-Ortega, M. A. A., Hernández, J. G., Gómez, M. F. M., &amp; Velázquez, L. E. D. (2003). Un método para la selección de aves bioindicadoras con base en sus posibilidades de monitoreo. Huitzil. Revista Mexicana de Ornitología, 4(2), 10-16.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-Conambiente.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

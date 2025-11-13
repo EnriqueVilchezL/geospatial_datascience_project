@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="d39b2d99-8595-4f78-954b-22bfaec43e32"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/smtebv</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sinchi/resource?r=colombiabio_andaqui_reptiles</alternateIdentifier>
+        <alternateIdentifier>d39b2d99-8595-4f78-954b-22bfaec43e32</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sinchi/resource?r=colombiabio_andaqui_reptiles</alternateIdentifier>
+        <title>Reptiles de la transición Andino-Amazónica del departamento del Caquetá - Proyecto Colombia BIO</title>
+        <creator>
+            <individualName>
+                <givenName>José Rances</givenName>
+                <surName>Caicedo Portilla</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas Sinchi</organizationName>
+            <positionName>Investigador Asociado, curador colección de reptiles</positionName>
+            <address>
+                <deliveryPoint>Cll 20 # 5-44</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jcaicedo@sinchi.org.co</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>José Rances</givenName>
+                <surName>Caicedo Portilla</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas Sinchi</organizationName>
+            <positionName>Investigador Asociado, curador colección de reptiles</positionName>
+            <address>
+                <deliveryPoint>Cll 20 # 5-44</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jcaicedo@sinchi.org.co</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Edgar Esteban</givenName>
+                <surName>Herrera Collazos</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas Sinchi</organizationName>
+            <positionName>Data Scientist</positionName>
+            <address>
+                <deliveryPoint>Cll 20 # 5-44</deliveryPoint>
+                <city>Bogotá, D. C.</city>
+                <administrativeArea>Bogotá, D. C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>edgarestebanhc@gmail.com</electronicMailAddress>
+            <role>EDITOR</role>
+        </associatedParty>
+        <pubDate>
+                2023-03-03
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            El flanco oriental de la Cordillera oriental (foCO) en Colombia, está catalogada como una de las áreas más importantes para la conservación de Los Andes de Colombia (IAvH 1996), a pesar de esto, muy poco se conoce acerca de la diversidad de reptiles de esta región. En marco de las expediciones Colombia Bio, organizadas y financiadas por COLCIENCIAS,  se realizó un estudio de la composición de los reptiles de la transición andino-amazónica en el departamento del Caquetá, Colombia, especificamente en el municipio de Belen de los Andaquíes. Se realizaron muestreos en ocho estaciones en el foCO, que se encuentran desde los 400 m hasta los 2200 m de altitud aproximadamente, seis de las estaciones se encuentran dentro del Parque Municipal Natural Andaki. Los muestreos se realizaron entre el 22 de enero y el 8 de febrero de 2017. Se presenta una base de datos con los registros biológicos de los reptiles recolectados durante la Expedición Colombia Bio. Se obtuviero un total de 418 registros que corresponden a 41 especies.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Colombia</keyword>
+            <keyword>Colombia Bio</keyword>
+            <keyword>transecto altitudinal</keyword>
+            <keyword>Caquetá</keyword>
+            <keyword>transición andino-amazónica</keyword>
+            <keyword>Belén de los Andaquíes</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>COLOMBIA_BIO</keyword>
+            <keyword>COLECCIONES</keyword>
+            <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sinchi/archive.do?r=colombiabio_andaqui_reptiles</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>La transición Andino-Amazónica, iniciando en el departamento de Huila, municipio de Acevedo y descendiendo a lo largo del camino Andaki hasta el municipio de Belén de los Andaquíes en el departamento de Caquetá. Abarca desde el bosque de niebla hasta el piedemonte amazónico.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-75.928</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-75.861</eastBoundingCoordinate>
+                    <northBoundingCoordinate>1.719</northBoundingCoordinate>
+                    <southBoundingCoordinate>1.557</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2017-01-22
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2017-02-08
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Se registran seis familias de lagartos, tres de serpientes y una de cocodrílidos. Las familias más diversas son Colubridae sensu lato con 17 especies y Gymnophthalmidae con siete táxones.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dactyloidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gekkonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gymnophthalmidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hoploercidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sphaerodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Teiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Boidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Colubridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Viperidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alligatoridae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>José Rances</givenName>
+                <surName>Caicedo Portilla</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas Sinchi</organizationName>
+            <positionName>Investigador Asociado, curador colección de reptiles</positionName>
+            <address>
+                <deliveryPoint>Cll 20 # 5-44</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>jcaicedo@sinchi.org.co</electronicMailAddress>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Mariela</givenName>
+                <surName>Osorno Muñoz</surName>
+            </individualName>
+            <organizationName>Instituto Amazónico de Investigaciones Científicas Sinchi</organizationName>
+            <positionName>Investigadora Principal, coordinadora Grupo de Fauna, curadora colección de anfibios</positionName>
+            <address>
+                <deliveryPoint>Cll 20 # 5-44</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>Bogotá</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mosorno@sinchi.org.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Se busca en los mapas o imágines satelitales de la zona de estudio los hábitats adecuados para la búsqueda de reptiles</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se realiza un recorrido de reconocimiento en la zona de estudio para poder evaluar en campo los sitios de muestreo de la salida. Se debe trabajar mínimo 4 horas por sesión de muestreo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Una vez localizado el ejemplar, se debe proceder a capturarlo con las manos (anfibios y lagartos), con la pinza herpetológica (serpientes) o con la jama (larvas) y será depositado en una bolsa de tela o en una bolsa plástica. Cada bolsa debe estar numerada, facilitando así su identificación y evitando confusiones en el registro de los datos ecológicos de cada ejemplar.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para realizar una búsqueda adecuada y cubrir la mayor cantidad de área posible, durante el tiempo de muestreo los colectores deberán dispersarse, localizar los hábitats adecuados para los reptiles.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Al finalizar la jornada de muestreo todos los colectores deben entregar las bolsas, con o sin ejemplares, a los líderes del grupo (investigadores Sinchi), quienes deberán revisar los contenidos de las bolsas y asegurarse de que se encuentren en buenas condiciones hasta el día siguiente.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>A cada ejemplar capturado y que se vaya a procesar se le toman los datos de campo tales como: sustrato, posición horizontal y actividad; así mismo se le toman notas de coloración en vida y se les toman fotografías</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cada ejemplar procesado lleva una etiqueta de campo que es la que permite saber que individuo es en las notas de campo del colector principal.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Luego se procede al sacrificio de los ejemplares, para los reptiles es por medio de una inyección pericardica de roxicaina al 1% o 2%.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Algunos ejemplares se les toma muestra de tejido, que puede ser musculo o hígado.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se procede a inyectar los reptiles con formol al 10% y se fijan en una bandeja plástica que esta saturada con formol al 10%.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Al siguiente día, se les amarra la etiqueta del colector en una de las patas y se sumerge dentro de un recipiente que contenga formol al 10%, en dicho recipiente duran sumergidos los ejemplares durante quince días y son transportados al laboratorio dentro de este recipiente.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Transcurridos 15 días, se procede a eliminar el exceso de formol de los ejemplares. Los reptiles se deben dejar en agua durante 15 días, haciendo cambios del agua cada 4 o 5 días. Una vez eliminado el exceso de formol, los especímenes se mantendrán en alcohol de lavado (70%) en donde permanecerán hasta cuando se les asigne un número de colección y se almacenen definitivamente en alcohol al 70%.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Cuando los ejemplares están en alcohol se procede a determinar taxonomicamente los especímenes que no se pudieron identificar plenamente durante la salida de campo, esta actividad se realiza por medio de comparaciones con material de referencia dentro de la colección, por medio de literatura especializada en los grupos que se esta tratando de identificar o por comunicaciones con los expertos de los diferentes grupos de estudio.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Posteriormente, se procede a catalogar los ejemplares, poniéndole a cada uno la etiqueta SINCHI-R correspondiente y de manera consecutiva con cada ejemplar que se esta catalogando.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Se ingresa cada ejemplar a la base de datos electrónica, donde se anotan todos los datos de cada ejemplar que se anotaron en la libreta de campo, menos la descripción de coloración de cada uno de ellos.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La transición Andino-Amazónica, iniciando en el departamento de Huila, municipio de Acevedo y descendiendo a lo largo del camino Andaki hasta el municipio de Belén de los Andaquíes en el departamento de Caquetá. Abarca desde el bosque de niebla hasta el piedemonte amazónico.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El muestreo se realiza principalmente por el método de búsqueda con encuentro visual azaroso, el cual consiste en realizar caminatas nocturnas o en botes a baja velocidad (para reptiles que se encuentren a la orilla de caños y/o ríos) y algunas veces diurnas, en los diferentes hábitats que se puedan encontrar en la zona de estudio. Para la búsqueda de reptiles, el muestreo consiste en hacer un barrido sistemático desde el sotobosque, a una altura apróximada de tres metros, hasta la hojarasca dentro del bosque. Se remueven troncos caídos en el suelo, rocas y otros microhábitats donde se puedan encontrar los reptiles que se buscan. algunas veces se utilizan trampas de caída con barreras o no, según las condiciones del terreno y el tiempo de muestreo en la zona de estudio. Estas trampas consisten en enterrar baldes de 4-5 galones o materas de tamaño pequeño dentro del bosque a una distancia de 5 metros una de otra, por juego de trampas se instalan 4-5 baldes o materas pequeñas. Estas trampas se revisan dos veces, una en la mañana y otra en el atardecer.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Para el trabajo en campo (datos tomados) se tiene el control por medio de la corroboración de los ejemplares preservados frente a las notas de campo (chequeo de cada ejemplar colectado contra las notas de color, los números de fotos respectivas y el tejido en caso que se le haya tomado al ejemplar). Para la identificación del material el control de calidad es la plena identificación de los ejemplares identificados taxonomicamente conforme a estándares y literatura especializada Para el ingreso a la base de datos se realiza un control por medio de la verificacion de la información que se consigna para cada ejemplar. Para la catalogación de los ejemplares y el ingreso a la colección el control se realiza por medio de los ejemplares mantenidos físicamente en colección líquida (ejemplares, tejidos) o seca (caparazones, pieles curtidas), atendiendo los estándares definidos para cada grupo o material que se vaya a depositar dentro de la colección. Aquí se verifica que el número de colector coincida con el de colección y lo consignado en la base de datos; así como su identificación taxonómica. Asi mismo, los niveles de alcohol y el porcentaje optimo de almacenamiento del alcohol es revisado periodicamente en la colección.</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project id="Colombia_BIO">
+                <title>Expedición Colombia-BIO a la biodiversidad en la transición Andino-Amazónica del departamento del Caquetá en el marco del programa Colombia BIO</title>
+                <personnel>
+                    <individualName>
+                    <givenName>José Rances</givenName>
+                    <surName>Caicedo Portilla</surName>
+                    </individualName>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>El flanco oriental de la Cordillera oriental (foCO) en Colombia, está catalogada como una de las áreas más importantes para la conservación de Los Andes de Colombia (IAvH 1996), a pesar de esto, muy poco se conoce acerca de la diversidad de reptiles de esta región. En marco de las expediciones Colombia Bio, organizadas y financiadas por COLCIENCIAS,  se realizó un estudio de la composición de los reptiles de la transición andino-amazónica en el departamento del Caquetá, Colombia, especificamente en el municipio de Belen de los Andaquíes. Se realizaron muestreos en ocho estaciones en el foCO, que se encuentran desde los 400 m hasta los 2200 m de altitud aproximadamente, seis de las estaciones se encuentran dentro del Parque Municipal Natural Andaki. Los muestreos se realizaron entre el 22 de enero y el 8 de febrero de 2017. Se presenta una base de datos con los registros biológicos de los reptiles recolectados durante la Expedición Colombia Bio. Se obtuviero un total de 418 registros que corresponden a 41 especies.</para>
+                </abstract>
+                <funding>
+                    <para>Convenio especial de cooperación no. Fp44842-460-2016 celebrado entre Fiduprevisora s.a. - Fiduprevisora s.a., actuando como vocera y administradora del Fondo Nacional de Financiamiento para la ciencia, la tecnología y la innovación, Fondo Francisco José de Caldas y el Instituto Amazónico de Investigaciones Científicas - SINCHI. Aunar esfuerzos para caracterizar la diversidad de la transición Andino-Amazónica del Caquetá con participación comunitaria en el marco del programa Colombia BIO.</para>
+                </funding>
+                <designDescription>
+                    <description>
+                        <para>Entre el 22 de enero y el 8 de febrero se realizó un inventario rápido de la fauna de reptiles presente en un transecto altitudinal, localizado en el municipio de Belén de los Andaquíes, Caquetá. Para la obtención de ejemplares se hicieron recorridos en bosques pocos intervenidos, bosques intervenidos, potreros y construcciones humanas. Para efectuar la búsqueda, captura y/u observación de reptiles, se realizaron recorridos utilizando el método de búsqueda libre por encuentro visual azaroso (Crump &amp; Scott 1994, Guyer &amp; Donnelly 2012); los muestreos se realizaron principalmente en la noche, aunque algunos muestreos fueron realizados en el día, principalmente en la zona baja del transecto. Se realizaron búsquedas en hojarasca, en la vegetación de los estratos rasante y sotobosque, en la vegetación de bordes de caños y ríos, en suelo, vegetación de áreas pantanosas, en pozos o lagunas dentro del bosque, entre biomasa acumulada y entre escombros de construcciones, en madrigueras y en suelo el borde de quebradas y caños.  
+El protocolo de muestreo incluyó perturbar el sustrato para detectar los individuos de hojarasca y la búsqueda desde el suelo hasta los 3 metros de altura aproximadamente, los individuos fueron capturados manualmente y depositados en bolsas de tela numeradas para su posterior identificación en el campamento, las serpientes fueron capturadas por medio de ganchos y pinzas herpetológicas. Se recolectaron ejemplares voucher de cada estación, en lo posible que fueran ejemplares adultos. A todos los ejemplares recolectados se les describió el patrón de coloración y los datos habituales de hábitat, microhábitat y coordenadas. La mayor parte de los ejemplares fueron fotografiados, adicionalmente a algunos ejemplares se les tomaron muestras de tejido para posteriores estudios a nivel molecular.
+Los reptiles, fueron sacrificados por medio de una inyección cardiaca de roxicaina 1% o 2%, posteriormente fueron fijados en formaldehído al 10% durante 15 días. En el laboratorio, todos los ejemplares fueron lavados con agua y finalmente preservados en alcohol al 70%.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:21Z</dateStamp>
+                <citation identifier="http://doi.org/10.15472/smtebv">Caicedo Portilla J R (2023). Reptiles de la transición Andino-Amazónica del departamento del Caquetá - Proyecto Colombia BIO. Version 1.2. Instituto Amazónico de Investigaciones Científicas - SINCHI. Occurrence dataset https://doi.org/10.15472/smtebv accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation>CRUMP, M. L. &amp; N. J. SCOTT. 1994. Visual encounter surveys. Pp. 84-92. En: HEYER, W. R., DONNELLY, M. A., MCDIARMID, R. W., HAYEK, L. C. &amp; FOSTER, M. S. (eds.). Measuring and monitoring biological diversity, standard methods for amphibians. Smithsonian Institution Press, Washington, DC.</citation>
+                <citation>GUYER, C., &amp; M. A. DONNELLY. 2012. Visual encounter surveys. En: R. W. McDiarmid, M. S. Foster, C. Guyer, J. W. Gibbons, &amp; N. Chernoff (eds.). Reptile Biodiversity Standard Methods for Inventorying and Monitoring, pp. 218–220. University of California Press, USA.</citation>
+                <citation>Instituto de Investigación de Recusrsos Biológicos Alexander von Humboldt (1996) Taller de áreas prioritarias para el desarrollo de inventarios de Biodiversidad y la definición de unidades de conservación, Villa de Leyva, Boyacá, Colombia.</citation>
+                </bibliography>
+                <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/sinchi.jpg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>SINCHI-R</parentCollectionIdentifier>
+                    <collectionIdentifier>Registro Nacional de Colecciones: 215</collectionIdentifier>
+                    <collectionName>Colección Reptiles Instituto Sinchi</collectionName>
+                </collection>
+                <specimenPreservationMethod>FORMALIN</specimenPreservationMethod>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Individuo</jgtiUnitType>
+                    <jgtiUnitRange>
+                        <beginRange>1</beginRange>
+                        <endRange>500</endRange>
+                    </jgtiUnitRange>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

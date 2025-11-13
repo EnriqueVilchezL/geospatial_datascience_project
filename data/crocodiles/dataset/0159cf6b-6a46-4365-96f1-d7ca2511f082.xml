@@ -1,0 +1,1545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="0159cf6b-6a46-4365-96f1-d7ca2511f082"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15468/w8wpr2</alternateIdentifier>
+        <alternateIdentifier>https://www.snib.mx/iptconabio/resource?r=SNIB-W035</alternateIdentifier>
+        <alternateIdentifier>http://ipttest.conabio.gob.mx/iptconabiotest/resource?r=SNIB-W035</alternateIdentifier>
+        <alternateIdentifier>http://www.snib.mx/iptconabio/resource?r=SNIB-W035</alternateIdentifier>
+        <alternateIdentifier>http://www.snib.mx/iptconabio/resource?r=SNIB-W035-W035-6-anfibiosy-reptiles_Ago05</alternateIdentifier>
+        <alternateIdentifier>0159cf6b-6a46-4365-96f1-d7ca2511f082</alternateIdentifier>
+        <title>Algunas especies de anfibios y reptiles contenidos en el Proyecto de Norma Oficial Mexicana PROY-NOM-059-ECOL-2000</title>
+        <creator>
+            <individualName>
+                <givenName>Xóchitl</givenName>
+                <surName>Aguilar Miguel</surName>
+            </individualName>
+            <organizationName>Universidad Autónoma del Estado de MéxicoFacultad de Ciencias</organizationName>
+            <positionName>Responsable</positionName>
+            <address>
+                <city>Toluca</city>
+                <administrativeArea>Estado de México</administrativeArea>
+                <country>MEXICO</country>
+            </address>
+            <phone>Tel/Fax 01 722 29 655 53</phone>
+            <electronicMailAddress>xam@uaemex.mx</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>CONABIO</givenName>
+                <surName>Comisión nacional para el conocimiento y uso de la biodiversidad</surName>
+            </individualName>
+            <organizationName>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</organizationName>
+            <positionName>Dirección General de Sistemas</positionName>
+            <address>
+                <deliveryPoint>Liga Periférico-Insurgentes Sur No. 4903, Col. Parques del Pedregal</deliveryPoint>
+                <city>MÉXICO</city>
+                <administrativeArea>Tlalpan</administrativeArea>
+                <postalCode>14010</postalCode>
+                <country>MEXICO</country>
+            </address>
+            <phone>50045000</phone>
+            <electronicMailAddress>patricia.ramos@conabio.gob.mx</electronicMailAddress>
+            <onlineUrl>https://www.gob.mx/conabio</onlineUrl>
+        </metadataProvider>
+        <pubDate>
+                2025-04-01
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Se recopilaran e integrarán las fichas de 22 especies de anfibios y reptiles del PROY-NOM-059-ECOL-2000, evaluándose el riesgo de extinción de las mismas. De ellos 12 son Ambystomatidos del género Ambystoma. Se obtendrán también fichas de las tres especies de cocodrilos y caimanes de México. Adicionalmente se trabajará sobre cuatro especies endémicas de salamandras Plethodóntidas, dos (Chiropterotriton) del estado de Hidalgo y dos (Pseudoeurycea) del estado de México. Se incluirá también una rana Hylida (Hyla) del estado de Hidalgo. Otro reptil a incluir es Heloderma horridum de los estados del Pacífico de México. La información se obtendrá de la literatura científica, de registros de museos de Estados Unidos y México, de datos aún no publicados y de la experiencia personal del responsable y colaboradores. Las fichas se incluirán dentro del Programa BIOTICA desarrollado por CONABIO.</para><para>Reino: 1
+Filo: 1
+Clase: 2
+Orden: 5
+Familia: 30
+Género: 60
+Especie: 103
+Epitetoinfraespecifico: 61
+</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Reptiles</keyword>
+            <keyword>Anfibios</keyword>
+            <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://www.snib.mx/proyectos/cgi-bin/datos2.cgi?Letras=W&amp;Numero=35</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://www.snib.mx/iptconabio/archive.do?r=SNIB-W035</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>País: MEXICO (CAMPECHE, CHIAPAS, CHIHUAHUA, COLIMA, DISTRITO FEDERAL, DURANGO, GUANAJUATO, GUERRERO, HIDALGO, JALISCO, MEXICO, MICHOACAN DE OCAMPO, MORELOS, NAYARIT, OAXACA, PUEBLA, QUERETARO, QUINTANA ROO, SAN LUIS POTOSI, SINALOA, SONORA, TABASCO, TAMAULIPAS, TLAXCALA, VERACRUZ DE IGNACIO DE LA LLAVE, YUCATAN, ZACATECAS)</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-109.350833</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-86.758333</eastBoundingCoordinate>
+                    <northBoundingCoordinate>29.485</northBoundingCoordinate>
+                    <southBoundingCoordinate>14.625833</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1889-06-22
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2000-09-30
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Reino: Animalia
+Filo: Chordata
+Clase: Amphibia, Reptilia
+Orden: Caudata, Anura, Crocodylia, Squamata, Testudines
+Familia: Ambystomatidae, Ranidae, Crocodylidae, Plethodontidae, Hylidae, Helodermatidae, Alligatoridae, Kinosternidae, Natricidae, Bufonidae, Phrynosomatidae, Anguidae, Scaphiopodidae, Teiidae, Eleutherodactylidae, Dipsadidae, Scincidae, Colubridae, Viperidae, Typhlopidae, Dactyloidae, Leptodactylidae, Microhylidae, Phyllodactylidae, Geoemydidae, Elapidae, Iguanidae, Boidae, Leptotyphlopidae, Gekkonidae</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Kingdom</taxonRankName>
+                    <taxonRankValue>Animalia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Phylum</taxonRankName>
+                    <taxonRankValue>Chordata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Caudata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Anura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ambystomatidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Ranidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Crocodylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Plethodontidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Helodermatidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alligatoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Kinosternidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Natricidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bufonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phrynosomatidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Anguidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Scaphiopodidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Teiidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Eleutherodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dipsadidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Scincidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Colubridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Viperidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Typhlopidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dactyloidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leptodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Microhylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Phyllodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Geoemydidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Elapidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Iguanidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Boidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leptotyphlopidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gekkonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Ambystoma</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Rana</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Crocodylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Chiropterotriton</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Hyla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Heloderma</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Caiman</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Kinosternon</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Thamnophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Bufo</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Sceloporus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Abronia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Pseudoeurycea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Scaphiopus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Barisia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Aspidoscelis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Eleutherodactylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Enulius</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Eumeces</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Phrynosoma</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Pituophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Crotalus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Toluca</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Spea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Ramphotyphlops</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Storeria</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Conopsis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Tomodactylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Urosaurus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Sistrurus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Tantilla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Norops</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Imantodes</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Leptodactylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Salvadora</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Hypopachus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Smilisca</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Rhinella</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Lampropeltis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Pachymedusa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Geophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Phyllodactylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Pseudoficimia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Gerrhonotus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Rhinoclemmys</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Drymarchon</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Oxybelis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Pternohyla</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Micrurus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Leptodeira</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Ctenosaura</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Rhadinaea</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Leptophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Boa</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Diadophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Leptotyphlops</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Syrrhophus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Trimorphodon</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Hemidactylus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Genus</taxonRankName>
+                    <taxonRankValue>Masticophis</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma velasci</taxonRankValue>
+                    <commonName>ajolote, ajolote de Alchichica, ajolote del altiplano, salamandra, salamandra de Alchichica, salamandra de Taylor, salamandra tigre de meseta</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma tigrinum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crocodylus moreletii</taxonRankValue>
+                    <commonName>lagarto, cocodrilo Moreleti, cocodrilo de pantano, lagarto de El Petén, lagarto negro, lagarto pantanero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma dumerilii</taxonRankValue>
+                    <commonName>achoque, achoque, achoque de Pátzcuaro, achoque de agua, ajolote, ajolote de Pátzcuaro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chiropterotriton multidentatus</taxonRankValue>
+                    <commonName>tlaconete, salamandra dientona, salamandra multidentada, salamandra pie plano multidentada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crocodylus acutus</taxonRankValue>
+                    <commonName>caiman, caimán, caimán aguja, caimán de costa, cocodrilo americano, cocodrilo de río, lagarto amarillo, lagarto real</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma andersoni</taxonRankValue>
+                    <commonName>achoque, achoque de Zacapu, ajolote de Zacapu, salamandra de Anderson</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rana montezumae</taxonRankValue>
+                    <commonName>rana, rana de Moctezuma, rana leopardo de Moctezuma</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma ordinarium</taxonRankValue>
+                    <commonName>achoque, achoque michoacano, salamandra michoacana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hyla plicata</taxonRankValue>
+                    <commonName>ranita, rana de árbol plegada, rana de árbol plegada o surcada, ranita plegada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma taylori</taxonRankValue>
+                    <commonName>ajolote, ajolote de Alchichica, ajolote del altiplano, salamandra, salamandra de Alchichica, salamandra de Taylor, salamandra tigre de meseta</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chiropterotriton dimidiatus</taxonRankValue>
+                    <commonName>tlaconete, salamandra enana, salamandra pie plano enana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma lermaense</taxonRankValue>
+                    <commonName>achoque, ajolote, ajolote de Lerma, ajolote de Toluca, ajolote de piel fina, salamandra granulada, salamandra piel fina</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Caiman crocodilus</taxonRankValue>
+                    <commonName>caiman, caimán, caimán común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma mexicanum</taxonRankValue>
+                    <commonName>ajolote, ajolote, ajolote de Xochimilco</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma granulosum</taxonRankValue>
+                    <commonName>ajolote, ajolote, ajolote de Lerma, ajolote de Toluca, ajolote de piel fina, salamandra granulada, salamandra piel fina</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Kinosternon integrum</taxonRankValue>
+                    <commonName>tortuga, casquito de burro, tortuga de agua, tortuga de río, tortuga pecho quebrado mexicana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Bufo marmoreus</taxonRankValue>
+                    <commonName>sapo, sapo jaspeado, sapo marmoleado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hyla robertsorum</taxonRankValue>
+                    <commonName>ranita, rana de árbol, rana de árbol de Robert, ranita de Robert&apos;s</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma flavipiperatum</taxonRankValue>
+                    <commonName>achoque, ajolote de Chapala, ajolote de cabeza chata, salamandra cabeza chata, salamandra de Chapala</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Abronia deppii</taxonRankValue>
+                    <commonName>escorpión, escorpión arborícola, escorpión arborícola de Deppe, lagarto alicante</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudoeurycea leprosa</taxonRankValue>
+                    <commonName>tlaconete, tlaconete dorado, tlaconete leproso</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hyla eximia</taxonRankValue>
+                    <commonName>rana de árbol de montaña, rana verde manchada, ranita de montaña</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus grammicus</taxonRankValue>
+                    <commonName>lagartija, chintete de mezquite, lagartija escamosa de mezquite, lagartija espinosa del mezquital</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudoeurycea longicauda</taxonRankValue>
+                    <commonName>tlaconete, tlaconete cola larga</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus aeneus</taxonRankValue>
+                    <commonName>lagartija, lagartija escamosa llanera, llanerita</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudoeurycea robertsi</taxonRankValue>
+                    <commonName>tlaconete, tlaconete de Roberts, tlaconete del nevado de Toluca</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Bufo compactilis</taxonRankValue>
+                    <commonName>sapo, sapo de la meseta, sapo de meseta</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rana spectabilis</taxonRankValue>
+                    <commonName>rana, rana manchada, rana vistosa</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma altamirani</taxonRankValue>
+                    <commonName>ajolote, ajolote, ajolote arroyero de Toluca, ajolote de Zempoala, ajolote de arroyo, ajolote de arroyo de montaña, salamandra, siredon de Toluca, siredon de arroyo, siredon del Zempoala</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Chiropterotriton chiropterus</taxonRankValue>
+                    <commonName>tlaconete, salamandra pie plano, salamandra pie plano común</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eleutherodactylus hobartsmithi</taxonRankValue>
+                    <commonName>rana ladradora de Smith, rana ladradora pigmea, rana ladrona pigmeo de Smith</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus palaciosi</taxonRankValue>
+                    <commonName>lagartija, lagartija de barda, lagartija de barda de la Cuenca de México, lagartija escamosa de Palacios</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eumeces brevirostris</taxonRankValue>
+                    <commonName>escorpión, ajolote, eslizón chato, salamanquesa</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eumeces copei</taxonRankValue>
+                    <commonName>eslaboncillo, eslizón chato, eslizón chato de las montañas, eslizón de Cope</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma rivulare</taxonRankValue>
+                    <commonName>ajolote, ajolote, ajolote arroyero de Toluca, ajolote de Zempoala, ajolote de arroyo, ajolote de arroyo de montaña, salamandra, siredon de Toluca, siredon de arroyo, siredon del Zempoala</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hyla bistincta</taxonRankValue>
+                    <commonName>ranita, rana de árbol de pliegue mexicana, ranita de pliegue mexicana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma bombypellum</taxonRankValue>
+                    <commonName>achoque, ajolote, ajolote de Lerma, ajolote de Toluca, ajolote de piel fina, salamandra granulada, salamandra piel fina</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phrynosoma orbiculare</taxonRankValue>
+                    <commonName>camaleón, camaleón de montaña, falso camaleón, lagartija cornuda de montaña</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rana zweifeli</taxonRankValue>
+                    <commonName>rana, rana de Zweifel</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudoeurycea bellii</taxonRankValue>
+                    <commonName>ajolote de tierra, salamandra, tlaconete pinto</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophis melanogaster</taxonRankValue>
+                    <commonName>culebra de agua, culebra de agua de panza negra, culebra de agua de panza negra mexicana, culebra negra en Aguascalientes, víbora de agua</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma leorae</taxonRankValue>
+                    <commonName>ajolote, ajolote, ajolote arroyero de Toluca, ajolote de Zempoala, ajolote de arroyo, ajolote de arroyo de montaña, salamandra, siredon de Toluca, siredon de arroyo, siredon del Zempoala</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Spea multiplicata</taxonRankValue>
+                    <commonName>sapito, sapo de espuelas mexicano, sapo montícola de espuela</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotalus triseriatus</taxonRankValue>
+                    <commonName>cascabel oscura de la Sierra Madre, víbora cascabel transvolcánica</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ramphotyphlops braminus</taxonRankValue>
+                    <commonName>serpiente ciega de Braminy</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophis scalaris</taxonRankValue>
+                    <commonName>culebra de agua nómada cola corta alpestre, culebra listonada de montaña cola larga</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Storeria storerioides</taxonRankValue>
+                    <commonName>culebra, culebra, culebra parda mexicana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus subniger</taxonRankValue>
+                    <commonName>lagartija</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Bufo occidentalis</taxonRankValue>
+                    <commonName>sapo, sapo de los pinos, sapo de pino, sapo pinero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophis scaliger</taxonRankValue>
+                    <commonName>culebra listonada de montaña cola corta</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hyla arenicolor</taxonRankValue>
+                    <commonName>ranita, otác (Seri), rana de árbol color arena, ranita de cañon, ranita de las rocas, ziix hax ano quiij (Seri)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus pyrocephalus</taxonRankValue>
+                    <commonName>lagartija, lagartija escamosa de pedregal, lagartija espinosa de cabeza roja</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus bicanthalis</taxonRankValue>
+                    <commonName>lagartija, lagartija escamosa transvolcánica, lagastija del pastizal Neovolcánica</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tomodactylus angustidigitorum</taxonRankValue>
+                    <commonName>rana fisgona de Pátzcuaro, ranita de Pátzcuaro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Barisia imbricata</taxonRankValue>
+                    <commonName>escorpión, lagarto alicante del Popocatépetl</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophis eques</taxonRankValue>
+                    <commonName>culebra de agua, culebra de agua nómado mexicano, culebra listonada del sur Mexicano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma zempoalaensis</taxonRankValue>
+                    <commonName>ajolote, ajolote, ajolote arroyero de Toluca, ajolote de Zempoala, ajolote de arroyo, ajolote de arroyo de montaña, salamandra, siredon de Toluca, siredon de arroyo, siredon del Zempoala</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Thamnophis cyrtopsis</taxonRankValue>
+                    <commonName>abaniqillo de Simmons, abaniquillo, culebra de agua, culebra lineada de bosque, culebra listonada cuello negro, víbora de agua</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudoeurycea altamontana</taxonRankValue>
+                    <commonName>tlaconete, tlaconete de Morelos, tlaconete morelense</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tantilla deppei</taxonRankValue>
+                    <commonName>culebra, culebra ciempiés de Deppe, culebra ciénpies de Deppe</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Norops nebulosus</taxonRankValue>
+                    <commonName>roñito, abaniqillo de Simmons, abaniquillo de Colima, abaniquillo de Schmidt, abaniquillo pañuelo del pacífico, anolis de Colima, anolis de Schmidt, anolis pañuelo, anolis pañuelo del pacífico, cachorita, lagartija, lagartija de papada rosa, pañuelo, roño de paño</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Eleutherodactylus occidentalis</taxonRankValue>
+                    <commonName>otác (Seri), rana costeña, rana ladradora costeña, ziix hax ano quiij (Seri)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Barisia rudicollis</taxonRankValue>
+                    <commonName>escorpión, lagarto alicante cuello rugoso</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotalus polystictus</taxonRankValue>
+                    <commonName>víbora cascabel, hocico de puerco, víbora cascabel ocelada, víbora de cascabel ocelada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hyla smaragdina</taxonRankValue>
+                    <commonName>ranita, rana de árbol esmeralda, ranita de pastizal, ranita esmeralda</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodactylus melanonotus</taxonRankValue>
+                    <commonName>múuch (Maya), otác (Seri), rana del sabinal, rana nidificadora de sabinal, ranita espumera de dedos marginados, ranita hojarasca, ziix hax ano quiij (Seri)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Conopsis biserialis</taxonRankValue>
+                    <commonName>culebra, culebra terrestre dos líneas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Salvadora mexicana</taxonRankValue>
+                    <commonName>culebra, culebra chata del Pacífico, culebra manguera, culebra nariz de parche mexicana, culebra parchada mexicana</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hypopachus variolosus</taxonRankValue>
+                    <commonName>chacmuch (Maya), múuch (Maya), otác (Seri), rana manglera, rana oveja común, rana ovejera, rana termitera, termitero balador, ziix hax ano quiij (Seri)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Smilisca baudinii</taxonRankValue>
+                    <commonName>ranita, otác (Seri), quech (Maya), rana arborícola mexicana, rana arbórea de Baudin, rana de árbol mexicana, rana de árbol mexicana común, rana trepadora, x-túuts´ (Maya), ziix hax ano quiij (Seri)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhinella horribilis</taxonRankValue>
+                    <commonName>sapo, bezmuch (Maya), sapo común, sapo gigante, sapo grande, sapo lechero, sapo verrugoso, totmuch (Maya)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus siniferus</taxonRankValue>
+                    <commonName>lagartija escamosa cola larga, lagartija escamoso castaño, lagartija espinosa de cola larga</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotalus transversus</taxonRankValue>
+                    <commonName>víbora cascabel, cascabel cruz rayada de montaña, víbora cascabel bandas cruzadas, víbora de cascabel</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Salvadora bairdi</taxonRankValue>
+                    <commonName>culebra, culebra chata de Baird, culebra parchada de Baird</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pachymedusa dacnicolor</taxonRankValue>
+                    <commonName>ranita, otác (Seri), rana cara de niño, rana verde, ranita verduzca, ziix hax ano quiij (Seri)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Toluca lineata</taxonRankValue>
+                    <commonName>culebra nariz de pala del occidente, culebra terrestre del centro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rana forreri</taxonRankValue>
+                    <commonName>rana, otác (Seri), rana, rana de Forrer, rana del zacate, rana leopardo de Forrer, rana leopardo del zacate, ziix hax ano quiij (Seri)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus gadoviae</taxonRankValue>
+                    <commonName>chintete, lagartija escamosa de Gadow, lagartija espinosa del Alto Balsas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Geophis sieboldi</taxonRankValue>
+                    <commonName>culebra, culebra miandora de Siebold, minadora de Siebol</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tomodactylus nitidus</taxonRankValue>
+                    <commonName>grillo, rana fisgona deslumbrante, ranita piadora</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus anahuacus</taxonRankValue>
+                    <commonName>lagartija, lagartija del pastizal del Anahuac, lagartija escamosa del Anáhuac, lagartija espinosa del Anáhuac</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hyla smithii</taxonRankValue>
+                    <commonName>ranita, otác (Seri), rana de árbol mexicana, rana de árbol mexicana enana, ranita enana mexicana, ziix hax ano quiij (Seri)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Phrynosoma asio</taxonRankValue>
+                    <commonName>camaleón gigante, lagartija cornuda gigante, lagarto espinoso</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudoficimia frontalis</taxonRankValue>
+                    <commonName>culebra, culebra, culebra ilamacoa, ilamacoa</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ambystoma amblycephalum</taxonRankValue>
+                    <commonName>achoque, ajolote de Chapala, ajolote de cabeza chata, salamandra cabeza chata, salamandra de Chapala</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Oxybelis microphthalmus</taxonRankValue>
+                    <commonName>bejuquillo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rana tlaloci</taxonRankValue>
+                    <commonName>rana, rana de Tlaloc</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pseudoeurycea cephalica</taxonRankValue>
+                    <commonName>babosa, tlaconete regordete</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rana catesbeiana</taxonRankValue>
+                    <commonName>rana toro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Tomodactylus fuscus</taxonRankValue>
+                    <commonName>rana fisgona café, ranita parda</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Pternohyla fodiens</taxonRankValue>
+                    <commonName>ranita, otác (Seri), rana chata, rana de árbol de tierras bajas, ranita minera, ziix hax ano quiij (Seri)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus horridus</taxonRankValue>
+                    <commonName>chintete escamoso, lagartija, lagartija escamosa tarasca, lagartija espinosa del pacífico, torosco</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Bufo perplexus</taxonRankValue>
+                    <commonName>sapo, sapo confuso, sapo de la cuenca del rio Tepalcatepec, sapo perplejo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Ctenosaura pectinata</taxonRankValue>
+                    <commonName>garrobo, iguana de roca, iguana espinosa Mexicana, iguana mexicana de cola espinosa, iguana negra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Rhadinaea laureata</taxonRankValue>
+                    <commonName>culebra, culebra café coronada</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Sceloporus spinosus</taxonRankValue>
+                    <commonName>lagartija escamosa espinosa, lagartija espinosa</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptotyphlops maximus</taxonRankValue>
+                    <commonName>culebra lombriz, agujilla, culebrilla ciega gigante, culebrilla lombriz gigante, serpiente lombriz gigante</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Leptodeira maculata</taxonRankValue>
+                    <commonName>culebra, culebra ojo de gato del suroeste, escombreara del suroeste mexicano</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Aspidoscelis sackii</taxonRankValue>
+                    <commonName>campeche, lagartija</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Crotalus aquilus</taxonRankValue>
+                    <commonName>cascabel de Querétaro, cascabel obscura de Querétaro, cascabel obscuro de Querétaro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Hemidactylus frenatus</taxonRankValue>
+                    <commonName>besucona, besucona, geco casero bocón</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Species</taxonRankName>
+                    <taxonRankValue>Conopsis nasus</taxonRankValue>
+                    <commonName>culebra de tierra de la meseta mexicana, culebra terrestre narigona, culebrita gris</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Heloderma horridum subsp. horridum</taxonRankValue>
+                    <commonName>escorpión, escorpión, escorpíon grande, lagarto de chaquira, lagarto de cuentas, lagarto enchaquirado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Thamnophis eques subsp. eques</taxonRankValue>
+                    <commonName>culebra de agua</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus grammicus subsp. microlepidotus</taxonRankValue>
+                    <commonName>lagartija</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Heloderma exasperatum subsp. horridum</taxonRankValue>
+                    <commonName>lagarto de chaquira norteño</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Thamnophis melanogaster subsp. melanogaster</taxonRankValue>
+                    <commonName>culebra de agua</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus torquatus subsp. torquatus</taxonRankValue>
+                    <commonName>lagartija de collar, lagartija escamosa barrada, lagartija espinosa de collar, rápido barrado</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus mucronatus subsp. mucronatus</taxonRankValue>
+                    <commonName>chintete</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus scalaris subsp. scalaris</taxonRankValue>
+                    <commonName>lagartija, lagartija da pastizal, lagartija escamosa escalonada, lagartija espinosa de pastizal</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Kinosternon hirtipes subsp. hirtipes</taxonRankValue>
+                    <commonName>tortuga</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Barisia imbricata subsp. imbricata</taxonRankValue>
+                    <commonName>escorpión, escorpión, lagarto alicante del Popocatépetl</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Aspidoscelis deppii subsp. infernalis</taxonRankValue>
+                    <commonName>cuijes</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus horridus subsp. oligoporus</taxonRankValue>
+                    <commonName>chintete</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Pseudoeurycea bellii subsp. bellii</taxonRankValue>
+                    <commonName>ajolote de tierra, ajolote de tierra, salamandra, tlaconete pinto</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Enulius flavitorques subsp. unicolor</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Thamnophis cyrtopsis subsp. pulchrilatus</taxonRankValue>
+                    <commonName>culebra listonada de tierras altas Mexicana, culebra semiacuática de garganta amarilla</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Pseudoeurycea cephalica subsp. cephalica</taxonRankValue>
+                    <commonName>tlaconete, babosa, tlaconete regordete</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Eumeces brevirostris subsp. indubitus</taxonRankValue>
+                    <commonName>eslaboncillo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Phrynosoma orbiculare subsp. orbiculare</taxonRankValue>
+                    <commonName>camaleón</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus jarrovii subsp. sugillatus</taxonRankValue>
+                    <commonName>chintete, lagartija espinosa del Chichinautzin</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Pituophis deppei subsp. deppei</taxonRankValue>
+                    <commonName>cincuate</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Crotalus triseriatus subsp. triseriatus</taxonRankValue>
+                    <commonName>víbora cascabel, cascabel oscura de la Sierra Madre, víbora cascabel transvolcánica</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Toluca lineata subsp. lineata</taxonRankValue>
+                    <commonName>culebra, culebra nariz de pala del occidente, culebra terrestre del centro</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Aspidoscelis costatus subsp. costatus</taxonRankValue>
+                    <commonName>cuijes</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus melanorhinus subsp. calligaster</taxonRankValue>
+                    <commonName>chintete</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus horridus subsp. horridus</taxonRankValue>
+                    <commonName>chintete</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus grammicus subsp. grammicus</taxonRankValue>
+                    <commonName>lagartija</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Conopsis nasus subsp. nasus</taxonRankValue>
+                    <commonName>culebra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Urosaurus bicarinatus subsp. bicarinatus</taxonRankValue>
+                    <commonName>roñito</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sistrurus ravus subsp. ravus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Eleutherodactylus nitidus subsp. nitidus</taxonRankValue>
+                    <commonName>grillo, rana fisgona deslumbrante, ranita piadora</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Heloderma alvarezi subsp. horridum</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Imantodes gemmistratus subsp. latistratus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Thamnophis cyrtopsis subsp. collaris</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Lampropeltis triangulum subsp. arcifera</taxonRankValue>
+                    <commonName>culebra, falsa coralillo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus spinosus subsp. spinosus</taxonRankValue>
+                    <commonName>chintete</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Eleutherodactylus augusti subsp. cactorum</taxonRankValue>
+                    <commonName>otác (Seri), rana amarilla labradora, rana de hojarasca de acantilado, rana de tronco, rana ladradora amarilla, rana ladradora común, sapo ladrador, ziix hax ano quiij (Seri)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus megalepidurus subsp. megalepidurus</taxonRankValue>
+                    <commonName>chintete</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Eumeces lynxe subsp. lynxe</taxonRankValue>
+                    <commonName>lincer, eslizón de bosque de encinos, eslizón encinero</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Phyllodactylus lanei subsp. rupinus</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Gerrhonotus liocephalus subsp. liocephalus</taxonRankValue>
+                    <commonName>escorpión</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Rhinoclemmys rubida subsp. perixantha</taxonRankValue>
+                    <commonName>tortuga de tierra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Drymarchon corais subsp. rubidus</taxonRankValue>
+                    <commonName>culebra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Crotalus durissus subsp. culminatus</taxonRankValue>
+                    <commonName>víbora cascabel</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Thamnophis melanogaster subsp. linearis</taxonRankValue>
+                    <commonName>culebra de agua</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Pituophis lineaticollis subsp. lineaticollis</taxonRankValue>
+                    <commonName>cincuate</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Thamnophis cyrtopsis subsp. cyrtopsis</taxonRankValue>
+                    <commonName>culebra de agua</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Sceloporus dugesii subsp. intermedius</taxonRankValue>
+                    <commonName>lagartija, lagartija escamosa de Duge, lagartija espinosa jalisciense</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Micrurus fulvius subsp. fitzingeri</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Leptodeira splendida subsp. bressoni</taxonRankValue>
+                    <commonName>culebra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Phrynosoma orbiculare subsp. boucardi</taxonRankValue>
+                    <commonName>camaleón</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Leptophis diplotropis subsp. diplotropis</taxonRankValue>
+                    <commonName>culebra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Boa sigma subsp. imperator</taxonRankValue>
+                    <commonName>boa, boota, corúa, fuerzuda, macoa, mazacuata, mazacóatl (Yuto-nahua), och-can (Maya), tamacoa, xazáacoj (Seri)</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Rhadinaea taeniata subsp. aemula</taxonRankValue>
+                    <commonName>culebra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Diadophis punctatus subsp. dugesii</taxonRankValue>
+                    <commonName>culebra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Micrurus browni subsp. browni</taxonRankValue>
+                    <commonName>coralillo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Syrrhophus pipilans subsp. pipilans</taxonRankValue>
+                    <commonName>pipilo, rana chirriadora pipilo</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Trimorphodon tau subsp. latifasciata</taxonRankValue>
+                    <commonName>culebra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Tantilla bocourti subsp. bocourti</taxonRankValue>
+                    <commonName>culebra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Leptotyphlops goudotii subsp. bakewelli</taxonRankValue>
+                    <commonName>culebra lombriz</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Masticophis mentovarius subsp. striolatus</taxonRankValue>
+                    <commonName>culebra</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Infraspecific Name</taxonRankName>
+                    <taxonRankValue>Trimorphodon biscutatus subsp. biscutatus</taxonRankValue>
+                    <commonName>culebra, codorniz, culebra nocturna lagartijera, víbora sorda</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Patricia</givenName>
+                <surName>Ramos Rivera</surName>
+            </individualName>
+            <organizationName>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</organizationName>
+            <positionName>Directora General de Sistemas</positionName>
+            <address>
+                <deliveryPoint>Liga Periférico-Insurgentes Sur No. 4903, Col. Parques del Pedregal</deliveryPoint>
+                <city>México</city>
+                <administrativeArea>Tlalpan</administrativeArea>
+                <postalCode>14010</postalCode>
+                <country>MEXICO</country>
+            </address>
+            <phone>50045000</phone>
+            <electronicMailAddress>patricia.ramos@conabio.gob.mx</electronicMailAddress>
+            <onlineUrl>https://www.gob.mx/conabio</onlineUrl>
+        </contact>
+
+            <project id="SNIB-W035-W035-6-anfibiosy reptiles_Ago05">
+                <title>Algunas especies de anfibios y reptiles contenidos en el Proyecto de Norma Oficial Mexicana PROY-NOM-059-ECOL-2000</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Xóchitl</givenName>
+                    <surName>Aguilar Miguel</surName>
+                    </individualName>
+                    <role>CONTENT_PROVIDER</role>
+                </personnel>
+                <abstract>
+                    <para>Se recopilaran e integrarán las fichas de 22 especies de anfibios y reptiles del PROY-NOM-059-ECOL-2000, evaluándose el riesgo de extinción de las mismas. De ellos 12 son Ambystomatidos del género Ambystoma. Se obtendrán también fichas de las tres especies de cocodrilos y caimanes de México. Adicionalmente se trabajará sobre cuatro especies endémicas de salamandras Plethodóntidas, dos (Chiropterotriton) del estado de Hidalgo y dos (Pseudoeurycea) del estado de México. Se incluirá también una rana Hylida (Hyla) del estado de Hidalgo. Otro reptil a incluir es Heloderma horridum de los estados del Pacífico de México. La información se obtendrá de la literatura científica, de registros de museos de Estados Unidos y México, de datos aún no publicados y de la experiencia personal del responsable y colaboradores. Las fichas se incluirán dentro del Programa BIOTICA desarrollado por CONABIO.</para>
+                </abstract>
+                <funding>
+                    <para>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Anfibios
+Reptiles
+ajolotes, salamandras, tritones
+boas, cobras, coralillos, culebras, pitones, serpientes, víboras
+caimanes, cocodrilos
+camaleones, geckos, iguanas, lagartijas, lagartos
+ranas, sapos
+tortugas dulceacuícolas, tortugas terrestres</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:07Z</dateStamp>
+                <citation>Aguilar Miguel X, Comisión nacional para el conocimiento y uso de la biodiversidad C (2025). Algunas especies de anfibios y reptiles contenidos en el Proyecto de Norma Oficial Mexicana PROY-NOM-059-ECOL-2000. Version 1.17. Comisión nacional para el conocimiento y uso de la biodiversidad. Occurrence dataset https://doi.org/10.15468/w8wpr2 accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>SNIB-W035-CSV.zip</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>CSV</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://www.snib.mx/proyectos/W035/SNIB-W035-CSV.zip</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <physical>
+                    <objectName>SNIB-W035-BD.zip</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>MDB</formatName>
+                            <formatVersion>MicrosoftAccess2007</formatVersion>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://www.snib.mx/proyectos/W035/SNIB-W035-BD.zip</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Amphibians and Reptiles Collection;FMNH;Field Museum of Natural History;FMNH</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Herpetological Collection;MVZ;Museum of Vertebrate Zoology, University of California, Berkeley;MVZ-UCB</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Herpetology Collection;LACM;Natural History Museum, Los Angeles County;LACM</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>NO APLICA;NO APLICA;NO DISPONIBLE;NO DISPONIBLE</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Reptiles and Amphibians Collection;UMMZ;University of Michigan, Museum of Zoology;UMMZ</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Colección Herpetológica;ENCB;Escuela Nacional de Ciencias Biológicas, Instituto Politécnico Nacional;ENCB-IPN</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Herpetology Collection;KUH;Biodiversity Institute and Natural History Museum, University of Kansas;KU</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Amphibians and Reptiles Collection;CM;Carnegie Museum of Natural History;CMNH</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Colección Herpetológica;FESI;Facultad de Estudios Superiores Iztacala, Universidad Nacional Autónoma de México;FESI-UNAM</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Colección Nacional de Anfibios y Reptiles;CNAR;Instituto de Biología, Universidad Nacional Autónoma de México;IBUNAM</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Herpetology Collection;AMNH;American Museum of Natural History;AMNH</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Colección Herpetológica;MZFC-HE;Facultad de Ciencias, Universidad Nacional Autónoma de México;FC-UNAM</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Collection of Herpetology;SDNHM;San Diego Natural History Museum;SDNHM</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Collection of Herpetology;UTEP;The Centennial Museum and Chihuahuan Desert Gardens, University of Texas, El Paso;UTEP</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Collection of Herpetology;UTA;University of Texas, Arlington;UTA</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Collection of Herpetology;UIMNH;University of Illinois, Museum of Natural History;UIMNH</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Collection of Herpetology;TCWC;Texas Cooperative Wildlife Collections, Texas A&amp; M University;TCWC-TAMU</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Collection of Reptiles and Amphibians;LSUMZ;Museum of Natural Science, Louisiana State University;LSU</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Amphibians and Reptiles Collection;UCM;University of Colorado, Boulder;UCM</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Herpetology Collection;MCZ;Museum of Comparative Zoology, Harvard University;MCZ-HU</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Herpetology Collection;TNHC;Department of Integrative Biology, College of Natural Sciences, University of Texas, Austin;CNS-UT</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>Herpetology Collection;CAS-HERP;California Academy of Sciences;CAS</collectionName>
+                </collection>
+                <collection>
+                    <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                    <collectionIdentifier>SNIB-W035-W035-6-anfibiosy reptiles_Ago05</collectionIdentifier>
+                    <collectionName>National Collection of Amphibians and Reptiles;USNM;National Museum of Natural History, Smithsonian Institution;NMNH-SI</collectionName>
+                </collection>
+                <jgtiCuratorialUnit>
+                    <jgtiUnitType>Ejemplar</jgtiUnitType>
+                    <jgtiUnitRange>
+                        <beginRange>1</beginRange>
+                        <endRange>8,856</endRange>
+                    </jgtiUnitRange>
+                </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

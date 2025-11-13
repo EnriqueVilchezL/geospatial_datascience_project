@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="3f4d4bf1-5f9a-43f2-a0d8-ff6ed5952796"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/3h7tnh</alternateIdentifier>
+        <alternateIdentifier>https://www.marine.csiro.au/ipt/resource?r=imos_atf_ad</alternateIdentifier>
+        <alternateIdentifier>https://ogc-oa-cdc.it.csiro.au/ipt/resource?r=imos_atf_ad</alternateIdentifier>
+        <alternateIdentifier>3f4d4bf1-5f9a-43f2-a0d8-ff6ed5952796</alternateIdentifier>
+        <alternateIdentifier>http://ogc-act.csiro.au/ipt/resource?r=imos_atf_ad</alternateIdentifier>
+        <title>IMOS - Animal Tracking Facility - Acoustic Tracking - Quality Controlled Detections (2007 -2021)</title>
+        <creator>
+            <individualName>
+                <givenName>Xavier</givenName>
+                <surName>Hoenner</surName>
+            </individualName>
+            <organizationName>Australian Ocean Data Network, Integrated Marine Observing System University of Tasmania,</organizationName>
+            <positionName>Research Scientist</positionName>
+            <address>
+                <deliveryPoint>Private Bag 110</deliveryPoint>
+                <city>Hobart</city>
+                <administrativeArea>Tasmania</administrativeArea>
+                <postalCode>7001</postalCode>
+                <country>AUSTRALIA</country>
+            </address>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Dave</givenName>
+                <surName>Watts</surName>
+            </individualName>
+            <organizationName>CSIRO Oceans and Atmosphere</organizationName>
+            <positionName>OBIS Australia Data manager</positionName>
+            <address>
+                <deliveryPoint>PO Box 1538</deliveryPoint>
+                <city>Hobart</city>
+                <administrativeArea>Tasmania</administrativeArea>
+                <postalCode>7001</postalCode>
+                <country>AUSTRALIA</country>
+            </address>
+            <phone>+61 (3) 6232 5062</phone>
+            <electronicMailAddress>dave.watts@csiro.au</electronicMailAddress>
+            <onlineUrl>http://www.obis.org.au/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>OBIS Australia Node manager</surName>
+            </individualName>
+            <organizationName>CSIRO National Collections and Marine Infrastructure Data Centre</organizationName>
+            <positionName>OBIS Australia Data Manager</positionName>
+            <address>
+                <deliveryPoint>Castray Esplande</deliveryPoint>
+                <city>Hobart</city>
+                <administrativeArea>Tasmania</administrativeArea>
+                <postalCode>7000</postalCode>
+                <country>AUSTRALIA</country>
+            </address>
+            <electronicMailAddress>obisau@csiro.au</electronicMailAddress>
+            <onlineUrl>http://www.obis.org.au</onlineUrl>
+            <role>PUBLISHER</role>
+        </associatedParty>
+        <pubDate>
+                2022-06-08
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            <para>Over the last decade, the Integrated Marine Observing System’s Animal Tracking Facility (IMOS ATF) has established a permanent array of acoustic receivers around Australia to detect the movements of tagged marine animals in coastal waters. Simultaneously, IMOS ATF developed a centralised national database (https://animaltracking.aodn.org.au/) to encourage collaborative research across the user community and provide unprecedented opportunities to quantify individual behaviour across a broad range of taxa. Here we present the database and quality control procedures developed to collate 67 million valid detections from 1891 receiving stations. This dataset consists of detection data for 7800 tags deployed on 154 species (fish, sharks, rays, reptiles, and mammals), with distances traveled ranging from a few to thousands of kilometres. This dataset of acoustic detections constitutes a valuable resource facilitating meta-analysis of animal movement, distributions, and habitat use, and is important for relating species distribution shifts with environmental covariates.</para>
+<para>This copy of the IMOS ATF data is of the valid detections downloaded via the IMOS Animal Tracking Portal at https://animaltracking.aodn.org.au/detection. This dataset has been summarized by reducing the detection records to the count of detections per animal per site per day (UTC). The DwC field organismId has been used to record the transmitter serial number. The initial deployment/release of the animal has also been added to the dataset via EMoF using an occurrenceId of the transmitter tag with a postfix of &amp;#39;-release&amp;#39;. Parameters include transmitter type, length and weight of the released animal.</para>
+<para>Downloads of the detection, deployments and receiver stations are  from https://animaltracking.aodn.org.au/detection accessed in 2021-01-04</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <additionalInfo>
+            <para>marine, harvested by OBIS</para>
+        </additionalInfo>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">https://portal.aodn.org.au/search?uuid=0ede6b3d-8635-472f-b91c-56a758b4e091</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://www.marine.csiro.au/ipt/archive.do?r=imos_atf_ad</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Australian shelf waters,and some river systems</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>110.391</westBoundingCoordinate>
+                    <eastBoundingCoordinate>156.973</eastBoundingCoordinate>
+                    <northBoundingCoordinate>-9.449</northBoundingCoordinate>
+                    <southBoundingCoordinate>-44.965</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2001-01-22
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2021-12-05
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Elasmobranchii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Actinopterygii</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Reptilia</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Cephalopoda</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>continually</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Xavier</givenName>
+                <surName>Hoenner</surName>
+            </individualName>
+            <organizationName>Australian Ocean Data Network, Integrated Marine Observing System University of Tasmania,</organizationName>
+            <positionName>Research Scientist</positionName>
+            <address>
+                <deliveryPoint>Private Bag 110</deliveryPoint>
+                <city>Hobart</city>
+                <administrativeArea>Tasmania</administrativeArea>
+                <postalCode>7001</postalCode>
+                <country>AUSTRALIA</country>
+            </address>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:47Z</dateStamp>
+                <citation>Users of IMOS data are required to clearly acknowledge the source material by including the following statement:
+
+&quot;Australia’s Integrated Marine Observing System (IMOS) is enabled by the National Collaborative Research Infrastructure Strategy (NCRIS).
+It is operated by a consortium of institutions as an unincorporated joint venture, with the University of Tasmania as Lead Agent.&quot; https://doi.org/10.15468/3h7tnh accessed via GBIF.org on 2025-10-11.</citation>
+                <bibliography>
+                <citation identifier="10.4225/69/5979810a7dd6f ">Hoenner X, Huveneers C, Steckenreuter A, Simpfendorfer C, Tattersall K, Jaine F, Atkins N, Babcock R, Brodie S, Burgess J, Campbell H, Heupel M, Pasquer P, Proctor R, Taylor MD, Udyawer V, Harcourt R (2017), Australia’s continental-scale acoustic tracking database and its automated quality control process. Australian Ocean Data Network. doi:10.4225/69/5979810a7dd6f</citation>
+                </bibliography>
+                <resourceLogoUrl>http://ogc-act.csiro.au/ipt/logo.do?r=imos_atf_ad</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

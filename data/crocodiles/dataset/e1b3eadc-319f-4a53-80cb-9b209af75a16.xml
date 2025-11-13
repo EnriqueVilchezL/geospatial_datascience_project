@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="e1b3eadc-319f-4a53-80cb-9b209af75a16"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/78bce2</alternateIdentifier>
+        <alternateIdentifier>e1b3eadc-319f-4a53-80cb-9b209af75a16</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=monitoreo_comunitario_canaguaro_sabanas_inundables</alternateIdentifier>
+        <title>Monitoreo comunitario en Sabanas inundables de Tauramena y Monterrey (Bloque Canaguaro)</title>
+        <creator>
+            <individualName>
+                <surName>Frontera Energy Colombia Corp.</surName>
+            </individualName>
+            <organizationName>Frontera Energy Colombia Corp.</organizationName>
+            <positionName>Empresa</positionName>
+            <address>
+                <deliveryPoint>Calle 110 No. 9 ‑ 25</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>xcastro@fronteraenergy.ca</electronicMailAddress>
+            <onlineUrl>https://www.fronteraenergy.ca/es/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <surName>ABC Colombia somos territorio</surName>
+            </individualName>
+            <organizationName>ABC Colombia somos territorio</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Cra 39 # 15-35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dir.biodiversidad@abccolombia.org</electronicMailAddress>
+            <onlineUrl>https://abccolombia.org/</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>ABC Colombia somos territorio</surName>
+            </individualName>
+            <organizationName>ABC Colombia somos territorio</organizationName>
+            <positionName>Organización</positionName>
+            <address>
+                <deliveryPoint>Cra 39 # 15-35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dir.biodiversidad@abccolombia.org</electronicMailAddress>
+            <onlineUrl>https://abccolombia.org/</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Ximena Andrea</givenName>
+                <surName>Castro Ordoñez</surName>
+            </individualName>
+            <organizationName>Frontera Energy Corp.</organizationName>
+            <positionName>Profesional Ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 110 No. 9 ‑ 25</deliveryPoint>
+                <city>Bogotá</city>
+                <administrativeArea>D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6015112000</phone>
+            <electronicMailAddress>xcastro@fronteraenergy.ca</electronicMailAddress>
+            <onlineUrl>https://www.fronteraenergy.ca/es/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">ximena-andrea-castro-o-32138a71/</userId>
+            <role>OWNER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Carolina</givenName>
+                <surName>Valencia</surName>
+            </individualName>
+            <organizationName>ABC Colombia, Somos Territorio</organizationName>
+            <positionName>Mastozoóloga</positionName>
+            <address>
+                <deliveryPoint>Cra 39 # 15 -35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <postalCode>850001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>carolinapb09@gmail.com</electronicMailAddress>
+            <onlineUrl>https://abccolombia.org/</onlineUrl>
+            <userId directory="http://www.researcherid.com/rid/">Carolina-Valencia-Berrio</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Jhonny</givenName>
+                <surName>Riay</surName>
+            </individualName>
+            <organizationName>ABC Colombia, Somos Territorio</organizationName>
+            <positionName>Ingeniero Forestal</positionName>
+            <address>
+                <deliveryPoint>Cra 39 # 15 -35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <postalCode>850001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>agroforestaldaniel@gmail.com</electronicMailAddress>
+            <onlineUrl>https://abccolombia.org/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">jhonny-riay-b0aa698b/?trk=contact-info</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Cándida</givenName>
+                <surName>Caicedo</surName>
+            </individualName>
+            <organizationName>ABC Colombia, Somos Territorio</organizationName>
+            <positionName>Ornitólogo</positionName>
+            <address>
+                <deliveryPoint>Cra 39 # 15 -35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <postalCode>850001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>candida.caicedo@unillanos.edu.co</electronicMailAddress>
+            <onlineUrl>https://abccolombia.org/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">candida-caicedo-6001b3225/?originalSubdomain=co</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Wilmer</givenName>
+                <surName>Gutierrez</surName>
+            </individualName>
+            <organizationName>ABC Colombia, Somos Territorio</organizationName>
+            <positionName>Herpetólogo</positionName>
+            <address>
+                <deliveryPoint>Carrera 39 # 15 -35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <postalCode>850001</postalCode>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>gutierrezwilmer94@gmail.com</electronicMailAddress>
+            <onlineUrl>https://abccolombia.org/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">wilmer-alejandro-gutierrez-lozano</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2025-01-09
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            <para>Este recurso detalla los resultados de un ejercicio de monitoreo comunitario de flora y fauna, acompañado por profesionales especialistas en los grupos taxonómicos de flora, anfibios, reptiles, aves y mamíferos en las veredas La Lucha (Tauramena) y Palmira (Monterrey),  El trabajo en campo se desarrolló entre el 25 de junio al 07 de julio de 2024. En cada vereda se eligió con la comunidad un predio en buen estado de conservación y otro con un alto grado de intervención, con el fin de evidenciar los efectos en la composición y abundancia de la flora y fauna.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>composición</keyword>
+            <keyword>Sabanas inundables</keyword>
+            <keyword>Tauramena</keyword>
+            <keyword>fauna</keyword>
+            <keyword>flora</keyword>
+            <keyword>abundancia</keyword>
+            <keyword>Monterrey</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/sib/archive.do?r=monitoreo_comunitario_canaguaro_sabanas_inundables</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>El área de estudio es una zona con alta intervención arrocera y de ganadería con pastos introducidos. Sin embargo se mantienen algunos predios de ganadería extensiva con coberturas naturales como bosques de galería y herbazales. 
+El ecosistema corresponde al paisaje de sabanas inundables y piedemonte. Geopolíticamente se ubica en las veredas La Lucha del municipio de Tauramena y Palmira del municipio de Monterrey (Casanare)</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.744</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.704</eastBoundingCoordinate>
+                    <northBoundingCoordinate>4.829</northBoundingCoordinate>
+                    <southBoundingCoordinate>4.714</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2024-06-25
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2024-07-04
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Este estudio abarcó 1.080 registros biológicos de los grupos de flora, anfibios, reptiles, mamíferos y aves. Un 84.3% está identificado a nivel de especie, un 15% género y un 0.2% a familia.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                    <commonName>Aves</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Mammalia</taxonRankValue>
+                    <commonName>mamíferos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Amphibia</taxonRankValue>
+                    <commonName>anfibios</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    <commonName>dicotiledóneas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Polypodiopsida</taxonRankValue>
+                    <commonName>helechos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Lycopodiopsida</taxonRankValue>
+                    <commonName>Briofitas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Liliopsida</taxonRankValue>
+                    <commonName>Monocotiledoneas</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Crocodylia</taxonRankValue>
+                    <commonName>cocodrilos</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Squamata</taxonRankValue>
+                    <commonName>Reptiles escamados</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Testudines</taxonRankValue>
+                    <commonName>Tortugas</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Ximena Andrea</givenName>
+                <surName>Castro Ordoñez</surName>
+            </individualName>
+            <organizationName>Frontera Energy Corp.</organizationName>
+            <positionName>Profesional Ambiental</positionName>
+            <address>
+                <deliveryPoint>Calle 110 No. 9 ‑ 25</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>6015112000</phone>
+            <electronicMailAddress>xcastro@fronteraenergy.ca</electronicMailAddress>
+            <onlineUrl>https://www.fronteraenergy.ca/es/</onlineUrl>
+            <userId directory="https://www.linkedin.com/profile/view?id=">ximena-andrea-castro-o-32138a71/</userId>
+        </contact>
+        <contact>
+            <individualName>
+                <givenName>Beatriz</givenName>
+                <surName>Ramírez</surName>
+            </individualName>
+            <organizationName>ABC Colombia, Somos Territorio</organizationName>
+            <positionName>Directora Conservación</positionName>
+            <address>
+                <deliveryPoint>Cra 39 # 15 -35</deliveryPoint>
+                <city>Yopal</city>
+                <administrativeArea>Casanare</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>dir.biodiversidad@abccolombia.org</electronicMailAddress>
+            <onlineUrl>https://abccolombia.org/</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0003-4368-4003</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Anfibios y reptiles: Se realizaron recorridos de búsqueda libre  de individuos de anfibios y reptiles, realizando búsquedas en las diferentes unidades del paisaje, prestando especial atención en microhábitats preferidos por los organismos. Los muestreos se realizaron de 8:00 am a 10:00 pm y en la noche de 6:00 pm a 10:00 pm. Las especies detectadas fueron fotografiadas in situ, se realizó la identificación y se registró la información del avistamiento</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: El muestreo se realizó durante 4 días efectivos en cada unidad de muestreo, implementando dos metodologías: transectos variables de observación y la captura con redes de niebla. La metodología se llevó a cabo por una profesional ornitóloga que estuvo acompañada de un aprendiz diferente cada día, el aprendiz se instruyó en cada una de las técnicas de muestreo mencionadas y se realizó el intercambio de conocimientos entre los aprendices y el profesional. Las redes se abrieron en los horarios de mayor actividad de las aves, de 5:30 a 10:00 am y las observaciones se realizaron en la tarde de 3:00 a 6:00 pm</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: se instalaron 5 cámaras trampa a 40 centímetros del suelo, ubicadas de manera aleatoria éstas se programaron para estar activas las 24 horas y se configuraron para tomar tres fotografías y un video de 15 segundos por cada estimulo activador. También se instalaron 120 m de redes de niebla para captura de murciélagos y recorridos de búsqueda libre para detectar evidencias u observar mamíferos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Flora: Se montaron 10 parcelas de 0.1 ha en cada uno de los predios evaluados y parcelas de regeneración anidadas.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área de estudio es una zona con alta intervención arrocera y de ganadería con pastos introducidos. Sin embargo, se mantienen algunos predios de ganadería extensiva con coberturas naturales como bosques de galería y herbazales. 
+El ecosistema corresponde al paisaje de sabanas inundables y piedemonte. Geopolíticamente se ubica en las veredas La Lucha del municipio de Tauramena y Palmira del municipio de Monterrey (Casanare)</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Anfibios y reptiles: Se realizaron recorridos de búsqueda libre  de individuos de anfibios y reptiles, realizando búsquedas en las diferentes unidades del paisaje, prestando especial atención en microhábitats preferidos por los organismos. Los muestreos se realizaron de 8:00 am a 10:00 pm y en la noche de 6:00 pm a 10:00 pm. Las especies detectadas fueron fotografiadas in situ, se realizó la identificación y se registró la información del avistamiento 
+
+Aves: El muestreo se realizó durante 4 días efectivos en cada unidad de muestreo, implementando dos metodologías: transectos variables de observación y la captura con redes de niebla. La metodología se llevó a cabo por una profesional ornitóloga que estuvo acompañada de un aprendiz diferente cada día, el aprendiz se instruyó en cada una de las técnicas de muestreo mencionadas y se realizó el intercambio de conocimientos entre los aprendices y el profesional. Las redes se abrieron en los horarios de mayor actividad de las aves, de 5:30 a 10:00 am y las observaciones se realizaron en la tarde de 3:00 a 6:00 pm
+
+Mamíferos: se instalaron 5 cámaras trampa a 40 centímetros del suelo, ubicadas de manera aleatoria éstas se programaron para estar activas las 24 horas y se configuraron para tomar tres fotografías y un video de 15 segundos por cada estimulo activador. También se instalaron 120 m de redes de niebla para captura de muricégos y recorridos de búsqueda libre para detectar evidencias u observar mamíferos. 
+
+Flora: Se montaron 10 parcelas de 0.1 ha en cada uno de los predios evaluados y parcelas de regeneración anidadas.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Los datos se colectan en campo empleando un formato en Excel diseñado para obtener la información necesaria para la generación de las capas y tablas de la GDB y desarrollar los análisis de datos. Una vez se reciben las matrices de datos se desarrolla un proceso de revisión y validación que consiste en:
+ 
+1. Corroborar que hay correspondencia entre los ID de los puntos de muestreo con los ID de los registros de muestreo. 
+2. Validar los nombres científicos de acuerdo con el GBIF. 
+3. Comprobar que las coordenadas coincidan con el área de estudio y los sectores seleccionados.
+4. Validar las opciones de los diferentes campos requeridos en la GDB&quot;</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Monitoreo comunitario en Sabanas inundables de Tauramena y Monterrey (Bloque Canaguaro)</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Ximena Andrea</givenName>
+                    <surName>Castro Ordoñez</surName>
+                    </individualName>
+            <userId directory="https://www.linkedin.com/profile/view?id=">ximena-andrea-castro-o-32138a71/</userId>
+                    <role>OWNER</role>
+                </personnel>
+                <abstract>
+                    <para>Este informe detalla los resultados de un ejercicio de monitoreo comunitario de flora y fauna, acompañado por profesionales especialistas en los grupos taxonómicos de flora, anfibios, reptiles, aves y mamíferos en las veredas La Lucha (Tauramena) y Palmira (Monterrey). En cada vereda se eligió con la comunidad un predio en buen estado de conservación y otro con un alto grado de intervención, con el fin de evidenciar los efectos en la composición y abundancia de la flora y fauna.</para>
+                </abstract>
+                <funding>
+                    <para>Frontera Energy Corp</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>El área de estudio es una zona con alta intervención arrocera y de ganadería con pastos introducidos. Sin embargo se mantienen algunos predios de ganadería extensiva con coberturas naturales como bosques de galería y herbazales. 
+El ecosistema corresponde al paisaje de sabanas inundables y piedemonte. Geopolíticamente se ubica en las veredas La Lucha del municipio de Tauramena y Palmira del municipio de Monterrey (Casanare)</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Por cada vereda se dedicaron 4 días efectivos de muestreo de cada predio (conservado vs intervenido) en cada vereda, con rotación por los diferentes grupos taxonómicos de las personas locales que se sumaron al programa de formación de promotores de biodiversidad de sus veredas. Los métodos de muestreo son los estandarizados y se detallarán en la siguiente sección.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:04:20Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/78bce2">Frontera Energy Colombia Corp., ABC Colombia somos territorio (2025). Monitoreo comunitario en Sabanas inundables de Tauramena y Monterrey (Bloque Canaguaro). Version 2.1. Frontera Energy Colombia Corp. Occurrence dataset https://doi.org/10.15472/78bce2 accessed via GBIF.org on 2025-10-11.</citation>
+                <resourceLogoUrl>https://raw.githubusercontent.com/SIB-Colombia/logos/main/socio-SiB-frontera.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

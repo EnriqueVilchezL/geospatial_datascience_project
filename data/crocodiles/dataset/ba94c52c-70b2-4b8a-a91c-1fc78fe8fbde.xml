@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="ba94c52c-70b2-4b8a-a91c-1fc78fe8fbde"  system="http://gbif.org" scope="system"
+xml:lang="es">
+    <dataset>
+        <alternateIdentifier>10.15472/larzxa</alternateIdentifier>
+        <alternateIdentifier>ba94c52c-70b2-4b8a-a91c-1fc78fe8fbde</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=anfi-rept_canocristales_2017</alternateIdentifier>
+        <title>Anfibios y Reptiles de Caño Cristales, La Macarena, Meta</title>
+        <creator>
+            <individualName>
+                <givenName>Lucas</givenName>
+                <surName>Barrientos</surName>
+            </individualName>
+            <organizationName>Universidad de los Andes</organizationName>
+            <positionName>Estudiante de Doctorado</positionName>
+            <address>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 3202767</phone>
+            <electronicMailAddress>lucas.barrientos@gmail.com</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Monica Andrea</givenName>
+                <surName>Morales Betancourt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigador adjunto 1</positionName>
+            <address>
+                <deliveryPoint>calle 28a 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 3202767</phone>
+            <electronicMailAddress>mmorales@humboldt.org.co</electronicMailAddress>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <surName>Infraestructura Institucional de Datos</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <address>
+                <deliveryPoint>Calle 28A No. 15-09</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 3202767</phone>
+            <electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>
+            <onlineUrl>http://www.humboldt.org.co</onlineUrl>
+            <role>CUSTODIAN_STEWARD</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Monica</givenName>
+                <surName>Morales-Betancourt</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <positionName>Investigador adjunto 1</positionName>
+            <address>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>mmorales@humboldt.org.co</electronicMailAddress>
+            <role>POINT_OF_CONTACT</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Carlos</givenName>
+                <surName>Lasso</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>
+            <positionName>Investigador senior</positionName>
+            <address>
+                <city>Bogotá</city>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>classo@humboldt.org.co</electronicMailAddress>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Lucas</givenName>
+                <surName>Barrientos</surName>
+            </individualName>
+            <organizationName>Universidad de los Andes</organizationName>
+            <address>
+                <city>Bogotá</city>
+                <country>COLOMBIA</country>
+            </address>
+            <electronicMailAddress>lucas.barrientos@gmail.com</electronicMailAddress>
+            <role>AUTHOR</role>
+        </associatedParty>
+        <pubDate>
+                2019-06-26
+        </pubDate>
+        <language>SPANISH</language>
+        <abstract>
+            Conjunto de datos de los registros biológicos (observación humana y colectas) de los grupos de anfibios y reptiles (125 registros); información tomada en el marco del estudio integral de los recursos hidrobiológicos y la fauna silvestre de Caño Cristales, La Macarena, Meta. Convenio N°16-164 Cormacarena- Instituto Humboldt.
+        </abstract>
+        <keywordSet>
+            <keyword>Escudo Guayanés</keyword>
+            <keyword>DMI La Macarena</keyword>
+            <keyword>Orinoquia</keyword>
+            <keyword>Herpetofauna</keyword>
+            <keyword>Inventario</keyword>
+            <keywordThesaurus>NA</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=anfi-rept_canocristales_2017</url>
+            </online>
+        </distribution>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.biodiversidad.co/iavh/archive.do?r=anfi-rept_canocristales_2017</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Distito de Manejo Integrado La Macarena, adyacente a la sierra de La Macarena</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.79</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-73.72</eastBoundingCoordinate>
+                    <northBoundingCoordinate>2.31</northBoundingCoordinate>
+                    <southBoundingCoordinate>2.24</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2016-10-24
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2016-11-02
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Se registraron 49 especies. Anura con cinco familias y 28 especies, Squamata con ocho familias y 13 especies, Testudines con tres familias y cinco especies, Crocodylia una familia y tres especies.</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Pipidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Microhylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Craugastoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Bufonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leptodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Hylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Alligatoridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Chelidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Kinosternidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Testudinidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Podocnemididae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Viperidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Leptotyphlopidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Elapidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Colubridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Boidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dipsadidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Tropiduridae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Sphaerodactylidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Iguanidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Gekkonidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Dactyloidae</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Family</taxonRankName>
+                    <taxonRankValue>Teiidae</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <purpose><para>Aportar al inventario de la fauna silvestre de caño Cristales y áreas adyacentes</para></purpose>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Monica</givenName>
+                <surName>Morales</surName>
+            </individualName>
+            <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+            <positionName>Investigador adjunto 1</positionName>
+            <address>
+                <deliveryPoint>Calle 28a 15-08</deliveryPoint>
+                <city>Bogotá, D.C.</city>
+                <administrativeArea>Bogotá, D.C.</administrativeArea>
+                <country>COLOMBIA</country>
+            </address>
+            <phone>+57 3202767</phone>
+            <electronicMailAddress>mmorales@humboldt.org.co</electronicMailAddress>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>Para las especies terrestres, los muestreos se realizaron desde el nivel del suelo hasta un máximo de 3 metros, para un esfuerzo total de 192 horas/hombre, de las cuales 72 fueron diurnas y 120 nocturnas. La búsqueda de los individuos se realizó a través de búsquedas libres (VES) con captura manual. Para las especies acuáticas, se realizaron los recorridos libres en la noche entre las 19:00 y las 23:00 horas, caminando por las orillas o por el centro (en el caso de aguas someras) del cuerpo de agua.  También se utilizó el buceo autónomo y captura manual, entre las 9:00 y las 12:00 en los caños de aguas claras (Cristales y Barro). Se instalaron trampas de embudo (90 cm de diámetro con 1,5 pulgadas de ojo de malla), las cuales se dejaron aproximadamente 12 horas por sitio de muestreo.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Distrito de Manejo Integrado de los Recursos Naturales Renovables La Macarena zona sur, La Macarena. El área de estudio incluyó el área adyacente a cinco afluentes directos del río Guayabero: Morichal caño Cajuche, Caño Cristales o La Ceiba, sistema de Laguna El Silencio y caño Barro</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El trabajo de campo se realizó entre el 24 de octubre y el 2 de noviembre de 2016. Se realizaron exploraciones diurnas entre las 8:00 y las 12:00 horas y nocturnas entre las 18:00 y las 23:00 horas. Para poder abarcar las diferentes horas de actividad de anfibios y reptiles y se visitaron todos los ambientes posibles: bosque de tierra firme, bosque de galería (inundable o no), morichales, sabanas, potreros y zonas aledañas a viviendas. Dentro de estos, se muestrearon todos los microhábitats posibles, incluyendo 13 estaciones de muestreo</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+
+            <project >
+                <title>Estudio sobre los recursos hidrobiológicos y la fauna silvestre, con miras a su conservación y uso sostenible en Caño Cristales, sierra de La Macarena, Meta</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Carlos</givenName>
+                    <surName>Lasso</surName>
+                    </individualName>
+                    <role>PRINCIPAL_INVESTIGATOR</role>
+                </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para>Corporación para el Desarrollo Sostenible del Área de Manejo Especial La Macarena-Cormacarena y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (Convenio No. 16-164)</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>Distrito de Manejo Integrado de los Recursos Naturales Renovables La Macarena zona sur, La Macarena. El área de estudio incluyó cinco afluentes directos del río Guayabero: Morichal caño Cajuche, Caño Cristales o La Ceiba, sistema de Laguna El Silencio y caño Barro</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>Evaluación rápida de la fauna silvestre de Caño Cristales y sus alrrededores, en la época seca  de 2016 donde se inventarió los siguientes grupos: macroinvertebrados acuáticos, peces, anfibios, reptiles, aves y mamíferos.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-10-11T19:03:51Z</dateStamp>
+                <citation identifier="http://doi.org/10.15472/larzxa">Barrientos L, Morales Betancourt M A (2019). Anfibios y Reptiles de Caño Cristales, La Macarena, Meta. Version 1.2. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/larzxa accessed via GBIF.org on 2025-10-11.</citation>
+                <physical>
+                    <objectName>Anfibios y Reptiles de Caño Cristales, La Macarena, Meta</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>.txt</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=anfi-rept_canocristales_2017</url>
+                        </online>
+                    </distribution>
+                </physical>
+                <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+                <collection>
+                    <parentCollectionIdentifier>N/A</parentCollectionIdentifier>
+                    <collectionIdentifier>IAvH-Am, IAvH-R</collectionIdentifier>
+                    <collectionName>Colección de anfibios y reptiles del Instituto Humboldt</collectionName>
+                </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>
