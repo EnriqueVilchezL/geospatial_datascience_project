@@ -2,15 +2,18 @@
 
 ## Setup commands
 - Install deps: `uv sync`
-- Start dev server: `uv run src/app.py`
-- add depencies to project: `uvx add <package-name>`
+- Start dev server: `uv run streamlit run src/app.py`
+- add depencies to project: `uv add <package-name>`
 
 ## Development
 - lint and check after changes: `uvx ruff format .` and `uvx ruff check --fix .` 
 - type check: `uvx pyrefly check .` 
 
 ## Code style
-- dry, clean, solid. Type hints always using modern syntax (e.g. list[int], not List[int])
+- dry, clean, solid code following best software engineering practices. Even for small scripts. 
+- Type hints always using modern syntax (e.g. list[int], not List[int])
 - trailing commas always for readability
 - named parameters for functions with more than 1 parameter
 - prefer match-case instead of if elses when it makes sense and it is cleaner, that includes type checking.
+- use loguru for logging, never print statements
+- when adding indents to logs, prints or message, make sure to use proper string formatting, not manual spaces.

@@ -1,23 +1,62 @@
-import folium
+"""Aplicación principal de análisis geoespacial de Crocodilia.
+
+Sistema académico profesional para visualización y análisis de datos de biodiversidad.
+"""
+
 import geopandas as gpd
-import pandas as pd
-import plotly.express as px
 import polars as pl
 import streamlit as st
-from branca.colormap import LinearColormap
-from folium.plugins import MarkerCluster
-from streamlit_folium import folium_static
 
+from components import (
+    render_empty_state,
+    render_footer,
+    render_header,
+    render_metrics_dashboard,
+    render_section_header,
+)
 from config import COUNTRY_DATA_SOURCE, CROCODILE_DATA_SOURCE
+from styles import get_custom_css
+from translations import (
+    ANALYTICS_TOP_SPECIES_DESCRIPTION,
+    ANALYTICS_TOP_SPECIES_TITLE,
+    DISTRIBUTION_CHOROPLETH_DESCRIPTION,
+    DISTRIBUTION_CHOROPLETH_TITLE,
+    DISTRIBUTION_POINTS_DESCRIPTION,
+    DISTRIBUTION_POINTS_TITLE,
+    FILTER_SPECIES_HELP,
+    FILTER_SPECIES_LABEL,
+    FILTER_TOP_N_HELP,
+    FILTER_TOP_N_LABEL,
+    MSG_NO_DATA,
+    OVERVIEW_DESCRIPTION,
+    OVERVIEW_TITLE,
+    SIDEBAR_FILTERS_TITLE,
+    TAB_ANALYTICS,
+    TAB_DATA_TABLE,
+    TAB_DISTRIBUTION,
+    TAB_OVERVIEW,
+    TABLE_DESCRIPTION,
+    TABLE_RECORDS_LABEL,
+    TABLE_TITLE,
+)
+from visualization import (
+    create_top_species_chart,
+    render_choropleth_map,
+    render_point_map,
+)
 
 # ------------------------------------------------------------
 # CONFIGURATION
 # ------------------------------------------------------------
 st.set_page_config(
-    page_title="Identificador de Cocodrilos",
+    page_title="Sistema de Análisis Geoespacial de Crocodilia",
+    page_icon="🐊",
     layout="wide",
-    initial_sidebar_state="collapsed",
+    initial_sidebar_state="expanded",
 )
+
+# Aplicar CSS personalizado
+st.markdown(body=get_custom_css(), unsafe_allow_html=True)
 
 
 # ------------------------------------------------------------
@@ -25,14 +64,8 @@ st.set_page_config(
 # ------------------------------------------------------------
 @st.cache_data(show_spinner=False)
 def load_crocodiles_data() -> gpd.GeoDataFrame:
-    """Cargar datos de ocurrencia de cocodrilos y convertir a GeoDataFrame."""
-    # We use Polars for efficient CSV loading
-    data = pl.read_csv(
-        source=CROCODILE_DATA_SOURCE,
-        separator="\t",
-        quote_char=None,
-        truncate_ragged_lines=True,
-    )
+    """Cargar datos de ocurrencia de cocodrilos desde Parquet."""
+    data = pl.read_parquet(source=CROCODILE_DATA_SOURCE)
     df = data.to_pandas()
     gdf = gpd.GeoDataFrame(
         data=df,
@@ -48,286 +81,171 @@ def load_crocodiles_data() -> gpd.GeoDataFrame:
 @st.cache_data(show_spinner=False)
 def load_country_data() -> gpd.GeoDataFrame:
     """Cargar datos geoespaciales de países."""
-    gdf = gpd.read_file(COUNTRY_DATA_SOURCE)
-    # Asegurarnos de que los datos del país estén en EPSG:4326 para operaciones espaciales
+    gdf = gpd.read_file(filename=COUNTRY_DATA_SOURCE)
     if gdf.crs is None:
-        gdf = gdf.set_crs("EPSG:4326")
+        gdf = gdf.set_crs(crs="EPSG:4326")
     elif gdf.crs.to_string() != "EPSG:4326":
-        gdf = gdf.to_crs("EPSG:4326")
-    return gpd.GeoDataFrame(
-        data=gdf,
-        geometry="geometry",
-        crs=gdf.crs,
-    )
+        gdf = gdf.to_crs(crs="EPSG:4326")
+    return gdf
 
 
 # ------------------------------------------------------------
-# DATA PROCESSING FUNCTIONS
+# DATA CLEANING FUNCTIONS
 # ------------------------------------------------------------
 def clean_crocodile_data(data: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
-    """Conservar columnas relevantes y asegurar que la geometría se preserve."""
-    columns = [
-        "species",
-        "acceptedScientificName",
-        "decimalLatitude",
-        "decimalLongitude",
-        "geometry",
-    ]
-    data = data.loc[:, columns].copy()
-    data = data.rename(
-        columns={
-            "species": "Especie",
-            "acceptedScientificName": "Nombre científico",
-            "decimalLatitude": "Latitud",
-            "decimalLongitude": "Longitud",
-        }
-    )
-    match data:
-        case gpd.GeoDataFrame():
-            pass
-        case _:
-            data = gpd.GeoDataFrame(
-                data=data,
-                geometry=gpd.points_from_xy(
-                    x=data["Longitud"],
-                    y=data["Latitud"],
-                ),
-                crs="EPSG:4326",
-            )
-    data = gpd.GeoDataFrame(
-        data=data,
-        geometry="geometry",
-        crs=data.crs,
-    )
-    return data
+    """Limpiar datos brutos de ocurrencias de cocodrilos."""
+    cleaned = data.dropna(subset=["species", "decimalLatitude", "decimalLongitude"]).copy()
+    cleaned.rename(columns={"species": "Especie"}, inplace=True)
+    return cleaned
 
 
-def compute_species_counts(data: pd.DataFrame | gpd.GeoDataFrame, top_n: int = 10) -> pd.DataFrame:
-    """Contar las ocurrencias de cocodrilos por especie."""
-    counts = (
-        data["Especie"]
-        .value_counts()
-        .reset_index()
-        .rename(
-            columns={
-                "index": "Especie",
-                "count": "Registros",
-            }
-        )
-        .head(top_n)
-    )
-    return counts
+@st.cache_data(show_spinner=False)
+def load_and_clean_data() -> tuple[gpd.GeoDataFrame, gpd.GeoDataFrame]:
+    """Cargar y limpiar datos de cocodrilos (cached).
+
+    Returns:
+        Tupla con (datos_limpios, datos_sin_limpiar).
+    """
+    raw_data = load_crocodiles_data()
+    cleaned_data = clean_crocodile_data(data=raw_data)
+    return cleaned_data, raw_data
 
 
-# ------------------------------------------------------------
-# VISUALIZATION FUNCTIONS
-# ------------------------------------------------------------
-def plot_species_bar_chart(species_counts: pd.DataFrame) -> None:
-    """Crear un gráfico de barras con las ocurrencias por especie."""
-    fig = px.bar(
-        data_frame=species_counts,
-        x="Especie",
-        y="Registros",
-        color="Registros",
-        color_continuous_scale="Viridis",
-        title="Top 10 especies de cocodrilos por número de registros",
-    )
-
-    fig.update_layout(
-        xaxis_tickangle=-45,
-        plot_bgcolor="rgba(0,0,0,0)",
-        paper_bgcolor="rgba(0,0,0,0)",
-        font={"size": 12},
-    )
-    st.plotly_chart(figure_or_data=fig, use_container_width=True)
-
-
-def create_point_map(data: gpd.GeoDataFrame) -> None:
-    """Crear un mapa con puntos de ocurrencia usando clustering para mejorar rendimiento."""
-    with st.spinner("Cargando mapa de puntos..."):
-        m = folium.Map(location=[10, 10], zoom_start=2, tiles="cartodb positron")
-        marker_cluster = MarkerCluster().add_to(m)
-
-        # Añadir marcadores con popups
-        for _, row in data.iterrows():
-            # Saltar puntos sin geometría
-            if row.geometry is None or row.geometry.is_empty:
-                continue
-            lat = row.geometry.y
-            lon = row.geometry.x
-            popup_html = (
-                f"<b>Especie:</b> {row.get('Especie', 'Desconocida')}<br/>"
-                f"<b>Nombre científico:</b> {row.get('Nombre científico', 'Desconocido')}"
-            )
-            folium.Marker(
-                location=[lat, lon],
-                popup=folium.Popup(
-                    html=popup_html,
-                    max_width=300,
-                ),
-            ).add_to(marker_cluster)
-        folium_static(
-            fig=m,
-            width=1100,
-            height=600,
-        )
-
-
-def create_choropleth_map(data: gpd.GeoDataFrame, countries: gpd.GeoDataFrame) -> None:
-    """Crear un mapa coroplético que muestre la diversidad de especies de cocodrilos por país."""
-    with st.spinner("Cargando mapa coroplético..."):
-        try:
-            joined = gpd.sjoin(
-                left_df=data,
-                right_df=countries,
-                predicate="intersects",
-            )
-        except Exception as e:
-            st.error(f"Error al realizar la unión espacial: {e}")
-            return
-
-        if joined.empty:
-            st.warning("No hay registros de ocurrencias para las especies seleccionadas.")
-            return
-
-        species_counts = (
-            joined.groupby("NAME")["Especie"].nunique().reset_index(name="Especies únicas")
-        )
-
-        # Merge counts with country polygons
-        countries_merged = countries.merge(
-            right=species_counts,
-            on="NAME",
-            how="left",
-        )
-        # Reconstruir como GeoDataFrame para conservar geometría y CRS
-        countries = gpd.GeoDataFrame(
-            data=countries_merged,
-            geometry="geometry",
-            crs=countries.crs,
-        )
-        countries["Especies únicas"] = countries["Especies únicas"].fillna(0)
-
-        countries = gpd.GeoDataFrame(
-            data=countries.dropna(subset=["geometry"]),
-            geometry="geometry",
-            crs=countries.crs,
-        )
-
-        m = folium.Map(location=[10, 10], zoom_start=2, tiles="cartodb positron")
-
-        # Build a LinearColormap explicitly using the YlGnBu 9-class ColorBrewer hex palette
-        vmin = float(countries["Especies únicas"].min())
-        vmax = float(countries["Especies únicas"].max())
-        # Evitar problema cuando vmin == vmax
-        if vmin == vmax:
-            if vmin == 0.0:
-                vmin, vmax = 0.0, 1.0
-            else:
-                vmin, vmax = vmin - 0.5, vmax + 0.5
-        colormap = LinearColormap(
-            colors=[
-                "#ffffd9",
-                "#edf8b1",
-                "#c7e9b4",
-                "#7fcdbb",
-                "#41b6c4",
-                "#1d91c0",
-                "#225ea8",
-                "#253494",
-                "#081d58",
-            ],
-            vmin=vmin,
-            vmax=vmax,
-        )
-
-        folium.GeoJson(
-            data=countries,
-            style_function=lambda feature: {
-                "fillColor": colormap(feature["properties"]["Especies únicas"]),
-                "color": "black",
-                "weight": 0.4,
-                "fillOpacity": 0.7,
-            },
-            highlight_function=lambda feature: {
-                "weight": 2,
-                "color": "black",
-                "fillOpacity": 0.9,
-            },
-            tooltip=folium.features.GeoJsonTooltip(
-                fields=["NAME", "Especies únicas"],
-                aliases=["País:", "Especies únicas:"],
-                localize=True,
-            ),
-        ).add_to(m)
-
-        colormap.caption = "Especies únicas de cocodrilos por país"
-        colormap.add_to(m)
-
-        folium_static(
-            fig=m,
-            width=1100,
-            height=600,
-        )
+@st.cache_data(show_spinner=False)
+def get_species_options(_data: gpd.GeoDataFrame) -> list[str]:
+    """Obtener lista única de especies (cached, con underscore para evitar hashing)."""
+    return sorted(_data["Especie"].unique().tolist())
 
 
 # ------------------------------------------------------------
 # MAIN APP LOGIC
 # ------------------------------------------------------------
 def main() -> None:
-    st.title("Panel de Identificación de Cocodrilos")
+    """Aplicación principal con diseño académico profesional."""
+    # Renderizar header
+    render_header()
 
-    # Load data
-    with st.spinner("Cargando datos de ocurrencia de cocodrilos..."):
-        data = load_crocodiles_data()
-    st.success("¡Datos de cocodrilos cargados correctamente!")
-
-    with st.spinner("Cargando datos geoespaciales de países..."):
+    # Cargar datos
+    with st.spinner("Cargando datos..."):
+        data, raw_data = load_and_clean_data()
         countries = load_country_data()
-    st.success("¡Datos de países cargados correctamente!")
 
-    # Clean and display
-    data = clean_crocodile_data(data)
-    st.markdown("### Datos de ocurrencia de cocodrilos (desde GBIF)")
-    # Sidebar filters
-    species_options = sorted(data["Especie"].dropna().unique())
-    selected_species = st.sidebar.multiselect(
-        label="Filtrar por especie:",
-        options=species_options,
+    # Sidebar con filtros
+    with st.sidebar:
+        st.markdown(f"### {SIDEBAR_FILTERS_TITLE}")
+
+        species_options = get_species_options(_data=data)
+        selected_species = st.multiselect(
+            label=FILTER_SPECIES_LABEL,
+            options=species_options,
+            help=FILTER_SPECIES_HELP,
+        )
+
+        top_n = st.slider(
+            label=FILTER_TOP_N_LABEL,
+            min_value=5,
+            max_value=20,
+            value=10,
+            help=FILTER_TOP_N_HELP,
+        )
+
+    # Aplicar filtros
+    filtered_data = data[data["Especie"].isin(selected_species)] if selected_species else data
+
+    # Validar datos
+    if len(filtered_data) == 0:
+        render_empty_state(
+            title="Sin datos",
+            message=MSG_NO_DATA,
+        )
+        return
+
+    # Dashboard de métricas
+    render_metrics_dashboard(
+        data=filtered_data,
+        raw_data=raw_data,
+        country_data=countries,
     )
-    map_type = st.sidebar.selectbox(
-        label="Tipo de mapa:",
-        options=[
-            "Coroplético",
-            "Puntos",
+
+    # Tabs principales
+    tab1, tab2, tab3, tab4 = st.tabs(
+        [
+            TAB_OVERVIEW,
+            TAB_DISTRIBUTION,
+            TAB_ANALYTICS,
+            TAB_DATA_TABLE,
         ],
     )
 
-    filtered_data = data[data["Especie"].isin(selected_species)] if selected_species else data
-    # Asegurarnos de que `filtered_data` sea un GeoDataFrame
-    match filtered_data:
-        case gpd.GeoDataFrame():
-            pass
-        case _:
-            filtered_data = gpd.GeoDataFrame(
-                data=filtered_data,
-                geometry="geometry",
-                crs=data.crs,
+    with tab1:
+        render_section_header(
+            title=OVERVIEW_TITLE,
+            description=OVERVIEW_DESCRIPTION,
+        )
+
+        col1, col2 = st.columns(2)
+        with col1:
+            st.metric(
+                label="Total de Registros",
+                value=f"{len(filtered_data):,}",
+            )
+        with col2:
+            st.metric(
+                label="Especies Únicas",
+                value=filtered_data["Especie"].nunique(),
             )
 
-    st.dataframe(data=filtered_data, hide_index=True, use_container_width=True)
+    with tab2:
+        render_section_header(
+            title=DISTRIBUTION_POINTS_TITLE,
+            description=DISTRIBUTION_POINTS_DESCRIPTION,
+        )
+        render_point_map(data=filtered_data)
 
-    # Bar chart
-    st.markdown("### Top 10 especies de cocodrilos por número de registros")
-    species_counts = compute_species_counts(pd.DataFrame(data=filtered_data))
-    plot_species_bar_chart(species_counts)
+        st.markdown("---")
 
-    # Choropleth map
-    st.markdown("### Ocurrencias globales de cocodrilos por país")
-    if map_type == "Coroplético":
-        create_choropleth_map(filtered_data, countries)
-    else:
-        create_point_map(filtered_data)
+        render_section_header(
+            title=DISTRIBUTION_CHOROPLETH_TITLE,
+            description=DISTRIBUTION_CHOROPLETH_DESCRIPTION,
+        )
+        render_choropleth_map(
+            data=filtered_data,
+            country_data=countries,
+        )
+
+    with tab3:
+        render_section_header(
+            title=ANALYTICS_TOP_SPECIES_TITLE,
+            description=ANALYTICS_TOP_SPECIES_DESCRIPTION,
+        )
+        create_top_species_chart(
+            data=filtered_data,
+            top_n=top_n,
+        )
+
+    with tab4:
+        render_section_header(
+            title=TABLE_TITLE,
+            description=TABLE_DESCRIPTION,
+        )
+
+        num_records = st.slider(
+            label=TABLE_RECORDS_LABEL,
+            min_value=10,
+            max_value=1000,
+            value=100,
+            step=10,
+        )
+
+        display_data = filtered_data.drop(columns=["geometry"]).head(num_records)
+        st.dataframe(
+            data=display_data,
+            hide_index=True,
+            width="stretch",
+        )
+
+    # Footer
+    render_footer()
 
 
 # ------------------------------------------------------------
