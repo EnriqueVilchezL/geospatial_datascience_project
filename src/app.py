@@ -130,7 +130,6 @@ def get_species_options(_data: gpd.GeoDataFrame) -> list[str]:
 # ------------------------------------------------------------
 def main() -> None:
     """Aplicación principal con diseño académico profesional."""
-
     # Renderizar header
     render_header()
 
@@ -261,5 +260,7 @@ def main() -> None:
 # RUN APP
 # ------------------------------------------------------------
 if __name__ == "__main__":
-
-    main()
+    try:
+        main()
+    except Exception as e:
+        st.error(f"An error occurred: {e}")
