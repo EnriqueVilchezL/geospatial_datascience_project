@@ -65,7 +65,7 @@ st.markdown(body=get_custom_css(), unsafe_allow_html=True)
 @st.cache_data(show_spinner=False)
 def load_crocodiles_data() -> gpd.GeoDataFrame:
     """Cargar datos de ocurrencia de cocodrilos desde Parquet."""
-    data = pl.read_parquet(source=CROCODILE_DATA_SOURCE)
+    data = pl.read_parquet(source=os.path.join(DATA_DIR, CROCODILE_DATA_SOURCE))
     df = data.to_pandas()
     gdf = gpd.GeoDataFrame(
         data=df,
@@ -81,7 +81,7 @@ def load_crocodiles_data() -> gpd.GeoDataFrame:
 @st.cache_data(show_spinner=False)
 def load_country_data() -> gpd.GeoDataFrame:
     """Cargar datos geoespaciales de países."""
-    gdf = gpd.read_file(filename=COUNTRY_DATA_SOURCE)
+    gdf = gpd.read_file(filename=os.path.join(DATA_DIR, COUNTRY_DATA_SOURCE))
     if gdf.crs is None:
         gdf = gdf.set_crs(crs="EPSG:4326")
     elif gdf.crs.to_string() != "EPSG:4326":
@@ -122,13 +122,6 @@ def get_species_options(_data: gpd.GeoDataFrame) -> list[str]:
 # ------------------------------------------------------------
 def main() -> None:
     """Aplicación principal con diseño académico profesional."""
-    import os
-    import sys
-
-    # Ensure repo root is on PYTHONPATH
-    ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    if ROOT not in sys.path:
-        sys.path.append(ROOT)
 
     # Renderizar header
     render_header()
@@ -260,4 +253,12 @@ def main() -> None:
 # RUN APP
 # ------------------------------------------------------------
 if __name__ == "__main__":
+    import os
+    import sys
+
+    # Ensure repo root is on PYTHONPATH
+    ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    if ROOT not in sys.path:
+        sys.path.append(ROOT)
+    DATA_DIR = os.path.join(ROOT, "data")
     main()
