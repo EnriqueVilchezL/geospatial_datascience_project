@@ -130,137 +130,137 @@ def get_species_options(_data: gpd.GeoDataFrame) -> list[str]:
 # ------------------------------------------------------------
 def main() -> None:
     """Aplicación principal con diseño académico profesional."""
-    # Renderizar header
-    render_header()
+    try:
+        # Renderizar header
+        render_header()
 
-    # Cargar datos
-    with st.spinner("Cargando datos..."):
-        data, raw_data = load_and_clean_data()
-        countries = load_country_data()
+        # Cargar datos
+        with st.spinner("Cargando datos..."):
+            data, raw_data = load_and_clean_data()
+            countries = load_country_data()
 
-    # Sidebar con filtros
-    with st.sidebar:
-        st.markdown(f"### {SIDEBAR_FILTERS_TITLE}")
+        # Sidebar con filtros
+        with st.sidebar:
+            st.markdown(f"### {SIDEBAR_FILTERS_TITLE}")
 
-        species_options = get_species_options(_data=data)
-        selected_species = st.multiselect(
-            label=FILTER_SPECIES_LABEL,
-            options=species_options,
-            help=FILTER_SPECIES_HELP,
-        )
-
-        top_n = st.slider(
-            label=FILTER_TOP_N_LABEL,
-            min_value=5,
-            max_value=20,
-            value=10,
-            help=FILTER_TOP_N_HELP,
-        )
-
-    # Aplicar filtros
-    filtered_data = data[data["Especie"].isin(selected_species)] if selected_species else data
-
-    # Validar datos
-    if len(filtered_data) == 0:
-        render_empty_state(
-            title="Sin datos",
-            message=MSG_NO_DATA,
-        )
-        return
-
-    # Dashboard de métricas
-    render_metrics_dashboard(
-        data=filtered_data,
-        raw_data=raw_data,
-        country_data=countries,
-    )
-
-    # Tabs principales
-    tab1, tab2, tab3, tab4 = st.tabs(
-        [
-            TAB_OVERVIEW,
-            TAB_DISTRIBUTION,
-            TAB_ANALYTICS,
-            TAB_DATA_TABLE,
-        ],
-    )
-
-    with tab1:
-        render_section_header(
-            title=OVERVIEW_TITLE,
-            description=OVERVIEW_DESCRIPTION,
-        )
-
-        col1, col2 = st.columns(2)
-        with col1:
-            st.metric(
-                label="Total de Registros",
-                value=f"{len(filtered_data):,}",
-            )
-        with col2:
-            st.metric(
-                label="Especies Únicas",
-                value=filtered_data["Especie"].nunique(),
+            species_options = get_species_options(_data=data)
+            selected_species = st.multiselect(
+                label=FILTER_SPECIES_LABEL,
+                options=species_options,
+                help=FILTER_SPECIES_HELP,
             )
 
-    with tab2:
-        render_section_header(
-            title=DISTRIBUTION_POINTS_TITLE,
-            description=DISTRIBUTION_POINTS_DESCRIPTION,
-        )
-        render_point_map(data=filtered_data)
+            top_n = st.slider(
+                label=FILTER_TOP_N_LABEL,
+                min_value=5,
+                max_value=20,
+                value=10,
+                help=FILTER_TOP_N_HELP,
+            )
 
-        st.markdown("---")
+        # Aplicar filtros
+        filtered_data = data[data["Especie"].isin(selected_species)] if selected_species else data
 
-        render_section_header(
-            title=DISTRIBUTION_CHOROPLETH_TITLE,
-            description=DISTRIBUTION_CHOROPLETH_DESCRIPTION,
-        )
-        render_choropleth_map(
+        # Validar datos
+        if len(filtered_data) == 0:
+            render_empty_state(
+                title="Sin datos",
+                message=MSG_NO_DATA,
+            )
+            return
+
+        # Dashboard de métricas
+        render_metrics_dashboard(
             data=filtered_data,
+            raw_data=raw_data,
             country_data=countries,
         )
 
-    with tab3:
-        render_section_header(
-            title=ANALYTICS_TOP_SPECIES_TITLE,
-            description=ANALYTICS_TOP_SPECIES_DESCRIPTION,
-        )
-        create_top_species_chart(
-            data=filtered_data,
-            top_n=top_n,
-        )
-
-    with tab4:
-        render_section_header(
-            title=TABLE_TITLE,
-            description=TABLE_DESCRIPTION,
+        # Tabs principales
+        tab1, tab2, tab3, tab4 = st.tabs(
+            [
+                TAB_OVERVIEW,
+                TAB_DISTRIBUTION,
+                TAB_ANALYTICS,
+                TAB_DATA_TABLE,
+            ],
         )
 
-        num_records = st.slider(
-            label=TABLE_RECORDS_LABEL,
-            min_value=10,
-            max_value=1000,
-            value=100,
-            step=10,
-        )
+        with tab1:
+            render_section_header(
+                title=OVERVIEW_TITLE,
+                description=OVERVIEW_DESCRIPTION,
+            )
 
-        display_data = filtered_data.drop(columns=["geometry"]).head(num_records)
-        st.dataframe(
-            data=display_data,
-            hide_index=True,
-            width="stretch",
-        )
+            col1, col2 = st.columns(2)
+            with col1:
+                st.metric(
+                    label="Total de Registros",
+                    value=f"{len(filtered_data):,}",
+                )
+            with col2:
+                st.metric(
+                    label="Especies Únicas",
+                    value=filtered_data["Especie"].nunique(),
+                )
 
-    # Footer
-    render_footer()
+        with tab2:
+            render_section_header(
+                title=DISTRIBUTION_POINTS_TITLE,
+                description=DISTRIBUTION_POINTS_DESCRIPTION,
+            )
+            render_point_map(data=filtered_data)
+
+            st.markdown("---")
+
+            render_section_header(
+                title=DISTRIBUTION_CHOROPLETH_TITLE,
+                description=DISTRIBUTION_CHOROPLETH_DESCRIPTION,
+            )
+            render_choropleth_map(
+                data=filtered_data,
+                country_data=countries,
+            )
+
+        with tab3:
+            render_section_header(
+                title=ANALYTICS_TOP_SPECIES_TITLE,
+                description=ANALYTICS_TOP_SPECIES_DESCRIPTION,
+            )
+            create_top_species_chart(
+                data=filtered_data,
+                top_n=top_n,
+            )
+
+        with tab4:
+            render_section_header(
+                title=TABLE_TITLE,
+                description=TABLE_DESCRIPTION,
+            )
+
+            num_records = st.slider(
+                label=TABLE_RECORDS_LABEL,
+                min_value=10,
+                max_value=1000,
+                value=100,
+                step=10,
+            )
+
+            display_data = filtered_data.drop(columns=["geometry"]).head(num_records)
+            st.dataframe(
+                data=display_data,
+                hide_index=True,
+                width="stretch",
+            )
+
+        # Footer
+        render_footer()
+    except Exception as e:
+        st.error(f"An error occurred while running the app: {e}")
 
 
 # ------------------------------------------------------------
 # RUN APP
 # ------------------------------------------------------------
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as e:
-        st.error(f"An error occurred: {e}")
+    main()
