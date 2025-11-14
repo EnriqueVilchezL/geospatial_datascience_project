@@ -122,6 +122,14 @@ def get_species_options(_data: gpd.GeoDataFrame) -> list[str]:
 # ------------------------------------------------------------
 def main() -> None:
     """Aplicación principal con diseño académico profesional."""
+    import os
+    import sys
+
+    # Ensure repo root is on PYTHONPATH
+    ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    if ROOT not in sys.path:
+        sys.path.append(ROOT)
+
     # Renderizar header
     render_header()
 
