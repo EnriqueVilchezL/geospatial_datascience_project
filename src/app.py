@@ -75,7 +75,7 @@ try:
     @st.cache_data(show_spinner=False)
     def load_crocodiles_data() -> gpd.GeoDataFrame:
         """Cargar datos de ocurrencia de cocodrilos desde Parquet."""
-        data = pl.read_parquet(source=os.path.join(DATA_DIR, CROCODILE_DATA_SOURCE)).head(100)
+        data = pl.read_parquet(source=os.path.join(DATA_DIR, CROCODILE_DATA_SOURCE)).head(500)
         df = data.to_pandas()
         gdf = gpd.GeoDataFrame(
             data=df,
