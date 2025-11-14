@@ -9,6 +9,12 @@ import geopandas as gpd
 import polars as pl
 import streamlit as st
 
+# Ensure repo root is on PYTHONPATH
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if ROOT not in sys.path:
+    sys.path.append(ROOT)
+DATA_DIR = os.path.join(ROOT, "data")
+
 from components import (
     render_empty_state,
     render_footer,
@@ -46,12 +52,6 @@ from visualization import (
     render_choropleth_map,
     render_point_map,
 )
-
-# Ensure repo root is on PYTHONPATH
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-if ROOT not in sys.path:
-    sys.path.append(ROOT)
-DATA_DIR = os.path.join(ROOT, "data")
 
 # ------------------------------------------------------------
 # CONFIGURATION
