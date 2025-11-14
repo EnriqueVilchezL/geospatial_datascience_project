@@ -2,6 +2,8 @@
 
 Sistema académico profesional para visualización y análisis de datos de biodiversidad.
 """
+import os
+import sys
 
 import geopandas as gpd
 import polars as pl
@@ -44,6 +46,12 @@ from visualization import (
     render_choropleth_map,
     render_point_map,
 )
+
+# Ensure repo root is on PYTHONPATH
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if ROOT not in sys.path:
+    sys.path.append(ROOT)
+DATA_DIR = os.path.join(ROOT, "data")
 
 # ------------------------------------------------------------
 # CONFIGURATION
@@ -253,12 +261,5 @@ def main() -> None:
 # RUN APP
 # ------------------------------------------------------------
 if __name__ == "__main__":
-    import os
-    import sys
 
-    # Ensure repo root is on PYTHONPATH
-    ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    if ROOT not in sys.path:
-        sys.path.append(ROOT)
-    DATA_DIR = os.path.join(ROOT, "data")
     main()
